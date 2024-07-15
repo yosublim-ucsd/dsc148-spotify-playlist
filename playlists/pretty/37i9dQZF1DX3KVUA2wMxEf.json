@@ -1,6 +1,6 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 98246,
+  "num_followers": 98305,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+        "name": "Made In Jamaica",
+        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 259063,
-      "name": "Mi Balcon",
-      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
+      "duration_ms": 341026,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -179,18 +175,22 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Made In Jamaica",
-        "url": "https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 341026,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8"
+      "duration_ms": 259063,
+      "name": "Mi Balcon",
+      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
+        "name": "Gondwana",
+        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Armonia De Amor",
+      "url": "https://open.spotify.com/track/2CfWRsmVFEIJA3t5HBMvry"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -272,41 +288,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "Gondwana",
-        "url": "https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Armonia De Amor",
-      "url": "https://open.spotify.com/track/2CfWRsmVFEIJA3t5HBMvry"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
-        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Si El Amor Se Cae",
-      "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -323,6 +307,22 @@
       "duration_ms": 246400,
       "name": "International Love",
       "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Si El Amor Se Cae",
+      "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 263999,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/5oX7WtRFG6PnzhIRgmlTY7"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 263999,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo"
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -395,38 +411,6 @@
       "duration_ms": 206328,
       "name": "Lo M\u00e1s Sincero",
       "url": "https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "Forever Together !",
-        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 243864,
-      "name": "Te Robaste Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
+        "name": "Forever Together !",
+        "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 243864,
+      "name": "Te Robaste Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 249906,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
         "name": "No Me Dejes de Querer",
         "url": "https://open.spotify.com/album/1LJ3HPkh4xk1SzSGw8svfs"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+        "name": "Los Due\u00f1os De La Playa",
+        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
         }
       ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+      "duration_ms": 169832,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -731,22 +747,6 @@
       "duration_ms": 173967,
       "name": "Placer",
       "url": "https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
-        "name": "Los Due\u00f1os De La Playa",
-        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 169832,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2024-06-27 23:12:23",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-27 23:12:23",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
-    },
-    {
-      "added_at": "2024-06-27 23:12:23",
-      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/04MfLrwrB2ts8uHInFBWS1"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 231737,
       "name": "Prende",
       "url": "https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq"
+    },
+    {
+      "added_at": "2024-06-27 23:12:23",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2024-06-27 23:12:23",

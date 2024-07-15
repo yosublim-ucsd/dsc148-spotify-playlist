@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3482104,
+  "num_followers": 3481998,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -171,22 +187,6 @@
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
     },
     {
       "added_at": "2024-03-18 14:09:49",
@@ -419,22 +419,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -451,22 +447,6 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -507,6 +487,26 @@
       "duration_ms": 229400,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -559,30 +559,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
       },
@@ -611,26 +587,6 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Holy (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -667,22 +623,46 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 281066,
-      "name": "I'll Never Love Again - Film Version",
-      "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -703,6 +683,26 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "I'll Never Love Again - Film Version",
+      "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "America Town",
         "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "i don't want to watch the world end with someone else",
-        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "i don't want to watch the world end with someone else",
-      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "i don't want to watch the world end with someone else",
+        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "i don't want to watch the world end with someone else",
+      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Fire On Fire (From \"Watership Down\")",
-        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 246735,
-      "name": "Fire On Fire - From \"Watership Down\"",
-      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
+        "name": "Fire On Fire (From \"Watership Down\")",
+        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 265333,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
+      "duration_ms": 246735,
+      "name": "Fire On Fire - From \"Watership Down\"",
+      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -927,6 +911,22 @@
       "duration_ms": 190931,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/5tAa8Uaqr4VvA3693mbIhU"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "I Can't Fall in Love Without You",
+      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Jamie Lawson",
         "url": "https://open.spotify.com/album/3ILPSyU8RawO2YHZENdrmB"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 211400,
       "name": "You Make It Real",
       "url": "https://open.spotify.com/track/1Yw6ViCo3tuufI0Hg4mzSU"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "I Can't Fall in Love Without You",
-      "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Hey Stupid, I Love You",
-        "url": "https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Hey Stupid, I Love You",
-      "url": "https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 223561,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Hey Stupid, I Love You",
+        "url": "https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Hey Stupid, I Love You",
+      "url": "https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1295,38 +1295,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "7 Minutes",
-        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "7 Minutes",
-      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 177438,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -1339,6 +1307,22 @@
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "7 Minutes",
+        "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "7 Minutes",
+      "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/7AfbvLhUxPt0qOcXB2GTzY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 177438,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "golden thing",
         "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Truly Madly Completely - The Best of Savage Garden",
         "url": "https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164373,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1551,22 +1567,6 @@
       "duration_ms": 164202,
       "name": "imagine",
       "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164373,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/4XLu3tTSZiPFVC9mmuR6Zp"
     },
     {
       "added_at": "2022-12-08 16:33:34",

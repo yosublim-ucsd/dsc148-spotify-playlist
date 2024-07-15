@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 1243,
+  "num_followers": 1310,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
-      },
-      "artists": [
-        {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Blissful Dreams",
         "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 156190,
       "name": "Into the Reverie",
       "url": "https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 191470,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "In Search of Peace",
-        "url": "https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "A Breath of Fresh Air",
-      "url": "https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/2hVOlMI7GteBNwO90mflZd"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 268613,
       "name": "Luv Letter",
       "url": "https://open.spotify.com/track/60mjatPf9M1fXkBmei0ATb"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "In Search of Peace",
+        "url": "https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "A Breath of Fresh Air",
+      "url": "https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -559,6 +559,22 @@
       "duration_ms": 135575,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Sleeping Soul",
+        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 176769,
+      "name": "Eternal Beauty",
+      "url": "https://open.spotify.com/track/6Jsv1iMcvsn6d6XScz1dlq"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Sleeping Soul",
-        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 176769,
-      "name": "Eternal Beauty",
-      "url": "https://open.spotify.com/track/6Jsv1iMcvsn6d6XScz1dlq"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
-      },
-      "artists": [
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 128372,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Forest Shrine",
         "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190302,
       "name": "Forest Shrine",
       "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 128372,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+      },
+      "artists": [
+        {
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "22 Samurai",
+      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Koto Memories",
         "url": "https://open.spotify.com/album/4j8gPwwY6gBdMgky70xHTU"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 139107,
       "name": "Koto Memories",
       "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "22 Samurai",
-      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Nightingale",
         "url": "https://open.spotify.com/album/1g4MhZvlALeI44Qenem2kG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 157500,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/2Ne4JIzUtbBE2FupJc1zGF"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -975,18 +975,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Sunday Vibes",
-        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+        "name": "Beauty in the Ruins",
+        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
       },
       "artists": [
         {
-          "name": "W\u00fcnsche",
-          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 133668,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+      "duration_ms": 159200,
+      "name": "Flutters",
+      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Beauty in the Ruins",
-        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
+        "name": "Sunday Vibes",
+        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+          "name": "W\u00fcnsche",
+          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Flutters",
-      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
+      "duration_ms": 133668,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
-      },
-      "artists": [
-        {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 139650,
       "name": "Yakamoz",
       "url": "https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Mountain Onsen",
-        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Mountain Onsen",
-      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "home movies",
         "url": "https://open.spotify.com/album/1zGOEsbvEZz6RYhE7kytDF"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 112380,
       "name": "Agria",
       "url": "https://open.spotify.com/track/7nSmRv5o9XRQ1ZZfrcrAXF"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Mountain Onsen",
+        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Mountain Onsen",
+      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Planet Zen",
-        "url": "https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F"
+        "name": "Lightsaber Bar",
+        "url": "https://open.spotify.com/album/2yPvrBHrqMxbd5U3nrC5WL"
       },
       "artists": [
         {
-          "name": "karasu.",
-          "url": "https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae"
+          "name": "Chau Sara",
+          "url": "https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl"
         }
       ],
-      "duration_ms": 210410,
-      "name": "miracle",
-      "url": "https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O"
+      "duration_ms": 134108,
+      "name": "Naevys",
+      "url": "https://open.spotify.com/track/2MbQ2PuPkCiESkmFc0VGPZ"
     }
   ],
   "unique_name": "oriental lofi",

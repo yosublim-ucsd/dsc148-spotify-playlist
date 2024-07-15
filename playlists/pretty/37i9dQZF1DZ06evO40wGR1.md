@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 ### [This Is Liran' Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1)
 
-> This Is Liran' Roll\. Los temas esenciales, todos en una lista.
+> This is Liran' Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,348 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,363 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 49 | [Tu Cariño](https://open.spotify.com/track/5UGbVlpbOP666CxjZ1ma5A) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 2:38 |
 | 50 | [Sueño Loco \- Remastered 2000](https://open.spotify.com/track/5U0XaYTkNC2NwFYvHiRca9) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered 2000\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 2:56 |
 
-Snapshot ID: `ZpByAAAAAADrTYdAaPrvlTS6pwHtmFaQ`
+Snapshot ID: `ZpByAAAAAADmlejkWWB+2VD4ZJW17Km0`

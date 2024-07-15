@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Griff \(pictured\), Katy Perry, Ice Spice ft Central Cee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,718 likes - 120 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,757 likes - 120 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

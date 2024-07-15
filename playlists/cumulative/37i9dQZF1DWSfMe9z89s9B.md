@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Chenayder
 
-1,230 songs - 2 day 17 hr 7 min
+1,231 songs - 2 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-06-10 | 2022-12-03 |
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2024-05-24 |  |
 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 | 2024-06-29 |
-| [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 |  |
+| [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 | 2024-07-15 |
 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2022-04-01 | 2022-04-05 |
 | [LADY](https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [LADY](https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps) | 3:46 | 2024-04-12 |  |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-05-14 |
@@ -920,6 +920,7 @@
 | [serial recluse](https://open.spotify.com/track/7tX6hkMzHWscDSye5YL8ND) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Even Paradise Rains](https://open.spotify.com/album/71R3oT6BBvaGQwxOwr8Rx8) | 2:47 | 2024-01-12 |  |
 | [Set Me Free](https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Set Me Free](https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk) | 2:54 | 2022-12-02 | 2023-02-11 |
 | [Seventeen](https://open.spotify.com/track/3YwkASwnUSlrB4H6kPveVl) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [You Made A Big Mistake](https://open.spotify.com/album/3qaYBPGN5AdXS5nt0gPraS) | 3:10 | 2023-06-09 | 2023-06-17 |
+| [Shadow](https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Shadow](https://open.spotify.com/album/7n4NbaMVbblA9sIMzVXaej) | 2:51 | 2024-07-12 |  |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2022-04-01 | 2022-04-09 |
 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 | 2023-09-29 | 2024-06-29 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2022-12-03 |

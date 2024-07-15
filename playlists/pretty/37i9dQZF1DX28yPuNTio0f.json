@@ -1,6 +1,6 @@
 {
   "description": "The sound of Summer 2024! ",
-  "num_followers": 98629,
+  "num_followers": 98624,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -811,6 +811,30 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2024-01-04 02:49:10",
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": "2024-01-04 02:49:10",
-      "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": "2024-01-04 02:49:10",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-01-04 02:49:10",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
       },
       "artists": [
         {
-          "name": "Budjerah",
-          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 192103,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+      "duration_ms": 180527,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
     }
   ],
   "unique_name": "Summer Hits (3)",

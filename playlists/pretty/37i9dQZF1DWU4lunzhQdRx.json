@@ -1,6 +1,6 @@
 {
   "description": "are we okay? \ud83d\udc99",
-  "num_followers": 157789,
+  "num_followers": 157870,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "we don't fight anymore",
+        "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 220145,
+      "name": "we don't fight anymore",
+      "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
       },
@@ -187,22 +207,6 @@
       "duration_ms": 193320,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -223,22 +227,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "we don't fight anymore",
-        "url": "https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m"
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 220145,
-      "name": "we don't fight anymore",
-      "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
+      "duration_ms": 217120,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Back To December",
-      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
     },
     {
       "added_at": "2024-07-12 04:00:00",

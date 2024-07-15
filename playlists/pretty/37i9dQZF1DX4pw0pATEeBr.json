@@ -1,6 +1,6 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 107805,
+  "num_followers": 107880,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -167,18 +147,38 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 312820,
-      "name": "SICKO MODE",
-      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 198973,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "ROXANNE",
-        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "ROXANNE",
-      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
         "name": "Rolling Papers",
         "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
       },
@@ -387,6 +355,38 @@
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
+        "name": "ROXANNE",
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "ROXANNE",
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 217586,
       "name": "X Gon' Give It To Ya",
       "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 361978,
-      "name": "Es \u00c9pico",
-      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -711,22 +711,18 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "The Rising Tied",
-        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+        "name": "Viejo Marihuano",
+        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
       },
       "artists": [
         {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+      "duration_ms": 223560,
+      "name": "Cul\u00f3n Culito",
+      "url": "https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -751,8 +747,28 @@
     {
       "added_at": "2024-07-05 22:32:18",
       "album": {
-        "name": "NO SON KLLE",
-        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+      },
+      "artists": [
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
+        "name": "Ojos Tumbados",
+        "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
       "artists": [
         {
@@ -760,17 +776,25 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 223586,
-      "name": "NO SON KLLE",
-      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+      "duration_ms": 262720,
+      "name": "Ojos Tumbados",
+      "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -795,22 +819,6 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
-        "name": "Viejo Marihuano",
-        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Cul\u00f3n Culito",
-      "url": "https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -859,6 +867,30 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+    },
+    {
+      "added_at": "2024-07-05 22:32:18",
+      "album": {
+        "name": "NO SON KLLE",
+        "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "NO SON KLLE",
+      "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
     },
     {
       "added_at": "2024-07-05 22:32:18",
@@ -923,38 +955,6 @@
       "duration_ms": 309895,
       "name": "Esta Vida Me Encanta (feat. Zimple & Don Aero)",
       "url": "https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8"
-    },
-    {
-      "added_at": "2024-07-05 22:32:18",
-      "album": {
-        "name": "Ojos Tumbados",
-        "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        }
-      ],
-      "duration_ms": 262720,
-      "name": "Ojos Tumbados",
-      "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
     },
     {
       "added_at": "2024-07-05 22:32:18",

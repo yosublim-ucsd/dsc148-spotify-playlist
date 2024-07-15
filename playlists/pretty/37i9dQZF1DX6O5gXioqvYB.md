@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > La nuova scena indie italiana! Cover: ceneri
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,586 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,585 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

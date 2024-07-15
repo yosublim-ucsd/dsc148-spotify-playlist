@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 22 | [GIRL](https://open.spotify.com/track/0pGXe7umwkcCm01Ipoxp0U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:10 |
 | 23 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 24 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 |
-| 25 | [Say Nothing](https://open.spotify.com/track/7ILRMFESnEMNvY4r5YN77b) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/0XzZkJXmgnY3o2LbuPYmQg) | 3:52 |
-| 26 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
+| 25 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
+| 26 | [Say Nothing](https://open.spotify.com/track/7ILRMFESnEMNvY4r5YN77b) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/0XzZkJXmgnY3o2LbuPYmQg) | 3:52 |
 | 27 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |
 | 28 | [Preach](https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Preach](https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E) | 3:56 |
 | 29 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 130 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 131 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AbWnhgAAAAAPAgDLu0r/nc2++A+7MHrb`
+Snapshot ID: `AbWtJgAAAACNF8De0qSQxKgCIax8+yy/`

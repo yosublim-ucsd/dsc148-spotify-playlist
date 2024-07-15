@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 AINÉ in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,691 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,692 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 50 | [If I Let A White Man Cut My Hair](https://open.spotify.com/track/73AfE9BlV8eE2J5Lbe8weo) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [If I Let A White Man Cut My Hair](https://open.spotify.com/album/4sJ3xjwKXQbJerNRPxaMD5) | 3:18 |
 | 51 | [Fantasma](https://open.spotify.com/track/5i0MEjUkDVh4sv7oWBtqsc) | [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM) | [Fantasma](https://open.spotify.com/album/4eWgcPmGBu6SVR7OWPShDu) | 2:53 |
 | 52 | [Solo diamanti](https://open.spotify.com/track/29ZokjwQEz6D0Di4NRqhXe) | [Charlotte M.](https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M) | [Solo diamanti](https://open.spotify.com/album/42bQdfBiHqcduWK3aowMt1) | 2:41 |
-| 53 | [Bonjour Adieu](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 |
+| 53 | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 |
 | 54 | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/track/0nNplNrSFfg3aHBpKxTtnb) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [PAGINE BIANCHE \(feat\. EDONiCO\)](https://open.spotify.com/album/6aZusQBvOEJVForkNE7ZHX) | 2:46 |
 | 55 | [Non mi ricordo di te](https://open.spotify.com/track/6umdFIAMM3dDIUzkIqjkQQ) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Non mi ricordo di te](https://open.spotify.com/album/3oE3VJkbC5rejCbl7tE4Fx) | 2:39 |
 | 56 | [ALBA \(feat\. Don Pero\)](https://open.spotify.com/track/6yEONi0Pz5sO3zQLQLRcBz) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ALBA \(feat\. Don Pero\)](https://open.spotify.com/album/0VJgAQHJEVmOoTt28Bbopn) | 2:46 |

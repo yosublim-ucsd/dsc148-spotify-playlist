@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,925 songs - 4 day 7 hr 41 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,926 songs - 4 day 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1933,5 +1933,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1923 | [My Meds Aren't Working](https://open.spotify.com/track/3iubkenxO8JUJNp7phyVlb) | [Dystopia](https://open.spotify.com/artist/32lwvl98Ck0aCggYSMUlaR) | [Dystopia](https://open.spotify.com/album/6JDxhxRjAntUSWJN9HfRKc) | 4:01 |
 | 1924 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 |
 | 1925 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 |
+| 1926 | [All I Really Want Is You](https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:11 |
 
-Snapshot ID: `AAADJ7fWVUorCFFKKTcBFbZwkPCJjlmm`
+Snapshot ID: `AAADKO9x1KIA9CkETlGtE9Hy20cmukDv`

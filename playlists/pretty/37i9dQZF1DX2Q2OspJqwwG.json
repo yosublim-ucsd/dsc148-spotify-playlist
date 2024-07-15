@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 28616,
+  "num_followers": 28649,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,18 @@
     {
       "added_at": "2024-07-08 14:13:32",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2024-07-08 14:13:32",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-07-08 14:13:32",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2024-07-08 14:13:32",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-08 14:13:32",
       "album": {
-        "name": "Europapa",
-        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
-      },
-      "artists": [
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 160218,
-      "name": "Europapa",
-      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
-    },
-    {
-      "added_at": "2024-07-08 14:13:32",
-      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2024-07-08 14:13:32",
+      "album": {
+        "name": "Europapa",
+        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "duration_ms": 160218,
+      "name": "Europapa",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
     },
     {
       "added_at": "2024-07-08 14:13:32",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-08 14:13:32",
       "album": {
+        "name": "In Heat (2023 Remaster)",
+        "url": "https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg"
+      },
+      "artists": [
+        {
+          "name": "The Romantics",
+          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
+        }
+      ],
+      "duration_ms": 236625,
+      "name": "Talking In Your Sleep (2023 Remaster)",
+      "url": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1"
+    },
+    {
+      "added_at": "2024-07-08 14:13:32",
+      "album": {
         "name": "No Face",
         "url": "https://open.spotify.com/album/3L82FRbY7B5tk0CZDED1pi"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 275750,
       "name": "No Face",
       "url": "https://open.spotify.com/track/4C397XtpxJdRNCEmVav0gX"
-    },
-    {
-      "added_at": "2024-07-08 14:13:32",
-      "album": {
-        "name": "In Heat (2023 Remaster)",
-        "url": "https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg"
-      },
-      "artists": [
-        {
-          "name": "The Romantics",
-          "url": "https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE"
-        }
-      ],
-      "duration_ms": 236625,
-      "name": "Talking In Your Sleep (2023 Remaster)",
-      "url": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1"
     },
     {
       "added_at": "2024-07-08 14:13:32",
@@ -1791,38 +1791,6 @@
     {
       "added_at": "2024-07-08 14:13:32",
       "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
-    },
-    {
-      "added_at": "2024-07-08 14:13:32",
-      "album": {
-        "name": "Ciocolata",
-        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Ciocolata",
-      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
-    },
-    {
-      "added_at": "2024-07-08 14:13:32",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL"
       },
@@ -1835,6 +1803,42 @@
       "duration_ms": 146000,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
+    },
+    {
+      "added_at": "2024-07-08 14:13:32",
+      "album": {
+        "name": "Guli Guli (From \"Buzz House\" The Movie)",
+        "url": "https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Guli Guli - From \"Buzz House\" The Movie",
+      "url": "https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z"
+    },
+    {
+      "added_at": "2024-07-08 14:13:32",
+      "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

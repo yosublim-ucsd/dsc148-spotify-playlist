@@ -150,6 +150,24 @@
     {
       "album": {
         "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196222,
+      "name": "Arcadian Daze",
+      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
+    },
+    {
+      "album": {
+        "name": "Arcadian Daze",
         "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
       },
       "artists": [
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 341346,
       "name": "Haku - RUMTUM Remix",
       "url": "https://open.spotify.com/track/3TbCoXMQrw0DhfBDppxnU2"

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36231,
+  "num_followers": 36233,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Du kriegst mich nicht zur\u00fcck",
-        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Du kriegst mich nicht zur\u00fcck",
-      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Don't Stop The Car",
         "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 194013,
       "name": "Don't Stop The Car",
       "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Du kriegst mich nicht zur\u00fcck",
+        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Du kriegst mich nicht zur\u00fcck",
+      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Heaven or Hell",
         "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
@@ -383,18 +399,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+        "name": "Ready For It All",
+        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
         }
       ],
-      "duration_ms": 135866,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+      "duration_ms": 152816,
+      "name": "Ready For It All",
+      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -431,26 +451,6 @@
       "duration_ms": 176383,
       "name": "Alles was ich will",
       "url": "https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Ready For It All",
-        "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Ready For It All",
-      "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -615,6 +615,38 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 150794,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "2560",
+        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
+      },
+      "artists": [
+        {
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "2560",
+      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
       },
@@ -643,22 +675,6 @@
       "duration_ms": 182033,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "2560",
-        "url": "https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "2560",
-      "url": "https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -699,18 +715,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Flight Mode",
-        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
+        "name": "Home (The Voice Of Switzerland)",
+        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
       },
       "artists": [
         {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 150794,
-      "name": "Flight Mode",
-      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
+      "duration_ms": 201255,
+      "name": "Home - The Voice Of Switzerland",
+      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Home (The Voice Of Switzerland)",
-        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201255,
-      "name": "Home - The Voice Of Switzerland",
-      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 202587,
       "name": "Alright",
       "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        }
-      ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -799,34 +783,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
         }
       ],
-      "duration_ms": 153883,
-      "name": "Daredevil",
-      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
-      },
-      "artists": [
-        {
-          "name": "Marc Sway",
-          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -847,6 +815,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
+      },
+      "artists": [
+        {
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Zeilen f\u00fcr dich",
         "url": "https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 197506,
       "name": "Zeilen f\u00fcr dich",
       "url": "https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Daredevil",
+        "url": "https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 153883,
+      "name": "Daredevil",
+      "url": "https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "NEW FRIENDS",
+        "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
+      },
+      "artists": [
+        {
+          "name": "Skyler Wind",
+          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+        }
+      ],
+      "duration_ms": 173183,
+      "name": "NEW FRIENDS",
+      "url": "https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Remind Me (feat. Amanda Collis) [Radio Edit]",
         "url": "https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "NEW FRIENDS",
-        "url": "https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y"
+        "name": "i'm sry i love u",
+        "url": "https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm"
       },
       "artists": [
         {
-          "name": "Skyler Wind",
-          "url": "https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT"
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
         }
       ],
-      "duration_ms": 173183,
-      "name": "NEW FRIENDS",
-      "url": "https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf"
+      "duration_ms": 195655,
+      "name": "i'm sry i love u",
+      "url": "https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "i'm sry i love u",
-        "url": "https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm"
-      },
-      "artists": [
-        {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
-        }
-      ],
-      "duration_ms": 195655,
-      "name": "i'm sry i love u",
-      "url": "https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "babyboy",
         "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
       },
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Ellu",
+          "url": "https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 155268,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo"
     }
   ],
   "unique_name": "Swiss Made",

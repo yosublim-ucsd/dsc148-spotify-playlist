@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448862,
+  "num_followers": 448873,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "no reply",
-        "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
-      },
-      "artists": [
-        {
-          "name": "aUra Lu",
-          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "no reply",
-      "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "fingerlock",
         "url": "https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 126500,
       "name": "fingerlock",
       "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "no reply",
+        "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
+      },
+      "artists": [
+        {
+          "name": "aUra Lu",
+          "url": "https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "no reply",
+      "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "clear blue atmosphere",
         "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Now, I See",
-      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Memories Fade",
-        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 147474,
-      "name": "Memories Fade",
-      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "If You Want Me",
         "url": "https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 171428,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Memories Fade",
+        "url": "https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "duration_ms": 147474,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
         "name": "Palettes",
         "url": "https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 131162,
       "name": "We Are Safe Here.",
       "url": "https://open.spotify.com/track/0a2q5SUFudT2x9Ce56hGIL"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2024-06-14 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2388459,
+  "num_followers": 2388687,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 335624,
       "name": "Umaasa",
       "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Uhaw (Tayong Lahat)",
         "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 241185,
       "name": "Uhaw (Tayong Lahat)",
       "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "JKL",
+        "url": "https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Demonyo",
+      "url": "https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "panaginip",
         "url": "https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 256571,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
     }
   ],
   "unique_name": "OPM Favorites",

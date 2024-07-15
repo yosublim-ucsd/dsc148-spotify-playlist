@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 121651,
+  "num_followers": 121698,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Higher State Of Consciousness",
+        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Higher State of Consciousness - Tweekin Acid Funk",
+      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Blade The Soundtrack",
         "url": "https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 612101,
       "name": "Confusion - Pump Panel Reconstruction Mix",
       "url": "https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Higher State Of Consciousness",
-        "url": "https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 377960,
-      "name": "Higher State of Consciousness - Tweekin Acid Funk",
-      "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Phuture And Other Classics From DJ Pierre",
         "url": "https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 134800,
       "name": "Cornish Acid",
       "url": "https://open.spotify.com/track/5b1Ux2Mw6WLaasgmf4sBQ4"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Warsaw - White Light Version",
+      "url": "https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM"
     }
   ],
   "unique_name": "303 Classics",

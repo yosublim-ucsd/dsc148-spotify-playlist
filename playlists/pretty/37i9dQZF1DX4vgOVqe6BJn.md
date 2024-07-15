@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,598 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,617 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 17 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
 | 18 | [Rips in Jeans](https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Rips in Jeans](https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0) | 2:43 |
 | 19 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 |
-| 20 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:30 |
-| 21 | [Behind The Sun](https://open.spotify.com/track/0dhKGbQFIUnfjozzISQvuj) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 4:10 |
+| 20 | [Behind The Sun](https://open.spotify.com/track/0dhKGbQFIUnfjozzISQvuj) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 4:10 |
+| 21 | [Zatoichi \[Feat\. slowthai\]](https://open.spotify.com/track/7jn0ATNNqtWgDk8wLYa3gw) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 3:30 |
 | 22 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
 | 23 | [Kuzola](https://open.spotify.com/track/2aDPkl4GCO2b53goL5Ia4W) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Baia](https://open.spotify.com/album/1u5tVyHknrgMtdMW2i6TLG) | 3:55 |
 | 24 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 70 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 71 | [Better](https://open.spotify.com/track/5zaDzuxKea73orX9RodvRU) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Better](https://open.spotify.com/album/55RZv5u9hsPT7QMwioGIvY) | 2:34 |
 | 72 | [T.T.Y.N.](https://open.spotify.com/track/6qhrjDnGgfSsVOLaRBWn3v) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [T.T.Y.N.](https://open.spotify.com/album/3uulBOCnvOz8ZhYyvx2cis) | 3:06 |
-| 73 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
-| 74 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
+| 73 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
+| 74 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 75 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
 | 76 | [Green Light \(feat\. Kate Wild\) \- Moksi Remix](https://open.spotify.com/track/0CCbpCeGnyoYxzczLw19wQ) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Green Light \(feat\. Kate Wild\) \[Moksi Remix\]](https://open.spotify.com/album/4Mxc0za7jRSrvLRVV5ZsLD) | 3:10 |
 | 77 | [SHOWBIZ](https://open.spotify.com/track/1ZzE7bxApIhK9mnumXxUQy) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [SHOWBIZ](https://open.spotify.com/album/0iJFu1erjoKbUak1UdT5oi) | 2:44 |

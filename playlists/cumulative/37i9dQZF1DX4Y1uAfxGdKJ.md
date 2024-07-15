@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-189 songs - 10 hr 37 min
+192 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dangerous Thing](https://open.spotify.com/track/1XvuCcjK1Q3R8e0U2axlet) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [Dangerous Thing](https://open.spotify.com/album/6drNv63YJsrNEu9dS96TaI) | 3:13 | 2022-09-23 |  |
 | [Data](https://open.spotify.com/track/1cglvs3RiyEQWO6jQyIgeu) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Data](https://open.spotify.com/album/0kQuIjj1U02ppcvhRWiGNr) | 2:46 | 2024-01-23 |  |
 | [Day to Day](https://open.spotify.com/track/6GsMZvIYPA1ZZT2Cf9hnUE) | [Robbert Hek](https://open.spotify.com/artist/5pCyrXY4JPw6EmwayVDhOK) | [Day to Day](https://open.spotify.com/album/1tB3DosWrTXSnQb11a3wms) | 3:16 | 2022-09-23 | 2023-07-18 |
+| [DELI](https://open.spotify.com/track/02lzHihYd4L7OEu6hz414D) | [my friend stue](https://open.spotify.com/artist/06YdsRPyz0kIuwt5Fb3yXE) | [DELI](https://open.spotify.com/album/7hQT2tI4BbH98MLWvW7EZ7) | 3:12 | 2024-07-14 |  |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2022-09-23 |  |
 | [destined](https://open.spotify.com/track/6cHARzJkr12k7Tido9BdCZ) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [destined](https://open.spotify.com/album/2QnVkxR2azevRsD95iQXdO) | 3:18 | 2022-10-14 |  |
 | [Determination](https://open.spotify.com/track/3Xxt0tIwZXTAdVGTysU5uy) | [Guille Bianchetti](https://open.spotify.com/artist/3JqwtW5C92SUeX85A9DrRy) | [Determination](https://open.spotify.com/album/71Zr1m0srLoB48UBBMoQ30) | 4:42 | 2022-09-23 | 2023-07-18 |
@@ -89,6 +90,7 @@
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
 | [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 | 2023-03-10 |
 | [If I Tried](https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [If I Tried](https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33) | 2:33 | 2023-09-01 |  |
+| [If You Say So](https://open.spotify.com/track/3IppHec07ScWmamyuKYtLc) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [If You Say So](https://open.spotify.com/album/6axhsdjQzJqKkElmcernqx) | 6:14 | 2024-07-14 |  |
 | [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 | 2022-12-23 | 2024-04-19 |
 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 |  |
 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 | 2022-09-23 |  |
@@ -130,6 +132,7 @@
 | [Papaya Jam](https://open.spotify.com/track/18r0EwxSFYaA9D7Ja8T7PV) | [Vince Violet](https://open.spotify.com/artist/4rEFfTuw86reS4wKHIp9Np) | [Papaya Jam](https://open.spotify.com/album/6N7kr8dVsXln1zxE7lglLr) | 2:12 | 2023-03-17 |  |
 | [Paper Hearts](https://open.spotify.com/track/1BsdE859H1FaOnEfnm2A5X) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Paper Hearts](https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL) | 2:40 | 2022-09-23 | 2023-07-18 |
 | [Past Eleven](https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL) | [Tiles Square](https://open.spotify.com/artist/5d7LjYFnNNpIQbnh3zlFkI) | [Past Eleven](https://open.spotify.com/album/0kQhu6DLrWNJRY4qUa9moP) | 2:06 | 2023-02-17 |  |
+| [Pedala](https://open.spotify.com/track/4MQXZ3uWZeEO9KsYSszuSH) | [Damian Parker](https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg) | [Pedala](https://open.spotify.com/album/3UAX2ZXemEYzSNtYseVoVI) | 2:50 | 2024-07-14 |  |
 | [Piano Man](https://open.spotify.com/track/57nluTSCxSSYvgrWaqdE9J) | [Piankow](https://open.spotify.com/artist/3oiqntF7hzsfY8HghMi1rT) | [Piano Man](https://open.spotify.com/album/0n7wZMmkSV7FMmB1BO9r1S) | 3:06 | 2023-12-01 | 2024-02-06 |
 | [Polar](https://open.spotify.com/track/3CkFs9nquXcv4VsHnsvhJ5) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Polar](https://open.spotify.com/album/40QMSxAcbxjVpqnsIorPMX) | 4:34 | 2023-04-14 |  |
 | [Pomegranate](https://open.spotify.com/track/2mwoZ2aQjHtzoyuTXkiQTt) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Pomegranate](https://open.spotify.com/album/1M3AFo4YY0SMNxyb3Ih7pr) | 2:24 | 2023-10-02 |  |

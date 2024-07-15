@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This is \u30c7\u30d5\u30fb\u30ec\u30d1\u30fc\u30c9\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "name": "This Is \u30c7\u30d5\u30fb\u30ec\u30d1\u30fc\u30c9",
+  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
+  "name": "This Is Def Leppard",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 320164,
       "name": "All I Want Is Everything",
       "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 278917,
       "name": "Lady Strange",
       "url": "https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 247739,
       "name": "Mirror Mirror (Look Into My Eyes)",
       "url": "https://open.spotify.com/track/67vJBne1NXsWAyjWb96m6p"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 183200,
       "name": "Switch 625",
       "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 256486,
       "name": "Two Steps Behind - String / Acoustic Version",
       "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 423016,
       "name": "White Lightning",
       "url": "https://open.spotify.com/track/4tcYRfRxsgo7yMEAmSAoB6"

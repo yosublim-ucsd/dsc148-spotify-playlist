@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,662 songs - 4 day 20 hr 37 min
+1,663 songs - 4 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Bring Me To Life \- Demo / Remastered 2023](https://open.spotify.com/track/7FEjJLwvoedqAG5j1loQQu) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Bring Me To Life \(Demo / Remastered\)](https://open.spotify.com/album/0DfHqikBacUYVH6OjO4MPd) | 3:52 | 2023-09-29 | 2023-10-14 |
 | [Bring Me To Life \- Live On Triple M’s Garage Session / 2020 / Remastered 2023](https://open.spotify.com/track/558sFNXvHZWWOzbsDaeak2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen \(Deluxe Edition / Remastered 2023\)](https://open.spotify.com/album/1l60K3wSsZjJDfeAvnkZw5) | 3:41 | 2023-11-17 | 2023-12-17 |
 | [Budapest \- Live \- Remastered 2023](https://open.spotify.com/track/0rjwoRP5XV7SMSj38sq1bR) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Live in Switzerland \(Remastered 2023\)](https://open.spotify.com/album/1DLdNlZoXWPL3ooXijwcEI) | 11:26 | 2023-10-27 | 2023-11-05 |
-| [Buddy Holly \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 2:43 | 2024-06-28 |  |
+| [Buddy Holly \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 2:43 | 2024-06-28 | 2024-07-15 |
 | [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 | 2024-04-12 | 2024-05-04 |
 | [Buffalo Soldier](https://open.spotify.com/track/3W1I6GPK5Gs2u1f74Sy16y) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Africa Unite](https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY) | 4:51 | 2023-08-25 | 2023-09-04 |
 | [Burden](https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Burden](https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx) | 4:05 | 2024-05-24 | 2024-06-16 |
@@ -1528,6 +1528,7 @@
 | [Under My Umbrella](https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Under My Umbrella](https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy) | 3:40 | 2024-04-05 | 2024-05-05 |
 | [Under The Gun \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/7ojinRhPIWAKoEYs8otazn) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 4:21 | 2023-05-05 | 2023-05-07 |
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-19 | 2023-05-27 |
+| [Undone \- The Sweater Song \- Spotify Anniversaries Version \- Live](https://open.spotify.com/track/0VIKs4QgaxvY0lYdUAAnUI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The 30th Anniversary of Weezer \| Spotify Anniversaries LIVE](https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S) | 3:27 | 2024-07-12 |  |
 | [Unforgivable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-17 | 2024-05-26 |
 | [United States Of Division](https://open.spotify.com/track/42IywCSd29OYc49Nfpxzcb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [United States Of Division](https://open.spotify.com/album/2SCgxaMeSnN22J653SEp6Q) | 6:18 | 2024-04-05 | 2024-04-27 |
 | [Unleashed \- Live At The AFAS Live](https://open.spotify.com/track/2gaiyrkOh1h6ZGLgQzHdEC) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Unleashed \(Live At The AFAS Live\)](https://open.spotify.com/album/3qVoBrfrnckLER6pzeVlfk) | 6:01 | 2023-06-09 | 2023-07-02 |

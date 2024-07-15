@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACCT3ABxvtJrcI4sBWDZIf0",
+  "snapshot_id": "AAAAAAAAAACOJIEp+8tlblnWUFUjhWBV",
   "tracks": [
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Ashes To Ashes (Revisited)",
-        "url": "https://open.spotify.com/album/2KwG1w1iKx3cnQViznjdBy"
-      },
-      "artists": [
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 363560,
-      "name": "Ashes to Ashes - Revisited",
-      "url": "https://open.spotify.com/track/6AePgxJZ7JhE1okItkkfBX"
-    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -43,22 +27,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Se\u00f1or Tiempo",
-        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
+        "name": "Ashes To Ashes (Revisited)",
+        "url": "https://open.spotify.com/album/2KwG1w1iKx3cnQViznjdBy"
       },
       "artists": [
         {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
         }
       ],
-      "duration_ms": 340638,
-      "name": "Se\u00f1or Tiempo",
-      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
+      "duration_ms": 363560,
+      "name": "Ashes to Ashes - Revisited",
+      "url": "https://open.spotify.com/track/6AePgxJZ7JhE1okItkkfBX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -91,6 +71,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "The Cave We Fear To Enter",
+        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "The Cave We Fear to Enter",
+      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Plays Metallica, Vol. 2",
         "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
       },
@@ -111,18 +107,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Cave We Fear To Enter",
-        "url": "https://open.spotify.com/album/17NEYsWWUrE1vhgPzS11n6"
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
         }
       ],
-      "duration_ms": 307000,
-      "name": "The Cave We Fear to Enter",
-      "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -143,22 +139,6 @@
       "duration_ms": 213553,
       "name": "I Wish We Were Leaving - Radio Edit",
       "url": "https://open.spotify.com/track/6cv2Dw9plGC3NU2If9OjEJ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -219,22 +199,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Music Legends Little Richard : The Rock Icon's Hits",
-        "url": "https://open.spotify.com/album/1szqqlvJIgCcGz4tIg7gGe"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 125579,
-      "name": "Hey-Hey-Hey-Hey (Goin' Back to Birmingham)",
-      "url": "https://open.spotify.com/track/0Nft0cIDTWzCBDc2tI9cXv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr"
       },
@@ -251,18 +215,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hear You Me",
-        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
+        "name": "Se\u00f1or Tiempo",
+        "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
       "artists": [
         {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        },
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
         }
       ],
-      "duration_ms": 272639,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
+      "duration_ms": 340638,
+      "name": "Se\u00f1or Tiempo",
+      "url": "https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -287,6 +255,42 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Hear You Me",
+        "url": "https://open.spotify.com/album/1O9tT8ySLZhhmHfCpVNESK"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 272639,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/2lyUYcQi8XW0O3iAYmZpwi"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\"",
         "url": "https://open.spotify.com/album/3yFWMFIp37EDPdMl6lAZAW"
       },
@@ -303,26 +307,6 @@
       "duration_ms": 622645,
       "name": "Symphony No. 6 in B Minor, Op. 74 \"Pathetique\": 4. Finale. Adagio lamentoso",
       "url": "https://open.spotify.com/track/7CyUo4HNS3vtbxs3PDJ5ql"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
-        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 173350,
-      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
-      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -375,6 +359,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Can You Feel the Love Tonight (From \"A Whole New Sound\")",
+        "url": "https://open.spotify.com/album/3NuSK3YNeKeP1GdnYj8KY9"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/372ltCYz1uLID85yHqe7S9"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "VSQ Performs The Weeknd, Vol. 2",
         "url": "https://open.spotify.com/album/4Vlnko5pUaUW0pTOB44eng"
       },
@@ -423,6 +427,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Music Legends Little Richard : The Rock Icon's Hits",
+        "url": "https://open.spotify.com/album/1szqqlvJIgCcGz4tIg7gGe"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 125579,
+      "name": "Hey-Hey-Hey-Hey (Goin' Back to Birmingham)",
+      "url": "https://open.spotify.com/track/0Nft0cIDTWzCBDc2tI9cXv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Fading Like A Rose - EP",
         "url": "https://open.spotify.com/album/4cZWw7DhPFapr3GcoTCxVi"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 155409,
       "name": "Fading Like A Rose (Everytime Remix)",
       "url": "https://open.spotify.com/track/165eiC8yyWkBZo26oDtFLl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tonight I\u2019m Alive",
-        "url": "https://open.spotify.com/album/2iGQvx1bqpDmLZD7mW25iz"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Tonight I'm Alive",
-      "url": "https://open.spotify.com/track/4j8NCEbj5SMGbpjqLi8iUV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Acaecer",
         "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Tonight I\u2019m Alive",
+        "url": "https://open.spotify.com/album/2iGQvx1bqpDmLZD7mW25iz"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Tonight I'm Alive",
+      "url": "https://open.spotify.com/track/4j8NCEbj5SMGbpjqLi8iUV"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Papercuts: Instrumentals",
         "url": "https://open.spotify.com/album/494aUGKXMH5ruXtR3O1a3H"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 216346,
       "name": "In the End (Instrumental)",
       "url": "https://open.spotify.com/track/6RUv6gg1Jv1NMT8N5Jv2Wd"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
+        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216268,
+      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
+      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Only Thing That Looks Good On Me Is You (Classic Version)",
-        "url": "https://open.spotify.com/album/5nrTebiSO8IKKm9PmILE4e"
+        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 216268,
-      "name": "The Only Thing That Looks Good On Me Is You - Classic Version",
-      "url": "https://open.spotify.com/track/4SG5YnAQUrD6b8yZFxv2ja"
+      "duration_ms": 242266,
+      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
+      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
-        "url": "https://open.spotify.com/album/4dWjVtltGW5YsDIqegCcAM"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "\u9065\u304b\u5f7c\u65b9 (2024 ver.)",
-      "url": "https://open.spotify.com/track/5mZGmMnM99YI70hvqBlViY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Black Bear Don't Care (Gothminister Remix)",
         "url": "https://open.spotify.com/album/1ywke8AocVQU2LYdj250BX"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 153402,
       "name": "Black Bear Don't Care (Gothminister Remix)",
       "url": "https://open.spotify.com/track/2O4TJS6lXOv3WHDBxhLIHf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
-        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 163330,
-      "name": "Buddy Holly - Spotify Anniversaries Version - Live",
-      "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Higher (Live At Freeman Coliseum / 1999)",
-        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
+        "name": "The 30th Anniversary of Weezer | Spotify Anniversaries LIVE",
+        "url": "https://open.spotify.com/album/5ClwmEMWeYJPRuCeDNug3S"
       },
       "artists": [
         {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 364894,
-      "name": "Higher - Live At Freeman Coliseum / 1999",
-      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
+      "duration_ms": 207050,
+      "name": "Undone - The Sweater Song - Spotify Anniversaries Version - Live",
+      "url": "https://open.spotify.com/track/0VIKs4QgaxvY0lYdUAAnUI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 283480,
       "name": "Mr.Freeze",
       "url": "https://open.spotify.com/track/1A7iM5jn5m7bROmLS6rqZt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Higher (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/6Ixe4fptNmVlqXbruGd49b"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 364894,
+      "name": "Higher - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 259763,
-      "name": "Accidents - Live",
-      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Error o la Inevitable Tragedia de Macbeth Sudaka",
         "url": "https://open.spotify.com/album/4JackiDGkgL6MYo1gvFhyf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 236419,
       "name": "Omnisciencia",
       "url": "https://open.spotify.com/track/4keDfOkRLkw3XHl0nJzLfy"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 259763,
+      "name": "Accidents - Live",
+      "url": "https://open.spotify.com/track/0QwTG5slf3LCYi6xTUlHCT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Worlds Collide Tour (Live in Amsterdam)",
-        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270100,
-      "name": "Faster - Live in Amsterdam",
-      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Worlds Collide Tour (Live in Amsterdam)",
+        "url": "https://open.spotify.com/album/4FA76o2vhVqP8dpMlnnmPv"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270100,
+      "name": "Faster - Live in Amsterdam",
+      "url": "https://open.spotify.com/track/09az9LNbYDb1aBXiKoNjjz"
     },
     {
       "added_at": "2024-07-12 04:00:00",

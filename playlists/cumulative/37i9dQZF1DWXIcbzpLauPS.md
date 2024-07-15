@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover:Windwaker
 
-949 songs - 2 day 11 hr 3 min
+950 songs - 2 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,7 @@
 | [The Empress](https://open.spotify.com/track/4lLWQ8QqCnkLK7RtJ69q6b) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [The Empress](https://open.spotify.com/album/0aDF2jUuIoRCiQC1A7YnZ0) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 | 2021-12-17 | 2022-01-28 |
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 |  |
-| [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 |  |
+| [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |
 | [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2022-07-01 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2022-07-13 | 2022-07-20 |
@@ -939,6 +939,7 @@
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 | 2022-12-17 |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |
+| [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-07-12 |  |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2024-01-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-07-13 | 2022-07-20 |

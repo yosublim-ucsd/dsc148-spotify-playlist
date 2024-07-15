@@ -4,7 +4,7 @@
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-134 songs - 11 hr 41 min
+135 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Anthem](https://open.spotify.com/track/3OmIL39latV0jEW8E68aoG) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Masters Series \- 90's House Party](https://open.spotify.com/album/6QuICThYwco66fUhxNhmgY) | 4:03 | 2020-10-06 | 2022-11-14 |
 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 | 2020-10-06 |  |
 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 | 2020-10-06 | 2024-04-19 |
-| [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2020-10-06 |  |
+| [Beep Street](https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/1CPBXIsx6Km7ZvDmvM0gYS) | 6:37 | 2020-10-06 | 2024-07-15 |
 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 | 2020-10-06 | 2023-05-08 |
 | [Breaking Free](https://open.spotify.com/track/6oIszilcTZK9FI82NtFxtm) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [We Love Drum & Bass](https://open.spotify.com/album/3etkNXAfN4VUWFfOjC7KNp) | 5:42 | 2020-10-06 | 2023-10-20 |
 | [Bunn the Sensi \- Dub Hustlers Remix](https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM) | [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Rumble in the Jungle](https://open.spotify.com/album/5mucViTQhpvARXs9UCcHeg) | 5:50 | 2020-10-06 |  |
@@ -28,6 +28,7 @@
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2020-10-06 |  |
 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 | 2020-10-06 |  |
 | [Circles \- 7'' Edit](https://open.spotify.com/track/304JMZX02tKwdRIERv2Tjm) | [Adam F](https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn) | [Goldie \- Drum & Bass Life](https://open.spotify.com/album/1yMA2d3Zt8bFnouOU4au3H) | 3:25 | 2023-10-19 |  |
+| [Clear](https://open.spotify.com/track/6ktxc1Nf5UV7hBpkGlmhYJ) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/4BdkOvBqRW8oKMlo7CPYJt) | 4:54 | 2024-03-22 |  |
 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 | 2020-10-06 | 2024-04-19 |
 | [Code Red](https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ) | [Conquering Lion](https://open.spotify.com/artist/5ihLdJPtkczDQGJitNiWcG) | [Code Red](https://open.spotify.com/album/3J7BL97p8taetIOLtaXyI6) | 4:31 | 2020-10-06 |  |
 | [Cubes](https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw) | [Modular Expansion](https://open.spotify.com/artist/7gzna5FLH7KeMHxbqImL7P) | [Unit 1](https://open.spotify.com/album/5w3AS9phJPcCVQMcvefeHt) | 4:05 | 2020-10-06 |  |

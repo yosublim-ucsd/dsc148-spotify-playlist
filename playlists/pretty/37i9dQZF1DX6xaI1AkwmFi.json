@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 25356,
+  "num_followers": 25360,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-12 16:30:59",
       "album": {
-        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 226557,
-      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
-      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
-    },
-    {
-      "added_at": "2024-07-12 16:30:59",
-      "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2024-07-12 16:30:59",
       "album": {
-        "name": "\u6674\u308b",
-        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+        "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 270705,
-      "name": "\u6674\u308b",
-      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+      "duration_ms": 226557,
+      "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"
     },
     {
       "added_at": "2024-07-12 16:30:59",
@@ -723,6 +707,22 @@
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "added_at": "2024-07-12 16:30:59",
+      "album": {
+        "name": "\u6674\u308b",
+        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 270705,
+      "name": "\u6674\u308b",
+      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
     },
     {
       "added_at": "2024-07-12 16:30:59",
@@ -775,38 +775,6 @@
     {
       "added_at": "2024-07-12 16:30:59",
       "album": {
-        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 315386,
-      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
-      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
-    },
-    {
-      "added_at": "2024-07-12 16:30:59",
-      "album": {
-        "name": "\u9b3c\u30ce\u5bb4",
-        "url": "https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT"
-      },
-      "artists": [
-        {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 175998,
-      "name": "\u9b3c\u30ce\u5bb4",
-      "url": "https://open.spotify.com/track/096KHkONhQm4MQNH35mU22"
-    },
-    {
-      "added_at": "2024-07-12 16:30:59",
-      "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
@@ -831,18 +799,50 @@
     {
       "added_at": "2024-07-12 16:30:59",
       "album": {
-        "name": "\u4e8c\u5ea6\u5bdd",
-        "url": "https://open.spotify.com/album/1A68DtaRuQEtOfIHkB8C2p"
+        "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+        "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
       },
       "artists": [
         {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 207187,
-      "name": "\u4e8c\u5ea6\u5bdd",
-      "url": "https://open.spotify.com/track/38Ypb7FJIGVovqqQO2Yu5S"
+      "duration_ms": 315386,
+      "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
+      "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
+    },
+    {
+      "added_at": "2024-07-12 16:30:59",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 311215,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX"
+    },
+    {
+      "added_at": "2024-07-12 16:30:59",
+      "album": {
+        "name": "\u9b3c\u30ce\u5bb4",
+        "url": "https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT"
+      },
+      "artists": [
+        {
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 175998,
+      "name": "\u9b3c\u30ce\u5bb4",
+      "url": "https://open.spotify.com/track/096KHkONhQm4MQNH35mU22"
     }
   ],
   "unique_name": "\u30b9\u30c8\u30ed\u30dc",

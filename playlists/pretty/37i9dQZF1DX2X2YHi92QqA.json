@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30009,
+  "num_followers": 30047,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
-      },
-      "artists": [
-        {
-          "name": "OKS",
-          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "Floating Parade",
         "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
+      },
+      "artists": [
+        {
+          "name": "OKS",
+          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -475,22 +475,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
+        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
       },
       "artists": [
         {
-          "name": "YAKTAK",
-          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
-        },
-        {
-          "name": "Golubenko",
-          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 182068,
-      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
+      "duration_ms": 122666,
+      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
+      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -531,18 +527,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-        "url": "https://open.spotify.com/album/4c9X2MvAHcldczNbYTaP9r"
+        "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+        "url": "https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "YAKTAK",
+          "url": "https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog"
+        },
+        {
+          "name": "Golubenko",
+          "url": "https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ"
         }
       ],
-      "duration_ms": 122666,
-      "name": "\u0422\u0435\u0431\u0435 - \u0441\u043e\u0431\u0456",
-      "url": "https://open.spotify.com/track/5YKrl96QnEDPQNYKTCfokP"
+      "duration_ms": 182068,
+      "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
-        "url": "https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4"
+        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
       "artists": [
         {
-          "name": "Khrystyna Soloviy",
-          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 209911,
-      "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
-      "url": "https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r"
+      "duration_ms": 139805,
+      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
+      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "flowers on my eyes",
-        "url": "https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt"
+        "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
+        "url": "https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4"
       },
       "artists": [
         {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+          "name": "Khrystyna Soloviy",
+          "url": "https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa"
         }
       ],
-      "duration_ms": 148173,
-      "name": "flowers on my eyes",
-      "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
+      "duration_ms": 209911,
+      "name": "\u041a\u0430\u043c\u0435\u0440\u0442\u043e\u043d",
+      "url": "https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "flowers on my eyes",
+        "url": "https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "flowers on my eyes",
+      "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-        "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 139805,
-      "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
-      "url": "https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -723,6 +723,22 @@
       "duration_ms": 168145,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
+        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+        }
+      ],
+      "duration_ms": 112262,
+      "name": "\u041b\u0438\u043d\u0443",
+      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041c\u0443\u0437\u0438\u0447\u043d\u0438\u0439 \u0449\u043e\u0434\u0435\u043d\u043d\u0438\u043a. \u0427\u0430\u0441\u0442\u0438\u043d\u0430 \u21161",
-        "url": "https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
-        }
-      ],
-      "duration_ms": 112262,
-      "name": "\u041b\u0438\u043d\u0443",
-      "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "Makoterchyk",
         "url": "https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
-        "url": "https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN"
-      },
-      "artists": [
-        {
-          "name": "BRYKULETS",
-          "url": "https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB"
-        }
-      ],
-      "duration_ms": 136956,
-      "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
-      "url": "https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
         "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041b\u0456\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
-      },
-      "artists": [
-        {
-          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
-          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
-        }
-      ],
-      "duration_ms": 133384,
-      "name": "\u041b\u0456\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 203895,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
+        "url": "https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN"
+      },
+      "artists": [
+        {
+          "name": "BRYKULETS",
+          "url": "https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB"
+        }
+      ],
+      "duration_ms": 136956,
+      "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
+      "url": "https://open.spotify.com/track/3jvcFXp201IwQ1hGpq0Xoj"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u041b\u0456\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        }
+      ],
+      "duration_ms": 133384,
+      "name": "\u041b\u0456\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0412\u043e\u043b\u044f (full version)",
-        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+        "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
+        "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
       },
       "artists": [
         {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "adm:t",
+          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
         }
       ],
-      "duration_ms": 164636,
-      "name": "\u0412\u043e\u043b\u044f - full version",
-      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+      "duration_ms": 154527,
+      "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
+      "url": "https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
+        "name": "\u0412\u043e\u043b\u044f (full version)",
+        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
       "artists": [
         {
-          "name": "Tof",
-          "url": "https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y"
-        },
-        {
-          "name": "\u0411\u0456\u043b\u0438\u0439 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 183529,
-      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
+      "duration_ms": 164636,
+      "name": "\u0412\u043e\u043b\u044f - full version",
+      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

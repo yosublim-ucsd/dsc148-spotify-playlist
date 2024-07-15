@@ -1,13 +1,29 @@
 {
   "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: srwks.)",
-  "num_followers": 6953,
+  "num_followers": 6966,
   "original_name": "Haze ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocRNgAAAABPCtzm5n7cAXIyUIQCE4rp",
+  "snapshot_id": "ZpOgLgAAAAA+yocyjz4zwkfF9hF18t+G",
   "tracks": [
+    {
+      "added_at": "2024-07-14 09:53:50",
+      "album": {
+        "name": "Painless",
+        "url": "https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "duration_ms": 315172,
+      "name": "Painless",
+      "url": "https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9"
+    },
     {
       "added_at": "2024-07-04 21:16:38",
       "album": {

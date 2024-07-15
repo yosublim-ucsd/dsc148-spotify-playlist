@@ -4,7 +4,7 @@
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 46 min
+33 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 | 2023-09-15 |  |
 | [Hair Salon](https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:44 | 2023-09-15 |  |
 | [He Made Me Do It](https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:32 | 2023-09-15 |  |
-| [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 | 2024-07-13 |  |
+| [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 | 2024-07-13 | 2024-07-15 |
 | [Hope You're Happy](https://open.spotify.com/track/71rXAW15nMFxJUbS1ZjjWv) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 | 2024-07-14 |  |
 | [I Know You](https://open.spotify.com/track/70E8PmfBWR18u3NJfw63Qh) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 2:40 | 2024-07-14 |  |
 | [I Love Me](https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:10 | 2023-09-15 |  |
@@ -27,11 +27,12 @@
 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 | 2024-05-05 |  |
 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 | 2023-09-15 |  |
 | [Lucky](https://open.spotify.com/track/4KdvlmutAtM0FF8mCXXhQt) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:41 | 2023-09-15 |  |
+| [Mama I Lied](https://open.spotify.com/track/6v9i26kpd5HeRx2XYjG3fp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:27 | 2024-07-15 |  |
 | [Man on the Moon](https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Man on the Moon](https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI) | 3:07 | 2024-06-09 |  |
 | [Miss Universe](https://open.spotify.com/track/5sQmEdWnALexmqT8e4q3dB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:01 | 2024-07-14 |  |
 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-06-02 |  |
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-20 |  |
-| [Noah](https://open.spotify.com/track/5Waux7YzpFNXkzEOWJhhgc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:31 | 2024-07-14 |  |
+| [Noah](https://open.spotify.com/track/5Waux7YzpFNXkzEOWJhhgc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:31 | 2024-07-14 | 2024-07-15 |
 | [Nothin’ Crazy \(feat\. Mackenzie Carpenter\)](https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 3:11 | 2023-09-25 |  |
 | [Reasons to Stay](https://open.spotify.com/track/5OPc2fFtwlMsmhOhFcqAny) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky \(Deluxe\)](https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4) | 4:11 | 2023-09-25 |  |
 | [Sleep on My Side](https://open.spotify.com/track/0qOdElKqdDKN58aKCo3yHS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:08 | 2023-09-15 |  |

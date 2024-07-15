@@ -1,6 +1,6 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 611469,
+  "num_followers": 611473,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 231480,
       "name": "Monkey Wrench",
       "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7xDd7gl6AGgpiOz5trz4dM"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Already Over",
-        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
       },
       "artists": [
         {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
         }
       ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "In Times New Roman...",
         "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202776,
       "name": "Paper Machete",
       "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
-        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
-      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Life's Coming in Slow (from GRAN TURISMO 7)",
+        "url": "https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Life's Coming in Slow - from GRAN TURISMO 7",
+      "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "The Midnight Demon Club",
         "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Crying In The Shower",
-        "url": "https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 184063,
-      "name": "Crying In The Shower",
-      "url": "https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 199196,
       "name": "I Hope You Choke!",
       "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Crying In The Shower",
+        "url": "https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 184063,
+      "name": "Crying In The Shower",
+      "url": "https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 247320,
       "name": "Love From The Other Side - Edit",
       "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-07-05 16:46:19",

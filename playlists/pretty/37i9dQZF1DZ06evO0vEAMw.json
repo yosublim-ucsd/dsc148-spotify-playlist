@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 78861,
+  "num_followers": 78942,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAADihoo2nItTB6OPhuXIgSf/",
+  "snapshot_id": "ZpHDgAAAAAALQw6as0mIAm5TTS+yWr2v",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
       "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 172500,
-      "name": "D & G (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,
@@ -495,6 +503,26 @@
       "duration_ms": 187586,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "D & G (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
       "added_at": null,
@@ -559,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -591,6 +603,38 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "1 Milli",
+      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "added_at": null,
@@ -627,22 +671,6 @@
       "duration_ms": 214205,
       "name": "FIA",
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     },
     {
       "added_at": null,
@@ -743,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 202222,
+      "name": "FEM",
+      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nwa Baby",
         "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
@@ -755,22 +799,6 @@
       "duration_ms": 222327,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": null,
@@ -791,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breezy (Deluxe)",
         "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
       },
@@ -807,22 +851,6 @@
       "duration_ms": 179080,
       "name": "Nobody Has To Know (feat. Davido)",
       "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 202222,
-      "name": "FEM",
-      "url": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
     },
     {
       "added_at": null,
@@ -879,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -915,6 +927,22 @@
       "duration_ms": 213892,
       "name": "Shopping Spree (feat. Chris Brown & Young Thug)",
       "url": "https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
     },
     {
       "added_at": null,
@@ -947,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Lower Body (feat. Davido)",
-      "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strawberry on Ice",
         "url": "https://open.spotify.com/album/2FQh7JRu5rKCuAdvnLFWXq"
       },
@@ -983,6 +991,26 @@
       "duration_ms": 126909,
       "name": "Strawberry on Ice",
       "url": "https://open.spotify.com/track/6iWbXOJNvndQrTmnfFDEmj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Lower Body (feat. Davido)",
+      "url": "https://open.spotify.com/track/2jARcMhrTB54EH2VxNvWpW"
     },
     {
       "added_at": null,
@@ -1007,26 +1035,6 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deal with It",
-        "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217154,
-      "name": "Ride for You",
-      "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
     }
   ],
   "unique_name": "This Is Davido",

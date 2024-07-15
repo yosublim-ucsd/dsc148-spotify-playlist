@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68264,
+  "num_followers": 68271,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
-      },
-      "artists": [
-        {
-          "name": "Colette Blanche",
-          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
-        }
-      ],
-      "duration_ms": 137645,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 165511,
       "name": "Qu\u00e9rete a ti mesmo",
       "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
+      },
+      "artists": [
+        {
+          "name": "Colette Blanche",
+          "url": "https://open.spotify.com/artist/1DD8UrtrUxPyiRq6uIbXtn"
+        }
+      ],
+      "duration_ms": 137645,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Compass",
-        "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
-      },
-      "artists": [
-        {
-          "name": "Niwa Nova",
-          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
-        }
-      ],
-      "duration_ms": 140241,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Oyasumi Nasai",
         "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 248350,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Compass",
+        "url": "https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv"
+      },
+      "artists": [
+        {
+          "name": "Niwa Nova",
+          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
+        }
+      ],
+      "duration_ms": 140241,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Sagittabondo",
+        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+      },
+      "artists": [
+        {
+          "name": "Maura Bellucci",
+          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Sagittabondo",
+      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "Although",
         "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
       },
@@ -895,18 +911,34 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Sagittabondo",
-        "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
+        "name": "They Say It's Wonderful",
+        "url": "https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198"
       },
       "artists": [
         {
-          "name": "Maura Bellucci",
-          "url": "https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW"
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
         }
       ],
-      "duration_ms": 133500,
-      "name": "Sagittabondo",
-      "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+      "duration_ms": 199124,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "This Is The Time",
+        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
+      },
+      "artists": [
+        {
+          "name": "Aimee Fleur",
+          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
+        }
+      ],
+      "duration_ms": 159599,
+      "name": "This Is The Time",
+      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -931,22 +963,6 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "This Is The Time",
-        "url": "https://open.spotify.com/album/7jLYwN5WoR3ysYdA9xz6SU"
-      },
-      "artists": [
-        {
-          "name": "Aimee Fleur",
-          "url": "https://open.spotify.com/artist/6nI0MtO93pTNhec5pbP43B"
-        }
-      ],
-      "duration_ms": 159599,
-      "name": "This Is The Time",
-      "url": "https://open.spotify.com/track/5WlGbaNBwa8cClh21SVhXp"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -983,38 +999,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Forest Flower",
-        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 253056,
-      "name": "Forest Flower",
-      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "They Say It's Wonderful",
-        "url": "https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 199124,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Still in Love With You",
         "url": "https://open.spotify.com/album/7a5LKBZ7B5093OFghLDbic"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 156125,
       "name": "Still in Love With You",
       "url": "https://open.spotify.com/track/0ih8Jf1BQ3TpVHiPKW9WTZ"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Forest Flower",
+        "url": "https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 253056,
+      "name": "Forest Flower",
+      "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "When We First Met",
-        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
-      },
-      "artists": [
-        {
-          "name": "Ricki Westberg",
-          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
-        }
-      ],
-      "duration_ms": 112750,
-      "name": "When We First Met",
-      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV"
+      },
+      "artists": [
+        {
+          "name": "Ricki Westberg",
+          "url": "https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4"
+        }
+      ],
+      "duration_ms": 112750,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Amorous Rebound",
-        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Amorous Rebound",
-      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 232934,
       "name": "Variante Alta",
       "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
+        "name": "Amorous Rebound",
+        "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "duration_ms": 109440,
+      "name": "Amorous Rebound",
+      "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+      },
+      "artists": [
+        {
+          "name": "Zwera",
+          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+        }
+      ],
+      "duration_ms": 130267,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "Fristad",
         "url": "https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "Mass",
-        "url": "https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
       "artists": [
         {
-          "name": "Zwera",
-          "url": "https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn"
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
         }
       ],
-      "duration_ms": 130267,
-      "name": "Mass",
-      "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2024-07-01 02:52:41",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
         "name": "Looking Forward, Looking Backward",
         "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-07-01 02:52:41",
       "album": {
+        "name": "fading memories",
+        "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "follow me home",
+      "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
+    },
+    {
+      "added_at": "2024-07-01 02:52:41",
+      "album": {
         "name": "The Sacred Self",
         "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 188453,
       "name": "Inner Child",
       "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
-    },
-    {
-      "added_at": "2024-07-01 02:52:41",
-      "album": {
-        "name": "Mind Wide Open",
-        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
-      },
-      "artists": [
-        {
-          "name": "Dan Volker",
-          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mind Wide Open",
-      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

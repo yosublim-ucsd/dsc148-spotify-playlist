@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69446,
+  "num_followers": 69451,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "The Show: The Encore",
-        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
+        "name": "Live 2012",
+        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 242124,
-      "name": "Something In The Orange - Live From Spotify Studios",
-      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
+      "duration_ms": 298333,
+      "name": "Viva La Vida - Live",
+      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live 2012",
-        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+        "name": "The Show: The Encore",
+        "url": "https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 298333,
-      "name": "Viva La Vida - Live",
-      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
+      "duration_ms": 242124,
+      "name": "Something In The Orange - Live From Spotify Studios",
+      "url": "https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -347,38 +347,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "k bye for now (swt live)",
         "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
       },
@@ -411,6 +379,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "101 (Live)",
         "url": "https://open.spotify.com/album/55f8HG5qMzgexZhZdOLs3h"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 241293,
       "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA - June 18, 1988",
       "url": "https://open.spotify.com/track/5poxEW2Xw9UDv4jhHdqGCG"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -459,22 +459,6 @@
       "duration_ms": 207253,
       "name": "Don't Take The Money (feat. Lorde) - MTV Unplugged",
       "url": "https://open.spotify.com/track/25wTebB8ECapFHWRPywpYR"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -575,22 +559,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "In The Stars (Live Version)",
         "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 255139,
       "name": "In The Stars - Live Version",
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "C\u00e9line... Une seule fois / Live 2013",
         "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "The Confessions Tour (Live)",
+        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "The Confessions Tour (Live)",
-        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
+        "name": "Live \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 303200,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
+      "duration_ms": 285466,
+      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
+      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 299159,
       "name": "When You Say Nothing At All - Live",
       "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 267263,
+      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "Pompeii / Come As You Are (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
       },
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 396565,
+      "name": "Stitches - Live",
+      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
       },
@@ -1295,22 +1327,6 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 267263,
-      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
-      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1347,38 +1363,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 396565,
-      "name": "Stitches - Live",
-      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 316192,
       "name": "Let's Get It Started - Live at Live 8, Benjamin Franklin Parkway, Philadelphia, 2nd July 2005",
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Roman Holiday - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1459,26 +1443,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "How Can I Sleep With Your Voice In My Head",
         "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
       },
@@ -1495,6 +1459,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Roman Holiday - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "The Confessions Tour",
         "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 295546,
       "name": "Erotica - Live",
       "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 181093,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
+      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
+        "name": "Viva Forever",
+        "url": "https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ"
       },
       "artists": [
         {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 218240,
-      "name": "A Little Respect - Live in Nashville",
-      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
+      "duration_ms": 266418,
+      "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
+      "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
     }
   ],
   "unique_name": "Pop Live",

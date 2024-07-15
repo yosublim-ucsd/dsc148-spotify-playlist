@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -668,6 +668,28 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "Guli Guli (From \"Buzz House\" The Movie)",
+        "url": "https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148095,
+      "name": "Guli Guli - From \"Buzz House\" The Movie",
+      "url": "https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z"
     },
     {
       "album": {

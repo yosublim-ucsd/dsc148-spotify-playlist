@@ -1,36 +1,64 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 37770,
+  "num_followers": 37779,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABfNnELwoAntBq+KwtTrsyW",
+  "snapshot_id": "ZpHDgAAAAAAR9nX23f9oqxAKZSdvOFoG",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
-        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
         },
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 172313,
-      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
-      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
+      "duration_ms": 171646,
+      "name": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
+      "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": null,
@@ -115,22 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
       "artists": [
         {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 173752,
-      "name": "Female Goat",
-      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
       "added_at": null,
@@ -283,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 177370,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wiggle It (feat. City Girls)",
         "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
       },
@@ -299,26 +343,6 @@
       "duration_ms": 172048,
       "name": "Wiggle It (feat. City Girls)",
       "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190491,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
     },
     {
       "added_at": null,
@@ -351,6 +375,26 @@
       "duration_ms": 127058,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
     },
     {
       "added_at": null,
@@ -555,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boys For Life Soundtrack",
+        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158777,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JT First Day Out",
         "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
       },
@@ -575,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "In n Out (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need A Thug",
         "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
       },
@@ -611,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boys For Life Soundtrack",
-        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
       "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 158777,
-      "name": "Money Fight",
-      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
+      "duration_ms": 194526,
+      "name": "In n Out (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
     },
     {
       "added_at": null,
@@ -659,6 +703,26 @@
       "duration_ms": 194693,
       "name": "Fu*k Dat Ni**a",
       "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
     },
     {
       "added_at": null,
@@ -771,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 126672,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/10gO1lQggmecSUP1925juj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shisha",
         "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
       },
@@ -879,6 +927,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "DJ Durel",
+          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Come On (City Girls, Saweetie feat. DJ Durel)",
+      "url": "https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Tried It",
         "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
       },
@@ -931,70 +1007,6 @@
       "duration_ms": 151186,
       "name": "Rap Shit",
       "url": "https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 202942,
-      "name": "Season (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church on Sunday",
-        "url": "https://open.spotify.com/album/3Pa7JytWVcEf3Unec8qku8"
-      },
-      "artists": [
-        {
-          "name": "Blac Youngsta",
-          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Whisper (feat. City Girls)",
-      "url": "https://open.spotify.com/track/1oHkXeW88HEtFt6P3TvBIt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuck It Up (feat. City Girls & Tyga)",
-        "url": "https://open.spotify.com/album/1V4dbLC7PqSzf0cXKWIwzk"
-      },
-      "artists": [
-        {
-          "name": "YBN Nahmir",
-          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 174251,
-      "name": "Fuck It Up (feat. City Girls & Tyga)",
-      "url": "https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh"
     }
   ],
   "unique_name": "This Is City Girls",

@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Maya Hawke
 
-608 songs - 1 day 13 hr 51 min
+609 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [I Went Dancing With My Sister \- Bonus Track](https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:22 | 2024-07-12 |  |
 | [I Will Do The Breathing](https://open.spotify.com/track/22KkqMqM3WrnmZoBajMN4x) | [Matt the Electrician](https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn) | [Accidental Thief](https://open.spotify.com/album/6tqwWWhIFmm7LqiZGmzPzn) | 4:31 | 2022-04-13 | 2022-04-21 |
 | [I Wonder Why](https://open.spotify.com/track/2fxbZaI6BAZLiggP1GFNEG) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/3dOBbtYrclmeXHZJ323C2Z) | 2:05 | 2021-10-22 | 2022-07-29 |
-| [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-10-14 |  |
+| [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-10-14 | 2024-07-15 |
 | [I've Been The One \(feat\. Meg Baird\)](https://open.spotify.com/track/5sh2RojEiLjABrGwgC7CpT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Meg Baird](https://open.spotify.com/artist/4NkfNPTsDtbPntbU1pBYVt) | [I've Been The One \(feat\. Meg Baird\)](https://open.spotify.com/album/5DkYgUVmYhKPue9c4TH3zu) | 3:55 | 2021-10-22 | 2022-07-28 |
 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2021-10-22 |  |
 | [If It's Time](https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [If It's Time](https://open.spotify.com/album/0IOPxMOglDEaAhaLghdvIV) | 4:17 | 2024-04-05 |  |
@@ -497,6 +497,7 @@
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-04-28 |  |
 | [The Animals](https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:16 | 2023-10-13 | 2024-01-06 |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2021-10-22 | 2022-04-14 |
+| [The Beginning](https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [The Beginning](https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf) | 3:34 | 2024-07-12 |  |
 | [The Breeze / My Baby Cries](https://open.spotify.com/track/32QtDJN4oRfo3Jwy6gpoWN) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Loving Takes This Course \- a Tribute to the Songs of Kath Bloom](https://open.spotify.com/album/45Ae8sd3ZB5gbBHNNIZaGY) | 6:23 | 2021-10-22 | 2022-01-15 |
 | [The Bride & The Bachelor](https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Famous Men](https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6) | 4:10 | 2021-10-22 | 2023-08-05 |
 | [The Desperate Kingdom of Love](https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [The Desperate Kingdom of Love](https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z) | 2:52 | 2021-10-22 | 2022-07-28 |

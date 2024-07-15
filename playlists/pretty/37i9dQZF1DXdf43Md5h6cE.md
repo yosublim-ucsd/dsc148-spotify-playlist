@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,652 likes - 229 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,820 likes - 229 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

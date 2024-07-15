@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5344,
+  "num_followers": 5355,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "A flower bookmark",
         "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 240718,
       "name": "When love passes by",
       "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -331,38 +331,6 @@
       "duration_ms": 245000,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "Demo songs",
-        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
-        }
-      ],
-      "duration_ms": 246874,
-      "name": "dear heart",
-      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -383,6 +351,38 @@
       "duration_ms": 314000,
       "name": "It Won't Be Anything Anyway (with deulrejang)",
       "url": "https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -415,22 +415,6 @@
       "duration_ms": 216360,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -487,22 +471,6 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "Zombie daughter (Original Soundtrack) : A long dream",
-        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
-      },
-      "artists": [
-        {
-          "name": "ThorThor",
-          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
-        }
-      ],
-      "duration_ms": 213972,
-      "name": "A long dream (Full Ver.)",
-      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
         "name": "Call me now",
         "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
       },
@@ -519,6 +487,38 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "Zombie daughter (Original Soundtrack) : A long dream",
+        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
+      },
+      "artists": [
+        {
+          "name": "ThorThor",
+          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
+        }
+      ],
+      "duration_ms": 213972,
+      "name": "A long dream (Full Ver.)",
+      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
         "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Storing Nights",
-      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
+      "duration_ms": 239000,
+      "name": "Storing Nights",
+      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -679,18 +663,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "We need to meet now",
-        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
+        "name": "When the dawn calls me abruptly",
+        "url": "https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "LEE SOLOMON",
+          "url": "https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
+      "duration_ms": 171840,
+      "name": "Note",
+      "url": "https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
-        "name": "When the dawn calls me abruptly",
-        "url": "https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt"
+        "name": "We need to meet now",
+        "url": "https://open.spotify.com/album/6rQL9qDD47aKHZN392iww7"
       },
       "artists": [
         {
-          "name": "LEE SOLOMON",
-          "url": "https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP"
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
         }
       ],
-      "duration_ms": 171840,
-      "name": "Note",
-      "url": "https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk"
+      "duration_ms": 229000,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/3wQl1WeJe9dINbvvfexZhr"
     },
     {
       "added_at": "2024-03-08 06:42:30",
@@ -759,6 +743,22 @@
       "duration_ms": 247000,
       "name": "Sparkling Sunshine",
       "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
     },
     {
       "added_at": "2024-03-08 06:42:30",

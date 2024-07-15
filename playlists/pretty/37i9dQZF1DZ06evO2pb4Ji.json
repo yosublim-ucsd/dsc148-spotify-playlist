@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 387965,
+  "num_followers": 387960,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAkGn0Q4gcg0hAmTS+UQkJ5",
+  "snapshot_id": "ZpHDgAAAAABQjQ2jtUfsUvIwbWOboy6+",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Redux)",
-        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Rise (Redux)",
-      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starts Right Here",
         "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 185088,
       "name": "Starts Right Here",
       "url": "https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 187805,
-      "name": "Burning Bright",
-      "url": "https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aphelios, the Weapon of the Faithful",
         "url": "https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 241157,
       "name": "Aphelios, the Weapon of the Faithful",
       "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 187805,
+      "name": "Burning Bright",
+      "url": "https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC"
     },
     {
       "added_at": null,
@@ -1123,22 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
-        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194815,
-      "name": "No Chill (Heartsteel)",
-      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Legends: Orchestral Theme",
         "url": "https://open.spotify.com/album/21L28RGYsJBThdnvVLdG86"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205529,
       "name": "I'll Find a Way",
       "url": "https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
+        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194815,
+      "name": "No Chill (Heartsteel)",
+      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
     }
   ],
   "unique_name": "This Is League of Legends",

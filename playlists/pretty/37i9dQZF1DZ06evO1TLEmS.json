@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3234,
+  "num_followers": 3239,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAADwKpfqdt61D7LxUpHT/JwU",
+  "snapshot_id": "ZpHDgAAAAABG61bO43J+y71xNUPF0Lwb",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 283785,
       "name": "The Secret Place - Acoustic",
       "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": null,
@@ -91,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 213328,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -127,22 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live To Tape: Volume II",
-        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 202319,
-      "name": "Be My Witness (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
     },
     {
       "added_at": null,
@@ -163,6 +163,26 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live To Tape: Volume II",
+        "url": "https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Be My Witness (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc"
     },
     {
       "added_at": null,
@@ -255,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -287,6 +291,22 @@
       "duration_ms": 197790,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     },
     {
       "added_at": null,
@@ -376,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -440,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
     },
     {
       "added_at": null,
@@ -483,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
       "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": null,
@@ -528,25 +544,29 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+      "duration_ms": 188024,
+      "name": "Our Rebellion",
+      "url": "https://open.spotify.com/track/42rHpSXnUgHvVyIU1VCVPf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
       },
       "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,
@@ -587,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Collider Particles",
+      "url": "https://open.spotify.com/track/4Rz3t2NUCWEJ5sDnxIx8k6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -619,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 283093,
+      "name": "Death By Suspicion",
+      "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
       },
@@ -647,22 +699,6 @@
       "duration_ms": 182480,
       "name": "No One Else To Blame",
       "url": "https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 283093,
-      "name": "Death By Suspicion",
-      "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
     },
     {
       "added_at": null,

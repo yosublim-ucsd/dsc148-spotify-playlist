@@ -4,7 +4,7 @@
 
 > Час перепочити 🌻🧘🌲
 
-73 songs - 3 hr 51 min
+74 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Земля](https://open.spotify.com/track/6f8g9KiXUOtisu8NTTKm13) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Перетворення](https://open.spotify.com/album/72FsHijJdC1xC2qFeEYk4Y) | 4:28 | 2024-06-14 | 2024-07-10 |
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2024-06-14 |  |
 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 | 2024-07-12 |  |
-| [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 | 2024-06-14 |  |
+| [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 | 2024-06-14 | 2024-07-15 |
 | [Квітну з тобою](https://open.spotify.com/track/1gEOO9uivwxwAKIF5Z0ezH) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Квітну з тобою](https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY) | 2:20 | 2024-06-14 |  |
 | [Космічна](https://open.spotify.com/track/15YTLqvH56v7huIaYc5LyG) | [Liana Spelas](https://open.spotify.com/artist/5pxxLiXNESMpqQRGGBwVkT) | [Космічна](https://open.spotify.com/album/1AaScmhWrjJf0OB4kIKAFC) | 3:49 | 2024-07-12 |  |
 | [Кохаю](https://open.spotify.com/track/3iNbj150UfbsdwdOj1Uc8S) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Кохаю](https://open.spotify.com/album/5lDktT4CuXvCFD8ZG6lLGd) | 2:37 | 2024-06-14 |  |
@@ -55,6 +55,7 @@
 | [Літом](https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7) | [Геля Зозуля](https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B) | [Літом](https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy) | 2:13 | 2024-06-14 |  |
 | [Маяк](https://open.spotify.com/track/380s9IBgyXYHCvlJLxLGd7) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [Маяк](https://open.spotify.com/album/4hJSdd1BpnHRMYidMuewBH) | 2:58 | 2024-06-14 | 2024-07-13 |
 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 | 2024-06-14 |  |
+| [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 | 2024-07-12 |  |
 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 | 2024-06-14 |  |
 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 | 2024-06-14 | 2024-07-13 |
 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 | 2024-07-12 |  |

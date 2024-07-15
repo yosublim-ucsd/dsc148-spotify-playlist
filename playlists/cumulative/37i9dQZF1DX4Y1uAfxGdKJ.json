@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "DELI",
+        "url": "https://open.spotify.com/album/7hQT2tI4BbH98MLWvW7EZ7"
+      },
+      "artists": [
+        {
+          "name": "my friend stue",
+          "url": "https://open.spotify.com/artist/06YdsRPyz0kIuwt5Fb3yXE"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "DELI",
+      "url": "https://open.spotify.com/track/02lzHihYd4L7OEu6hz414D"
+    },
+    {
+      "album": {
         "name": "Demurity",
         "url": "https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v"
       },
@@ -1475,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "If You Say So",
+        "url": "https://open.spotify.com/album/6axhsdjQzJqKkElmcernqx"
+      },
+      "artists": [
+        {
+          "name": "Ava Low",
+          "url": "https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374250,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/3IppHec07ScWmamyuKYtLc"
+    },
+    {
+      "album": {
         "name": "Indi",
         "url": "https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT"
       },
@@ -2214,6 +2250,24 @@
       "duration_ms": 126101,
       "name": "Past Eleven",
       "url": "https://open.spotify.com/track/1VK0VKSSYrx8Mg3trmV8zL"
+    },
+    {
+      "album": {
+        "name": "Pedala",
+        "url": "https://open.spotify.com/album/3UAX2ZXemEYzSNtYseVoVI"
+      },
+      "artists": [
+        {
+          "name": "Damian Parker",
+          "url": "https://open.spotify.com/artist/3sQBQExp7ULhVKEjUbfPwg"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Pedala",
+      "url": "https://open.spotify.com/track/4MQXZ3uWZeEO9KsYSszuSH"
     },
     {
       "album": {

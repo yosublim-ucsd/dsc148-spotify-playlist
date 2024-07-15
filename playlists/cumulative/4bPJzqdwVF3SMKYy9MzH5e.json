@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191800,
+      "name": "All I Really Want Is You",
+      "url": "https://open.spotify.com/track/410rGaFDJPwjsr9m9RPCkz"
+    },
+    {
+      "album": {
         "name": "all I want is you",
         "url": "https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V"
       },

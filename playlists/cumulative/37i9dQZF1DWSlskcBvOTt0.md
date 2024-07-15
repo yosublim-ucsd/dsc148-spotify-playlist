@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-703 songs - 2 day 16 hr 26 min
+704 songs - 2 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Antares](https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK) | [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Antares / Stay](https://open.spotify.com/album/2skTHY010QHQpI328uliT0) | 4:48 | 2022-04-11 | 2022-10-06 |
 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 | 2023-07-07 | 2023-08-11 |
 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 | 2024-04-19 | 2024-05-26 |
+| [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-07-12 |  |
 | [Ascension](https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ascension](https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ) | 2:57 | 2024-04-12 |  |
 | [Ashes in the Wind](https://open.spotify.com/track/4PqD4wAf77OxpAiOODf1Rg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Secrets EP](https://open.spotify.com/album/1aZ3SBhJnP4B8G4gQ65fT1) | 10:04 | 2021-04-21 | 2022-12-17 |
 | [Atacama \- Edit](https://open.spotify.com/track/5EAyDXIe10FttSvVJOXX3r) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Atacama \(Edit\)](https://open.spotify.com/album/1Q9Y8JAfu1TQzx7BlDgjvX) | 3:57 | 2023-06-16 | 2024-01-25 |
@@ -110,7 +111,7 @@
 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 | 2024-01-12 | 2024-04-19 |
 | [Bécane \- Kimotion x Quentro & Tuna Remix](https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [Bécane \(Kimotion x Quentro & Tuna Remix\)](https://open.spotify.com/album/2qU1STlRzIGGZ1f4oEGPiO) | 3:33 | 2024-07-05 |  |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
-| [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 |  |
+| [Calling](https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Calling](https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab) | 3:29 | 2023-10-27 | 2024-07-15 |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 | 2023-02-08 |
 | [Calypso](https://open.spotify.com/track/7vHf001EyCd2PuII1wrmBV) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Calypso](https://open.spotify.com/album/5DD5RN39R2Xl9j5TpP9fC1) | 4:31 | 2024-05-31 | 2024-07-05 |
 | [Caminata](https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Caminata](https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl) | 6:56 | 2021-06-18 | 2022-11-01 |

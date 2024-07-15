@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127 likes - 169 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128 likes - 169 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 29 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
 | 30 | [SUBURBIA](https://open.spotify.com/track/5PoWbm2gxIIgg7Ykx9oY8S) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:53 |
 | 31 | [LOST BOY](https://open.spotify.com/track/3KV9J5y3HDHKTOtjJtHwqi) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:43 |
-| 32 | [What A Heavenly Way To Die](https://open.spotify.com/track/1Dfzjb9aFxgSFM0vnNTDPr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:07 |
-| 33 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 32 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 33 | [What A Heavenly Way To Die](https://open.spotify.com/track/1Dfzjb9aFxgSFM0vnNTDPr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:07 |
 | 34 | [Seventeen](https://open.spotify.com/track/7iyKbBjb2fmTnTfCjCh7ER) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:38 |
 | 35 | [Animal](https://open.spotify.com/track/6iBPeFlk4DLJ4HfRfZ2J7H) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:25 |
 | 36 | [Paper Love](https://open.spotify.com/track/0lJRiK4cXdgFqpNB53yFLN) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:17 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 121 | [Athlete](https://open.spotify.com/track/2Jl2zvsB4WsDddcHnEVtmc) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:12 |
 | 122 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
 | 123 | [Drop Top Sleigh Ride \(with Tyga\)](https://open.spotify.com/track/2qVCRYKDLRWpMXhpLR09O3) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:20 |
-| 124 | [Middle Of A Heartbreak](https://open.spotify.com/track/2vY90tGYEHzIjKGjI48smn) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Middle Of A Heartbreak](https://open.spotify.com/album/6xGcBv3u3XthHduAxBkpvc) | 2:45 |
-| 125 | [The Hurtin' Kind](https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:06 |
+| 124 | [The Hurtin' Kind](https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:06 |
+| 125 | [Middle Of A Heartbreak](https://open.spotify.com/track/2vY90tGYEHzIjKGjI48smn) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Middle Of A Heartbreak](https://open.spotify.com/album/6xGcBv3u3XthHduAxBkpvc) | 2:45 |
 | 126 | [Heartkiller](https://open.spotify.com/track/1q3eUsSOYR468dC8Xh7BZr) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Against The Wall](https://open.spotify.com/album/0Co76AwOJkYMkFl312YdPL) | 3:08 |
 | 127 | [Hungover](https://open.spotify.com/track/75g7UV5B1ndLGsDvfjC489) | [Emmalyn](https://open.spotify.com/artist/75y1eTkF9JFAO2MIR2EXtg) | [Hungover](https://open.spotify.com/album/464LmfCz1lP28qe5ndSj6s) | 3:14 |
 | 128 | [All The Money](https://open.spotify.com/track/4In7ngnXHyZieF5HCmoGqi) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:26 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 168 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 169 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbWnhwAAAABCoQbwqOGkbjUYaqzJgJ3r`
+Snapshot ID: `AbWtHgAAAADsRytHANbktA2yPpnUIJ0v`

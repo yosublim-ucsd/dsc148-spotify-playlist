@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Rafael Rivera. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 528,
+  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 531,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACkQ49vJnk5EJrD7JWMfruZ",
+  "snapshot_id": "ZpHDgAAAAADBNTiaRgY9N7yWnvbMsgGR",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 70364,
-      "name": "La Cajita de M\u00fasica",
-      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monsieur Spade (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 117693,
       "name": "Gabrielle",
       "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 70364,
+      "name": "La Cajita de M\u00fasica",
+      "url": "https://open.spotify.com/track/6tfcj3Fheeg4H21Lx8ZAzA"
     },
     {
       "added_at": null,
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 78533,
-      "name": "Ezra And Mom",
-      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 83131,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+      "duration_ms": 94133,
+      "name": "The Hug",
+      "url": "https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 154091,
+      "name": "Mysteries of The Divine",
+      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ezra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
@@ -484,9 +484,25 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 94133,
-      "name": "The Hug",
-      "url": "https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt"
+      "duration_ms": 78533,
+      "name": "Ezra And Mom",
+      "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 124424,
+      "name": "Young Deb When She Was Happy",
+      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

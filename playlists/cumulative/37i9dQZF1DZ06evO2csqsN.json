@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is: Latto. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Latto. The essential tracks, all in one playlist.",
   "name": "This Is Latto",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "Down (feat. Latto)",
       "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 178350,
       "name": "Mad Huh!",
       "url": "https://open.spotify.com/track/77wkplIxuDJ7EJwF5HvLOB"

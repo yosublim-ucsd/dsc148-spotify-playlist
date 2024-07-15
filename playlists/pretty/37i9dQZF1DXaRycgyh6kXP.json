@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 224283,
+  "num_followers": 224422,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
       },
       "artists": [
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "When Will We Land?",
-        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 246840,
-      "name": "Always Get Through To You",
-      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Apollo",
         "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
@@ -631,6 +647,22 @@
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Light Shines Through",
+        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -679,38 +711,6 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Light Shines Through",
-        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
+      },
+      "artists": [
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "duration_ms": 236260,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "I Feel You Feel",
         "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 177024,
       "name": "Thru U (feat. Bklava)",
       "url": "https://open.spotify.com/track/4VQyqfE9UjTciUHqYeVl2R"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP"
-      },
-      "artists": [
-        {
-          "name": "Mascolo",
-          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
-        }
-      ],
-      "duration_ms": 236260,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Themes for a New Earth",
-        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 284705,
-      "name": "Kilika",
-      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
-      },
-      "artists": [
-        {
-          "name": "Shlohmo",
-          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
-        }
-      ],
-      "duration_ms": 302210,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Anything In Return",
         "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
       },
@@ -1495,6 +1463,38 @@
       "duration_ms": 268987,
       "name": "All the Way Down",
       "url": "https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Themes for a New Earth",
+        "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 284705,
+      "name": "Kilika",
+      "url": "https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
+      },
+      "artists": [
+        {
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
+        }
+      ],
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
     },
     {
       "added_at": "2024-07-12 04:00:00",

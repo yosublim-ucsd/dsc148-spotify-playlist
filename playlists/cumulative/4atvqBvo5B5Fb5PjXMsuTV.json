@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-04-26",
   "description": "Updated daily, with the latest popular singles!",
-  "name": "NEW SINGLES RELEASES | UPDATED 13 JUL",
+  "name": "NEW SINGLES RELEASES | UPDATED 15 JUL",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,24 @@
       "duration_ms": 125126,
       "name": "$sBOY Flow",
       "url": "https://open.spotify.com/track/4Om5gq0aHn5C6mRBf8ZRtw"
+    },
+    {
+      "album": {
+        "name": ".410",
+        "url": "https://open.spotify.com/album/0TluF73DmHcnriy4NsPPeg"
+      },
+      "artists": [
+        {
+          "name": "Elusin",
+          "url": "https://open.spotify.com/artist/3QpY0PpAVZmG1hTD6tu7FN"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305454,
+      "name": ".410",
+      "url": "https://open.spotify.com/track/0HbCDSpnbTQfJLBXXwcKxX"
     },
     {
       "album": {
@@ -7216,7 +7234,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 162137,
       "name": "Geist",
       "url": "https://open.spotify.com/track/6hpflyoqy4yPuI4wMfhDe4"
@@ -11801,6 +11819,32 @@
     },
     {
       "album": {
+        "name": "Miss RGB",
+        "url": "https://open.spotify.com/album/5XOx64kkB7eihK4iYire7O"
+      },
+      "artists": [
+        {
+          "name": "Bao The Whale",
+          "url": "https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ"
+        },
+        {
+          "name": "nihmune",
+          "url": "https://open.spotify.com/artist/0mhXOWxkDI2KtV3x0Vd19s"
+        },
+        {
+          "name": "Shylily",
+          "url": "https://open.spotify.com/artist/2z4JixaoJNqeLhq0V5Zyr0"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239684,
+      "name": "Miss RGB",
+      "url": "https://open.spotify.com/track/2OkBliQqw3x3ifSaKM8Aoc"
+    },
+    {
+      "album": {
         "name": "Mission To Mars",
         "url": "https://open.spotify.com/album/5sTR8xo2vFQrl4ZplhWpPZ"
       },
@@ -14470,7 +14514,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 129630,
       "name": "PTP",
       "url": "https://open.spotify.com/track/48PnQVhkwaDBLfp5ftpSep"
@@ -14564,6 +14608,24 @@
       "duration_ms": 124613,
       "name": "Q-Dogz",
       "url": "https://open.spotify.com/track/6EK17FKKOldTKXCS11Jqh4"
+    },
+    {
+      "album": {
+        "name": "Quenched Galaxy",
+        "url": "https://open.spotify.com/album/3jRcJriNVViqLUBJF0bfaQ"
+      },
+      "artists": [
+        {
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554250,
+      "name": "Quenched Galaxy",
+      "url": "https://open.spotify.com/track/3EpVaswYPhSqhXUl5Y2ImS"
     },
     {
       "album": {
@@ -21076,7 +21138,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 160645,
       "name": "\u0160ta Bih Ja",
       "url": "https://open.spotify.com/track/6HWrlZ7AwIdxGj7Z6Yaz1A"

@@ -4,7 +4,7 @@
 
 > ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: PUN
 
-55 songs - 3 hr 18 min
+56 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-20 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-11 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-20 |  |
+| [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2024-07-14 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 |  |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-28 |  |
 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 | 2024-07-04 |  |
@@ -49,7 +50,7 @@
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-06-20 |  |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-06-20 |  |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-06-20 | 2024-07-12 |
-| [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-06-20 |  |
+| [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2024-06-20 | 2024-07-15 |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-06-20 |  |
 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2024-06-20 | 2024-07-12 |
 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 | 2024-06-20 |  |

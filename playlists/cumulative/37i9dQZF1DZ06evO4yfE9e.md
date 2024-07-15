@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is bludnymph\. أغاني روعة في قايمة أغاني واحدة.
+> This is bludnymph\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 23 songs - 58 min 25 sec
 

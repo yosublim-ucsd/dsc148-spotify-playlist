@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-79 songs - 3 hr 57 min
+80 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 |  |
 | [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 |  |
-| [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
+| [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 | 2024-07-15 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-14 |
 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 |  |
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-07-04 |  |
@@ -68,6 +68,7 @@
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 |  |
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 |  |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
+| [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 |  |
 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 | 2024-06-27 |  |
 | [Since You Left Me](https://open.spotify.com/track/0UfcxYW66XV0svQw73D2nR) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Since You Left Me](https://open.spotify.com/album/2rpoWA4DCH3qCpem8aWnd3) | 2:31 | 2024-07-04 |  |
 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 | 2024-06-27 |  |

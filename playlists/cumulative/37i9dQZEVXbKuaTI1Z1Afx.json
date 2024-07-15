@@ -10741,6 +10741,24 @@
     },
     {
       "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217123,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY"
+    },
+    {
+      "album": {
         "name": "Queen Elizabitch",
         "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
@@ -24913,6 +24931,28 @@
     },
     {
       "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "album": {
         "name": "DO NOT DISTURB (DELUXE)",
         "url": "https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P"
       },
@@ -38374,7 +38414,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -52080,7 +52120,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"

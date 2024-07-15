@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 155091,
+  "num_followers": 155140,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,54 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -143,18 +191,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+      "duration_ms": 248773,
+      "name": "Man\u00eda Cardiaca",
+      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -179,66 +243,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
     },
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Segundo Es Felino",
-        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 248773,
-      "name": "Man\u00eda Cardiaca",
-      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
+      "duration_ms": 230640,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -259,18 +291,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Fruta (Vol. II)",
-        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -295,18 +327,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 230640,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+      "duration_ms": 215146,
+      "name": "Fluye",
+      "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -343,54 +391,6 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Fluye",
-      "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "The Room",
         "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
       },
@@ -543,18 +559,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
       },
       "artists": [
         {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -587,22 +603,6 @@
       "duration_ms": 221853,
       "name": "\u00c9pocas",
       "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e1n",
-          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Kiosko",
         "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 253501,
       "name": "Kiosko",
       "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e1n",
+          "url": "https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu"
+        }
+      ],
+      "duration_ms": 277800,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Ya Lo Dijo Rufis Taylor",
-        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
-      },
-      "artists": [
-        {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "Es por Ti",
-      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Run... The Sun Is Burning All Your Hopes",
         "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Ya Lo Dijo Rufis Taylor",
+        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Es por Ti",
+      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "El Tiempo y la Ciudad",
         "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 193800,
       "name": "Todav\u00eda Te Alcanzo a Ver",
       "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 285247,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285247,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Mtv Unplugged",
         "url": "https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248645,
+      "name": "Me Has Olvidado",
+      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "No Puedo Parar",
         "url": "https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 259253,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Me Has Olvidado",
-      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Techo es el Suelo",
-        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
-      },
-      "artists": [
-        {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
-        }
-      ],
-      "duration_ms": 280083,
-      "name": "Dias Perfectos",
-      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Los Super Elegantes Ep",
         "url": "https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 247800,
       "name": "T\u00fa Est\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Techo es el Suelo",
+        "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 280083,
+      "name": "Dias Perfectos",
+      "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Sentado Aqu\u00ed",
+        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
+      },
+      "artists": [
+        {
+          "name": "Canseco",
+          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
+        }
+      ],
+      "duration_ms": 260949,
+      "name": "Sentado Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 206673,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/14dxDAiZ1YMfT0s0urR5Zh"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Sentado Aqu\u00ed",
-        "url": "https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp"
-      },
-      "artists": [
-        {
-          "name": "Canseco",
-          "url": "https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5"
-        }
-      ],
-      "duration_ms": 260949,
-      "name": "Sentado Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w"
     },
     {
       "added_at": "2023-09-01 16:42:45",

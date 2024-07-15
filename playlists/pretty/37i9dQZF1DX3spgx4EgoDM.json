@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 162659,
+  "num_followers": 162667,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gritar\u00eda",
-      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
@@ -299,6 +267,22 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Gritar\u00eda",
+      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 237093,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+      "duration_ms": 267826,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 267826,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "C\u00f3mo Te Voy a Olvidar",
-        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
         "name": "C\u00f3mo est\u00e1s",
         "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
       },
@@ -639,6 +619,46 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
+        "name": "C\u00f3mo Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2tyEPvpKX4m20YOGo5W6O4"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
         "name": "ADI\u00d3S (Live Version)",
         "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 203933,
       "name": "El Bomb\u00f3n",
       "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Matamoros Querido",
-      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Matamoros Querido",
+      "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 244653,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
       "artists": [
         {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1103,6 +1087,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "No Se",
-        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 160689,
-      "name": "No Se",
-      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
-    },
-    {
-      "added_at": "2024-06-12 22:49:30",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 264413,
       "name": "He Cre\u00eddo",
       "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
+    },
+    {
+      "added_at": "2024-06-12 22:49:30",
+      "album": {
+        "name": "No Se",
+        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 160689,
+      "name": "No Se",
+      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1679,18 +1679,22 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "Desde Que Te Fuiste",
+        "url": "https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 221269,
+      "name": "Desde Que Te Fuiste",
+      "url": "https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq"
     },
     {
       "added_at": "2024-06-12 22:49:30",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2024-06-12 22:49:30",
       "album": {
-        "name": "Desde Que Te Fuiste",
-        "url": "https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt"
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
         }
       ],
-      "duration_ms": 221269,
-      "name": "Desde Que Te Fuiste",
-      "url": "https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq"
+      "duration_ms": 214900,
+      "name": "Es el Amor",
+      "url": "https://open.spotify.com/track/4OaUwXCBL5V452WC81Kw8b"
     }
   ],
   "unique_name": "Cocina con Cumbia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,541 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,552 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [I Lay Down](https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA) | 4:56 |
 | 50 | [Love Me All the Time \- 2024 Remastered](https://open.spotify.com/track/0Vboi3nQ4d5OaJGskRa7Pb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 3:14 |
 
-Snapshot ID: `ZpByAAAAAABPpvDYU2cDJOMQRyA/Gx7c`
+Snapshot ID: `ZpHDgAAAAAD+LuGp3dS2uWQsZAYQ526O`

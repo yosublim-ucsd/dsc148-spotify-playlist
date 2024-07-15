@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 142702,
       "name": "Cortado",
       "url": "https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ"
@@ -1904,6 +1904,32 @@
       "duration_ms": 160750,
       "name": "Leafy Greens",
       "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "h00t",
+          "url": "https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116486,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw"
     },
     {
       "album": {

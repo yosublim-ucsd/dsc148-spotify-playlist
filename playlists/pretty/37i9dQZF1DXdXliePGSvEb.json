@@ -1,6 +1,6 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Anyma",
-  "num_followers": 61957,
+  "num_followers": 61976,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 206445,
-      "name": "Simply Won't Do",
-      "url": "https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "When the Lights Go Out",
         "url": "https://open.spotify.com/album/1L7MYLhgLH4LAevJrd0OJx"
       },
@@ -619,22 +603,18 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "LOST WITH U",
-        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
       "artists": [
         {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        },
-        {
-          "name": "Brody Leigh",
-          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 188372,
-      "name": "LOST WITH U",
-      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
+      "duration_ms": 206445,
+      "name": "Simply Won't Do",
+      "url": "https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -655,6 +635,26 @@
       "duration_ms": 147455,
       "name": "Burn Dem Bridges - Nia Archives Edit",
       "url": "https://open.spotify.com/track/7jOMGubGp37qGAnsCdztCn"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "LOST WITH U",
+        "url": "https://open.spotify.com/album/0aBNGuelsRj7vj2IPHpPln"
+      },
+      "artists": [
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Brody Leigh",
+          "url": "https://open.spotify.com/artist/1zGoUA3v41GWPM64amPniZ"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "LOST WITH U",
+      "url": "https://open.spotify.com/track/760tQeMBJJozLOd5mMJSbC"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "The Procedure",
         "url": "https://open.spotify.com/album/5tnVe6nQE4skLdV919H5qQ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 193082,
       "name": "The Procedure - Radio Edit",
       "url": "https://open.spotify.com/track/3dqRuioP7B3hXwKdcUEPrg"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Sweet Moment",
-        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Sweet Moment",
-      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "The Ghost",
         "url": "https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 325660,
       "name": "The Ghost",
       "url": "https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "The One's",
-        "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        },
-        {
-          "name": "Jordan Arts",
-          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
-        }
-      ],
-      "duration_ms": 196882,
-      "name": "The One's",
-      "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3mjRL9Jz75UKCzwIvXH2DB"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 263040,
       "name": "Nsera - Solomun Remix Edit",
       "url": "https://open.spotify.com/track/7IP9QmNlaocwL2NFLfaZQE"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "The One's",
+        "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "duration_ms": 196882,
+      "name": "The One's",
+      "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
     },
     {
       "added_at": "2023-11-29 12:16:00",

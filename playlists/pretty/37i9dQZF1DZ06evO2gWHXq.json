@@ -1,12 +1,12 @@
 {
   "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 220047,
+  "num_followers": 220061,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAGgkPGJZ34jxgoh/rY4WFy",
+  "snapshot_id": "ZpHDgAAAAACP/q0amJY27mOFMU1lJIr5",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Llegar\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV"
       },
@@ -371,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Tumbao",
-      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Si Pego",
         "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
       },
@@ -415,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Tumbao",
+      "url": "https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Round 2 (feat. MC Davo) - Single",
         "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
@@ -431,6 +459,22 @@
       "duration_ms": 201000,
       "name": "Round 2",
       "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
     },
     {
       "added_at": null,
@@ -459,22 +503,6 @@
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
     },
     {
       "added_at": null,
@@ -851,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Llamando A Tu Fon",
+        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
       },
       "artists": [
         {
@@ -860,13 +888,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 196880,
-      "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
-      "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+      "duration_ms": 207037,
+      "name": "Llamando A Tu Fon",
+      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
     },
     {
       "added_at": null,
@@ -895,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llamando A Tu Fon",
-        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
+        "name": "The Take Over, Vol. 3",
+        "url": "https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Llamando A Tu Fon",
-      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
+      "duration_ms": 236880,
+      "name": "Round 5 (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe"
     },
     {
       "added_at": null,
@@ -935,22 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Take Over, Vol. 3",
-        "url": "https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax"
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
         }
       ],
-      "duration_ms": 236880,
-      "name": "Round 5 (feat. MC Davo)",
-      "url": "https://open.spotify.com/track/6OydVhuksIoJcKztWssPKe"
+      "duration_ms": 190435,
+      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
+      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
     },
     {
       "added_at": null,
@@ -991,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
-        }
-      ],
-      "duration_ms": 190435,
-      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
-      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1027,6 +1035,22 @@
       "duration_ms": 175500,
       "name": "La Paleta (feat. C-Kan)",
       "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
     },
     {
       "added_at": null,
@@ -1051,8 +1075,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
       "artists": [
         {
@@ -1060,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1103,6 +1127,22 @@
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Juegos de pasi\u00f3n",
+      "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
     },
     {
       "added_at": null,
@@ -1163,22 +1203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Juegos de pasi\u00f3n",
-      "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cara o cruz, pt. 1",
         "url": "https://open.spotify.com/album/6KZuvoco8qmsJ6q64QLMiM"
       },
@@ -1223,26 +1247,6 @@
       "duration_ms": 174666,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tremenda",
-        "url": "https://open.spotify.com/album/5fYPkmVk2wjnZM6Nwxsqx3"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 192592,
-      "name": "Tremenda",
-      "url": "https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg"
     }
   ],
   "unique_name": "This Is MC Davo",

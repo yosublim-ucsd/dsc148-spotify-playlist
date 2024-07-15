@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 ### [This Is Megadeth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17aFuo)
 
-> This is Megadeth\. The essential tracks, all in one playlist.
+> This Is Megadeth\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,871 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,944 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 49 | [Dogs Of Chernobyl](https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 6:14 |
 | 50 | [Sudden Death](https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE) | 5:09 |
 
-Snapshot ID: `ZpByAAAAAAB0I35FS7tDb06xZi/2gn2h`
+Snapshot ID: `ZpHDgAAAAAAXFHUCcwrlP5QWtBSL/dI6`

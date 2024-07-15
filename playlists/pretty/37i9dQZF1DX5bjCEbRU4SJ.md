@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,226 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,276 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 7 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 8 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
 | 9 | [Silver Lining](https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Under The Blacklight \(Standard Version\)](https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8) | 3:36 |
-| 10 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
-| 11 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
-| 12 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 |
+| 10 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 |
+| 11 | [The Ocean](https://open.spotify.com/track/1Xm7HoeUAd75qGEyDvLBtQ) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Coles Corner](https://open.spotify.com/album/3Gm6V4tzZaYFbnhrvubylJ) | 5:36 |
+| 12 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 |
 | 13 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
 | 14 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 15 | [Wait for Me](https://open.spotify.com/track/5SHOb5hvMDzmIRfDhwBoq5) | [Motopony](https://open.spotify.com/artist/5urVI6ZUTzPlsqQoHVwc9s) | [Motopony](https://open.spotify.com/album/43mF1taGdqWTV6MG0R9IsW) | 4:49 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 33 | [This Old Dog](https://open.spotify.com/track/1hPZt6ih3ZEiU5Xv7iHGeF) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6x0MXL27N8nDhL0Xm4V73p) | 2:30 |
 | 34 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
 | 35 | [Coming Down](https://open.spotify.com/track/16bwzB6w9ev11KOZ1RNNKJ) | [Dum Dum Girls](https://open.spotify.com/artist/65ewrL6LvcNGMMRVlksNGS) | [Only in Dreams](https://open.spotify.com/album/6TEtRKzAhB3AQ5R0vnGTGz) | 6:30 |
-| 36 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
-| 37 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
+| 36 | [Perfect Day](https://open.spotify.com/track/3egOYMcML1gY2yM9GOvuXU) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Perfect Day](https://open.spotify.com/album/64SYukAhDXMKhtFJRoFqUg) | 3:44 |
+| 37 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
 | 38 | [Florida](https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Good Mood Fool](https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss) | 4:25 |
 | 39 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
 | 40 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 50 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
 | 51 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
 | 52 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 |
-| 53 | [The Upswing](https://open.spotify.com/track/6eCnpakN2g0R7CQttki1cg) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/4mgRBnUuUT2YjT8mqcxwcf) | 4:59 |
-| 54 | [Too Many Birds](https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 5:27 |
-| 55 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
+| 53 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
+| 54 | [The Upswing](https://open.spotify.com/track/6eCnpakN2g0R7CQttki1cg) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/4mgRBnUuUT2YjT8mqcxwcf) | 4:59 |
+| 55 | [Too Many Birds](https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam) | 5:27 |
 | 56 | [Pink Moon](https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg) | 2:03 |
 | 57 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 58 | [Something](https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 3:52 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 63 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |
 | 64 | [Can't Take You With Me](https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas is Afie](https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv) | 3:10 |
 | 65 | [Eyes](https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/0ipi3dQXxde567orrSLq50) | 2:28 |
-| 66 | [Goin' Home](https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Up In The Air \[Music From The Motion Picture\]](https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d) | 4:53 |
-| 67 | [Swimming Away](https://open.spotify.com/track/2zkPpyPeD9CS3KCuBTm1XA) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/6VMH3MMEp2SJmc6UArvzVD) | 3:08 |
-| 68 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
-| 69 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
+| 66 | [Two of Us on the Run](https://open.spotify.com/track/7eI7Y41wcPfqzAxqv1jogS) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman](https://open.spotify.com/album/3B6Xa8QdnsvMByLV9ooWz3) | 4:35 |
+| 67 | [Goin' Home](https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Up In The Air \[Music From The Motion Picture\]](https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d) | 4:53 |
+| 68 | [Swimming Away](https://open.spotify.com/track/2zkPpyPeD9CS3KCuBTm1XA) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Swimming Away](https://open.spotify.com/album/6VMH3MMEp2SJmc6UArvzVD) | 3:08 |
+| 69 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |
 | 70 | [Postcards From Italy](https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR) | 4:17 |
 
 Snapshot ID: `ZIsJ5AAAAACv4VzIs4A8BAR+WUM3askS`

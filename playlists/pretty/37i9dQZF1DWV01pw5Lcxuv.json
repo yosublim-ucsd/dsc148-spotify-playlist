@@ -1,6 +1,6 @@
 {
   "description": "Las que nunca pasan de moda. ",
-  "num_followers": 599733,
+  "num_followers": 599813,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-05-07 19:49:34",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
-    },
-    {
-      "added_at": "2024-05-07 19:49:34",
-      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 238160,
       "name": "T\u00fa de Qu\u00e9 Vas",
       "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2024-05-07 19:49:34",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "Living In The Background",
-        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 378946,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 184080,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "The Best Of Men At Work: Contraband",
-        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 221626,
       "name": "\u00c9l Me Minti\u00f3",
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "The Best Of Men At Work: Contraband",
+        "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
     },
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 166731,
-      "name": "Hagamos Un Trato",
-      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
         "name": "The Ultimate Collection 1968-2003",
         "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 174360,
       "name": "Debut Y Despedida",
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 166731,
+      "name": "Hagamos Un Trato",
+      "url": "https://open.spotify.com/track/7sj71Y12St8KlvMpBt4K27"
     },
     {
       "added_at": "2021-05-21 05:05:27",

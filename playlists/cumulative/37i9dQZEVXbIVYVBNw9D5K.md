@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-961 songs - 1 day 23 hr 51 min
+962 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,9 +231,10 @@
 | [DACIA X YATIYA \- Remix](https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [DACIA X YATIYA \(Remix\)](https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG) | 2:38 | 2024-02-27 |  |
 | [Daima](https://open.spotify.com/track/1u61m2yf7AaeGjASOpOOqR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Daima](https://open.spotify.com/album/4R1bXGAqz7bizLhnIaZm8p) | 3:24 | 2022-04-30 | 2022-08-01 |
 | [Dal](https://open.spotify.com/track/0cURwvT5iHZH6uNbZj0v4x) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Harekete kimse mâni olamaz.](https://open.spotify.com/album/43HQQ1JRPf6BqgZalomLrV) | 4:28 | 2021-11-21 | 2021-11-28 |
-| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 |  |
+| [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-05-18 | 2024-07-15 |
 | [Dale Don Dale](https://open.spotify.com/track/1aJUj5Vt8vPCyuuUwz6mOv) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/3Wf3GzXz37AdsYn0D9yq81) | 1:54 | 2024-06-15 | 2024-06-21 |
 | [Dale Don Dale](https://open.spotify.com/track/3OO1tH1VlH6T5vmLUi5coZ) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Dale Don Dale](https://open.spotify.com/album/263aBWwylDaIo3WzSUc3mR) | 1:54 | 2024-06-23 | 2024-06-29 |
+| [Dale Don Dale](https://open.spotify.com/track/5tBHtUUQl7pLRECyg6lBr7) | [Kerocan](https://open.spotify.com/artist/4ELjOm6SCtwJAs1Gq6T1pO) | [farukerem](https://open.spotify.com/album/6F4Eb8IrX1JU7ePTuLyZ8e) | 1:54 | 2024-07-14 |  |
 | [Dale Don Dale](https://open.spotify.com/track/6d41Qcxk0r5zJFzG683NRt) | [lonut cercel](https://open.spotify.com/artist/65WOws0UU3UN2ZcFlLVcV1) | [Dale Don Dale](https://open.spotify.com/album/7hU5rw9Ey5PdD6gJbf21El) | 1:54 | 2024-06-12 | 2024-06-15 |
 | [Dale Don Dale](https://open.spotify.com/track/12emtTdD2N7bGcS11Z1yKs) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/57Cp4stHR5TxADinMDv5E9) | 1:54 | 2024-06-28 | 2024-07-04 |
 | [Dale Don Dale](https://open.spotify.com/track/6izC8wfAtnH8R4pfhte2jj) | [servis gosevilde alihan](https://open.spotify.com/artist/1SAn01yqnPpDnuUzcPiag8) | [Dale Don Dale](https://open.spotify.com/album/1zWymHb5xYb9YceolWwEUL) | 1:54 | 2024-07-08 | 2024-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,775 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,859 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 45 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 46 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 |
 | 47 | [Sunday Blues](https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Sunday Blues](https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq) | 3:45 |
-| 48 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
-| 49 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
-| 50 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
-| 51 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
+| 48 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
+| 49 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
+| 50 | [I Do \(feat\. Amanda Black\)](https://open.spotify.com/track/4lIVnQXM5nBx3AmhsJ1KSA) | [LaSauce](https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Broken Lipstick](https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH) | 5:13 |
+| 51 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
 | 52 | [Beginning](https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Light](https://open.spotify.com/album/5ycopkcsa3kPg1cbw9sDqu) | 2:38 |
 | 53 | [Love Song](https://open.spotify.com/track/2wmyzZUVCXLQTgJvFsh5ef) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/4yKIBcOMs0m8JQv1ZbDJHt) | 3:28 |
 | 54 | [Angela](https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Rockstar](https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE) | 3:07 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 66 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
 | 67 | [Odo](https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo) | 3:06 |
 | 68 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
-| 69 | [Isabella](https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:32 |
-| 70 | [Sobabili](https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F) | [No Retreat\. No Surrender.](https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa) | 6:23 |
+| 69 | [Sobabili](https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F) | [No Retreat\. No Surrender.](https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa) | 6:23 |
+| 70 | [Isabella](https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:32 |
 | 71 | [Olufunmi](https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB) | 5:20 |
 | 72 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 73 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |

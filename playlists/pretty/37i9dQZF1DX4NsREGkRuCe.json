@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 73323,
+  "num_followers": 73483,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZpByPAAAAABnPt0MRBZYFFE4jTMM+Bpd",
   "tracks": [
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "BENIN BOYS",
-        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -235,22 +215,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "KOKO",
-        "url": "https://open.spotify.com/album/3NHLco72CZlcLjhteobxzr"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
@@ -267,18 +231,38 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+        "name": "KOKO",
+        "url": "https://open.spotify.com/album/3NHLco72CZlcLjhteobxzr"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
         }
       ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+      "duration_ms": 177692,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "BENIN BOYS",
+        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -311,6 +295,22 @@
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -351,22 +351,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -399,46 +399,42 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+        "name": "EZIOKWU (UNCUT)",
+        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 239865,
-      "name": "Uptown Disco",
-      "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
+      "duration_ms": 171089,
+      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -463,22 +459,26 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "EZIOKWU (UNCUT)",
-        "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 171089,
-      "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
+      "duration_ms": 239865,
+      "name": "Uptown Disco",
+      "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Shakespopi",
-        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Avana (Deluxe)",
         "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 182222,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -719,26 +719,6 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -783,22 +763,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Luv Again",
         "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
@@ -811,6 +775,42 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Romeo Must Die (RMD)",
         "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 157333,
       "name": "Loner",
       "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "13POS",
         "url": "https://open.spotify.com/album/3vJ0nwmFEngfkyAa6C83j0"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 185660,
       "name": "Salt",
       "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Cold War",
-        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 195749,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1459,22 +1439,6 @@
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1515,6 +1479,42 @@
       "duration_ms": 183157,
       "name": "Who Go Pay",
       "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Cold War",
+        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 195749,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-12 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 434775,
+  "num_followers": 435166,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Eagles (2013 Remaster)",
@@ -603,6 +619,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 365466,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -713,6 +729,22 @@
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Jailbreak (Deluxe Edition)",
@@ -743,22 +775,6 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -823,22 +839,6 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
@@ -1143,6 +1127,22 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Greatest Hits: Blondie",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 170160,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1337,20 +1321,20 @@
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Rose Garden",
         "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1431,6 +1415,22 @@
       "duration_ms": 222266,
       "name": "Jive Talkin'",
       "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing",
+      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Raspberries",
@@ -1575,22 +1591,6 @@
       "duration_ms": 205733,
       "name": "Grease - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing",
-      "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Rockin' All Over The World",
-        "url": "https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS"
-      },
-      "artists": [
-        {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "Rockin' All Over The World",
-      "url": "https://open.spotify.com/track/6YlOxoHWLjH6uVQvxUIUug"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "2 Hot!",
@@ -1671,6 +1655,22 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/5MsNoPWsiIbO6uz9KA6qDS"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "Rockin' All Over The World",
+      "url": "https://open.spotify.com/track/6YlOxoHWLjH6uVQvxUIUug"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
-      },
-      "artists": [
-        {
-          "name": "Ohio Players",
-          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "Love Rollercoaster",
-      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 183693,
       "name": "I Love to Love",
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
+      },
+      "artists": [
+        {
+          "name": "Ohio Players",
+          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "Love Rollercoaster",
+      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Wild And Peaceful",
         "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
@@ -1999,22 +2015,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -2027,22 +2027,6 @@
       "duration_ms": 213453,
       "name": "Loves Me Like a Rock",
       "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Book Of Dreams",
-        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2059,6 +2043,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Book Of Dreams",
+        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 296506,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 193573,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 296506,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
     },
     {
       "added_at": "2021-09-08 13:31:49",

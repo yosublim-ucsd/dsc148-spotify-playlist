@@ -1,6 +1,6 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 204215,
+  "num_followers": 204272,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -227,22 +227,6 @@
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -347,26 +331,6 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Live at the Banks House",
-        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
-      },
-      "artists": [
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
-        },
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 376093,
-      "name": "Nothing I Hold on to (Live)",
-      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
         "name": "On My Side",
         "url": "https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W"
       },
@@ -407,22 +371,6 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 497560,
-      "name": "All Hail King Jesus",
-      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -439,6 +387,58 @@
       "duration_ms": 518679,
       "name": "Miracles - Live",
       "url": "https://open.spotify.com/track/3sS3krMEoOsTSAPNtsTobt"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Live at the Banks House",
+        "url": "https://open.spotify.com/album/06BotF7CerCXpcm5Km2uX7"
+      },
+      "artists": [
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        },
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 376093,
+      "name": "Nothing I Hold on to (Live)",
+      "url": "https://open.spotify.com/track/2orHAZyBJH5rbojtwPsztm"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "All Hail King Jesus",
+      "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Take Courage (Radio Version)",
-      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH"
       },
@@ -627,6 +611,38 @@
       "duration_ms": 314800,
       "name": "I Don't Have Much",
       "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Take Courage (Radio Version)",
+      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
+    },
+    {
+      "added_at": "2024-06-23 03:54:14",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Forever Amen",
+      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -683,22 +699,6 @@
       "duration_ms": 338694,
       "name": "More Like Jesus - Live",
       "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
-    },
-    {
-      "added_at": "2024-06-23 03:54:14",
-      "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Forever Amen",
-      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
+        "name": "Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II",
+        "url": "https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ"
       },
       "artists": [
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 333574,
-      "name": "Holy Ground",
-      "url": "https://open.spotify.com/track/7L73QNGkvyi7rX6zJ0fcwO"
+      "duration_ms": 509219,
+      "name": "Worthy (Live)",
+      "url": "https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j"
     },
     {
       "added_at": "2024-06-23 03:54:14",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-06-23 03:54:14",
       "album": {
-        "name": "Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II",
-        "url": "https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ"
+        "name": "More",
+        "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 509219,
-      "name": "Worthy (Live)",
-      "url": "https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j"
+      "duration_ms": 333574,
+      "name": "Holy Ground",
+      "url": "https://open.spotify.com/track/7L73QNGkvyi7rX6zJ0fcwO"
     },
     {
       "added_at": "2024-06-23 03:54:14",

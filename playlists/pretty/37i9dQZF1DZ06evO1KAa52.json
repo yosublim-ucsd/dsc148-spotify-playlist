@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30b8\u30e3\u30b9\u30c6\u30a3\u30f3\u30fb\u30c6\u30a3\u30f3\u30d0\u30fc\u30ec\u30a4\u30af\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 629456,
-  "original_name": "This Is \u30b8\u30e3\u30b9\u30c6\u30a3\u30f3\u30fb\u30c6\u30a3\u30f3\u30d0\u30fc\u30ec\u30a4\u30af",
+  "description": "This is Justin Timberlake. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 629572,
+  "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAALopwmOWpHF41bdvJrLCD3",
+  "snapshot_id": "ZpHDgAAAAACr5gk2yD4Rie4YU+x9uiIQ",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,30 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
     },
     {
       "added_at": null,
@@ -515,30 +539,6 @@
       "duration_ms": 260120,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
     },
     {
       "added_at": null,
@@ -1149,6 +1149,6 @@
       "url": "https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8"
     }
   ],
-  "unique_name": "This Is \u30b8\u30e3\u30b9\u30c6\u30a3\u30f3\u30fb\u30c6\u30a3\u30f3\u30d0\u30fc\u30ec\u30a4\u30af",
+  "unique_name": "This Is Justin Timberlake",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KAa52"
 }

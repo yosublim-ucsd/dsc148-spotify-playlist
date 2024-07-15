@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,638 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,639 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6523,
+  "num_followers": 6520,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
+        "name": "Some Day in the 21century",
+        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Some Day in the 21century",
+      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
+    },
+    {
+      "added_at": "2024-06-28 05:51:45",
+      "album": {
         "name": "Thursday Night",
         "url": "https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
-        "name": "Some Day in the 21century",
-        "url": "https://open.spotify.com/album/0o0Es7FJ0NIPad1723Qk7r"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Some Day in the 21century",
-      "url": "https://open.spotify.com/track/6FHZgDfoeAMCLTDEAQFkHq"
-    },
-    {
-      "added_at": "2024-06-28 05:51:45",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
+        "name": "The Melody",
+        "url": "https://open.spotify.com/album/749XA133WWzUmG03OCSqFn"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "The Melody",
+      "url": "https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ"
+    },
+    {
+      "added_at": "2024-06-28 05:51:45",
+      "album": {
         "name": "AI (Feat. Loco)",
         "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 179200,
       "name": "AI (Feat. Loco)",
       "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
-    },
-    {
-      "added_at": "2024-06-28 05:51:45",
-      "album": {
-        "name": "The Melody",
-        "url": "https://open.spotify.com/album/749XA133WWzUmG03OCSqFn"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "The Melody",
-      "url": "https://open.spotify.com/track/5FqgslYHEkv51KtapyWsBZ"
     },
     {
       "added_at": "2024-06-28 05:51:45",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
-    },
-    {
-      "added_at": "2024-06-28 05:51:45",
-      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-06-28 05:51:45",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Swedish House Mafia ",
-  "num_followers": 252923,
+  "num_followers": 253070,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 147432,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
@@ -1095,30 +1115,6 @@
       "duration_ms": 234330,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Like A G6 (with Naeleck)",
-        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 148751,
-      "name": "Like A G6 (with Naeleck)",
-      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1143,42 +1139,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "When We Were Young (The Logical Song)",
-        "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 147432,
-      "name": "When We Were Young (The Logical Song)",
-      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         },
         {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         }
       ],
-      "duration_ms": 146974,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1219,6 +1199,26 @@
       "duration_ms": 251904,
       "name": "Sweet Disposition - John Summit & Silver Panda Remix",
       "url": "https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 146974,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Ritmo De La Noche (Vamos A La Playa)",
-        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        }
-      ],
-      "duration_ms": 171555,
-      "name": "Ritmo De La Noche (Vamos A La Playa)",
-      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kill The Vibe",
         "url": "https://open.spotify.com/album/3RajPAonNivFPajGSnsh42"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Ritmo De La Noche (Vamos A La Playa)",
+        "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Ritmo De La Noche (Vamos A La Playa)",
+      "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1603,6 +1603,26 @@
       "duration_ms": 152222,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1699,6 +1719,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Stumblin' In (feat. Timmy Trumpet) [Steve Aoki x Dimatik Remix]",
         "url": "https://open.spotify.com/album/4W1jnG3c37s0zKY6xSi1kx"
       },
@@ -1791,6 +1831,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "duration_ms": 131207,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
       },
@@ -1835,26 +1895,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        }
-      ],
-      "duration_ms": 131207,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
       },
@@ -1895,26 +1935,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Drums (Feat. Kim Petras) [Tiesto Remix]",
         "url": "https://open.spotify.com/album/44XmkCYKteYUBrSwe6Jvc2"
       },
@@ -1939,22 +1959,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+      "duration_ms": 214153,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1983,22 +1999,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Run Free (Countdown)",
         "url": "https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f"
       },
@@ -2015,6 +2015,50 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Laura Welsh",
+          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
+        }
+      ],
+      "duration_ms": 153040,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2063,30 +2107,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "By Now",
-        "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Laura Welsh",
-          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
       },
@@ -2131,6 +2151,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Beyond the Fire",
+        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 228620,
+      "name": "Beyond the Fire",
+      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
       },
@@ -2155,62 +2191,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Beyond the Fire",
-        "url": "https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1"
+        "name": "Missing You (feat. Nate Smith)",
+        "url": "https://open.spotify.com/album/49CNxAyvqa120JqsF8ypdh"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Beyond the Fire",
-      "url": "https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         },
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 187258,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0Ae4YMelaM5V6uWa5HNyKw"
     }
   ],
   "unique_name": "EDM 2024",

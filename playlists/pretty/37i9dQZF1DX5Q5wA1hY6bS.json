@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 297103,
-      "name": "Orange Juice",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -239,18 +223,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -287,34 +271,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk",
-      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -335,6 +303,22 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -347,6 +331,38 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -367,22 +383,6 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -691,38 +691,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 216753,
       "name": "Punta Cometa - Dancing For The Answers Alt Version",
       "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "People Need a Melody",
         "url": "https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
-        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
-        "name": "O' Be Joyful",
-        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "O' Be Joyful",
-      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted (Deluxe)",
+        "url": "https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "O' Be Joyful",
+      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Born at the Right Time",
-        "url": "https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x"
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 224161,
-      "name": "Born at the Right Time",
-      "url": "https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW"
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+        "name": "Born at the Right Time",
+        "url": "https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+      "duration_ms": 224161,
+      "name": "Born at the Right Time",
+      "url": "https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW"
     },
     {
       "added_at": "2024-07-05 19:52:41",

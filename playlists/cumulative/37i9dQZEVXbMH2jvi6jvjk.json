@@ -1643,6 +1643,36 @@
     },
     {
       "album": {
+        "name": "031 Studio Camp",
+        "url": "https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457145,
+      "name": "Ama Gear",
+      "url": "https://open.spotify.com/track/0cnbEf12FLBWx9QnBlw1EL"
+    },
+    {
+      "album": {
         "name": "Ama Number Ayi '10",
         "url": "https://open.spotify.com/album/4QveI815CoHhQjND6SJIhT"
       },
@@ -2386,7 +2416,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
@@ -2510,7 +2540,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 314226,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN"
@@ -4244,7 +4274,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 380251,
       "name": "Bayazi (feat. Mellow & Sleazy, Nobantu Vilakazi, Cowboii)",
       "url": "https://open.spotify.com/track/3mxQry8oUO3gvdz9sGkbud"
@@ -5584,7 +5614,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 206649,
       "name": "Brand New Dance",
       "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
@@ -11082,7 +11112,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 230358,
       "name": "Evil",
       "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
@@ -12524,7 +12554,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
@@ -13872,7 +13902,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 325531,
       "name": "Guilty Conscience 2",
       "url": "https://open.spotify.com/track/3LkXOTWDwskwciQoARFDzu"
@@ -14768,7 +14798,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 279823,
       "name": "Hit after Hit",
       "url": "https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd"
@@ -18146,7 +18176,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 414966,
       "name": "Izenzo",
       "url": "https://open.spotify.com/track/3pImmSzeKex5ffzsDoaL3z"
@@ -19864,7 +19894,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 368666,
       "name": "Kokotela (feat. Scotts Maphuma & Gipa)",
       "url": "https://open.spotify.com/track/48lcmlbwm4VHcOfXqWlVbx"
@@ -21084,7 +21114,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -22206,7 +22236,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 261758,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
@@ -37172,7 +37202,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 269500,
       "name": "Thula Mabota",
       "url": "https://open.spotify.com/track/4xXHrIiIeW7dMh5FoYI5m1"
@@ -37552,7 +37582,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 284903,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
@@ -38132,7 +38162,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 41487,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
@@ -38956,7 +38986,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 349164,
       "name": "Umaqondana",
       "url": "https://open.spotify.com/track/3TpQcE8EqBqobOznNdl20l"
@@ -41612,7 +41642,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"

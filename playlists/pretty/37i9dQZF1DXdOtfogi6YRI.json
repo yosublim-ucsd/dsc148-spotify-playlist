@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: FERBI, Mokebe, Ohgotmi",
-  "num_followers": 17533,
+  "num_followers": 17537,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "\u015bwi\u0119ty spok\u00f3j",
-        "url": "https://open.spotify.com/album/7wCOvfXAKaP4OlsYLmKh95"
-      },
-      "artists": [
-        {
-          "name": "Hubert.",
-          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
-        }
-      ],
-      "duration_ms": 226765,
-      "name": "szara bluza",
-      "url": "https://open.spotify.com/track/52YPR9esscjfP5OzB3XYoj"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "ZBUNTOWANI",
         "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 199285,
       "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
       "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "\u015bwi\u0119ty spok\u00f3j",
+        "url": "https://open.spotify.com/album/7wCOvfXAKaP4OlsYLmKh95"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "duration_ms": 226765,
+      "name": "szara bluza",
+      "url": "https://open.spotify.com/track/52YPR9esscjfP5OzB3XYoj"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Po sygnale nagraj wiadomo\u015b\u0107",
-        "url": "https://open.spotify.com/album/2dOqOuYW3z4Knsn3Ty78OT"
-      },
-      "artists": [
-        {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        }
-      ],
-      "duration_ms": 255164,
-      "name": "Latawce",
-      "url": "https://open.spotify.com/track/7kbCNJQQQUFEIz6RVECLjL"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "Kino",
         "url": "https://open.spotify.com/album/0Nyyv91nUo2ZEVbiDcgdYc"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Lot nad kuku\u0142czym gniazdem",
-        "url": "https://open.spotify.com/album/6Jo6V46DMzn5gOoV0j8yDE"
-      },
-      "artists": [
-        {
-          "name": "po prostu Kajtek",
-          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
-        }
-      ],
-      "duration_ms": 228496,
-      "name": "Lot nad kuku\u0142czym gniazdem",
-      "url": "https://open.spotify.com/track/4p8tLf1FDYoAznLPd537Lm"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "tom i jerry",
         "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
       },
@@ -847,6 +815,38 @@
       "duration_ms": 156000,
       "name": "tom i jerry",
       "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Po sygnale nagraj wiadomo\u015b\u0107",
+        "url": "https://open.spotify.com/album/2dOqOuYW3z4Knsn3Ty78OT"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        }
+      ],
+      "duration_ms": 255164,
+      "name": "Latawce",
+      "url": "https://open.spotify.com/track/7kbCNJQQQUFEIz6RVECLjL"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Lot nad kuku\u0142czym gniazdem",
+        "url": "https://open.spotify.com/album/6Jo6V46DMzn5gOoV0j8yDE"
+      },
+      "artists": [
+        {
+          "name": "po prostu Kajtek",
+          "url": "https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3"
+        }
+      ],
+      "duration_ms": 228496,
+      "name": "Lot nad kuku\u0142czym gniazdem",
+      "url": "https://open.spotify.com/track/4p8tLf1FDYoAznLPd537Lm"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "KAM-CAR",
-        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "KAM-CAR",
-      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "Ch\u0142opiec z gitar\u0105",
         "url": "https://open.spotify.com/album/1vDfUno12u5VV64oq0PtTe"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 200738,
       "name": "Jestem tylko py\u0142em",
       "url": "https://open.spotify.com/track/09AEGZjxD3DcDmdl7IdIXe"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "KAM-CAR",
+        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "KAM-CAR",
+      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Ponad chmurami",
-        "url": "https://open.spotify.com/album/5AhVDLvxM2m9GkGZOMbQ0k"
-      },
-      "artists": [
-        {
-          "name": "DZIARMA",
-          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
-        },
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Ponad chmurami",
-      "url": "https://open.spotify.com/track/1kWkVGKbi7J1qoVU2X38O9"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "HIP HOP",
         "url": "https://open.spotify.com/album/5NzcSRE2QbkshX2VAKrkMd"
       },
@@ -1235,26 +1211,26 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "UTAH",
-        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
+        "name": "Ponad chmurami",
+        "url": "https://open.spotify.com/album/5AhVDLvxM2m9GkGZOMbQ0k"
       },
       "artists": [
         {
-          "name": "Bedzik",
-          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
         },
         {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
         },
         {
-          "name": "Brojustchill",
-          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
         }
       ],
-      "duration_ms": 119200,
-      "name": "UTAH",
-      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
+      "duration_ms": 128571,
+      "name": "Ponad chmurami",
+      "url": "https://open.spotify.com/track/1kWkVGKbi7J1qoVU2X38O9"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1279,18 +1255,26 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Serato",
-        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+        "name": "UTAH",
+        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
       },
       "artists": [
         {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+        },
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "Brojustchill",
+          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
         }
       ],
-      "duration_ms": 147368,
-      "name": "Serato",
-      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+      "duration_ms": 119200,
+      "name": "UTAH",
+      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1331,6 +1315,22 @@
       "duration_ms": 197906,
       "name": "\u017bEBY NIE SK\u0141AMA\u0106",
       "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Serato",
+        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Serato",
+      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Trzymaj mnie",
-        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
-      },
-      "artists": [
-        {
-          "name": "J.Kossak",
-          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
-        },
-        {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Trzymaj mnie",
-      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1443,26 +1419,26 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "LE MANS",
-        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
+        "name": "Trzymaj mnie",
+        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
       },
       "artists": [
         {
-          "name": "Barto Katt",
-          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
+          "name": "J.Kossak",
+          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
         },
         {
-          "name": "Soulpete",
-          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
         },
         {
-          "name": "HVNCWOTY",
-          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
         }
       ],
-      "duration_ms": 138620,
-      "name": "LE MANS",
-      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
+      "duration_ms": 152823,
+      "name": "Trzymaj mnie",
+      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1487,6 +1463,30 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "LE MANS",
+        "url": "https://open.spotify.com/album/5wHnAF7IR0WJG1CtnXx66D"
+      },
+      "artists": [
+        {
+          "name": "Barto Katt",
+          "url": "https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W"
+        },
+        {
+          "name": "Soulpete",
+          "url": "https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5"
+        },
+        {
+          "name": "HVNCWOTY",
+          "url": "https://open.spotify.com/artist/2LKaqGRWCLeV1kksxNso8p"
+        }
+      ],
+      "duration_ms": 138620,
+      "name": "LE MANS",
+      "url": "https://open.spotify.com/track/5ni0V8CSpmP8BkJvyccxj4"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
-        "url": "https://open.spotify.com/album/141FZcXQbPBQfrQvvmVGnM"
+        "name": "SHUTDOWN",
+        "url": "https://open.spotify.com/album/03FIXn5smxVaMddPZaf7Iv"
       },
       "artists": [
         {
-          "name": "Ambaras",
-          "url": "https://open.spotify.com/artist/6dNsO5ifHPmduuk4h0Zjmh"
+          "name": "Mac Sch",
+          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
         }
       ],
-      "duration_ms": 139380,
-      "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
-      "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
+      "duration_ms": 175609,
+      "name": "SHUTDOWN",
+      "url": "https://open.spotify.com/track/08LsL5M8TzQk7KIjs3ONdH"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1727,34 +1727,18 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "SHUTDOWN",
-        "url": "https://open.spotify.com/album/03FIXn5smxVaMddPZaf7Iv"
+        "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
+        "url": "https://open.spotify.com/album/141FZcXQbPBQfrQvvmVGnM"
       },
       "artists": [
         {
-          "name": "Mac Sch",
-          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
+          "name": "Ambaras",
+          "url": "https://open.spotify.com/artist/6dNsO5ifHPmduuk4h0Zjmh"
         }
       ],
-      "duration_ms": 175609,
-      "name": "SHUTDOWN",
-      "url": "https://open.spotify.com/track/08LsL5M8TzQk7KIjs3ONdH"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
-        "name": "Life Ground",
-        "url": "https://open.spotify.com/album/75IZ1hSthQPnN9CEUcRe4p"
-      },
-      "artists": [
-        {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
-        }
-      ],
-      "duration_ms": 205019,
-      "name": "Life Ground",
-      "url": "https://open.spotify.com/track/0EJqyKlRLQ7JQD40NrtmvL"
+      "duration_ms": 139380,
+      "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
+      "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1799,6 +1783,22 @@
       "duration_ms": 202085,
       "name": "Pantomima",
       "url": "https://open.spotify.com/track/5RL8BbSQGaFXjox1ghbc0L"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Life Ground",
+        "url": "https://open.spotify.com/album/75IZ1hSthQPnN9CEUcRe4p"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 205019,
+      "name": "Life Ground",
+      "url": "https://open.spotify.com/track/0EJqyKlRLQ7JQD40NrtmvL"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1983,6 +1983,26 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
+        "name": "The Very Bass",
+        "url": "https://open.spotify.com/album/1UsbkYUwYq7QznKp78P2Oa"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
+        },
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        }
+      ],
+      "duration_ms": 210232,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
         "name": "KOLOR",
         "url": "https://open.spotify.com/album/0l63g7E22a9LNDvpW83WSa"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 200000,
       "name": "KOLOR",
       "url": "https://open.spotify.com/track/7EiH6etfaTRfDCK1DsUfDz"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
-        "name": "The Very Bass",
-        "url": "https://open.spotify.com/album/1UsbkYUwYq7QznKp78P2Oa"
-      },
-      "artists": [
-        {
-          "name": "TVB",
-          "url": "https://open.spotify.com/artist/194gAIlqoRQtBnToq45byL"
-        },
-        {
-          "name": "Krzaquu",
-          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
-        }
-      ],
-      "duration_ms": 210232,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs"
     },
     {
       "added_at": "2024-07-12 10:55:25",

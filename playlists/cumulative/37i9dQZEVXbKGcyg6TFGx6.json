@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 314226,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN"
@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 206649,
       "name": "Brand New Dance",
       "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
@@ -8064,7 +8064,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -10175,6 +10175,28 @@
     },
     {
       "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -11829,6 +11851,24 @@
     },
     {
       "album": {
+        "name": "Wenn Tiere schlafen - Lullaby Nana",
+        "url": "https://open.spotify.com/album/2rCPXSgtRBA6IYTepYuCJF"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Mitmachfever",
+          "url": "https://open.spotify.com/artist/3mKY6LUqmJUE6EgTQt3HOT"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149473,
+      "name": "En la Clara Noche Estrellada",
+      "url": "https://open.spotify.com/track/0XqSHtTRXWiuWck4GoE3Mj"
+    },
+    {
+      "album": {
         "name": "En La Disco",
         "url": "https://open.spotify.com/album/2k9ptOYblnV2f2ASX3XuWU"
       },
@@ -12402,7 +12442,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 230358,
       "name": "Evil",
       "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
@@ -13710,7 +13750,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -14422,7 +14462,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
@@ -15848,7 +15888,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 298384,
       "name": "Habits",
       "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
@@ -17976,7 +18016,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -21126,7 +21166,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/5YU6E3o8PGh6MoqVIyOBih"
@@ -21670,7 +21710,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 269333,
       "name": "Living Fearless",
       "url": "https://open.spotify.com/track/3Rx8x2kD4LYChtb6JEWHCK"
@@ -22376,7 +22416,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 261758,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
@@ -25148,7 +25188,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 105691,
       "name": "Mr Romeo",
       "url": "https://open.spotify.com/track/5674aTBHCadkrKz1E9t1zh"
@@ -25380,7 +25420,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
@@ -27722,7 +27762,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -28390,7 +28430,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -32280,7 +32320,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 193776,
       "name": "Secure the Bag",
       "url": "https://open.spotify.com/track/6moboScPauxTwUZWUlNY4G"
@@ -34540,6 +34580,24 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour (Deluxe)",
+        "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5MxWTfmlmRDx6VZHvB9xV8"
     },
     {
       "album": {
@@ -37684,7 +37742,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 284903,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
@@ -37724,6 +37782,24 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
     },
     {
       "album": {
@@ -38404,7 +38480,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 41487,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
@@ -38964,7 +39040,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -39480,7 +39556,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -40638,7 +40714,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 149066,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV"

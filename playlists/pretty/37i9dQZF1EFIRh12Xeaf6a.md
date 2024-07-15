@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,745 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,747 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 79 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
 | 80 | [The Old Crowd](https://open.spotify.com/track/4u4elgxRlDNeiQ0tn3yxnT) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:26 |
 | 81 | [Point of No Return](https://open.spotify.com/track/1SeZac1HSpWFBfXv1MUZ3H) | [Geto Boys](https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48) | [The Resurrection](https://open.spotify.com/album/06BLB0YP19RZgiqvYwho9A) | 3:05 |
-| 82 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 |
-| 83 | [Gotta Get Through Another Day](https://open.spotify.com/track/3PxezNLKAA9fwYZzVnf5hW) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:33 |
+| 82 | [Gotta Get Through Another Day](https://open.spotify.com/track/3PxezNLKAA9fwYZzVnf5hW) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:33 |
+| 83 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 |
 | 84 | [Yours Truly](https://open.spotify.com/track/2TFS8koduXCAmOwqdjjJ4A) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [Simply Engelbert \- Classic Love Songs and Ballads](https://open.spotify.com/album/4BiyT51ZLVRucMx9fxJVxU) | 3:38 |
 | 85 | [The First Day In August](https://open.spotify.com/track/075zqvJuvxI0XVKcrosMAr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:47 |
 | 86 | [This Little Girl](https://open.spotify.com/track/6VGqU1LCPFjJ7ZwrV5dsHS) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Donna the Prima Donna](https://open.spotify.com/album/5ZQh54BjXCUK15ziGP1zuX) | 2:34 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 94 | [Tell Daddy \- Single Version](https://open.spotify.com/track/3pCkgTO02gQveCFBiRKBoe) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [The Complete Atco/Atlantic Singles, Vol\. 1: 1960\-1966](https://open.spotify.com/album/1Wvl2Y20FavtOTi6y0jhEb) | 2:41 |
 | 95 | [A Quiet Place to Live](https://open.spotify.com/track/5gjD5X9YR05v8JVqbWvqg7) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:55 |
 | 96 | [Pierre](https://open.spotify.com/track/4yG5v8qiUhri7PyWp8qaLE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 5:38 |
-| 97 | [Being at War with Each Other](https://open.spotify.com/track/1hHpDn9q89uyvPAlrkri8i) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 4:01 |
-| 98 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 97 | [In the Name of Love](https://open.spotify.com/track/5RpGVmGXHyC9xQXsAFB3W6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:04 |
+| 98 | [Being at War with Each Other](https://open.spotify.com/track/1hHpDn9q89uyvPAlrkri8i) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 4:01 |
 | 99 | [After All This Time](https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 3:10 |
 | 100 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 |
 | 101 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 107 | [Stand Behind Me](https://open.spotify.com/track/2vAhTyIJP5LessHhtVyEuI) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:28 |
 | 108 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
 | 109 | [I Can't Hear You No More](https://open.spotify.com/track/1b2XVfjc6MIJbfUKwqarjp) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Love Songs](https://open.spotify.com/album/0tgyeTIjag0u6wTtwoN4xA) | 2:48 |
-| 110 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 |
-| 111 | [Ferguson Road](https://open.spotify.com/track/3uxZ4AsLRki16vSsb6NytJ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:38 |
+| 110 | [Ferguson Road](https://open.spotify.com/track/3uxZ4AsLRki16vSsb6NytJ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:38 |
+| 111 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 |
 | 112 | [I Can't Say Goodbye to You](https://open.spotify.com/track/24TtjVPpY6uuWxKKmosG28) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The New Album](https://open.spotify.com/album/7JqDnsWOUOEQ8tnxgxKMvW) | 2:12 |
 | 113 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
 | 114 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbWnhgAAAACzu6QaaB8W+mJVuWPJbRm2`
+Snapshot ID: `AbWtJgAAAABLJtlrQPuVRFdX+ujw3RSd`

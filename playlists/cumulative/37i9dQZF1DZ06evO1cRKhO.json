@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 965493,
       "name": "1970 Performance",
       "url": "https://open.spotify.com/track/46TXc9N0vQaV0tzYBsLRXS"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 1775066,
       "name": "1977 Performance",
       "url": "https://open.spotify.com/track/426VAuDnORB8piXMXkrbpK"
@@ -254,6 +254,28 @@
     {
       "album": {
         "name": "Altamirage",
+        "url": "https://open.spotify.com/album/1jGYkQ8m3Il9FXeNrmHSTl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "James Ilgenfritz",
+          "url": "https://open.spotify.com/artist/0ukgalrlZpVVwe9rYlkERE"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412842,
+      "name": "Altamirage I",
+      "url": "https://open.spotify.com/track/5K4jdhDGwZ5tI1K6lj1yen"
+    },
+    {
+      "album": {
+        "name": "Altamirage",
         "url": "https://open.spotify.com/album/5NmjzDrXmwmwnAyWZ6F8pf"
       },
       "artists": [
@@ -356,7 +378,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/62hehnD0OcI7pCM26KZGN9"
@@ -818,7 +840,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "David's Sandbox",
       "url": "https://open.spotify.com/track/2OtzKgyyOyq0cqTTZz687I"
@@ -1832,7 +1854,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 216013,
       "name": "Lines of Inevitability",
       "url": "https://open.spotify.com/track/3CNI9FT4WuBhQYux5VwdF0"
@@ -2590,7 +2612,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 214440,
       "name": "Quartetto Telematico #1",
       "url": "https://open.spotify.com/track/6gJwQqlBcKKS2M3K3MkuOr"
@@ -2620,7 +2642,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -3540,7 +3562,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 52226,
       "name": "The First Set / Area 4 (Solo) / A Little Noise In The System (Moog System)",
       "url": "https://open.spotify.com/track/2mCEerG0OqhoQIxXQFISXo"
@@ -3744,7 +3766,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 777266,
       "name": "The Well / The Gentle",
       "url": "https://open.spotify.com/track/5CUyYh2tB0d7RizNlkCIYY"
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 545000,
       "name": "Traces",
       "url": "https://open.spotify.com/track/53lH61JaOTUJXX9fU6Fzns"
@@ -4420,7 +4442,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-28",
+      "date_removed": null,
       "duration_ms": 214080,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/5m7ZLZHWo6ibtEvtSPrJxf"
@@ -4590,7 +4612,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 388229,
       "name": "Who Said What?",
       "url": "https://open.spotify.com/track/3w5M8aXMyeDTv6EtEDZUnu"

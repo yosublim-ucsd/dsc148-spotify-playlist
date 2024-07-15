@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1889367,
+  "num_followers": 1889862,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "The Real Folk Blues",
@@ -325,20 +309,20 @@
       "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -387,6 +371,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "I'm Tore Down",
-      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Cream Of Clapton",
@@ -483,6 +467,38 @@
       "duration_ms": 255600,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "I'm Tore Down",
+      "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -551,22 +567,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "To Know You Is To Love You",
-        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "To Know You Is To Love You",
-      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 295693,
       "name": "T-Bone Shuffle",
       "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -645,6 +629,22 @@
       "url": "https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ"
     },
     {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Born Under A Bad Sign (Mono)",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Chicago Bound",
-        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Walking By Myself",
-      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "The Earthshaker",
@@ -691,6 +675,22 @@
       "duration_ms": 274506,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Walking By Myself",
+      "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 414960,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2020-01-15 21:29:46",

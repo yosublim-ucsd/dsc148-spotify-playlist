@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This Is Pancho Barraza\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,596 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,635 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 |
 | 50 | [Perfecta](https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h) | [Perfecta](https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3) | 2:48 |
 
-Snapshot ID: `ZpByAAAAAABAVd5pPxeO2YQK9n8H6UNZ`
+Snapshot ID: `ZpHDgAAAAADdVkOX8ih96peFb4UHBQks`

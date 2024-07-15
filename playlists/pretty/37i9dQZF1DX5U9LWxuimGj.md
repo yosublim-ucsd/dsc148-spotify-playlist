@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,267 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,297 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

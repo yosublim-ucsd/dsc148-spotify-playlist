@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 5335,
+  "num_followers": 5338,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "W (feat. Gunna)",
         "url": "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
       },
@@ -367,26 +347,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 204664,
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -419,6 +395,30 @@
       "duration_ms": 265366,
       "name": "Rent Money",
       "url": "https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204664,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Kilometre",
         "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 221423,
       "name": "You're Mines Still",
       "url": "https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Big Moves",
         "url": "https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ"
       },
@@ -659,22 +639,6 @@
       "duration_ms": 159477,
       "name": "Big Moves",
       "url": "https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -699,6 +663,42 @@
       "duration_ms": 196037,
       "name": "WE GOING CRAZY (feat. H.E.R. & Migos)",
       "url": "https://open.spotify.com/track/6BvcWv1vfVJSoWix7L5BAP"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -755,6 +755,34 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 258982,
+      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
+      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Top a Di Top",
         "url": "https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM"
       },
@@ -807,34 +835,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 258982,
-      "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
-      "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
     },
     {
       "added_at": "2022-10-01 16:00:00",

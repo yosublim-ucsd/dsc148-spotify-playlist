@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+    },
+    {
+      "album": {
         "name": "Healing is Difficult (10th Anniversary Edition) (Deluxe)",
         "url": "https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG"
       },

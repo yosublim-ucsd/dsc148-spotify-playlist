@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 51372,
+  "num_followers": 51404,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rock Me Daddy, Vol. 1",
-        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
-      },
-      "artists": [
-        {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Boogie In \"G\"",
-      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Raisin' A Ruckus",
         "url": "https://open.spotify.com/album/35Sf6tKVBsBvRcdJhDVkoo"
       },
@@ -107,18 +91,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie Country Man",
-        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
+        "name": "Rock Me Daddy, Vol. 1",
+        "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Boogie Woogie Country Man",
-      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+      "duration_ms": 154840,
+      "name": "Boogie In \"G\"",
+      "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -139,6 +123,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie Country Man",
+        "url": "https://open.spotify.com/album/2hQVYtzEpTQ1FOhTkO6NfB"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Boogie Woogie Country Man",
+      "url": "https://open.spotify.com/track/2mdnLpoDVfuTVPoBVOAMjl"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -155,6 +155,22 @@
       "duration_ms": 218626,
       "name": "Pauly's Birthday Boogie",
       "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Two-Fisted Mama!",
+        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -199,22 +215,6 @@
       "duration_ms": 221626,
       "name": "Boogie Woogie Blues",
       "url": "https://open.spotify.com/track/3yJ1aTo6qNkCNfDHiQ2vfX"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Two-Fisted Mama!",
-        "url": "https://open.spotify.com/album/5cxMmYGtXmBefadP7GdBQt"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Caroline's Boogie",
-      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Caroline's Boogie",
+      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Flip, Flop And Fly 1951-1955",
-        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "The Boogie Woogie Trio vol. 1",
         "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Flip, Flop And Fly 1951-1955",
+        "url": "https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Boogie Woogie 50",
+        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Hightower Boogie Woogie",
         "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Boogie Woogie 50",
-        "url": "https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK"
+        "name": "Big Maceo",
+        "url": "https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs"
       },
       "artists": [
         {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 150973,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id"
+      "duration_ms": 181470,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1043,22 +1059,6 @@
       "duration_ms": 131099,
       "name": "Boyd's Boogie Woogie",
       "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Big Maceo",
-        "url": "https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 181470,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
     },
     {
       "added_at": "2024-05-30 16:27:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,658 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 |
 | 50 | [Sideways](https://open.spotify.com/track/7qzqx1R7HHWKcwioMAqX2M) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:14 |
 
-Snapshot ID: `ZpByAAAAAAB06YdtVzXWG52ORtoTfJ/K`
+Snapshot ID: `ZpHDgAAAAAD+KEm+QNWZ+ymtPoLk4qtA`

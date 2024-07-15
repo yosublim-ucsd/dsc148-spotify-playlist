@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 176600,
       "name": "How's the World Treating You",
       "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
@@ -2893,8 +2893,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
       },
       "artists": [
         {
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"

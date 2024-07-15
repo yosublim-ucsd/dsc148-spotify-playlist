@@ -27,6 +27,36 @@
     },
     {
       "album": {
+        "name": "A Dois Passos do Para\u00edso (Remix)",
+        "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Evandro Carlos Tiburski",
+          "url": "https://open.spotify.com/artist/3WnTOvr9Hr4aPgVXr7vun7"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "A Dois Passos do Para\u00edso - Remix",
+      "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
+    },
+    {
+      "album": {
         "name": "A Namorada",
         "url": "https://open.spotify.com/album/09eU4tqe8H3r8l7iXPK8LR"
       },
@@ -2068,7 +2098,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 191129,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"

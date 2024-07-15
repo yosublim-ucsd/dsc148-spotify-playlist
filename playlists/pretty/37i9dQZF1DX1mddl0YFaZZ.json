@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 7161,
+  "num_followers": 7209,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "Para El Bailador",
         "url": "https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 228893,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+        "name": "Pintame",
+        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
       },
       "artists": [
         {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+      "duration_ms": 259066,
+      "name": "P\u00edntame",
+      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+      },
+      "artists": [
+        {
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 293306,
       "name": "El Baile del Sua Sua",
       "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Pintame",
-        "url": "https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "P\u00edntame",
-      "url": "https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -399,34 +399,34 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Ilegales",
-        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
       "artists": [
         {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 264160,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
+      "duration_ms": 271813,
+      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
     },
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Mujer De Fuego",
-        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
       },
       "artists": [
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 267533,
-      "name": "Muchacho malo",
-      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+        "name": "Ilegales",
+        "url": "https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Ilegales",
+          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
         }
       ],
-      "duration_ms": 271813,
-      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
+      "duration_ms": 264160,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -475,6 +475,22 @@
       "duration_ms": 284266,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/7f698P4uIhoNM4E3XkgvL3"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Mujer De Fuego",
+        "url": "https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Muchacho malo",
+      "url": "https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -499,6 +515,58 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Como Yo",
+      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Suavemente...Los Exitos",
+        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Para Darte Mi Vida (with Milly Quezada)",
+      "url": "https://open.spotify.com/track/1SrTKJtKmtJtAoGYCaSnl1"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "Pochi y Su Cocoband",
         "url": "https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL"
       },
@@ -511,22 +579,6 @@
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -547,22 +599,6 @@
       "duration_ms": 279546,
       "name": "Como Olvidar - Merengue Versi\u00f3n",
       "url": "https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -595,42 +631,6 @@
       "duration_ms": 249746,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Suavemente...Los Exitos",
-        "url": "https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Para Darte Mi Vida (with Milly Quezada)",
-      "url": "https://open.spotify.com/track/1SrTKJtKmtJtAoGYCaSnl1"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Como Yo",
-      "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
         "name": "12 Golden Hits",
         "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+        "name": "Natusha & Kondor Band",
+        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Natusha & Kondor Band",
+          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
         }
       ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
+      "duration_ms": 227333,
+      "name": "El la Enga\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2024-06-21 00:01:00",
@@ -775,22 +791,6 @@
       "duration_ms": 250253,
       "name": "Linda Eh",
       "url": "https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Natusha & Kondor Band",
-        "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
-      },
-      "artists": [
-        {
-          "name": "Natusha & Kondor Band",
-          "url": "https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "El la Enga\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
     },
     {
       "added_at": "2024-06-21 00:01:00",

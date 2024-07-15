@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-522 songs - 1 day 18 hr 37 min
+523 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Everything Scatter](https://open.spotify.com/track/6y74qXlAaEs4zU1ZlbaQzc) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Everything Scatter](https://open.spotify.com/album/7CZ0IZI28mtM0mbK56b0dB) | 10:33 | 2021-12-24 | 2024-04-19 |
 | [Evil Ways](https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:40 | 2021-12-24 |  |
 | [Eyi Su Ngaangaa](https://open.spotify.com/track/5JbtzhsX0pEbm4K9w2tQxq) | [Sweet Talks](https://open.spotify.com/artist/0SA89uZQCAU8LQWnShcbY2) | [Adjoa](https://open.spotify.com/album/108dz2UCK2xNO6yanYhNlc) | 4:30 | 2021-12-24 | 2024-04-19 |
-| [Eyi Su Ngaangaa](https://open.spotify.com/track/7oUwbr745xYmqOaBN91vFH) | [The Sweet Talks](https://open.spotify.com/artist/4AbfEpyrix5fvwT3TuuqiO) | [The Kusum Beat](https://open.spotify.com/album/4nEfddlu5226JsgOxppjF8) | 4:30 | 2021-12-24 |  |
+| [Eyi Su Ngaangaa](https://open.spotify.com/track/7oUwbr745xYmqOaBN91vFH) | [The Sweet Talks](https://open.spotify.com/artist/4AbfEpyrix5fvwT3TuuqiO) | [The Kusum Beat](https://open.spotify.com/album/4nEfddlu5226JsgOxppjF8) | 4:30 | 2021-12-24 | 2024-07-15 |
 | [Family](https://open.spotify.com/track/5YowhCQYE5HkKbXt4bSCM0) | [King of Soukous](https://open.spotify.com/artist/4d7hJpEOSR0tbpVMRa1sXG) | [Wortels Musiek Uit Afrika](https://open.spotify.com/album/38IPpEnPP51pG66pU1dFok) | 6:46 | 2021-12-24 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2021-12-24 |  |
 | [Fever](https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:45 | 2022-04-01 |  |
@@ -246,6 +246,7 @@
 | [Jaleo](https://open.spotify.com/track/1awtsQkvPcJTpdPUOL6ROo) | [Trüby Trio](https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Elevator Music](https://open.spotify.com/album/76HfzVQBoxWCULabu2WTn0) | 6:26 | 2022-03-30 |  |
 | [Jaleo](https://open.spotify.com/track/7HMD3XScqwlYU2ITxLWUpg) | [Trüby Trio](https://open.spotify.com/artist/04WBarCWtSEs8ESWnYPlm5), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Elevator Music](https://open.spotify.com/album/25v6MAAGTHzuGZLHV25UKv) | 6:26 | 2022-03-30 | 2024-04-19 |
 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 | 2022-04-07 |  |
+| [Kaokokokorobo](https://open.spotify.com/track/6M6Bh0sjqmSQbPXy4PGqRc) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Great Black Music \(Spotify Version\)](https://open.spotify.com/album/3RZ2aKTTSbs1JLecrkfPCf) | 6:26 | 2021-12-24 |  |
 | [Kaokokokorobo](https://open.spotify.com/track/3yYOrniuNk628vfcpyeJUk) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ), [Viva La Musica](https://open.spotify.com/artist/7m3J8f7p179cFVTHz6prWO) | [Pôle position](https://open.spotify.com/album/4eoqDSXCN8HD4FLWMS1OWy) | 6:25 | 2021-12-24 | 2024-04-19 |
 | [Kin Night](https://open.spotify.com/track/0anV52xUFwVnABkRkNLazO) | [Dally Kimoko](https://open.spotify.com/artist/5VikdrCOjpE5YQ6IbchXg8), [Soukous Stars](https://open.spotify.com/artist/7wcl2LtA0w6O3KveN0Nico) | [Tobina](https://open.spotify.com/album/7tOgjA5K49b4XpjcBksMYV) | 10:56 | 2021-12-24 | 2024-04-19 |
 | [Kin Night](https://open.spotify.com/track/7Kh4xhbRmHO75GS6xhWBKE) | [Dally Kimoko](https://open.spotify.com/artist/5VikdrCOjpE5YQ6IbchXg8), [Soukous Stars](https://open.spotify.com/artist/7wcl2LtA0w6O3KveN0Nico) | [Tobina](https://open.spotify.com/album/1VSLLetXdXzuPnu9feIv2v) | 10:56 | 2021-12-24 |  |

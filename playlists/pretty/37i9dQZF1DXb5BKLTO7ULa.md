@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Roxy Dekker & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,630 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,684 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 59 | [Streek](https://open.spotify.com/track/59JyMOSBKm0gz0LGgENHKG) | [Yung Volwassen](https://open.spotify.com/artist/5VrGtTnbcfrS3uaIqhNCfj), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Streek](https://open.spotify.com/album/7hKgOfep5sMad6Jxl8yNOk) | 2:25 |
 | 60 | [Dune](https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s) | [Spiny Norman](https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K) | [Dune](https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC) | 3:59 |
 | 61 | [Tricks](https://open.spotify.com/track/3YQ135pPohGljtGqgszlV6) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [Tricks](https://open.spotify.com/album/5I1xXKn7PO1oCzjG37FbLo) | 2:53 |
-| 62 | [Something New \(feat\. MAX RAD\)](https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Something New \(feat\. MAX RAD\)](https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4) | 2:50 |
+| 62 | [Something New](https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Something New](https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4) | 2:50 |
 | 63 | [SNL](https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [SNL](https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn) | 3:06 |
 | 64 | [happier without you](https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC) | 3:06 |
 | 65 | [Lift Me Up](https://open.spotify.com/track/2z6P0T1ItJcWO256Kd3bYB) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Lift Me Up](https://open.spotify.com/album/7HWx4ygUJfxJlEBl9jKMYf) | 2:37 |

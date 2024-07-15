@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3775441,
+  "num_followers": 3777603,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAADhAxC1OnPf/0pI/432ItJx",
+  "snapshot_id": "ZpHDgAAAAADNG8XaDgS+Dzc2ytxQaxfD",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 41487,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -115,6 +131,22 @@
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 98152,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
     },
     {
       "added_at": null,
@@ -179,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "White Gold",
+          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
+        }
+      ],
+      "duration_ms": 298384,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -235,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
@@ -244,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
+      "duration_ms": 230358,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
     },
     {
       "added_at": null,
@@ -271,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -291,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
+        }
+      ],
+      "duration_ms": 261758,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Marshall Mathers LP2",
         "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
@@ -307,22 +395,6 @@
       "duration_ms": 250188,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 98152,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
     },
     {
       "added_at": null,
@@ -375,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 206649,
+      "name": "Brand New Dance",
+      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -387,26 +475,6 @@
       "duration_ms": 339546,
       "name": "Sing For The Moment",
       "url": "https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "White Gold",
-          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
-        }
-      ],
-      "duration_ms": 298384,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
     },
     {
       "added_at": null,
@@ -443,58 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 206649,
-      "name": "Brand New Dance",
-      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "River (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Is Yellow",
         "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
       },
@@ -524,25 +540,29 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 297840,
-      "name": "Cleanin' Out My Closet",
-      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+      "duration_ms": 251720,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
       "artists": [
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 41487,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
+      "duration_ms": 221013,
+      "name": "River (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s"
     },
     {
       "added_at": null,
@@ -595,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 297840,
+      "name": "Cleanin' Out My Closet",
+      "url": "https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lace It (with Eminem & benny blanco)",
         "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
       },
@@ -615,22 +651,6 @@
       "duration_ms": 217526,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 230358,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
     },
     {
       "added_at": null,
@@ -675,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Kill You",
+      "url": "https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
       },
@@ -691,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Sly Pyper",
-          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
-        }
-      ],
-      "duration_ms": 261758,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 269554,
       "name": "Venom - Music From The Motion Picture",
       "url": "https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "Kill You",
-      "url": "https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 206546,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 279013,
-      "name": "Cinderella Man",
-      "url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel (with Eminem)",
         "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 279013,
+      "name": "Cinderella Man",
+      "url": "https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5"
     },
     {
       "added_at": null,
@@ -947,26 +947,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
-        "url": "https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 236665,
-      "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
-      "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
+      "duration_ms": 207760,
+      "name": "Remember The Name (feat. Eminem & 50 Cent)",
+      "url": "https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
       "duration_ms": 278640,
       "name": "Space Bound",
       "url": "https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     }
   ],
   "unique_name": "This Is Eminem",

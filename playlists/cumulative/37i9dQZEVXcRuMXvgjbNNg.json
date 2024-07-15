@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/3Jzdz9f3KAgF9z6Ov866gl"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 261213,
       "name": "arms",
       "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 200321,
       "name": "As We Ran",
       "url": "https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5"
@@ -2559,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "Goodpain",
+        "url": "https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204213,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo"
+    },
+    {
+      "album": {
         "name": "Beige (unburdened)",
         "url": "https://open.spotify.com/album/7aSO345zVkhW76ldKAJGby"
       },
@@ -3018,6 +3036,24 @@
       "duration_ms": 229673,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/2iLwlq72aijGUvczz0BByi"
+    },
+    {
+      "album": {
+        "name": "Big Love Ahead",
+        "url": "https://open.spotify.com/album/0XT6wyN9L8cv0On0rOKNIb"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Big Love Ahead",
+      "url": "https://open.spotify.com/track/3RGfmaB407YxayMDaV2jlO"
     },
     {
       "album": {
@@ -4782,7 +4818,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 224673,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD"
@@ -4800,10 +4836,28 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 119571,
       "name": "CHRONICALLY CAUTIOUS",
       "url": "https://open.spotify.com/track/7fw47hoXPG24gh3i94F2pt"
+    },
+    {
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "Cigarette Daydreams",
+      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
     },
     {
       "album": {
@@ -4908,7 +4962,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 170759,
       "name": "City on a Hill",
       "url": "https://open.spotify.com/track/11i1ZadbMOxmAHanhcQonu"
@@ -5002,7 +5056,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 213576,
       "name": "Close Behind",
       "url": "https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba"
@@ -5078,6 +5132,24 @@
       "duration_ms": 283915,
       "name": "Closer to My Heart",
       "url": "https://open.spotify.com/track/0nGyc26fHbXzMCDwykT5PG"
+    },
+    {
+      "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
     },
     {
       "album": {
@@ -6449,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+    },
+    {
+      "album": {
         "name": "Delicious Monster",
         "url": "https://open.spotify.com/album/45il8PFjFMX5W8zYmlNTYl"
       },
@@ -6796,7 +6886,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 183850,
       "name": "Don't Let Me",
       "url": "https://open.spotify.com/track/5Vnny8AlKRnPZ3wQNouf2T"
@@ -7418,6 +7508,24 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "album": {
@@ -8706,7 +8814,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 271137,
       "name": "Float",
       "url": "https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np"
@@ -11196,7 +11304,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 190017,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/3WMj3VfJhsKO6KcGy3ddDb"
@@ -13352,7 +13460,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 246350,
       "name": "If I Didn\u2019t Love You",
       "url": "https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ"
@@ -13808,6 +13916,24 @@
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
+    },
+    {
+      "album": {
+        "name": "Rustin' In The Rain",
+        "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "In Your Love",
+      "url": "https://open.spotify.com/track/1y3CG6thNhG1ndaNW0JuEp"
     },
     {
       "album": {
@@ -14284,7 +14410,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 256021,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R"
@@ -15862,6 +15988,24 @@
       "duration_ms": 140851,
       "name": "Limitless Love",
       "url": "https://open.spotify.com/track/1dmRCX8jH5dI2QROBhEviX"
+    },
+    {
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "album": {
@@ -18175,6 +18319,24 @@
     },
     {
       "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
+    },
+    {
+      "album": {
         "name": "When I Was Younger",
         "url": "https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN"
       },
@@ -18584,6 +18746,24 @@
       "duration_ms": 272743,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer) \u2013 Live at the Troubadour",
       "url": "https://open.spotify.com/track/5cOTSDfDfjX4NLRZBsGlNd"
+    },
+    {
+      "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270973,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
     },
     {
       "album": {
@@ -19392,7 +19572,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 215440,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD"
@@ -21531,6 +21711,24 @@
     },
     {
       "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
+    },
+    {
+      "album": {
         "name": "Rearview",
         "url": "https://open.spotify.com/album/3f6DvjqGkMsTnVRn8s0udM"
       },
@@ -22508,7 +22706,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 251269,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/6S2Uha79wlOXCRlDOImZkZ"
@@ -23374,7 +23572,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 267880,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
@@ -23732,6 +23930,24 @@
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
+    },
+    {
+      "album": {
+        "name": "Disney 2000s, Vol. 2 Summer Break",
+        "url": "https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/3mVYQfWhfYu35lQY2ar1Q8"
     },
     {
       "album": {
@@ -25464,7 +25680,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 223680,
       "name": "Take Yours, I'll Take Mine",
       "url": "https://open.spotify.com/track/3mN9RcQg6oSPDSumrYNLFa"
@@ -26040,7 +26256,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
@@ -26786,7 +27002,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 256535,
       "name": "The Wolves and the Ravens",
       "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
@@ -27778,6 +27994,24 @@
       "duration_ms": 187917,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4LgRVcUYk6sf2hFm4C55nT"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/4i68f3r88akPCd1eY898XA"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240586,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7xrgjsuZwFtv25ELEMKkpl"
     },
     {
       "album": {
@@ -28970,7 +29204,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
@@ -29050,7 +29284,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 287634,
       "name": "Welcome Home, Son",
       "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
@@ -30494,7 +30728,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/1VsciQwDYOAyDw2FX6D062"

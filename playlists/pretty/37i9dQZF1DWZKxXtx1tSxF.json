@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 42822,
+  "num_followers": 42849,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "The Return of El Santo",
         "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
@@ -235,26 +251,6 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Caney",
-        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Caney",
-      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
       },
       "artists": [
         {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
         }
       ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+      "duration_ms": 230186,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
         }
       ],
-      "duration_ms": 211974,
-      "name": "Una Cumbia Triste",
-      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
+      "duration_ms": 194213,
+      "name": "San B\u00e1",
+      "url": "https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 194213,
-      "name": "San B\u00e1",
-      "url": "https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE"
+      "duration_ms": 211974,
+      "name": "Una Cumbia Triste",
+      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "25 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Todo Lo Que Se Fue",
         "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
       },
@@ -559,38 +575,6 @@
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Alas Canciones",
-        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 302280,
-      "name": "Sigo Caminando",
-      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -643,6 +627,22 @@
       "duration_ms": 242409,
       "name": "Gozar Hasta Que Me Ausente",
       "url": "https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 159832,
       "name": "C\u00f3mo Te Hago Entender",
       "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Ruli",
-        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Circunvalaci\u00f3n",
-      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
         "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Ruli",
+        "url": "https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Circunvalaci\u00f3n",
+      "url": "https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Eu Quero Tudo",
         "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 261556,
       "name": "Am\u00e9rica Vibra",
       "url": "https://open.spotify.com/track/72PvkTLkue9YzAltQL2skH"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "No me llames",
+        "url": "https://open.spotify.com/album/3xm9SiRHUHCMkyKRiB4MoJ"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "El Flecha Negra",
+          "url": "https://open.spotify.com/artist/2LW5Q1jGQvTI3ESyHDC7ce"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 203258,
+      "name": "No me llames",
+      "url": "https://open.spotify.com/track/2LRUANj5htC9r1duHXSiDR"
     }
   ],
   "unique_name": "Atardecer en la playa",

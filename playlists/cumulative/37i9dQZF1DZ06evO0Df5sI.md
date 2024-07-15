@@ -4,7 +4,7 @@
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 2 min
+115 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Continental](https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:27 | 2023-12-13 |  |
 | [Cop](https://open.spotify.com/track/6oijxJm6ERumMuuxqsi9Bf) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:18 | 2023-11-10 | 2023-12-14 |
 | [Crawl](https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 4:25 | 2022-09-18 | 2023-01-28 |
-| [Cringe](https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:23 | 2022-09-16 |  |
+| [Cringe](https://open.spotify.com/track/0rp47ZE0Ej8bc7KbgvoQRG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:23 | 2022-09-16 | 2024-07-15 |
+| [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 | 2024-07-15 |  |
 | [Demon and Division](https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:16 | 2022-09-16 |  |
 | [Dethbed](https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 3:03 | 2024-05-28 |  |
 | [Dethbed](https://open.spotify.com/track/0rXAiZQWz7QPoXeWVgAMj1) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY) | 3:03 | 2022-09-30 | 2022-10-02 |
@@ -43,7 +44,7 @@
 | [Fall Victim](https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 3:18 | 2023-12-13 |  |
 | [Fatally Yours](https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 2:16 | 2023-12-13 |  |
 | [Fatally Yours](https://open.spotify.com/track/5ZQvdpuEbWiKQVWn8tsJ94) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/6hj7cv9c4x3OteLDKdGL0l) | 2:16 | 2022-09-16 | 2023-12-14 |
-| [Fuck You Aurora](https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:49 | 2022-09-16 |  |
+| [Fuck You Aurora](https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:49 | 2022-09-16 | 2024-07-15 |
 | [Goodbye Fire Island](https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 3:31 | 2022-09-18 | 2023-03-09 |
 | [Goodbye Forever](https://open.spotify.com/track/3SPNVZvfdJBzvAqzx6szsv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:50 | 2022-09-19 | 2022-10-05 |
 | [Heart Attacks](https://open.spotify.com/track/28vbpQYAJaUQvQ9s5Rc6lv) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:20 | 2023-04-01 |  |
@@ -79,7 +80,8 @@
 | [Movin' Right Along](https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 2:33 | 2022-09-16 |  |
 | [Mr\. Chainsaw](https://open.spotify.com/track/20t6jJkDNQed6QGYlC0eFa) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4) | 3:05 | 2022-09-16 | 2023-12-14 |
 | [Mr\. Chainsaw](https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:05 | 2023-12-13 |  |
-| [My Friend Peter](https://open.spotify.com/track/27jbQySldKEX1W17293Mto) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:14 | 2022-09-16 |  |
+| [My Friend Peter](https://open.spotify.com/track/27jbQySldKEX1W17293Mto) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/5waByzUzczyEbkV55jcIke) | 2:14 | 2022-09-16 | 2024-07-15 |
+| [My Friend Peter](https://open.spotify.com/track/7s5Q2uZ3NcolrQnyCZx0zX) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:14 | 2024-07-15 |  |
 | [My Standard Break from Life](https://open.spotify.com/track/5o3o957pQk9riQYqg0iDoF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H) | 2:34 | 2022-09-16 | 2023-11-11 |
 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 | 2024-01-13 |  |
 | [Nose Over Tail](https://open.spotify.com/track/2S625H9Z7oaQD3p7pt5CvJ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 2:37 | 2023-05-09 | 2024-07-03 |

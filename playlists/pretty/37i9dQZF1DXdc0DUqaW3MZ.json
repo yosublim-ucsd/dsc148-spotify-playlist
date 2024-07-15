@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 344491,
+  "num_followers": 344598,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 174579,
+      "name": "Turn Me Inside",
+      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 284573,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "The Road To Hell Is Paved With Good Intentions",
-        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 174579,
-      "name": "Turn Me Inside",
-      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "FYO",
         "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "duration_ms": 143807,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u"
-      },
-      "artists": [
-        {
-          "name": "tendai",
-          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
-        }
-      ],
-      "duration_ms": 143807,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Above (feat. i am an island)",
-        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "i am an island",
-          "url": "https://open.spotify.com/artist/2ih06jCvzYsW24ZfcWe41w"
-        }
-      ],
-      "duration_ms": 185168,
-      "name": "Above (feat. i am an island)",
-      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "Above (feat. i am an island)",
+        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "i am an island",
+          "url": "https://open.spotify.com/artist/2ih06jCvzYsW24ZfcWe41w"
+        }
+      ],
+      "duration_ms": 185168,
+      "name": "Above (feat. i am an island)",
+      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "All Mine",
-        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+        "name": "SOLID (Adam Swim Remix)",
+        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
       },
       "artists": [
         {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         },
         {
-          "name": "John Givez",
-          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
         }
       ],
-      "duration_ms": 148529,
-      "name": "All Mine",
-      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+      "duration_ms": 311578,
+      "name": "SOLID - Adam Swim Remix",
+      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
     }
   ],
   "unique_name": "Soultronic",

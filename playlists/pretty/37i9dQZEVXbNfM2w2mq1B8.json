@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 15602,
+  "num_followers": 15612,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LiXo8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lic6cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "GALENAXX",
         "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u041e\u043a\u0430\u0434\u0430\u0440",
         "url": "https://open.spotify.com/album/5xx3nU4LyrplNLBLzNVTBG"
@@ -45,27 +45,23 @@
       "url": "https://open.spotify.com/track/3dka3n7xJ9gPiqPhWPy4su"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
+        "name": "Losha",
+        "url": "https://open.spotify.com/album/0K4vDNBQ6yIs06UuOk3sWt"
       },
       "artists": [
         {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
+      "duration_ms": 218468,
+      "name": "Losha",
+      "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "GALENAXX",
         "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
@@ -85,23 +81,27 @@
       "url": "https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "Losha",
-        "url": "https://open.spotify.com/album/0K4vDNBQ6yIs06UuOk3sWt"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
       },
       "artists": [
         {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        },
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 218468,
-      "name": "Losha",
-      "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
+      "duration_ms": 198000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -149,23 +149,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -181,123 +165,23 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 98152,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
-        "url": "https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
-      "url": "https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "White Gold",
-          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
-        }
-      ],
-      "duration_ms": 298384,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "Tuka Tuka",
-        "url": "https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW"
-      },
-      "artists": [
-        {
-          "name": "Krisko",
-          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
-        }
-      ],
-      "duration_ms": 196918,
-      "name": "Tuka Tuka",
-      "url": "https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
-        "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
-      "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227032,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -321,7 +205,55 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "Tuka Tuka",
+        "url": "https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "duration_ms": 196918,
+      "name": "Tuka Tuka",
+      "url": "https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
+        "url": "https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "\u041a\u044a\u0440\u0442\u0438\u0448",
+      "url": "https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Men Si Tarsil",
         "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
@@ -337,47 +269,23 @@
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
-        "url": "https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed"
+        "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
+        "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
       },
       "artists": [
         {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
-        },
-        {
-          "name": "Ivayla",
-          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 172235,
-      "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
-      "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
+      "duration_ms": 195348,
+      "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
+      "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "Moy Si Merak",
-        "url": "https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
-        },
-        {
-          "name": "MIRELA",
-          "url": "https://open.spotify.com/artist/7poijwJbRfkRYLxylOdbJE"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Moy Si Merak",
-      "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -397,7 +305,27 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
+        "url": "https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
+        },
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
+      "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez"
@@ -417,123 +345,27 @@
       "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "Moy Si Merak",
+        "url": "https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 206649,
-      "name": "Brand New Dance",
-      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 230358,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 41487,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "MIRELA",
+          "url": "https://open.spotify.com/artist/7poijwJbRfkRYLxylOdbJE"
         }
       ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+      "duration_ms": 179166,
+      "name": "Moy Si Merak",
+      "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "GALENAXX",
-        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 198580,
-      "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
-      "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
-      },
-      "artists": [
-        {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
@@ -542,34 +374,14 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Sly Pyper",
-          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
         }
       ],
-      "duration_ms": 261758,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/50No7LiVffAJCWIChZodmU"
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "GALENAXX",
-        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "\u0414\u043e\u043a\u0442\u043e\u0440\u0435",
-      "url": "https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Smeraldo Garden Marching Band (feat. Loco)",
         "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
@@ -589,27 +401,103 @@
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         }
       ],
-      "duration_ms": 213646,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
+      "duration_ms": 198580,
+      "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "\u0414\u043e\u043a\u0442\u043e\u0440\u0435",
+      "url": "https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+        "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+      "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u041c\u0430\u043c\u0430 \u043c\u0438\u0430",
         "url": "https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q"
@@ -629,23 +517,23 @@
       "url": "https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+      "duration_ms": 189473,
+      "name": "\u0418\u0433\u0440\u0430\u0439",
+      "url": "https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -665,71 +553,7 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
-        "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
-      "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "Antichrist",
-      "url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "GALENAXX",
-        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "\u0418\u0433\u0440\u0430\u0439",
-      "url": "https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u041a\u0430\u0437\u0430\u0445 \"\u041dE\"",
         "url": "https://open.spotify.com/album/3tbPdjhCtwW8zbcLUp3gOw"
@@ -749,7 +573,27 @@
       "url": "https://open.spotify.com/track/5iqz9iOrbCYHXi23gltzo4"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Closer Than This",
         "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
@@ -765,7 +609,23 @@
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u041b\u043e\u0448 \u0438\u043b\u0438 \u0434\u043e\u0431\u044a\u0440",
         "url": "https://open.spotify.com/album/3Pg1TLcfvKqzm2uucnozzB"
@@ -781,31 +641,7 @@
       "url": "https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 284903,
-      "name": "Tobey (feat. Big Sean and BabyTron)",
-      "url": "https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP"
-    },
-    {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
         "url": "https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss"
@@ -825,7 +661,7 @@
       "url": "https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Set Me Free Pt.2",
         "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
@@ -841,23 +677,27 @@
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -873,7 +713,123 @@
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "White Gold",
+          "url": "https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ"
+        }
+      ],
+      "duration_ms": 298384,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "\u0423\u0431\u0438\u0439 \u043c\u0435",
+      "url": "https://open.spotify.com/track/2EQc2P44Rbxnisizg91153"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
+        "url": "https://open.spotify.com/album/0SjTFgK4uWJgntsGLObsNz"
+      },
+      "artists": [
+        {
+          "name": "Toni Storaro",
+          "url": "https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ"
+        },
+        {
+          "name": "Kiril Kirilov",
+          "url": "https://open.spotify.com/artist/37BgmbtPxXjBRKTOdl7zhA"
+        },
+        {
+          "name": "Alisia",
+          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
+        }
+      ],
+      "duration_ms": 214222,
+      "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
+      "url": "https://open.spotify.com/track/5btaxbk6nG46VQTyLpBxTu"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3krDdyri6NeeU7FwTiAniq"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
+        "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 181304,
+      "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 98152,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -889,7 +845,59 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-07-13 09:22:23",
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 206649,
+      "name": "Brand New Dance",
+      "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u0416\u0430\u043b\u043a\u043e",
+      "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
+      "album": {
+        "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+        "url": "https://open.spotify.com/album/7yF4PVvRoaoCQtxgke3XvY"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        },
+        {
+          "name": "Danna",
+          "url": "https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
+      "url": "https://open.spotify.com/track/2aAauMPpypnaxndfR1y6Y6"
+    },
+    {
+      "added_at": "2024-07-14 14:25:33",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: My Deer Friend Nokotan しかのこのこのここしたんたん ©おしおしお・講談社／日野南高校シカ部
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,727 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,923 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,23 +39,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 29 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 30 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
 | 31 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
-| 32 | [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 |
-| 33 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 32 | [クラクラ](https://open.spotify.com/track/1430GkKh9OD6jtKNV7pu0Q) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [クラクラ](https://open.spotify.com/album/55K68hk6VS7YBZj2sQkXhW) | 3:11 |
+| 33 | [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 |
 | 34 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 |
 | 35 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
-| 36 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
-| 37 | [正解はいらない](https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [正解はいらない](https://open.spotify.com/album/5GGDpAGTo3Y2c2Gboiv6OC) | 2:45 |
-| 38 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
+| 36 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 |
+| 37 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 38 | [正解はいらない](https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [正解はいらない](https://open.spotify.com/album/5GGDpAGTo3Y2c2Gboiv6OC) | 2:45 |
 | 39 | [request](https://open.spotify.com/track/63MlPFQQ7PNGiiHMnVrfw2) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [request](https://open.spotify.com/album/1f6C0igNf8jtwASukoTF6I) | 3:44 |
 | 40 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 |
 | 41 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 42 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
 | 43 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 |
-| 44 | [バイマイダーリン](https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [バイマイダーリン](https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA) | 2:40 |
-| 45 | [運命ちゃん](https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [運命ちゃん](https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj) | 3:16 |
-| 46 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 |
-| 47 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 |
-| 48 | [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 |
+| 44 | [運命ちゃん](https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [運命ちゃん](https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj) | 3:16 |
+| 45 | [バイマイダーリン](https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [バイマイダーリン](https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA) | 2:40 |
+| 46 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 |
+| 47 | [スノーノワール](https://open.spotify.com/track/6f8dUmzyg5kAvn1yMZI2Pc) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [スノーノワール](https://open.spotify.com/album/6x4DToJwtB6d3sZaWh2IAj) | 3:28 |
+| 48 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 |
 | 49 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 |
 | 50 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 

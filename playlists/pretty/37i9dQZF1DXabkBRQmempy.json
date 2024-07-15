@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 332184,
+  "num_followers": 332373,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 352160,
+      "name": "En El Muelle de San Blas",
+      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 253186,
       "name": "Maldito duende",
       "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 352160,
-      "name": "En El Muelle de San Blas",
-      "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "A un minuto de ti",
+      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "El Silencio",
         "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
@@ -219,18 +235,18 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
       },
       "artists": [
         {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 233733,
-      "name": "A un minuto de ti",
-      "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -299,8 +315,8 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
@@ -308,25 +324,9 @@
           "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "Senderos De Traici\u00f3n",
         "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 368320,
       "name": "Entre dos tierras",
       "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -439,38 +439,6 @@
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -519,6 +487,38 @@
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
     },
     {
       "added_at": "2024-06-12 20:42:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -667,38 +683,6 @@
     {
       "added_at": "2024-06-12 20:42:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2024-06-12 20:42:00",
-      "album": {
         "name": "3980",
         "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2024-06-12 20:42:00",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2024-06-12 20:42:00",

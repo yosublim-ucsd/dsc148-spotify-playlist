@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 155143,
+  "num_followers": 155241,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
+        "name": "Always (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154957,
+      "name": "Always (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
         "name": "Otan",
         "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
-        "name": "Always (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 154957,
-      "name": "Always (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "NYEM EGO (feat. Jeriq)",
-      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "Want It All (feat. Polo G)",
         "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
       },
@@ -471,26 +451,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -515,26 +475,42 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
         {
           "name": "Blaqbonez",
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+      "duration_ms": 155500,
+      "name": "NYEM EGO (feat. Jeriq)",
+      "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -559,18 +535,26 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -611,6 +595,22 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "Fly Girl",
-        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        }
-      ],
-      "duration_ms": 194100,
-      "name": "Fly Girl",
-      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -671,22 +651,22 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+        "name": "Fly Girl",
+        "url": "https://open.spotify.com/album/0iW7kpeYCRmE9ctuvz9Oli"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
         }
       ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+      "duration_ms": 194100,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/2iKAPCfb9kDYx82DA10D5z"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -715,6 +695,26 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
         "name": "Warning!",
         "url": "https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 164827,
       "name": "Warning!",
       "url": "https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -787,6 +771,22 @@
       "duration_ms": 152947,
       "name": "No Option",
       "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "Guy Man",
-        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Guy Man",
-      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -1127,26 +1107,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
-      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
@@ -1167,6 +1127,22 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -1227,6 +1203,46 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
+        "name": "Guy Man",
+        "url": "https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Guy Man",
+      "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
         "name": "Before the Smoke",
         "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-07-11 16:58:49",
       "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2024-07-11 16:58:49",
+      "album": {
+        "name": "Crazy Crazy",
+        "url": "https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Crazy Crazy",
+      "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
     },
     {
       "added_at": "2024-07-11 16:58:49",
@@ -1371,30 +1387,6 @@
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
-    },
-    {
-      "added_at": "2024-07-11 16:58:49",
-      "album": {
-        "name": "Beautiful Lies",
-        "url": "https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM"
-      },
-      "artists": [
-        {
-          "name": "Runda",
-          "url": "https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x"
-        },
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 196904,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB"
     }
   ],
   "unique_name": "Afro Bars ",

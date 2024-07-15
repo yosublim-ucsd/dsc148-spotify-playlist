@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=2G6L5xAtSV6aIG5WCPhaYg">DBN Gogo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,259 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,292 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

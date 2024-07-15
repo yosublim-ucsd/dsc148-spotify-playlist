@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-478 songs - 23 hr 32 min
+481 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Don't Need To Worry](https://open.spotify.com/track/3KvSUFp8MX70Yd6am0Fp7s) | [Simple Jim](https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0) | [Don't Need To Worry](https://open.spotify.com/album/2KAEt4Okt4qGb2rIMIs0ah) | 2:10 | 2023-04-14 |  |
 | [Don't Stop](https://open.spotify.com/track/6qB3DyehKho1J6Iv73L21Q) | [Ogiv](https://open.spotify.com/artist/6eBnuZ3lPeKDSPjGRdjQc9) | [Don't Stop](https://open.spotify.com/album/1MxDM1ymQdrn9IqRU3m79M) | 2:08 | 2024-01-23 |  |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2022-04-05 | 2022-07-01 |
+| [Dream](https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Higher Ground](https://open.spotify.com/album/1zrOeJ3VQK13SVFMdkt4Vr) | 4:40 | 2024-07-14 |  |
 | [Dream Of You](https://open.spotify.com/track/0gmFwY4Oa0oBDu8OWTJ9gA) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Dream Of You](https://open.spotify.com/album/261Z2xiEZ3qCBqmEVOA5ok) | 2:26 | 2022-04-05 |  |
 | [Dumpstafunk](https://open.spotify.com/track/0SIfHUNxYlNOBuNLWInzFJ) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Team Regular](https://open.spotify.com/album/0O5GhhKDzL2npVvTFPeM6w) | 2:43 | 2022-12-09 |  |
 | [dune tune](https://open.spotify.com/track/5QtdJrToHaXfshcANRpnDd) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [dune tune](https://open.spotify.com/album/4HmvWfHAXKo1XpwKOnxPPK) | 2:38 | 2022-07-29 |  |
@@ -244,6 +245,7 @@
 | [Lost](https://open.spotify.com/track/24hiWRme0PyZqCYk9bn2rJ) | [ABSTRCT](https://open.spotify.com/artist/72XZynqAgAS9w2ZCdvrNYz) | [Lost](https://open.spotify.com/album/2SL3WtETf9WNNN2G7v9nU9) | 3:01 | 2023-08-25 |  |
 | [Lost Lands](https://open.spotify.com/track/0xbXmw4lyidtiVgEzSpsoQ) | [Delta O](https://open.spotify.com/artist/3BYLxIFUAOJGEsV8lRkjSN) | [Lost Lands](https://open.spotify.com/album/0wyP4NGuJp6sI0j0SH7siA) | 3:53 | 2022-04-05 |  |
 | [Lost Sea](https://open.spotify.com/track/2COhLvLh0Szltn8nXySR5D) | [Sofachi](https://open.spotify.com/artist/0FebFOp1WFwL17NP2cC9hw) | [Lost Sea](https://open.spotify.com/album/0sUdcjrmiMOUGbFUhojfTe) | 3:07 | 2022-05-13 |  |
+| [Love Is Waiting](https://open.spotify.com/track/3G4GnxuA6OFqZDHD09eG3Z) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Love Is Waiting](https://open.spotify.com/album/0UruY8QnZqJa7UOo1cFnUh) | 2:18 | 2024-07-14 |  |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2022-04-05 |  |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2022-04-05 |  |
 | [Lunar Eclipse](https://open.spotify.com/track/5DUNwt1A9BmKM0mWhufyAn) | [Serge Rey](https://open.spotify.com/artist/0KKCxS6r36wfKylvGK1gSy) | [Lunar Eclipse](https://open.spotify.com/album/4OeQwVd6QMFEtYordZZJV8) | 3:12 | 2022-04-05 | 2022-09-23 |
@@ -296,6 +298,7 @@
 | [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 | 2022-07-29 | 2023-05-23 |
 | [Ocean Blue](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Ocean Blue](https://open.spotify.com/album/6Hic9mhG606ee2BuyhlGlH) | 3:18 | 2022-09-02 |  |
 | [OFF DAY](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [OFF DAY](https://open.spotify.com/album/0JLG2vKp48P3aWLCBskAMF) | 2:30 | 2023-07-21 |  |
+| [off piste](https://open.spotify.com/track/4WQKUFAPRF5UK7SMAPfA1F) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [off piste](https://open.spotify.com/album/4mMcHP3UK0U2ldh0xnjYNI) | 2:21 | 2024-07-14 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-05 | 2022-09-02 |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-05 | 2023-09-02 |
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 |  |

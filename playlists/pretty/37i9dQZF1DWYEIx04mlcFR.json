@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Foudeqush en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79646,
+  "num_followers": 79641,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "S\u00cdSIFO / NADIE M\u00c1S!",
         "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
       },
@@ -411,6 +427,26 @@
       "duration_ms": 249600,
       "name": "NADIE M\u00c1S!",
       "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "EL NI\u00d1O DE LOS CORAZONES",
+        "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "LAS PRIMERAS FLORES",
+      "url": "https://open.spotify.com/track/5uqczHBwq5jCxlhfOmzMPm"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -467,58 +503,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "EL NI\u00d1O DE LOS CORAZONES",
-        "url": "https://open.spotify.com/album/18LQTOkENbFCtBfcmYUV3i"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "LAS PRIMERAS FLORES",
-      "url": "https://open.spotify.com/track/5uqczHBwq5jCxlhfOmzMPm"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "BAD INTENCIONES",
-        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "BAD INTENCIONES",
-      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "ENNI",
         "url": "https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc"
       },
@@ -535,6 +519,46 @@
       "duration_ms": 195240,
       "name": "ENNI",
       "url": "https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Se fue la luz",
+        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Se fue la luz",
+      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "a d\u00f3nde voy???",
+        "url": "https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        }
+      ],
+      "duration_ms": 195096,
+      "name": "a d\u00f3nde voy???",
+      "url": "https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -571,22 +595,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "a d\u00f3nde voy???",
-        "url": "https://open.spotify.com/album/5jEf06wCLfv0DIHLJARtKx"
+        "name": "BAD INTENCIONES",
+        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Azul de Viena",
-          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 195096,
-      "name": "a d\u00f3nde voy???",
-      "url": "https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS"
+      "duration_ms": 169285,
+      "name": "BAD INTENCIONES",
+      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -607,26 +627,6 @@
       "duration_ms": 177736,
       "name": "El Cable",
       "url": "https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Se fue la luz",
-        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Se fue la luz",
-      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "las cosas no son lo que parecen",
-        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 174659,
-      "name": "las cosas no son lo que parecen",
-      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "disfraz",
         "url": "https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 178588,
       "name": "disfraz",
       "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "las cosas no son lo que parecen",
+        "url": "https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 174659,
+      "name": "las cosas no son lo que parecen",
+      "url": "https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "nena",
-        "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "nena",
-      "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "YNQNP",
         "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "nena",
+        "url": "https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 183964,
+      "name": "nena",
+      "url": "https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 186945,
       "name": "rangerover",
       "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+        }
+      ],
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Ya No Es Lo Mismo",
-        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Viceversa",
         "url": "https://open.spotify.com/album/4k7CS3g3K0aXrPhInSX5QD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 150347,
       "name": "Tengo Que Hacer Esto Por Mi",
       "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "contigo me siento en casa",
-        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 171725,
-      "name": "contigo me siento en casa",
-      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "hoy no me encuentro para nadie",
         "url": "https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 164540,
       "name": "hoy no me encuentro para nadie",
       "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "contigo me siento en casa",
+        "url": "https://open.spotify.com/album/0UcsGDfM2xlhqiaqwgx6tq"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 171725,
+      "name": "contigo me siento en casa",
+      "url": "https://open.spotify.com/track/3Nujq5ZOCPUDagujhUMIrv"
     },
     {
       "added_at": "2024-07-05 06:00:00",

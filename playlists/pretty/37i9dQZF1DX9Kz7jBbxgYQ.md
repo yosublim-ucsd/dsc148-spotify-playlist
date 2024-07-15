@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,783 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,854 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 66 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 |
 | 67 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 68 | [Channa](https://open.spotify.com/track/7fHAFcK5IDBlbJMfWuHtYr) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Channa](https://open.spotify.com/album/7HgMJAC8wHOLBGtUmINtCV) | 3:16 |
-| 69 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 69 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 70 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 |
 | 71 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 |
 | 72 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 |

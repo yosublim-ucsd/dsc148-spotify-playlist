@@ -4,7 +4,7 @@
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 38 min
+77 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2023-08-08 | 2024-06-12 |
 | [El Convoy de los Hermanos](https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [No Tengo Rival](https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn) | 2:15 | 2023-08-08 | 2024-02-25 |
 | [El Gabito](https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Gabito](https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR) | 2:43 | 2023-08-08 | 2023-10-11 |
-| [El Morro](https://open.spotify.com/track/6jhfk1e3W7P1KFbuF8ul3Q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Morro](https://open.spotify.com/album/1dmmA8Z2niZfgem6PIcl76) | 2:53 | 2024-05-12 |  |
+| [El Morro](https://open.spotify.com/track/6jhfk1e3W7P1KFbuF8ul3Q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Morro](https://open.spotify.com/album/1dmmA8Z2niZfgem6PIcl76) | 2:53 | 2024-05-12 | 2024-07-15 |
 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 | 2023-08-08 |  |
 | [El Mundo Es Tuyo \(En Vivo\)](https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:07 | 2023-08-08 |  |
 | [El Omega](https://open.spotify.com/track/2190ZGlx9BK4BxKp9iRZ5x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Más Caro, que ayer](https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd) | 2:08 | 2023-11-10 | 2024-02-12 |
@@ -56,6 +56,7 @@
 | [La Parca](https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Parca](https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG) | 3:13 | 2023-08-08 |  |
 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 | 2023-08-08 |  |
 | [Leyenda Caro Quintero](https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Entre Dios y El Diablo \(Deluxe Version\)](https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN) | 3:37 | 2024-05-25 |  |
+| [Lider Del Genocidio](https://open.spotify.com/track/0E2WszOuFf5OhFy3WQD0Mu) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 2:38 | 2024-07-15 |  |
 | [Los Envidiosos](https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Los Envidiosos](https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL) | 3:01 | 2023-08-08 | 2023-12-14 |
 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2023-08-08 | 2024-07-13 |
 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 | 2023-08-08 |  |

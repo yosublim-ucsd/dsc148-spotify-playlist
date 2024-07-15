@@ -2,7 +2,7 @@
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. أغاني روعة في قايمة أغاني واحدة.
+> This is Elevation Worship\. The essential tracks, all in one playlist.
 
 57 songs - 6 hr 16 min
 

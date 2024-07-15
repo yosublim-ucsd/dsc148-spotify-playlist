@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 206207,
+  "num_followers": 206289,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "I'll Fight for You",
         "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
       },
@@ -255,6 +239,26 @@
       "duration_ms": 167403,
       "name": "I'll Fight for You",
       "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 186483,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -283,22 +287,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 186483,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw"
+      "duration_ms": 211719,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 212186,
-      "name": "Hills & Horizons",
-      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -435,34 +435,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
-      },
-      "artists": [
-        {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
+      "duration_ms": 212186,
+      "name": "Hills & Horizons",
+      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -479,6 +463,22 @@
       "duration_ms": 230834,
       "name": "Till The Walls Come Down - Live",
       "url": "https://open.spotify.com/track/0kKuXtfTrtbPmaxIfNrI63"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Hold You Tight",
-        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Come Home (Warehouse Mix)",
         "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158096,
       "name": "Come Home - Warehouse Mix",
       "url": "https://open.spotify.com/track/6sHJtegAtVzFNdzFVp5rLN"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Hold You Tight",
+        "url": "https://open.spotify.com/album/1gOje0Ha92U5qcg5FM4HxR"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 226281,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "This Is Freedom (Ain't No Rock) [Live]",
         "url": "https://open.spotify.com/album/5BTCplUzGy9or5RdbSDe7v"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 344125,
       "name": "This Is Freedom (Ain't No Rock) - Live",
       "url": "https://open.spotify.com/track/60LX2GW2xtmTrjVVkwajH8"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/7KYydIXof4clBXb0soAsGF"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 226281,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5BlTg1Gbxxw2Mz1uZhDycp"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
       "artists": [
         {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -939,22 +955,6 @@
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Never Too Far",
         "url": "https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 184901,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "It's Coming",
-        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 154305,
-      "name": "It's Coming",
-      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 224030,
       "name": "Relying",
       "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 154305,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
+        "name": "HEY GOD",
+        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+      },
+      "artists": [
+        {
+          "name": "KAYDEN",
+          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
+        },
+        {
+          "name": "David Ryan Cook",
+          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "HEY GOD",
+      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
         "name": "Choose to Praise (Reinvented)",
         "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
       },
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
-      },
-      "artists": [
-        {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
         "name": "Wouldn't Change A Thing",
         "url": "https://open.spotify.com/album/1sYtSpoWmGI1zeY31rwWUO"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 159942,
       "name": "Wouldn't Change A Thing",
       "url": "https://open.spotify.com/track/6PtyDYViY96R9GFKSqEi9r"
-    },
-    {
-      "added_at": "2024-05-10 04:42:27",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/6MAsgiDIbSMEHUkKoAHx01"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        }
-      ],
-      "duration_ms": 293706,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Adored",
-        "url": "https://open.spotify.com/album/75bljkIQXx0Ved3xr62xZH"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/6MAsgiDIbSMEHUkKoAHx01"
       },
       "artists": [
         {
-          "name": "Nissim Black",
-          "url": "https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy"
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
         }
       ],
-      "duration_ms": 206802,
-      "name": "Adored",
-      "url": "https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t"
+      "duration_ms": 293706,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
     },
     {
       "added_at": "2024-05-10 04:42:27",
@@ -1791,22 +1775,34 @@
     {
       "added_at": "2024-05-10 04:42:27",
       "album": {
-        "name": "Overcomer: The Remixes",
-        "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/75bljkIQXx0Ved3xr62xZH"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Julie Lov",
-          "url": "https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR"
+          "name": "Nissim Black",
+          "url": "https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy"
         }
       ],
-      "duration_ms": 196738,
-      "name": "Overcomer - Julie and Ruslan Remix",
-      "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
+      "duration_ms": 206802,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t"
+    },
+    {
+      "added_at": "2024-05-10 04:42:27",
+      "album": {
+        "name": "Leaving The 99 (Remix)",
+        "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 242468,
+      "name": "Leaving The 99 - Remix",
+      "url": "https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V"
     }
   ],
   "unique_name": "Christian Dance Party",

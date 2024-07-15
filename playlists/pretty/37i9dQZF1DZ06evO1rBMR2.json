@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 114002,
+  "num_followers": 114055,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAC/ANFwcGO8LDC/dM6YXQd",
+  "snapshot_id": "ZpHDgAAAAADV87uEnQ6KkPuShp5qqCNn",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "El Hombre De Negro",
-      "url": "https://open.spotify.com/track/652n8ymCgyYGeRx6S5eLxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Un Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Un Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Cero A La Izquierda",
-      "url": "https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS"
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
     },
     {
       "added_at": null,
@@ -475,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Profeta",
-        "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
+        "name": "Como Un Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9"
       },
       "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        },
         {
           "name": "Los Huracanes del Norte",
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 217434,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
+      "duration_ms": 173693,
+      "name": "Cero A La Izquierda",
+      "url": "https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS"
     },
     {
       "added_at": null,
@@ -511,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+        "name": "El Profeta",
+        "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
       "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        },
         {
           "name": "Los Huracanes del Norte",
           "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
+      "duration_ms": 217434,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/45mpsyfgiBOCuYD49KHLZs"
     },
     {
       "added_at": null,
@@ -655,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Huracanes del Norte - 40 Aniversario",
         "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
       },
@@ -683,6 +651,22 @@
       "duration_ms": 205975,
       "name": "El Corrido De Los Perez",
       "url": "https://open.spotify.com/track/4BLxjH7MYEcnf8UuI739mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "28 Huracanazos",
-        "url": "https://open.spotify.com/album/051pj99hFiZmLKCoC9sAti"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 158346,
-      "name": "Si Los Caminos Hablaran",
-      "url": "https://open.spotify.com/track/3fqs5Bm6c0SxgWxzoxukWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia 30 Exitos",
         "url": "https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 180244,
       "name": "Tu Decides",
       "url": "https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "28 Huracanazos",
+        "url": "https://open.spotify.com/album/051pj99hFiZmLKCoC9sAti"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 158346,
+      "name": "Si Los Caminos Hablaran",
+      "url": "https://open.spotify.com/track/3fqs5Bm6c0SxgWxzoxukWt"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 144448,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/1Zq6wA4IEjDo7qRZMsOcL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte",
+        "url": "https://open.spotify.com/album/4mRTjmyvCz4NzsotOUs9u7"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "El Celular",
+      "url": "https://open.spotify.com/track/0058g7pEQRXcKEhGxgU6fM"
     }
   ],
   "unique_name": "This Is Los Huracanes del Norte",

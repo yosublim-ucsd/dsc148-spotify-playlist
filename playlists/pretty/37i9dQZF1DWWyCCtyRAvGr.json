@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 181091,
+  "num_followers": 181163,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 143331,
       "name": "Take Out Some Insurance",
       "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+        "name": "Colin James And The Little Big Band",
+        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
       },
       "artists": [
         {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
         }
       ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+      "duration_ms": 368466,
+      "name": "Three Hours Past Midnight",
+      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Colin James And The Little Big Band",
-        "url": "https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm"
-      },
-      "artists": [
-        {
-          "name": "Colin James",
-          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Three Hours Past Midnight",
-      "url": "https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 366826,
       "name": "Bird in a Cage",
       "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 420386,
-      "name": "Need Her So Bad",
-      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 420386,
+      "name": "Need Her So Bad",
+      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Bluesmen Don't Use Umbrellas",
-        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
-      },
-      "artists": [
-        {
-          "name": "Michigan Curve",
-          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "J.C's. Blues",
-      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 189213,
       "name": "I'm On My Way - Remastered Version",
       "url": "https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Bluesmen Don't Use Umbrellas",
+        "url": "https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm"
+      },
+      "artists": [
+        {
+          "name": "Michigan Curve",
+          "url": "https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba"
+        }
+      ],
+      "duration_ms": 419600,
+      "name": "J.C's. Blues",
+      "url": "https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "English Rose",
-        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 257093,
       "name": "Thanks, But No Thanks",
       "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "English Rose",
+        "url": "https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/08uXaXe243pD2BPI5uB3JM"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 146397,
-      "name": "Connecticut Blues",
-      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Outta' Season",
         "url": "https://open.spotify.com/album/3oKjmBZzVdDLTQWI7vf5Jg"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 202627,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/5joO3RcUHeTMjasJrjVa9a"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 146397,
+      "name": "Connecticut Blues",
+      "url": "https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "Keep on Lovin' the Blues",
         "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
       },
@@ -1311,38 +1327,6 @@
       "duration_ms": 365909,
       "name": "The Game",
       "url": "https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "Big Town Playboy",
-        "url": "https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Taylor",
-          "url": "https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot"
-        }
-      ],
-      "duration_ms": 179931,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1379,6 +1363,22 @@
       "duration_ms": 121872,
       "name": "Armadillo Shuffle",
       "url": "https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Big Town Playboy",
+        "url": "https://open.spotify.com/album/7EqusbcNeJfpCn5SW2vmOi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Taylor",
+          "url": "https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot"
+        }
+      ],
+      "duration_ms": 179931,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/46UJ5i1A99706FL2khLqhx"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Sings Percy Mayfield",
-        "url": "https://open.spotify.com/album/0P3N0GcIt1c4Bm37u3LTLS"
-      },
-      "artists": [
-        {
-          "name": "Percy Mayfield",
-          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "A Lying Woman (Not Trustworthy)",
-      "url": "https://open.spotify.com/track/2e5MUwfsJpxXJ2we8EAFS4"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "I Hear Those Blues: Rich In Stereo (Remastered 2023)",
         "url": "https://open.spotify.com/album/4TS3dToUzngaPL8onBOfz6"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 139000,
       "name": "Cloud Nine - Remastered 2023",
       "url": "https://open.spotify.com/track/75Sz1pa3uMktFzsBIkcLq4"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Sings Percy Mayfield",
+        "url": "https://open.spotify.com/album/0P3N0GcIt1c4Bm37u3LTLS"
+      },
+      "artists": [
+        {
+          "name": "Percy Mayfield",
+          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "A Lying Woman (Not Trustworthy)",
+      "url": "https://open.spotify.com/track/2e5MUwfsJpxXJ2we8EAFS4"
     },
     {
       "added_at": "2024-05-28 18:29:55",

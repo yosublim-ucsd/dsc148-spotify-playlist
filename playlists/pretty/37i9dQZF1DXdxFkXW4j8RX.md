@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: EnSecreto
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,743 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,737 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

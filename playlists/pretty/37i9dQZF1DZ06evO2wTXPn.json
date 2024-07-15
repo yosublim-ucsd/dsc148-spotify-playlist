@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 30629,
+  "num_followers": 30633,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAD4VNXfVDkrURn9awTkqYCn",
+  "snapshot_id": "ZpHDgAAAAAARAQNTVWfZZHgJ9/M6wp9L",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 148666,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 148666,
-      "name": "Volver A Verte",
-      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "No Lo Est\u00e1s Logrando",
+      "url": "https://open.spotify.com/track/6igvaOfudVPnEDmla4AQDR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hecho Para Ti",
         "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 200706,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "No Lo Est\u00e1s Logrando",
-      "url": "https://open.spotify.com/track/6igvaOfudVPnEDmla4AQDR"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "10 Veces Mejor",
-      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 158280,
       "name": "911",
       "url": "https://open.spotify.com/track/4DDqijaAJHApGIc2s9hxQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "10 Veces Mejor",
+      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Lolis",
-      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,

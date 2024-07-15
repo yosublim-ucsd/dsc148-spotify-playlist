@@ -1,6 +1,6 @@
 {
   "description": "The African & West Indian diaspora united. Cover: Rema",
-  "num_followers": 305641,
+  "num_followers": 305690,
   "original_name": "ACS",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,26 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
         }
       ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -175,6 +179,26 @@
       "duration_ms": 169484,
       "name": "In The City",
       "url": "https://open.spotify.com/track/7jMuC44LBcMQaM20fgs21i"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -203,30 +227,6 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 147071,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk"
       },
@@ -239,38 +239,6 @@
       "duration_ms": 145571,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
-        "name": "Weh She Wan",
-        "url": "https://open.spotify.com/album/27IuYlhsQN5HSvtGTyvjKi"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 114545,
-      "name": "Weh She Wan",
-      "url": "https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -295,6 +263,54 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
+        "name": "Weh She Wan",
+        "url": "https://open.spotify.com/album/27IuYlhsQN5HSvtGTyvjKi"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 114545,
+      "name": "Weh She Wan",
+      "url": "https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 174743,
       "name": "Happiness (feat. Asake & Gunna)",
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
         "name": "Wahala (feat. Olamide)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -471,22 +451,6 @@
       "duration_ms": 216991,
       "name": "It's Plenty",
       "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -527,6 +491,42 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 163114,
-      "name": "Goodbye (Warm Up)(feat. Asake)",
-      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
         "name": "YAWA",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
@@ -599,18 +579,26 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+        "name": "OHEMA (with Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+      "duration_ms": 205714,
+      "name": "OHEMA (with Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -687,6 +675,26 @@
       "duration_ms": 201025,
       "name": "Party With A Jagaban",
       "url": "https://open.spotify.com/track/5BkBcXJ0rDRlnzh3tmknxI"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -771,26 +779,18 @@
     {
       "added_at": "2024-07-12 12:35:37",
       "album": {
-        "name": "OHEMA (with Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 205714,
-      "name": "OHEMA (with Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -859,26 +859,6 @@
       "duration_ms": 204755,
       "name": "Soundgasm",
       "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2024-07-12 12:35:37",
-      "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "IDK (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
     },
     {
       "added_at": "2024-07-12 12:35:37",
@@ -955,6 +935,26 @@
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "added_at": "2024-07-12 12:35:37",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
     }
   ],
   "unique_name": "ACS",

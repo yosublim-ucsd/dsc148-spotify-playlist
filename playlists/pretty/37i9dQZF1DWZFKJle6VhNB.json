@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444527,
+  "num_followers": 444513,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
-      },
-      "artists": [
-        {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 207093,
       "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
       "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+      },
+      "artists": [
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "VAI MENINA",
+        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "VAI MENINA",
+      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Na Raba Toma Tap\u00e3o",
         "url": "https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 175046,
       "name": "Tap\u00e3o Na Raba",
       "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "VAI MENINA",
-        "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 122435,
-      "name": "VAI MENINA",
-      "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -755,6 +755,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Te Prometo",
-        "url": "https://open.spotify.com/album/6RFjj3hS8njl016RDGHREc"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 161652,
-      "name": "Te Prometo",
-      "url": "https://open.spotify.com/track/7Ac3BmqTQoLdAt7HtZyfgN"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 155550,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Te Prometo",
+        "url": "https://open.spotify.com/album/6RFjj3hS8njl016RDGHREc"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 161652,
+      "name": "Te Prometo",
+      "url": "https://open.spotify.com/track/7Ac3BmqTQoLdAt7HtZyfgN"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -991,6 +991,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Os Morenos",
         "url": "https://open.spotify.com/album/53p7DyRzgGkMf9pdc1jnm0"
       },
@@ -1047,42 +1067,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+        "name": "Eu Quero Tchu Eu Quero Tcha - Single",
+        "url": "https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "Jo\u00e3o Lucas & Marcelo",
+          "url": "https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG"
         }
       ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+      "duration_ms": 159755,
+      "name": "Eu Quero Tchu Eu Quero Tcha",
+      "url": "https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1123,18 +1119,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Eu Quero Tchu Eu Quero Tcha - Single",
-        "url": "https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt"
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Lucas & Marcelo",
-          "url": "https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG"
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 159755,
-      "name": "Eu Quero Tchu Eu Quero Tcha",
-      "url": "https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb"
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "As Quatro Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
+      },
+      "artists": [
+        {
+          "name": "Sandy e Junior",
+          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
+      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Nossa Dan\u00e7a",
         "url": "https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 157354,
       "name": "Paradigmas",
       "url": "https://open.spotify.com/track/158ukl5rih76dOEsp0I91H"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "As Quatro Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
-      },
-      "artists": [
-        {
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "FICA \u00c0 VONTADE",
-        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FICA \u00c0 VONTADE",
-      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Temporal (Audio)",
         "url": "https://open.spotify.com/album/2lRSH6BQ3PcmIB1F6nOMiX"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 251520,
       "name": "Festa no Ap\u00ea (Dragostea Din Tei)",
       "url": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "FICA \u00c0 VONTADE",
+        "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FICA \u00c0 VONTADE",
+      "url": "https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Deixa Acontecer",
-        "url": "https://open.spotify.com/album/3cgTdUaIlwRnMiUa6o8GlS"
+        "name": "Gordinho Gostoso - Single",
+        "url": "https://open.spotify.com/album/0ws6az5CfphK62So9bcWBp"
       },
       "artists": [
         {
-          "name": "Negritude Junior",
-          "url": "https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F"
+          "name": "Neto LX",
+          "url": "https://open.spotify.com/artist/5Llx4U4MgdWDvK34NpNUyi"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Beijo Geladinho",
-      "url": "https://open.spotify.com/track/6rbkRZKovJISNCd5cZtOMP"
+      "duration_ms": 220373,
+      "name": "Gordinho Gostoso",
+      "url": "https://open.spotify.com/track/0UTuSXj7zBvSHzPGtYZfY6"
     }
   ],
   "unique_name": "Lou\u00e7a Infinita",

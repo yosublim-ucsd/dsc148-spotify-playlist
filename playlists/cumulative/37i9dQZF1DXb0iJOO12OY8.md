@@ -4,7 +4,7 @@
 
 > 🥲🥊
 
-53 songs - 2 hr 34 min
+54 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 |  |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-06-27 |  |
 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 | 2024-06-27 | 2024-07-06 |
+| [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 |  |
 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-06-27 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-06-27 | 2024-07-10 |
@@ -27,7 +28,7 @@
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-27 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2024-06-27 |  |
 | [hva om jeg slutta å bry meg](https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [hva om jeg slutta å bry meg](https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b) | 3:06 | 2024-06-27 |  |
-| [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2024-06-27 |  |
+| [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2024-06-27 | 2024-07-15 |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-06-27 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 |  |
 | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 | 2024-06-27 |  |

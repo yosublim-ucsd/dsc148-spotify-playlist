@@ -8408,6 +8408,24 @@
     {
       "album": {
         "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/58Ky2QzPUsr7pNLFIuG5nS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/2cwE2IRu8FAZ9RHzPjDjQI"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369336,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/2JqmexLfpFOVFXjUdkc5We"
+    },
+    {
+      "album": {
+        "name": "Take My Breath",
         "url": "https://open.spotify.com/album/2HMxasz7KZc6hCs6U2RWNP"
       },
       "artists": [

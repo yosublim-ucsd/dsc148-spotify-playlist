@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Joel Corry, Jason Derulo, Jax Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,688 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,690 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

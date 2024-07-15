@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lefty Sm. Los temas esenciales, todos en una lista.",
-  "num_followers": 175065,
+  "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
+  "num_followers": 175169,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACMnVdFqZY+n0ZoJ5sfSIoO",
+  "snapshot_id": "ZpHDgAAAAAD6dr95iWxPnduXoENvZ6f0",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Agusticidad",
         "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 374571,
       "name": "Todo x Nada",
       "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,

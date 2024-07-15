@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 194374,
       "name": "Oy na Ivana ta y na Kupala",
       "url": "https://open.spotify.com/track/7FfBQuT42JtThNuX9J1SBR"
@@ -5262,6 +5262,24 @@
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0442\u0443\u0434\u0438\u0439\u043d\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c",
+        "url": "https://open.spotify.com/album/6tFlGlunCO27MWJJhPycyF"
+      },
+      "artists": [
+        {
+          "name": "\u0427\u0451\u0417\u0430\u0423\u0440\u043e\u0434\u044b\u041d\u0430\u0421\u0446\u0435\u043d\u0435",
+          "url": "https://open.spotify.com/artist/3oKql1X8zKQxuBdzczoHe7"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Smell Like Cherry",
+      "url": "https://open.spotify.com/track/03P9SGtqetfIhwlV0822gZ"
     },
     {
       "album": {
@@ -7120,7 +7138,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 204645,
       "name": "\u0431\u043b\u0438\u0436\u0435",
       "url": "https://open.spotify.com/track/0Kf4Yt41ItVzD4fZ3QhLtv"
@@ -7676,7 +7694,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 213939,
       "name": "\u0413\u043e\u043b\u0430\u044f",
       "url": "https://open.spotify.com/track/3AM9u8JepvTpTKOQT6B7N5"

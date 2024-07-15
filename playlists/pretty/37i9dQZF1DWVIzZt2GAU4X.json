@@ -1,6 +1,6 @@
 {
   "description": "Vocals and keys, front and center. Cover: Adele",
-  "num_followers": 1817968,
+  "num_followers": 1818814,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-07-12 19:04:20",
       "album": {
-        "name": "5AM (Expanded Edition)",
-        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
       "artists": [
         {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 273000,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-07-12 19:04:20",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-07-12 19:04:20",
       "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+    },
+    {
+      "added_at": "2024-07-12 19:04:20",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 244000,
       "name": "champagne problems",
       "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
-    },
-    {
-      "added_at": "2024-07-12 19:04:20",
-      "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2024-07-12 19:04:20",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-12 19:04:20",
       "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2024-07-12 19:04:20",
+      "album": {
         "name": "Vibrate: The Best Of (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2024-07-12 19:04:20",
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Mercy - Acoustic",
-      "url": "https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ"
     }
   ],
   "unique_name": "Piano Ballads",

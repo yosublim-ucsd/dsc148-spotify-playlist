@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289125,
+  "num_followers": 289115,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
@@ -167,26 +187,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Praia do Rosa",
         "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
@@ -203,6 +203,26 @@
       "duration_ms": 155553,
       "name": "Praia do Rosa",
       "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Quem Sabe",
+        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Quem Sabe",
+      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -243,26 +263,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Quem Sabe",
-        "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
-      },
-      "artists": [
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Quem Sabe",
-      "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Canc\u00fan",
         "url": "https://open.spotify.com/album/3l7i7Bku7mWVjTv0xyAmso"
       },
@@ -287,30 +287,6 @@
       "duration_ms": 212000,
       "name": "Uma Linda Mulher - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3tiNQKkPzqjLchoM3w0OxI"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -403,22 +379,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -443,6 +403,30 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -543,6 +543,26 @@
       "duration_ms": 221653,
       "name": "Carta Branca",
       "url": "https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "O que \u00e9 teu te encontra",
+        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
+      },
+      "artists": [
+        {
+          "name": "Mar.iana",
+          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 151386,
+      "name": "O que \u00e9 teu te encontra",
+      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -695,50 +715,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "O que \u00e9 teu te encontra",
-        "url": "https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn"
-      },
-      "artists": [
-        {
-          "name": "Mar.iana",
-          "url": "https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 151386,
-      "name": "O que \u00e9 teu te encontra",
-      "url": "https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -783,22 +759,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/2XqCSflbr8XImRRevu2Bpp"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
         },
         {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+      "duration_ms": 159308,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/1tAcAD6c8HiMWDoHyUutHd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -819,6 +799,26 @@
       "duration_ms": 169868,
       "name": "FOME",
       "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Ins\u00f4nia",
-        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 206632,
-      "name": "Ins\u00f4nia",
-      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1379,6 +1355,30 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 206632,
+      "name": "Ins\u00f4nia",
+      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Summer Groove",
         "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Sonho Brasil 2004",
-        "url": "https://open.spotify.com/album/14az9aDCQ6UXStkLVsoNg4"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Sonho Brasil 2004",
-      "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Sonho Brasil 2004",
+        "url": "https://open.spotify.com/album/14az9aDCQ6UXStkLVsoNg4"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Sonho Brasil 2004",
+      "url": "https://open.spotify.com/track/6SidWa3wQNI5SpaWdRM8vA"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1623,18 +1603,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "O Que a Levada Pede",
-        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
       },
       "artists": [
         {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         }
       ],
-      "duration_ms": 127452,
-      "name": "O Que a Levada Pede",
-      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 211647,
       "name": "AINDA T\u00d4 NO PROCESSO",
       "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "O Que a Levada Pede",
+        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
+      },
+      "artists": [
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 127452,
+      "name": "O Que a Levada Pede",
+      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
     },
     {
       "added_at": "2024-07-12 03:00:00",

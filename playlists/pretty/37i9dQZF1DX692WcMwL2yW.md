@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,009 likes - 166 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,990 likes - 166 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 29 | [Riddle Box](https://open.spotify.com/track/40xNeFrbZ5Uor4CMDPjMyg) | [Hephisto](https://open.spotify.com/artist/7cVzcIvDfTLpcf7yso5xZQ) | [Riddle Box](https://open.spotify.com/album/0HL9zcnvWI7m7mQ0RnSVDk) | 2:58 |
 | 30 | [Maldini](https://open.spotify.com/track/5aikcSvNGtB1sDfRBQucZk) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Hinside](https://open.spotify.com/album/7HEqoEzcNiBk5yOy8jC6ic) | 3:14 |
 | 31 | [Justified](https://open.spotify.com/track/5B3o3dGWUneZVJovkXP6Gd) | [Sonny TK](https://open.spotify.com/artist/3PQjywXKA1AkREjMitjvLN) | [Justified](https://open.spotify.com/album/1IsoRdugxMdtAHVvM1Ytxn) | 3:04 |
-| 32 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
-| 33 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
-| 34 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
-| 35 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
+| 32 | [Fam](https://open.spotify.com/track/47LWif6s3Lu4xv3dBb78Lu) | [Cyber Soul](https://open.spotify.com/artist/5fgkrGRJJ2FcosHfzHeXOu) | [Fam](https://open.spotify.com/album/7CIp8scELgVBXUgxfe9HBa) | 3:06 |
+| 33 | [Silent Haters](https://open.spotify.com/track/7JfxL8fwpZqFcOn7Y4FeJ2) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Blood in the Night](https://open.spotify.com/album/5F85byRYuprIUfpXnLDCD0) | 2:43 |
+| 34 | [Baby](https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Baby](https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH) | 2:47 |
+| 35 | [Too Humid](https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Floaters](https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99) | 2:16 |
 | 36 | [Sunday](https://open.spotify.com/track/4EhPkSCSZ7p2wawSzJAjLh) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sunday](https://open.spotify.com/album/0oRhu0c7zQf7dd2HnrCoHC) | 2:26 |
 | 37 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
 | 38 | [Valley of Sin](https://open.spotify.com/track/3i6llm3O6vCS5jJZsiucSU) | [Demon Hyde](https://open.spotify.com/artist/1uNOwLCW6VYqcymgPCLZE6) | [Valley of Sin](https://open.spotify.com/album/4dyODljQRo2WScYKMaxfRw) | 2:26 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 165 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
 | 166 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `Zn2/9gAAAADyjO+RZoEvWUlBZ/yQHz1d`
+Snapshot ID: `ZpPqngAAAADaax3op/+XwDnIjhxfGZ5x`

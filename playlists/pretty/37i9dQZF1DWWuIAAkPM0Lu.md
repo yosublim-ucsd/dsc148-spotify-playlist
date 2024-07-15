@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,733 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,734 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

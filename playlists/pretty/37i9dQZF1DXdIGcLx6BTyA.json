@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The SteelDrivers",
+        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "Drinkin' Dark Whiskey",
+      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The SteelDrivers",
-        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Drinkin' Dark Whiskey",
-      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
@@ -212,25 +196,9 @@
           "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "House Fire",
-        "url": "https://open.spotify.com/album/0J3c4kH5gpkiygLUbTNF7X"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "House Fire",
-      "url": "https://open.spotify.com/track/5u6MYbzGUxC684e1ePhFC8"
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -251,6 +219,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "House Fire",
+        "url": "https://open.spotify.com/album/0J3c4kH5gpkiygLUbTNF7X"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "House Fire",
+      "url": "https://open.spotify.com/track/5u6MYbzGUxC684e1ePhFC8"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 269663,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
-        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 269663,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -335,38 +335,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Here We Rest",
-        "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 231883,
-      "name": "Alabama Pines",
-      "url": "https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -395,6 +363,22 @@
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Here We Rest",
+        "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 231883,
+      "name": "Alabama Pines",
+      "url": "https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -463,22 +447,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -507,6 +475,38 @@
       "duration_ms": 205973,
       "name": "Make It A Good One",
       "url": "https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 183164,
-      "name": "Hope the High Road",
-      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Girl Going Nowhere",
         "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 185754,
       "name": "Welcome to Hard Times",
       "url": "https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Hope the High Road",
+      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Alone Together Sessions",
-        "url": "https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
-        },
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 293346,
-      "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
-      "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1039,6 +1035,26 @@
       "duration_ms": 235617,
       "name": "Unwed Fathers (feat. Margo Price)",
       "url": "https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Alone Together Sessions",
+        "url": "https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        },
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 293346,
+      "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
+      "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1087,22 +1103,6 @@
       "duration_ms": 175391,
       "name": "Before The Dogwood Blooms",
       "url": "https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-03-25 16:53:27",

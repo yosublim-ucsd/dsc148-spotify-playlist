@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 163911,
       "name": "El Es Mi Apa",
       "url": "https://open.spotify.com/track/2bHjBisRpg4sWhKSsLupyQ"
@@ -7358,6 +7358,32 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+    },
+    {
+      "album": {
+        "name": "Oye Cantinero",
+        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196111,
+      "name": "Oye Cantinero",
+      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
     },
     {
       "album": {

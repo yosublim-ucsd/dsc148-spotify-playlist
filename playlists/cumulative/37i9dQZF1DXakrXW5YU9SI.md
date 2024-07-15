@@ -4,7 +4,7 @@
 
 > Odpal wakacyjny relaks już dziś ☀️
 
-87 songs - 4 hr 47 min
+88 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-06-28 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-28 | 2024-07-14 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-28 |  |
-| [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-06-28 |  |
+| [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-06-28 | 2024-07-15 |
 | [było, minęło](https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [było, minęło](https://open.spotify.com/album/77oL0Jtei9L3GH0tMCFwEy) | 3:27 | 2024-06-28 |  |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-28 |  |
 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 | 2024-06-28 |  |
@@ -42,6 +42,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 |  |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-07-06 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-28 |  |
+| [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 |  |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-28 |  |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-28 | 2024-07-12 |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-06-28 |  |

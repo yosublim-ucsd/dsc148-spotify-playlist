@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,840 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,869 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Peace In The Valley](https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 4:21 |
 | 50 | [Last Mile Of The Way](https://open.spotify.com/track/41JBvVRFAh46z8bj4L4UWv) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Precious Memories](https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8) | 3:39 |
 
-Snapshot ID: `ZpByAAAAAAD4y2ayhRm9cdQQUfGxvTj2`
+Snapshot ID: `ZpHDgAAAAAAZQJr1AWlj1gzEvuuSRzW7`

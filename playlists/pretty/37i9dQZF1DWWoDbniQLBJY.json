@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las guitarras ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1900868,
+  "num_followers": 1900840,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Quererte Bonito",
+      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Quererte Bonito",
-      "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "Afuera Del Planeta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 261376,
-      "name": "Afuera Del Planeta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 400826,
       "name": "No Ha Parado de Llover - Unplugged",
       "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "Afuera Del Planeta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 261376,
+      "name": "Afuera Del Planeta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "7 Meses",
-        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 175404,
-      "name": "7 Meses",
-      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 152533,
       "name": "Juana Mecho - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "7 Meses",
+        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 175404,
+      "name": "7 Meses",
+      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 195917,
+      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 195917,
-      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -1147,22 +1163,6 @@
       "duration_ms": 157617,
       "name": "A M\u00ed y a Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "Dimos Tanto",
-        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "Dimos Tanto",
-      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "Dimos Tanto",
+        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "Dimos Tanto",
+      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -1339,22 +1355,6 @@
       "duration_ms": 255650,
       "name": "La Carretera - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2024-07-12 15:41:15",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "Los Cuatro Actos Ac\u00fasticos",
         "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
       },
@@ -1575,6 +1559,38 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-12 15:41:15",
       "album": {
-        "name": "Maye",
-        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
-      },
-      "artists": [
-        {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
-        }
-      ],
-      "duration_ms": 172659,
-      "name": "Maye",
-      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
-    },
-    {
-      "added_at": "2024-07-12 15:41:15",
-      "album": {
         "name": "Ojos Chiquitos",
         "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 186966,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
+    },
+    {
+      "added_at": "2024-07-12 15:41:15",
+      "album": {
+        "name": "Maye",
+        "url": "https://open.spotify.com/album/6OEuIv5TmSwGoeKWRizLFx"
+      },
+      "artists": [
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "duration_ms": 172659,
+      "name": "Maye",
+      "url": "https://open.spotify.com/track/5E7qAuoc1rYrth5x2j49xX"
     },
     {
       "added_at": "2024-07-12 15:41:15",

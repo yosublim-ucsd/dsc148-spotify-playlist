@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "pop woke up and chose chaos. cover: EMELINE",
+  "description": "pop woke up and chose chaos. cover: GAYLE",
   "name": "POP EDGE",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 172468,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
@@ -980,6 +980,24 @@
       "duration_ms": 146769,
       "name": "indieedgycool",
       "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
+    },
+    {
+      "album": {
+        "name": "internet baby",
+        "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157070,
+      "name": "internet baby",
+      "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
     },
     {
       "album": {
@@ -1382,6 +1400,24 @@
       "duration_ms": 113494,
       "name": "Purity",
       "url": "https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K"
+    },
+    {
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "album": {

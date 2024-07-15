@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 67559,
+  "num_followers": 67571,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -387,30 +387,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227435,
-      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
-      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 298578,
       "name": "Music Is The Answer",
       "url": "https://open.spotify.com/track/4Gyx7Nq6WySuaY6aE8aT8t"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
+        "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+        "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227435,
+      "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+      "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "THREE STRIKES (feat. Khalid)",
         "url": "https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "me acostumbro",
+        "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "me acostumbro",
+      "url": "https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Viento",
         "url": "https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "me acostumbro",
-        "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
       },
       "artists": [
         {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
         }
       ],
-      "duration_ms": 170019,
-      "name": "me acostumbro",
-      "url": "https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje"
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2024-06-28 21:13:36",

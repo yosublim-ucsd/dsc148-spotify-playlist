@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 49866,
+  "num_followers": 49939,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -127,74 +127,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Jesus Is Enough",
-        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 356306,
-      "name": "Ungukuphila",
-      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2024-06-07 00:01:00",
-      "album": {
-        "name": "Difela Medley (Live)",
-        "url": "https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z"
-      },
-      "artists": [
-        {
-          "name": "Puleng March",
-          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
-        }
-      ],
-      "duration_ms": 665013,
-      "name": "Difela Medley - Live",
-      "url": "https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -219,6 +151,74 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Jesus Is Enough",
+        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 356306,
+      "name": "Ungukuphila",
+      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "added_at": "2024-06-07 00:01:00",
+      "album": {
+        "name": "Difela Medley (Live)",
+        "url": "https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z"
+      },
+      "artists": [
+        {
+          "name": "Puleng March",
+          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
+        }
+      ],
+      "duration_ms": 665013,
+      "name": "Difela Medley - Live",
+      "url": "https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -281,6 +281,26 @@
       "url": "https://open.spotify.com/track/35WtFQK3iG2WPjstuuKaVc"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -315,8 +335,8 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "PRAISES (remix)",
-        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+        "name": "GOODBYE YESTERDAY",
+        "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
       },
       "artists": [
         {
@@ -324,13 +344,13 @@
           "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         },
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
         }
       ],
-      "duration_ms": 170353,
-      "name": "PRAISES (remix)",
-      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+      "duration_ms": 298682,
+      "name": "GOODBYE YESTERDAY",
+      "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -375,22 +395,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -415,30 +439,6 @@
       "duration_ms": 524757,
       "name": "Firm Foundation (He Won't)",
       "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 470880,
-      "name": "Raise a Hallelujah - Live",
-      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -481,26 +481,6 @@
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "GOODBYE YESTERDAY",
-        "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 298682,
-      "name": "GOODBYE YESTERDAY",
-      "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
-    },
-    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -519,6 +499,46 @@
       "duration_ms": 464333,
       "name": "Been So Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "PRAISES (remix)",
+        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170353,
+      "name": "PRAISES (remix)",
+      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 346346,
+      "name": "I Surrender - Live",
+      "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -547,26 +567,6 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 346346,
-      "name": "I Surrender - Live",
-      "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
-    },
-    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -681,22 +665,6 @@
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "See A Victory",
@@ -711,6 +679,38 @@
       "duration_ms": 363230,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "CAVES",
-        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Fall On Me (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
         "name": "Jesus Changed My Life (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Fall On Me (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
     },
     {
       "added_at": "2024-05-31 23:59:00",

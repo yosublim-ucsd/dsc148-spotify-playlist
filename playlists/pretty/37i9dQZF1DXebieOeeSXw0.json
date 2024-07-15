@@ -1,6 +1,6 @@
 {
   "description": "The amazing sounds of the tropics \ud83c\udf34\ud83e\udd65\ud83e\udd6d\ud83c\udfb6",
-  "num_followers": 14940,
+  "num_followers": 14945,
   "original_name": "Tropicana",
   "owner": {
     "name": "Spotify",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/1259h6dPXYBVVeB7gjIe4L"
     },
     {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "One Two",
-      "url": "https://open.spotify.com/track/43ywQvHPPH3ZpbNhJKktIN"
-    },
-    {
       "added_at": "2023-04-12 01:57:01",
       "album": {
         "name": "La Cantina",
@@ -411,6 +395,22 @@
       "duration_ms": 250466,
       "name": "La Cumbia Del Mole",
       "url": "https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "One Two",
+      "url": "https://open.spotify.com/track/43ywQvHPPH3ZpbNhJKktIN"
     },
     {
       "added_at": "2023-04-12 01:57:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Fe, Esperanza y Caridad",
-        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
-      },
-      "artists": [
-        {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
-        }
-      ],
-      "duration_ms": 404533,
-      "name": "Ahora me da pena",
-      "url": "https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Mister Yellowman",
         "url": "https://open.spotify.com/album/1ub0O2c6o8TFplwF01SADt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 209373,
       "name": "Who Say Me Dun",
       "url": "https://open.spotify.com/track/6J4LaUyNqxJtnTxKMKmTdd"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Fe, Esperanza y Caridad",
+        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 404533,
+      "name": "Ahora me da pena",
+      "url": "https://open.spotify.com/track/3ogUFoUSvXN7GLb0Q0EAgu"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Classic Rockers",
-        "url": "https://open.spotify.com/album/3xEweRKkxWOs8VG4oIT6kI"
-      },
-      "artists": [
-        {
-          "name": "Augustus Pablo",
-          "url": "https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "King Tubby Meets The Rockers Uptown",
-      "url": "https://open.spotify.com/track/6dRX3GyCjrxHm8o5VcIM0h"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Champeta Fever",
         "url": "https://open.spotify.com/album/2TiU4hmvhziTk26013Ba98"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 241640,
       "name": "El Chocho",
       "url": "https://open.spotify.com/track/0HGsmC9LI16XikFgHW02qD"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Classic Rockers",
+        "url": "https://open.spotify.com/album/3xEweRKkxWOs8VG4oIT6kI"
+      },
+      "artists": [
+        {
+          "name": "Augustus Pablo",
+          "url": "https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "King Tubby Meets The Rockers Uptown",
+      "url": "https://open.spotify.com/track/6dRX3GyCjrxHm8o5VcIM0h"
     },
     {
       "added_at": "2023-04-12 01:57:01",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/2240bjkNsQmfqSsVtM2TNy"
     },
     {
-      "added_at": "2022-04-01 05:13:54",
-      "album": {
-        "name": "Rei Momo",
-        "url": "https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Loco De Amor",
-      "url": "https://open.spotify.com/track/2uJsn2yi8HVZ8qwICHcNSW"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "Gina",
@@ -1161,6 +1145,38 @@
       "url": "https://open.spotify.com/track/7IAgfdPRFX0EG34LtDMeax"
     },
     {
+      "added_at": "2022-04-01 05:13:54",
+      "album": {
+        "name": "Rei Momo",
+        "url": "https://open.spotify.com/album/2JQU5ZvGycMsa7gITyaGb6"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Loco De Amor",
+      "url": "https://open.spotify.com/track/2uJsn2yi8HVZ8qwICHcNSW"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Legends Of East Africa",
+        "url": "https://open.spotify.com/album/4PszVdqCNrVmwlRV2WAiUk"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Makassy",
+          "url": "https://open.spotify.com/artist/4zp34cpBPuvTnEnMQOEon3"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Mambo Bado",
+      "url": "https://open.spotify.com/track/2KFZhuHm34tRAJFdrgOvM0"
+    },
+    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "This Is Marijata",
@@ -1175,26 +1191,6 @@
       "duration_ms": 249306,
       "name": "We Live In Peace",
       "url": "https://open.spotify.com/track/4l8N1IPZW1NpL4RnWbCiAj"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Bad Boy Skanking",
-        "url": "https://open.spotify.com/album/1osHNwX78JeXfV7spN4C0O"
-      },
-      "artists": [
-        {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
-        },
-        {
-          "name": "Fathead",
-          "url": "https://open.spotify.com/artist/28DBgBlVeHQWJlEVohN08k"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/0F0XxrDzy609B52cOkvagD"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Legends Of East Africa",
-        "url": "https://open.spotify.com/album/4PszVdqCNrVmwlRV2WAiUk"
+        "name": "Bad Boy Skanking",
+        "url": "https://open.spotify.com/album/1osHNwX78JeXfV7spN4C0O"
       },
       "artists": [
         {
-          "name": "Orchestra Makassy",
-          "url": "https://open.spotify.com/artist/4zp34cpBPuvTnEnMQOEon3"
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+        },
+        {
+          "name": "Fathead",
+          "url": "https://open.spotify.com/artist/28DBgBlVeHQWJlEVohN08k"
         }
       ],
-      "duration_ms": 326400,
-      "name": "Mambo Bado",
-      "url": "https://open.spotify.com/track/2KFZhuHm34tRAJFdrgOvM0"
+      "duration_ms": 194293,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/0F0XxrDzy609B52cOkvagD"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Nadia Soleil, Vol. 2",
+        "url": "https://open.spotify.com/album/3KwgpN4aI2IBuoYdz5yHGR"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o Blaise Kounkou",
+          "url": "https://open.spotify.com/artist/4HH0fRn6aUN8b52OaCEVLC"
+        }
+      ],
+      "duration_ms": 578693,
+      "name": "Zenaba",
+      "url": "https://open.spotify.com/track/54NeuzRN7VapLWL3zJKrjN"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/4kCzDt5W6fAK5hLFBRTjsb"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 222990,
       "name": "Cool Down (Ice Cream Donut)",
       "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Nadia Soleil, Vol. 2",
-        "url": "https://open.spotify.com/album/3KwgpN4aI2IBuoYdz5yHGR"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e9o Blaise Kounkou",
-          "url": "https://open.spotify.com/artist/4HH0fRn6aUN8b52OaCEVLC"
-        }
-      ],
-      "duration_ms": 578693,
-      "name": "Zenaba",
-      "url": "https://open.spotify.com/track/54NeuzRN7VapLWL3zJKrjN"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Homowo",
-        "url": "https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2"
-      },
-      "artists": [
-        {
-          "name": "Basa Basa",
-          "url": "https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl"
-        }
-      ],
-      "duration_ms": 247889,
-      "name": "African Soul Power",
-      "url": "https://open.spotify.com/track/6YR0HSclw7HGb0xfVd7k8c"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Pilon",
         "url": "https://open.spotify.com/album/7nCo1Pzbu5CoY8GLGwDWrH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 245453,
       "name": "Toma Tu Pilon",
       "url": "https://open.spotify.com/track/4FWdmE0J0qDXdjSo3FFgv5"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Homowo",
+        "url": "https://open.spotify.com/album/4eK9uta9LmaxMUcBFbTbS2"
+      },
+      "artists": [
+        {
+          "name": "Basa Basa",
+          "url": "https://open.spotify.com/artist/699lZFg1YHsQCg9WOQkecl"
+        }
+      ],
+      "duration_ms": 247889,
+      "name": "African Soul Power",
+      "url": "https://open.spotify.com/track/6YR0HSclw7HGb0xfVd7k8c"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/5b99x2N6WPouj6brdrkPBU"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Goldmine Dub",
+        "url": "https://open.spotify.com/album/3nsVUj5t7YjAsZkhX7tVPN"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Bitter Blood",
+      "url": "https://open.spotify.com/track/1uSBFmy1Gs1qeLdWkVBLUI"
+    },
+    {
       "added_at": "2022-04-07 03:46:32",
       "album": {
         "name": "Latin-Esque",
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Goldmine Dub",
-        "url": "https://open.spotify.com/album/3nsVUj5t7YjAsZkhX7tVPN"
-      },
-      "artists": [
-        {
-          "name": "The Revolutionaries",
-          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Bitter Blood",
-      "url": "https://open.spotify.com/track/1uSBFmy1Gs1qeLdWkVBLUI"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "A Arte De Chico Buarque",
         "url": "https://open.spotify.com/album/6buA4UqZTeUKUG2xRAlOcC"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 179080,
       "name": "Ca\u00e7ada",
       "url": "https://open.spotify.com/track/6Im08Kf52WrL9bhOZD26xe"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Latin Gold Collection",
-        "url": "https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP"
-      },
-      "artists": [
-        {
-          "name": "La Playa Sextet",
-          "url": "https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Mishugia Mambo",
-      "url": "https://open.spotify.com/track/2tadAdX8nId1fdu4Re6gDE"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Latin Gold Collection",
+        "url": "https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP"
+      },
+      "artists": [
+        {
+          "name": "La Playa Sextet",
+          "url": "https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "Mishugia Mambo",
+      "url": "https://open.spotify.com/track/2tadAdX8nId1fdu4Re6gDE"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
         "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 188866,
       "name": "Me Robaron Mi Runa Mula",
       "url": "https://open.spotify.com/track/1fG9NSb7ACnzdtaFNtlyJI"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Echos hypnotiques, from the Vaults of Albarika Store, Vol. 2: 1969-1979 (Analog Africa No. 6)",
+        "url": "https://open.spotify.com/album/06V8YvCnql3bT9KzZbqU6v"
+      },
+      "artists": [
+        {
+          "name": "Orchestre Poly-Rythmo de Cotonou",
+          "url": "https://open.spotify.com/artist/2hzzC6W1jnkn6x6RyutlB3"
+        }
+      ],
+      "duration_ms": 313960,
+      "name": "Noude Ma Gnin Tche De Me",
+      "url": "https://open.spotify.com/track/1QoscuA1IQbIKSAxCVVMl4"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
     },
     {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Echos hypnotiques, from the Vaults of Albarika Store, Vol. 2: 1969-1979 (Analog Africa No. 6)",
-        "url": "https://open.spotify.com/album/06V8YvCnql3bT9KzZbqU6v"
-      },
-      "artists": [
-        {
-          "name": "Orchestre Poly-Rythmo de Cotonou",
-          "url": "https://open.spotify.com/artist/2hzzC6W1jnkn6x6RyutlB3"
-        }
-      ],
-      "duration_ms": 313960,
-      "name": "Noude Ma Gnin Tche De Me",
-      "url": "https://open.spotify.com/track/1QoscuA1IQbIKSAxCVVMl4"
-    },
-    {
       "added_at": "2022-03-30 15:29:10",
       "album": {
         "name": "El Baile Alem\u00e1n",
@@ -1591,22 +1591,6 @@
       "duration_ms": 328539,
       "name": "Showroom Dummies",
       "url": "https://open.spotify.com/track/3AMLgEBl0klJETA7FiQXuA"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Nadina",
-        "url": "https://open.spotify.com/album/69nxwFpUNnWVR4hC1jwx7T"
-      },
-      "artists": [
-        {
-          "name": "Mbilia Bel",
-          "url": "https://open.spotify.com/artist/0PshVqflBfiJqteIeRr6Qk"
-        }
-      ],
-      "duration_ms": 650786,
-      "name": "Mobali Nangai Wana",
-      "url": "https://open.spotify.com/track/6f1PDBmqVdJjMP0kNmIy50"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Roi du Ziglibithy",
+        "url": "https://open.spotify.com/album/6IJdeTURFyIDLlXzSKvar1"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Dj\u00e9dj\u00e9",
+          "url": "https://open.spotify.com/artist/1kx4uuCLwvOUQNyXPEbmSb"
+        }
+      ],
+      "duration_ms": 529840,
+      "name": "Ziglibithiens",
+      "url": "https://open.spotify.com/track/2utg3uOfXSdzHT12elDODQ"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "Legends of Benin (Analog Africa No. 5)",
         "url": "https://open.spotify.com/album/2IwDFFtsvqq7FZheZ20bKC"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Roi du Ziglibithy",
-        "url": "https://open.spotify.com/album/6IJdeTURFyIDLlXzSKvar1"
+        "name": "Nadina",
+        "url": "https://open.spotify.com/album/69nxwFpUNnWVR4hC1jwx7T"
       },
       "artists": [
         {
-          "name": "Ernesto Dj\u00e9dj\u00e9",
-          "url": "https://open.spotify.com/artist/1kx4uuCLwvOUQNyXPEbmSb"
+          "name": "Mbilia Bel",
+          "url": "https://open.spotify.com/artist/0PshVqflBfiJqteIeRr6Qk"
         }
       ],
-      "duration_ms": 529840,
-      "name": "Ziglibithiens",
-      "url": "https://open.spotify.com/track/2utg3uOfXSdzHT12elDODQ"
+      "duration_ms": 650786,
+      "name": "Mobali Nangai Wana",
+      "url": "https://open.spotify.com/track/6f1PDBmqVdJjMP0kNmIy50"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/5YowhCQYE5HkKbXt4bSCM0"
     },
     {
-      "added_at": "2022-01-18 17:58:13",
+      "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Migrat\u00f3ria",
-        "url": "https://open.spotify.com/album/5FxxNLPupv3yklUOItLt2e"
+        "name": "Guana Tangula",
+        "url": "https://open.spotify.com/album/2jCg6WjHRtfLBQNivXzThE"
       },
       "artists": [
         {
-          "name": "Club Makumba",
-          "url": "https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ"
+          "name": "Abelardo Carbon\u00f3 y su Conjunto",
+          "url": "https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Migrat\u00f3ria",
-      "url": "https://open.spotify.com/track/7EMTn98ICuKFU3mOEFvAGP"
+      "duration_ms": 228467,
+      "name": "Quiero a Mi Gente",
+      "url": "https://open.spotify.com/track/1K1Kz6leLWIBLdHw3HbT8C"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1721,20 +1721,20 @@
       "url": "https://open.spotify.com/track/2QNqTKJA6TeNZKQg4cUtlo"
     },
     {
-      "added_at": "2021-12-24 18:28:12",
+      "added_at": "2022-01-18 17:58:13",
       "album": {
-        "name": "Guana Tangula",
-        "url": "https://open.spotify.com/album/2jCg6WjHRtfLBQNivXzThE"
+        "name": "Migrat\u00f3ria",
+        "url": "https://open.spotify.com/album/5FxxNLPupv3yklUOItLt2e"
       },
       "artists": [
         {
-          "name": "Abelardo Carbon\u00f3 y su Conjunto",
-          "url": "https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8"
+          "name": "Club Makumba",
+          "url": "https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ"
         }
       ],
-      "duration_ms": 228467,
-      "name": "Quiero a Mi Gente",
-      "url": "https://open.spotify.com/track/1K1Kz6leLWIBLdHw3HbT8C"
+      "duration_ms": 226393,
+      "name": "Migrat\u00f3ria",
+      "url": "https://open.spotify.com/track/7EMTn98ICuKFU3mOEFvAGP"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -1837,6 +1837,22 @@
       "url": "https://open.spotify.com/track/4BeXydYJvM0RoEstHx14dJ"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Lo Mejor de Tipica Novel",
+        "url": "https://open.spotify.com/album/1QmrxrDsEZJtRYy30bJugQ"
+      },
+      "artists": [
+        {
+          "name": "Tipica Novel",
+          "url": "https://open.spotify.com/artist/43QWpqdTDg3O1iAsgun1Pv"
+        }
+      ],
+      "duration_ms": 353640,
+      "name": "No Me Reganes",
+      "url": "https://open.spotify.com/track/6WM7bVoHgINsllSLInt1eU"
+    },
+    {
       "added_at": "2022-03-30 15:29:10",
       "album": {
         "name": "A New Dimension",
@@ -1867,22 +1883,6 @@
       "duration_ms": 187533,
       "name": "Vamos Farrear",
       "url": "https://open.spotify.com/track/0infHXhToXG6WQu5zQAfp2"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Lo Mejor de Tipica Novel",
-        "url": "https://open.spotify.com/album/1QmrxrDsEZJtRYy30bJugQ"
-      },
-      "artists": [
-        {
-          "name": "Tipica Novel",
-          "url": "https://open.spotify.com/artist/43QWpqdTDg3O1iAsgun1Pv"
-        }
-      ],
-      "duration_ms": 353640,
-      "name": "No Me Reganes",
-      "url": "https://open.spotify.com/track/6WM7bVoHgINsllSLInt1eU"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2045,22 +2045,6 @@
       "url": "https://open.spotify.com/track/6ubpGjaiU5aNxpP9rFnQ0H"
     },
     {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Pitchito / Ananas Tornillo",
-        "url": "https://open.spotify.com/album/2GnwyKQEU1e1VzQ70jJmAT"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 245806,
-      "name": "Pitchito",
-      "url": "https://open.spotify.com/track/08p72zHGG4lSMXlljziGxx"
-    },
-    {
       "added_at": "2022-04-07 03:46:32",
       "album": {
         "name": "Jamaica Ska",
@@ -2075,6 +2059,22 @@
       "duration_ms": 135810,
       "name": "Jamaica Ska",
       "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Pitchito / Ananas Tornillo",
+        "url": "https://open.spotify.com/album/2GnwyKQEU1e1VzQ70jJmAT"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 245806,
+      "name": "Pitchito",
+      "url": "https://open.spotify.com/track/08p72zHGG4lSMXlljziGxx"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2273,6 +2273,22 @@
       "url": "https://open.spotify.com/track/3kgPRmxgfdKrYwpxmrK02g"
     },
     {
+      "added_at": "2023-04-12 01:57:01",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/6SUaD4WnCX2Dm89BMbKv2u"
+      },
+      "artists": [
+        {
+          "name": "Yerba Buena",
+          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
+        }
+      ],
+      "duration_ms": 311826,
+      "name": "Bilingual Girl",
+      "url": "https://open.spotify.com/track/1TpKQrz3L8VApOdrOjAxOH"
+    },
+    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "El Maravilloso Mundo De",
@@ -2289,20 +2305,20 @@
       "url": "https://open.spotify.com/track/1Fzt0uEkcJQLQoUzihdxbY"
     },
     {
-      "added_at": "2023-04-12 01:57:01",
+      "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/6SUaD4WnCX2Dm89BMbKv2u"
+        "name": "Caribbean Carnival, Vol. 2",
+        "url": "https://open.spotify.com/album/3UJ0dh25sAd2rhpCS8K50Z"
       },
       "artists": [
         {
-          "name": "Yerba Buena",
-          "url": "https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT"
+          "name": "Cyril Diaz and His Orchestra",
+          "url": "https://open.spotify.com/artist/77p751SfcDc5hkECYWyzzF"
         }
       ],
-      "duration_ms": 311826,
-      "name": "Bilingual Girl",
-      "url": "https://open.spotify.com/track/1TpKQrz3L8VApOdrOjAxOH"
+      "duration_ms": 231666,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3eZO3wY1Rznlbc66eksNAU"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2323,22 +2339,6 @@
       "duration_ms": 164066,
       "name": "Perfume de Flores",
       "url": "https://open.spotify.com/track/2IseITrxukuXE0EelnGeLH"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Caribbean Carnival, Vol. 2",
-        "url": "https://open.spotify.com/album/3UJ0dh25sAd2rhpCS8K50Z"
-      },
-      "artists": [
-        {
-          "name": "Cyril Diaz and His Orchestra",
-          "url": "https://open.spotify.com/artist/77p751SfcDc5hkECYWyzzF"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3eZO3wY1Rznlbc66eksNAU"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 216116,
+      "name": "Lalango",
+      "url": "https://open.spotify.com/track/77Hx1eeot6epigS1asRwRK"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
         "name": "Toma Tu Jab\u00f3n Kapax",
         "url": "https://open.spotify.com/album/7mCtZcUQj34JoY810HGRlO"
       },
@@ -2543,18 +2559,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+        "name": "El Maravilloso Mundo De",
+        "url": "https://open.spotify.com/album/6pVTaxkDUKsuXiHZkjxqUq"
       },
       "artists": [
         {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+          "name": "Abelardo Carbono",
+          "url": "https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772"
         }
       ],
-      "duration_ms": 216116,
-      "name": "Lalango",
-      "url": "https://open.spotify.com/track/77Hx1eeot6epigS1asRwRK"
+      "duration_ms": 259959,
+      "name": "Baile del Indio",
+      "url": "https://open.spotify.com/track/7udzykt0OoBuY2eQLVd0OC"
     },
     {
       "added_at": "2023-02-28 03:54:14",
@@ -2571,22 +2587,6 @@
       "duration_ms": 189520,
       "name": "Relax and Mambo",
       "url": "https://open.spotify.com/track/2G22aOAEw1EC6ehUdfSFYd"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "El Maravilloso Mundo De",
-        "url": "https://open.spotify.com/album/6pVTaxkDUKsuXiHZkjxqUq"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Carbono",
-          "url": "https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Baile del Indio",
-      "url": "https://open.spotify.com/track/7udzykt0OoBuY2eQLVd0OC"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Hailu Mergia & His Classical Instrument: Shemonmuanaye",
-        "url": "https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ"
-      },
-      "artists": [
-        {
-          "name": "Hailu Mergia",
-          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
-        }
-      ],
-      "duration_ms": 265045,
-      "name": "Belew Beduby",
-      "url": "https://open.spotify.com/track/306W6rDEttKB2AS8YeIAry"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Sombras De Oro",
         "url": "https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 226493,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/5fKMoJbCV35newQCaGOChk"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Hailu Mergia & His Classical Instrument: Shemonmuanaye",
+        "url": "https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ"
+      },
+      "artists": [
+        {
+          "name": "Hailu Mergia",
+          "url": "https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm"
+        }
+      ],
+      "duration_ms": 265045,
+      "name": "Belew Beduby",
+      "url": "https://open.spotify.com/track/306W6rDEttKB2AS8YeIAry"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "El Bravo",
-        "url": "https://open.spotify.com/album/0m7WBEtmt7W2GvH71gPrl8"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "El Bravo",
-      "url": "https://open.spotify.com/track/1z9l6jR99lnxoEjku5iht2"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "The Tropical Club Night (Compiled by DJ Ralph von Richthoven)",
         "url": "https://open.spotify.com/album/0s7A8nETjO8eQDo8M3zZel"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 227920,
       "name": "Burakaton",
       "url": "https://open.spotify.com/track/5TOeR2kKkPiQtbWKGbTvLR"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "El Bravo",
+        "url": "https://open.spotify.com/album/0m7WBEtmt7W2GvH71gPrl8"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "El Bravo",
+      "url": "https://open.spotify.com/track/1z9l6jR99lnxoEjku5iht2"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -2937,22 +2937,6 @@
       "url": "https://open.spotify.com/track/50qOHV8gy3A1NLHNzK2qTg"
     },
     {
-      "added_at": "2023-04-12 01:57:01",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
-    },
-    {
       "added_at": "2021-12-24 18:28:12",
       "album": {
         "name": "The Last Mambo",
@@ -2967,6 +2951,22 @@
       "duration_ms": 765266,
       "name": "Obsecion",
       "url": "https://open.spotify.com/track/1cqwlpDbxFswOg5Ar4Ohja"
+    },
+    {
+      "added_at": "2023-04-12 01:57:01",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2022-03-30 01:15:24",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Desesperanza",
-        "url": "https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
-      "url": "https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Empire Bakuba",
         "url": "https://open.spotify.com/album/3lYCRqEyG8QhOJhufJzElW"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 355533,
       "name": "Zouke - Zouke",
       "url": "https://open.spotify.com/track/2CkNoBNgXS5EZr6uzEdPF2"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Desesperanza",
+        "url": "https://open.spotify.com/album/41X2H1RsNkjrELghdVKNEV"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Salsa Caliente - Versi\u00f3n Aumentada",
+      "url": "https://open.spotify.com/track/5pUOPXkEVcdrnd61jfLwMf"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -3721,6 +3721,22 @@
       "url": "https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ"
     },
     {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Adiza",
+        "url": "https://open.spotify.com/album/3ljy67Xi2AliQHO5qNR8cX"
+      },
+      "artists": [
+        {
+          "name": "Lokassa Ya Mbongo",
+          "url": "https://open.spotify.com/artist/7d0Z5mnYH74sEVuwPUweKh"
+        }
+      ],
+      "duration_ms": 482453,
+      "name": "Marie-Jos\u00e9",
+      "url": "https://open.spotify.com/track/5ToI2TEH6geM7mOuxEEndO"
+    },
+    {
       "added_at": "2022-03-30 15:38:16",
       "album": {
         "name": "Elevator Music",
@@ -3739,22 +3755,6 @@
       "duration_ms": 386853,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1awtsQkvPcJTpdPUOL6ROo"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
-        "name": "Adiza",
-        "url": "https://open.spotify.com/album/3ljy67Xi2AliQHO5qNR8cX"
-      },
-      "artists": [
-        {
-          "name": "Lokassa Ya Mbongo",
-          "url": "https://open.spotify.com/artist/7d0Z5mnYH74sEVuwPUweKh"
-        }
-      ],
-      "duration_ms": 482453,
-      "name": "Marie-Jos\u00e9",
-      "url": "https://open.spotify.com/track/5ToI2TEH6geM7mOuxEEndO"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -4675,22 +4675,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Antibalas",
-        "url": "https://open.spotify.com/album/4yMhiZusgnoNlDBHZks8lG"
-      },
-      "artists": [
-        {
-          "name": "Antibalas",
-          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
-        }
-      ],
-      "duration_ms": 375306,
-      "name": "Dirty Money",
-      "url": "https://open.spotify.com/track/1LclSylnnHUKdrCZjS0V6M"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Nyanza",
         "url": "https://open.spotify.com/album/0s8pbVmw6ynzKQZHVScXEI"
       },
@@ -4707,18 +4691,18 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "The Kusum Beat",
-        "url": "https://open.spotify.com/album/4nEfddlu5226JsgOxppjF8"
+        "name": "Antibalas",
+        "url": "https://open.spotify.com/album/4yMhiZusgnoNlDBHZks8lG"
       },
       "artists": [
         {
-          "name": "The Sweet Talks",
-          "url": "https://open.spotify.com/artist/4AbfEpyrix5fvwT3TuuqiO"
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
         }
       ],
-      "duration_ms": 270986,
-      "name": "Eyi Su Ngaangaa",
-      "url": "https://open.spotify.com/track/7oUwbr745xYmqOaBN91vFH"
+      "duration_ms": 375306,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/1LclSylnnHUKdrCZjS0V6M"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -5463,22 +5447,6 @@
     {
       "added_at": "2021-12-24 18:28:12",
       "album": {
-        "name": "Mambo Ska",
-        "url": "https://open.spotify.com/album/4brT4NQYsG5LXsvS8HQVXy"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 260226,
-      "name": "Cumbia Del Monte",
-      "url": "https://open.spotify.com/track/2OCUoeUE6GXU2H5GNt5MoP"
-    },
-    {
-      "added_at": "2021-12-24 18:28:12",
-      "album": {
         "name": "Afroman\u00eda Caribe",
         "url": "https://open.spotify.com/album/6Vn2MDsWVvvqEB3jfBxhMG"
       },
@@ -5491,6 +5459,22 @@
       "duration_ms": 460970,
       "name": "Homenaje a los Embajadores",
       "url": "https://open.spotify.com/track/3yAlh4l1uSVLrVOXbNxMry"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Mambo Ska",
+        "url": "https://open.spotify.com/album/4brT4NQYsG5LXsvS8HQVXy"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "Cumbia Del Monte",
+      "url": "https://open.spotify.com/track/2OCUoeUE6GXU2H5GNt5MoP"
     },
     {
       "added_at": "2021-12-24 18:28:12",
@@ -5647,6 +5631,22 @@
       "duration_ms": 1015942,
       "name": "Tr\u00e8s Impoli",
       "url": "https://open.spotify.com/track/67OwCWVZrKy7Ng1UX63urw"
+    },
+    {
+      "added_at": "2021-12-24 18:28:12",
+      "album": {
+        "name": "Great Black Music (Spotify Version)",
+        "url": "https://open.spotify.com/album/3RZ2aKTTSbs1JLecrkfPCf"
+      },
+      "artists": [
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "duration_ms": 386813,
+      "name": "Kaokokokorobo",
+      "url": "https://open.spotify.com/track/6M6Bh0sjqmSQbPXy4PGqRc"
     }
   ],
   "unique_name": "Tropicana",

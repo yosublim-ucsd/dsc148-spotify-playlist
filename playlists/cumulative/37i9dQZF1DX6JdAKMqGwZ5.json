@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "d\u00b4ESCARNIO",
+        "url": "https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159148,
+      "name": "d\u00b4ESCARNIO",
+      "url": "https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt"
+    },
+    {
+      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"

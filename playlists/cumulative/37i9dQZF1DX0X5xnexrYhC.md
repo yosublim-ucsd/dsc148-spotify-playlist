@@ -2,9 +2,9 @@
 
 ### [POP EDGE](https://open.spotify.com/playlist/37i9dQZF1DX0X5xnexrYhC)
 
-> pop woke up and chose chaos\. cover: EMELINE
+> pop woke up and chose chaos\. cover: GAYLE
 
-108 songs - 5 hr 8 min
+110 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,8 @@
 | [Freak](https://open.spotify.com/track/39OzeCZoibMsoUCCCxh2Lk) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Freak](https://open.spotify.com/album/6kQXezS924N0Tqv0OmIxzn) | 3:45 | 2024-01-16 | 2024-05-25 |
 | [Fruity](https://open.spotify.com/track/3AtKq6VCAuCm3AhrRUiw1I) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:13 | 2022-11-15 | 2024-04-19 |
 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 | 2022-11-15 |  |
-| [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2024-01-16 |  |
-| [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-11-15 |  |
+| [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2024-01-16 | 2024-07-15 |
+| [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-11-15 | 2024-07-15 |
 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 | 2024-01-16 |  |
 | [Holding Back](https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 3:52 | 2022-11-15 | 2024-04-19 |
 | [HOME IS WHERE THE HELL IS](https://open.spotify.com/track/2rePCKPN3N4ZUZeSoF5vCt) | [Sarah Saint James](https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH) | [HOME IS WHERE THE HELL IS](https://open.spotify.com/album/6LVVlDJttRg0c2e18PzVU2) | 2:54 | 2024-01-16 |  |
@@ -61,6 +61,7 @@
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2024-01-16 |  |
 | [indieedgycool](https://open.spotify.com/track/1wo8pUckwcg6yQmwSuepvX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 2:26 | 2022-11-15 | 2024-03-27 |
 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 | 2022-11-15 | 2023-11-10 |
+| [internet baby](https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [internet baby](https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc) | 2:37 | 2024-07-15 |  |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-11-15 |  |
 | [keep me afraid](https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:44 | 2022-11-15 |  |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-11-15 |  |
@@ -82,6 +83,7 @@
 | [pity party \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:41 | 2022-11-15 | 2024-04-19 |
 | [please put me in a medically induced coma](https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL) | 3:06 | 2022-11-15 |  |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-11-15 |  |
+| [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 | 2024-07-15 |  |
 | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [SALT \(feat\. Oli Sykes\)](https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz) | 3:42 | 2022-11-15 |  |
 | [Screws](https://open.spotify.com/track/1iSo49GT9u0ar6xLFeNN4T) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Nightmare on Elmfield Road](https://open.spotify.com/album/4ILNpQy73p5vqpyV9pcLUK) | 3:17 | 2024-01-16 |  |
 | [Skinnydipped](https://open.spotify.com/track/6w6ZUEFgkLvMMSyn4zBQXR) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN) | 2:55 | 2022-11-15 | 2024-04-19 |

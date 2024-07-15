@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -2784,6 +2784,28 @@
       "duration_ms": 331293,
       "name": "Een Vriend Van Mij",
       "url": "https://open.spotify.com/track/4pOO88DFK58M5EZeghPkZv"
+    },
+    {
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "album": {
@@ -3852,7 +3874,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 158208,
       "name": "Hakayet",
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
@@ -7388,7 +7410,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -7672,7 +7694,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 196384,
       "name": "Oranjebewaarder - Het Wordt Prachtig Net Als In 1988",
       "url": "https://open.spotify.com/track/6ujoOWdEuIT0ppoo4tRED8"
@@ -10944,7 +10966,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 211146,
       "name": "Under The Same Moon",
       "url": "https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL"

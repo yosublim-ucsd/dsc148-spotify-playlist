@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-602 songs - 1 day 13 hr 10 min
+608 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2021-11-10 |  |
 | [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2021-03-25 | 2023-01-20 |
 | [deepsy](https://open.spotify.com/track/7mGxDTe6pQHiRvCoXYzBJf) | [Needy Greedy](https://open.spotify.com/artist/1AihmL4bp8NyeuwuEg2IaP) | [deepsy](https://open.spotify.com/album/3ouLg1Gqmbf7id6JGCortX) | 2:04 | 2022-11-25 |  |
+| [DELI](https://open.spotify.com/track/02lzHihYd4L7OEu6hz414D) | [my friend stue](https://open.spotify.com/artist/06YdsRPyz0kIuwt5Fb3yXE) | [DELI](https://open.spotify.com/album/7hQT2tI4BbH98MLWvW7EZ7) | 3:12 | 2024-07-14 |  |
 | [Delphina](https://open.spotify.com/track/7yi2ZzgcknbtVih0sNyBDv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ) | 5:14 | 2020-10-20\* | 2021-06-23 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-10-16 | 2022-01-22 |
 | [Descartes](https://open.spotify.com/track/5XKueyuuTWO6Q3QqK47IOt) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 4:49 | 2020-10-20\* | 2021-03-25 |
@@ -162,6 +163,7 @@
 | [Doliing](https://open.spotify.com/track/0psCXzD0edhxVFv8oiK6YY) | [GVNN](https://open.spotify.com/artist/0zXUbyiI3f7ZkCjBtDh2fV) | [SAKKYA EP](https://open.spotify.com/album/2WEBSGLnvi8EjZuenG9b5F) | 4:18 | 2020-10-20\* | 2021-06-23 |
 | [don't forget to breathe today](https://open.spotify.com/track/42OnKZr9ER2N7s0NmHR4uJ) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/1BRafvEKAnPecKRgHs2bO4) | 4:07 | 2020-10-20\* | 2021-02-12 |
 | [Don't You Know?](https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm) | [Reya Silk](https://open.spotify.com/artist/4xpRAPHVyirmL93zZGQsps) | [Don't You Know?](https://open.spotify.com/album/6lEb1p0SYafJ734pQ1ceu4) | 2:17 | 2021-02-20 | 2021-06-23 |
+| [Dream](https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm) | [Pableno](https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h) | [Higher Ground](https://open.spotify.com/album/1zrOeJ3VQK13SVFMdkt4Vr) | 4:40 | 2024-07-14 |  |
 | [Dreaming Together](https://open.spotify.com/track/3yJCxQ784xrtePvpP2WK2n) | [8twenty](https://open.spotify.com/artist/5jEjyjwDtaXITcEPJx7rWg) | [Dreaming Together](https://open.spotify.com/album/1giw5Jk7PSNu9or9oSMJWR) | 2:14 | 2024-06-13 |  |
 | [Drifted](https://open.spotify.com/track/57H1bcqbsyrGHfTebZddzy) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Moonbeam / Drifted](https://open.spotify.com/album/7lgjYTyAR0PUXAKaOnB4JN) | 4:05 | 2021-08-25 |  |
 | [Drifting \(Edit\)](https://open.spotify.com/track/3Sy6mmSYekNoXDbJFW0WyS) | [Deep Desire](https://open.spotify.com/artist/7lIrPS556FjId5C35oO5If) | [Drifting \(Edit\)](https://open.spotify.com/album/5wJRGJBVZ2Yo2Q7mqxjGwR) | 3:25 | 2020-10-20\* | 2021-01-29 |
@@ -253,6 +255,7 @@
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-11 | 2022-08-05 |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-01-07 | 2021-08-25 |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2020-11-13 | 2022-05-11 |
+| [If You Say So](https://open.spotify.com/track/3IppHec07ScWmamyuKYtLc) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [If You Say So](https://open.spotify.com/album/6axhsdjQzJqKkElmcernqx) | 6:14 | 2024-07-14 |  |
 | [Ikigai](https://open.spotify.com/track/2CeryLNKV1slxXkRCuqAiz) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Deviation](https://open.spotify.com/album/40RIVcikWbOKylm2r3ehbW) | 4:31 | 2020-10-20\* | 2022-05-20 |
 | [In Brevi](https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [In brevi](https://open.spotify.com/album/5BgW2Tfu7CgefHz7gEDMAj) | 3:20 | 2021-07-09 |  |
 | [in case i never see you again...](https://open.spotify.com/track/7LQmsuUT2mtpAdWx6YcGqB) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [stay vibrant](https://open.spotify.com/album/45rsmhncWE31vvKIeNYvvj) | 6:28 | 2020-10-20\* | 2020-12-24 |
@@ -396,6 +399,7 @@
 | [playful mornings](https://open.spotify.com/track/3uv361D1ptOIZT0YfKvePd) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [playful mornings](https://open.spotify.com/album/2ZCYylSfAL4Dpu57cA5Y6Z) | 2:14 | 2022-10-14 |  |
 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 | 2022-06-10 |  |
 | [Plush Velvet Vibes](https://open.spotify.com/track/3WTyFCHsp6FE2XsTMw5lmq) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Plush Velvet Vibes](https://open.spotify.com/album/6KMd5EpQUdJPyCTt3blMND) | 2:42 | 2024-06-13 |  |
+| [Portal](https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [Portal](https://open.spotify.com/album/6b0vLoS6SFcdlS1rR0mi6T) | 3:14 | 2024-07-14 |  |
 | [Portraits](https://open.spotify.com/track/2c6ZZ6INknHZTWPO8JxKuX) | [Siarate](https://open.spotify.com/artist/3fPUbKTg9j2k4xPGs4dbz2) | [Portraits](https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm) | 4:38 | 2021-02-12 | 2022-02-11 |
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2021-08-25 |  |
 | [Prickles and Goo](https://open.spotify.com/track/3anEkpGQT5hDxtPwtX4itO) | [Aleph One](https://open.spotify.com/artist/3oYNb7aE6uwlrEi6mehZeP) | [Prickles and Goo / Singing Swan](https://open.spotify.com/album/02HQv9kLC7kNf5jtcVP7mc) | 6:06 | 2022-02-10 | 2023-02-04 |
@@ -480,6 +484,7 @@
 | [Small Movements](https://open.spotify.com/track/3gO8WiLfYrnVvNwGHlzy1J) | [Dancing Minds](https://open.spotify.com/artist/0jiLNfvHXBnL45hznG0dqB) | [Small Movements](https://open.spotify.com/album/3eLgQL1KvbrbrZyw4YjHDJ) | 3:55 | 2021-08-25 | 2023-05-23 |
 | [Smiles](https://open.spotify.com/track/3WTd6IogFHOBZ8sobmKrKb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/4Y0JVC9BklwKMmiL2xIbOY) | 3:06 | 2020-10-20\* | 2021-02-20 |
 | [Smiling Falsifier](https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Smiling Falsifier](https://open.spotify.com/album/1AP8iOyjLZXAMyhSosSHt1) | 3:08 | 2023-01-20 |  |
+| [Snapper](https://open.spotify.com/track/4CVujT5MzKOZxQKlAJIpp8) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Snapper](https://open.spotify.com/album/7tQSmqLqM052kILfkyCFg9) | 5:11 | 2024-07-14 |  |
 | [So Real](https://open.spotify.com/track/7GTVGnTKbwKmHIbHSEas5O) | [Bergmönch](https://open.spotify.com/artist/4K7eFgiYPGgSpDw7jKhpm3) | [So Real](https://open.spotify.com/album/5OSMEkIouISljAQX5Utpxd) | 5:52 | 2020-11-13 | 2021-01-07 |
 | [So Solar](https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp) | [SunnX](https://open.spotify.com/artist/1d1QrP53Eak9McNiwCDMpE) | [So Solar](https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t) | 2:02 | 2021-03-25 | 2022-09-23 |
 | [Sobel Caviar](https://open.spotify.com/track/3rcwaxTUm3FoGPlRUqdC6A) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Sobel Caviar](https://open.spotify.com/album/3bnG37s0WUPx7WZC5rq8Va) | 2:42 | 2023-11-17 |  |
@@ -584,6 +589,7 @@
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-10 |  |
 | [Visionary](https://open.spotify.com/track/20YRX2bwUvbAI4iJRBre5s) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 8:33 | 2020-12-24 | 2021-02-20 |
 | [Vivid Dreams \(Instrumental Version\)](https://open.spotify.com/track/2bmHQl3qPWw5N6bJcE1Z3M) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Vivid Dreams](https://open.spotify.com/album/1YH3SLlUYqaFDf1M2Vz0Mh) | 3:00 | 2020-10-20\* | 2020-10-30 |
+| [Voltage](https://open.spotify.com/track/0Bl88TTe40kWhtfOq9XJq1) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Voltage](https://open.spotify.com/album/3R8JdqahxNThBZtdFxV8ht) | 2:47 | 2024-07-14 |  |
 | [Waiting for the Sun to Rise](https://open.spotify.com/track/4wArg9NWqTyqDQV9QUl0nZ) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Waiting for the Sun to Rise](https://open.spotify.com/album/7ik4kx0saV6Fjo4gAd5Zbi) | 7:39 | 2021-03-25 | 2021-08-25 |
 | [Walking Over Me](https://open.spotify.com/track/7uYmG1Vxxr2FXcm78VwTBT) | [Zetbee](https://open.spotify.com/artist/7ju7u4UaASOSjl2Vm53ulN) | [Crossed Signals, Vol\. 11](https://open.spotify.com/album/3t6MUWKVa7P5AFtvzgpSeU) | 6:37 | 2021-01-29 | 2021-02-20 |
 | [Wanderer](https://open.spotify.com/track/094OMEwMng6XcwsSMFUKWi) | [Contrapad](https://open.spotify.com/artist/71Zfyo2kB4HlEexwmxQMv3) | [Wanderer](https://open.spotify.com/album/5859wmoAVfWKUfz6wtaVol) | 3:41 | 2021-03-25 | 2021-05-13 |

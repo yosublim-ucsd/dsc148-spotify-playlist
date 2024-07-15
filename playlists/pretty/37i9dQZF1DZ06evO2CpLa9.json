@@ -1,12 +1,12 @@
 {
   "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
-  "num_followers": 548835,
+  "num_followers": 548894,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAA7vCwKAA51W63twHluX9Tm",
+  "snapshot_id": "ZpHDgAAAAABKd5ZhzzaK4nHPIDdU+hcC",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 210636,
-      "name": "Me Ir\u00e9 Con Ella",
-      "url": "https://open.spotify.com/track/6oDuPGoGyXacliKYM7Tq4L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Llegar\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV"
       },
@@ -483,6 +463,50 @@
       "duration_ms": 255712,
       "name": "No Llegar\u00e9 (Remix)",
       "url": "https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 210636,
+      "name": "Me Ir\u00e9 Con Ella",
+      "url": "https://open.spotify.com/track/6oDuPGoGyXacliKYM7Tq4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
     },
     {
       "added_at": null,
@@ -639,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Todo Acaba",
         "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
@@ -667,26 +711,6 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": null,
@@ -943,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC"
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
       },
       "artists": [
         {
@@ -952,17 +976,13 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Doom Deca",
-          "url": "https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 208571,
-      "name": "Vuelo",
-      "url": "https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e"
+      "duration_ms": 168000,
+      "name": "Nunca Imagin\u00e9",
+      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
     },
     {
       "added_at": null,
@@ -987,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC"
       },
       "artists": [
         {
@@ -996,13 +1016,17 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Doom Deca",
+          "url": "https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Nunca Imagin\u00e9",
-      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
+      "duration_ms": 208571,
+      "name": "Vuelo",
+      "url": "https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e"
     },
     {
       "added_at": null,
@@ -1019,26 +1043,6 @@
       "duration_ms": 200754,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLOMO",
-        "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 178512,
-      "name": "PLOMO",
-      "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
     },
     {
       "added_at": null,
@@ -1063,6 +1067,26 @@
       "duration_ms": 227368,
       "name": "K\u00f3digos",
       "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLOMO",
+        "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 178512,
+      "name": "PLOMO",
+      "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
     },
     {
       "added_at": null,
@@ -1115,6 +1139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "R8",
+      "url": "https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1143,26 +1187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "R8",
-      "url": "https://open.spotify.com/track/3a7qCKAsriTv30qXsh2zV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diente Por Diente",
         "url": "https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu"
       },
@@ -1179,26 +1203,6 @@
       "duration_ms": 138057,
       "name": "Diente Por Diente",
       "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

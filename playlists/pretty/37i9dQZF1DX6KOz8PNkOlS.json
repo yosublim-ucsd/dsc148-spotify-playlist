@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 463048,
+  "num_followers": 463140,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 344680,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+      "duration_ms": 222400,
+      "name": "I'll Come Too",
+      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
     },
     {
       "added_at": "2024-06-28 19:21:01",
@@ -307,18 +307,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 222400,
-      "name": "I'll Come Too",
-      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
+      "duration_ms": 344680,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -409,38 +409,6 @@
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
-      "added_at": "2023-04-05 03:29:43",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2024-05-30 23:42:48",
-      "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Get Your Head Out",
-      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
-    },
-    {
       "added_at": "2023-06-30 15:20:10",
       "album": {
         "name": "Heartquake",
@@ -461,6 +429,22 @@
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
+      "added_at": "2024-05-30 23:42:48",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Get Your Head Out",
+      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
+    },
+    {
       "added_at": "2023-09-25 03:06:06",
       "album": {
         "name": "Playing Robots Into Heaven",
@@ -475,6 +459,22 @@
       "duration_ms": 172844,
       "name": "Asking To Break",
       "url": "https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr"
+    },
+    {
+      "added_at": "2023-04-05 03:29:43",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2022-12-07 04:04:10",
@@ -819,6 +819,30 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2023-01-04 01:09:50",
+      "album": {
+        "name": "20 Years Dope Noir - Oranje Album",
+        "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
+      },
+      "artists": [
+        {
+          "name": "Soul Goodman",
+          "url": "https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi"
+        },
+        {
+          "name": "Waldeck",
+          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
+        },
+        {
+          "name": "Patrizia Ferrara",
+          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "The Moon Above",
+      "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
     },
     {
       "added_at": "2022-09-09 13:33:50",
@@ -853,28 +877,20 @@
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
     },
     {
-      "added_at": "2023-01-04 01:09:50",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "20 Years Dope Noir - Oranje Album",
-        "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
-          "name": "Soul Goodman",
-          "url": "https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi"
-        },
-        {
-          "name": "Waldeck",
-          "url": "https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH"
-        },
-        {
-          "name": "Patrizia Ferrara",
-          "url": "https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 185250,
-      "name": "The Moon Above",
-      "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -945,22 +961,6 @@
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
       "added_at": "2023-06-02 01:19:32",
       "album": {
         "name": "Giver Taker",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
+    },
+    {
       "added_at": "2023-10-10 01:29:29",
       "album": {
         "name": "Ghosts",
@@ -1011,22 +1027,6 @@
       "duration_ms": 258120,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
-    },
-    {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
-      "added_at": "2022-02-09 03:25:54",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Nowhere",
@@ -1243,6 +1227,22 @@
       "duration_ms": 233000,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
+    },
+    {
+      "added_at": "2022-02-09 03:25:54",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2024-01-03 18:42:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 228213,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1529,6 +1529,22 @@
       "url": "https://open.spotify.com/track/5uvQg4kzC2Tp1cJMpoPQe7"
     },
     {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Run Away",
@@ -1549,20 +1565,20 @@
       "url": "https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+        "name": "Torch Song",
+        "url": "https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq"
       },
       "artists": [
         {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+      "duration_ms": 150731,
+      "name": "Torch Song",
+      "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1579,22 +1595,6 @@
       "duration_ms": 146487,
       "name": "I Love Vertigo",
       "url": "https://open.spotify.com/track/47kpVEKInbOhPzXjJa6MAc"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Torch Song",
-        "url": "https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 150731,
-      "name": "Torch Song",
-      "url": "https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2"
     },
     {
       "added_at": "2022-01-13 02:46:07",

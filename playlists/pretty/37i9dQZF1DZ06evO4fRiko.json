@@ -1,12 +1,12 @@
 {
-  "description": "This is Chris Brown. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 857413,
+  "description": "This is Chris Brown. The essential tracks, all in one playlist.",
+  "num_followers": 857907,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAD1/dRdZNMpeNbIsw8tVJZ+",
+  "snapshot_id": "ZpHDgAAAAACduatVlSJ3Tx5huL94Ff8s",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
       "duration_ms": 306847,
       "name": "Angel Numbers / Ten Toes",
       "url": "https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Pit (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "International Love (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
     },
     {
       "added_at": null,
@@ -271,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Evening",
-        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 211975,
-      "name": "Five More Hours",
-      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -311,6 +271,26 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Evening",
+        "url": "https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 211975,
+      "name": "Five More Hours",
+      "url": "https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN"
     },
     {
       "added_at": null,
@@ -475,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 127615,
-      "name": "Press Me",
-      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
+      "duration_ms": 265813,
+      "name": "Next To You (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
     },
     {
       "added_at": null,
@@ -511,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
       "artists": [
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 265813,
-      "name": "Next To You (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
+      "duration_ms": 127615,
+      "name": "Press Me",
+      "url": "https://open.spotify.com/track/7rZbFj5T5GzbIrVMrkw5AU"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -639,6 +639,30 @@
       "duration_ms": 186586,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
     },
     {
       "added_at": null,
@@ -767,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Nobody's Business",
-      "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex Playlist",
         "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
       },
@@ -807,6 +811,26 @@
       "duration_ms": 226580,
       "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
       "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Nobody's Business",
+      "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
     },
     {
       "added_at": null,
@@ -1035,22 +1059,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 159888,
-      "name": "No Interruptions",
-      "url": "https://open.spotify.com/track/6DaUoalUi6GAQTLaWmNcF0"
     }
   ],
   "unique_name": "This Is Chris Brown",

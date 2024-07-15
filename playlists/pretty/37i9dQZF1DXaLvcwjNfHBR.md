@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Jordan Adetunji
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,143 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,189 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

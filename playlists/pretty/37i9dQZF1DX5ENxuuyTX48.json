@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Aina Abdul, Fabio Asher",
-  "num_followers": 20705,
+  "num_followers": 20720,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-07-12 04:46:25",
       "album": {
+        "name": "CAN MACHINES FALL IN LOVE?",
+        "url": "https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 188811,
+      "name": "Begini Begitu",
+      "url": "https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk"
+    },
+    {
+      "added_at": "2024-07-12 04:46:25",
+      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
-    },
-    {
-      "added_at": "2024-07-12 04:46:25",
-      "album": {
-        "name": "CAN MACHINES FALL IN LOVE?",
-        "url": "https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 188811,
-      "name": "Begini Begitu",
-      "url": "https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk"
     },
     {
       "added_at": "2024-07-12 04:46:25",

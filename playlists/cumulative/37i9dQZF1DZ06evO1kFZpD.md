@@ -4,11 +4,11 @@
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 45 min
+46 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 | 2024-06-17 |  |
+| [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 | 2024-06-17 | 2024-07-15 |
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-20 |  |
 | [Blunt Talk \(feat\. Nacho Picasso & Raveena\)](https://open.spotify.com/track/4ZNM7r3IbFeJLGouDG79ze) | [Brothers From Another](https://open.spotify.com/artist/7EBy1PkMgjQ9H5qroSGC8P), [Nacho Picasso](https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [This Summer](https://open.spotify.com/album/3ETbunFdPVpvzcyuRG1zO8) | 3:58 | 2023-11-10 | 2024-06-17 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2023-05-02 |  |
@@ -36,6 +36,7 @@
 | [Nectar](https://open.spotify.com/track/2T4xw1hmipgHyFQXbWBfKD) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:26 | 2023-05-02 |  |
 | [No Better](https://open.spotify.com/track/0DXlHWi8pqB5R2gfzlZx2i) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 4:02 | 2023-05-02 |  |
 | [Petal](https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 3:07 | 2023-05-02 |  |
+| [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-07-15 |  |
 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-11 | 2024-07-03 |
 | [Rise](https://open.spotify.com/track/0ngdWWyCMCeCkMQNwUiN9o) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 5:34 | 2024-06-17 | 2024-07-13 |
 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 | 2023-05-02 |  |

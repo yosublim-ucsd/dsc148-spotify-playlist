@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Laura Marling
 
-112 songs - 7 hr 7 min
+113 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-06-14 |  |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-06-14 |  |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-07-11 |  |
-| [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 |  |
+| [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 | 2024-07-15 |
 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-06-14 |  |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-06-14 |  |
 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 | 2024-06-14 |  |
@@ -84,6 +84,7 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2024-06-14 |  |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 |  |
+| [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-11 |  |
 | [Psychedelic Orgasm](https://open.spotify.com/track/5z8H0o98dlKANCnDlKsjkY) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [Psychedelic Orgasm](https://open.spotify.com/album/1152eHgDWVHE88C8ATUmqc) | 3:40 | 2024-06-14 | 2024-07-06 |
 | [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 | 2024-06-14 |  |
 | [Rapture](https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:28 | 2024-06-14 |  |

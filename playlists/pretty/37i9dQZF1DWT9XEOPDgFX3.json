@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 99259,
+  "num_followers": 99264,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -287,34 +287,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Simulation Swarm",
-      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
+      "duration_ms": 164224,
+      "name": "zombie girl",
+      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -335,22 +319,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 164224,
-      "name": "zombie girl",
-      "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -367,6 +335,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Lovers to Strangers",
         "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 174086,
       "name": "Lovers to Strangers",
       "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Simulation Swarm",
+      "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "tiny things",
+      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Wella",
         "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "tiny things",
-      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Superficial",
-        "url": "https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Riding Around In The Dark",
         "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 206459,
       "name": "Riding Around In The Dark",
       "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/1lkeQCH9WokW8GQDJ6guea"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/1inzz3waRDnnVF9p8eXisd"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "HEADSPLIT (Deluxe)",
-        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
+        "name": "Planet Song",
+        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
       "artists": [
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
         }
       ],
-      "duration_ms": 153145,
-      "name": "if it\u2019s not with you",
-      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
+      "duration_ms": 210281,
+      "name": "Planet Song",
+      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Planet Song",
-        "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
+        "name": "HEADSPLIT (Deluxe)",
+        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
       },
       "artists": [
         {
-          "name": "Margot Liotta",
-          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
         }
       ],
-      "duration_ms": 210281,
-      "name": "Planet Song",
-      "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+      "duration_ms": 153145,
+      "name": "if it\u2019s not with you",
+      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "glacier meadow",
-        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 166340,
-      "name": "glacier meadow",
-      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+        "name": "glacier meadow",
+        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
       "artists": [
         {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
         }
       ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+      "duration_ms": 166340,
+      "name": "glacier meadow",
+      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Ribcage",
-        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 177310,
-      "name": "Ribcage",
-      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "duration_ms": 177310,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Bindi in the Dirt",
         "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
@@ -1691,18 +1723,18 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
       },
       "artists": [
         {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1739,38 +1771,6 @@
       "duration_ms": 177546,
       "name": "Sink;Swim",
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Kansas",
-        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 211734,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Kansas",
+        "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 211734,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
     },
     {
       "added_at": "2024-06-07 04:00:00",

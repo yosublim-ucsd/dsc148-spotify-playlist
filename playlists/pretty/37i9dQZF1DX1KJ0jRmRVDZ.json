@@ -1,6 +1,6 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 116452,
+  "num_followers": 116460,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
+        "name": "\u52c7\u8005",
+        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
         "name": "Surges",
         "url": "https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
-        "url": "https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
-      "url": "https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
         "name": "\u5c11\u3057\u3060\u3051",
         "url": "https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc"
       },
@@ -447,56 +447,8 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u52c7\u8005",
-        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "\u52c7\u8005",
-      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "\u7768\u3081\u3063\u5a18",
-        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
-      },
-      "artists": [
-        {
-          "name": "\u53cb\u6210\u7a7a",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u7768\u3081\u3063\u5a18",
-      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "Value",
-        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
+        "name": "\u5531",
+        "url": "https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp"
       },
       "artists": [
         {
@@ -504,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Value",
-      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+      "duration_ms": 189772,
+      "name": "\u5531",
+      "url": "https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4"
     },
     {
       "added_at": "2024-07-11 15:00:00",
@@ -527,24 +479,24 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "HELP!!",
-        "url": "https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB"
+        "name": "\u7768\u3081\u3063\u5a18",
+        "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
       "artists": [
         {
-          "name": "Kobo Kanaeru",
-          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
+          "name": "\u53cb\u6210\u7a7a",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
         }
       ],
-      "duration_ms": 187794,
-      "name": "HELP!!",
-      "url": "https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU"
+      "duration_ms": 159000,
+      "name": "\u7768\u3081\u3063\u5a18",
+      "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
     },
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u6b21\u56de\u4e88\u544a",
-        "url": "https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3"
+        "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
+        "url": "https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4"
       },
       "artists": [
         {
@@ -552,41 +504,9 @@
           "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 188300,
-      "name": "\u6b21\u56de\u4e88\u544a",
-      "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "\u8272\u5f69",
-        "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 192175,
-      "name": "\u8272\u5f69",
-      "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "Biri-Biri",
-        "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 187325,
-      "name": "Biri-Biri",
-      "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
+      "duration_ms": 184500,
+      "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
+      "url": "https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5"
     },
     {
       "added_at": "2024-07-11 15:00:00",
@@ -607,8 +527,40 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u5531",
-        "url": "https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp"
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
+        "name": "\u8272\u5f69",
+        "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 192175,
+      "name": "\u8272\u5f69",
+      "url": "https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
+        "name": "Value",
+        "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
       },
       "artists": [
         {
@@ -616,9 +568,41 @@
           "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 189772,
-      "name": "\u5531",
-      "url": "https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4"
+      "duration_ms": 185000,
+      "name": "Value",
+      "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
+        "name": "HELP!!",
+        "url": "https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB"
+      },
+      "artists": [
+        {
+          "name": "Kobo Kanaeru",
+          "url": "https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2"
+        }
+      ],
+      "duration_ms": 187794,
+      "name": "HELP!!",
+      "url": "https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
+        "name": "Biri-Biri",
+        "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187325,
+      "name": "Biri-Biri",
+      "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
     },
     {
       "added_at": "2024-07-11 15:00:00",
@@ -667,6 +651,38 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
+        "name": "\u6b21\u56de\u4e88\u544a",
+        "url": "https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 188300,
+      "name": "\u6b21\u56de\u4e88\u544a",
+      "url": "https://open.spotify.com/track/2bo9W888RRWGTk9AxmxUJs"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
+        "name": "\u6625\u3092\u544a\u3052\u308b",
+        "url": "https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 196497,
+      "name": "\u6625\u3092\u544a\u3052\u308b",
+      "url": "https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
         "name": "Blues in the Closet",
         "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
       },
@@ -699,6 +715,22 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
+        "name": "\u5411\u65e5\u8475",
+        "url": "https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "\u5411\u65e5\u8475",
+      "url": "https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK"
+    },
+    {
+      "added_at": "2024-07-11 15:00:00",
+      "album": {
         "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ"
       },
@@ -715,18 +747,26 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u6625\u3092\u544a\u3052\u308b",
-        "url": "https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv"
+        "name": "\u306a\u3093\u3082\u306a\u3044 (feat. \u661f\u8857\u3059\u3044\u305b\u3044, sakuma.)",
+        "url": "https://open.spotify.com/album/57Hvt5oeXrOauE7NZgd4lm"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        },
+        {
+          "name": "sakuma.",
+          "url": "https://open.spotify.com/artist/28dIdhPktpaNDZlLD41cLj"
         }
       ],
-      "duration_ms": 196497,
-      "name": "\u6625\u3092\u544a\u3052\u308b",
-      "url": "https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD"
+      "duration_ms": 217960,
+      "name": "\u306a\u3093\u3082\u306a\u3044 (feat. \u661f\u8857\u3059\u3044\u305b\u3044, sakuma.)",
+      "url": "https://open.spotify.com/track/1YHmGQGyNmFAsVAgPckYxF"
     },
     {
       "added_at": "2024-07-11 15:00:00",
@@ -763,42 +803,18 @@
     {
       "added_at": "2024-07-11 15:00:00",
       "album": {
-        "name": "\u5411\u65e5\u8475",
-        "url": "https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y"
+        "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36"
       },
       "artists": [
         {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+          "name": "HIMEHINA",
+          "url": "https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq"
         }
       ],
-      "duration_ms": 259586,
-      "name": "\u5411\u65e5\u8475",
-      "url": "https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "\u306a\u3093\u3082\u306a\u3044 (feat. \u661f\u8857\u3059\u3044\u305b\u3044, sakuma.)",
-        "url": "https://open.spotify.com/album/57Hvt5oeXrOauE7NZgd4lm"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        },
-        {
-          "name": "sakuma.",
-          "url": "https://open.spotify.com/artist/28dIdhPktpaNDZlLD41cLj"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "\u306a\u3093\u3082\u306a\u3044 (feat. \u661f\u8857\u3059\u3044\u305b\u3044, sakuma.)",
-      "url": "https://open.spotify.com/track/1YHmGQGyNmFAsVAgPckYxF"
+      "duration_ms": 219361,
+      "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ"
     },
     {
       "added_at": "2024-07-11 15:00:00",
@@ -815,22 +831,6 @@
       "duration_ms": 230066,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
-    },
-    {
-      "added_at": "2024-07-11 15:00:00",
-      "album": {
-        "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36"
-      },
-      "artists": [
-        {
-          "name": "HIMEHINA",
-          "url": "https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq"
-        }
-      ],
-      "duration_ms": 219361,
-      "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

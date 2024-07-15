@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Adriel Favela, Tito Double P, Juanchito en portada.",
-  "num_followers": 169115,
+  "num_followers": 169142,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
@@ -243,6 +263,22 @@
       "duration_ms": 168511,
       "name": "Entre las de 20",
       "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -267,22 +303,6 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -323,26 +343,6 @@
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "LINDA",
-        "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "LINDA",
-      "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -443,30 +443,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Skin de Bandida",
-        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 176134,
-      "name": "Skin de Bandida",
-      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 190500,
       "name": "Sin Yolanda",
       "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Skin de Bandida",
+        "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 176134,
+      "name": "Skin de Bandida",
+      "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "GAVIL\u00c1N II",
+      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "ANDO",
         "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "GAVIL\u00c1N II",
-      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 212861,
       "name": "LA CHERRY",
       "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 170901,
       "name": "Lucky Charms",
       "url": "https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Capuchas",
         "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Sin Rumbo",
-        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Garcia",
-          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
-        }
-      ],
-      "duration_ms": 203606,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Flore$",
+        "url": "https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Tino Acosta",
+          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
+        }
+      ],
+      "duration_ms": 126300,
+      "name": "Flore$",
+      "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Sue\u00f1o Americano",
         "url": "https://open.spotify.com/album/20ZVDYn2j4irBzIPdd4OYP"
       },
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Flore$",
-        "url": "https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Tino Acosta",
-          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
-        }
-      ],
-      "duration_ms": 126300,
-      "name": "Flore$",
-      "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Porte Malandro Fres\u00f3n",
         "url": "https://open.spotify.com/album/4uXVAVVf7aCt2sHVBnKD6U"
       },
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Drop Shop",
         "url": "https://open.spotify.com/album/1LGRVtwR1bMvFMQmCpWCQq"
       },
@@ -1959,22 +1943,42 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El Es Mi Apa",
-        "url": "https://open.spotify.com/album/5POuHaE3KgomOUXp9aDO3H"
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
       },
       "artists": [
         {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Primicia de Sinaloa",
-          "url": "https://open.spotify.com/artist/6imCgydVatQQYY0tQ8V6XD"
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
         }
       ],
-      "duration_ms": 163911,
-      "name": "El Es Mi Apa",
-      "url": "https://open.spotify.com/track/2bHjBisRpg4sWhKSsLupyQ"
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Oye Cantinero",
+        "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 196111,
+      "name": "Oye Cantinero",
+      "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
     },
     {
       "added_at": "2024-07-12 06:00:00",

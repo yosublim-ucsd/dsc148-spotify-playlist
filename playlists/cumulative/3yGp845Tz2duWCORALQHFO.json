@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Blck Pwdr",
+        "url": "https://open.spotify.com/album/6Ef76BwEgkUqQkbxZ4g3ll"
+      },
+      "artists": [
+        {
+          "name": "The Kudu",
+          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "Blck Pwdr",
+      "url": "https://open.spotify.com/track/1z2nPLibb7tgdpcgFamqbc"
+    },
+    {
+      "album": {
         "name": "BLUDGEON",
         "url": "https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h"
       },
@@ -5279,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0Pp8nE187FWq1hqY6RTaNU"
+      },
+      "artists": [
+        {
+          "name": "Will Plaze",
+          "url": "https://open.spotify.com/artist/3fFPyMScdyz7zoHK2A3uvu"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/6g2uHVAb4gFmLNkmp4aPcW"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0WLVGkkmHIOWKnqHJxjsuJ"
       },
@@ -9100,6 +9140,28 @@
       "duration_ms": 215675,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/0OkvQpiUUatDmq6guD4C8B"
+    },
+    {
+      "album": {
+        "name": "Take Me There (Remixes)",
+        "url": "https://open.spotify.com/album/0GqoBsa7wgaefMcoLryzDT"
+      },
+      "artists": [
+        {
+          "name": "shams",
+          "url": "https://open.spotify.com/artist/4IB8myYRu05MrYjhHFfH3x"
+        },
+        {
+          "name": "Mystic Joy",
+          "url": "https://open.spotify.com/artist/3clFVe1tCR0DsVU0xtq5JV"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166046,
+      "name": "Take Me There - VIP Remix",
+      "url": "https://open.spotify.com/track/60LaZm7Q522tOrxJ6g6iYR"
     },
     {
       "album": {

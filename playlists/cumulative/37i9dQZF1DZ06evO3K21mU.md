@@ -2,7 +2,7 @@
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. The essential tracks, all in one playlist.
+> This Is J\. Cole\. Los temas esenciales, todos en una lista.
 
 70 songs - 4 hr 24 min
 
@@ -28,7 +28,7 @@
 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:28 | 2023-11-10 |  |
 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 | 2024-06-10 |  |
 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 | 2023-11-10 |  |
-| [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-06-01 |  |
+| [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-06-01 | 2024-07-15 |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-07 |  |
 | [Heaven’s EP \(with J\. Cole\)](https://open.spotify.com/track/19h1LNf7idduUW3jBeswB8) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:58 | 2023-11-10 | 2024-05-11 |
 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 | 2023-12-20 | 2024-04-06 |
@@ -63,7 +63,7 @@
 | [She's Mine Pt\. 1](https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:29 | 2023-11-10 |  |
 | [She's Mine Pt\. 2](https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 4:38 | 2023-11-10 |  |
 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 | 2023-11-10 |  |
-| [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2023-12-13 | 2024-04-07 |
+| [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 | 2023-12-13 |  |
 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 | 2024-04-10 |  |
 | [Stickz N Stonez](https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:20 | 2024-04-08 | 2024-07-04 |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 | 2023-11-10 | 2024-01-09 |

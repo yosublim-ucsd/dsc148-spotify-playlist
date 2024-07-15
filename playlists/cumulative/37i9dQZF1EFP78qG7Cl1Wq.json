@@ -574,10 +574,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 128841,
       "name": "Celebration Weight",
       "url": "https://open.spotify.com/track/0ADUPaCIp2KEmN4gt6GkkV"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128841,
+      "name": "Celebration Weight",
+      "url": "https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO"
     },
     {
       "album": {
@@ -1033,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Dream Hotel",
+      "url": "https://open.spotify.com/track/0W2b5N4Z0sXtuDSMiflS7J"
+    },
+    {
+      "album": {
         "name": "Dream Hotel",
         "url": "https://open.spotify.com/album/1i2jfydI9S0ek7oLHdabo6"
       },
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 157333,
       "name": "Dream Hotel",
       "url": "https://open.spotify.com/track/3W4Eqca9oJVaEQjOV9GImD"
@@ -1160,10 +1196,32 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 133011,
       "name": "Era",
       "url": "https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133011,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/2ofSeGea3q9BZHYmvhKdtf"
     },
     {
       "album": {
@@ -1272,10 +1330,46 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 168476,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/22rWtsBZuqY9Qb5IuD4zOg"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168476,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/7qkszyg16RZKPiibpY8RQj"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151239,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T"
     },
     {
       "album": {
@@ -1290,7 +1384,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 151239,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M"
@@ -2973,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177647,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/0mLXX67niqacawrE54oMbz"
+    },
+    {
+      "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/7EpkVV9OWoywiqkeMcHXaw"
       },
@@ -2984,7 +3096,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 177647,
       "name": "Rich",
       "url": "https://open.spotify.com/track/2Gh6kOnozibGZC0iTEWMiE"
@@ -3326,10 +3438,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 164117,
       "name": "Something In My Eye",
       "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
+    },
+    {
+      "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Something In My Eye",
+      "url": "https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em"
     },
     {
       "album": {

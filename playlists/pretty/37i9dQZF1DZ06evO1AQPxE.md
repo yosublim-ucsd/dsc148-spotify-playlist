@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,942 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,969 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [SYLVIA \(feat\. 2forwOyNE\)](https://open.spotify.com/track/1AVm6MTy8qpaFi0gAa7Hlw) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [2forwOyNE](https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 3:45 |
 | 50 | [Time](https://open.spotify.com/track/2u1reDAcQvETi2bder48nX) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [The Balancing Act](https://open.spotify.com/album/7q3ff38RxgNN0HbG5WNDWF) | 2:32 |
 
-Snapshot ID: `ZpByAAAAAABYZ7SADQQHPF0VdkRwAcxQ`
+Snapshot ID: `ZpHDgAAAAAD24+sPQobKr18p3Uh5mCos`

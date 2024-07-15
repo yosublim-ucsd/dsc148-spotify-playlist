@@ -11120,7 +11120,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 245500,
       "name": "El Beneficio De La Duda",
       "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
@@ -16082,7 +16082,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
@@ -20254,7 +20254,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
@@ -21818,7 +21818,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 51853,
       "name": "Mangos - Tiktok Version",
       "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
@@ -24308,7 +24308,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 109668,
       "name": "Montagem Sonic Ritmado 1.0 (Super Slowed)",
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
@@ -27891,6 +27891,28 @@
     },
     {
       "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172794,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
+    },
+    {
+      "album": {
         "name": "Una Historia Cantada",
         "url": "https://open.spotify.com/album/3JrcqQ5KM5aS5as2uTVuVQ"
       },
@@ -28958,7 +28980,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
@@ -31912,7 +31934,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 124689,
       "name": "SAN TURRONA",
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
@@ -34924,7 +34946,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -41754,7 +41776,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 183253,
       "name": "YCQVM",
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"

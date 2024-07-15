@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 9182,
+  "num_followers": 9248,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves",
         "url": "https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL"
       },
@@ -311,42 +331,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "En Vivo Desde El Carnegie Hall",
-        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 446333,
-      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
-      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
         "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 311520,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "En Vivo Desde El Carnegie Hall",
+        "url": "https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 446333,
+      "name": "Amor M\u00edo No Te Vayas - En Vivo Desde El Carnegie Hall Version",
+      "url": "https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
       "artists": [
         {
@@ -420,13 +420,21 @@
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 557626,
-      "name": "Descarga Fania - Live",
-      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -483,6 +491,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 275960,
+      "name": "Tengo Ganas - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "40... y Contando (En Vivo Desde Puerto Rico)",
         "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
@@ -503,22 +527,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 275960,
-      "name": "Tengo Ganas - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2oPozWeqp6qGl3mWK2I62C"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "Grupo Niche (En Vivo)",
         "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
       },
@@ -531,34 +539,6 @@
       "duration_ms": 335680,
       "name": "Nuestro Sue\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/0nrOLAiz0CCyqr3PZaT0Zw"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Sabor Sabor - Live",
-      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -579,6 +559,26 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "Asalto Navideno Live! Puerto Rico 1993",
         "url": "https://open.spotify.com/album/6f7TM6QbJtF94E4vnchGle"
       },
@@ -591,54 +591,6 @@
       "duration_ms": 423235,
       "name": "Idilio - Live",
       "url": "https://open.spotify.com/track/4ykdGFQlWaLMYfvx40DgbY"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
-        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "Conciencia - En Vivo desde Puerto Rico",
-      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -675,6 +627,54 @@
       "duration_ms": 324062,
       "name": "Probablemente - Live",
       "url": "https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "40... y Contando (En Vivo Desde Puerto Rico)",
+        "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 196480,
+      "name": "Conciencia - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/2kTplkLCuMb9wWkyQmo17s"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "A Night Of Salsa",
+        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 401466,
+      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
+      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 338093,
       "name": "Mi Bajo y Yo - Live Version",
       "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     },
     {
       "added_at": "2024-03-19 14:30:29",

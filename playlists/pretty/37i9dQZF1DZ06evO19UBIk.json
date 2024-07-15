@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 654797,
+  "num_followers": 654941,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAA4CAQqHNE8MkVB9GxNdXL3",
+  "snapshot_id": "ZpHDgAAAAADqi2wmb3enzYUo7qLr3MIx",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
       "duration_ms": 170132,
       "name": "Peace Frog",
       "url": "https://open.spotify.com/track/5piJiL6aRhvrKBa9YuEfS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": null,
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Waiting for the Sun",
-      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
+      "duration_ms": 154066,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
     },
     {
       "added_at": null,
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj"
+      "duration_ms": 238626,
+      "name": "Waiting for the Sun",
+      "url": "https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh"
     },
     {
       "added_at": null,
@@ -403,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Strange Days",
-      "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
+      "duration_ms": 378480,
+      "name": "Gloria - Live; 2007 Remaster",
+      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
     },
     {
       "added_at": null,
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of the Doors",
-        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 378480,
-      "name": "Gloria - Live; 2007 Remaster",
-      "url": "https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP"
+      "duration_ms": 180573,
+      "name": "You're Lost Little Girl",
+      "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
     },
     {
       "added_at": null,
@@ -463,22 +447,6 @@
       "duration_ms": 190200,
       "name": "Hyacinth House",
       "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "You're Lost Little Girl",
-      "url": "https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom"
     },
     {
       "added_at": null,
@@ -515,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Strange Days",
+      "url": "https://open.spotify.com/track/4WFVX3E568hdAixIj3U222"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -527,22 +511,6 @@
       "duration_ms": 201106,
       "name": "The Unknown Soldier",
       "url": "https://open.spotify.com/track/78JYtz4yOPqAEgZZc3SBLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Moonlight Drive",
-      "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
     },
     {
       "added_at": null,
@@ -583,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Moonlight Drive",
+      "url": "https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An American Prayer",
         "url": "https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ"
       },
@@ -599,6 +583,38 @@
       "duration_ms": 63773,
       "name": "Bird of Prey",
       "url": "https://open.spotify.com/track/0psPuObi7UupQnXjaex39e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Cars Hiss by My Window",
+      "url": "https://open.spotify.com/track/2Sjez1CwJv8Pz018CxKjWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 146026,
+      "name": "Runnin' Blue",
+      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 146026,
-      "name": "Runnin' Blue",
-      "url": "https://open.spotify.com/track/0y2Vz9T2PImD6YUdMq9Ebl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Town (Live)",
         "url": "https://open.spotify.com/album/6II4ncJJBSusGhr6FAjmBj"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 96643,
       "name": "Mack The Knife - Live 1968",
       "url": "https://open.spotify.com/track/2GYUyFdZFkmUBZuIBWiEza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Tell All the People",
+      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
     },
     {
       "added_at": null,
@@ -695,38 +711,6 @@
       "duration_ms": 39229,
       "name": "I Am Troubled - 2019 Remaster",
       "url": "https://open.spotify.com/track/4jj0yIh4mBIZEwjJwDVCYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Tell All the People",
-      "url": "https://open.spotify.com/track/0g1NRq4KmbEYgzaPF7G6CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Nights of Stone",
-        "url": "https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 39360,
-      "name": "Petition the Lord with Prayer - Live in Vancouver, 1970",
-      "url": "https://open.spotify.com/track/7FPHpesUZ791sGiYKQpQG4"
     },
     {
       "added_at": null,

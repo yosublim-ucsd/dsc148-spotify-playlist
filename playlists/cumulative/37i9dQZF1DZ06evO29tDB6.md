@@ -2,7 +2,7 @@
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This is: El Tri\. Alle wichtigen Tracks in einer Playlist.
+> This is El Tri\. The essential tracks, all in one playlist.
 
 80 songs - 5 hr 20 min
 
@@ -36,8 +36,8 @@
 | [Hoyos en la bolsa](https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Hoyos en la bolsa](https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw) | 3:37 | 2023-01-14 |  |
 | [La raza más chida](https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:10 | 2023-01-14 |  |
 | [La Vecina \(Trapeada Mix\)](https://open.spotify.com/track/2Qa3Sd1Hi2eJa2mGdr0cqe) | [Riesgo de Contagio](https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [Luisito Rey](https://open.spotify.com/artist/4xIGd0rRvlvEw9XMwVEA8Q), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne), [Jeronimo Gorraez](https://open.spotify.com/artist/4EoBAFFhWcdz9m4RQ9gRzR) | [La Vecina \(Trapeada Mix\)](https://open.spotify.com/album/21Cm0UU0Dl5Qmr081bGnie) | 3:33 | 2023-07-17 | 2023-10-11 |
-| [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 | 2023-01-14 | 2024-07-14 |
-| [Libertad bajo fianza](https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:43 | 2024-01-21 |  |
+| [Las piedras rodantes](https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Una rola para los minusválidos](https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg) | 3:18 | 2023-01-14 |  |
+| [Libertad bajo fianza](https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [20 Grandes Exitos](https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq) | 3:43 | 2024-01-21 | 2024-07-15 |
 | [Los minusválidos](https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Sinfónico](https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8) | 4:04 | 2023-01-14 |  |
 | [Los Ojos De Frida](https://open.spotify.com/track/5ZpbaXsG7gYdlAnBYUWFoL) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Yo Quiero Ser Tu Celular](https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3) | 4:12 | 2024-05-25 | 2024-05-26 |
 | [María Sabina](https://open.spotify.com/track/3Jkj0MlvVlggnWnLndsvWb) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 5:11 | 2023-01-14 |  |

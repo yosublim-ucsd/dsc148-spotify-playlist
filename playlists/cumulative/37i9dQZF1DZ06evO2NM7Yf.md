@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. أغاني روعة في قايمة أغاني واحدة.
+> This is Meg Smith\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 23 songs - 1 hr 8 min
 

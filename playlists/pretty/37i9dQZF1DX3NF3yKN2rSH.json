@@ -171,6 +171,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -295,6 +279,22 @@
       "duration_ms": 505120,
       "name": "If God / Nothing But the Blood",
       "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "It Wasn't Easy",
-      "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "A Great Work",
         "url": "https://open.spotify.com/album/6WL4I0vQ7siPfkjtHbABhp"
       },
@@ -395,18 +379,34 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "Road to DeMaskUs",
+        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Gracefully Broken",
-      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
+      "duration_ms": 322106,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "It Wasn't Easy",
+      "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Road to DeMaskUs",
-        "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 322106,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9"
+      "duration_ms": 376666,
+      "name": "Gracefully Broken",
+      "url": "https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -491,22 +491,6 @@
       "duration_ms": 348680,
       "name": "Arise (You Are Good)",
       "url": "https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 358440,
-      "name": "Fill Me Up - Live",
-      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -631,6 +615,22 @@
       "duration_ms": 380866,
       "name": "Jesus I Love You (Live)",
       "url": "https://open.spotify.com/track/4hLaRpyVQwU3g1VggcSxPw"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 358440,
+      "name": "Fill Me Up - Live",
+      "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live At Azusa 3",
-        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
-      },
-      "artists": [
-        {
-          "name": "Carlton Pearson",
-          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
-        },
-        {
-          "name": "Beverly Crawford",
-          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
-        }
-      ],
-      "duration_ms": 436960,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
@@ -1183,6 +1163,46 @@
       "duration_ms": 471217,
       "name": "The Cross Made the Change - Live",
       "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Live At Azusa 3",
+        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
+      },
+      "artists": [
+        {
+          "name": "Carlton Pearson",
+          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+        },
+        {
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+        }
+      ],
+      "duration_ms": 436960,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        },
+        {
+          "name": "Jason Nicholson-Porter",
+          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
+        }
+      ],
+      "duration_ms": 356209,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1231,26 +1251,6 @@
       "duration_ms": 417160,
       "name": "Now Behold the Lamb - Live",
       "url": "https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        },
-        {
-          "name": "Jason Nicholson-Porter",
-          "url": "https://open.spotify.com/artist/0J41vFW1jyQEmCDNALvGHS"
-        }
-      ],
-      "duration_ms": 356209,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 450840,
-      "name": "Cherish The Cross",
-      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Listen With Your Heart",
         "url": "https://open.spotify.com/album/7fqzviIu7dcruasye6mNxo"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 418728,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
       },
@@ -1615,42 +1631,6 @@
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 418728,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1731,6 +1711,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "He Got Up",
         "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
       },
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
+        "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+        }
+      ],
+      "duration_ms": 286946,
+      "name": "Power In the Blood v1.1",
+      "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
       },
@@ -1799,22 +1819,6 @@
       "duration_ms": 329186,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Live In Detroit II (Video)",
-        "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
-      },
-      "artists": [
-        {
-          "name": "Vickie Winans",
-          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
     }
   ],
   "unique_name": "Easter Gospel",

@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-293 songs - 16 hr 39 min
+294 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-07-12 |  |
 | [Day Glow](https://open.spotify.com/track/6re1o3rJ5vUZ97HqArXQLa) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 4:31 | 2023-01-10 | 2023-06-08 |
 | [days like these](https://open.spotify.com/track/3HGBDwd7WgDb5B2Arr30fV) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [days like these](https://open.spotify.com/album/205F9vWMOP9BqDHjwhSZ6d) | 2:14 | 2023-10-20 | 2023-12-14 |
-| [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-02-23 |  |
+| [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-02-23 | 2024-07-15 |
 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-09-19 | 2023-10-20 |
 | [Death Of Me](https://open.spotify.com/track/4dFDlhbIi1x9BY7rO52cID) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Death Of Me](https://open.spotify.com/album/0uA0oMjbuhSoNqdfjpbKQD) | 3:34 | 2024-05-31 |  |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |
@@ -226,6 +226,7 @@
 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 | 2023-03-31 |  |
 | [Ritual Of The Crocodile Men](https://open.spotify.com/track/1HqBbNCgZQLmViO7t2q40Y) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Electric Kool\-Aid \(Pt\. 2\)](https://open.spotify.com/album/30SOrQbrIjobGpkPdLnHMI) | 3:57 | 2023-01-10 | 2023-09-20 |
 | [Sad Boys](https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:12 | 2023-10-20 | 2023-10-28 |
+| [Save Yourself](https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Fear Life For A Lifetime](https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy) | 3:24 | 2024-07-12 |  |
 | [Say My Name](https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Say My Name](https://open.spotify.com/album/6ZN13CtDuZ3JAaTB8SFlZv) | 3:50 | 2023-01-10 | 2023-03-14 |
 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 | 2023-05-11 |  |
 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 | 2023-01-10 | 2024-07-13 |

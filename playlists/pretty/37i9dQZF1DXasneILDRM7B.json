@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3018265,
+  "num_followers": 3018251,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -587,22 +603,6 @@
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "The Black Parade",
@@ -723,6 +707,22 @@
       "duration_ms": 193000,
       "name": "1985",
       "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -955,6 +939,38 @@
       "duration_ms": 190986,
       "name": "Know Your Enemy",
       "url": "https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ignorance",
+      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/0I329vpTJRdSRjEcWaQsSL"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ignorance",
-      "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "So Long, Astoria",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "crushcrushcrush",
+      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "This Is Gospel",
+      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -1119,22 +1151,6 @@
       "duration_ms": 174320,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "This Is Gospel",
-      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+        "name": "Take This to Your Grave",
+        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 189373,
-      "name": "crushcrushcrush",
-      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+      "duration_ms": 191373,
+      "name": "Grand Theft Autumn / Where Is Your Boy",
+      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1199,22 +1215,6 @@
       "duration_ms": 185026,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Take This to Your Grave",
-        "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 191373,
-      "name": "Grand Theft Autumn / Where Is Your Boy",
-      "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+      "duration_ms": 183493,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1443,6 +1427,22 @@
       "duration_ms": 181306,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "All Killer No Filler",
         "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 178320,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Suburbia I've Given You All and Now I'm Nothing",
-        "url": "https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 244744,
-      "name": "Came Out Swinging",
-      "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Lovely Little Lonely",
         "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 203057,
       "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Suburbia I've Given You All and Now I'm Nothing",
+        "url": "https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 244744,
+      "name": "Came Out Swinging",
+      "url": "https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh"
     }
   ],
   "unique_name": "Pure Pop Punk",

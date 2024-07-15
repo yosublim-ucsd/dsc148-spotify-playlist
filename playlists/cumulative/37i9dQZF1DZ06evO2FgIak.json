@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 149626,
       "name": "Crawlin' Kingsnake",
       "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 156240,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 200434,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "I Can't Be Satisfied",
       "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
@@ -938,6 +938,28 @@
       "duration_ms": 171600,
       "name": "I Love The Life I Live (I Live The Life I Love)",
       "url": "https://open.spotify.com/track/2aZ8nrq3RIXEXUviAwzyLV"
+    },
+    {
+      "album": {
+        "name": "Muddy Waters Live Boston August 22nd. 1972 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Pee Wee Madison",
+          "url": "https://open.spotify.com/artist/5ZRzXIj0gQi03FpgQ9lTh4"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "I Need Your Lovin' - Live Boston August 22nd.1972 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/0GferDpKl7uayUePPRygEW"
     },
     {
       "album": {
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
@@ -1198,7 +1220,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 569933,
       "name": "Kansas City - Live",
       "url": "https://open.spotify.com/track/1qCQ8n7quH6mWOhnAJm08E"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 161026,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/21SJZoN35oJCD2MS6PRgvd"
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 137733,
       "name": "Mean Red Spider",
       "url": "https://open.spotify.com/track/6iukeqLbu4VAniiFbKQ6My"
@@ -1762,7 +1784,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 177213,
       "name": "She Moves Me",
       "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Spoonful'",
       "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Standing Around Crying - Single Version",
       "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
@@ -1990,7 +2012,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 199040,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1AqMhPGWDrR89wmOzilvr1"
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 149240,
       "name": "Sugar Sweet - 1955 Single Version",
       "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
@@ -2226,7 +2248,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
@@ -2320,7 +2342,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 280293,
       "name": "What Is That She Got - Live At Mr. Kelly's/1971",
       "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"

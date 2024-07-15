@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 36487,
+  "num_followers": 36515,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,26 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+        "name": "OHEMA (with Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+      "duration_ms": 205714,
+      "name": "OHEMA (with Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -259,6 +267,22 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -275,30 +299,6 @@
       "duration_ms": 154909,
       "name": "Bae Bae",
       "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "OHEMA (with Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/6J9hIO03GDl5zU5BkI1DV6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "OHEMA (with Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/7CkDjDtJjCZA7AW7RBvrvC"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -555,6 +539,38 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -627,6 +643,26 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "Qing Madi (Deluxe)",
+        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -639,22 +675,6 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -691,22 +711,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -727,6 +731,22 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 194181,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -983,6 +983,50 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Alafia (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/0WWRzMI40xHc9I3ZDnHw49"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk"
       },
@@ -1019,26 +1063,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Alafia (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/0WWRzMI40xHc9I3ZDnHw49"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -1055,30 +1079,6 @@
       "duration_ms": 174178,
       "name": "Look What You Made Me Do (with Simi)",
       "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1115,26 +1115,6 @@
       "duration_ms": 149387,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Men Are Crazy",
-        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Men Are Crazy",
-      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1211,6 +1191,46 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
+      },
+      "artists": [
+        {
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+        },
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 156448,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "Sunflawa",
         "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
       },
@@ -1251,26 +1271,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
-      },
-      "artists": [
-        {
-          "name": "Konstance",
-          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
-        },
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 156448,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "Honey & Spice (Remix)",
         "url": "https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA"
       },
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "Stay Wise",
-        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
-      },
-      "artists": [
-        {
-          "name": "Logos olori",
-          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
-        }
-      ],
-      "duration_ms": 144999,
-      "name": "Stay Wise",
-      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq"
-      },
-      "artists": [
-        {
-          "name": "Asomacy",
-          "url": "https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "Stay Wise",
+        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "duration_ms": 144999,
+      "name": "Stay Wise",
+      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4uwoMHbb4RaDxWwxOg1IWq"
+      },
+      "artists": [
+        {
+          "name": "Asomacy",
+          "url": "https://open.spotify.com/artist/6qqOGbYKXBzVUf1tbK3zRX"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1zpXHc5Re0JE3BEYnXeeXW"
     },
     {
       "added_at": "2024-07-12 06:26:28",

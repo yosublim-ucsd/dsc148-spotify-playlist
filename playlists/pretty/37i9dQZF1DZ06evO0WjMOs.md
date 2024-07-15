@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,396 likes - 35 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,421 likes - 35 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 23 | [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 |
 | 24 | [Same Boat](https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:22 |
 | 25 | [Over\-the\-Ocean Call](https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over\-the\-Ocean Call](https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg) | 4:04 |
-| 26 | [...What Are We?](https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:38 |
-| 27 | [Stayin' Alive](https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stank Face](https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r) | 3:09 |
+| 26 | [Stayin' Alive](https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Stank Face](https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r) | 3:09 |
+| 27 | [...What Are We?](https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:38 |
 | 28 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 |
 | 29 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/07hbdNti9gk29sidptgZou) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 2:13 |
-| 30 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
-| 31 | [Hope \- Acoustic](https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hope \(Acoustic\)](https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC) | 3:43 |
+| 30 | [Hope \- Acoustic](https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Hope \(Acoustic\)](https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC) | 3:43 |
+| 31 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
 | 32 | [Bored](https://open.spotify.com/track/6aIfPfQrAmgLnZOutU247J) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Bored](https://open.spotify.com/album/3yZNHcx9NsFD7CCv2KwpXa) | 2:39 |
 | 33 | [Dancing Queen](https://open.spotify.com/track/0FK7VTnXJSWqayUOPgVJ4V) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [vol\. 17](https://open.spotify.com/album/45sgglnETFyB3EJJmY5Hsj) | 3:05 |
 | 34 | [When The World Stopped Moving](https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:14 |
 | 35 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 |
 
-Snapshot ID: `ZpByAAAAAAAMsiVloOIvlCR63Li6vl5a`
+Snapshot ID: `ZpHDgAAAAABUY0lH0sWiOZIFrGJl79cO`

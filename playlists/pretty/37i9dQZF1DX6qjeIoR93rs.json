@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 69080,
+  "num_followers": 69119,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,34 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+        "name": "R3D",
+        "url": "https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx"
       },
       "artists": [
         {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+          "name": "R3D",
+          "url": "https://open.spotify.com/artist/5oTKzvmC4PKpI3SsjJtdQY"
+        },
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        },
+        {
+          "name": "Daboor",
+          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
+        },
+        {
+          "name": "Ramadan",
+          "url": "https://open.spotify.com/artist/6wt2IFKhXer4jr07Y5jGoh"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
         }
       ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+      "duration_ms": 161018,
+      "name": "Ramadan",
+      "url": "https://open.spotify.com/track/1shPR6yMl4i4KQroQEr43F"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -251,6 +267,38 @@
       "duration_ms": 183870,
       "name": "Nirvana in Gaza",
       "url": "https://open.spotify.com/track/0wm6nHRoJig31gpq8oylzw"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
+        "name": "MAMA EH",
+        "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 151499,
+      "name": "MAMA EH",
+      "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -295,54 +343,6 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
-        "name": "MAMA EH",
-        "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 151499,
-      "name": "MAMA EH",
-      "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "R3D",
-        "url": "https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx"
-      },
-      "artists": [
-        {
-          "name": "R3D",
-          "url": "https://open.spotify.com/artist/5oTKzvmC4PKpI3SsjJtdQY"
-        },
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        },
-        {
-          "name": "Daboor",
-          "url": "https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy"
-        },
-        {
-          "name": "Ramadan",
-          "url": "https://open.spotify.com/artist/6wt2IFKhXer4jr07Y5jGoh"
-        },
-        {
-          "name": "Al Nather",
-          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
-        }
-      ],
-      "duration_ms": 161018,
-      "name": "Ramadan",
-      "url": "https://open.spotify.com/track/1shPR6yMl4i4KQroQEr43F"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 199333,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "Haifa in a Tesla",
-        "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 165591,
-      "name": "Haifa in a Tesla",
-      "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+        "name": "Haifa in a Tesla",
+        "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
       },
       "artists": [
         {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+      "duration_ms": 165591,
+      "name": "Haifa in a Tesla",
+      "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
         "name": "Can I Live",
         "url": "https://open.spotify.com/album/4rn2Zd0ynIrPFdY3UGlA7O"
       },
@@ -511,26 +511,6 @@
       "duration_ms": 112000,
       "name": "Can I Live",
       "url": "https://open.spotify.com/track/31imdxHt1az1qeTknfNBHq"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "Ghareeb Alay",
-        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "Balti",
-          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Ghareeb Alay",
-      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -615,6 +595,26 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
+        "name": "Ghareeb Alay",
+        "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "Balti",
+          "url": "https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "Ghareeb Alay",
+      "url": "https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
+        "name": "Rawquha",
+        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
+      },
+      "artists": [
+        {
+          "name": "Apo & the Apostles",
+          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
+        }
+      ],
+      "duration_ms": 267098,
+      "name": "Ansaki",
+      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
         "name": "Killing The Game",
         "url": "https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 217506,
       "name": "Mali Huriye (I Don't Have Freedom)",
       "url": "https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "Rawquha",
-        "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
-      },
-      "artists": [
-        {
-          "name": "Apo & the Apostles",
-          "url": "https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw"
-        }
-      ],
-      "duration_ms": 267098,
-      "name": "Ansaki",
-      "url": "https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
-        "name": "Palestine",
-        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
-      },
-      "artists": [
-        {
-          "name": "Ministry Of Dubkey",
-          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
-        }
-      ],
-      "duration_ms": 81005,
-      "name": "Palestine",
-      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
         "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
+        "name": "Palestine",
+        "url": "https://open.spotify.com/album/0uAyLaAYUEUflFJA387QCl"
+      },
+      "artists": [
+        {
+          "name": "Ministry Of Dubkey",
+          "url": "https://open.spotify.com/artist/5myvv84iU2FTGFnGU38LIU"
+        }
+      ],
+      "duration_ms": 81005,
+      "name": "Palestine",
+      "url": "https://open.spotify.com/track/0BBYordA8bTjXjcY3mBrxW"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
         "name": "Today Is the day",
         "url": "https://open.spotify.com/album/5pY94XM2JmmrY71Ck3aTMA"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 151058,
       "name": "Today is the day",
       "url": "https://open.spotify.com/track/3W4P1ay0wX7Rz1FIdwFfB3"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
-      },
-      "artists": [
-        {
-          "name": "DAM",
-          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
-      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -903,6 +887,22 @@
       "duration_ms": 208237,
       "name": "Laween",
       "url": "https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO"
+      },
+      "artists": [
+        {
+          "name": "DAM",
+          "url": "https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "G'areeb Fi Bladi (Stranger In My Own Country)",
+      "url": "https://open.spotify.com/track/0BqIeIEdNQuYqj2js8BA27"
     },
     {
       "added_at": "2024-06-06 08:47:14",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
-        "name": "NAS",
-        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 326387,
-      "name": "NAS",
-      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
         "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b"
       },
@@ -1255,6 +1239,38 @@
     {
       "added_at": "2024-06-06 08:47:14",
       "album": {
+        "name": "NAS",
+        "url": "https://open.spotify.com/album/2sF5JJiuI034l5IlblUrVz"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 326387,
+      "name": "NAS",
+      "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
+        "name": "Muntasib Alqamah Amshi",
+        "url": "https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Erfaa Rasak",
+      "url": "https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo"
+    },
+    {
+      "added_at": "2024-06-06 08:47:14",
+      "album": {
         "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
         "url": "https://open.spotify.com/album/6fe5pvtNjQfAKLqpy2fcqi"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 188814,
       "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/50nQfig1MXSz66GHJflQMq"
-    },
-    {
-      "added_at": "2024-06-06 08:47:14",
-      "album": {
-        "name": "Badi Ellak",
-        "url": "https://open.spotify.com/album/1T5lNQGgRYOlAgLj5ZihCf"
-      },
-      "artists": [
-        {
-          "name": "Sama Shoufani",
-          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Badi Ellak",
-      "url": "https://open.spotify.com/track/7q4nRHpLoEUgSpRDxWo1x6"
     }
   ],
   "unique_name": "Palestine Sounds",

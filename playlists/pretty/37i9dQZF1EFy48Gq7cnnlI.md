@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 112 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 795 likes - 112 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 39 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
 | 40 | [Howl](https://open.spotify.com/track/3u1w9G4MYMG5EnfoOjaM3j) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:53 |
 | 41 | [No More Suckers](https://open.spotify.com/track/19w92goxgjCj0uSdcu7541) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:14 |
-| 42 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
-| 43 | [Kidz Zone](https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:29 |
+| 42 | [Kidz Zone](https://open.spotify.com/track/5Bsm5nmisiChMvmOfyuIHn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/3GIcmFqY3eL1cKOys4IpxJ) | 2:29 |
+| 43 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
 | 44 | [Your Eyes](https://open.spotify.com/track/38E4VJoyNGh2sBQFXLGl7X) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Jai Waetford EP](https://open.spotify.com/album/57JXo4mMPYyKL31qorxv70) | 3:52 |
 | 45 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
 | 46 | [When You Were Mine](https://open.spotify.com/track/1n4hjOvZNngnD48CASmEvJ) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:28 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 111 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 | 112 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbWnhwAAAADr061m+Z6pzHdpUrU9Mzyh`
+Snapshot ID: `AbWtJwAAAACYTeORDhC/ZColCbgDhXZ4`

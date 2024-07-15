@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 236054,
+  "num_followers": 236144,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Zapateado Antrax",
         "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 233328,
       "name": "Zapateado Antrax",
       "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Gold Collection, Vol.1",
-        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
-      },
-      "artists": [
-        {
-          "name": "Banda Fresa Roja",
-          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "Sal con Lim\u00f3n",
-      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Cumbias Sin Control",
         "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 215066,
       "name": "Cumbia Con La Luna",
       "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Gold Collection, Vol.1",
+        "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
+      },
+      "artists": [
+        {
+          "name": "Banda Fresa Roja",
+          "url": "https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "Sal con Lim\u00f3n",
+      "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 198791,
-      "name": "La Guitarra de Lolo (Huapango)",
-      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 198791,
+      "name": "La Guitarra de Lolo (Huapango)",
+      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Los machos tambi\u00e9n lloran",
         "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 195920,
       "name": "Las Nachas",
       "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "El Son Del Tlacololero",
-        "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
-      },
-      "artists": [
-        {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
-        }
-      ],
-      "duration_ms": 315106,
-      "name": "El Son Del Tlacololero",
-      "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 124680,
       "name": "C\u00f3mo Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "duration_ms": 315106,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Camale\u00f3n",
+        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Camale\u00f3n",
-        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
       "artists": [
         {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 186546,
-      "name": "El Camale\u00f3n",
-      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -995,22 +1011,6 @@
       "duration_ms": 182218,
       "name": "Batelo Morena",
       "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 495186,
       "name": "Micaela/El Agua Lulco/Camaron Pelao (En Vivo)",
       "url": "https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Zapateado Endemoniado",
-        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Zapateado Endemoniado",
-      "url": "https://open.spotify.com/track/1tEZVJXk5GEYEwr5a04nj8"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Jam out Session 1",
         "url": "https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179212,
       "name": "Cuando Los Frijoles Bailan",
       "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Zapateado Endemoniado",
+        "url": "https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Zapateado Endemoniado",
+      "url": "https://open.spotify.com/track/1tEZVJXk5GEYEwr5a04nj8"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "De Parranda Lives Vol. 2/3",
-        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 208049,
-      "name": "Ojala y te animes",
-      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 222093,
       "name": "El Comet",
       "url": "https://open.spotify.com/track/5Xhj8ErKSsIwwA50HtzBmC"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "De Parranda Lives Vol. 2/3",
+        "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 208049,
+      "name": "Ojala y te animes",
+      "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Tristes Recuerdos",
+        "url": "https://open.spotify.com/album/6kSt9SQ1mkG7hUwX16Dlc0"
+      },
+      "artists": [
+        {
+          "name": "Marqua Y Su Combo",
+          "url": "https://open.spotify.com/artist/2PZsKRXlw0K1IYyjRFJEEv"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Tristes Recuerdos",
+      "url": "https://open.spotify.com/track/0RVq2Gc0ujeOVMFZgWhLAT"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Mujer Alegre",
         "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
       },
@@ -1867,18 +1883,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Tristes Recuerdos",
-        "url": "https://open.spotify.com/album/6kSt9SQ1mkG7hUwX16Dlc0"
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
       },
       "artists": [
         {
-          "name": "Marqua Y Su Combo",
-          "url": "https://open.spotify.com/artist/2PZsKRXlw0K1IYyjRFJEEv"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 178723,
-      "name": "Tristes Recuerdos",
-      "url": "https://open.spotify.com/track/0RVq2Gc0ujeOVMFZgWhLAT"
+      "duration_ms": 191480,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -1971,22 +1987,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191480,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "El Baile de la Iguana (En Vivo)",
         "url": "https://open.spotify.com/album/0XCIsMhMKAVnmTZfN8RV8o"
       },
@@ -2015,26 +2015,6 @@
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Martin Ramos",
-          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2087,6 +2067,26 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E"
       },
@@ -2099,38 +2099,6 @@
       "duration_ms": 252883,
       "name": "Te vez Buena",
       "url": "https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "El Tropezon",
-        "url": "https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 260702,
-      "name": "La Picare",
-      "url": "https://open.spotify.com/track/3ymkBiqugciORjivytO221"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2155,6 +2123,22 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
+        "name": "El Tropezon",
+        "url": "https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 260702,
+      "name": "La Picare",
+      "url": "https://open.spotify.com/track/3ymkBiqugciORjivytO221"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 189106,
       "name": "Zapateado Encabronado - Medley",
       "url": "https://open.spotify.com/track/74asr255RQX7n8BPa5FdzA"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Lives, Vol. 1",
+        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 192458,
+      "name": "Hola Que Tal",
+      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Lives, Vol. 1",
-        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 192458,
-      "name": "Hola Que Tal",
-      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Tumbando Ca\u00f1a",
-        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154853,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
         "name": "Lives Pa' la Raza",
         "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2024-07-11 00:49:46",
       "album": {
-        "name": "Grupo El Mexicano",
-        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7hX8dHQT6ArpmEKMwd0sSM"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 218267,
-      "name": "Feliz, Feliz",
-      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
+      "duration_ms": 154853,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2359,6 +2343,22 @@
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "Grupo El Mexicano",
+        "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 218267,
+      "name": "Feliz, Feliz",
+      "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2391,6 +2391,22 @@
       "duration_ms": 188906,
       "name": "La Yaquecita",
       "url": "https://open.spotify.com/track/4CSV3FZRDMfRwHzoaupwiA"
+    },
+    {
+      "added_at": "2024-07-11 00:49:46",
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Eva Mar\u00eda",
+      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
     },
     {
       "added_at": "2024-07-11 00:49:46",
@@ -2439,22 +2455,6 @@
       "duration_ms": 207737,
       "name": "Orgullosa Maria",
       "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
-    },
-    {
-      "added_at": "2024-07-11 00:49:46",
-      "album": {
-        "name": "La Estrella De Los Bailes",
-        "url": "https://open.spotify.com/album/0KtFZRY2V1N4slEqBws2iH"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 167544,
-      "name": "Eva Mar\u00eda",
-      "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
     },
     {
       "added_at": "2024-07-11 00:49:46",

@@ -2,7 +2,7 @@
 
 ### [This Is Trivium](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cr4xG)
 
-> This is Trivium\. The essential tracks, all in one playlist.
+> This Is Trivium\. Los temas esenciales, todos en una lista.
 
 90 songs - 7 hr 9 min
 
@@ -26,7 +26,7 @@
 | [Capsizing the Sea](https://open.spotify.com/track/0NM1S9231y3Pgz6oI3on2f) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 1:30 | 2022-08-14 | 2024-03-15 |
 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 | 2022-05-30 |  |
 | [Caustic Are the Ties That Bind](https://open.spotify.com/track/68UN4iv0KbuQfv6TrCmN3T) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:34 | 2022-09-29 | 2022-10-01 |
-| [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 | 2022-05-31 | 2024-07-13 |
+| [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 | 2022-05-31 |  |
 | [Departure](https://open.spotify.com/track/0RtYoUK6JwYeofPsaPsBD5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:41 | 2022-05-30 | 2022-10-13 |
 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 | 2022-05-30 |  |
 | [Drowned and Torn Asunder](https://open.spotify.com/track/2LsIPnH5zWaIO5CLCcKXUE) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:17 | 2023-05-07 | 2024-07-06 |
@@ -94,7 +94,7 @@
 | [Tread the Floods](https://open.spotify.com/track/59bz5j1ayQKehovzBFyCFj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 3:33 | 2023-12-20 | 2024-04-11 |
 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 | 2022-05-30 |  |
 | [Vengeance Falls](https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:13 | 2022-06-25 |  |
-| [Villainy Thrives](https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:54 | 2022-05-30 |  |
+| [Villainy Thrives](https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:54 | 2022-05-30 | 2024-07-15 |
 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 | 2022-05-30 |  |
 | [What The Dead Men Say](https://open.spotify.com/track/4KugBNgb6iilXInnWQrMVh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 4:45 | 2022-05-30 |  |
 | [When All Light Dies](https://open.spotify.com/track/0lDHRUqiDBfmvf5lJpmV7X) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as) | 6:23 | 2022-05-30 | 2022-10-13 |

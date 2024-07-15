@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121268,
+  "num_followers": 121275,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -263,26 +263,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Eat Your Man (with Nelly Furtado)",
-        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Eat Your Man (with Nelly Furtado)",
-      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -303,18 +283,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+        "name": "Eat Your Man (with Nelly Furtado)",
+        "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+      "duration_ms": 197164,
+      "name": "Eat Your Man (with Nelly Furtado)",
+      "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -347,6 +331,22 @@
       "duration_ms": 143840,
       "name": "Mrs. Hollywood",
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 192647,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Next Exit",
         "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
       },
@@ -449,20 +465,20 @@
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
+      "added_at": "2024-06-06 14:00:00",
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
         }
       ],
-      "duration_ms": 192647,
-      "name": "SORRY",
-      "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -479,22 +495,6 @@
       "duration_ms": 142584,
       "name": "Still Have Room",
       "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
-    },
-    {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Young Free & Reckless",
+        "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "Young Free & Reckless",
+      "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Young Free & Reckless",
-        "url": "https://open.spotify.com/album/4YLib1gcf6CL1FS41Vfk38"
-      },
-      "artists": [
-        {
-          "name": "The 046",
-          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "Young Free & Reckless",
-      "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Like A Girl Does",
-        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Like A Girl Does",
-      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Like A Girl Does",
+        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "Like A Girl Does",
+      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Scary Movies",
         "url": "https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 195738,
       "name": "Scary Movies",
       "url": "https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812"
-    },
-    {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "Cold Treatment",
-        "url": "https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Cold Treatment",
-      "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -807,6 +791,22 @@
       "duration_ms": 197594,
       "name": "Believe (triple j Like A Version) - Cover Version",
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "Cold Treatment",
+        "url": "https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Cold Treatment",
+      "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
       "added_at": "2024-06-20 14:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 273291,
-      "name": "Love Heart Cheat Code",
-      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -953,22 +937,6 @@
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b"
-    },
-    {
       "added_at": "2024-06-06 14:00:00",
       "album": {
         "name": "24 Hours in Paris",
@@ -983,6 +951,38 @@
       "duration_ms": 180673,
       "name": "24 Hours in Paris",
       "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 273291,
+      "name": "Love Heart Cheat Code",
+      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Minivan",
+        "url": "https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 252663,
+      "name": "Minivan",
+      "url": "https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk"
+    },
+    {
       "added_at": "2024-06-13 14:00:00",
       "album": {
         "name": "BLOOD ON THE DRUMS (The Thorns)",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Minivan",
-        "url": "https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH"
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
       },
       "artists": [
         {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 252663,
-      "name": "Minivan",
-      "url": "https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk"
+      "duration_ms": 199682,
+      "name": "Down To The Sea",
+      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Down To The Sea",
-      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 138576,
       "name": "Safety Pin",
       "url": "https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Minivan",
-        "url": "https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 245942,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Minivan",
+        "url": "https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 245942,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "DRUMMER",
-        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 229464,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Boys Light Up",
         "url": "https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 169307,
       "name": "Boys Light Up",
       "url": "https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 229464,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
     },
     {
       "added_at": "2024-06-27 14:00:00",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     },
     {
-      "added_at": "2024-07-04 14:00:00",
+      "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Physical Medicine",
-        "url": "https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO"
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV"
       },
       "artists": [
         {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Physical Medicine",
-      "url": "https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62"
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV"
     }
   ],
   "unique_name": "The Local List",

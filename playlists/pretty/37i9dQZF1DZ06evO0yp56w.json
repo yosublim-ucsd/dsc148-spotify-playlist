@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 778179,
+  "num_followers": 778326,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAADhRe0pICJ7a3BQ3cjKsu76",
+  "snapshot_id": "ZpHDgAAAAADtSYiD5j/k1NfO/duWUENI",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+      "duration_ms": 346693,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 346693,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 231973,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
+      "duration_ms": 262947,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 262947,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K"
+      "duration_ms": 231973,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2qkmPUG7ARsRwhVICQVwQS"
     },
     {
       "added_at": null,

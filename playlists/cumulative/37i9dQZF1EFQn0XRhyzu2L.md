@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-503 songs - 1 day 3 hr 38 min
+504 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Revenge Body](https://open.spotify.com/track/46TPA4mVzk1WE4eFItCLG6) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [PARAVI](https://open.spotify.com/album/27d1Ladlcuhf4E10k07EVR) | 2:53 | 2024-02-27 |  |
 | [Revival](https://open.spotify.com/track/5NB5uPFcHGmwfluq9Sqn3j) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 4:06 | 2024-02-27 |  |
 | [Ribbons And Bows](https://open.spotify.com/track/2zgoDo4LYBCnADtZ708p8q) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:28 | 2024-02-27 |  |
-| [Rich](https://open.spotify.com/track/2Gh6kOnozibGZC0iTEWMiE) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Rich](https://open.spotify.com/album/7EpkVV9OWoywiqkeMcHXaw) | 2:57 | 2024-02-27 |  |
+| [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 | 2024-07-14 |  |
+| [Rich](https://open.spotify.com/track/2Gh6kOnozibGZC0iTEWMiE) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Rich](https://open.spotify.com/album/7EpkVV9OWoywiqkeMcHXaw) | 2:57 | 2024-02-27 | 2024-07-15 |
 | [Right Here \- Alok Remix](https://open.spotify.com/track/4POzcNoW84PVh7wNO5V3f9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:35 | 2024-02-27 |  |
 | [RISE](https://open.spotify.com/track/69Sy7207dnixZ6w7RSV9Kb) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [RISE](https://open.spotify.com/album/6sGWFXm5IKtTBMFdIhNB9C) | 3:12 | 2024-02-27 |  |
 | [River](https://open.spotify.com/track/1yampU2t2LNWzEsCpUgHYJ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:42 | 2024-02-27 |  |

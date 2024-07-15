@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,172 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,183 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 66 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 |
 | 67 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 |
 | 68 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 |
-| 69 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 69 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 70 | [MAKE YOU MINE \(feat\. Abdul Hannan & Hasan Raheem\)](https://open.spotify.com/track/6OyqZB5FA70Nnl6Z7GkN2Y) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:08 |
 | 71 | [Diya](https://open.spotify.com/track/6be2Qb95JM8HnKtJHYWpzG) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Diya](https://open.spotify.com/album/6ngQPB42n6qbvTHhoDHoNX) | 3:15 |
 | 72 | [Aarzu](https://open.spotify.com/track/5pBRSczAiFZEtrIwH1LqAo) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Aarzu](https://open.spotify.com/album/6mUBgaTJAZ1sI6kteotAgh) | 2:48 |

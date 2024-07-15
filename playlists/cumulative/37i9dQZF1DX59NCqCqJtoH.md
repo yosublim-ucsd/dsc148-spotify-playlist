@@ -4,7 +4,7 @@
 
 > We hear you.
 
-678 songs - 1 day 9 hr 35 min
+679 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-07-29 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 | 2023-06-02 | 2023-08-06 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2021-04-02 | 2022-04-21 |
-| [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-09-29 |  |
+| [Burden](https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Burden](https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE) | 2:25 | 2023-09-29 | 2024-07-15 |
 | [Burger King Bathroom](https://open.spotify.com/track/4eGwQiJNa2zboopOEOvXjf) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Burger King Bathroom](https://open.spotify.com/album/7g2HX2akwRHItjsTjQ6CtU) | 2:28 | 2021-04-02 | 2022-07-28 |
 | [Butterfly's Repose](https://open.spotify.com/track/36c2NifUp0GDnoOQT5unhR) | [Zabawa](https://open.spotify.com/artist/4n9AMW1w0pXszeQcKFo13r) | [Butterfly's Repose](https://open.spotify.com/album/4TwVv7Kou1ehIMonPLZBAR) | 5:09 | 2021-04-02 | 2022-04-19 |
 | [Call U Tomorrow](https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf) | 3:06 | 2021-10-22 | 2022-07-29 |
@@ -432,6 +432,7 @@
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2022-05-25 | 2023-02-15 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-09 | 2023-04-27 |
 | [None of This Alone](https://open.spotify.com/track/3oC6XhD8it51GroGHUh3Ud) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [None of This Alone](https://open.spotify.com/album/7akTYYhH1O4asv7ojULTX5) | 2:52 | 2021-06-25 | 2022-07-29 |
+| [Normalcy](https://open.spotify.com/track/24CzSkbSNl94xeIdL3zsWI) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Normalcy](https://open.spotify.com/album/2KeAQ6PJcEWU5CkkQMZqWg) | 5:38 | 2024-04-15 |  |
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-07-15 | 2022-10-15 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-20 | 2022-07-29 |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-04-02 | 2022-07-29 |

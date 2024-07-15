@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 13604,
+  "num_followers": 13601,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 190534,
       "name": "Hello (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 240217,
+      "name": "4pm in Calabasas",
+      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 188181,
       "name": "Wetin Man Go Do",
       "url": "https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Care Package",
-        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240217,
-      "name": "4pm in Calabasas",
-      "url": "https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 234271,
       "name": "Quarantine Wifey (feat. JID)",
       "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
     },
     {
       "added_at": "2022-10-01 16:57:49",

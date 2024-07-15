@@ -1,12 +1,12 @@
 {
-  "description": "This is: Timaya. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 6828,
+  "description": "This is Timaya. The essential tracks, all in one playlist.",
+  "num_followers": 6831,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAtxQPSiWT/LvUH0z0A4spH",
+  "snapshot_id": "ZpHDgAAAAAAL+ta5i2D2Fs3RST0Jnbkj",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man on Duty",
-        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
-      },
-      "artists": [
-        {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Man on Duty",
-      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
@@ -431,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
+        "name": "Man on Duty",
+        "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
       "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 187586,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+      "duration_ms": 215640,
+      "name": "Man on Duty",
+      "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
     },
     {
       "added_at": null,
@@ -471,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
         }
       ],
-      "duration_ms": 210210,
-      "name": "Shake Yuh Bum - Machel Montano Remix",
-      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+      "duration_ms": 187586,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
       "added_at": null,
@@ -507,6 +487,46 @@
       "duration_ms": 213921,
       "name": "Better Than Them",
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Shake Yuh Bum - Machel Montano Remix",
+      "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Concur",
+        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "I Concur",
+      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
     },
     {
       "added_at": null,
@@ -535,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -571,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Concur",
-        "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
       },
       "artists": [
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 245960,
-      "name": "I Concur",
-      "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
       "added_at": null,
@@ -715,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solidstar",
-        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
-      },
-      "artists": [
-        {
-          "name": "Solidstar",
-          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218305,
-      "name": "My Body",
-      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah Blem Blem",
-        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Ah Blem Blem",
-      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -775,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solidstar",
+        "url": "https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq"
+      },
+      "artists": [
+        {
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218305,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah Blem Blem",
+        "url": "https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Ah Blem Blem",
+      "url": "https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M.O.N.E.Y",
         "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177439,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomato",
         "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 162222,
       "name": "Tomato",
       "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177439,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Erima",
+        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Erima",
+      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 187560,
       "name": "Gbagam",
       "url": "https://open.spotify.com/track/5ABuekPHIQEbkKiIe5o6Nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Erima",
-        "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Erima",
-      "url": "https://open.spotify.com/track/0FP8sMKAMM6YPhI87sOswq"
     },
     {
       "added_at": null,

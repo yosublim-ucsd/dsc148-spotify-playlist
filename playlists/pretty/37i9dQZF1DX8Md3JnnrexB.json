@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 210036,
+  "num_followers": 210042,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Knocks Me Off My Feet",
-      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Now We May Begin",
         "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Knocks Me Off My Feet",
+      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Turn Your Love Around - 2015 GH Version",
-      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 239600,
       "name": "September When I First Met You - Single Version",
       "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 229440,
+      "name": "Turn Your Love Around - 2015 GH Version",
+      "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "OLD SONGS, SAME LOVE",
         "url": "https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 333666,
       "name": "Golden Time Of Day - Remastered",
       "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 364853,
+      "name": "A Warm Summer Night",
+      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 364853,
-      "name": "A Warm Summer Night",
-      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Moody's Mood",
+      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Gravy",
         "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Moody's Mood",
-      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Oceans Of Emotions",
         "url": "https://open.spotify.com/album/6pSJafRQHluTE8jM4hnEBt"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 177706,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Classic Love Songs",
-        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 284533,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Black Diamond (Deluxe Edition)",
         "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Classic Love Songs",
+        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 295866,
       "name": "This Could Be Real",
       "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 333133,
       "name": "New York State Of Mind",
       "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Futurity",
-        "url": "https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 254550,
-      "name": "Futurity",
-      "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "The Best of Michael Henderson",
         "url": "https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Futurity",
+        "url": "https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 254550,
+      "name": "Futurity",
+      "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
     },
     {
       "added_at": "2024-07-03 15:11:44",

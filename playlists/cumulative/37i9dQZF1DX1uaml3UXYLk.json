@@ -2443,6 +2443,24 @@
     },
     {
       "album": {
+        "name": "DELI",
+        "url": "https://open.spotify.com/album/7hQT2tI4BbH98MLWvW7EZ7"
+      },
+      "artists": [
+        {
+          "name": "my friend stue",
+          "url": "https://open.spotify.com/artist/06YdsRPyz0kIuwt5Fb3yXE"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "DELI",
+      "url": "https://open.spotify.com/track/02lzHihYd4L7OEu6hz414D"
+    },
+    {
+      "album": {
         "name": "Imagine Gold",
         "url": "https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ"
       },
@@ -2818,6 +2836,24 @@
       "duration_ms": 137739,
       "name": "Don't You Know?",
       "url": "https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm"
+    },
+    {
+      "album": {
+        "name": "Higher Ground",
+        "url": "https://open.spotify.com/album/1zrOeJ3VQK13SVFMdkt4Vr"
+      },
+      "artists": [
+        {
+          "name": "Pableno",
+          "url": "https://open.spotify.com/artist/3Yx4eLSofQtpIvtTGcM77h"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4PRpkjyClXZRRbErTzpxrm"
     },
     {
       "album": {
@@ -4492,6 +4528,24 @@
       "duration_ms": 439664,
       "name": "If I Could I Would",
       "url": "https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV"
+    },
+    {
+      "album": {
+        "name": "If You Say So",
+        "url": "https://open.spotify.com/album/6axhsdjQzJqKkElmcernqx"
+      },
+      "artists": [
+        {
+          "name": "Ava Low",
+          "url": "https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374250,
+      "name": "If You Say So",
+      "url": "https://open.spotify.com/track/3IppHec07ScWmamyuKYtLc"
     },
     {
       "album": {
@@ -7085,6 +7139,24 @@
     },
     {
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6b0vLoS6SFcdlS1rR0mi6T"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/6kHh2ZrK4ULBOVvqvOaXvF"
+    },
+    {
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/72zW22EzgsNETzSygNOCGm"
       },
@@ -8606,6 +8678,24 @@
       "duration_ms": 188242,
       "name": "Smiling Falsifier",
       "url": "https://open.spotify.com/track/1yubV3KvZpkFXQWm5C7i5S"
+    },
+    {
+      "album": {
+        "name": "Snapper",
+        "url": "https://open.spotify.com/album/7tQSmqLqM052kILfkyCFg9"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311596,
+      "name": "Snapper",
+      "url": "https://open.spotify.com/track/4CVujT5MzKOZxQKlAJIpp8"
     },
     {
       "album": {
@@ -10522,6 +10612,24 @@
       "duration_ms": 180952,
       "name": "Vivid Dreams (Instrumental Version)",
       "url": "https://open.spotify.com/track/2bmHQl3qPWw5N6bJcE1Z3M"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/3R8JdqahxNThBZtdFxV8ht"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167791,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/0Bl88TTe40kWhtfOq9XJq1"
     },
     {
       "album": {

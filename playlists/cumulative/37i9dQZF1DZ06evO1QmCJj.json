@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
+  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
   "name": "This Is Lola Indigo",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 232526,
       "name": "4 besos",
       "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 207804,
       "name": "Autoestima (Feat. Lola Indigo, Alizzz) - Remix",
       "url": "https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 222912,
       "name": "CALLE",
       "url": "https://open.spotify.com/track/53X5FmHdNxcnZuY8YhOkgJ"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 230130,
       "name": "CORAZONES ROTOS",
       "url": "https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 165906,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 187263,
       "name": "Lola Bunny",
       "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 209361,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/1CPAiHBpTTtHPAlOcVWIwT"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 167674,
       "name": "Mala Cara",
       "url": "https://open.spotify.com/track/0ArXnrjWXgLdqfVCosRSHQ"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 174433,
       "name": "Me Quedo",
       "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 160200,
       "name": "PARA OLVIDARME DE TI",
       "url": "https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 210510,
       "name": "Spice Girls",
       "url": "https://open.spotify.com/track/6QibTRZoT2eg0662PMEQk6"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 179912,
       "name": "Toy Story",
       "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"

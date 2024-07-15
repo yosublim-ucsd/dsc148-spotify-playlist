@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,321 likes - 97 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,597 likes - 97 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 17 | [Choo Lo](https://open.spotify.com/track/0rlLBWFFTQiOWi963SH9bb) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/5xOkxpVDHdpWkI9mNfYXab) | 3:53 |
 | 18 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 |
 | 19 | [Bulleya](https://open.spotify.com/track/0Bz7dfqPY4JOGZO3O1j8Wh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
-| 20 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 20 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 21 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 22 | [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe) | 4:21 |
 | 23 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |

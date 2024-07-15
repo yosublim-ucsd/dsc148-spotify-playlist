@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,332 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,373 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 |
 | 50 | [Nobody Knows Me Like You](https://open.spotify.com/track/4oUdFQ6rJqCb2h0dB9oNkU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 3:55 |
 
-Snapshot ID: `ZpByAAAAAACVsAVnV1pR3KDLjASHO8Qx`
+Snapshot ID: `ZpHDgAAAAABCjOLRgQUHbis6siN4OW6X`

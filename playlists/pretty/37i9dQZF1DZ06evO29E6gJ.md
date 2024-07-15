@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,405 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,406 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 6 | [Ingrato Amor](https://open.spotify.com/track/1eaux4zfvoNc0LuXIVRgzB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serenata Bajo Las Estrellas 15 Exitos Inmortales](https://open.spotify.com/album/0j2N0ZJPQjEQgcMN3OPNJk) | 2:42 |
 | 7 | [Ingratos Ojos Mios](https://open.spotify.com/track/0Kn2S21O1cMfiDx2T6VZba) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [24 Kilates Norteños](https://open.spotify.com/album/0vHDc1Dn4QCowqtjpipaGK) | 2:20 |
 | 8 | [Ojitos Verdes](https://open.spotify.com/track/2IOJaGlWLGg8ujTgVwDMAo) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:48 |
-| 9 | [Tomando Licor](https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:56 |
-| 10 | [El Troquero](https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Puras De Pegue](https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc) | 3:03 |
+| 9 | [El Troquero](https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Puras De Pegue](https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc) | 3:03 |
+| 10 | [Tomando Licor](https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:56 |
 | 11 | [Alma Rendida](https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:48 |
 | 12 | [La Mesera](https://open.spotify.com/track/2NYMwhPHGgIpPPLv8yLZEf) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 3:01 |
 | 13 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 45 | [Arnulfo Gonzalez](https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:17 |
 | 46 | [Te Vas Angel Mío](https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Latin Classics](https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ) | 2:22 |
 
-Snapshot ID: `ZpByAAAAAAADk1UFee3vT+M0oaYQ0dpH`
+Snapshot ID: `ZpHDgAAAAABJl79GGkzRrxU5oHoZTVYM`

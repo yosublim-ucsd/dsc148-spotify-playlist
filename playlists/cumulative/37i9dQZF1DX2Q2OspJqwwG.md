@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-107 songs - 5 hr 18 min
+108 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-07-01 |  |
 | [Bombs Away](https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Bombs Away](https://open.spotify.com/album/6PRHLaFlr8VEpIW5oQGmGL) | 2:26 | 2024-07-01 |  |
 | [Burj Khalifa](https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Burj Khalifa](https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P) | 2:31 | 2024-07-01 |  |
-| [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 | 2024-07-01 |  |
+| [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 | 2024-07-01 | 2024-07-15 |
 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 | 2024-07-01 |  |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2024-07-01 |  |
 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 | 2024-07-01 |  |
@@ -41,6 +41,7 @@
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2024-07-01 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-01 |  |
+| [Guli Guli \- From "Buzz House" The Movie](https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Guli Guli \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V) | 2:28 | 2024-07-08 |  |
 | [Hai, România!](https://open.spotify.com/track/3JW630Ce4LbN0w6kkPyEJG) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk), [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Hai, România!](https://open.spotify.com/album/5SVNqgEdDC4arIyMTmBeiF) | 2:33 | 2024-07-01 | 2024-07-09 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2024-07-01 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-07-01 |  |

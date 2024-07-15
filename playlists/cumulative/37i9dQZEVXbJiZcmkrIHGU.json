@@ -2269,6 +2269,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Alkohol (#40Bochum)",
         "url": "https://open.spotify.com/album/4Ffoe4gyTs7Dgqwr4eBu3s"
       },
@@ -7116,7 +7142,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 315696,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/6Y4HrFYR1dpNuF5t6UwA3K"
@@ -8144,7 +8170,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 206649,
       "name": "Brand New Dance",
       "url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo"
@@ -12122,7 +12148,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 137375,
       "name": "Dieser Sommer",
       "url": "https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn"
@@ -15630,7 +15656,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 230358,
       "name": "Evil",
       "url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9"
@@ -20576,7 +20602,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 298384,
       "name": "Habits",
       "url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm"
@@ -24324,7 +24350,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 126450,
       "name": "Irgendwas klopft",
       "url": "https://open.spotify.com/track/4ZrOZKrUEM8pT8nT47HywL"
@@ -26650,7 +26676,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
@@ -28980,7 +29006,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -30450,7 +30476,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 196087,
       "name": "Mama hat gesagt",
       "url": "https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn"
@@ -32058,7 +32084,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -40702,7 +40728,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 98152,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
@@ -49182,7 +49208,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 41487,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
@@ -50256,7 +50282,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

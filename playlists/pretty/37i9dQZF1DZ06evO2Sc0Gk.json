@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19289,
+  "num_followers": 19292,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABqG+qvojd14/JbcCmvn5zb",
+  "snapshot_id": "ZpHDgAAAAACzhLE0IujrRXLRlHR6F6iy",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day You Will Understand",
         "url": "https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168159,
-      "name": "Pour Me Water",
-      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Nkrumah Krom Vol II: Home Run",
-        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Nkrumah Krom Vol II: Home Run",
+        "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
         "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 168461,
       "name": "Short Skirt",
       "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "yiheeeeeeee",
-  "num_followers": 769193,
+  "num_followers": 769162,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-07-10 09:14:28",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2024-07-10 09:14:28",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2024-07-10 09:14:28",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "added_at": "2024-07-10 09:14:28",
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
-    },
-    {
-      "added_at": "2024-07-10 09:14:28",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2024-07-10 09:14:28",
-      "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
       "added_at": "2024-07-10 09:14:28",
@@ -483,18 +467,18 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
         }
       ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
       "added_at": "2024-07-10 09:14:28",
@@ -515,22 +499,18 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2024-07-10 09:14:28",
@@ -583,6 +563,26 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2024-07-10 09:14:28",
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2024-07-10 09:14:28",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-10 09:14:28",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
+    },
+    {
+      "added_at": "2024-07-10 09:14:28",
+      "album": {
         "name": "David Archuleta",
         "url": "https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 213520,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4"
-    },
-    {
-      "added_at": "2024-07-10 09:14:28",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     }
   ],
   "unique_name": "Kilig Pa More",

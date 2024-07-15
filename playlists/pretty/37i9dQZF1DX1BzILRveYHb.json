@@ -1,6 +1,6 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are ",
-  "num_followers": 720614,
+  "num_followers": 721030,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
+        "name": "California 37",
+        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
-        "name": "California 37",
-        "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Sunshine & Whiskey",
+        "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Frankie Ballard",
+          "url": "https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Hand in My Pocket - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+      "duration_ms": 182400,
+      "name": "Sunshine & Whiskey",
+      "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Hand in My Pocket - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
-        "name": "Sunshine & Whiskey",
-        "url": "https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ballard",
-          "url": "https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Sunshine & Whiskey",
-      "url": "https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w"
     },
     {
       "added_at": "2024-07-12 17:22:08",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 17:22:08",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
-    },
-    {
-      "added_at": "2024-07-12 17:22:08",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2024-07-12 17:22:08",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2024-07-12 17:22:08",

@@ -2,9 +2,9 @@
 
 ### [This Is Jacob Banks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li)
 
-> This is Jacob Banks\. The essential tracks, all in one playlist.
+> This Is Jacob Banks\. Los temas esenciales, todos en una lista.
 
-84 songs - 4 hr 52 min
+85 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,11 +80,12 @@
 | [Something Beautiful](https://open.spotify.com/track/32sEFeCIpyTaEwnhWGrE1J) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 3:28 | 2021-12-28 | 2022-09-20 |
 | [Stranger](https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:42 | 2021-12-28 |  |
 | [Take My Hand Precious Lord \- Intro](https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 1:24 | 2024-07-14 |  |
+| [Thank You](https://open.spotify.com/track/3ZUV6Iym0OTjgY6xZpcOXC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:45 | 2024-07-15 |  |
 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 | 2021-12-28 |  |
 | [Too Much](https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 4:50 | 2021-12-28 |  |
 | [Unholy War](https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:29 | 2021-12-28 |  |
 | [Unknown \(To You\)](https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:53 | 2021-12-28 |  |
-| [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 | 2021-12-28 |  |
+| [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 | 2021-12-28 | 2024-07-15 |
 | [Won't Turn Back](https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:00 | 2022-08-27 |  |
 | [Worthy](https://open.spotify.com/track/0lUt61v9PK6Qrl0GjkTXAw) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL) | 3:17 | 2021-12-28 | 2022-09-25 |
 | [Worthy](https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:17 | 2022-09-24 |  |

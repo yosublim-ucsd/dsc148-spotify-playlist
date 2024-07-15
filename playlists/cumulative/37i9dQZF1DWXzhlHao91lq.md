@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-251 songs - 14 hr 16 min
+252 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-27 | 2023-07-05 |
 | [An Opportunity to Go to the Moon](https://open.spotify.com/track/2iZHUszFXO5SCJPS2Iq9Z2) | [Reese Lansangan](https://open.spotify.com/artist/2JI8ViuZDBybY6Xd9ujUrb) | [An Opportunity to Go to the Moon](https://open.spotify.com/album/3fqgOyKk5LxyBSLWUp2dEk) | 5:45 | 2022-05-30 | 2022-07-15 |
 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 | 2024-03-18 | 2024-03-26 |
+| [Backseat Driver](https://open.spotify.com/track/6thKUE9N3TORLzYr74V9y5) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/0pG2PLMMgxqjNDVnjITHrz) | 3:16 | 2024-07-15 |  |
 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 | 2022-05-30 |  |
 | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr) | 3:00 | 2024-04-08 |  |
 | [Beautiful People](https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Beautiful People](https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM) | 3:32 | 2022-05-30 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-12 | 2024-07-03 |
 | [Fever](https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:56 | 2023-03-06 | 2024-04-19 |
 | [Fine Day](https://open.spotify.com/track/5pDaT8owMZaH9ZRCZjAYgs) | [ABOY](https://open.spotify.com/artist/67Cl557uIp08IkVBI79Wub) | [Fine Day](https://open.spotify.com/album/3v7AHXJAJeYIfCibPT12fZ) | 3:03 | 2024-02-05 | 2024-02-12 |
-| [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-08 |  |
+| [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-08 | 2024-07-15 |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2022-08-08 | 2024-04-19 |
 | [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2023-07-31 | 2023-08-13 |
 | [Follow The Sun](https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Spirit Bird](https://open.spotify.com/album/2GFXYpDQ1TOZ9zJUk30tXO) | 4:16 | 2022-07-25 | 2022-08-09 |

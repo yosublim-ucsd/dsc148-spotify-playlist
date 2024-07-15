@@ -2,13 +2,13 @@
 
 ### [This Is Manuel Medrano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06p7qw)
 
-> This is Manuel Medrano\. The essential tracks, all in one playlist.
+> This Is Manuel Medrano\. Los temas esenciales, todos en una lista.
 
 44 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 | 2023-09-25 | 2024-07-14 |
+| [Afuera Del Planeta](https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:49 | 2023-09-25 |  |
 | [Amen \- Spanglish Version](https://open.spotify.com/track/19sOMZm85JDQCVJa8S742F) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Amen \(Spanglish Version\)](https://open.spotify.com/album/4UP8EcEBwj8LikFk6Qx9CD) | 3:16 | 2023-09-25 |  |
 | [Bajo El Agua](https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:45 | 2023-09-25 |  |
 | [Buena](https://open.spotify.com/track/2UDMeklpmOfq8L6wI75ysa) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Buena](https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN) | 3:38 | 2023-09-25 |  |
@@ -19,8 +19,8 @@
 | [Cómo Haces](https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:47 | 2023-09-25 |  |
 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 | 2023-09-25 |  |
 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 | 2023-09-25 |  |
-| [El Swing De La Propuesta](https://open.spotify.com/track/6kKv0GKLaBCvB021uBNhDL) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:07 | 2024-05-10 |  |
-| [Esta Noche](https://open.spotify.com/track/17kYZzod8GRk75cjWaaOBC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:56 | 2024-05-10 |  |
+| [El Swing De La Propuesta](https://open.spotify.com/track/6kKv0GKLaBCvB021uBNhDL) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:07 | 2024-05-10 | 2024-07-15 |
+| [Esta Noche](https://open.spotify.com/track/17kYZzod8GRk75cjWaaOBC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:56 | 2024-05-10 | 2024-07-15 |
 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 | 2024-03-02 |  |
 | [Este Momento](https://open.spotify.com/track/4E4IYliBvPWdrSmNMcuiRN) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Momento](https://open.spotify.com/album/1TcPnkUgx9IR4dUJgCTk0N) | 3:26 | 2023-09-25 |  |
 | [Explorando El Universo](https://open.spotify.com/track/1ePf8emZ3gukQVrrJdtbJ7) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 2:42 | 2024-06-03 | 2024-06-13 |
@@ -37,7 +37,7 @@
 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 | 2024-06-03 |  |
 | [Mojado](https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:29 | 2024-06-03 |  |
 | [Más Allá](https://open.spotify.com/track/4CZ9C2LlTI1BWPAcvIiDbY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 | 2023-09-25 |  |
-| [Nenita](https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:23 | 2023-09-25 | 2024-07-13 |
+| [Nenita](https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:23 | 2023-09-25 |  |
 | [No Sé Si Salga El Sol \- Remix](https://open.spotify.com/track/0gw6orix5diJLOahicJhj6) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [No Sé Si Salga El Sol \(Remix\)](https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD) | 3:08 | 2023-09-25 |  |
 | [Perfecto](https://open.spotify.com/track/0QbvqAtaQBivYtef7lZYw2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:08 | 2024-06-03 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 | 2023-09-25 |  |

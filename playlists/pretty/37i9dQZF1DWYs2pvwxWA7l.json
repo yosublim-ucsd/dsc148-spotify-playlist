@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Odeal",
-  "num_followers": 575986,
+  "num_followers": 576141,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -43,18 +43,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -79,22 +83,18 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -259,30 +259,18 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Yimmy Yimmy",
-        "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Rajat Nagpal",
-          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
-        },
-        {
-          "name": "Jacqueline Fernandez",
-          "url": "https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 211869,
-      "name": "Yimmy Yimmy",
-      "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -307,18 +295,30 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
+        "name": "Yimmy Yimmy",
+        "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Jacqueline Fernandez",
+          "url": "https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6"
         }
       ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
+      "duration_ms": 211869,
+      "name": "Yimmy Yimmy",
+      "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 156763,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 166350,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 156763,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "More Pretty Girls",
         "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 198323,
       "name": "More Pretty Girls",
       "url": "https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-07-12 00:01:00",
       "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 196008,
+      "name": "Love Made Me Do It",
+      "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
+    },
+    {
+      "added_at": "2024-07-12 00:01:00",
+      "album": {
         "name": "True To Self",
         "url": "https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "Love Made Me Do It",
-        "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 196008,
-      "name": "Love Made Me Do It",
-      "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
     },
     {
       "added_at": "2024-07-12 00:01:00",

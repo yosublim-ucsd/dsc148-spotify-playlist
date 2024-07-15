@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Skinny Dyck
 
-467 songs - 1 day 4 hr 32 min
+468 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2022-10-31 |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-13 | 2023-04-15 |
 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 | 2023-09-15 |  |
+| [Borrowed Time](https://open.spotify.com/track/0IVWcNAMBqFKMoFL1dpefN) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Borrowed Time](https://open.spotify.com/album/7E0FlADizNo6U4aALWAi7P) | 3:01 | 2024-07-12 |  |
 | [Bottleneck Boys](https://open.spotify.com/track/3elbooJK6sbSi5HRXm4SdK) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Bottleneck Boys](https://open.spotify.com/album/4A2wwsvPy5M14ZIbxdbnFW) | 3:29 | 2022-09-30 | 2022-10-29 |
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 | 2023-03-18 |
 | [Bright as Yellow](https://open.spotify.com/track/4SENm2zb2HeS8ZPC3pCic2) | [Casper Skulls](https://open.spotify.com/artist/0GKW6ZqOuxZyZNiHlLzhTi) | [Bright as Yellow](https://open.spotify.com/album/6ezoVNLVtyhJEvCdr8RuVY) | 3:34 | 2023-03-31 | 2023-04-22 |
@@ -471,7 +472,7 @@
 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 | 2023-06-24 |
 | [You Think You're Like the Rain](https://open.spotify.com/track/1qSh9gR4epn8vgu5GPeGP3) | [Jenny Berkel](https://open.spotify.com/artist/4Ff0I4P7d0FLK7Ctwy2pub) | [You Think You're Like the Rain](https://open.spotify.com/album/3werwfANKByC7oTf8t8Y0w) | 2:39 | 2022-05-13 | 2022-08-06 |
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-20 | 2023-06-24 |
-| [Young \- Spotify Singles](https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:49 | 2023-09-29 |  |
+| [Young \- Spotify Singles](https://open.spotify.com/track/764lmcFd4PTTZtxcksPLDR) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:49 | 2023-09-29 | 2024-07-15 |
 | [Young at Heart](https://open.spotify.com/track/2SL5zG9aPwXVLN97YQl3pH) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Young at Heart](https://open.spotify.com/album/2owx5fxhJfK0ObNtz6sCpa) | 3:46 | 2023-07-21 | 2023-08-09 |
 | [Young Still](https://open.spotify.com/track/4osWD1UC4dDl204Dsl9O2c) | [Marshall Veroni](https://open.spotify.com/artist/3RsHm43VTxgLUVoo5QNSSI) | [Young Still](https://open.spotify.com/album/4CN0TYA9ODKPRTD9OyBEwi) | 5:56 | 2023-11-24 | 2024-04-06 |
 | [You’re Betting on a Losing Horse](https://open.spotify.com/track/72KkKffDyvx4AS6JCd3iWA) | [Old Kid](https://open.spotify.com/artist/64LbKzR0j5NrYkWNMSrAdO) | [You’re Betting on a Losing Horse](https://open.spotify.com/album/3ZasaDi3yQE1Y0xll9465N) | 2:38 | 2022-05-13 | 2022-05-28 |

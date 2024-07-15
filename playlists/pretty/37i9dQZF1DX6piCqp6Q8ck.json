@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 114568,
+  "num_followers": 114563,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
-      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Caroling, Caroling",
+      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -187,18 +187,38 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 121986,
-      "name": "Caroling, Caroling",
-      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
+      "duration_ms": 171333,
+      "name": "(There's No Place Like) Home for the Holidays - 1954 Version",
+      "url": "https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 159973,
+      "name": "Jingle Bells (feat. The Puppini Sisters)",
+      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -231,26 +251,6 @@
       "duration_ms": 148480,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Jingle Bells (feat. The Puppini Sisters)",
-      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 103746,
-      "name": "The Happiest Christmas Tree",
-      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Jolly Holiday",
         "url": "https://open.spotify.com/album/6Bq0rkBNkUOFwGwMCPFHuN"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 198860,
       "name": "Jolly Holiday",
       "url": "https://open.spotify.com/track/1nNmGXc4dcQHvteyiwjWv9"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 103746,
+      "name": "The Happiest Christmas Tree",
+      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
-      },
-      "artists": [
-        {
-          "name": "Ralph Marterie",
-          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
-        },
-        {
-          "name": "Ralph Marterie and His Orchestra",
-          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Dig That Crazy Santa Claus",
-      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Ella & Louis Christmas",
         "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
+      },
+      "artists": [
+        {
+          "name": "Ralph Marterie",
+          "url": "https://open.spotify.com/artist/6RMVDGTwRURNgXI8gjgi38"
+        },
+        {
+          "name": "Ralph Marterie and His Orchestra",
+          "url": "https://open.spotify.com/artist/44LkEyiTIZeDfX8ZPbtZfg"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Dig That Crazy Santa Claus",
+      "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
         "name": "A Very Swingin\u2019 Basie Christmas!",
         "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
       },
@@ -671,26 +671,6 @@
       "duration_ms": 290826,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Ben Castle",
-          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Little White Berry",
-      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -763,6 +743,26 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Ben Castle",
+          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Little White Berry",
+      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
         "name": "My Christmas Night",
         "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "Santa, Won't You Listen to Me",
-        "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
-      },
-      "artists": [
-        {
-          "name": "Kyle Cox",
-          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
-        }
-      ],
-      "duration_ms": 173915,
-      "name": "Santa, Won't You Listen to Me",
-      "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 237053,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "Santa, Won't You Listen to Me",
+        "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
+      },
+      "artists": [
+        {
+          "name": "Kyle Cox",
+          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
+        }
+      ],
+      "duration_ms": 173915,
+      "name": "Santa, Won't You Listen to Me",
+      "url": "https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
+        "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
         "name": "Wonderful World - Louis Armstrong Original Jazz Classics",
         "url": "https://open.spotify.com/album/1GS7osBm4ULKtkE6NSqDHS"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "What A Night! A Christmas Album",
-        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
     },
     {
       "added_at": "2023-12-19 09:14:04",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Christmas Jazz With The Stars",
         "url": "https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-19 09:14:04",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Skating",
-      "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
-    },
-    {
-      "added_at": "2023-12-19 09:14:04",
-      "album": {
         "name": "Christmas With Ella & Friends",
         "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 194866,
       "name": "Poppa Santa Claus - Single Version",
       "url": "https://open.spotify.com/track/3By2EZ4GEcaiLQRfyyf8vP"
+    },
+    {
+      "added_at": "2023-12-19 09:14:04",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
     },
     {
       "added_at": "2023-12-19 09:14:04",

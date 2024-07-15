@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 ### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vHAZO)
 
-> This is Oasis\. Tutti i brani in un'unica playlist.
+> This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,030 likes - 44 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,273 likes - 43 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,22 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 25 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
 | 26 | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/track/2xgy23ATVJPJwaNebyJBVu) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Columbia \(Sawmills Outtake\)](https://open.spotify.com/album/6p2oQjrRUADLx4kfUpy1ir) | 7:17 |
 | 27 | [All Around The World \- Remastered](https://open.spotify.com/track/6ZYgoD3c2aE4dD3yVFWV51) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 9:19 |
-| 28 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
+| 28 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
 | 29 | [Go Let It Out](https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:38 |
-| 30 | [She Is Love](https://open.spotify.com/track/01uctxky5IDj8UQvdmcLIv) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 3:09 |
+| 30 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
 | 31 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
-| 32 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
+| 32 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 | 33 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
-| 34 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
+| 34 | [Force Of Nature](https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:51 |
 | 35 | [Stay Young \- Remastered](https://open.spotify.com/track/41nttXLEzPouvKuXRbjDyq) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:07 |
-| 36 | [Force Of Nature](https://open.spotify.com/track/3ujwIruj897uySuJuwoPQN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 4:51 |
+| 36 | [Turn Up The Sun](https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:59 |
 | 37 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
-| 38 | [Turn Up The Sun](https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:59 |
-| 39 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
-| 40 | [Going Nowhere](https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:39 |
+| 38 | [Heroes](https://open.spotify.com/track/1FSURsZPnG8CkfTvmO8ssK) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [D'You Know What I Mean?](https://open.spotify.com/album/0GiKjeftaw3HccbDaA1Ryk) | 4:09 |
+| 39 | [Going Nowhere](https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:39 |
+| 40 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
 | 41 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6NxShcnsYGE7H0GUM1fMdC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 4:26 |
-| 42 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
-| 43 | [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 |
-| 44 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
+| 42 | [Bag It Up](https://open.spotify.com/track/2Sr49PY1vTWFQ8gqMMq0gr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:40 |
+| 43 | [Roll It Over](https://open.spotify.com/track/1tX2Wfp0KtbHQbFLIPwiW0) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:31 |
 
-Snapshot ID: `ZpByAAAAAACx9Zm+I1QBugUrOV0kAbfP`
+Snapshot ID: `ZpHDgAAAAAB0N5RGk3MOIbkOzL2Z/4Jy`

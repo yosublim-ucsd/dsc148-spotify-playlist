@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 57 | [CERO](https://open.spotify.com/track/0ymJeUV9zr0f5qogiaxY4t) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [CERO](https://open.spotify.com/album/5yo3PAqHQxe8K5S5VndQsm) | 2:38 |
 | 58 | [SER ELLA](https://open.spotify.com/track/7Aihd6Eq6qXoMSPmkR347Y) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [SER ELLA](https://open.spotify.com/album/4FFg8qcpC0xPcvt6VSq9Hj) | 2:41 |
 | 59 | [Gramos ft\. Kris Floyd, Hozwal](https://open.spotify.com/track/40XfhnuIEzqvuluAEAL9xa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:46 |
-| 60 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 |
-| 61 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 |
-| 62 | [Bad Boys](https://open.spotify.com/track/6fHCmOuyRQm2Xp7f3x9erf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:04 |
+| 60 | [Bad Boys](https://open.spotify.com/track/6fHCmOuyRQm2Xp7f3x9erf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Bad Boys: Ride Or Die Soundtrack](https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l) | 2:04 |
+| 61 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 |
+| 62 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 |
 | 63 | [ICE $PICE](https://open.spotify.com/track/6pvPwEQFRzI80KSfkoHf1N) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [ICE $PICE](https://open.spotify.com/album/3tSfq0f6nFZSrxucpa9XJ8) | 2:43 |
 | 64 | [Si Me Quieres](https://open.spotify.com/track/2McIdzQW0Rd79yjhbvHwl9) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 2:02 |
 | 65 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 80 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 81 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `AbWnewAAAACDXPi3TXwQF0CEQX+lkUZE`
+Snapshot ID: `AbWtGwAAAACxR2IXiZ0k9PS4Td7KUaPH`

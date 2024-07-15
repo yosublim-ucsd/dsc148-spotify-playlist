@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="spotify:artist:1pQ5oAMGcFhkkuLqGJQUCd">Ryan Ofei</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,698 likes - 68 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,783 likes - 68 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14329,
+  "num_followers": 14326,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pass\u00e9",
-        "url": "https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M"
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
       },
       "artists": [
         {
-          "name": "Lordofon",
-          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
         }
       ],
-      "duration_ms": 188288,
-      "name": "Francoise Hardy",
-      "url": "https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl"
+      "duration_ms": 191653,
+      "name": "Z\u0142oto",
+      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Z\u0142ote Bloki",
-        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+        "name": "Pass\u00e9",
+        "url": "https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M"
       },
       "artists": [
         {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+          "name": "Lordofon",
+          "url": "https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99"
         }
       ],
-      "duration_ms": 191653,
-      "name": "Z\u0142oto",
-      "url": "https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb"
+      "duration_ms": 188288,
+      "name": "Francoise Hardy",
+      "url": "https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "HHULTRAS",
-        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
-      },
-      "artists": [
-        {
-          "name": "W\u0142odi",
-          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
-        }
-      ],
-      "duration_ms": 167034,
-      "name": "HHULTRAS",
-      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Bankiet u sanah",
         "url": "https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223540,
       "name": "Irenka (Bankietowy live)",
       "url": "https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "HHULTRAS",
+        "url": "https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b"
+      },
+      "artists": [
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        }
+      ],
+      "duration_ms": 167034,
+      "name": "HHULTRAS",
+      "url": "https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pomi\u0119dzy",
-        "url": "https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC"
-      },
-      "artists": [
-        {
-          "name": "Fismoll",
-          "url": "https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Na Polanie",
-      "url": "https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Moje serce w Warszawie",
         "url": "https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 329773,
       "name": "Moje serce w Warszawie",
       "url": "https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pomi\u0119dzy",
+        "url": "https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC"
+      },
+      "artists": [
+        {
+          "name": "Fismoll",
+          "url": "https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Na Polanie",
+      "url": "https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy"
     },
     {
       "added_at": "2024-03-25 08:52:09",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-528 songs - 1 day 7 hr 34 min
+529 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Take Me Back to London \(feat\. Stormzy\)](https://open.spotify.com/track/1AI7UPw3fgwAFkvAlZWhE0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:09 | 2024-01-29 |  |
 | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/2nyTaLu3TTrSS6CAxR3z0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:52 | 2024-01-29 |  |
 | [Take Me Back To London \(Sir Spyro Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/4iYxrnTvYsTtyphOTqTvkh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:51 | 2024-01-29 |  |
+| [Take My Breath](https://open.spotify.com/track/2JqmexLfpFOVFXjUdkc5We) | [Agents Of Time](https://open.spotify.com/artist/2cwE2IRu8FAZ9RHzPjDjQI) | [Take My Breath](https://open.spotify.com/album/58Ky2QzPUsr7pNLFIuG5nS) | 6:09 | 2024-07-14 |  |
 | [Take My Breath](https://open.spotify.com/track/349asLEXGncGuY50M4Z257) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/2HMxasz7KZc6hCs6U2RWNP) | 3:44 | 2024-01-29 | 2024-01-31 |
 | [Take My Breath \(Remix\) \(feat\. Agents of Time\)](https://open.spotify.com/track/2OAfIt4rf4GFIceIUB8U6L) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 6:08 | 2024-07-10 | 2024-07-12 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/1Xg9k7OAyJryBXVx3KUklz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7) | 3:40 | 2024-01-30 |  |

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-207 songs - 15 hr 29 min
+208 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amaat One](https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU) | 5:36 | 2023-02-17 | 2024-04-19 |
 | [Aquarius](https://open.spotify.com/track/08EgS4Nqe1jPkI9tx9Dq3S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 5:58 | 2023-02-17 | 2024-04-19 |
 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 | 2023-02-17 |  |
+| [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 | 2023-02-17 |  |
 | [Arcadian Daze](https://open.spotify.com/track/6NXrZnDylt1iZd2qU8ssK3) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT) | 3:16 | 2023-02-17 | 2024-04-19 |
 | [Arpeggi](https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 4:45 | 2023-02-17 |  |
 | [At Height](https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu) | 3:52 | 2023-02-17 |  |
@@ -72,7 +73,7 @@
 | [Goodnight Felicia](https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr) | [Chris Bear](https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag) | 2:15 | 2023-02-17 |  |
 | [Goodnight Felicia](https://open.spotify.com/track/1yjmDtqnbH5kKEEbTRpR4B) | [Christopher Bear](https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/3q9iSRK4p24UPEGuuOwZQQ) | 2:15 | 2023-02-17 | 2024-04-19 |
 | [GREEN](https://open.spotify.com/track/4MoCSvcnlRpfMXUAd65LAB) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 5:21 | 2023-02-17 |  |
-| [Haku \- RUMTUM Remix](https://open.spotify.com/track/3TbCoXMQrw0DhfBDppxnU2) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3qkPNS42C4RuI4BZrb4uhv) | 5:41 | 2023-02-17 |  |
+| [Haku \- RUMTUM Remix](https://open.spotify.com/track/3TbCoXMQrw0DhfBDppxnU2) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3qkPNS42C4RuI4BZrb4uhv) | 5:41 | 2023-02-17 | 2024-07-15 |
 | [Haku \- RUMTUM Remix](https://open.spotify.com/track/4bbC2PWt5QDvICHQBUXyj4) | [Ramakhandra](https://open.spotify.com/artist/1Apw9xiab11PyZLo6YeUoJ), [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Haku \(RUMTUM Remix\)](https://open.spotify.com/album/3ranyNZIbzrxe6XdiwoiWD) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/2UFR9rHVRKPVMC5DeZvO1P) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds \(Special Anniversary Edition\)](https://open.spotify.com/album/6ebN0Gkim6B1SDSp2ZbwI1) | 5:41 | 2023-02-17 | 2024-04-19 |
 | [Hands](https://open.spotify.com/track/6VfWccY3UTDtXFa7WFMyz8) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Rounds](https://open.spotify.com/album/2H49BEjjzWluWjmy2k9tdQ) | 5:41 | 2023-02-17 |  |

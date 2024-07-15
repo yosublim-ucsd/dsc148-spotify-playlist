@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116706,
+  "num_followers": 116734,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "Rollercoaster (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 187269,
+      "name": "Rollercoaster (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
         "name": "Posa",
         "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
       "artists": [
         {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -943,6 +927,22 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "No Wahala (Latin Remix)",
-        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "No Wahala - Latin Remix",
-      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "No Wahala (Latin Remix)",
+        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "No Wahala - Latin Remix",
+      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "Yoyo",
         "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 156850,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "YA LLORARE(MOS)",
-        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "YA LLORARE(MOS)",
-      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "YA LLORARE(MOS)",
+        "url": "https://open.spotify.com/album/0njj27EsXU1J1G3OTt5Jqk"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "YA LLORARE(MOS)",
+      "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 121142,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2024-06-07 09:14:55",
@@ -1315,22 +1331,6 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2024-06-07 09:14:55",

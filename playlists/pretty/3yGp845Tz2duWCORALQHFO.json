@@ -1,13 +1,29 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25738,
+  "num_followers": 25736,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgLQq1dE1kOUrjDcef1IOkNqsV9KUA",
+  "snapshot_id": "AABgMq/GvdRSNJAYeb+zWU8/TPt+lcHi",
   "tracks": [
+    {
+      "added_at": "2024-07-14 18:10:52",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
+    },
     {
       "added_at": "2024-07-12 00:40:26",
       "album": {
@@ -165,20 +181,24 @@
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
     },
     {
-      "added_at": "2024-07-12 00:40:26",
+      "added_at": "2024-07-14 18:10:53",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2"
+        "name": "Blck Pwdr",
+        "url": "https://open.spotify.com/album/6Ef76BwEgkUqQkbxZ4g3ll"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "The Kudu",
+          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
         }
       ],
-      "duration_ms": 176571,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
+      "duration_ms": 163800,
+      "name": "Blck Pwdr",
+      "url": "https://open.spotify.com/track/1z2nPLibb7tgdpcgFamqbc"
     },
     {
       "added_at": "2024-07-12 00:40:26",
@@ -795,6 +815,42 @@
       "duration_ms": 138000,
       "name": "OK NA GUT",
       "url": "https://open.spotify.com/track/2pdjS6St6Vf8SmggBkq2tE"
+    },
+    {
+      "added_at": "2024-07-14 18:10:51",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0Pp8nE187FWq1hqY6RTaNU"
+      },
+      "artists": [
+        {
+          "name": "Will Plaze",
+          "url": "https://open.spotify.com/artist/3fFPyMScdyz7zoHK2A3uvu"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/6g2uHVAb4gFmLNkmp4aPcW"
+    },
+    {
+      "added_at": "2024-07-14 18:09:50",
+      "album": {
+        "name": "Take Me There (Remixes)",
+        "url": "https://open.spotify.com/album/0GqoBsa7wgaefMcoLryzDT"
+      },
+      "artists": [
+        {
+          "name": "shams",
+          "url": "https://open.spotify.com/artist/4IB8myYRu05MrYjhHFfH3x"
+        },
+        {
+          "name": "Mystic Joy",
+          "url": "https://open.spotify.com/artist/3clFVe1tCR0DsVU0xtq5JV"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "Take Me There - VIP Remix",
+      "url": "https://open.spotify.com/track/60LaZm7Q522tOrxJ6g6iYR"
     },
     {
       "added_at": "2024-07-12 00:40:26",

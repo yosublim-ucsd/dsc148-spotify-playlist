@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,535 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,538 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [Blues For The Weepers](https://open.spotify.com/track/5r2pfH2Jm8pU5NTmLbOI1l) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Nobody But Lou](https://open.spotify.com/album/40USXRMkbizt4we2w2QQaM) | 3:50 |
 | 50 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 |
 
-Snapshot ID: `ZpByAAAAAAAxcSGWVDIx4yrTVS3Vl7VO`
+Snapshot ID: `ZpHDgAAAAAC91uaEnb3rRdT2FmVlFMlM`

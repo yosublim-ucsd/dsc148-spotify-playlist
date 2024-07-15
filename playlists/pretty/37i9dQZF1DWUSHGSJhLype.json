@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc NATTAN, Ana Castela",
-  "num_followers": 528406,
+  "num_followers": 528556,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,26 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Triplex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "Mari No Barzinho (Ao Vivo No RJ)",
         "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 121384,
       "name": "TUMB\u00c1TUM",
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Triplex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 178170,
-      "name": "Triplex - Ao Vivo",
-      "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 196988,
-      "name": "Ela - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
         "name": "T\u00e1 OK",
         "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Cad\u00ea o After? Pt. 1",
-        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Toca o Trompete",
-      "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
         "name": "Decretos Reais, Vol. 2",
         "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Toca o Trompete",
+      "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "Silverado (AgroPlay Ver\u00e3o)",
         "url": "https://open.spotify.com/album/0jc1n9dACj0B3LxivgmrQb"
       },
@@ -755,6 +755,30 @@
       "duration_ms": 667622,
       "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
       "url": "https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Barulho do Prazer",
+        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Barulho do Prazer",
+      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -799,66 +823,6 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Barulho do Prazer",
-        "url": "https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 150399,
-      "name": "Barulho do Prazer",
-      "url": "https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Dano Sarrada (Remix)",
-        "url": "https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Jap\u00e3ozin",
-          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Dano Sarrada - Remix",
-      "url": "https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Maliciosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Maliciosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
         "name": "Vou Passar Gelinho",
         "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
       },
@@ -883,6 +847,26 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Dano Sarrada (Remix)",
+        "url": "https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Jap\u00e3ozin",
+          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Dano Sarrada - Remix",
+      "url": "https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "Furduncinho do Rogerinho",
         "url": "https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 179701,
       "name": "Furduncinho do Rogerinho",
       "url": "https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Maliciosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167027,
+      "name": "Maliciosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Gostosinha \u00e9 Ela",
-        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Gostosinha \u00e9 Ela",
-      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
         "name": "Ind\u00edcios",
         "url": "https://open.spotify.com/album/3GCtOaO8rqzFGKGfaItCro"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 228301,
       "name": "Coladin (Minha Deusa)",
       "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Gostosinha \u00e9 Ela",
+        "url": "https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Gostosinha \u00e9 Ela",
+      "url": "https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Balan\u00e7o da Rede",
+        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 166435,
+      "name": "Balan\u00e7o da Rede",
+      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
       },
@@ -1019,6 +1039,22 @@
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "S\u00f3 um Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 141388,
+      "name": "S\u00f3 um Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1043,58 +1079,6 @@
       "duration_ms": 149817,
       "name": "MTG DADINHO",
       "url": "https://open.spotify.com/track/40x7EaBgfqNDvGbhR2cfB4"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Balan\u00e7o da Rede",
-        "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 166435,
-      "name": "Balan\u00e7o da Rede",
-      "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Coisas Que Eu Sei",
-        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "S\u00f3 um Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 141388,
-      "name": "S\u00f3 um Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1131,6 +1115,38 @@
       "duration_ms": 175725,
       "name": "Carinha de Beb\u00ea",
       "url": "https://open.spotify.com/track/2jZrMlMuTk1N3LJS8yQM6q"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Coisas Que Eu Sei",
+        "url": "https://open.spotify.com/album/36lpQCTJkcgC8o5xc2hRCn"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5btDKzAsFh975NSWxwBHRc"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 202411,
+      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1175,6 +1191,26 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Posso Beijar Sua Boca ?",
+        "url": "https://open.spotify.com/album/4mmpyA7NacZC06umlw77zr"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Posso Beijar Sua Boca ?",
+      "url": "https://open.spotify.com/track/2hfFx87JTjkpvlxyeOScMK"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "LUAN CITY DELUXE (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N"
       },
@@ -1187,22 +1223,6 @@
       "duration_ms": 148548,
       "name": "SOLTEIROU - Ao Vivo",
       "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "MF No Rio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 202411,
-      "name": "Altas Loucurinhas (Uni Duni T\u00ea) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1263,6 +1283,26 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
         "name": "Luz Do Luar",
         "url": "https://open.spotify.com/album/55AropmH7pYqUReNSNfmP7"
       },
@@ -1275,46 +1315,6 @@
       "duration_ms": 171288,
       "name": "Luz Do Luar",
       "url": "https://open.spotify.com/track/6sRVs06LFw91N6D9dfam3t"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Posso Beijar Sua Boca ?",
-        "url": "https://open.spotify.com/album/4mmpyA7NacZC06umlw77zr"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Posso Beijar Sua Boca ?",
-      "url": "https://open.spotify.com/track/2hfFx87JTjkpvlxyeOScMK"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 176247,
-      "name": "Matadinha De Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1335,18 +1335,42 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
+        "name": "Sorte (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
       },
       "artists": [
         {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 176247,
+      "name": "Matadinha De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1379,22 +1403,18 @@
     {
       "added_at": "2024-07-12 20:03:34",
       "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1415,6 +1435,26 @@
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
+    },
+    {
+      "added_at": "2024-07-12 20:03:34",
+      "album": {
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 171100,
+      "name": "Cama Repetida",
+      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1475,26 +1515,6 @@
       "duration_ms": 102352,
       "name": "Casca de Bala - Remix",
       "url": "https://open.spotify.com/track/02rlsjFdWEL5LLIfufc2mI"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
     },
     {
       "added_at": "2024-07-12 20:03:34",
@@ -1567,26 +1587,6 @@
       "duration_ms": 182640,
       "name": "Onde Tu Vai Sentar - Ao Vivo",
       "url": "https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI"
-    },
-    {
-      "added_at": "2024-07-12 20:03:34",
-      "album": {
-        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "Cama Repetida",
-      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-07-12 20:03:34",

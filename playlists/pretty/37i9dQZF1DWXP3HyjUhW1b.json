@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras petateras de nuestro cancionero.",
-  "num_followers": 334548,
+  "num_followers": 334572,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -219,38 +235,6 @@
       "duration_ms": 166200,
       "name": "Y As\u00ed Fue",
       "url": "https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -287,18 +271,34 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Me Robaste El Corazon",
         "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 267333,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -591,38 +591,6 @@
       "duration_ms": 194946,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor - Remastered",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -643,18 +611,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
+      "duration_ms": 186373,
+      "name": "Como La Flor - Remastered",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -671,6 +639,38 @@
       "duration_ms": 170333,
       "name": "Mi Casa Nueva",
       "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 409466,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 215169,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "15 Exitos De Lorenzo De Monteclaro",
         "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1039,6 +1023,22 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1091,22 +1091,6 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 292400,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Javier Solis Con Acoo De Mariachi",
-        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Y...",
-      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Javier Solis Con Acoo De Mariachi",
+        "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Y...",
+      "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 216293,
       "name": "Hasta la Miel Amarga",
       "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
+      },
+      "artists": [
+        {
+          "name": "Francisco \"Charro\" Avitia",
+          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
       },
       "artists": [
         {
-          "name": "Francisco \"Charro\" Avitia",
-          "url": "https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 189933,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8"
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1595,22 +1611,6 @@
       "duration_ms": 165306,
       "name": "Dios nunca muere",
       "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Jorge Negrete - \u00c9xitos Inolvidables",
         "url": "https://open.spotify.com/album/1NRQq2zLwcoc7GCF10IMV1"
       },
@@ -1723,6 +1707,38 @@
       "duration_ms": 219680,
       "name": "Yo Soy Mexicano",
       "url": "https://open.spotify.com/track/5tXSlq80kIajsUGW2LGBCx"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 168133,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1759,22 +1775,6 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 168133,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
         "name": "Pegadito Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7"
       },
@@ -1803,22 +1803,6 @@
       "duration_ms": 490753,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/7cgNFfmtAKKoF559Mjqb6J"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Amorcito coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5edCzkatTA7YC8fy4ZKUPh"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1891,6 +1875,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/7cgNFfmtAKKoF559Mjqb6J"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Amorcito coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5edCzkatTA7YC8fy4ZKUPh"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/4UShX3ZnzGCiuMnqg9bFoO"
       },
@@ -1903,38 +1903,6 @@
       "duration_ms": 188661,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/0oCSitNlzsQfuIapF9tXRQ"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/4bOsvJA6BrBn1DW29YEkji"
-    },
-    {
-      "added_at": "2024-06-05 16:56:46",
-      "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
     },
     {
       "added_at": "2024-06-05 16:56:46",
@@ -1971,6 +1939,22 @@
     {
       "added_at": "2024-06-05 16:56:46",
       "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ"
+    },
+    {
+      "added_at": "2024-06-05 16:56:46",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/4bOsvJA6BrBn1DW29YEkji"
     },
     {
       "added_at": "2024-06-05 16:56:46",

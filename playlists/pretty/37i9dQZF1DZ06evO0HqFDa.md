@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This Is Ramin Djawadi\. Los temas esenciales, todos en una lista.
+> This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,447 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,460 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 49 | [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 |
 | 50 | [Dance of Dragons](https://open.spotify.com/track/31ZZ6UK4InCAb3AgoNMKol) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 5 \(Music from the HBO Series\)](https://open.spotify.com/album/0LQkLdG7VkkTZj0HbONsJQ) | 3:08 |
 
-Snapshot ID: `ZpByAAAAAABJGqara38ET09DQzcIE7fx`
+Snapshot ID: `ZpHDgAAAAAAJBXD9iJuzVj2rK2lC0oHu`

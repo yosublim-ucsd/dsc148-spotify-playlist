@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 離婚伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,682 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,689 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

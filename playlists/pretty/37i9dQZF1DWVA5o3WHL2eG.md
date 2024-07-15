@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Y'akoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,484 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,482 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [You Owe Me](https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [You Owe Me](https://open.spotify.com/album/1Axb1g9uXragyykWBri2Hy) | 2:13 |
 | 10 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 |
 | 11 | [extras](https://open.spotify.com/track/49dsnznVKLZwYJOhGEGRA2) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [extras](https://open.spotify.com/album/1e1uth639kAZm5UnqJC3bK) | 2:29 |
-| 12 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
-| 13 | [Klappstuhl am See](https://open.spotify.com/track/3HZg6HgyWgSgi3lVJoq3pp) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:13 |
+| 12 | [Klappstuhl am See](https://open.spotify.com/track/3HZg6HgyWgSgi3lVJoq3pp) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Alles oder Nichts](https://open.spotify.com/album/10DmYqYnC1qpaSKeKx2ef8) | 2:13 |
+| 13 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 |
 | 14 | [Renn](https://open.spotify.com/track/29PqzjjhKKu8kBi1coCRrn) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [Renn](https://open.spotify.com/album/6aF03VXMy0AYche1GHvtIW) | 2:13 |
 | 15 | [Come Down to the River](https://open.spotify.com/track/3vcHVC4FRw40udBfSTojqs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Moody Blues](https://open.spotify.com/album/5dVDpmBMOCCdLoo07G2JNC) | 3:41 |
 | 16 | [Woman](https://open.spotify.com/track/0eZzHpwVdxW99Jlh6yLMaI) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Woman](https://open.spotify.com/album/01Yq1qHwqFTwgG4ZliCiO3) | 2:10 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Fool Me Once](https://open.spotify.com/track/76wyTlJOQYwn69IMyIqOVb) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mermaid Blues](https://open.spotify.com/album/2vZ8pNSUd9uRF4tTgLIBQc) | 3:53 |
 | 25 | [Cöp](https://open.spotify.com/track/0UHhs3pzejxiostXGLnNPH) | [Leyla Karims](https://open.spotify.com/artist/7C9SOLYb9mIZPYVyRR5Owz) | [Cöp](https://open.spotify.com/album/5RlAz9c1qzY0ncGQ86tzr9) | 2:06 |
 | 26 | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/track/7M6917K5sAg3aejbjooySB) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [liebst du mich noch so wie ich dich ?](https://open.spotify.com/album/2mDop7m3DVv8Vy8tc8iz7l) | 2:48 |
-| 27 | [DoReMiFaSo](https://open.spotify.com/track/0DrN9WYQsOuIJIuzqcjvmk) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [DoReMiFaSo](https://open.spotify.com/album/3HOuXjkZ7riiQGljJqCkbm) | 2:05 |
-| 28 | [Khudahafiz](https://open.spotify.com/track/3hAWqy63tz29SFXNFCpA1D) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [22:22](https://open.spotify.com/album/2rANbjz8DsJtm6dqJMegNv) | 2:22 |
+| 27 | [Khudahafiz](https://open.spotify.com/track/3hAWqy63tz29SFXNFCpA1D) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [22:22](https://open.spotify.com/album/2rANbjz8DsJtm6dqJMegNv) | 2:22 |
+| 28 | [DoReMiFaSo](https://open.spotify.com/track/0DrN9WYQsOuIJIuzqcjvmk) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [DoReMiFaSo](https://open.spotify.com/album/3HOuXjkZ7riiQGljJqCkbm) | 2:05 |
 | 29 | [Kalender](https://open.spotify.com/track/7zirNuxuHUkEhOgBQEhLJf) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kalender](https://open.spotify.com/album/5mgzmuiuNqfDp491jepoBJ) | 3:16 |
 | 30 | [Mad](https://open.spotify.com/track/1XADbL6VwPL1rqXBVOszfG) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Mad](https://open.spotify.com/album/24Liy9BnSbQPWQoGncnGCE) | 3:22 |
 | 31 | [AREA CODES](https://open.spotify.com/track/6E3ZYtO2r8DZEHlSlvXOjI) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [AREA CODES](https://open.spotify.com/album/2ilAU5T7UcLW9iz3oRBMtb) | 2:40 |
-| 32 | [Gravity](https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Gravity](https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI) | 2:32 |
-| 33 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
+| 32 | [Stimmen](https://open.spotify.com/track/4j0aEdwpUwh04DKqmBmYOp) | [Romy](https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX) | [Stimmen](https://open.spotify.com/album/6q2FZdmkrBSGVCYpxsU6f8) | 3:29 |
+| 33 | [Gravity](https://open.spotify.com/track/1qQwPQAic8RU32iuPwVcCJ) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [Gravity](https://open.spotify.com/album/5wcJqzjLklt8LgUeCWIibI) | 2:32 |
 | 34 | [Der Blick / Dein Herz ist zu](https://open.spotify.com/track/398X3qX9xuvuPuaXODYnBr) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Der Blick / Dein Herz ist zu](https://open.spotify.com/album/07WtXAuOvj44EZLaPcOzRl) | 2:21 |
-| 35 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
-| 36 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 35 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 |
+| 36 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 |
 | 37 | [What's Good](https://open.spotify.com/track/655afr1nexUYljRZzlB64D) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [What's Good](https://open.spotify.com/album/3YLIB4TbUC73jhq8fhNmfU) | 2:43 |
 | 38 | [Cringey Doll](https://open.spotify.com/track/64qvYVdK2FQ2ooddDLiaje) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Cringey Doll](https://open.spotify.com/album/03Qp6VFsWPgQ92KNtYKM5y) | 2:24 |
 | 39 | [wir trafen uns in einem garten](https://open.spotify.com/track/38YmEgPDOqKDPgkwsHw3nR) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [wir trafen uns in einem garten](https://open.spotify.com/album/58Ew6pCPqw2w2eYYGI2waN) | 2:58 |

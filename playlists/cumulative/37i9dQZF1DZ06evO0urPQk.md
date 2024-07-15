@@ -4,7 +4,7 @@
 
 > This is 水樹奈々\. The essential tracks, all in one playlist.
 
-114 songs - 8 hr 1 min
+115 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [FINAL COMMANDER \-Aufwachen Form\-](https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:05 | 2022-06-09 | 2024-07-05 |
 | [FIRE SCREAM](https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FIRE SCREAM](https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH) | 3:45 | 2022-06-09 | 2024-04-26 |
 | [FIRE SCREAM](https://open.spotify.com/track/10NBFtkgSdqzh7Xdcouzek) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:47 | 2022-07-18 | 2022-09-12 |
-| [GET BACK](https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:59 | 2022-06-09 |  |
+| [GET BACK](https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:59 | 2022-06-09 | 2024-07-15 |
 | [Get up! Shout!](https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Get up! Shout!](https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF) | 4:10 | 2022-06-09 | 2024-07-06 |
 | [Gimmick Game](https://open.spotify.com/track/0SuigwpDRKB1WZnAoE3AsC) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:20 | 2022-06-12 | 2024-07-08 |
 | [glitch](https://open.spotify.com/track/41Ynbqwr59G7IqKztzZkNP) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:55 | 2022-06-09 | 2022-10-13 |
@@ -88,6 +88,7 @@
 | [TESTAMENT](https://open.spotify.com/track/2QSZ2xvqALjTBqZfKxsMeI) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [TESTAMENT](https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K) | 3:58 | 2022-06-09 |  |
 | [Trinity Cross](https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Trickster](https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq) | 4:26 | 2022-06-11 | 2024-06-26 |
 | [Turn the World](https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Turn the World](https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F) | 4:03 | 2023-12-25 |  |
+| [UNBREAKABLE](https://open.spotify.com/track/3IY2GIqcVAYhaM2zn5r3vh) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [POP MASTER](https://open.spotify.com/album/5yNAlfpRUPwD26kBaeY3eS) | 4:41 | 2024-07-15 |  |
 | [UNLIMITED BEAT](https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEOGENE CREATION](https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR) | 4:28 | 2022-06-09 |  |
 | [Vitalization](https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:46 | 2022-06-09 |  |
 | [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 | 2023-03-03 | 2024-07-02 |

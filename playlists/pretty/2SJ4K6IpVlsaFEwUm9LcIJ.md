@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,390 likes - 16 songs - 58 min 10 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 20,415 likes - 16 songs - 58 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

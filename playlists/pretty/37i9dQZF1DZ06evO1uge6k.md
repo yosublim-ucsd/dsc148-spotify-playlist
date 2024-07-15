@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 ### [This Is ZZ Top](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1uge6k)
 
-> This Is ZZ Top\. Los temas esenciales, todos en una lista.
+> This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,807 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,908 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [\(Somebody Else Been\) Shaking Your Tree](https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 2:35 |
 | 50 | [Francine](https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 3:33 |
 
-Snapshot ID: `ZpByAAAAAAABrcz4nSio6ygSLRjm1+uU`
+Snapshot ID: `ZpHDgAAAAACXY3xv5/Pi4OLI8o2INORe`

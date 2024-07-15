@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 157760,
       "name": "casifebrero",
       "url": "https://open.spotify.com/track/0S7NfMrU4SWZXU4pcGYhZh"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -2824,6 +2824,28 @@
       "duration_ms": 152022,
       "name": "EL \u00daNICO",
       "url": "https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7"
+    },
+    {
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "album": {
@@ -5474,7 +5496,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 51853,
       "name": "Mangos - Tiktok Version",
       "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
@@ -6070,7 +6092,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 188250,
       "name": "MIRAA",
       "url": "https://open.spotify.com/track/2TTCzngTprmJJGlmkeM5HR"
@@ -7108,8 +7130,8 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
-      "duration_ms": 175321,
+      "date_removed": null,
+      "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
     },
@@ -8583,6 +8605,28 @@
     },
     {
       "album": {
+        "name": "Malos Cantores",
+        "url": "https://open.spotify.com/album/7f1vAJoV6AHf5IeE69QHY6"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172001,
+      "name": "Sobredosis en Las Vegas",
+      "url": "https://open.spotify.com/track/6MWawJjqurQVe1r5DFlK6u"
+    },
+    {
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -8598,6 +8642,24 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "album": {
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
       "album": {
@@ -9238,7 +9300,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/6SJ01hvFkBLTUnkLyZ72G5"
@@ -9700,7 +9762,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 158130,
       "name": "TUKUN",
       "url": "https://open.spotify.com/track/3GLUdGhv1tknST1tFY3qhU"

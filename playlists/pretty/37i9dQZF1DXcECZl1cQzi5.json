@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 29263,
+  "num_followers": 29325,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "Chao Phraya",
         "url": "https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+        "name": "Majestic (Ocean)",
+        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
       },
       "artists": [
         {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+          "name": "Moonlight River",
+          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+      "duration_ms": 186000,
+      "name": "Majestic (Ocean)",
+      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -463,18 +479,18 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Majestic (Ocean)",
-        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
+        "name": "Sand Mountain",
+        "url": "https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq"
       },
       "artists": [
         {
-          "name": "Moonlight River",
-          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Majestic (Ocean)",
-      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
+      "duration_ms": 138576,
+      "name": "Sand Mountain",
+      "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -523,22 +539,6 @@
       "duration_ms": 203871,
       "name": "Calming Seas",
       "url": "https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "Sand Mountain",
-        "url": "https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 138576,
-      "name": "Sand Mountain",
-      "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Waves of Daelbata",
-        "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
-      },
-      "artists": [
-        {
-          "name": "Eryone",
-          "url": "https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "Waves of Daelbata",
-      "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Sunrise Wave",
         "url": "https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 167142,
       "name": "Sunrise Wave",
       "url": "https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Waves of Daelbata",
+        "url": "https://open.spotify.com/album/0u0SoQkzLwlEBXo2uizdHb"
+      },
+      "artists": [
+        {
+          "name": "Eryone",
+          "url": "https://open.spotify.com/artist/2R4dqDXVULSmMRUQcZHxbv"
+        }
+      ],
+      "duration_ms": 168336,
+      "name": "Waves of Daelbata",
+      "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 226750,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "Devotions",
         "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 160000,
       "name": "Midnight Shoreline",
       "url": "https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "Crescent Moon",
-        "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 226750,
-      "name": "Crescent Moon",
-      "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
+        "name": "Pra Ae",
+        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
+      },
+      "artists": [
+        {
+          "name": "Forrest Gomez",
+          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
+        }
+      ],
+      "duration_ms": 137666,
+      "name": "Pra Ae",
+      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
         "name": "Enlightened Adrift",
         "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
       },
@@ -1039,38 +1055,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Pra Ae",
-        "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
-      },
-      "artists": [
-        {
-          "name": "Forrest Gomez",
-          "url": "https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q"
-        }
-      ],
-      "duration_ms": 137666,
-      "name": "Pra Ae",
-      "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
-        "name": "Oceanic Peace",
-        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Oceanic Peace",
-      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Frihet Natur",
         "url": "https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 203964,
       "name": "Hacienda",
       "url": "https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Oceanic Peace",
+        "url": "https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Oceanic Peace",
+      "url": "https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "A Lake Almost Still",
-        "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
-      },
-      "artists": [
-        {
-          "name": "Adored Swan",
-          "url": "https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp"
-        }
-      ],
-      "duration_ms": 137020,
-      "name": "A Lake Almost Still",
-      "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Ocean Mindfulness",
         "url": "https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 207914,
       "name": "Ocean Mindfulness",
       "url": "https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "A Lake Almost Still",
+        "url": "https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq"
+      },
+      "artists": [
+        {
+          "name": "Adored Swan",
+          "url": "https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp"
+        }
+      ],
+      "duration_ms": 137020,
+      "name": "A Lake Almost Still",
+      "url": "https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Dream Ripples",
-        "url": "https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF"
-      },
-      "artists": [
-        {
-          "name": "Lusunzi",
-          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
-        }
-      ],
-      "duration_ms": 148127,
-      "name": "Dream Ripples",
-      "url": "https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Singing Mermaids",
         "url": "https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 186000,
       "name": "Singing Mermaids",
       "url": "https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Dream Ripples",
+        "url": "https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF"
+      },
+      "artists": [
+        {
+          "name": "Lusunzi",
+          "url": "https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE"
+        }
+      ],
+      "duration_ms": 148127,
+      "name": "Dream Ripples",
+      "url": "https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Rolling Seas",
-        "url": "https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0"
-      },
-      "artists": [
-        {
-          "name": "Hrothgar Tarek",
-          "url": "https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB"
-        }
-      ],
-      "duration_ms": 189994,
-      "name": "Rolling Seas",
-      "url": "https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Wind of Serenity",
         "url": "https://open.spotify.com/album/092neHTVHilfDCEkuLk7Jn"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 160171,
       "name": "Wind of Serenity",
       "url": "https://open.spotify.com/track/1ZFrUu4wdWc9iPW8M48Nil"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Rolling Seas",
+        "url": "https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0"
+      },
+      "artists": [
+        {
+          "name": "Hrothgar Tarek",
+          "url": "https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB"
+        }
+      ],
+      "duration_ms": 189994,
+      "name": "Rolling Seas",
+      "url": "https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu"
     },
     {
       "added_at": "2024-07-08 12:44:11",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-08 12:44:11",
       "album": {
-        "name": "Lumen At The Beach",
-        "url": "https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL"
-      },
-      "artists": [
-        {
-          "name": "Absydius",
-          "url": "https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Lumen At The Beach",
-      "url": "https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp"
-    },
-    {
-      "added_at": "2024-07-08 12:44:11",
-      "album": {
         "name": "Mindful Swell",
         "url": "https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 136000,
       "name": "Mindful Swell",
       "url": "https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W"
+    },
+    {
+      "added_at": "2024-07-08 12:44:11",
+      "album": {
+        "name": "Lumen At The Beach",
+        "url": "https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL"
+      },
+      "artists": [
+        {
+          "name": "Absydius",
+          "url": "https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Lumen At The Beach",
+      "url": "https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp"
     },
     {
       "added_at": "2024-07-08 12:44:11",

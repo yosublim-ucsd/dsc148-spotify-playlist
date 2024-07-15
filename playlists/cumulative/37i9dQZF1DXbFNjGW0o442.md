@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-283 songs - 16 hr 49 min
+284 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Directa](https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [Gracias por Cuidar el Equipo](https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY) | 3:47 | 2022-01-20 |  |
 | [Donde Van Mis Pies](https://open.spotify.com/track/2i9ocfwryqSKDxJVOCjsWg) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Puertos](https://open.spotify.com/album/3DAwdIJ9cQC0K4its1cbyV) | 2:54 | 2022-01-20 | 2022-07-27 |
 | [Dormis?](https://open.spotify.com/track/5QmbF5VO4HmSRuTrBQTloW) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Dormis?](https://open.spotify.com/album/5QxZ0o2KsC2zCmSZI1W1kd) | 3:09 | 2022-01-20 | 2022-07-29 |
+| [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 | 2024-07-12 |  |
 | [Drowned](https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi) | [Stallone](https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68) | [Stallone](https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ) | 5:40 | 2022-01-20 | 2023-12-23 |
 | [Ego](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [Ego](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 | 2024-01-04 |  |
 | [Ego](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Ego](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 | 2023-11-24 |  |
@@ -125,11 +126,11 @@
 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 | 2022-01-20 |  |
 | [Haku \- Bonus Track](https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mala \(Edición Malísima\)](https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq) | 3:40 | 2023-11-24 |  |
 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 | 2024-04-19 |  |
-| [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 |  |
+| [Hey](https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Hey](https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM) | 3:12 | 2022-01-20 | 2024-07-15 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2024-05-10 |
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 | 2024-05-06 |
-| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 |  |
+| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2024-07-15 |
 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 | 2024-03-07 |  |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
@@ -244,7 +245,7 @@
 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 | 2022-01-20 | 2023-05-14 |
 | [Ser Humano](https://open.spotify.com/track/5RcDXoxRQIlxsjJnQbkMGm) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 3:30 | 2022-01-20 |  |
 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 | 2022-01-20 | 2023-03-18 |
-| [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 | 2022-01-20 | 2024-07-13 |
+| [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 | 2022-01-20 |  |
 | [Sin Llorar](https://open.spotify.com/track/4uz6AXTY8ZoP2SzICAl36i) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Sin Llorar](https://open.spotify.com/album/0RsUW4X7DQofjxZMXEKzG5) | 5:20 | 2022-01-20 | 2022-07-24 |
 | [Sola en los Bares \(2020 Remasterizado\)](https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX) | [Man Ray](https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm) | [Perro de Playa \(2020 Remasterizado\)](https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z) | 3:06 | 2022-01-20 |  |
 | [Sola y Feliz](https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo) | [Tiburona](https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3) | [Sola y Feliz](https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP) | 3:08 | 2022-01-20 | 2023-02-05 |

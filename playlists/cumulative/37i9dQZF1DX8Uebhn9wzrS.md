@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,992 songs - 3 day 3 hr 52 min
+1,994 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [amber lights](https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [amber lights](https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng) | 2:00 | 2024-06-07 |  |
 | [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 |  |
 | [Amsterdam](https://open.spotify.com/track/5mH8y8JKcR4EFnjE0gptQv) | [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Amsterdam](https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd) | 1:39 | 2022-07-08 | 2022-12-03 |
-| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 |  |
+| [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 | 2024-07-15 |
 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 | 2022-10-28 | 2023-04-21 |
 | [And That Was It](https://open.spotify.com/track/3p3OPAGKwZVDX9wq6fRiQl) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [A Time for Dinosaurs](https://open.spotify.com/album/7uhhF93AA2bkzVxkmMK1cQ) | 3:00 | 2023-04-20 |  |
 | [And the guitar plays on](https://open.spotify.com/track/5Vs3zHvwNJn03ZN5Qg7NBE) | [Zig Zagger](https://open.spotify.com/artist/2zypz5VQ9xGRQkgZMQmZla) | [Baker's Dozen](https://open.spotify.com/album/5oKbjKVE9c4SRo9Ny0lKf6) | 2:35 | 2022-04-15 | 2022-10-01 |
@@ -199,7 +199,7 @@
 | [Bliss](https://open.spotify.com/track/6IpHohsQdyLeujYXbyqhk9) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Bliss](https://open.spotify.com/album/6PowpprpOOEx7TPQKXEgF7) | 2:02 | 2022-04-15 | 2022-10-14 |
 | [Bloom](https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Bloom](https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM) | 1:50 | 2022-08-12 | 2022-12-03 |
 | [Bloom](https://open.spotify.com/track/4rGs4GdBN8gs7OOTV7qMHc) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Bloom](https://open.spotify.com/album/7nV8JqhjlGGnmOOgI2Z31l) | 2:30 | 2022-07-01 | 2022-11-26 |
-| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 |  |
+| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 | 2024-07-15 |
 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 | 2022-09-09 | 2022-12-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -894,6 +894,7 @@
 | [Key Moments](https://open.spotify.com/track/2oUl0kFSgm7x7zw9l1AdFA) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Wonder](https://open.spotify.com/album/2ihvIaMmU9hc74O0R7SKSC) | 2:29 | 2022-04-15 | 2022-09-17 |
 | [kick it back, kid](https://open.spotify.com/track/2I9KLecFGk6rKauCvN6eME) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [kick it back, kid & unwind to shine](https://open.spotify.com/album/3kRfqs6Qw9A9zorGmQJOUR) | 3:05 | 2022-12-02 |  |
 | [Kiefer](https://open.spotify.com/track/5YEVvKJky1BhqKSRS3xSGe) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:57 | 2022-04-15 | 2022-05-27 |
+| [kinda nice](https://open.spotify.com/track/3Uuo65tSdVDAQTRITXGTWE) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [kinda nice](https://open.spotify.com/album/0WHkWpgW2oh7WL2k01sd61) | 2:20 | 2024-07-12 |  |
 | [Kite](https://open.spotify.com/track/3iGAROkUA0Zor2nDSb5KEi) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Kite](https://open.spotify.com/album/28oJte7pPVdU7loNEXhJea) | 2:29 | 2022-04-15 | 2022-11-12 |
 | [Kite](https://open.spotify.com/track/2CshcD2ZdSr8lgEkSYcmmK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/1SCKTftnhCkK2RlNcAaIkq) | 2:23 | 2022-11-18 | 2023-01-07 |
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
@@ -1016,6 +1017,7 @@
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 |  |
+| [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Lullaby](https://open.spotify.com/album/3cSq1BpCyixnSAxS2PRcYp) | 2:05 | 2023-12-22 |  |
 | [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 | 2024-06-22 |
 | [Lumbre](https://open.spotify.com/track/4uvIkNbOfh9w8VijIRn6EA) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Lumbre](https://open.spotify.com/album/5Ld9PgzYDbl4f42sN57ThN) | 2:00 | 2022-05-27 | 2023-04-04 |

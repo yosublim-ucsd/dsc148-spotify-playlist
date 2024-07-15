@@ -2,7 +2,7 @@
 
 ### [This Is Touché Amoré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AX458)
 
-> This is Touché Amoré\. The essential tracks, all in one playlist.
+> This is Touché Amoré\. Todos os maiores hits em uma só playlist.
 
 71 songs - 2 hr 47 min
 

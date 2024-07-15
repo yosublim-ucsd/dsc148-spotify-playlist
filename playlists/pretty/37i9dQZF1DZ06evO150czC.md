@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This is Midian Lima\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,842 likes - 51 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,840 likes - 51 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 50 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
 | 51 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 |
 
-Snapshot ID: `ZpByAAAAAAArLXSHdcMVKHzPM8AG1B6l`
+Snapshot ID: `ZpByAAAAAABUY+VTFN07ZyzG3564eQ9q`

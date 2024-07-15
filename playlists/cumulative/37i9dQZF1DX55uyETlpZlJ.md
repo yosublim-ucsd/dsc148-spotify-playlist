@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-361 songs - 19 hr 34 min
+362 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Maryade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Maryade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 | 2024-06-13 |  |
 | [Masada Itti Mosada Maccha](https://open.spotify.com/track/06UZsfaWjMjcmsd3DI2Dln) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Masada Itti Mosada Maccha](https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ) | 6:33 | 2023-12-13 | 2024-05-25 |
 | [MATHU KATHE](https://open.spotify.com/track/42QHzIkKyTiOkM8DMmeTXM) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [MATHU KATHE](https://open.spotify.com/album/0P5SJYCQ3cvJqBjYv0spUI) | 1:35 | 2024-06-21 |  |
-| [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 |  |
+| [Matte bhandidhini](https://open.spotify.com/track/19xxlcCzShEhzAtrBn8mFA) | [It's me plk](https://open.spotify.com/artist/5MzgfdVaUb1uux2LZBahP3) | [Matte bhandidhini](https://open.spotify.com/album/2pJVV5Oi68mN4qdaAJb1vp) | 2:08 | 2024-02-16 | 2024-07-15 |
 | [Matthe Meravanige](https://open.spotify.com/track/61JVZE02xZy5l2XJkIczfQ) | [KP Milan Kumar](https://open.spotify.com/artist/2zig6tnmiGy9rjVlXRoIa4), [Anusha Jane D'Souza](https://open.spotify.com/artist/14n1m18TW4XpYiJIAKNAvN) | [Matthe Meravanige](https://open.spotify.com/album/7fsTVJMKeGFIbXixpP2HLM) | 4:23 | 2023-03-08 | 2023-11-29 |
 | [Maḷe Banthu Maḷe](https://open.spotify.com/track/57TPkV7QunC4b8zkAuVakD) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [ART OF WAVES](https://open.spotify.com/album/0RjvS9LHtU7dhFbppc84yw) | 4:05 | 2024-01-30 | 2024-07-09 |
 | [Meghave](https://open.spotify.com/track/2ht1eT798Q3WvZqkanpdEN) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Aditi Prahalad](https://open.spotify.com/artist/2WQSmxEh1TrVQA9RXSgp6a), [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Mitra Hegde](https://open.spotify.com/artist/3boqeGhnLs24Kw3k7wybcN) | [Meghave](https://open.spotify.com/album/7m9qZKWRJ8SiwtSQg6R33E) | 3:29 | 2023-09-29 | 2024-04-17 |
@@ -326,6 +326,7 @@
 | [Samaya](https://open.spotify.com/track/20BJuCXShibTVncYK69A65) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Samaya](https://open.spotify.com/album/1rS1YaKDlPKGJhWZZK7kv1) | 3:43 | 2022-09-16 | 2023-07-04 |
 | [Sanchike](https://open.spotify.com/track/5P0MbwYlfgK2PtQD8McpLm) | [Dheemusix](https://open.spotify.com/artist/66225bquT98Ra0HHEt0oTb), [Mitakshar Ainkai](https://open.spotify.com/artist/5cKikIFEFOxUe1bxukqC8b) | [Sanchike](https://open.spotify.com/album/33QrVswoypxLlJZPexFWw2) | 2:48 | 2024-01-17 | 2024-03-05 |
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
+| [Saniha](https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Saniha](https://open.spotify.com/album/1jG0j98LGR6d1QX8K7J3B8) | 3:36 | 2024-07-14 |  |
 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 |  |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 | 2024-05-14 |
 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 | 2024-07-08 |  |

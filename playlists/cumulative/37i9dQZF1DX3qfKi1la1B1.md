@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-390 songs - 1 day 1 hr 7 min
+391 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Head Down](https://open.spotify.com/track/7EH3MSHMhHqKTZe7KKsZJO) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Head Down](https://open.spotify.com/album/44DqhmfygUnvzStDyjORAq) | 4:12 | 2023-08-22 | 2023-09-19 |
 | [Heiwa](https://open.spotify.com/track/6q4ZgpCedbtY0HRdX9G178) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Heiwa](https://open.spotify.com/album/0PaVCQT043VZB8CKdXHPuv) | 3:23 | 2023-08-10 | 2023-09-01 |
 | [Hibi no Tezawari](https://open.spotify.com/track/2v3rsHbdetpFdLn3s4Sko9) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 4:32 | 2023-06-13 | 2023-07-12 |
+| [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-12 |  |
 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2022-11-24 | 2022-12-14 |
 | [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 | 2022-11-24 | 2022-11-26 |
 | [Himitsu](https://open.spotify.com/track/3o9rv8K6kzQ1qLf2LRrE1b) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [CHIYORI](https://open.spotify.com/artist/6INv5oyVNZlG2INLcrMFqX) | [Himitsu](https://open.spotify.com/album/3CIBLveX7ppZDg2wguq4eK) | 5:14 | 2023-09-07 | 2023-10-13 |
@@ -321,7 +322,7 @@
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-02-27 |  |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-14 | 2023-10-03 |
 | [Tell Me](https://open.spotify.com/track/1OxaAC72au0z2HORS9yt1m) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Tell Me](https://open.spotify.com/album/2nBHaQWoC341spJHji7dgz) | 3:16 | 2022-12-13 | 2023-05-16 |
-| [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-10-20 |  |
+| [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-10-20 | 2024-07-15 |
 | [The Encounters \- Silent Poets Remix](https://open.spotify.com/track/5QTqbpSEZKLPG9IVVG08ko) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Silent Poets](https://open.spotify.com/artist/0v8kJy6pfyJsO20V77miAI) | [The Encounters \(Silent Poets Remix\)](https://open.spotify.com/album/3v3qmBZy8dW8pWYp2L8txf) | 6:26 | 2022-12-23 | 2023-01-25 |
 | [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-21 | 2024-05-11 |
 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-09 | 2023-11-24 |

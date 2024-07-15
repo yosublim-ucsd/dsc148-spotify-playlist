@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-482 songs - 1 day 2 hr 12 min
+485 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-06-28 | 2024-07-06 |
 | [Black Sky](https://open.spotify.com/track/6ECcZYWZcxCNtXTzFWXP7h) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Black Sky](https://open.spotify.com/album/5221DYdGl28Dav9uJJknhw) | 3:45 | 2024-07-12 |  |
 | [BLACKHOLE](https://open.spotify.com/track/5H100BHCFLhbNBefbXMBqL) | [Endy Bros.](https://open.spotify.com/artist/5M7O7qlbkOjbpiJ7AUixMY) | [BLACKHOLE](https://open.spotify.com/album/4sKNFEQniQM5YmavzR3MiS) | 1:36 | 2024-05-16 | 2024-05-25 |
+| [Blck Pwdr](https://open.spotify.com/track/1z2nPLibb7tgdpcgFamqbc) | [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ), [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD) | [Blck Pwdr](https://open.spotify.com/album/6Ef76BwEgkUqQkbxZ4g3ll) | 2:43 | 2024-07-14 |  |
 | [BLUDGEON](https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [BLUDGEON](https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h) | 2:57 | 2024-05-24 | 2024-06-01 |
 | [Body](https://open.spotify.com/track/06czbCsPRhDnWZOzjh4dYP) | [D3LT4](https://open.spotify.com/artist/5lnYov1RCZ0TjsHKDzpeaI) | [Body](https://open.spotify.com/album/65othgj3XhZzESg5qHOPfM) | 3:25 | 2024-07-04 | 2024-07-12 |
 | [Body Pop](https://open.spotify.com/track/2KU7zBNW1OYKUFIvidx8fx) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Body Pop](https://open.spotify.com/album/2qSC8SWAUAsxsoMaxdWNSl) | 3:42 | 2024-06-07 | 2024-06-17 |
@@ -255,6 +256,7 @@
 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 | 2024-05-30 | 2024-06-08 |
 | [Look for the sun](https://open.spotify.com/track/1oUIhYJfczr4QrpkfYZM1m) | [Konstantin & Hal](https://open.spotify.com/artist/3vkgLFyuwezp5HNm64wx9p) | [Look for the sun](https://open.spotify.com/album/14A3ioHb6fujIVXFesgR4z) | 4:50 | 2024-06-18 | 2024-06-22 |
 | [LOSE CONTROL](https://open.spotify.com/track/15gBrrouXXYK1nczQ54wVZ) | [TARISH](https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0) | [LOSE CONTROL](https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO) | 3:06 | 2024-06-21 | 2024-06-29 |
+| [Losing My Mind](https://open.spotify.com/track/6g2uHVAb4gFmLNkmp4aPcW) | [Will Plaze](https://open.spotify.com/artist/3fFPyMScdyz7zoHK2A3uvu) | [Losing My Mind](https://open.spotify.com/album/0Pp8nE187FWq1hqY6RTaNU) | 3:20 | 2024-07-14 |  |
 | [Lost](https://open.spotify.com/track/7GSncnWI6pkrxm60qMW1HS) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3), [Chelsea Holland](https://open.spotify.com/artist/003pIw7FyWyjYvjQHtx2DA) | [Lost](https://open.spotify.com/album/0WLVGkkmHIOWKnqHJxjsuJ) | 3:46 | 2024-07-05 | 2024-07-12 |
 | [Lost In It All \(feat\. Jess Ball\)](https://open.spotify.com/track/7EXqv06WGN7gizShYifTrG) | [Charlie Hedges](https://open.spotify.com/artist/2AFFYBbkKiVSCMF19TSeCb), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lost In It All \(feat\. Jess Ball\)](https://open.spotify.com/album/4uWemIW9sfFBsXbjmGrcPs) | 3:11 | 2024-06-28 | 2024-07-06 |
 | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/track/7GUecHJnM0kfEXNtt9y9nQ) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Lotus \(PAROOKAVILLE Anthem 2024\)](https://open.spotify.com/album/7qyuA3NETBJ3gNvUWxHha6) | 3:34 | 2024-06-07 | 2024-06-17 |
@@ -429,6 +431,7 @@
 | [Take Me Higher](https://open.spotify.com/track/6xTv7ao4KotZoZIKF7sSpH) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [SON.](https://open.spotify.com/artist/4mA4iGdnkLQWW3klqWHbsJ) | [Take Me Higher](https://open.spotify.com/album/6ZAJdlXE9dpcgDmsJTdxGX) | 3:13 | 2024-06-17 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-20 | 2024-06-29 |
 | [Take Me There](https://open.spotify.com/track/0OkvQpiUUatDmq6guD4C8B) | [shams](https://open.spotify.com/artist/4IB8myYRu05MrYjhHFfH3x), [Mystic Joy](https://open.spotify.com/artist/3clFVe1tCR0DsVU0xtq5JV) | [Take Me There](https://open.spotify.com/album/5MUu5GYpjKwC7IDXjYIGWx) | 3:35 | 2024-06-13 | 2024-06-17 |
+| [Take Me There \- VIP Remix](https://open.spotify.com/track/60LaZm7Q522tOrxJ6g6iYR) | [shams](https://open.spotify.com/artist/4IB8myYRu05MrYjhHFfH3x), [Mystic Joy](https://open.spotify.com/artist/3clFVe1tCR0DsVU0xtq5JV) | [Take Me There \(Remixes\)](https://open.spotify.com/album/0GqoBsa7wgaefMcoLryzDT) | 2:46 | 2024-07-14 |  |
 | [Talamanca](https://open.spotify.com/track/6tkNASWMUnomZ4ixePCUAY) | [Scissors](https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4) | [Talamanca](https://open.spotify.com/album/7JR24UsUPwhMVz0RHezHFE) | 2:51 | 2024-05-17 | 2024-05-25 |
 | [Talamanca](https://open.spotify.com/track/3gSnJK5ACmMetzCY7tyy1l) | [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh), [Cabriolet Paris](https://open.spotify.com/artist/2Thn292Skc8PQDq1KSgNkv) | [Talamanca](https://open.spotify.com/album/6xx9OZt2fao4AxjsINvLZS) | 2:46 | 2024-07-12 |  |
 | [That Song With The Kick Drum](https://open.spotify.com/track/5TO3kVu0IMPs9KGDUkprjK) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [That Song With The Kick Drum](https://open.spotify.com/album/6piLxUrATeF7bybEoqvzys) | 2:55 | 2024-06-16 | 2024-06-21 |

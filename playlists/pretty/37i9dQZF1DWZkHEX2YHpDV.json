@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: Four Year Strong",
-  "num_followers": 454094,
+  "num_followers": 454125,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "I Hope You Choke!",
-      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/0bvzffajdVurM2Bi4hsdEq"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 179575,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/27C5LnNArKlYH0dF2CONst"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "The Crucible Of Life",
+        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        },
+        {
+          "name": "Intervals",
+          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
+        }
+      ],
+      "duration_ms": 159414,
+      "name": "Love & Co",
+      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -739,22 +759,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 194039,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "More Like A Crash",
         "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
@@ -767,6 +771,22 @@
       "duration_ms": 167880,
       "name": "More Like A Crash",
       "url": "https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 194039,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -919,26 +939,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Crucible Of Life",
-        "url": "https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        },
-        {
-          "name": "Intervals",
-          "url": "https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl"
-        }
-      ],
-      "duration_ms": 159414,
-      "name": "Love & Co",
-      "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Under the Influence(r)",
         "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Too Quick to Forgive",
-        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
-      },
-      "artists": [
-        {
-          "name": "Balance And Composure",
-          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
-        }
-      ],
-      "duration_ms": 261345,
-      "name": "Savior Mode",
-      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "PIN-EYE",
         "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Too Quick to Forgive",
+        "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 261345,
+      "name": "Savior Mode",
+      "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 198226,
       "name": "Not Joking",
       "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Giant's Despair",
-        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 224888,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Down, Down",
+        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Down, Down",
+      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Don't Listen To My Voicemail",
         "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 178432,
       "name": "Don't Listen To My Voicemail",
       "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Down, Down",
-        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Down, Down",
-      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Really Big Shrimp",
-        "url": "https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 247025,
-      "name": "Really Big Shrimp",
-      "url": "https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "SCUMBAG",
         "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186910,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Really Big Shrimp",
+        "url": "https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 247025,
+      "name": "Really Big Shrimp",
+      "url": "https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "duration_ms": 162342,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 158035,
       "name": "Girl Of My Dreams",
       "url": "https://open.spotify.com/track/5HMj2Nt9YDyOwuzSzTMV0u"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/47M4ApugDGCX2YWX6R0HNF"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 162342,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/4FdzgBWmZltkH34EcdKTpE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1691,6 +1691,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Botch Job",
+        "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
+      },
+      "artists": [
+        {
+          "name": "Cursive",
+          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Botch Job",
+      "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -1707,18 +1739,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "My Life In Subtitles",
-        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
       },
       "artists": [
         {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 172893,
-      "name": "Can We Just Get High?",
-      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+      "duration_ms": 162741,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1743,18 +1775,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm"
+        "name": "It's Sorted",
+        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
         }
       ],
-      "duration_ms": 162741,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC"
+      "duration_ms": 244586,
+      "name": "Life in a Bag",
+      "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1771,22 +1803,6 @@
       "duration_ms": 218311,
       "name": "The Fullness of My Being",
       "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "It's Sorted",
-        "url": "https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH"
-      },
-      "artists": [
-        {
-          "name": "Cheekface",
-          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Life in a Bag",
-      "url": "https://open.spotify.com/track/0nFnvVnps2gOH1YU5xAHD0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "In Lieu Of Flowers",
-        "url": "https://open.spotify.com/album/7AD9yxetOfulcCBFHvyuxv"
-      },
-      "artists": [
-        {
-          "name": "Aaron West and The Roaring Twenties",
-          "url": "https://open.spotify.com/artist/59cc2f0IvGu6YVEtY4cS0p"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Spitting In The Wind",
-      "url": "https://open.spotify.com/track/3Lu7oymnqlIGUxcHgNShsK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "suraksha",
         "url": "https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb"
       },
@@ -1887,34 +1887,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Big Al Dente",
-        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+        "name": "In Lieu Of Flowers",
+        "url": "https://open.spotify.com/album/7AD9yxetOfulcCBFHvyuxv"
       },
       "artists": [
         {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+          "name": "Aaron West and The Roaring Twenties",
+          "url": "https://open.spotify.com/artist/59cc2f0IvGu6YVEtY4cS0p"
         }
       ],
-      "duration_ms": 170970,
-      "name": "Big Al Dente",
-      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Botch Job",
-        "url": "https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3"
-      },
-      "artists": [
-        {
-          "name": "Cursive",
-          "url": "https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Botch Job",
-      "url": "https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo"
+      "duration_ms": 214741,
+      "name": "Spitting In The Wind",
+      "url": "https://open.spotify.com/track/3Lu7oymnqlIGUxcHgNShsK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1939,6 +1923,22 @@
       "duration_ms": 140260,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0AnQTSzoVydSl1LT2F0AFS"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1995,6 +1995,22 @@
       "duration_ms": 231204,
       "name": "Tired Of Lying",
       "url": "https://open.spotify.com/track/1ipYgQ1THFKqTBH5D5Cg25"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2071,22 +2087,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Joan of Hill",
-        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
-      },
-      "artists": [
-        {
-          "name": "Carly Cosgrove",
-          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "Joan of Hill",
-      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "F.A.K.E.",
         "url": "https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH"
       },
@@ -2099,6 +2099,22 @@
       "duration_ms": 137397,
       "name": "F.A.K.E.",
       "url": "https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Joan of Hill",
+        "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
+      },
+      "artists": [
+        {
+          "name": "Carly Cosgrove",
+          "url": "https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Joan of Hill",
+      "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Passing Through The Hourglass",
-        "url": "https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA"
-      },
-      "artists": [
-        {
-          "name": "Kaonashi",
-          "url": "https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I"
-        }
-      ],
-      "duration_ms": 238821,
-      "name": "Passing Through The Hourglass",
-      "url": "https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/4HElf8g3yBVGo2usx3v68S"
       },
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Passing Through The Hourglass",
+        "url": "https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA"
+      },
+      "artists": [
+        {
+          "name": "Kaonashi",
+          "url": "https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I"
+        }
+      ],
+      "duration_ms": 238821,
+      "name": "Passing Through The Hourglass",
+      "url": "https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "In Loving Memory",
         "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
       },
@@ -2191,6 +2207,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Permanent Repeat",
+        "url": "https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK"
+      },
+      "artists": [
+        {
+          "name": "Macseal",
+          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
+        }
+      ],
+      "duration_ms": 219067,
+      "name": "Easily Undone",
+      "url": "https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "to me",
         "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
       },
@@ -2203,6 +2235,26 @@
       "duration_ms": 243329,
       "name": "to me",
       "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "goin' for the garbage plate",
+        "url": "https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        },
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "duration_ms": 242120,
+      "name": "goin' for the garbage plate",
+      "url": "https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2343,22 +2395,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/1O9j7XqwyfVL7gPnbgpLTu"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/2UkNW9dXXWmGjy9sOrgwQ2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "THANK GOD I'M A CELEBRITY",
         "url": "https://open.spotify.com/album/5NygT71nKXV8J6X6Petsou"
       },
@@ -2371,6 +2407,22 @@
       "duration_ms": 194827,
       "name": "THANK GOD I'M A CELEBRITY",
       "url": "https://open.spotify.com/track/6tVRJPq4cEVD8ys7lnbieb"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/1O9j7XqwyfVL7gPnbgpLTu"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/2UkNW9dXXWmGjy9sOrgwQ2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2391,22 +2443,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Dark Paradise",
-        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Cardinals",
         "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
       },
@@ -2423,22 +2459,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "goin' for the garbage plate",
-        "url": "https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J"
+        "name": "Dark Paradise",
+        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
       },
       "artists": [
         {
-          "name": "CLIFFDIVER",
-          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
-        },
-        {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
         }
       ],
-      "duration_ms": 242120,
-      "name": "goin' for the garbage plate",
-      "url": "https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7"
+      "duration_ms": 146360,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2495,22 +2527,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Would You Even",
         "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 172014,
       "name": "Would You Even",
       "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Permanent Repeat",
-        "url": "https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK"
-      },
-      "artists": [
-        {
-          "name": "Macseal",
-          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
-        }
-      ],
-      "duration_ms": 219067,
-      "name": "Easily Undone",
-      "url": "https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA"
     },
     {
       "added_at": "2024-07-12 04:00:00",

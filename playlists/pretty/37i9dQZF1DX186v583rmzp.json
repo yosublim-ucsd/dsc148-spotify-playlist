@@ -1,6 +1,6 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8676309,
+  "num_followers": 8677676,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -287,6 +287,26 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -299,22 +319,6 @@
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Black On Both Sides",
-        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
-      },
-      "artists": [
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Ms. Fat Booty",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -343,38 +347,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+        "name": "Black On Both Sides",
+        "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         }
       ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "Strictly 4 My N.I.G.G.A.Z...",
-        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Keep Ya Head Up",
-      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+      "duration_ms": 223546,
+      "name": "Ms. Fat Booty",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -391,6 +375,22 @@
       "duration_ms": 231493,
       "name": "Intergalactic - Remastered 2009",
       "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
       },
@@ -507,18 +523,18 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
       },
       "artists": [
         {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Nigga Please",
         "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 291053,
+      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -687,22 +703,6 @@
       "duration_ms": 291266,
       "name": "Protect Ya Neck",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 291053,
-      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
-      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "I Am...",
-        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Nas Is Like",
-      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Aquemini",
         "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 324373,
       "name": "Rosa Parks",
       "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "I Am...",
+        "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Nas Is Like",
+      "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Mecca And The Soul Brother",
         "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "Extended Revolution",
         "url": "https://open.spotify.com/album/3b8DtdLKq4oD6e1DLQUgBU"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 298773,
       "name": "People Everyday - Metamorphosis Mix",
       "url": "https://open.spotify.com/track/1nSUJWYRqsafI8Bh1X0ypp"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2024-06-28 10:14:13",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-06-28 10:14:13",
       "album": {
-        "name": "Warriorz",
-        "url": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
-      },
-      "artists": [
-        {
-          "name": "M.O.P.",
-          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "Ante Up (Robbin Hoodz Theory)",
-      "url": "https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b"
-    },
-    {
-      "added_at": "2024-06-28 10:14:13",
-      "album": {
         "name": "I Got Next",
         "url": "https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 289906,
       "name": "Step into a World (Rapture's Delight)",
       "url": "https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY"
+    },
+    {
+      "added_at": "2024-06-28 10:14:13",
+      "album": {
+        "name": "Warriorz",
+        "url": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
+      },
+      "artists": [
+        {
+          "name": "M.O.P.",
+          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "Ante Up (Robbin Hoodz Theory)",
+      "url": "https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b"
     },
     {
       "added_at": "2024-06-28 10:14:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: MARO & NASAYA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,972 likes - 96 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,978 likes - 96 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,375 likes - 51 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,398 likes - 51 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2wZ8DVY0VgO8OA0THlG3hD) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 3:58 |
 | 51 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 
-Snapshot ID: `ZpByAAAAAACCF8eaMZJRfUMcbIthX9KV`
+Snapshot ID: `ZpHDgAAAAADpL52HjlprOLs2kXXZI1KM`

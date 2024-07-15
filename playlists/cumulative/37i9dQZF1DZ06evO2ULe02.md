@@ -2,7 +2,7 @@
 
 ### [This Is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
 
-> This is Aidan Bissett\. أغاني روعة في قايمة أغاني واحدة.
+> This is Aidan Bissett\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 23 songs - 1 hr 8 min
 

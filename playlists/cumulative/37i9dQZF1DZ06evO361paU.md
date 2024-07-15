@@ -2,7 +2,7 @@
 
 ### [This Is Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU)
 
-> This is Lenny Kravitz\. The essential tracks, all in one playlist.
+> This Is Lenny Kravitz\. Los temas esenciales, todos en una lista.
 
 81 songs - 5 hr 55 min
 
@@ -50,7 +50,7 @@
 | [It’s Just Another Fine Day \(In This Universe of Love\)](https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 6:19 | 2024-05-26 |  |
 | [Johnny Cash](https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL) | 6:18 | 2024-04-24 | 2024-07-06 |
 | [Johnny Cash](https://open.spotify.com/track/3OrWg1VRhAjy2n27ixedud) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 6:18 | 2023-08-09 | 2023-08-11 |
-| [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 | 2023-07-28 | 2024-07-14 |
+| [Lady](https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Baptism](https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R) | 4:15 | 2023-07-28 |  |
 | [Let It Ride](https://open.spotify.com/track/1M0uguPWc1ncUhV6iZOoXS) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 3:35 | 2024-05-27 | 2024-07-04 |
 | [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2023-07-28 |  |
 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 | 2023-07-28 | 2024-05-29 |
@@ -67,7 +67,7 @@
 | [Ride \(Edit\)](https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo) | 3:40 | 2023-12-13 |  |
 | [Ride \- Edit](https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ride \(Edit\)](https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9) | 3:40 | 2023-07-28 | 2023-12-14 |
 | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Road to Freedom \(from the Netflix Film "Rustin"\)](https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN) | 3:40 | 2023-11-10 |  |
-| [Rock And Roll Is Dead](https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 3:23 | 2023-07-28 |  |
+| [Rock And Roll Is Dead](https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 3:23 | 2023-07-28 | 2024-07-15 |
 | [Sitting On Top Of The World](https://open.spotify.com/track/6UNJHji7usBOTG9J3pKRQ3) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 3:15 | 2023-07-28 | 2023-11-11 |
 | [Something Beautiful](https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:41 | 2023-07-28 |  |
 | [Spirit in My Heart](https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 4:33 | 2024-05-28 |  |

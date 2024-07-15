@@ -54501,6 +54501,24 @@
     },
     {
       "album": {
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/4gP3dSqjFacHYYUWXAUIGw"
+      },
+      "artists": [
+        {
+          "name": "Aria Zadeh",
+          "url": "https://open.spotify.com/artist/0nKgHhTQdbeac1Zuz6qKJM"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Stargaze",
+      "url": "https://open.spotify.com/track/4zGKNj8uaXLHiqx7SDTqsr"
+    },
+    {
+      "album": {
         "name": "Starry Eyed",
         "url": "https://open.spotify.com/album/5VpDdbLf6y1jdd8rGU6swI"
       },

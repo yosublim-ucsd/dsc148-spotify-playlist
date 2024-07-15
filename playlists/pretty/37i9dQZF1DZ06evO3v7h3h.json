@@ -1,12 +1,12 @@
 {
-  "description": "This is: Rashid. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Rashid. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 46276,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABbWSuN8Aue32wUAbXK2dmX",
+  "snapshot_id": "ZpHDgAAAAADVkZ2Z0jtbPhveQ86X9jct",
   "tracks": [
     {
       "added_at": null,
@@ -536,25 +536,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "E Se",
-      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
+      "duration_ms": 242384,
+      "name": "N\u00e3o Sabem de Nada",
+      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
     },
     {
       "added_at": null,
@@ -583,32 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00eanesis",
-        "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "G\u00eanesis",
-      "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
       "artists": [
         {
@@ -616,9 +576,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 242384,
-      "name": "N\u00e3o Sabem de Nada",
-      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
+      "duration_ms": 273320,
+      "name": "E Se",
+      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
     },
     {
       "added_at": null,
@@ -643,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vinhos & Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 216100,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/1NKc3yIiSuAKuZvTk1h62d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00eanesis",
+        "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "G\u00eanesis",
+      "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 214612,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 206982,
       "name": "A Fila Anda",
       "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Homem do Mundo (feat. Criolo)",
+      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
     },
     {
       "added_at": null,
@@ -831,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Homem do Mundo (feat. Criolo)",
-      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROJO CARMES\u00cd",
         "url": "https://open.spotify.com/album/5Vga0Q1mohQ81WLTaWTHQj"
       },
@@ -871,6 +871,38 @@
       "duration_ms": 149760,
       "name": "\u00bfTe Quedas Conmigo?",
       "url": "https://open.spotify.com/track/623XPwxBQuqKe7YPwYrQl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "M\u00fasica de Guerra",
+      "url": "https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob"
     },
     {
       "added_at": null,
@@ -915,58 +947,6 @@
       "duration_ms": 464853,
       "name": "L\u00edngua dos Campe\u00f5es",
       "url": "https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crise",
-        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "M\u00fasica de Guerra",
-      "url": "https://open.spotify.com/track/4RvbMmeHmEuxAVbODGx5Ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seis Sons",
-        "url": "https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        }
-      ],
-      "duration_ms": 243070,
-      "name": "Ainda Tem",
-      "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
     },
     {
       "added_at": null,
@@ -1023,6 +1003,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seis Sons",
+        "url": "https://open.spotify.com/album/5TuZ4UVa6g5ZtGBe9YOPKY"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        }
+      ],
+      "duration_ms": 243070,
+      "name": "Ainda Tem",
+      "url": "https://open.spotify.com/track/6yZLNopsiNqLwu8NNoCDEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posf\u00e1cio",
         "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 177679,
+      "name": "Vagabundo Qualquer",
+      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 192361,
       "name": "Outra Dose 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 177679,
-      "name": "Vagabundo Qualquer",
-      "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
     },
     {
       "added_at": null,

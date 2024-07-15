@@ -1,12 +1,12 @@
 {
-  "description": "This Is Harold Budd. Los temas esenciales, todos en una lista.",
-  "num_followers": 5144,
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "num_followers": 5146,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACmrGFWGBH8CxG2S+cqbKaA",
+  "snapshot_id": "ZpHDgAAAAABJ+tKAvORa4mGNgkLx9t8I",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Above Chiangmai - Remastered 2004",
-      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 133706,
-      "name": "The Chill Air - Remastered 2004",
-      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 426533,
-      "name": "First Light - Remastered 2004",
-      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+      "duration_ms": 238240,
+      "name": "Wind In Lonely Fences - Remastered 2004",
+      "url": "https://open.spotify.com/track/31aECKjYHYUwWApiOaLLU2"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+      "duration_ms": 254000,
+      "name": "Failing Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/6AlMwXm6QSGErCZU2rhtoi"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Arcades",
-        "url": "https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane 12-21",
         "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 204960,
       "name": "Jane 16 (For Pale Saints)",
       "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 85586,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -899,6 +899,46 @@
       "duration_ms": 380453,
       "name": "Spoken Roses",
       "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 321226,
+      "name": "A Minute, a Day, No More",
+      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     }
   ],
   "unique_name": "This Is Harold Budd",

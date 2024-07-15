@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Jerry Rivera",
-  "num_followers": 1916641,
+  "num_followers": 1916689,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 280453,
       "name": "Flor P\u00e1lida",
       "url": "https://open.spotify.com/track/47TyfLrGhYHHyyQWk64d0M"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "PLIS",
-        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -335,22 +315,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -407,18 +371,38 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+        "name": "PLIS",
+        "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 180494,
-      "name": "No Se Vale",
-      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -475,22 +459,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Galy Galiano 30 A\u00f1os",
         "url": "https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 438026,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 180494,
+      "name": "No Se Vale",
+      "url": "https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
       "artists": [
         {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+      "duration_ms": 287893,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
         }
       ],
-      "duration_ms": 287893,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Yo Deluxe",
-        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 208774,
-      "name": "Es Un Secreto",
-      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Fue Culpa De Usted",
         "url": "https://open.spotify.com/album/25DTevb3waLjeothJ0ADfZ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 207423,
       "name": "Fue Culpa De Usted",
       "url": "https://open.spotify.com/track/38WoHatz30sMtk0JvZUIpO"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Yo Deluxe",
+        "url": "https://open.spotify.com/album/5dJ9HMLXMR6ALFr4dcBLPU"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        }
+      ],
+      "duration_ms": 208774,
+      "name": "Es Un Secreto",
+      "url": "https://open.spotify.com/track/1Wi86cXpfWulFjThqb3JcF"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Si T\u00fa Me Besas",
+        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 260920,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Si T\u00fa Me Besas",
-        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 260920,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
-        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 193046,
-      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
         "name": "Por Tu Placer",
         "url": "https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
+        "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 193046,
+      "name": "EL YATE (feat. Sergio George) - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1455,26 +1455,6 @@
       "duration_ms": 360666,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1547,6 +1527,26 @@
       "duration_ms": 296133,
       "name": "P\u00e1ginas De Amor",
       "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
         "name": "Mi Confesi\u00f3n",
         "url": "https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 198001,
       "name": "Mi Confesi\u00f3n",
       "url": "https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
     }
   ],
   "unique_name": "Salsa Nation",

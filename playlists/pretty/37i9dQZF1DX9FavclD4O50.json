@@ -1,6 +1,6 @@
 {
   "description": "Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument. Clara Rockmore on cover.",
-  "num_followers": 3671,
+  "num_followers": 3677,
   "original_name": "theremin",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,66 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
+        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Carnival of the Animals, XIII. Le Cygne (the Swan): Le carnaval des animaux: No. 12, Le cygne [arr. For theremin and piano]",
+      "url": "https://open.spotify.com/track/711N5UifKDb37inhUFJFtE"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Music Out Of The Moon: Music Unusual Featuring The Theremin",
+        "url": "https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO"
+      },
+      "artists": [
+        {
+          "name": "Dr. Samuel J. Hoffman",
+          "url": "https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2"
+        },
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Moon Moods",
+      "url": "https://open.spotify.com/track/7dEzL6ExaXLQKVibtqjxQY"
+    },
+    {
+      "added_at": "2024-01-03 19:32:35",
+      "album": {
+        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
+      },
+      "artists": [
+        {
+          "name": "Arthur Sharpe",
+          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "The Electrical Life of Louis Wain",
+      "url": "https://open.spotify.com/track/3OIr1z2lkcHFukhBUJlYsl"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
         "url": "https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn"
       },
@@ -209,66 +269,6 @@
       "url": "https://open.spotify.com/track/5VwIJShgYEzxbZGPaDx9Uk"
     },
     {
-      "added_at": "2024-01-03 19:32:35",
-      "album": {
-        "name": "The Electrical Life of Louis Wain (Original Motional Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH"
-      },
-      "artists": [
-        {
-          "name": "Arthur Sharpe",
-          "url": "https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "The Electrical Life of Louis Wain",
-      "url": "https://open.spotify.com/track/3OIr1z2lkcHFukhBUJlYsl"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Music Out Of The Moon: Music Unusual Featuring The Theremin",
-        "url": "https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO"
-      },
-      "artists": [
-        {
-          "name": "Dr. Samuel J. Hoffman",
-          "url": "https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2"
-        },
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Moon Moods",
-      "url": "https://open.spotify.com/track/7dEzL6ExaXLQKVibtqjxQY"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
-        "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Carnival of the Animals, XIII. Le Cygne (the Swan): Le carnaval des animaux: No. 12, Le cygne [arr. For theremin and piano]",
-      "url": "https://open.spotify.com/track/711N5UifKDb37inhUFJFtE"
-    },
-    {
       "added_at": "2021-08-17 02:35:20",
       "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
@@ -295,6 +295,26 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Theremin",
+        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        },
+        {
+          "name": "Giulietta Koch",
+          "url": "https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Les Berceaux, Op. 23 No. 1 (Arr. for Theremin and Piano)",
+      "url": "https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
         "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 256760,
       "name": "18 morceaux, Op. 72, No. 2. Berceuse. 18 morceaux, Op. 72: No. 2, Berceuse (Arr. For theremin and piano)",
       "url": "https://open.spotify.com/track/3paKSv3Hjjdfyck1A2O060"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremin",
-        "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "Giulietta Koch",
-          "url": "https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Les Berceaux, Op. 23 No. 1 (Arr. for Theremin and Piano)",
-      "url": "https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -459,6 +459,26 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Fantasias for Theremin and String Quartet",
+        "url": "https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        },
+        {
+          "name": "American Contemporary Music Ensemble",
+          "url": "https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO"
+        }
+      ],
+      "duration_ms": 216021,
+      "name": "Oakunar Lynntuja (Strange Birds)",
+      "url": "https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)",
         "url": "https://open.spotify.com/album/4m0wpnl7Db40DawENitc78"
       },
@@ -483,26 +503,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Fantasias for Theremin and String Quartet",
-        "url": "https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        },
-        {
-          "name": "American Contemporary Music Ensemble",
-          "url": "https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO"
-        }
-      ],
-      "duration_ms": 216021,
-      "name": "Oakunar Lynntuja (Strange Birds)",
-      "url": "https://open.spotify.com/track/7ns1CAe4jXKSlJ0lz5AZsr"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "A Happy Place",
         "url": "https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 129500,
       "name": "A Happy Place",
       "url": "https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Theremin Ameriqu\u00e9: The American Songbook",
-        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
-      },
-      "artists": [
-        {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Somewhere over the Rainbow",
-      "url": "https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -559,6 +543,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Theremin Ameriqu\u00e9: The American Songbook",
+        "url": "https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY"
+      },
+      "artists": [
+        {
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Music In and On The Air",
         "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 476933,
       "name": "Bachianas Brasileiras: No. 5, Aria",
       "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+    },
+    {
+      "added_at": "2022-01-11 03:14:58",
+      "album": {
+        "name": "Elegies for Theremin & Voice",
+        "url": "https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+        }
+      ],
+      "duration_ms": 250824,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -603,26 +619,6 @@
       "duration_ms": 297040,
       "name": "O Cease Thy Singing, Maiden Fair, Op. 4: No. 4",
       "url": "https://open.spotify.com/track/5rnadrQ6ud2mfwonOcC2s6"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Music from the Ether: Original Works for Theremin",
-        "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
-      },
-      "artists": [
-        {
-          "name": "Vladimir Komarov",
-          "url": "https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ"
-        },
-        {
-          "name": "Lydia Kavina",
-          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
-        }
-      ],
-      "duration_ms": 527173,
-      "name": "Voice of Theremin",
-      "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
     },
     {
       "added_at": "2024-01-03 19:32:35",
@@ -657,80 +653,24 @@
       "url": "https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq"
     },
     {
-      "added_at": "2022-01-11 03:14:58",
-      "album": {
-        "name": "Elegies for Theremin & Voice",
-        "url": "https://open.spotify.com/album/2hvh70v7UAkTDB6ERVabQH"
-      },
-      "artists": [
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
-        }
-      ],
-      "duration_ms": 250824,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/4orEgXNanMh8G0UQHxpmLh"
-    },
-    {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremonial (Dark & Exotic Theremin Music)",
-        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
+        "name": "Music from the Ether: Original Works for Theremin",
+        "url": "https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE"
       },
       "artists": [
         {
-          "name": "Javier D\u00edez Ena & His Theremins",
-          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Luna Hiena",
-      "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "touch! don touch! music for theremin",
-        "url": "https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH"
-      },
-      "artists": [
-        {
-          "name": "Moritz Eggert",
-          "url": "https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791"
-        },
-        {
-          "name": "Barbara Buchholz",
-          "url": "https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3"
+          "name": "Vladimir Komarov",
+          "url": "https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ"
         },
         {
           "name": "Lydia Kavina",
           "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
-        },
-        {
-          "name": "Kammerensemble Neue Musik Berlin",
-          "url": "https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI"
         }
       ],
-      "duration_ms": 525280,
-      "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
-      "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
-        "name": "Mysterons Theme",
-        "url": "https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq"
-      },
-      "artists": [
-        {
-          "name": "Radio Science Orchestra",
-          "url": "https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci"
-        }
-      ],
-      "duration_ms": 148402,
-      "name": "Mysterons Theme",
-      "url": "https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F"
+      "duration_ms": 527173,
+      "name": "Voice of Theremin",
+      "url": "https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -763,22 +703,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Plays the Theremin",
-        "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
-      },
-      "artists": [
-        {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
-        }
-      ],
-      "duration_ms": 310800,
-      "name": "Keler Tsoler",
-      "url": "https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Theremonial (Dark & Exotic Theremin Music)",
         "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
       },
@@ -788,9 +712,53 @@
           "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
         }
       ],
-      "duration_ms": 187617,
-      "name": "Berlin Ghost Opera",
-      "url": "https://open.spotify.com/track/707014S3juTp8VeyuI5t2C"
+      "duration_ms": 164440,
+      "name": "Luna Hiena",
+      "url": "https://open.spotify.com/track/4h652ABDkLBsAzOolrJ6ke"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Mysterons Theme",
+        "url": "https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq"
+      },
+      "artists": [
+        {
+          "name": "Radio Science Orchestra",
+          "url": "https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci"
+        }
+      ],
+      "duration_ms": 148402,
+      "name": "Mysterons Theme",
+      "url": "https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "touch! don touch! music for theremin",
+        "url": "https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH"
+      },
+      "artists": [
+        {
+          "name": "Moritz Eggert",
+          "url": "https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791"
+        },
+        {
+          "name": "Barbara Buchholz",
+          "url": "https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3"
+        },
+        {
+          "name": "Lydia Kavina",
+          "url": "https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv"
+        },
+        {
+          "name": "Kammerensemble Neue Musik Berlin",
+          "url": "https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI"
+        }
+      ],
+      "duration_ms": 525280,
+      "name": "Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster (From Outer Space)",
+      "url": "https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -811,22 +779,18 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Tarnow: Theremin Sonatas",
-        "url": "https://open.spotify.com/album/70enQr7njOjNNd08lKp72H"
+        "name": "Plays the Theremin",
+        "url": "https://open.spotify.com/album/2m3gsqca2ZhFNLppQ7Ciwq"
       },
       "artists": [
         {
-          "name": "Christopher Tarnow",
-          "url": "https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq"
-        },
-        {
-          "name": "Carolina Eyck",
-          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
         }
       ],
-      "duration_ms": 462626,
-      "name": "Theremin Sonata No. 1: I. Moderato",
-      "url": "https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz"
+      "duration_ms": 310800,
+      "name": "Keler Tsoler",
+      "url": "https://open.spotify.com/track/4UqGOyOoFBHe5JuIhEc7K5"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -851,18 +815,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremin Classique",
-        "url": "https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY"
+        "name": "Tarnow: Theremin Sonatas",
+        "url": "https://open.spotify.com/album/70enQr7njOjNNd08lKp72H"
       },
       "artists": [
         {
-          "name": "Armen Ra",
-          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+          "name": "Christopher Tarnow",
+          "url": "https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq"
+        },
+        {
+          "name": "Carolina Eyck",
+          "url": "https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Casta Diva",
-      "url": "https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ"
+      "duration_ms": 462626,
+      "name": "Theremin Sonata No. 1: I. Moderato",
+      "url": "https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -879,6 +847,22 @@
       "duration_ms": 148440,
       "name": "Epilogue (feat. Bill Brovold)",
       "url": "https://open.spotify.com/track/5XNBczbTHqGhgIqCYZJP6d"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Theremonial (Dark & Exotic Theremin Music)",
+        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
+      },
+      "artists": [
+        {
+          "name": "Javier D\u00edez Ena & His Theremins",
+          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "Berlin Ghost Opera",
+      "url": "https://open.spotify.com/track/707014S3juTp8VeyuI5t2C"
     },
     {
       "added_at": "2021-08-17 02:35:20",
@@ -951,6 +935,22 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
+        "name": "Theremin Classique",
+        "url": "https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY"
+      },
+      "artists": [
+        {
+          "name": "Armen Ra",
+          "url": "https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Casta Diva",
+      "url": "https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
         "name": "Theremin",
         "url": "https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Theremonial (Dark & Exotic Theremin Music)",
-        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
-      },
-      "artists": [
-        {
-          "name": "Javier D\u00edez Ena & His Theremins",
-          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Waikiki Spleen",
-      "url": "https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0"
-    },
-    {
-      "added_at": "2021-08-17 02:35:20",
-      "album": {
         "name": "Around the World in 80 Days",
         "url": "https://open.spotify.com/album/0FcE5hJVgG3PxtihdCMKz1"
       },
@@ -1003,18 +987,34 @@
     {
       "added_at": "2021-08-17 02:35:20",
       "album": {
-        "name": "Music for Heavenly Bodies",
-        "url": "https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE"
+        "name": "Playing Theremin",
+        "url": "https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS"
       },
       "artists": [
         {
-          "name": "Paul Tanner",
-          "url": "https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23"
+          "name": "Kepa Lehtinen",
+          "url": "https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz"
         }
       ],
-      "duration_ms": 143973,
-      "name": "Lost in the Stars",
-      "url": "https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv"
+      "duration_ms": 168077,
+      "name": "Kontula",
+      "url": "https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T"
+    },
+    {
+      "added_at": "2021-08-17 02:35:20",
+      "album": {
+        "name": "Theremonial (Dark & Exotic Theremin Music)",
+        "url": "https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7"
+      },
+      "artists": [
+        {
+          "name": "Javier D\u00edez Ena & His Theremins",
+          "url": "https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Waikiki Spleen",
+      "url": "https://open.spotify.com/track/79UG5zCh9xcADra04a1Oy0"
     }
   ],
   "unique_name": "theremin",

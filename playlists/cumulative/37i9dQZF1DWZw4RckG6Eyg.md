@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-226 songs - 12 hr 35 min
+227 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [a stranger with my face](https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [a stranger with my face](https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP) | 3:51 | 2023-11-29 | 2024-07-05 |
 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 | 2022-11-30 | 2023-11-30 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-30 | 2023-04-30 |
+| [All We Wanna Do](https://open.spotify.com/track/3PZN1KTfFyZ3ZG4IvsVVvH) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [All We Wanna Do](https://open.spotify.com/album/6iiozkGWIugAbJL9wy3Bso) | 3:06 | 2023-11-29 |  |
 | [Allure](https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp) | [Hotel Fiction](https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R) | [Enjoy Your Stay](https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk) | 3:10 | 2022-11-30 | 2023-11-30 |
 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 | 2023-11-29 |  |
 | [Another Sketch](https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:50 | 2022-11-30 | 2023-11-30 |
@@ -85,7 +86,7 @@
 | [Girls](https://open.spotify.com/track/1J7PghJCXSry2djsrflxdq) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM) | 1:59 | 2022-11-30 | 2023-05-24 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-11-30 | 2023-04-27 |
 | [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2022-11-30 | 2023-11-30 |
-| [Give Me A Smile](https://open.spotify.com/track/3XpEfp4eVMlQLWgcmH0gXe) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [A Beat To Make It Better](https://open.spotify.com/album/0mPYnptHWRwszkj40dVgda) | 3:27 | 2023-11-29 |  |
+| [Give Me A Smile](https://open.spotify.com/track/3XpEfp4eVMlQLWgcmH0gXe) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [A Beat To Make It Better](https://open.spotify.com/album/0mPYnptHWRwszkj40dVgda) | 3:27 | 2023-11-29 | 2024-07-15 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-11-30 | 2023-11-30 |
 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 | 2022-11-30 | 2023-09-21 |
 | [Golden Air](https://open.spotify.com/track/6yqjhpToIqTYlkO7dFfA9f) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Sun's Signature \(Extended\)](https://open.spotify.com/album/308zHvDzU8ok2hzZ4szOEZ) | 5:42 | 2022-11-30 | 2023-11-30 |

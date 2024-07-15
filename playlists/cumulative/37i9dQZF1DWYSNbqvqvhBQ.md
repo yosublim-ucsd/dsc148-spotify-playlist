@@ -4,7 +4,7 @@
 
 > Je blijft luisteren! Nieuwe songs en hits van dit moment\. Cover: The Indien
 
-453 songs - 1 day 2 hr 9 min
+455 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-08-03 | 2023-11-08 |
 | [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 | 2024-04-05 |
 | [Fuck You Want](https://open.spotify.com/track/7ziRXgzWzuMMkHTuiGtWq2) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [Fuck You Want](https://open.spotify.com/album/0AxrF6bZ2RN3AJftT8cFNS) | 3:05 | 2024-04-04 | 2024-06-07 |
+| [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-14 |  |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2024-06-20 |  |
 | [Girl & A Gun](https://open.spotify.com/track/4jZ1LJqcXbtNO5EZZVAkzC) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Girl & A Gun](https://open.spotify.com/album/0KoTtRAsQvauiehrOzaKh6) | 3:42 | 2023-04-28 | 2023-09-22 |
 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2024-07-01 |  |
@@ -376,12 +377,12 @@
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-24 | 2023-06-23 |
 | [That Is You](https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [That Is You](https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X) | 3:46 | 2024-04-18 |  |
 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 | 2023-04-06 | 2023-08-25 |
-| [The Albatross](https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:03 | 2024-04-18 |  |
+| [The Albatross](https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:03 | 2024-04-18 | 2024-07-15 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-04 | 2023-10-13 |
 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-05-25 | 2023-09-30 |
 | [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 | 2023-09-29 | 2023-12-08 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-06 |  |
-| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-30 |  |
+| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-30 | 2024-07-15 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2023-12-14 | 2024-06-21 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-04-04 | 2024-06-21 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-02-23 | 2023-03-31 |
@@ -428,6 +429,7 @@
 | [War Ends Today](https://open.spotify.com/track/4TDdbNg50GKvJXKka4uddq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/508yoawSJgvgXUAz7EFcgQ) | 3:17 | 2023-12-08 | 2024-04-19 |
 | [War Ends Today](https://open.spotify.com/track/6PKD7kKGS2TmdCLqBaaxYO) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [War Ends Today](https://open.spotify.com/album/7wrdmw5ThJYT67TBsYOVxC) | 3:17 | 2023-12-06 | 2024-05-14 |
 | [Waste Me](https://open.spotify.com/track/5j7xAAC6wM40T7AI6aweHt) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Nowhere Near the Sky](https://open.spotify.com/album/3IUhNyQcjQvhcPGufNPgdG) | 3:25 | 2023-02-23 | 2023-03-11 |
+| [Wastelands](https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq) | 3:40 | 2024-07-14 |  |
 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 | 2023-02-23 | 2023-03-25 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [We Were Never Really Friends](https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:24 | 2023-08-31 | 2023-10-13 |

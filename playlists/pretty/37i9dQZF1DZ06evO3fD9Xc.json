@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
+  "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
   "num_followers": 103042,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAChWy8dMVGnMhE/4jp2Pcj/",
+  "snapshot_id": "ZpHDgAAAAABSJmxYH4Bn9sbkJ6lwDEJl",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pu\u00f1etas Mentales",
-        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 139571,
-      "name": "Pu\u00f1etas Mentales",
-      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
+      "duration_ms": 233244,
+      "name": "Pu\u00f1o de Diamantes",
+      "url": "https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Pu\u00f1etas Mentales",
+        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 233244,
-      "name": "Pu\u00f1o de Diamantes",
-      "url": "https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB"
+      "duration_ms": 139571,
+      "name": "Pu\u00f1etas Mentales",
+      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dos Balas",
         "url": "https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb"
       },
@@ -355,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+      "duration_ms": 220213,
+      "name": "Mi Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
       "duration_ms": 157638,
       "name": "Menos Mal Que Me Quer\u00edas",
       "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Mi Raz\u00f3n de Ser",
-      "url": "https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI"
     },
     {
       "added_at": null,
@@ -579,42 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "C\u00f3mo le Hago",
-        "url": "https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG"
-      },
-      "artists": [
-        {
-          "name": "Paulina B",
-          "url": "https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 179823,
-      "name": "C\u00f3mo le Hago",
-      "url": "https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -627,6 +591,22 @@
       "duration_ms": 242091,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,
@@ -651,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+        "name": "C\u00f3mo le Hago",
+        "url": "https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Paulina B",
+          "url": "https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z"
         },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 295967,
-      "name": "Yo Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
+      "duration_ms": 179823,
+      "name": "C\u00f3mo le Hago",
+      "url": "https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
       "duration_ms": 226708,
       "name": "Siempre Te Voy a Querer",
       "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 295967,
+      "name": "Yo Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Netflix",
         "url": "https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 195674,
       "name": "Netflix",
       "url": "https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": null,

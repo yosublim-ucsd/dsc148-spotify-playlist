@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > XG's 1st World Tour, The First Howl is landing in Singapore\. Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,975 likes - 14 songs - 42 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 63,930 likes - 14 songs - 42 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

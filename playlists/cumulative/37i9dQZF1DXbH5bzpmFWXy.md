@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Adriel Favela, Tito Double P, Juanchito en portada.
 
-505 songs - 1 day 3 hr 10 min
+506 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [El Deportivo](https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Seguimos En El Ruedo](https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA) | 3:12 | 2022-12-16 | 2023-07-01 |
 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 | 2022-09-23 | 2023-01-10 |
 | [El Día de Nuestra Suerte](https://open.spotify.com/track/3mRNhbCKWupqs2F6VwFUMu) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Día de Nuestra Suerte](https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK) | 4:01 | 2022-09-30 | 2023-02-04 |
-| [El Es Mi Apa](https://open.spotify.com/track/2bHjBisRpg4sWhKSsLupyQ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Primicia de Sinaloa](https://open.spotify.com/artist/6imCgydVatQQYY0tQ8V6XD) | [El Es Mi Apa](https://open.spotify.com/album/5POuHaE3KgomOUXp9aDO3H) | 2:43 | 2024-06-07 |  |
+| [El Es Mi Apa](https://open.spotify.com/track/2bHjBisRpg4sWhKSsLupyQ) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Primicia de Sinaloa](https://open.spotify.com/artist/6imCgydVatQQYY0tQ8V6XD) | [El Es Mi Apa](https://open.spotify.com/album/5POuHaE3KgomOUXp9aDO3H) | 2:43 | 2024-06-07 | 2024-07-15 |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-10-28 | 2023-12-06 |
 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-02-03 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-08-31 | 2024-02-24 |
@@ -348,6 +348,7 @@
 | [Ondeado V2](https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw) | [El Makabelico](https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Ondeado V2](https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl) | 5:55 | 2024-07-12 |  |
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2022-06-01 | 2022-09-01 |
 | [Otro Día, Otra Aventura](https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Otro Día, Otra Aventura](https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j) | 3:20 | 2023-11-17 |  |
+| [Oye Cantinero](https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Oye Cantinero](https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx) | 3:16 | 2024-07-12 |  |
 | [Pa Mis Loc@S](https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Pa Mis Loc@S](https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm) | 3:01 | 2023-02-03 | 2023-03-11 |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-12-16 | 2023-03-11 |
 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-05 | 2023-12-06 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "42k",
+        "url": "https://open.spotify.com/album/4oPQ8FvuinCo1fDvy3zlC1"
+      },
+      "artists": [
+        {
+          "name": "Burlywood",
+          "url": "https://open.spotify.com/artist/0pan20E0tRAnijsV2FHB92"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164389,
+      "name": "42k",
+      "url": "https://open.spotify.com/track/1UZilIP2fRVKqjghaUPxVE"
+    },
+    {
+      "album": {
         "name": "A New Era",
         "url": "https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 309243,
       "name": "ALFA",
       "url": "https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH"
+    },
+    {
+      "album": {
+        "name": "All Good Things Come Again",
+        "url": "https://open.spotify.com/album/0uocgJ4E5CX8MVKwpF0e9S"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195978,
+      "name": "All Good Things Come Again",
+      "url": "https://open.spotify.com/track/6NimrXAWhoIER3JbPAFOJE"
     },
     {
       "album": {
@@ -542,6 +578,24 @@
       "duration_ms": 221284,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F"
+    },
+    {
+      "album": {
+        "name": "capri",
+        "url": "https://open.spotify.com/album/7t5kCVKdnJrq0MunUefvLq"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152291,
+      "name": "capri",
+      "url": "https://open.spotify.com/track/70Tx222qN8fC4BLyQiQELH"
     },
     {
       "album": {
@@ -1212,6 +1266,24 @@
       "duration_ms": 158584,
       "name": "Free Range",
       "url": "https://open.spotify.com/track/5DkPiFdxLbSSgZmaDJPntv"
+    },
+    {
+      "album": {
+        "name": "galactic mist",
+        "url": "https://open.spotify.com/album/4l2pH3im2jibiLVKV6bT4e"
+      },
+      "artists": [
+        {
+          "name": "Greene Labyrinth",
+          "url": "https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146416,
+      "name": "galactic mist",
+      "url": "https://open.spotify.com/track/47r0C9cedi8DZpIXLOZGE4"
     },
     {
       "album": {
@@ -2044,6 +2116,24 @@
       "duration_ms": 181224,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/5AiI3I1ayQFAhFvOG6N6Qh"
+    },
+    {
+      "album": {
+        "name": "Lemon Child",
+        "url": "https://open.spotify.com/album/5uThNBvv3WW0zbBNqPCGhP"
+      },
+      "artists": [
+        {
+          "name": "zeelax",
+          "url": "https://open.spotify.com/artist/03D808OZznKYdiJRbAfOhC"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Lemon Child",
+      "url": "https://open.spotify.com/track/3QZoeBElUE59JRRZ8o5DDG"
     },
     {
       "album": {
@@ -3276,6 +3366,24 @@
       "duration_ms": 152543,
       "name": "She Knows Best",
       "url": "https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7cpkmpw2giXPQnCV3MQGzH"
+      },
+      "artists": [
+        {
+          "name": "makers mask",
+          "url": "https://open.spotify.com/artist/2QtcIrpLf2jtdMDs8gF3Q9"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154571,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4HLuHzUEFKGFkYBUaaU7TW"
     },
     {
       "album": {

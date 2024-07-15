@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1164733,
+  "num_followers": 1164709,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -331,38 +331,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 188982,
-      "name": "Cinnamon Bread",
-      "url": "https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 188982,
+      "name": "Cinnamon Bread",
+      "url": "https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Precious Days",
@@ -827,6 +811,22 @@
       "duration_ms": 165829,
       "name": "Precious Days",
       "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "always you",
-        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
-      },
-      "artists": [
-        {
-          "name": "COULOU",
-          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
-        }
-      ],
-      "duration_ms": 188799,
-      "name": "always you",
-      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 356522,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "always you",
+        "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
+      },
+      "artists": [
+        {
+          "name": "COULOU",
+          "url": "https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl"
+        }
+      ],
+      "duration_ms": 188799,
+      "name": "always you",
+      "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
+        "name": "Joy Alchemy",
+        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
       },
       "artists": [
         {
-          "name": "Chloe Foy",
-          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
         }
       ],
-      "duration_ms": 231200,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
+      "duration_ms": 225378,
+      "name": "Southern Facing Room",
+      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy Alchemy",
-        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
       "artists": [
         {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+          "name": "Chloe Foy",
+          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Southern Facing Room",
-      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
+      "duration_ms": 231200,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Is There Something Wrong With Me?",
-      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 243026,
       "name": "IOU",
       "url": "https://open.spotify.com/track/566x9tfHqcnSM2LgxdIjR8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Is There Something Wrong With Me?",
+      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
     },
     {
       "added_at": "2023-10-27 04:00:00",

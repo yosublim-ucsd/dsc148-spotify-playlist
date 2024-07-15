@@ -2836,7 +2836,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 62362,
       "name": "Beautiful Thoughts",
       "url": "https://open.spotify.com/track/2RTqC4jJ4Ee0kTvucJF5y4"
@@ -7582,7 +7582,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62371,
       "name": "Dim Starlight",
       "url": "https://open.spotify.com/track/3LYjkM8uuEA3LU5bjV0LzU"
@@ -8180,7 +8180,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61250,
       "name": "Dreams In Florence",
       "url": "https://open.spotify.com/track/7eDneB5sBpTyy4fwvil9Vo"
@@ -8306,7 +8306,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62566,
       "name": "Drifting Moon",
       "url": "https://open.spotify.com/track/2FjtlimNnYKEe27a5IxLJ0"
@@ -11684,7 +11684,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62371,
       "name": "Galaxies",
       "url": "https://open.spotify.com/track/7k2AXi70RO2IeUoBOyjXSv"
@@ -14640,7 +14640,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 60606,
       "name": "Inspire Reimagined",
       "url": "https://open.spotify.com/track/7fHL05CaCEwHiCmifjDrIG"
@@ -16422,7 +16422,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62776,
       "name": "Love In My Heart Arr. For Solo Piano",
       "url": "https://open.spotify.com/track/77NNel8OPOHfQ5heh3Ky5o"
@@ -17758,7 +17758,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 60245,
       "name": "More Reimagined",
       "url": "https://open.spotify.com/track/6dbli76sy552rueJTzo2pi"
@@ -19234,7 +19234,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61695,
       "name": "Nostalgic Sentiment - Piano Version",
       "url": "https://open.spotify.com/track/7BKWmDFoSkiLsl6U06Kqbf"
@@ -20091,6 +20091,24 @@
     },
     {
       "album": {
+        "name": "Our Life",
+        "url": "https://open.spotify.com/album/4geK44LV3BgMO4WtPp3pkS"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60918,
+      "name": "Our Life - Grand Piano Version",
+      "url": "https://open.spotify.com/track/2vrhkDp8gLMWzQcg9wGj4Q"
+    },
+    {
+      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/65yeCVnowVFBRZ2wAedAZG"
       },
@@ -20934,7 +20952,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 60865,
       "name": "Perfect Love - Grand Piano Version",
       "url": "https://open.spotify.com/track/3ROeBFvphwZmgTfo2GfZcJ"
@@ -21950,7 +21968,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 60899,
       "name": "Reflecting Light",
       "url": "https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH"
@@ -22476,7 +22494,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 61822,
       "name": "Rest Now",
       "url": "https://open.spotify.com/track/7kdSVLap8upJ3epPieCXKp"
@@ -22890,7 +22908,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62566,
       "name": "Rings",
       "url": "https://open.spotify.com/track/53hp4mu97NvYNg0cMz8nqq"
@@ -25162,7 +25180,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61285,
       "name": "Soft Waves Arr. For Piano",
       "url": "https://open.spotify.com/track/2yQlIVNhe1tZzU62IdTH0Y"
@@ -26732,7 +26750,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 61951,
       "name": "Sunday Evening Lullaby Arr. For Piano",
       "url": "https://open.spotify.com/track/77hSDP9cLsu45qYRDl1IKQ"
@@ -28262,7 +28280,7 @@
       ],
       "date_added": "2022-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 62566,
       "name": "Time And Light",
       "url": "https://open.spotify.com/track/0cpsAC1TOA0H9gTEjbUBzS"

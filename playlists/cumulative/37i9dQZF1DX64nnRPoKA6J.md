@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-205 songs - 13 hr 47 min
+206 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Harley & Rose](https://open.spotify.com/track/3fjA8feYyRg4wcxpNhyi73) | [The Black Sorrows](https://open.spotify.com/artist/1iES8Ckei3eLmSBPo4vwU7) | [Harley and Rose](https://open.spotify.com/album/25H4oWFqYPhwEhu0s7yXrk) | 3:54 | 2020-11-24 | 2022-07-28 |
 | [Have A Look](https://open.spotify.com/track/5VFkGPOMHDLwe3ZMlrizPX) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:36 | 2020-11-24 | 2022-07-01 |
 | [Heartbreaker \(feat\. Jay\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 | 2020-11-24 | 2022-05-11 |
+| [Here Comes the Hotstepper \- Heartical Mix](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5) | 4:10 | 2020-11-24 |  |
 | [Hey Jealousy](https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Outside Looking In: The Best Of The Gin Blossoms](https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f) | 3:56 | 2020-11-24 | 2022-07-29 |
 | [Higher](https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:16 | 2020-11-24 |  |
 | [Hold My Hand](https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 4:18 | 2020-11-24 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [The Tide Is High \- Radio Mix](https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Atomic Kitten](https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN) | 3:25 | 2020-11-24 | 2022-07-25 |
 | [Things Can Only Get Better](https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy) | [D:Ream](https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA) | [On Vol.1](https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj) | 4:18 | 2020-11-24 | 2022-07-29 |
 | [This Is It \- 7" Version](https://open.spotify.com/track/3GK2EhaV9XoMmzdKkKqfMt) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6) | [This Is It: The Very Best Of](https://open.spotify.com/album/7FuozEPHEiQ4kvEuSqigsZ) | 3:39 | 2020-11-24 | 2022-07-24 |
-| [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 | 2020-11-24 |  |
+| [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 | 2020-11-24 | 2024-07-15 |
 | [Tip Of My Tongue](https://open.spotify.com/track/40HMJnJtC3p2R8GfjeGuJb) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Rewind: The Best Of](https://open.spotify.com/album/0DpXZUUfBkgiXadzf3l0Jp) | 4:12 | 2020-11-24 | 2022-07-29 |
 | [To Be with You \- 2010 Remastered Version](https://open.spotify.com/track/2VVkqfGIVZdM6j0bDoaMkI) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\] \(Japan\)](https://open.spotify.com/album/5Hk4dywt6etWsbRZo2X7D3) | 3:30 | 2020-11-24 | 2022-07-29 |
 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 | 2020-11-24 | 2023-02-05 |

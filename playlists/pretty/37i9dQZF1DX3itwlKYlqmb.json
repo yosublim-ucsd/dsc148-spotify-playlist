@@ -1,6 +1,6 @@
 {
   "description": "La \ud83c\udf53da va pa la albercada \ud83e\udd42\ud83d\ude08",
-  "num_followers": 78685,
+  "num_followers": 79056,
   "original_name": "La Albercada",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -371,42 +371,6 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -427,6 +391,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -599,30 +599,6 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -659,6 +635,30 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 188666,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "CRAZYZ",
+      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -727,18 +743,18 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 204815,
-      "name": "CRAZYZ",
-      "url": "https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya"
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -771,22 +787,6 @@
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 231246,
-      "name": "LAGUNAS",
-      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
         "name": "Una Vida Pasada",
         "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 238447,
+      "name": "RUBICON",
+      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "MERCEDES (feat. Oscar Maydon)",
         "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
       },
@@ -1123,42 +1139,6 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "J\u00e1lale alv",
-        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "J\u00e1lale alv",
-      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 238447,
-      "name": "RUBICON",
-      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
+        "name": "J\u00e1lale alv",
+        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 109866,
+      "name": "J\u00e1lale alv",
+      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Casi Completa",
+      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -1263,18 +1279,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "PRESENTE",
-        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Casi Completa",
-      "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -1299,26 +1319,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "Proyecto X",
+        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "Proyecto X",
+      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Brinca - Spotify Singles",
         "url": "https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 216786,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "Proyecto X",
-        "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "Proyecto X",
-      "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "A Puro Dolor",
+        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
       },
@@ -1687,6 +1703,22 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/12OCyIviCYgQF87NHlb5Qi"
       },
@@ -1711,38 +1743,6 @@
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "A Puro Dolor",
-        "url": "https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Rich Kid",
-        "url": "https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Rich Kid",
-      "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
-    },
-    {
-      "added_at": "2024-07-11 00:19:56",
-      "album": {
         "name": "Sin Tanto Royo",
         "url": "https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 148573,
       "name": "Sin Tanto Royo",
       "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
+    },
+    {
+      "added_at": "2024-07-11 00:19:56",
+      "album": {
+        "name": "Rich Kid",
+        "url": "https://open.spotify.com/album/5WkySwRE6mgYRqN8PKySqW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Rich Kid",
+      "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Dembow Freson",
-        "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
       "artists": [
         {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 128824,
-      "name": "Dembow Freson",
-      "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
     },
     {
       "added_at": "2024-07-11 00:19:56",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2024-07-11 00:19:56",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+        "name": "Dembow Freson",
+        "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
         }
       ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+      "duration_ms": 128824,
+      "name": "Dembow Freson",
+      "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
     },
     {
       "added_at": "2024-07-11 00:19:56",

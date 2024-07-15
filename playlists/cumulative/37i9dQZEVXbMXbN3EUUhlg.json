@@ -4260,7 +4260,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 133360,
       "name": "Casca de Bala",
       "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
@@ -13335,6 +13335,28 @@
     },
     {
       "album": {
+        "name": "Intenso, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177567,
+      "name": "Mela\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ZI7HOZoBqrV3lFlHKJshI"
+    },
+    {
+      "album": {
         "name": "Melhor Dia 13 - Era Uma Vez",
         "url": "https://open.spotify.com/album/7pOA35nvimi9SPkyRpQMXL"
       },
@@ -13470,7 +13492,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
@@ -16112,7 +16134,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 212608,
       "name": "O Triste \u00c9 Que Eu Te Amo",
       "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
@@ -23544,7 +23566,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 243870,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"

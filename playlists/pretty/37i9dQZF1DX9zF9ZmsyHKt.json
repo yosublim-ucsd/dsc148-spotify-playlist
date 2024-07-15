@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330856,
+  "num_followers": 330867,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "BRABA",
-        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 129782,
-      "name": "BRABA",
-      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Z\u00e9lia Duncan",
         "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 170800,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "BRABA",
+        "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 129782,
+      "name": "BRABA",
+      "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sempre a Cantar",
         "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 276426,
       "name": "Sorriso Aberto",
       "url": "https://open.spotify.com/track/01XyRFxUKPLVOWglamSV2K"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1w6qsdlglZBK5wYxTH6Ndb"
       },
@@ -1463,6 +1431,38 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "TODXS",
         "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Baldin de Gelo",
-        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
-      },
-      "artists": [
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Baldin de Gelo",
-      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Louca",
         "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 159000,
       "name": "Louca",
       "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Baldin de Gelo",
+        "url": "https://open.spotify.com/album/2u554H05WIo4j2nMB7IRc9"
+      },
+      "artists": [
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Baldin de Gelo",
+      "url": "https://open.spotify.com/track/2sv7wfMG7h8EJl3j2KxTGZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Coisas Do Meu Pessoal",
+        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
+      },
+      "artists": [
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Marias",
+      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/57gugEndr41sLF4rRVcUte"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 199500,
       "name": "100% Feminista",
       "url": "https://open.spotify.com/track/4hLSdyrFDMjRJS3zhU2ZQz"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Coisas Do Meu Pessoal",
-        "url": "https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB"
-      },
-      "artists": [
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Marias",
-      "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
     },
     {
       "added_at": "2022-10-07 03:01:33",

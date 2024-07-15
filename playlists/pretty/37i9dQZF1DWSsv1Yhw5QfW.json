@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 126328,
+  "num_followers": 126382,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -363,38 +363,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "All Out Of Love",
         "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 341746,
       "name": "Making Love Out of Nothing at All",
       "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -439,6 +423,22 @@
       "duration_ms": 246933,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 249249,
-      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
-      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Earth Is...",
         "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 272626,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+        "url": "https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 249249,
+      "name": "Take My Breath Away (as heard in Top Gun) (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 372466,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5rpo9tGeFdtPSQtE5bbPDL"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 242453,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 372466,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5rpo9tGeFdtPSQtE5bbPDL"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 299760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Nothing But The Best (Remastered)",
         "url": "https://open.spotify.com/album/54jgcQieeiqZEuA8fb5CsZ"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
+      "duration_ms": 299760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -839,6 +823,22 @@
       "duration_ms": 229746,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9"
     },
     {
       "added_at": "2024-06-14 18:07:20",

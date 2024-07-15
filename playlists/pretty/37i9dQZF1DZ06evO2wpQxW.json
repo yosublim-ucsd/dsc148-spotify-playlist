@@ -1,12 +1,12 @@
 {
-  "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 675522,
+  "description": "This is Calibre 50. The essential tracks, all in one playlist.",
+  "num_followers": 675602,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAA65G2CIayPbybQTEeuponA",
+  "snapshot_id": "ZpHDgAAAAADPYEI4UlOxTPqGYuKMacJH",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 199786,
       "name": "Se Quedaron A Tres Pasos",
       "url": "https://open.spotify.com/track/2UyyNcLL7gRuzEjIMCq7np"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/4VZ0UOLwnTnQSLZJme5lyQ"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Recompensa",
-        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Ni Que Estuvieras Tan Buena",
-      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Recompensa",
+        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Ni Que Estuvieras Tan Buena",
+      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Ni Mand\u00e1ndote A Hacer",
-      "url": "https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 126880,
       "name": "Las Ultras",
       "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Ni Mand\u00e1ndote A Hacer",
+      "url": "https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renovar O Morir",
-        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Callejero Y Mujeriego",
-      "url": "https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 213466,
       "name": "Frijoles Con Panela",
       "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renovar O Morir",
+        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Callejero Y Mujeriego",
+      "url": "https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Deja De Joder",
-      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 213466,
       "name": "La Tatema",
       "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Deja De Joder",
+      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historias de la Calle",
-        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Amor Limosnero",
-      "url": "https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S"
+      "duration_ms": 212480,
+      "name": "El Ingeniero",
+      "url": "https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G"
     }
   ],
   "unique_name": "This Is Calibre 50",

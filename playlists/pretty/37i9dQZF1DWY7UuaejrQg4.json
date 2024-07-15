@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 84157,
+  "num_followers": 84162,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "diary 001",
         "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
       },
@@ -239,18 +255,34 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+      "duration_ms": 577199,
+      "name": "Venice Bitch",
+      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -287,22 +319,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 577199,
-      "name": "Venice Bitch",
-      "url": "https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 225955,
-      "name": "Sincerity Is Scary",
-      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Lover Boy",
         "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 225955,
+      "name": "Sincerity Is Scary",
+      "url": "https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 208200,
       "name": "No Going Back",
       "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 196588,
-      "name": "Give Yourself A Try",
-      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -947,22 +931,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "tkm",
-      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 196588,
+      "name": "Give Yourself A Try",
+      "url": "https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "tkm",
+      "url": "https://open.spotify.com/track/7eAp42zD2PbKJMvHVcHHF8"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Lenses",
         "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 193761,
       "name": "Better",
       "url": "https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Swimming Pool Summer",
-      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Life of a Wallflower, Vol. 1",
         "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Drunk in L.A.",
-      "url": "https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ"
+      "duration_ms": 213000,
+      "name": "Swimming Pool Summer",
+      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1383,6 +1367,22 @@
       "duration_ms": 230928,
       "name": "There\u2019s A Honey",
       "url": "https://open.spotify.com/track/7aZsTdQGRdbOhxBWA7ZMHv"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Drunk in L.A.",
+      "url": "https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Love Is Dead",
+        "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 231359,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Love Is Dead",
-        "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 231359,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Say, Can You Hear",
         "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 235225,
       "name": "affection",
       "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1583,22 +1599,6 @@
       "duration_ms": 203560,
       "name": "Arms",
       "url": "https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9"
     },
     {
       "added_at": "2024-03-18 13:23:17",

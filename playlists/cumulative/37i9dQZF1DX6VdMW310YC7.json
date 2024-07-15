@@ -10192,7 +10192,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 253548,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p"
@@ -24176,6 +24176,28 @@
       "duration_ms": 191557,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
+    },
+    {
+      "album": {
+        "name": "Rise Above",
+        "url": "https://open.spotify.com/album/19EPuUvxNIptO3sEJRhJAm"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199247,
+      "name": "Rise Above",
+      "url": "https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH"
     },
     {
       "album": {

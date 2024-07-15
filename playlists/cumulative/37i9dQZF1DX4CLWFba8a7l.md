@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-79 songs - 4 hr 14 min
+80 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2024-05-31 |  |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 |  |
 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 | 2024-05-31 |  |
-| [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 |  |
+| [Physical Medicine](https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Physical Medicine](https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO) | 3:35 | 2024-07-04 | 2024-07-15 |
 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 | 2024-05-31 |  |
 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-05-31 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-05-31 |  |
@@ -67,6 +67,7 @@
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-06 |  |
 | [Snack](https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel) | [Snack](https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg) | 2:33 | 2024-06-20 |  |
 | [SORRY](https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 3:12 | 2024-05-31 |  |
+| [Speedracer](https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV) | 2:58 | 2024-05-31 |  |
 | [Still Have Room](https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Still Have Room](https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1) | 2:22 | 2024-05-31 |  |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2024-05-31 |  |
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-27 |  |

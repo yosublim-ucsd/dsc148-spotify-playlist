@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Your future favourite pop stars, fresh for the UK\. Cover: Phoebe Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,506 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 172219,
+  "num_followers": 172238,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAD/+ZYwGpppv0/nWAmgEte2",
+  "snapshot_id": "ZpHDgAAAAABm1J9wDTsoIQg9NV67WIJs",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 244823,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
+      "duration_ms": 155562,
+      "name": "Tell Me I\u2019m Alive",
+      "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 167827,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
+      "duration_ms": 244823,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
       "duration_ms": 216546,
       "name": "Six Feet Under The Stars",
       "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
     },
     {
       "added_at": null,
@@ -444,9 +460,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 192659,
-      "name": "Are You There?",
-      "url": "https://open.spotify.com/track/2HVTOpuW5zmutgWItqrWSI"
+      "duration_ms": 167827,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189542,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 220091,
-      "name": "The Way You Miss Me",
-      "url": "https://open.spotify.com/track/6Gu9DQoTMkJGVwnewBo2ij"
+      "duration_ms": 180599,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI"
     },
     {
       "added_at": null,
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
         {
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 182450,
-      "name": "Pretty Venom (Interlude)",
-      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+      "duration_ms": 182450,
+      "name": "Pretty Venom (Interlude)",
+      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
     },
     {
       "added_at": null,
@@ -683,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 174895,
-      "name": "Melancholy Kaleidoscope",
-      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Dark Side of Your Room",
-      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits 2.0 (Guest Features Edition)",
         "url": "https://open.spotify.com/album/2XWO1jEuigClyJgkMvk3rx"
       },
@@ -735,6 +687,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Dark Side of Your Room",
+      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 174895,
+      "name": "Melancholy Kaleidoscope",
+      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painting Flowers",
         "url": "https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205773,
       "name": "Painting Flowers",
       "url": "https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,

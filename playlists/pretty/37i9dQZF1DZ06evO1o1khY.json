@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 17789,
+  "num_followers": 17845,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACLcZD6uaSzXHvvpYUXPCdR",
+  "snapshot_id": "ZpHDgAAAAAA17A6Qv6pj6HWQAdinUJUt",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
         "url": "https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Nut Quick",
-      "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ehhthang Ehhthang",
         "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
@@ -295,6 +295,42 @@
       "duration_ms": 179200,
       "name": "No Bih",
       "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 113844,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Nut Quick",
+      "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"
     },
     {
       "added_at": null,
@@ -319,6 +355,26 @@
       "duration_ms": 174000,
       "name": "Pop It (GloRilla, Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
     },
     {
       "added_at": null,
@@ -363,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 142702,
-      "name": "Finesse Da Glo (feat. Finesse2Tymes)",
-      "url": "https://open.spotify.com/track/1nKgk560ybSt7eZLtFAa9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internet Trolls (feat. Hitkidd)",
         "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
       },
@@ -399,6 +435,22 @@
       "duration_ms": 140572,
       "name": "Internet Trolls (feat. Hitkidd)",
       "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
     },
     {
       "added_at": null,
@@ -431,22 +483,6 @@
       "duration_ms": 170711,
       "name": "Out Loud Thinking",
       "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
     },
     {
       "added_at": null,
@@ -487,22 +523,6 @@
       "duration_ms": 143992,
       "name": "Embarrassing (feat. GloRilla)",
       "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
     },
     {
       "added_at": null,
@@ -691,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 175463,
+      "name": "PHATNALL",
+      "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN"
       },
@@ -707,22 +743,6 @@
       "duration_ms": 135280,
       "name": "Can\u2019t Get \u2018Em",
       "url": "https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 175463,
-      "name": "PHATNALL",
-      "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
     },
     {
       "added_at": null,

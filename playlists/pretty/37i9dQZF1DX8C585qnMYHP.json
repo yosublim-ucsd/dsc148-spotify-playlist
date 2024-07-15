@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. COLA REN on cover. Artwork by Thami Nabil",
-  "num_followers": 166665,
+  "num_followers": 166767,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -77,20 +77,20 @@
       "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+        "name": "jacarandas",
+        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
       },
       "artists": [
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
         }
       ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
+      "duration_ms": 138480,
+      "name": "jacarandas",
+      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -113,20 +113,20 @@
       "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "jacarandas",
-        "url": "https://open.spotify.com/album/71D7J3LYlSavHKexzYJrAa"
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
       },
       "artists": [
         {
-          "name": "Joven Tom",
-          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
         }
       ],
-      "duration_ms": 138480,
-      "name": "jacarandas",
-      "url": "https://open.spotify.com/track/75fBTxkwqSdGUUljwmPstY"
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Other Means",
         "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 264000,
       "name": "Other Means",
       "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Acryl",
-        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
-      },
-      "artists": [
-        {
-          "name": "Damian Dalla Torre",
-          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Acryl",
-      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Garden Dream",
@@ -603,6 +587,22 @@
       "duration_ms": 169226,
       "name": "Easy Fun",
       "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Acryl",
+        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
+      },
+      "artists": [
+        {
+          "name": "Damian Dalla Torre",
+          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Acryl",
+      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "\u6279 PIE",
-        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
-      },
-      "artists": [
-        {
-          "name": "nnscya",
-          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "pie \u6279",
-      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
         "name": "Silenzio Solare",
         "url": "https://open.spotify.com/album/0RS06bmkOLmoTIgHqmyn00"
       },
@@ -737,20 +721,20 @@
       "url": "https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Snake EP",
-        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+        "name": "\u6279 PIE",
+        "url": "https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz"
       },
       "artists": [
         {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+          "name": "nnscya",
+          "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
         }
       ],
-      "duration_ms": 260500,
-      "name": "333333",
-      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
+      "duration_ms": 177249,
+      "name": "pie \u6279",
+      "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -767,6 +751,22 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Snake EP",
+        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "333333",
+      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "\u305d\u306e\u524d\u591c",
-        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
-      },
-      "artists": [
-        {
-          "name": "The Wisely Brothers",
-          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
-        }
-      ],
-      "duration_ms": 136905,
-      "name": "clarinette de nuit",
-      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1091,6 +1075,22 @@
       "duration_ms": 270557,
       "name": "MissU",
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "\u305d\u306e\u524d\u591c",
+        "url": "https://open.spotify.com/album/0Hli1pRq11bDnu31ujJRmm"
+      },
+      "artists": [
+        {
+          "name": "The Wisely Brothers",
+          "url": "https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb"
+        }
+      ],
+      "duration_ms": 136905,
+      "name": "clarinette de nuit",
+      "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
+        "name": "Un Sasso Nero",
+        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
       },
       "artists": [
         {
-          "name": "s\u00fas",
-          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
         }
       ],
-      "duration_ms": 260970,
-      "name": "Abdolmen",
-      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
+      "duration_ms": 341875,
+      "name": "Un Sasso Nero",
+      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Un Sasso Nero",
-        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
       },
       "artists": [
         {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
         }
       ],
-      "duration_ms": 341875,
-      "name": "Un Sasso Nero",
-      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
+      "duration_ms": 260970,
+      "name": "Abdolmen",
+      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
     },
     {
       "added_at": "2024-03-06 06:00:00",
@@ -1317,6 +1317,50 @@
       "url": "https://open.spotify.com/track/3JrB4axmp1RRQrTJQ06cSw"
     },
     {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
+        "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        },
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Siggi String Quartet",
+          "url": "https://open.spotify.com/artist/6IHgrJ6aOjbi0hanAmgkQK"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "\u80ce\u76e4 (feat. Salyu, Magn\u00fas J\u00f3hann, Siggi String Quartet)",
+      "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
+    },
+    {
+      "added_at": "2024-03-06 06:00:00",
+      "album": {
+        "name": "Your Light Cannot Be Extinguished",
+        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "Your Light Cannot Be Extinguished",
+      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "I Need Time",
@@ -1359,34 +1403,6 @@
     {
       "added_at": "2024-03-06 06:00:00",
       "album": {
-        "name": "\u3042\u306a\u305f\u306e\u9aa8\u304c\u3001\u30aa\u30d1\u30fc\u30eb\u306b\u304b\u308f\u308b\u9803",
-        "url": "https://open.spotify.com/album/4tYdfajjjVCRxPWGZSnSOY"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        },
-        {
-          "name": "Salyu",
-          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
-        },
-        {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Siggi String Quartet",
-          "url": "https://open.spotify.com/artist/6IHgrJ6aOjbi0hanAmgkQK"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "\u80ce\u76e4 (feat. Salyu, Magn\u00fas J\u00f3hann, Siggi String Quartet)",
-      "url": "https://open.spotify.com/track/3T42zYzfImtTxNdep9QS06"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
         "name": "Formation",
         "url": "https://open.spotify.com/album/0mBFdbbK7gtvOEdjDPwEQJ"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 275555,
       "name": "S1 T3",
       "url": "https://open.spotify.com/track/1GHj5JkSdgDiKpVwsrDymz"
-    },
-    {
-      "added_at": "2024-03-06 06:00:00",
-      "album": {
-        "name": "Your Light Cannot Be Extinguished",
-        "url": "https://open.spotify.com/album/23lTiMQzWhsiss19jcqm7S"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 216253,
-      "name": "Your Light Cannot Be Extinguished",
-      "url": "https://open.spotify.com/track/6VmBlMV17gP8S8RllHickT"
     },
     {
       "added_at": "2024-06-19 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Sebastian Llosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,309 likes - 431 songs - 22 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,301 likes - 431 songs - 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 25211,
+  "num_followers": 25258,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -343,18 +359,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Atrevido Y Diferente",
-        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 308040,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -391,8 +407,24 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Atrevido Y Diferente",
+        "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -400,25 +432,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -471,22 +487,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Triste canci\u00f3n",
-      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 187280,
       "name": "En Preparacion",
       "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 342520,
+      "name": "Triste canci\u00f3n",
+      "url": "https://open.spotify.com/track/11dn3mAagE0hOvd35rBNeV"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "En Tiempo De Amor",
+        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
+      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "En Tiempo De Amor",
-        "url": "https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Ser\u00e1 Qu\u00e9 S\u00cd",
-      "url": "https://open.spotify.com/track/0rBmvZ4ftXKpxsocjsbAun"
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+      "duration_ms": 230713,
+      "name": "Cuarto para las Dos",
+      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1107,22 +1123,6 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 230713,
-      "name": "Cuarto para las Dos",
-      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1207,6 +1207,38 @@
       "duration_ms": 181394,
       "name": "No Estoy Muerto",
       "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "\u00c9xitos Fruko",
+        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297358,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1231,38 +1263,6 @@
       "duration_ms": 161632,
       "name": "Tendo",
       "url": "https://open.spotify.com/track/7H3mL8tOH1VjHXuOH0AFOb"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
-        "name": "\u00c9xitos Fruko",
-        "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297358,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Quien Entiende Este Amor",
-      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Quien Entiende Este Amor",
+      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
     },
     {
       "added_at": "2024-07-02 23:02:31",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-07-02 23:02:31",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2024-07-02 23:02:31",
-      "album": {
         "name": "Frankie Ruiz La Leyenda",
         "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 288333,
       "name": "Pa Que Me Llames",
       "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
+    },
+    {
+      "added_at": "2024-07-02 23:02:31",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2024-07-02 23:02:31",

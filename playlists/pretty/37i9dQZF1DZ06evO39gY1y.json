@@ -1,12 +1,12 @@
 {
-  "description": "This is Charles Ans. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 226203,
+  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
+  "num_followers": 226253,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACjurQ3FMT/rrFxrGxDEuvI",
+  "snapshot_id": "ZpHDgAAAAAAdaQEhW5j7dcnA1Q+7Hx3v",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suena En Mi Barrio",
         "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -811,86 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Toca Perder",
-        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
+        "name": "El \u00daltimo Tango",
+        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
       },
       "artists": [
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
         }
       ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vegetales Con Pescado",
-        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+      "duration_ms": 250382,
+      "name": "El \u00daltimo Tango",
+      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     },
     {
       "added_at": null,
@@ -915,6 +855,90 @@
       "duration_ms": 209737,
       "name": "Ma\u00f1ana Vas a Estar Ausente",
       "url": "https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Toca Perder",
+        "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vegetales Con Pescado",
+        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
     },
     {
       "added_at": null,
@@ -971,30 +995,6 @@
       "duration_ms": 198787,
       "name": "Villana",
       "url": "https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El \u00daltimo Tango",
-        "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
-      },
-      "artists": [
-        {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 250382,
-      "name": "El \u00daltimo Tango",
-      "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
     },
     {
       "added_at": null,

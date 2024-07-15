@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 145207,
+  "num_followers": 145238,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABNotCO8L6PdMfBcY6yirur",
+  "snapshot_id": "ZpHDgAAAAABUPqpvofH344nTfYMa2NWc",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 191710,
-      "name": "All For Us",
-      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -343,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 30260,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/2pzle6gc8hnsckQdECy2J0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -383,6 +347,22 @@
       "duration_ms": 175826,
       "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 30260,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/2pzle6gc8hnsckQdECy2J0"
     },
     {
       "added_at": null,
@@ -615,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lift Off",
-        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "Lift Off",
-      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Let the Sun Shine",
-      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
       },
@@ -667,6 +615,38 @@
       "duration_ms": 295653,
       "name": "Majesty (with Labrinth & feat. Eminem)",
       "url": "https://open.spotify.com/track/38TgLPNHsPzgqri5G4SPun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Let the Sun Shine",
+      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
     },
     {
       "added_at": null,
@@ -807,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
       },
       "artists": [
         {
@@ -816,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+      "duration_ms": 178000,
+      "name": "Sexy MF",
+      "url": "https://open.spotify.com/track/1ph7yHAVYzeq1MdcYBfAA8"
     },
     {
       "added_at": null,
@@ -839,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Sexy MF",
-      "url": "https://open.spotify.com/track/1ph7yHAVYzeq1MdcYBfAA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iridium",
         "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
       },
@@ -871,22 +835,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
       "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+      "duration_ms": 53353,
+      "name": "What Would You Want Me To Be",
+      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 198401,
+      "name": "Where The Wild Things",
+      "url": "https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB"
     },
     {
       "added_at": null,
@@ -907,18 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 198401,
-      "name": "Where The Wild Things",
-      "url": "https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB"
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": null,
@@ -955,6 +935,22 @@
       "duration_ms": 295413,
       "name": "Frisky (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Something's Got To Give",
+      "url": "https://open.spotify.com/track/2cY1XfMsEkNemJ8ECmn0Cs"
     }
   ],
   "unique_name": "This Is Labrinth",

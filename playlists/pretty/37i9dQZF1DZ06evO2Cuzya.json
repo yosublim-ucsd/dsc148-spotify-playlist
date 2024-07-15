@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gracie Abrams. Los temas esenciales, todos en una lista.",
-  "num_followers": 83753,
+  "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
+  "num_followers": 83963,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABFX9vjBI/9O3W6Sr/goWHk",
+  "snapshot_id": "ZpHDgAAAAACnMDYnQ1EVRdHIBUBiFBun",
   "tracks": [
     {
       "added_at": null,
@@ -95,18 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
       "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
         {
           "name": "Gracie Abrams",
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+      "duration_ms": 257668,
+      "name": "Everywhere, Everything (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp"
     },
     {
       "added_at": null,
@@ -143,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 257668,
-      "name": "Everywhere, Everything (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -179,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -207,6 +175,22 @@
       "duration_ms": 193602,
       "name": "For Real This Time",
       "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/0gZGUAO42F1HmzZWHNPGAu"
     },
     {
       "added_at": null,
@@ -243,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "Blowing Smoke",
-      "url": "https://open.spotify.com/track/7Eg4LsQTM6QOqeCS8EihZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -271,6 +239,22 @@
       "duration_ms": 217368,
       "name": "Rockland",
       "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Blowing Smoke",
+      "url": "https://open.spotify.com/track/7Eg4LsQTM6QOqeCS8EihZI"
     },
     {
       "added_at": null,
@@ -307,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 246352,
+      "name": "Camden",
+      "url": "https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -323,6 +323,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 245610,
+      "name": "This is what the drugs are for",
+      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -332,9 +364,25 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
+      "duration_ms": 170805,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl"
     },
     {
       "added_at": null,
@@ -364,74 +412,6 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 245610,
-      "name": "This is what the drugs are for",
-      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Let It Happen",
-      "url": "https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unlearn (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 155361,
-      "name": "Unlearn (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
       "duration_ms": 258901,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7"
@@ -439,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "Mean It",
+        "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
       },
       "artists": [
         {
@@ -448,9 +428,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Under / Over",
-      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
+      "duration_ms": 171138,
+      "name": "Mean It",
+      "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
     },
     {
       "added_at": null,
@@ -471,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Under / Over",
+      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brush Fire",
         "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },
@@ -483,22 +479,6 @@
       "duration_ms": 190426,
       "name": "Brush Fire",
       "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "tehe",
-      "url": "https://open.spotify.com/track/2kp86yPhiPBTyoTYHB403F"
     },
     {
       "added_at": null,

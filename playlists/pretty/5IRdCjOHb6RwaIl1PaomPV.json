@@ -1,12 +1,12 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. New music from Snow Strippers and Aluna, plus the latest cuts from evilgiane, Kito &amp; Chrome Sparks + more.",
-  "num_followers": 50697,
+  "description": "The latest tracks from Mad Decent and friends. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.",
+  "num_followers": 50696,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAaHt7mtAELfPhTNyzJp2WcWWJkKEFb",
+  "snapshot_id": "AAAaU/T8Q/G07GQmAtpjXPyxcPPmf56O",
   "tracks": [
     {
       "added_at": "2024-07-12 22:43:56",
@@ -29,6 +29,78 @@
       "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
     },
     {
+      "added_at": "2024-07-14 22:51:47",
+      "album": {
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-07-14 22:57:40",
+      "album": {
+        "name": "fucking highschool people",
+        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "fucking highschool people",
+      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
+    },
+    {
+      "added_at": "2024-07-14 23:07:14",
+      "album": {
+        "name": "beine sp\u00fcren (Paul Seul remix)",
+        "url": "https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        },
+        {
+          "name": "Paul Seul",
+          "url": "https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi"
+        }
+      ],
+      "duration_ms": 255955,
+      "name": "beine sp\u00fcren - Paul Seul remix",
+      "url": "https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ"
+    },
+    {
+      "added_at": "2024-07-14 22:53:44",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ"
+      },
+      "artists": [
+        {
+          "name": "ascendant vierge",
+          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
+        },
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "duration_ms": 259569,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp"
+    },
+    {
       "added_at": "2024-06-07 19:21:15",
       "album": {
         "name": "Heatstroke",
@@ -47,6 +119,178 @@
       "duration_ms": 166000,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH"
+    },
+    {
+      "added_at": "2024-07-14 23:00:31",
+      "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "added_at": "2024-07-14 23:01:25",
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158367,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
+    },
+    {
+      "added_at": "2024-07-14 22:52:29",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2mtrMjRecF7rZAsmpoMvp8"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/6PqwDTrBeCkRnfTvLsqIQT"
+    },
+    {
+      "added_at": "2024-07-14 23:05:51",
+      "album": {
+        "name": "F4",
+        "url": "https://open.spotify.com/album/47Icm6joonV34P7WTH0lIf"
+      },
+      "artists": [
+        {
+          "name": "DRES",
+          "url": "https://open.spotify.com/artist/1K3KCADbeW2AS24pKJQgmd"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "F4",
+      "url": "https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p"
+    },
+    {
+      "added_at": "2024-07-14 22:51:43",
+      "album": {
+        "name": "Power Plant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Greenhouse)",
+        "url": "https://open.spotify.com/album/6yJplXGokTHKMsI0cSckrR"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "duration_ms": 297167,
+      "name": "Power Plant",
+      "url": "https://open.spotify.com/track/78ADbxSQm4vNFP7OFNQHTL"
+    },
+    {
+      "added_at": "2024-07-14 22:57:00",
+      "album": {
+        "name": "Melter (Remixes)",
+        "url": "https://open.spotify.com/album/2QkC1yQIFbDVusHxd0D2UK"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "IS U IS U",
+          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
+        },
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Angel Girl - Pretty Girl Remix",
+      "url": "https://open.spotify.com/track/40tV7DG6m3yb7hlDll5tFX"
+    },
+    {
+      "added_at": "2024-07-14 23:00:49",
+      "album": {
+        "name": "dirty little secret",
+        "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "dirty little secret",
+      "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "added_at": "2024-07-14 22:58:06",
+      "album": {
+        "name": "I Need Your Violence",
+        "url": "https://open.spotify.com/album/1XFJR1ZUFIDuIWV23S8KDr"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "duration_ms": 156064,
+      "name": "I Need Your Violence",
+      "url": "https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz"
+    },
+    {
+      "added_at": "2024-07-14 22:51:53",
+      "album": {
+        "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+        "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "BC Kingdom",
+          "url": "https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP"
+        }
+      ],
+      "duration_ms": 232374,
+      "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
+      "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
       "added_at": "2024-06-22 00:40:47",
@@ -135,34 +379,6 @@
       "duration_ms": 167895,
       "name": "Grands!",
       "url": "https://open.spotify.com/track/3skcWsW778gWE85v7dCi35"
-    },
-    {
-      "added_at": "2024-06-22 00:40:54",
-      "album": {
-        "name": "Counterfeit",
-        "url": "https://open.spotify.com/album/7hFrIeiDsrVrafZnfRuXTd"
-      },
-      "artists": [
-        {
-          "name": "Orange Moon",
-          "url": "https://open.spotify.com/artist/5tfeMyvpMr5ZVOR9hBrwDE"
-        },
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        },
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 320555,
-      "name": "Counterfeit",
-      "url": "https://open.spotify.com/track/4EBEtzPtAXE4ydcBX1bdkp"
     },
     {
       "added_at": "2024-05-10 21:11:22",
@@ -343,22 +559,6 @@
       "duration_ms": 179617,
       "name": "Not Your Angel",
       "url": "https://open.spotify.com/track/526xLgNkEjHkECnClAdvYq"
-    },
-    {
-      "added_at": "2024-06-07 19:28:36",
-      "album": {
-        "name": "IWBYH",
-        "url": "https://open.spotify.com/album/5rNRDoPNUicUVOTI5v2TTh"
-      },
-      "artists": [
-        {
-          "name": "Delachute",
-          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
-        }
-      ],
-      "duration_ms": 191309,
-      "name": "IWBYH",
-      "url": "https://open.spotify.com/track/18j4LHP2roK3m3IO46xayi"
     },
     {
       "added_at": "2024-06-22 00:40:45",
@@ -657,22 +857,6 @@
       "url": "https://open.spotify.com/track/1HICE9MTB7TW2aqxp7LF7U"
     },
     {
-      "added_at": "2024-05-24 18:16:11",
-      "album": {
-        "name": "nothing like uuu",
-        "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 112243,
-      "name": "nothing like uuu",
-      "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
-    },
-    {
       "added_at": "2024-05-24 18:16:36",
       "album": {
         "name": "Valedictorian",
@@ -787,30 +971,6 @@
       "duration_ms": 128703,
       "name": "Out Of Options",
       "url": "https://open.spotify.com/track/1ygHZpILmwL7EaByT1SVAO"
-    },
-    {
-      "added_at": "2024-04-26 18:14:38",
-      "album": {
-        "name": "Lights On",
-        "url": "https://open.spotify.com/album/4xKCgxgUabmRdqbbfEHutp"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "IS U IS U",
-          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
-        }
-      ],
-      "duration_ms": 219515,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/3vaicHsditfwRXvezuFB3S"
     },
     {
       "added_at": "2024-05-10 21:20:06",
@@ -933,22 +1093,6 @@
       "url": "https://open.spotify.com/track/6GF5IvnyvZiHchFf6haVOs"
     },
     {
-      "added_at": "2024-04-26 18:14:20",
-      "album": {
-        "name": "MELT",
-        "url": "https://open.spotify.com/album/79cm02qHGjVP793EGrAT8d"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "MELT",
-      "url": "https://open.spotify.com/track/6C5gfzJAp4l4ClMyss5lTY"
-    },
-    {
       "added_at": "2024-04-26 18:20:21",
       "album": {
         "name": "All I Need",
@@ -987,26 +1131,6 @@
       "duration_ms": 319066,
       "name": "Rahat Al Chant Ymme",
       "url": "https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "The Way I\u2019m Wired (KILIMANJARO Remix)",
-        "url": "https://open.spotify.com/album/3qgBThQbCxS7uGURXOZMIV"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 252203,
-      "name": "The Way I\u2019m Wired - KILIMANJARO Remix",
-      "url": "https://open.spotify.com/track/6iqy6H6CitkDAhSjwdEc0S"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1295,30 +1419,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Club Shy",
-        "url": "https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "mr useless",
-      "url": "https://open.spotify.com/track/2IHoCwStzXdD8cYwaHzKlQ"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "I Saw U",
         "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
       },
@@ -1455,22 +1555,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL"
-      },
-      "artists": [
-        {
-          "name": "Merry Lamb Lamb",
-          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "TINKERBELL",
         "url": "https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI"
       },
@@ -1507,26 +1591,6 @@
       "duration_ms": 176571,
       "name": "Westfield (feat. Kibo & James Massiah)",
       "url": "https://open.spotify.com/track/46SJImEtddNO7sbNRDXS0u"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Numina",
-        "url": "https://open.spotify.com/album/6CriYTQV01vaXO39mzgrAL"
-      },
-      "artists": [
-        {
-          "name": "Cousin",
-          "url": "https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q"
-        },
-        {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
-        }
-      ],
-      "duration_ms": 400916,
-      "name": "2 - Icy Dub",
-      "url": "https://open.spotify.com/track/0fcsrkksU6IBVjZZa6EbE5"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1575,26 +1639,6 @@
       "duration_ms": 236373,
       "name": "Yal Harak Qalbe",
       "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Jam City Presents EFM (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/15moYugx2ORv9pIOYnJ0yE"
-      },
-      "artists": [
-        {
-          "name": "Jam City",
-          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
-        },
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3LCLv5Rc9EOB4JwzHvU7Id"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1707,30 +1751,6 @@
     {
       "added_at": "2024-04-25 22:53:02",
       "album": {
-        "name": "Perfect (Exceeder) [1991 Remix]",
-        "url": "https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob"
-      },
-      "artists": [
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
-        },
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Perfect (Exceeder) - 1991 Remix",
-      "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
         "name": "Baby Disco",
         "url": "https://open.spotify.com/album/4XnqJQJ1UbufLfCGNPAYHm"
       },
@@ -1743,22 +1763,6 @@
       "duration_ms": 430146,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0t9FJ4OyMVlYXWqDZNFofP"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "beine sp\u00fcren",
-        "url": "https://open.spotify.com/album/6mQeaXIcypSNq7vG1RQjc1"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        }
-      ],
-      "duration_ms": 172057,
-      "name": "beine sp\u00fcren",
-      "url": "https://open.spotify.com/track/182n4UEBsfx3F5N4bMZnI5"
     },
     {
       "added_at": "2024-04-25 22:53:02",
@@ -1827,22 +1831,6 @@
       "duration_ms": 263111,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q"
-    },
-    {
-      "added_at": "2024-04-25 22:53:02",
-      "album": {
-        "name": "Night Killaz Vol. 1",
-        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Just A Hint",
-      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
     },
     {
       "added_at": "2024-04-25 22:53:02",

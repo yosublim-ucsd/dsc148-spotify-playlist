@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-395 songs - 16 hr 30 min
+397 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,8 @@
 | [All That Glitters \(Piano\)](https://open.spotify.com/track/0daHjqHGWWq3KhnzaCeP7P) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact Relaxing Beside Bed Collection](https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3) | 1:16 | 2023-10-29 | 2023-12-18 |
 | [All That's Left Are The Snapshots](https://open.spotify.com/track/1NWmY8R51GriAfUdNVDcGW) | [Tom Eaton](https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5) | [Snapshots](https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI) | 1:13 | 2023-10-29 | 2024-05-03 |
 | [American Beauty](https://open.spotify.com/track/4dTQkPMK1LY1l15Q79zjMd) | [IRSNa](https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR) | [American Beauty](https://open.spotify.com/album/1R4edudfEcXCidprDq6Mnb) | 1:55 | 2023-10-29 |  |
-| [Amor tumbado](https://open.spotify.com/track/10rR0kUsYI8XkXpRvOtxjD) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/4qufmSCq3zhm1KaWsOlK8m) | 3:23 | 2024-06-21 |  |
-| [Amor tumbado](https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/0rGjviVrRtYxlBFjfAbU0y) | 3:23 | 2024-06-17 | 2024-06-22 |
+| [Amor tumbado](https://open.spotify.com/track/10rR0kUsYI8XkXpRvOtxjD) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/4qufmSCq3zhm1KaWsOlK8m) | 3:23 | 2024-06-21 | 2024-07-15 |
+| [Amor tumbado](https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Amor tumbado](https://open.spotify.com/album/0rGjviVrRtYxlBFjfAbU0y) | 3:23 | 2024-06-17 |  |
 | [Aristocracy](https://open.spotify.com/track/3IcnyFd8Hz5X0738QpkK5J) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:32 | 2024-07-12 |  |
 | [As I Breathe](https://open.spotify.com/track/18MhPNyH0MliZWymshDdM6) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [As I Breathe](https://open.spotify.com/album/5h4j3BZMDAqibxAH5fHBpR) | 1:45 | 2023-10-29 | 2024-04-14 |
 | [As It Was \(Piano Version\)](https://open.spotify.com/track/5H8qAeA04uTyHv0vpeSadp) | [Hiki](https://open.spotify.com/artist/20qqzVa018cvVt0IyqYFqn) | [As It Was \(Piano Version\)](https://open.spotify.com/album/402BVU2hPJfSUmzKEEWwJD) | 1:22 | 2024-06-17 |  |
@@ -96,7 +96,8 @@
 | [Dream Waltz](https://open.spotify.com/track/62O35G0iHVKb9W6uSZmWEv) | [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Dream Waltz](https://open.spotify.com/album/6I5PJDVDGP2zlNvqbI3MmF) | 2:38 | 2023-10-29 |  |
 | [Driftwood](https://open.spotify.com/track/3ZLvf47bCxxfOzNy2RUMaF) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 2:46 | 2024-07-12 |  |
 | [Drudgery](https://open.spotify.com/track/6KrEGDxuLP6gFGjzQmtV5e) | [ForestLVL](https://open.spotify.com/artist/7fpGNSOcZS9F3788ssf5ow) | [Drudgery](https://open.spotify.com/album/4lzfezhTUx3zq9kUKOX8Pu) | 3:30 | 2024-06-17 |  |
-| [Días Nublados](https://open.spotify.com/track/2gtYrWBzGPwhBa4AU1UmuM) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Días Nublados](https://open.spotify.com/album/4RTIELsZOzmpFATFtsbyoK) | 3:48 | 2024-06-17 |  |
+| [Días Nublados](https://open.spotify.com/track/0pEjuUh0Hoc0JFzOiYjoyL) | [Yair Guiuseppe Gómez Acosa](https://open.spotify.com/artist/2bUksXvtwKXQFRxiw6lnKI), [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Días Nublados](https://open.spotify.com/album/2cVChP6sDyPgvtmuCzhaMo) | 3:48 | 2024-07-14 |  |
+| [Días Nublados](https://open.spotify.com/track/2gtYrWBzGPwhBa4AU1UmuM) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Días Nublados](https://open.spotify.com/album/4RTIELsZOzmpFATFtsbyoK) | 3:48 | 2024-06-17 | 2024-07-15 |
 | [Echoes](https://open.spotify.com/track/0WbjP8lYfrOU8pQsICxhkS) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 1:52 | 2024-07-12 |  |
 | [Echoes](https://open.spotify.com/track/12u5uPCbvSPreo15kiZzc6) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Echoes](https://open.spotify.com/album/56bA464HLY4yVa1tpHHAIC) | 1:52 | 2024-07-12 |  |
 | [Echoes of Sorrow](https://open.spotify.com/track/6Zw6FJFQ5FfRYiK4xse09x) | [Matías León](https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I) | [Echoes of Sorrow](https://open.spotify.com/album/35EDuHL7lV9Ods1BupPUm2) | 2:17 | 2023-10-29 |  |
@@ -202,7 +203,8 @@
 | [Kazuha's Sorrow \(Piano Version\)](https://open.spotify.com/track/137O2HFPwNv9qwlwHoV1qQ) | [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj), [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Genshin Impact \- Kazuha Story](https://open.spotify.com/album/03PXiJXgeqPiayWPTT8wWs) | 1:12 | 2023-10-29 |  |
 | [Kotana](https://open.spotify.com/track/1gEtU3eBHifTx1qJ2iwciw) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [Kotana](https://open.spotify.com/album/644hlQiCQ140ivB33GxXFx) | 2:33 | 2023-10-29 | 2024-05-03 |
 | [L'amour de ma mère](https://open.spotify.com/track/0etWdm0rjR2FHIFZz1LjVB) | [Luis Gil Silva](https://open.spotify.com/artist/1abk4JFQM3kzHR24PDEe3N) | [L'amour de ma mère](https://open.spotify.com/album/0AUbHWprKXC7AFD5eZHK0s) | 2:22 | 2024-04-13 |  |
-| [Lagunas](https://open.spotify.com/track/6w9iBKPsRH2EEou5T6CQXb) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Lagunas](https://open.spotify.com/album/71hlt2Z6vXGFXKYwDI6Hwd) | 3:24 | 2024-06-17 |  |
+| [Lagunas](https://open.spotify.com/track/6w9iBKPsRH2EEou5T6CQXb) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Lagunas](https://open.spotify.com/album/71hlt2Z6vXGFXKYwDI6Hwd) | 3:24 | 2024-06-17 | 2024-07-15 |
+| [Lagunas](https://open.spotify.com/track/2nIXmbPLBaS7OlXZuGioiB) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Lagunas](https://open.spotify.com/album/5YzlMjDFWqng67hWC1wXkS) | 3:24 | 2024-07-14 |  |
 | [Last Dance](https://open.spotify.com/track/31fK9lpRzYj2R8BGL0Aufs) | [Mirko Dukanovic](https://open.spotify.com/artist/7GxCVyk1AgOKTicjk8MToh) | [Last Dance](https://open.spotify.com/album/0qbd1uvul0pfEiq4ZiSAPu) | 1:24 | 2024-02-14 |  |
 | [lazy town](https://open.spotify.com/track/0PpaKrZfroenLC1QXSff3N) | [magical keys](https://open.spotify.com/artist/5dySZfFegeX2Lh4yDR6kkv) | [lazy town](https://open.spotify.com/album/2CurKH3gs88MhS90vCMyqD) | 2:05 | 2023-10-29 | 2023-12-18 |
 | [Letter to the Sky](https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Letter to the Sky](https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn) | 1:41 | 2023-10-29 | 2023-11-16 |

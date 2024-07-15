@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,329 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,326 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 17 | [Soundtrack](https://open.spotify.com/track/5bKltagkEhBFsVsv7arzPR) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Wracając](https://open.spotify.com/album/4cPdaFlz0WZLlyfZzzi0ZB) | 3:18 |
 | 18 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 |
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |
-| 20 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
+| 20 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
-| 22 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 22 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
 | 23 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
 | 24 | [Ostatnia taka zima](https://open.spotify.com/track/5RrqO7f46CZaoe2N0J4jz4) | [Zima Stulecia](https://open.spotify.com/artist/6zipCNbD8O4KIXfKhCaEsK) | [Minus 30°C](https://open.spotify.com/album/5fkmehd41xw4Aop984INzI) | 3:39 |
 | 25 | [Devil In You](https://open.spotify.com/track/4YrSOC41YPRrQq0cuxTJgu) | [John Porter](https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt), [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [On The Wrong Planet](https://open.spotify.com/album/0qKDzYpw0Bvo9MkpXTptNF) | 5:03 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 38 | [Blue](https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [HEARTCORE](https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN) | 4:29 |
 | 39 | [lekka jak powietrze](https://open.spotify.com/track/5CKxg5M0vYrRqekWveuSbl) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:37 |
 | 40 | [Wszystkie narkotyki świata](https://open.spotify.com/track/3fVqdsGyi34YN1MdLUHtaF) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Wszystkie narkotyki świata](https://open.spotify.com/album/5oaYpD16K3Q1Q7aqa1UJVe) | 4:13 |
-| 41 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
-| 42 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
+| 41 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
+| 42 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
 | 43 | [Etna](https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Pracownia \(deluks\)](https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk) | 4:20 |
 | 44 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
 | 45 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 52 | [Chory na Polskę](https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF) | [Dr Misio](https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy) | [Chory na Polskę](https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw) | 3:19 |
 | 53 | [SUMMER SONG](https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [BRESLAU HARDCORE](https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm) | 3:16 |
 | 54 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
-| 55 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
-| 56 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
+| 55 | [Moje serce w Warszawie](https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq) | [Sorry Boys](https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU) | [Moje serce w Warszawie](https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG) | 5:29 |
+| 56 | [Na Polanie](https://open.spotify.com/track/0YWvctopN5MKKHVl7DcVvy) | [Fismoll](https://open.spotify.com/artist/5jIMSlGidlmS3NmLKio9Wa) | [Pomiędzy](https://open.spotify.com/album/2sAKQ4Vg3LDNj9ZpV0eGNC) | 4:06 |
 | 57 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 58 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
 | 59 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |

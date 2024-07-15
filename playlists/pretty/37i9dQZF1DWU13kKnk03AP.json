@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2140722,
+  "num_followers": 2140820,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -607,6 +607,38 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -623,22 +655,6 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -699,22 +715,6 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Hammer to the Heart",
+      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Hammer to the Heart",
-      "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
+        "name": "WOMAN\u2019S WORLD",
+        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
         "name": "if u think i'm pretty",
         "url": "https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm"
       },
@@ -1583,6 +1603,22 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 212928,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"
+    },
+    {
+      "added_at": "2024-07-12 13:49:56",
+      "album": {
         "name": "cut! (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
       },
@@ -1599,22 +1635,6 @@
       "duration_ms": 128164,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
-        "name": "Melt",
-        "url": "https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 212928,
-      "name": "Melt",
-      "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -1671,22 +1691,6 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "We Didn\u2019t Start The Fire",
-        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire",
-      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
-    },
-    {
-      "added_at": "2024-07-12 13:49:56",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1703,18 +1707,18 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "My Stupid Heart",
-        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
+        "name": "We Didn\u2019t Start The Fire",
+        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 160866,
-      "name": "My Stupid Heart",
-      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
+      "duration_ms": 215530,
+      "name": "We Didn\u2019t Start The Fire",
+      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
     },
     {
       "added_at": "2024-07-12 13:49:56",
@@ -1739,22 +1743,18 @@
     {
       "added_at": "2024-07-12 13:49:56",
       "album": {
-        "name": "Flowers Need Rain",
-        "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
+        "name": "My Stupid Heart",
+        "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
       },
       "artists": [
         {
-          "name": "Preston Pablo",
-          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 168126,
-      "name": "Flowers Need Rain",
-      "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
+      "duration_ms": 160866,
+      "name": "My Stupid Heart",
+      "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
     }
   ],
   "unique_name": "Daily Lift",

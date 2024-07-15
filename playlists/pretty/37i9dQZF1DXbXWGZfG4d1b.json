@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "La Concentraci\u00f3n",
-        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 249587,
-      "name": "La Concentraci\u00f3n",
-      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Vamos a Destruir",
         "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "La Concentraci\u00f3n",
+        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 249587,
+      "name": "La Concentraci\u00f3n",
+      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Habla Sola / Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
-      },
-      "artists": [
-        {
-          "name": "Sakatumba",
-          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
-        }
-      ],
-      "duration_ms": 234562,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Puedo ver el mar en tus ojos",
         "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 181495,
       "name": "Puedo ver el mar en tus ojos",
       "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Habla Sola / Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "duration_ms": 234562,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Humo y Menta",
-        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Charlie Desidney",
-          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "Humo y Menta",
-      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -679,18 +659,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+        "name": "Humo y Menta",
+        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
       "artists": [
         {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Charlie Desidney",
+          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
         }
       ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+      "duration_ms": 183242,
+      "name": "Humo y Menta",
+      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/6KaDzlbouoNjT5ukVF7MRA"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
       "artists": [
         {
-          "name": "Diosque",
-          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
         }
       ],
-      "duration_ms": 212631,
-      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
+      },
+      "artists": [
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "duration_ms": 212631,
+      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Malambo de Acero",
+        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Tom Quintans",
+          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
+        }
+      ],
+      "duration_ms": 164236,
+      "name": "Malambo de Acero",
+      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "EN EL CIELO",
         "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 133775,
       "name": "Mala Influencia",
       "url": "https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Malambo de Acero",
-        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        },
-        {
-          "name": "Tom Quintans",
-          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
-        }
-      ],
-      "duration_ms": 164236,
-      "name": "Malambo de Acero",
-      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Lago Eterno",
-        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 128802,
-      "name": "Lago Eterno",
-      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Lago Eterno",
+        "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 128802,
+      "name": "Lago Eterno",
+      "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "El Secreto",
+        "url": "https://open.spotify.com/album/2yBEt88ALDk02kDC5ryC3Z"
+      },
+      "artists": [
+        {
+          "name": "Esperando La Gr\u00faa",
+          "url": "https://open.spotify.com/artist/4wznWYOdlNNFkZ0mls0sVJ"
+        }
+      ],
+      "duration_ms": 174871,
+      "name": "El Secreto",
+      "url": "https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "El Secreto",
-        "url": "https://open.spotify.com/album/2yBEt88ALDk02kDC5ryC3Z"
-      },
-      "artists": [
-        {
-          "name": "Esperando La Gr\u00faa",
-          "url": "https://open.spotify.com/artist/4wznWYOdlNNFkZ0mls0sVJ"
-        }
-      ],
-      "duration_ms": 174871,
-      "name": "El Secreto",
-      "url": "https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Promesa",
         "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 248808,
       "name": "Psicodelia arbolera",
       "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Desconsuelo",
-        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
-      },
-      "artists": [
-        {
-          "name": "DOJO",
-          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
-        }
-      ],
-      "duration_ms": 243126,
-      "name": "Desconsuelo",
-      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
     },
     {
       "added_at": "2024-07-12 03:00:00",

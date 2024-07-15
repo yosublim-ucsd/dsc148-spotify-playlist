@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,625 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,632 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [La Noche Ya Es Día](https://open.spotify.com/track/2hUATbFX6dEZeFpikctyyS) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Qhapaq Ñan](https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce) | 3:22 |
 | 50 | [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 |
 
-Snapshot ID: `ZpByAAAAAAB24+wo4mgCwS8J14cEKUSw`
+Snapshot ID: `ZpHDgAAAAACknx6hrad7YYmhJAcrEPU2`

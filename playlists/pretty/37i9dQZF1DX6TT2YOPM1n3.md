@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Faris Shafi, Umair Butt, Gharvi Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,915 likes - 55 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,944 likes - 55 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 7 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 |
 | 8 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 |
 | 9 | [Secrets](https://open.spotify.com/track/0v8UhUalYhCuq6fDEe9ijE) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 4:38 |
-| 10 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 10 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 11 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 |
 | 12 | [Long time no see](https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79) | 3:38 |
 | 13 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |

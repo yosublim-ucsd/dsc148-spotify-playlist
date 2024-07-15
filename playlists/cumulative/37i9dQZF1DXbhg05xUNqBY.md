@@ -4,7 +4,7 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-137 songs - 9 hr 30 min
+138 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Harbor](https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Harbor](https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy) | 4:23 | 2024-06-23 |  |
 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 | 2024-06-23 |  |
 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 | 2024-06-23 |  |
+| [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart \(Live\)](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 | 2024-06-23 |  |
 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 |  |
 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 | 2021-10-31 |  |
 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 | 2021-10-31 |  |
@@ -120,7 +121,7 @@
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2021-10-31 | 2024-04-19 |
 | [The Gospel is Rest](https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [The Gospel is Rest](https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q) | 4:40 | 2021-10-31 |  |
 | [The Lord's Prayer](https://open.spotify.com/track/41DzL9erDrCxZtavGqxj3I) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [The Lord's Prayer](https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM) | 2:56 | 2024-06-23 |  |
-| [The Thank You Song](https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz) | [Kevin Jones](https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL) | [Simple as That](https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV) | 3:17 | 2024-06-23 |  |
+| [The Thank You Song](https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz) | [Kevin Jones](https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL) | [Simple as That](https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV) | 3:17 | 2024-06-23 | 2024-07-15 |
 | [The Wreck](https://open.spotify.com/track/5nVSProqTU4RYONccBvte5) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Selah \- EP](https://open.spotify.com/album/47jnz1CVIPk3gq1BhdVlIA) | 4:44 | 2024-06-23 |  |
 | [This Is My Father's World](https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Rachael Lampa](https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y) | [This Is My Father's World](https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy) | 3:27 | 2023-02-07 | 2024-06-23 |
 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 | 2021-10-31 | 2024-04-19 |

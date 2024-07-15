@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 ### [This Is J\. Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3K21mU)
 
-> This is J\. Cole\. The essential tracks, all in one playlist.
+> This Is J\. Cole\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,689 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,881 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 47 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 |
 | 48 | [She's Mine Pt\. 2](https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 4:38 |
 | 49 | [Forbidden Fruit \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:28 |
-| 50 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 |
+| 50 | [Snow On Tha Bluff](https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Snow On Tha Bluff](https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd) | 3:55 |
 
-Snapshot ID: `ZpByAAAAAAD8RKif6ExbFjCJ5tac24tW`
+Snapshot ID: `ZpHDgAAAAABlBhZsvmKY2Riqvt/YUP3U`

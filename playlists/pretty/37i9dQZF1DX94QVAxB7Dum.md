@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,316 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,480 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 65 | [Boogie Down \- Single Version](https://open.spotify.com/track/1g6IiMTz9cPHLOIn7aAkCd) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:43 |
 | 66 | [Rockin' Robin](https://open.spotify.com/track/0XFRGKNOzBElJCR3lz1NX0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number 1’s: The Jacksons Story](https://open.spotify.com/album/42oS02bWIcliOvLFHsDawf) | 2:32 |
 | 67 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/0Yz3xt0hGPgkj8aZ2aAnDi) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Profiles \- The Staple Singers](https://open.spotify.com/album/4GYZ7sTGIp9H5sSeh9Teml) | 4:29 |
-| 68 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
-| 69 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
+| 68 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
+| 69 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
 
 Snapshot ID: `ZoSDkwAAAACr2Hd2dI5w3g4xLAnezYcw`

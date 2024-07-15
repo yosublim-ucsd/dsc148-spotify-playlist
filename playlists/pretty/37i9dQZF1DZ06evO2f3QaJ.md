@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is: Zudizilla\. Alle wichtigen Tracks in einer Playlist.
+> This is Zudizilla\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 793 likes - 43 songs - 2 hr 40 min
 
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 42 | [Vibranium](https://open.spotify.com/track/273J7WTpMjavzzDKu8i5Lr) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Eloy Polemico](https://open.spotify.com/artist/4YbBYNU6hsYbEMtApK0WPc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nabil](https://open.spotify.com/artist/40ZFGpZSOnRBpiAyuzJcR6), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Vibranium](https://open.spotify.com/album/2sPVR5oMt2K57ELzLcvz7w) | 4:34 |
 | 43 | [TUDO AGORA](https://open.spotify.com/track/3pvuUaDvth5vD8GdvXK0x5) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [B.art](https://open.spotify.com/artist/6KnF0fsn6wR9fdC5MBP0vE) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 4:50 |
 
-Snapshot ID: `ZpByAAAAAAA/8/UbBa2driA0ujFLRFdN`
+Snapshot ID: `ZpByAAAAAACSye0BpKRksNiHNZO6EcBc`

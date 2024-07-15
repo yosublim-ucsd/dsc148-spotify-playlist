@@ -14551,6 +14551,28 @@
     },
     {
       "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
+    },
+    {
+      "album": {
         "name": "Ela Voltou de Perna Bamba",
         "url": "https://open.spotify.com/album/6jPV8bZSQvB7GfeUJfwbZi"
       },
@@ -35382,7 +35404,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -41336,7 +41358,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 144894,
       "name": "Rasenschach",
       "url": "https://open.spotify.com/track/16hNeZ78WOpMzZrK3AKDxc"
@@ -41358,6 +41380,24 @@
       "duration_ms": 144894,
       "name": "Rasenschach",
       "url": "https://open.spotify.com/track/2p7k0RHPeNU8H7CSRWwIgp"
+    },
+    {
+      "album": {
+        "name": "Rasenschach",
+        "url": "https://open.spotify.com/album/0eyNmAznsO2cBF9hM17niE"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144894,
+      "name": "Rasenschach",
+      "url": "https://open.spotify.com/track/7jFcvN0U0ZZIXgfyEDYkcj"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 56868,
+  "num_followers": 56963,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,30 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Dealer",
-        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
+        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         }
       ],
-      "duration_ms": 180594,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
+      "duration_ms": 390000,
+      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
+      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -339,30 +347,22 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
       "artists": [
         {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         },
         {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+      "duration_ms": 180594,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Adenuga x Concerning",
-        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Adenuga (feat. Qing Madi)",
-      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
+        "name": "Adenuga x Concerning",
+        "url": "https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Adenuga (feat. Qing Madi)",
+      "url": "https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
+      },
+      "artists": [
+        {
+          "name": "Lil Qhuid",
+          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
+        },
+        {
+          "name": "BetejayMadeIt",
+          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
+        }
+      ],
+      "duration_ms": 151462,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1327,42 +1347,6 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
-      },
-      "artists": [
-        {
-          "name": "Lil Qhuid",
-          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
-        },
-        {
-          "name": "BetejayMadeIt",
-          "url": "https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY"
-        }
-      ],
-      "duration_ms": 151462,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
-      },
-      "artists": [
-        {
-          "name": "Teemanay",
-          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
-        }
-      ],
-      "duration_ms": 167653,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
         "name": "Dis Kain Luv",
         "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 152565,
       "name": "Dis Kain Luv",
       "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
+      },
+      "artists": [
+        {
+          "name": "Teemanay",
+          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
+        }
+      ],
+      "duration_ms": 167653,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -1459,18 +1459,26 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "Koko",
-        "url": "https://open.spotify.com/album/73cpCSFA8mfXBMxXZkzc4w"
+        "name": "BOMBING",
+        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
       },
       "artists": [
         {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 154615,
-      "name": "Koko",
-      "url": "https://open.spotify.com/track/3OILFI5RxdzoGCHUEa6X00"
+      "duration_ms": 193125,
+      "name": "BOMBING",
+      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -1487,6 +1495,22 @@
       "duration_ms": 186067,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM"
+    },
+    {
+      "added_at": "2024-07-12 06:41:33",
+      "album": {
+        "name": "Koko",
+        "url": "https://open.spotify.com/album/73cpCSFA8mfXBMxXZkzc4w"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/3OILFI5RxdzoGCHUEa6X00"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -1523,26 +1547,18 @@
     {
       "added_at": "2024-07-12 06:41:33",
       "album": {
-        "name": "BOMBING",
-        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
       "artists": [
         {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        },
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 193125,
-      "name": "BOMBING",
-      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2024-07-12 06:41:33",
@@ -1563,22 +1579,6 @@
       "duration_ms": 130714,
       "name": "One Bottle",
       "url": "https://open.spotify.com/track/3pGKYh5u196Dtbrt5nVEvF"
-    },
-    {
-      "added_at": "2024-07-12 06:41:33",
-      "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     }
   ],
   "unique_name": "Party Dey!",

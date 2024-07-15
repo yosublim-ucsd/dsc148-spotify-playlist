@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con Lleflight & Gino Mella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,045 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,015 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-450 songs - 1 day 4 hr 53 min
+451 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Hell For A Basement](https://open.spotify.com/track/221OWzoN7cDlxo5fenxawk) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Brothers And Sisters, Are You Ready?](https://open.spotify.com/album/3frowGksCCfhu5gdxQI7J2) | 4:00 | 2022-05-02 | 2022-07-29 |
 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 | 2023-05-18 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/6UQarmuuOD67SEas0JPgpA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [All Night](https://open.spotify.com/album/2rSrmW6nlP04jFICYAPF1t) | 3:15 | 2024-04-19 | 2024-07-06 |
+| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 |  |
 | [American Psycho](https://open.spotify.com/track/43Uo8TI07snIf8GaS43F7U) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/5WZLwoDpwywF00FzAhJGQC) | 3:24 | 2022-05-02 | 2022-07-29 |
 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 | 2022-05-02 | 2023-02-07 |
 | [American Woman](https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 5:07 | 2022-05-02 | 2023-05-19 |
@@ -60,7 +61,7 @@
 | [Brian Wilson](https://open.spotify.com/track/2Eky0Rjbrv0YmNy3wrMtSM) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Gordon](https://open.spotify.com/album/42U1vGhrWUN6TeM5mwN691) | 4:47 | 2022-09-10 | 2022-09-15 |
 | [Brother Down](https://open.spotify.com/track/32WrsvD69H6sSLCPQo5WNy) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9) | 4:24 | 2022-05-02 | 2022-07-29 |
 | [Brother Down](https://open.spotify.com/track/6bH8NQzpdpy8CvRcmFbKPW) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS) | 4:24 | 2022-09-10 | 2022-09-15 |
-| [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 | 2024-04-19 |  |
+| [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 | 2024-04-19 | 2024-07-15 |
 | [Bud The Spud](https://open.spotify.com/track/78pWxcnSexMjZ1n3sHW9lX) | [Stompin' Tom Connors](https://open.spotify.com/artist/1rOI6HUtD1IR5lbXSbpwQH) | [Bud The Spud](https://open.spotify.com/album/3vWHdiM0ymGxZpNWSBYUWU) | 2:27 | 2022-05-02 | 2022-07-28 |
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-09-10 | 2022-09-15 |
 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 | 2022-09-10 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: A Not So Fairy Tale(\uc120\ub140\uc678\uc804)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 90123,
+  "num_followers": 90163,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -411,34 +411,18 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 237253,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Better for Me (Nth Romance X MeloMance)",
-        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239853,
-      "name": "Better for Me (Nth Romance X MeloMance)",
-      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -459,18 +443,34 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
       },
       "artists": [
         {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -487,6 +487,22 @@
       "duration_ms": 196680,
       "name": "The day",
       "url": "https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Lee Doona Project Part 2",
+        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
+      },
+      "artists": [
+        {
+          "name": "Lee Doona",
+          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Something I want to tell you only.",
+      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -511,22 +527,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Lee Doona Project Part 2",
-        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
-      },
-      "artists": [
-        {
-          "name": "Lee Doona",
-          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Something I want to tell you only.",
-      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1",
         "url": "https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
-      },
-      "artists": [
-        {
-          "name": "Choco And Vanilla",
-          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
-        }
-      ],
-      "duration_ms": 176997,
-      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
-      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "A Beautiful Farewell - I am Re:Born #1",
         "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+        "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
+      },
+      "artists": [
+        {
+          "name": "Choco And Vanilla",
+          "url": "https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1"
+        }
+      ],
+      "duration_ms": 176997,
+      "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
+      "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
+        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Just stay with me (Feat. Swan)",
+      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 161338,
       "name": "Shining Day",
       "url": "https://open.spotify.com/track/6ib78JN3RfglRI2kETD2jA"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
-        "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Just stay with me (Feat. Swan)",
-      "url": "https://open.spotify.com/track/0gmZsfrT5vkZIYKReHTXa2"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
-        "url": "https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR"
-      },
-      "artists": [
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
-      "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
         "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 235106,
       "name": "Don\u2032t Move Away",
       "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+        "url": "https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR"
+      },
+      "artists": [
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Propose Song (WEBTOON 'Discovery of Love' X LEE RAON)",
+      "url": "https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
-      },
-      "artists": [
-        {
-          "name": "Weeky1",
-          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Should we walk hand in hand?",
-      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "Drive Away (Marriage Or Death X SURAN)",
         "url": "https://open.spotify.com/album/2IbKSIHCu6c5Tfw5SjbDCA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 209960,
       "name": "Drive Away",
       "url": "https://open.spotify.com/track/6QE9JHwECUV28SeCVk4zO1"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.30 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1UTM9hXWghsDNDWqBDeUyb"
+      },
+      "artists": [
+        {
+          "name": "Weeky1",
+          "url": "https://open.spotify.com/artist/6kxfUeI8Sq80X7ICFw7KtK"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Should we walk hand in hand?",
+      "url": "https://open.spotify.com/track/45Odu7IUv2jqhia7m99eaq"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.4 (Soundtrack)",
-        "url": "https://open.spotify.com/album/5y7G9hLSy3gym4N4E3ZyEU"
-      },
-      "artists": [
-        {
-          "name": "mim",
-          "url": "https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us"
-        }
-      ],
-      "duration_ms": 248063,
-      "name": "a trace of you",
-      "url": "https://open.spotify.com/track/6tyvohlALbw5BFxF4coKIA"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "\uc5ec\uae30 \ubcf4\uc138\uc694, \ub9c8\uc655\ub2d8! OST Part.5 (Soundtrack)",
         "url": "https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 229891,
       "name": "I miss you like crazy",
       "url": "https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uac00\uc9dc \uacf5\ub140\ub2d8\uc758 \ub9cc\ub819 \ud1a0\ub07c OST Part.4 (Soundtrack)",
+        "url": "https://open.spotify.com/album/5y7G9hLSy3gym4N4E3ZyEU"
+      },
+      "artists": [
+        {
+          "name": "mim",
+          "url": "https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us"
+        }
+      ],
+      "duration_ms": 248063,
+      "name": "a trace of you",
+      "url": "https://open.spotify.com/track/6tyvohlALbw5BFxF4coKIA"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 28",
-        "url": "https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF"
-      },
-      "artists": [
-        {
-          "name": "CODA BRIDGE",
-          "url": "https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca"
-        }
-      ],
-      "duration_ms": 219657,
-      "name": "\uc628\uc138\uc0c1\uc774 \ub108",
-      "url": "https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "The Crush Of Spring OST Part.6",
         "url": "https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216565,
       "name": "To be honest I still love you",
       "url": "https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "\uc694\uc870\uc2e0\uc0ac \ub9c8\ucd08\uc219\ub140 (Original Webtoon Soundtrack) Pt. 28",
+        "url": "https://open.spotify.com/album/6qo1VC3B2K7WaiZZNTa3LF"
+      },
+      "artists": [
+        {
+          "name": "CODA BRIDGE",
+          "url": "https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca"
+        }
+      ],
+      "duration_ms": 219657,
+      "name": "\uc628\uc138\uc0c1\uc774 \ub108",
+      "url": "https://open.spotify.com/track/6sWpb7Ked0QP1LuVCKmcJZ"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
-        "name": "Coffee Fox Kim Sam Wol OST Part.11 (Soundtrack)",
-        "url": "https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs"
-      },
-      "artists": [
-        {
-          "name": "Geum Nara",
-          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
-        }
-      ],
-      "duration_ms": 200165,
-      "name": "Way too young",
-      "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
         "name": "\uc0ac\ub791\ub3c4 \uc5c6\uc774 \uacb0\ud63c OST Part.9 (Soundtrack)",
         "url": "https://open.spotify.com/album/7yoWIYagwoss6PRdFqLCSj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 195351,
       "name": "You let me live as myself",
       "url": "https://open.spotify.com/track/5FNR1Ly5BCFQddWcth5RzP"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
+        "name": "Coffee Fox Kim Sam Wol OST Part.11 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs"
+      },
+      "artists": [
+        {
+          "name": "Geum Nara",
+          "url": "https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7"
+        }
+      ],
+      "duration_ms": 200165,
+      "name": "Way too young",
+      "url": "https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp"
     },
     {
       "added_at": "2024-06-24 05:39:23",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-06-24 05:39:23",
       "album": {
+        "name": "The Crush Of Spring OST Part.15",
+        "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
+      },
+      "artists": [
+        {
+          "name": "Han Ga Bin",
+          "url": "https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv"
+        }
+      ],
+      "duration_ms": 222623,
+      "name": "I can't even love you",
+      "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
+    },
+    {
+      "added_at": "2024-06-24 05:39:23",
+      "album": {
         "name": "I Wasn't the Cinderella OST part 2 (Soundtrack)",
         "url": "https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 243765,
       "name": "Never say",
       "url": "https://open.spotify.com/track/0g123qCff4LxJwlOakrrEZ"
-    },
-    {
-      "added_at": "2024-06-24 05:39:23",
-      "album": {
-        "name": "The Crush Of Spring OST Part.15",
-        "url": "https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u"
-      },
-      "artists": [
-        {
-          "name": "Han Ga Bin",
-          "url": "https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv"
-        }
-      ],
-      "duration_ms": 222623,
-      "name": "I can't even love you",
-      "url": "https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi"
     },
     {
       "added_at": "2024-06-24 05:39:23",

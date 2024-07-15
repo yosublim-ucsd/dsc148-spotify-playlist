@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-920 songs - 2 day 19 hr 45 min
+921 songs - 2 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -746,7 +746,7 @@
 | [Symphony Of Destruction](https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Greatest Hits: Back To The Start](https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4) | 4:06 | 2022-08-26 |  |
 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 | 2021-12-17 | 2022-08-27 |
 | [Take the World](https://open.spotify.com/track/4ZpMNbTPXI9sOPv0mIPY7K) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Take the World](https://open.spotify.com/album/3zc9s6GMTNjZhTfIxvkT5x) | 2:48 | 2022-04-01 | 2022-04-17 |
-| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 |  |
+| [Teardrinker](https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Teardrinker](https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw) | 5:20 | 2021-12-17 | 2024-07-15 |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-07-13 | 2022-08-06 |
 | [Tears Don't Fall](https://open.spotify.com/track/3iWlbqAaoIR7H7gyO3a6rV) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(Deluxe Version\)](https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn) | 5:48 | 2022-08-19 | 2023-03-11 |
 | [Tears of a Mandrake](https://open.spotify.com/track/2soaqea9OtrB2gD36zNF6s) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Mandrake](https://open.spotify.com/album/2S5whZS0ouI2rHct9VJuK5) | 7:11 | 2022-07-08 | 2024-04-19 |
@@ -799,6 +799,7 @@
 | [The Path](https://open.spotify.com/track/1zkdINXJTDhqKaFL0kjIT8) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/0K97w4lUFd305SnQErgFd7) | 4:07 | 2022-07-13 | 2023-02-11 |
 | [The Path](https://open.spotify.com/track/2jS0i4Y5dCqzZ36GUEP7V0) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [The Path](https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q) | 4:07 | 2023-10-27 | 2024-04-19 |
 | [The Pendulum](https://open.spotify.com/track/4HcPY8dxlBZ5wjHkvLjJDR) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [The Pendulum](https://open.spotify.com/album/5Zyq4y09OS3ssfVBymUgPB) | 4:59 | 2021-12-29 | 2022-06-02 |
+| [The Price of Pain](https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [The Price of Pain](https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75) | 3:40 | 2024-07-12 |  |
 | [The Raven Child](https://open.spotify.com/track/76zg1a9DvGpEHVVQh7Yuv1) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Hansi Kursch](https://open.spotify.com/artist/1i2HdFlSkR6lQ1ZdPAaekO), [Jorn Lande](https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5) | [Moonglow](https://open.spotify.com/album/5YjtryDPR0CWnBNRowJCiC) | 11:14 | 2022-07-08 | 2024-03-09 |
 | [The Raven Child \(feat\. Hansi Kürsch & Jorn Lande\)](https://open.spotify.com/track/1fBJMIV2xSzepfbsnWtg1k) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Hansi Kursch](https://open.spotify.com/artist/1i2HdFlSkR6lQ1ZdPAaekO), [Jorn Lande](https://open.spotify.com/artist/1hlBhTQtfsVJTgwLNpKof5) | [The Raven Child \(feat\. Hansi Kürsch & Jorn Lande\)](https://open.spotify.com/album/29fWQMkU8s2PTLOtLkT8OR) | 11:14 | 2021-12-17 | 2022-04-14 |
 | [The Reckoning](https://open.spotify.com/track/1kHUi1NRlaHVo4NpfAjHJA) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [The Reckoning](https://open.spotify.com/album/41V9xu8mNTL6Zav3AKv31b) | 4:34 | 2024-04-05 | 2024-07-04 |

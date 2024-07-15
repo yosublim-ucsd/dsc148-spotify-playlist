@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Denver Nuggets forward Aaron Gordon takes over Locked In\. See what he's listening to to train during the offseason.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,330,685 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,331,056 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

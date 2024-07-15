@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,247 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,250 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

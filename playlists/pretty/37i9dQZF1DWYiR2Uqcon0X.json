@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723241,
+  "num_followers": 723273,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Oh, Mother",
         "url": "https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 247948,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
         }
       ],
-      "duration_ms": 247693,
-      "name": "Where the Heart Is",
-      "url": "https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv"
+      "duration_ms": 158960,
+      "name": "Cheap Suit",
+      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
       "artists": [
         {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
         }
       ],
-      "duration_ms": 158960,
-      "name": "Cheap Suit",
-      "url": "https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp"
+      "duration_ms": 247693,
+      "name": "Where the Heart Is",
+      "url": "https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Wild Honey",
+        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Wild Honey",
+      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 156386,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
-        "name": "Wild Honey",
-        "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Wild Honey",
-      "url": "https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Glasshouse Children",
-        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
-      },
-      "artists": [
-        {
-          "name": "Sam Williams",
-          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
-        }
-      ],
-      "duration_ms": 91554,
-      "name": "Bulleit Blues",
-      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 240837,
       "name": "Because Of Yours",
       "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Glasshouse Children",
+        "url": "https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl"
+      },
+      "artists": [
+        {
+          "name": "Sam Williams",
+          "url": "https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz"
+        }
+      ],
+      "duration_ms": 91554,
+      "name": "Bulleit Blues",
+      "url": "https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 231471,
       "name": "Long Haul - Piano / Vocal",
       "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Without A Word",
         "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Beast Epic",
         "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Sleeping Alone",
-      "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     },
     {
       "added_at": "2024-07-05 20:46:22",

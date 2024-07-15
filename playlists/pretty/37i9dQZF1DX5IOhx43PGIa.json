@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: keshi.",
-  "num_followers": 286604,
+  "num_followers": 286611,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "flip phone",
         "url": "https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww"
       },
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Takes Me Back Home",
-        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 193137,
-      "name": "Takes Me Back Home",
-      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "all-american bitch!",
-        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "all-american bitch!",
-      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "all-american bitch!",
+        "url": "https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "all-american bitch!",
+      "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1519,8 +1519,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Sorry Sorry",
-        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+        "name": "Time to Pretend (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
       },
       "artists": [
         {
@@ -1528,9 +1528,25 @@
           "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 208830,
-      "name": "Sorry Sorry",
-      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+      "duration_ms": 243035,
+      "name": "Time to Pretend - Spotify Singles",
+      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1583,6 +1599,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 202753,
+      "name": "ENVY",
+      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/582kKnarKgUt5Rl4mEUKGi"
       },
@@ -1607,22 +1655,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "ENVY",
-        "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 202753,
-      "name": "ENVY",
-      "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
       },
@@ -1635,22 +1667,6 @@
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Time to Pretend (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 243035,
-      "name": "Time to Pretend - Spotify Singles",
-      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 184148,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 189555,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 184148,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1927,38 +1927,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "So Familiar",
-        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 238055,
-      "name": "So Familiar",
-      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "summer after senior year",
         "url": "https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju"
       },
@@ -1983,6 +1951,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "TRIBAL",
         "url": "https://open.spotify.com/album/0IVgBIkEeVAARxWIVaFmV4"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 140000,
       "name": "TRIBAL",
       "url": "https://open.spotify.com/track/3MddmE2BeMcsWPdSBcByVl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "all these little words",
+        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "duration_ms": 137946,
+      "name": "all these little words",
+      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "SEEING PINK",
         "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
       },
@@ -2075,18 +2091,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "all these little words",
-        "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
+        "name": "Sunday Song",
+        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
       },
       "artists": [
         {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
         }
       ],
-      "duration_ms": 137946,
-      "name": "all these little words",
-      "url": "https://open.spotify.com/track/05pmzFXKkRsaeLJtTgtf61"
+      "duration_ms": 210972,
+      "name": "Sunday Song",
+      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2103,22 +2119,6 @@
       "duration_ms": 161099,
       "name": "Solo Dates",
       "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Sunday Song",
-        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
-      },
-      "artists": [
-        {
-          "name": "Ricecooker",
-          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
-        }
-      ],
-      "duration_ms": 210972,
-      "name": "Sunday Song",
-      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "small love",
+        "url": "https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "strange",
+      "url": "https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "we'll be okay (EP)",
         "url": "https://open.spotify.com/album/224m1yyY93SJrzv3833ZFz"
       },
@@ -2399,6 +2415,22 @@
       "duration_ms": 110222,
       "name": "i hate ur guts",
       "url": "https://open.spotify.com/track/5XcMd26mYBriMHDXYB5Qwm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2499,22 +2531,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "small love",
-        "url": "https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "strange",
-      "url": "https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Say Hello",
         "url": "https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 174141,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Free Fall",
-        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
     },
     {
       "added_at": "2024-07-12 04:00:00",

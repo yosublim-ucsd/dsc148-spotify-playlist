@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This is Miel San Marcos\. The essential tracks, all in one playlist.
+> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,302 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,315 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 45 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
 | 46 | [Grande Y Fuerte](https://open.spotify.com/track/4uJln3atQbngsUfzXWA9g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:58 |
 | 47 | [Tu Nombre Santo Es \(Feat\. Miel San Marcos\)](https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 7:49 |
-| 48 | [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 |
-| 49 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 |
+| 48 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 |
+| 49 | [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 |
 | 50 | [Me Acerco](https://open.spotify.com/track/7ebaBpHIYPxQ9LeyroWnvc) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Ambientes de Adoración](https://open.spotify.com/album/1DzGUG8ErfkYHbo4fwcele) | 5:17 |
 | 51 | [Me Basta Tu Palabra](https://open.spotify.com/track/057pumBKYToozI7AF5bNwP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Me Basta Tu Palabra](https://open.spotify.com/album/13tqIx3kOoxaS0GR7byC9z) | 5:57 |
 
-Snapshot ID: `ZpByAAAAAABGM+GTEyB6y8Xz9DidacOZ`
+Snapshot ID: `ZpHDgAAAAACRoENMpczCok8EcejHBb/I`

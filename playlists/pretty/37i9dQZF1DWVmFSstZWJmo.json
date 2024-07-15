@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Peaches",
-  "num_followers": 152273,
+  "num_followers": 152387,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 229226,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Walking the Midnight Streets",
         "url": "https://open.spotify.com/album/5J1CfzLqoqhxlEzDjqsBdv"
       },
@@ -923,6 +907,38 @@
       "duration_ms": 211880,
       "name": "D.A.N.C.E - Radio Edit",
       "url": "https://open.spotify.com/track/3gcmn2CtOE9SjBevmvGVEk"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Santigold",
+        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "L.E.S. Artistes",
+      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -971,22 +987,6 @@
       "duration_ms": 166530,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/76ST8TBf6W54nnn8CZaecj"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Santigold",
-        "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "L.E.S. Artistes",
-      "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Mickey Avalon",
-        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
-      },
-      "artists": [
-        {
-          "name": "Mickey Avalon",
-          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "My Dick",
-      "url": "https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Mickey Avalon",
+        "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
+      },
+      "artists": [
+        {
+          "name": "Mickey Avalon",
+          "url": "https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "My Dick",
+      "url": "https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "We Are Pilots",
-        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
-      },
-      "artists": [
-        {
-          "name": "Shiny Toy Guns",
-          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
-        }
-      ],
-      "duration_ms": 203306,
-      "name": "Le Disko",
-      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Feed the Animals",
         "url": "https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 284799,
       "name": "Play Your Part (Pt. 1)",
       "url": "https://open.spotify.com/track/5udnrY00yVUOAzupil2H56"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "We Are Pilots",
+        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
+      },
+      "artists": [
+        {
+          "name": "Shiny Toy Guns",
+          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Le Disko",
+      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Arular",
-        "url": "https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX"
+        "name": "We Started Nothing",
+        "url": "https://open.spotify.com/album/4wj8lA3aSK4WjHjdf5zuFn"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "The Ting Tings",
+          "url": "https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa"
         }
       ],
-      "duration_ms": 196066,
-      "name": "Sunshowers",
-      "url": "https://open.spotify.com/track/0k2zJrBaalaEO50CdlW4mn"
+      "duration_ms": 171226,
+      "name": "Shut Up and Let Me Go",
+      "url": "https://open.spotify.com/track/3bu5GJpyHZs8DfPlkKrnnE"
     }
   ],
   "unique_name": "Indie Sleaze",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 30396,
+  "num_followers": 30421,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAMsiVloOIvlCR63Li6vl5a",
+  "snapshot_id": "ZpHDgAAAAABUY0lH0sWiOZIFrGJl79cO",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "...What Are We?",
-      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stank Face",
         "url": "https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 189845,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Let Light Be Light",
-      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Acoustic)",
         "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223933,
       "name": "Hope - Acoustic",
       "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Let Light Be Light",
+      "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
     },
     {
       "added_at": null,

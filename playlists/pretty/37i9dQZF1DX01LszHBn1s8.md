@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > it's officially summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,191 likes - 953 songs - 2 day 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,285 likes - 953 songs - 2 day 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

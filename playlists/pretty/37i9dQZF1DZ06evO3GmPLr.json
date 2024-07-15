@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 44035,
+  "num_followers": 44078,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABxVONUPkY9R0XPo3adX9HJ",
+  "snapshot_id": "ZpHDgAAAAADJvY8/0JnWY7wxBDjjq1CK",
   "tracks": [
     {
       "added_at": null,
@@ -106,11 +106,15 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 154749,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
     },
     {
       "added_at": null,
@@ -174,15 +178,11 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 226096,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X"
     },
     {
       "added_at": null,

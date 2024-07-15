@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-361 songs - 23 hr 2 min
+362 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 | 2023-12-30 |  |
 | [Limitless from the Movie "Second Act"](https://open.spotify.com/track/46Sqq6dVzY5uFtd93R7I0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Limitless from the Movie "Second Act"](https://open.spotify.com/album/1pTNDIIxBIpjJ99eEYu0Ss) | 4:07 | 2023-12-31 |  |
 | [Little Black Sandals](https://open.spotify.com/track/5bcjREGkqwlYD272fyhwc6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:14 | 2023-12-30 |  |
+| [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 | 2024-07-14 |  |
 | [Little Man \- Exemen Works](https://open.spotify.com/track/0PxXQz4Im41YdDi0J3kPCv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv), [Exemen](https://open.spotify.com/artist/3pCHYkU91rpHix5L78plcF) | [Healing is Difficult \(10th Anniversary Edition\) \(Deluxe\)](https://open.spotify.com/album/077wcp5NLTdkFGSAttyfmG) | 5:03 | 2023-12-30 |  |
 | [Little Wing](https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:18 | 2024-05-05 |  |
 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 | 2023-12-30 |  |

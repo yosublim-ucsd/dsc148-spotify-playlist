@@ -4,7 +4,7 @@
 
 > Tesoros musicales del ayer.
 
-173 songs - 10 hr 8 min
+174 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Eres Tu](https://open.spotify.com/track/7pBsUhpBTklrSv7xYsbEAn) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [14 Exitos de Mocedades](https://open.spotify.com/album/2tGvIIw2UoG502m1ARRgmd) | 3:34 | 2021-04-22 | 2022-07-17 |
 | [Escándalo](https://open.spotify.com/track/2BOqc30CNk9sp1MHbzBDR3) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Coleccion Original](https://open.spotify.com/album/5mwwGVisjZAiAUwLF0IZFC) | 2:32 | 2021-04-22 | 2022-06-08 |
 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 | 2021-04-22 |  |
+| [Esta Tarde Vi Llover](https://open.spotify.com/track/7K1wswXrFRcR0I7EcpDSsM) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:38 | 2021-04-22 |  |
 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 | 2021-04-22 |  |
 | [Garabato Colorado](https://open.spotify.com/track/1XddjFsSL7rpNLcr7FSop7) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Tesoros De Coleccion \- Chabelo](https://open.spotify.com/album/1fJmN6Pwa2nIeX0GnXbW4b) | 3:13 | 2023-03-25 | 2023-10-06 |
 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 | 2021-04-22 |  |
@@ -125,7 +126,7 @@
 | [Nuestro Juramento](https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [El Ruiseñor de America](https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r) | 3:15 | 2021-04-22 | 2024-04-19 |
 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 | 2021-04-22 |  |
 | [O Tu O Ninguna](https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:16 | 2021-04-22 |  |
-| [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 | 2021-04-22 |  |
+| [Oiga](https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:29 | 2021-04-22 | 2024-07-15 |
 | [Palabras Tristes](https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Solo Baladas](https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh) | 3:26 | 2021-04-22 |  |
 | [Para Amarnos Más](https://open.spotify.com/track/2pkTdGQJPsHZdqWW4o4jEz) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:28 | 2021-04-22 | 2024-05-06 |
 | [Payasito \(Ponchinello\) \- Remasterizado](https://open.spotify.com/track/0V4iSCbu2ipf0eEj7S5lEV) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/0jHKZrqqHTc6uZIwYgKZbJ) | 2:36 | 2021-04-22 | 2024-07-06 |

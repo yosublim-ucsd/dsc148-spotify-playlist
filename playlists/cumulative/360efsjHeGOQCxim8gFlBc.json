@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 203473,
       "name": "Amor tumbado",
       "url": "https://open.spotify.com/track/10rR0kUsYI8XkXpRvOtxjD"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 203473,
       "name": "Amor tumbado",
       "url": "https://open.spotify.com/track/53LLSL26TFyQJDf26l2q97"
@@ -1814,6 +1814,28 @@
     {
       "album": {
         "name": "D\u00edas Nublados",
+        "url": "https://open.spotify.com/album/2cVChP6sDyPgvtmuCzhaMo"
+      },
+      "artists": [
+        {
+          "name": "Yair Guiuseppe G\u00f3mez Acosa",
+          "url": "https://open.spotify.com/artist/2bUksXvtwKXQFRxiw6lnKI"
+        },
+        {
+          "name": "Yus Acosta",
+          "url": "https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "D\u00edas Nublados",
+      "url": "https://open.spotify.com/track/0pEjuUh0Hoc0JFzOiYjoyL"
+    },
+    {
+      "album": {
+        "name": "D\u00edas Nublados",
         "url": "https://open.spotify.com/album/4RTIELsZOzmpFATFtsbyoK"
       },
       "artists": [
@@ -1824,7 +1846,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 228600,
       "name": "D\u00edas Nublados",
       "url": "https://open.spotify.com/track/2gtYrWBzGPwhBa4AU1UmuM"
@@ -3900,10 +3922,28 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 204000,
       "name": "Lagunas",
       "url": "https://open.spotify.com/track/6w9iBKPsRH2EEou5T6CQXb"
+    },
+    {
+      "album": {
+        "name": "Lagunas",
+        "url": "https://open.spotify.com/album/5YzlMjDFWqng67hWC1wXkS"
+      },
+      "artists": [
+        {
+          "name": "Yus Acosta",
+          "url": "https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "Lagunas",
+      "url": "https://open.spotify.com/track/2nIXmbPLBaS7OlXZuGioiB"
     },
     {
       "album": {

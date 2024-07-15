@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 170411,
+  "num_followers": 170489,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Schlagschatten",
-        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Vielleicht Vielleicht",
-      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Von Anfang An",
         "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
       },
@@ -95,18 +79,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Schwarzes Herz",
-        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
+        "name": "Schlagschatten",
+        "url": "https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI"
       },
       "artists": [
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Wei\u00dfes Haus",
-      "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
+      "duration_ms": 207751,
+      "name": "Vielleicht Vielleicht",
+      "url": "https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -123,6 +107,22 @@
       "duration_ms": 203630,
       "name": "Was du Liebe nennst",
       "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Schwarzes Herz",
+        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Wei\u00dfes Haus",
+      "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Ja sagen",
-        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "KIOX",
         "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 222642,
       "name": "Bei Dir",
       "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Dein ist mein ganzes Herz",
         "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 213666,
       "name": "Dein ist mein ganzes Herz",
       "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kleiner Finger Schwur",
-        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
       },
       "artists": [
         {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Kleiner Finger Schwur",
-      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -435,6 +419,22 @@
       "duration_ms": 180186,
       "name": "Katharina",
       "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Kleiner Finger Schwur",
+        "url": "https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Kleiner Finger Schwur",
+      "url": "https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Nur wegen dir",
-        "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
-      },
-      "artists": [
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Nur wegen dir",
-      "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Er geh\u00f6rt zu mir",
         "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 180200,
       "name": "Er geh\u00f6rt zu mir",
       "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Nur wegen dir",
+        "url": "https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Nur wegen dir",
+      "url": "https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Irgendwie anders",
         "url": "https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 193200,
       "name": "Kaum Erwarten",
       "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209720,
       "name": "Demo (Letzter Tag)",
       "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-02-09 07:01:34",

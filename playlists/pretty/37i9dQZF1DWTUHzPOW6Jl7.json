@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 624363,
+  "num_followers": 624686,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+    },
+    {
       "added_at": "2024-03-22 07:20:24",
       "album": {
         "name": "TYLA",
@@ -199,6 +219,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -215,38 +251,38 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": "2023-07-14 04:17:24",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2024-06-14 07:39:29",
@@ -295,42 +331,6 @@
       "duration_ms": 220639,
       "name": "Long Way 2 Go",
       "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": "2023-07-14 04:17:24",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 203786,
       "name": "One, Two Step (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2024-03-22 07:20:24",
@@ -563,26 +563,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Don't Cha",
-      "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Don't Cha",
+      "url": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -659,6 +659,26 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 207746,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Ayo",
-      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -785,6 +785,22 @@
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
       "added_at": "2023-07-14 04:17:24",
       "album": {
         "name": "On My Mama",
@@ -839,22 +855,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 228000,
       "name": "Breathe (feat. Sean Paul) - Rap Version",
       "url": "https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -947,22 +963,6 @@
       "duration_ms": 232000,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
       "added_at": "2022-08-25 12:17:17",
@@ -1204,9 +1204,9 @@
           "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
-      "added_at": "2024-03-22 07:20:24",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Princess Going Digital",
-      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+      "duration_ms": 198346,
+      "name": "Shackles (Praise You)",
+      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1301,20 +1301,52 @@
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
+      "added_at": "2024-03-22 07:20:24",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
       "artists": [
         {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 198346,
-      "name": "Shackles (Praise You)",
-      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
+      "duration_ms": 189440,
+      "name": "Princess Going Digital",
+      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Almost Famous",
+        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
+      },
+      "artists": [
+        {
+          "name": "Lumidee",
+          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
     },
     {
       "added_at": "2024-03-22 07:20:24",
@@ -1339,22 +1371,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Almost Famous",
-        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
-      },
-      "artists": [
-        {
-          "name": "Lumidee",
-          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
-      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 255706,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/24NPziq3dayIMKppeI94Um"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-08-02 10:25:51",

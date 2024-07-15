@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 963884,
+  "num_followers": 963889,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -523,42 +523,6 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
-        "name": "La Reina Del Baile",
-        "url": "https://open.spotify.com/album/69YDziXEfsmXefMiiZWwf7"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 191931,
-      "name": "La Reina Del Baile",
-      "url": "https://open.spotify.com/track/4YYp45N7TiPexvtzKZrFDm"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC"
       },
@@ -579,6 +543,42 @@
       "duration_ms": 151105,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "La Reina Del Baile",
+        "url": "https://open.spotify.com/album/69YDziXEfsmXefMiiZWwf7"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 191931,
+      "name": "La Reina Del Baile",
+      "url": "https://open.spotify.com/track/4YYp45N7TiPexvtzKZrFDm"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     },
     {
       "added_at": "2024-07-09 10:06:05",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-09 10:06:05",
       "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
+    },
+    {
+      "added_at": "2024-07-09 10:06:05",
+      "album": {
         "name": "TODAV\u00cdA",
         "url": "https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188693,
       "name": "A Las 12",
       "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
-    },
-    {
-      "added_at": "2024-07-09 10:06:05",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
     },
     {
       "added_at": "2024-07-09 10:06:05",

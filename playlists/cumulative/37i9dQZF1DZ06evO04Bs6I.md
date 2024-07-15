@@ -4,7 +4,7 @@
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 9 min
+52 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Em Troca](https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 4:36 | 2023-07-09 |  |
 | [Espero Por Ti](https://open.spotify.com/track/00L5VK0Etex3Kolo7iglIV) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Espero Por Ti](https://open.spotify.com/album/6HPsW00Ig5tKjcU5jywqVb) | 5:48 | 2023-07-09 |  |
 | [Eu Sei Que Vem \- Ao Vivo](https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:07 | 2023-07-09 |  |
-| [Eu Tenho Você](https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8) | 6:34 | 2023-07-09 |  |
+| [Eu Tenho Você](https://open.spotify.com/track/0oMn4ekYhRgtFMbAAzR0r9) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/3aQavEzfViHr3Qi6xaRNB9) | 6:34 | 2024-07-15 |  |
+| [Eu Tenho Você](https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8) | 6:34 | 2023-07-09 | 2024-07-15 |
 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 | 2023-07-09 |  |
 | [Guia\-me](https://open.spotify.com/track/2epjjOlDk4NrSMPtCvPkSc) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Guia\-me](https://open.spotify.com/album/2EEQMKmT4Ce4VCYWuWMSQS) | 4:08 | 2023-07-09 | 2024-06-26 |
 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 | 2023-07-09 |  |

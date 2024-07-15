@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Manu Chao en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,914 likes - 101 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,921 likes - 101 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

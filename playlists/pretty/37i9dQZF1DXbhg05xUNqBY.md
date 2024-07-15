@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,263 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,273 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 32 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
 | 33 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 |
 | 34 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 35 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 |
-| 36 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 |
-| 37 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
-| 38 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
+| 35 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 |
+| 36 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 |
+| 37 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
+| 38 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 39 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 40 | [Who is This Jesus?](https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [A King & His Kindness](https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm) | 4:08 |
 | 41 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 68 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 |
 | 69 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 |
 | 70 | [Just Come](https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k) | [Creative Culture Co.](https://open.spotify.com/artist/7EhN5XvPZsonZTmF3KGZLi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [At the Table](https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB) | 3:37 |
-| 71 | [Psalm 16](https://open.spotify.com/track/1rgIhsWQQ6JUWHQDiVlHPG) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [Psalm 16](https://open.spotify.com/album/3d9KcEGWRjeffR65JxSB6t) | 4:29 |
-| 72 | [Lightning](https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [Lightning](https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN) | 3:34 |
-| 73 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
-| 74 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 |
-| 75 | [The Thank You Song](https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz) | [Kevin Jones](https://open.spotify.com/artist/3nU78mclpmN6Yv3m5mvTUL) | [Simple as That](https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV) | 3:17 |
+| 71 | [Lightning](https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Harolddd](https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V) | [Lightning](https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN) | 3:34 |
+| 72 | [Psalm 16](https://open.spotify.com/track/1rgIhsWQQ6JUWHQDiVlHPG) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [Psalm 16](https://open.spotify.com/album/3d9KcEGWRjeffR65JxSB6t) | 4:29 |
+| 73 | [Like A Kid](https://open.spotify.com/track/6GsZ4HTLTKZR9PHLDMJOfO) | [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6) | [Glasshouse](https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W) | 3:45 |
+| 74 | [God Who Saves](https://open.spotify.com/track/0bbL9rzu1AkfchxvD3LsTP) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Valley](https://open.spotify.com/album/3BoecgmoOMsloSsVhPGc8H) | 4:39 |
+| 75 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart \(Live\)](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 |
 
 Snapshot ID: `ZneOBgAAAABU26VHUnrQrROWf8sLatEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,118 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,122 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 58 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
 | 59 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
 | 60 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
-| 61 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
-| 62 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
-| 63 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
-| 64 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
-| 65 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
-| 66 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
+| 61 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 62 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
+| 63 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
+| 64 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
+| 65 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
+| 66 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
 | 67 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 |
 | 68 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
 | 69 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 |

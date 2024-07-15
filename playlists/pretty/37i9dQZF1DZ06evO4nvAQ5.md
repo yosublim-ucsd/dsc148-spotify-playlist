@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,327 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,334 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 27 | [Let's Get It On \(with J Boog\)](https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Indigenous Life](https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2) | 3:47 |
 | 28 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
 | 29 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 |
-| 30 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 |
-| 31 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
+| 30 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 |
+| 31 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 |
 | 32 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
 | 33 | [Brighter Days](https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:36 |
 | 34 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 41 | [Rose Petals](https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:02 |
 | 42 | [Just You & Me \(with J Boog\)](https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Just You & Me](https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl) | 3:25 |
 | 43 | [Coldest Zone](https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:12 |
-| 44 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
-| 45 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
+| 44 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 |
+| 45 | [Cool Down The Pace](https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [We Remember Gregory Isaacs](https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu) | 4:11 |
 | 46 | [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 |
 | 47 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 | 48 | [Live Your Life \(feat\. J Boog & Busy Signal\)](https://open.spotify.com/track/7yZwDw6yHx5PyHXllicStI) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:33 |
 | 49 | [Blaze It for Days \(feat\. Lion Fiyah & Gappy Ranks\)](https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Lion Fiyah](https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:07 |
 | 50 | [Break Us Apart](https://open.spotify.com/track/7o3rG4WBwROoE8USJMS5Xc) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Break Us Apart](https://open.spotify.com/album/36crWYwVp2wVZiP6dB5Kzn) | 3:40 |
 
-Snapshot ID: `ZpByAAAAAABkPqGMFo0eO7ppGtxXPmXo`
+Snapshot ID: `ZpHDgAAAAAC1219PFuGHsH2rHgz9DbZi`

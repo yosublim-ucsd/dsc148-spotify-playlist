@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This Is Jon Hassell\. Los temas esenciales, todos en una lista.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,032 likes - 51 songs - 4 hr 53 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 50 | [Paris I](https://open.spotify.com/track/4aEYTBCoBR8j2rqoMDsM30) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 5:48 |
 | 51 | [Jadwa](https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 5:17 |
 
-Snapshot ID: `ZpByAAAAAADrSf8YwlO8wvZuwDeZQEyT`
+Snapshot ID: `ZpByAAAAAAAfkssxVdxbWE+i23XfKcIE`

@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-761 songs - 1 day 17 hr 2 min
+762 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-06 | 2023-02-17 |
 | [aguardiente](https://open.spotify.com/track/45Es57L177QwhVZ06hwvCd) | [Miranda del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [aguardiente](https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch) | 2:51 | 2024-03-01 |  |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2021-12-02 | 2022-03-22 |
-| [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 | 2024-04-26 |  |
+| [AHORA](https://open.spotify.com/track/2HexhleZwfvBx9zJ6k4Kak) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:03 | 2024-04-26 | 2024-07-15 |
 | [Aiwo](https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Aiwo](https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz) | 2:20 | 2024-02-23 | 2024-07-13 |
 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-03-15 | 2023-05-30 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-10-28 | 2023-02-17 |
@@ -234,6 +234,7 @@
 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 | 2023-09-29 | 2023-10-14 |
 | [Entremundos](https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Entremundos](https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X) | 3:25 | 2023-02-17 | 2023-08-26 |
 | [escribiendo TKM](https://open.spotify.com/track/5m3GrJudqpsH6q66P0Ch8w) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [escribiendo TKM](https://open.spotify.com/album/6Pe75DwNVa2GbrNHentgGO) | 2:25 | 2024-01-12 | 2024-02-24 |
+| [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 | 2024-07-12 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2023-09-29 | 2023-10-14 |
 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 | 2023-10-13 | 2024-01-13 |
 | [Estrellas en la Oscuridad](https://open.spotify.com/track/5x8067jSWiCT7BXWsWPxia) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [El Abismo](https://open.spotify.com/album/6s6Mxa7bn8FYGWKQzgoOWc) | 3:43 | 2024-02-09 | 2024-07-13 |

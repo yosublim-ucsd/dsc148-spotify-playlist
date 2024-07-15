@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,258 songs - 2 day 16 hr 59 min
+1,259 songs - 2 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2021-04-30 | 2022-03-14 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-05-30 | 2022-04-13 |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2019-08-31 | 2020-04-29 |
-| [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 | 2024-06-08 |  |
+| [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 | 2024-06-08 | 2024-07-15 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2021-04-30 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2020-08-22 | 2021-04-30 |
 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 | 2019-06-08 | 2019-08-13 |
@@ -587,6 +587,7 @@
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2024-02-23 |  |
 | [La La Land](https://open.spotify.com/track/4UprSV8Kcj1kcSZNZrAW4e) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land](https://open.spotify.com/album/3vZmHuUzOwNEiWabjxY7zt) | 2:37 | 2019-06-08 | 2020-04-29 |
 | [La La Land \(feat\. YG\)](https://open.spotify.com/track/3TpBefRZ1vFcOH6z57PQRI) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [La La Land \(feat\. YG\)](https://open.spotify.com/album/0uEsmL4LP4fOPwa5ZVXICS) | 2:57 | 2019-06-01 | 2019-06-08 |
+| [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-07-12 |  |
 | [Lalala](https://open.spotify.com/track/07rmSXN6vNoquX1AsWd9pP) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4kjRJxs1i8m3mv8bI0o8OP) | 2:40 | 2019-06-22 | 2020-04-29 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-10-12 | 2021-10-13 |
 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 | 2022-04-14 | 2022-06-18 |

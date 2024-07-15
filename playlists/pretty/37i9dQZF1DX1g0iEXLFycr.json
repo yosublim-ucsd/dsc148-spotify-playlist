@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1081614,
+  "num_followers": 1081589,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -63,18 +63,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 206413,
-      "name": "Feel So Close - Radio Edit",
-      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Sing When You're Winning",
-        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Rock DJ",
-      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Sing When You're Winning",
+        "url": "https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Rock DJ",
+      "url": "https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Flowers (feat. Jaykae and MALIKA)",
+        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Flowers (feat. Jaykae and MALIKA)",
+      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 242786,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Flowers (feat. Jaykae and MALIKA)",
-        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Flowers (feat. Jaykae and MALIKA)",
-      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
     },
     {
       "added_at": "2024-03-22 16:40:22",

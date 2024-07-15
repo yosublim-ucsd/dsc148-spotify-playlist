@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 736170,
+  "num_followers": 736164,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -224,22 +224,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228460,
-      "name": "Delicate - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
       "artists": [
@@ -251,6 +235,22 @@
       "duration_ms": 176586,
       "name": "Use Somebody - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228460,
+      "name": "Delicate - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 192146,
-      "name": "2002 - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Smalltown Boy (Spotify Singles)",
         "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -812,22 +796,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
       "artists": [
@@ -839,6 +807,38 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 192146,
+      "name": "2002 - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -860,22 +860,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Like A Virgin - Spotify Singles",
-      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
       "artists": [
@@ -887,6 +871,22 @@
       "duration_ms": 181000,
       "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 191992,
+      "name": "Like A Virgin - Spotify Singles",
+      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
     },
     {
       "added_at": "2023-01-11 19:54:48",

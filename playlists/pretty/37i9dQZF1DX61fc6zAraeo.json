@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98845,
+  "num_followers": 98851,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Save My Soul",
         "url": "https://open.spotify.com/album/7xysDMmdSNvfdrY1IQwvo5"
       },
@@ -483,6 +463,46 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 174220,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "24k Heart Of Gold",
         "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 136642,
       "name": "24k Heart Of Gold",
       "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Elevate (feat. RANI)",
-        "url": "https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Thompson",
-          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 132467,
-      "name": "Elevate (feat. RANI)",
-      "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Elevate (feat. RANI)",
+        "url": "https://open.spotify.com/album/1BJiT96gyEtwZ42k4OdecY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 132467,
+      "name": "Elevate (feat. RANI)",
+      "url": "https://open.spotify.com/track/1CJUiFwl7TunU6G4tjFf2A"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Lost My Way",
-        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 142700,
-      "name": "Lost My Way",
-      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Rapture (with Robert Falcon)",
         "url": "https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Lost My Way",
+        "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 142700,
+      "name": "Lost My Way",
+      "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "LOUI LANE",
-          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
-        }
-      ],
-      "duration_ms": 147253,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/5PG4dJqM18cKtGl0vE5cJk"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "LOUI LANE",
+          "url": "https://open.spotify.com/artist/0ZmqAO2kf9AFpYbnT7Z9MN"
+        }
+      ],
+      "duration_ms": 147253,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/4bH4PYPmrsKcw2rI5c3QqD"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
       },
       "artists": [
         {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
+      "duration_ms": 187920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj"
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 187920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu"
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1311,30 +1311,6 @@
       "duration_ms": 199218,
       "name": "Can't Talk Right Now",
       "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "DES3ETT",
-          "url": "https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN"
-        },
-        {
-          "name": "Georgia Meek",
-          "url": "https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1363,6 +1339,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/2zSO8RqfAatj24OjXWG94d"
       },
@@ -1387,22 +1383,26 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6hzL8KtH8J597ggeNfVxHS"
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/0ZcoPTlFVu4qjJuDtwFeIg"
       },
       "artists": [
         {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "DES3ETT",
+          "url": "https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN"
+        },
+        {
+          "name": "Georgia Meek",
+          "url": "https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS"
         }
       ],
-      "duration_ms": 160400,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3v2bQyQMYdlpxO8hpbA4Po"
+      "duration_ms": 142200,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Nothing Left To Say",
-        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Nothing Left To Say",
-      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Watch Me (Radio Edit)",
         "url": "https://open.spotify.com/album/3wV3MUVnC6gvZwWPZRAQMa"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 166451,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "Nothing Left To Say",
+        "url": "https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Nothing Left To Say",
+      "url": "https://open.spotify.com/track/3MxZYK11pAciPApseszdNu"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm"
-      },
-      "artists": [
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "Kayla Diamond",
-          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
-        }
-      ],
-      "duration_ms": 165804,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
-    },
-    {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/7nFrtfZGra2UMK0XmSqFHO"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 200585,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/5wbVnCpaHQ0PpIMSBUjq3u"
+    },
+    {
+      "added_at": "2024-07-04 22:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3M8mh9sMhke8hLDVmsumNm"
+      },
+      "artists": [
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "Kayla Diamond",
+          "url": "https://open.spotify.com/artist/0ZXXi9wCxbPap3QVDxxIYb"
+        }
+      ],
+      "duration_ms": 165804,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
     },
     {
       "added_at": "2024-07-04 22:00:00",

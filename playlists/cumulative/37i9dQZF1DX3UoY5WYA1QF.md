@@ -4,7 +4,7 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-168 songs - 8 hr 49 min
+169 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Mil Navajas](https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:00 | 2023-04-10 |  |
 | [Mil Navajas](https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mil Navajas](https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs) | 2:58 | 2024-07-12 |  |
 | [Moriré Esperando](https://open.spotify.com/track/1c8e6seRfcgMHQ6azvXqbO) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:38 | 2023-04-10 |  |
+| [Mr\. Mandilón](https://open.spotify.com/track/3krnQOyZoTT54l1Bnzo4Xi) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Volví Pa´l Pueblo Acompañado Vol\. 1](https://open.spotify.com/album/27tyk3niWuwlHWl8wCCRGT) | 3:15 | 2024-07-12 |  |
 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 | 2023-04-10 | 2024-04-19 |
 | [Nada De Ti](https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:06 | 2023-04-10 |  |
 | [Niña Hechicera](https://open.spotify.com/track/5z379KMiQxc4QIV6sD2pzf) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:04 | 2023-04-10 |  |
@@ -142,7 +143,7 @@
 | [Recuérdame Bonito](https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Recuérdame Bonito](https://open.spotify.com/album/3BO3ykbylrQ69t4bxprqlO) | 3:11 | 2023-04-10 |  |
 | [Rumores](https://open.spotify.com/track/5qebmxkA0qSeW9g3avEUBW) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Coleccion De Oro Vol\. 2 \- Joan Sebastian](https://open.spotify.com/album/06wLCrxmxvmBxq9PicjJvj) | 3:42 | 2023-04-10 | 2024-07-13 |
 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2023-04-10 | 2024-04-19 |
-| [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 | 2024-05-06 |  |
+| [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 | 2024-05-06 | 2024-07-15 |
 | [Rumores](https://open.spotify.com/track/1goQCzznunJPbBTg3ncVVH) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 3:07 | 2023-04-10 | 2024-04-19 |
 | [Rumores](https://open.spotify.com/track/4U7IDsM2SuheFR7kGae09Q) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i) | 3:10 | 2023-04-10 |  |
 | [Sangoloteadito](https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA) | [Conjunto Sol De Ojinaga](https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8) | [El Homenaje Al Poeta Del Pueblo Joan Sebastian](https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2) | 3:47 | 2023-04-10 |  |

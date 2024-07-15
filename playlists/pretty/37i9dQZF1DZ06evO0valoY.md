@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 ### [This Is Eslabon Armado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY)
 
-> This is Eslabon Armado\. The essential tracks, all in one playlist.
+> This Is Eslabon Armado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,437 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,496 likes - 47 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 17 | [LA PERRIE](https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:25 |
 | 18 | [La Fresa](https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu) | 2:54 |
 | 19 | [Te Encontré](https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Te Encontré](https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX) | 3:17 |
-| 20 | [Amarte a la Antigua](https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amarte a la Antigua](https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd) | 3:38 |
+| 20 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 |
 | 21 | [QUE DIABLOS HICE \(INTERLUDE\)](https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 1:47 |
-| 22 | [24 Horas](https://open.spotify.com/track/0T8lt51Lvj1OAj750PH6X9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 5:17 |
+| 22 | [Amarte a la Antigua](https://open.spotify.com/track/1SpO1TuC0yVzDnfLcZ85xA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Amarte a la Antigua](https://open.spotify.com/album/6fHcBQcCso57J2UOHCJynd) | 3:38 |
 | 23 | [Tonto Perdedor](https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:22 |
 | 24 | [Catorce de Febrero](https://open.spotify.com/track/36EQeUxiJibZQ0WLICBZua) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:35 |
 | 25 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 46 | [Hermosura de Mujer](https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:44 |
 | 47 | [Aretes](https://open.spotify.com/track/5ItFDgE4V1nq9VkDfZTedg) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 
-Snapshot ID: `ZpByAAAAAADPSh431+2f0z7FndcRT+J4`
+Snapshot ID: `ZpHDgAAAAABN95V66MY/Flzvi3sIZNgg`

@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-232 songs - 13 hr 2 min
+233 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 | 2024-06-05 |  |
 | [Clear Desk, Reminisce The Past 시험기간 책상정리](https://open.spotify.com/track/5vyoMxPGiaXrYsozWOlRoA) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:41 | 2022-05-11 | 2022-07-09 |
 | [Close to You \(feat\. sunwoojunga\)](https://open.spotify.com/track/5NUaCwrNWlV8tVwY6zTY4F) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [oceanfromtheblue](https://open.spotify.com/album/0M8HgrImu8DbqaHJ8dCjYg) | 2:55 | 2023-02-03 | 2023-05-15 |
+| [Color me](https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY) | [summer](https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/7nHakKPqirVerK9QHackK7) | 3:11 | 2024-06-05 |  |
 | [Come Close](https://open.spotify.com/track/7nQmQlxomSUbzMK91vLMma) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Come Close](https://open.spotify.com/album/5AjxhleLjnHXeuCsR4IwlX) | 3:23 | 2022-06-20 | 2022-07-28 |
 | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/track/40wyDhO974VOe491zfVLbC) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Confession \(Ditto X Chuu \(LOONA\)\)](https://open.spotify.com/album/4lqmvZ7sla2GqrhOv8FMsp) | 4:03 | 2022-11-03 | 2024-03-09 |
 | [Confuse](https://open.spotify.com/track/5DVfZpo2EUQ9ZdpBDx4w5H) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:37 | 2024-03-08 | 2024-04-07 |
@@ -107,7 +108,7 @@
 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2024-01-28 |
 | [izzana \(Feat\. OLNL\)](https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [izzana \(Feat\. OLNL\)](https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N) | 3:32 | 2024-05-14 |  |
 | [I′ll tell you today](https://open.spotify.com/track/3mOQFlfQMDlJWp8AK4aTKj) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [I'll tell you today \(PRIENDS Original Soundtrack Part 2\)](https://open.spotify.com/album/0ahqw51XhfIX7Eevi5NtmW) | 2:41 | 2022-05-11 | 2022-07-28 |
-| [JUST RIGHT \(feat\. SOLE\)](https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:58 | 2024-03-21 |  |
+| [JUST RIGHT \(feat\. SOLE\)](https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 2:58 | 2024-03-21 | 2024-07-15 |
 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 | 2022-08-09 | 2024-03-09 |
 | [L.O.V.E](https://open.spotify.com/track/4cRAQZ8SzbTlqhD6jxhNFD) | [DANI \(Park Hyuck Jin\)](https://open.spotify.com/artist/1UzO0KpLhB7BGq2ejDKkpQ) | [Oh My Wedding OST Part.3](https://open.spotify.com/album/6nEZwWK3EoGPCbBcynPJOb) | 3:02 | 2022-07-04 | 2022-07-19 |
 | [Let's Love](https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Let's Love](https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P) | 3:40 | 2023-03-02 | 2023-11-23 |

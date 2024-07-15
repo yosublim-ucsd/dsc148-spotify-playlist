@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Hak Baker
 
-597 songs - 1 day 9 hr 32 min
+598 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,8 +88,9 @@
 | [Boyfriend](https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT) | [Hot Freaks](https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9) | [Boyfriend](https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs) | 3:22 | 2023-07-13 | 2023-09-10 |
 | [Break Right In](https://open.spotify.com/track/5CGI3BH6qXG6tSRwq6E8IQ) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Break Right In](https://open.spotify.com/album/6vyfTT54LDqMiX8BoakH0k) | 3:17 | 2022-01-17 | 2022-07-29 |
 | [Break Right In](https://open.spotify.com/track/6uUIfHixhGAsm3PcMOmv1Q) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [A Passionate Life](https://open.spotify.com/album/6xfTNIzi9KL3Lxzz6jbzSp) | 3:17 | 2022-04-01 | 2022-08-19 |
-| [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 |  |
+| [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-07-15 |
 | [Bucket](https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Bucket](https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS) | 2:59 | 2024-03-15 | 2024-06-23 |
+| [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-12 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
 | [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 | 2023-08-20 |
 | [Can't Get In](https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB) | 2:41 | 2022-10-13 | 2023-07-22 |

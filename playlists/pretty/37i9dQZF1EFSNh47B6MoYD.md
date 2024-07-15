@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 115 | [Ten Cuidao \- En Vivo](https://open.spotify.com/track/1Cb0jvXLZAaXeQpxMErBrD) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:35 |
 | 116 | [Nota 10](https://open.spotify.com/track/3MOu40is7Omfmhkx5zh8Kj) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [EP Z4](https://open.spotify.com/album/3U7lCBWkbwjZhP5UQRm0Vn) | 2:16 |
 | 117 | [Por Qué?](https://open.spotify.com/track/6KkfzyRjWlKUKqgg3T9euM) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 3:35 |
-| 118 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
-| 119 | [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 |
+| 118 | [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 |
+| 119 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
 | 120 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 |
 | 121 | [La Llovizna](https://open.spotify.com/track/4kaAnwEEPtruQuOrrDUh7V) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:24 |
 | 122 | [Todo lo que tengo](https://open.spotify.com/track/1y6bwnm3umP0UtXEcHYLRn) | [Alejandro Montaner](https://open.spotify.com/artist/0dZlVKiQoLq5mAoAHpxNXb) | [Todo lo que tengo](https://open.spotify.com/album/6O8M0wUgUXqq93io3jHVW9) | 4:39 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 144 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbWnggAAAAConMetKcwON5oxQ2WhzHe8`
+Snapshot ID: `AbWtIgAAAABRYtbhooL3cl1ZRbqQJzC/`

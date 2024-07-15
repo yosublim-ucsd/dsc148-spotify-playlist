@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-472 songs - 1 day 3 hr 23 min
+474 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 | 2024-01-29 |  |
 | [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/0cIzKcSr6dWw0su2ZBCTcQ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:47 | 2024-01-29 |  |
 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 | 2024-01-29 |  |
-| [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-07 |  |
+| [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-07 | 2024-07-15 |
+| [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 | 2024-07-14 |  |
 | [Hurt Me \- From "Songland"](https://open.spotify.com/track/1zHmzN75pKHflokUGZh7sA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hurt Me \(From "Songland"\)](https://open.spotify.com/album/4YP60BnlLCXFtfKun5GBje) | 3:17 | 2024-01-29 |  |
 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 | 2024-01-29 |  |
 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 | 2024-01-29 |  |
@@ -333,7 +334,8 @@
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2024-01-29 |  |
 | [Run \(with Mariah Angeliq\) \- Latin Version](https://open.spotify.com/track/0RpCZ17BXI0x8b14UFrgDQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Run \(with Mariah Angeliq\) \[Latin Version\]](https://open.spotify.com/album/7tXGtR2l4iE3kvuCzFqLxL) | 2:16 | 2024-01-29 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-01-29 |  |
-| [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2024-01-31 |  |
+| [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2024-01-31 | 2024-07-15 |
+| [RUNAWAY](https://open.spotify.com/track/2LsFnG9KYkWSk8dVopmHw2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:25 | 2024-07-14 |  |
 | [RUNAWAY](https://open.spotify.com/track/3C5AsFcPYH5XbcssxenJkS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/4Lz2PWcpIOgjHv9Ckyfdex) | 3:28 | 2024-01-29 | 2024-02-01 |
 | [S.T.O.P \(feat\. Ryan Tedder\)](https://open.spotify.com/track/37TgrDSXlOQI1mAqASPI7F) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:34 | 2024-01-29 |  |
 | [Same Blood](https://open.spotify.com/track/6no2TiaMDBkI5Mo6yssV4X) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Same Blood](https://open.spotify.com/album/6hkAYWquyUAcEI0TuzOKtq) | 3:03 | 2024-01-29 |  |

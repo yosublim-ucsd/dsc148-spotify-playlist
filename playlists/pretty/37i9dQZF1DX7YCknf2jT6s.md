@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Linda Sikhakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,515 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,570 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

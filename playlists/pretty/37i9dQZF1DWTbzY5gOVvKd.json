@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1228462,
+  "num_followers": 1228646,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "Jazz Love",
         "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 182508,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "Move On: A Sondheim Adventure",
         "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "From New York To Paris",
         "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+      "duration_ms": 192133,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "Keep Me From The Cold",
         "url": "https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 283586,
       "name": "Keep Me From The Cold",
       "url": "https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 229365,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -779,22 +795,6 @@
       "duration_ms": 277226,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 229365,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
         "name": "Me and My Radio",
         "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "Sweet Pumpkin",
         "url": "https://open.spotify.com/album/0POEh5608y0eem6LXKOG76"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "A New Path",
         "url": "https://open.spotify.com/album/6f661pRqdOU9WDFmPZID3Q"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 348740,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/4g0fsmqHLOP8QyiyEA9m6k"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
     },
     {
       "added_at": "2024-07-08 07:48:27",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-08 07:48:27",
       "album": {
+        "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+        "url": "https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 162520,
+      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+      "url": "https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T"
+    },
+    {
+      "added_at": "2024-07-08 07:48:27",
+      "album": {
         "name": "For All We Know",
         "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 206000,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
-    },
-    {
-      "added_at": "2024-07-08 07:48:27",
-      "album": {
-        "name": "On an Evening in Roma (Sott'er Celo de Roma)",
-        "url": "https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 162520,
-      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
-      "url": "https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T"
     },
     {
       "added_at": "2024-07-08 07:48:27",

@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 364586,
+  "num_followers": 364551,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
+      },
+      "artists": [
+        {
+          "name": "Kabin Crew",
+          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
+        },
+        {
+          "name": "Lisdoonvarna Crew",
+          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
+        }
+      ],
+      "duration_ms": 146384,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "The Spark",
-        "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
-      },
-      "artists": [
-        {
-          "name": "Kabin Crew",
-          "url": "https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK"
-        },
-        {
-          "name": "Lisdoonvarna Crew",
-          "url": "https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi"
-        }
-      ],
-      "duration_ms": 146384,
-      "name": "The Spark",
-      "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "VOI TILL MIN FUCKBOI",
+        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 142304,
+      "name": "VOI TILL MIN FUCKBOI",
+      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "PO PO PULL UP",
         "url": "https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 130153,
       "name": "IGEN IGEN IGEN",
       "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "VOI TILL MIN FUCKBOI",
-        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
-      },
-      "artists": [
-        {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 142304,
-      "name": "VOI TILL MIN FUCKBOI",
-      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "K\u00f6r Ba' K\u00f6r",
+        "url": "https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK"
+      },
+      "artists": [
+        {
+          "name": "PERZZONA",
+          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+        }
+      ],
+      "duration_ms": 150501,
+      "name": "K\u00f6r Ba' K\u00f6r",
+      "url": "https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Leva/D\u00f6",
         "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 184258,
       "name": "MEDVETSL\u00d6S",
       "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "K\u00f6r Ba' K\u00f6r",
-        "url": "https://open.spotify.com/album/4LucKKKFW44J8bzkCV0VUK"
-      },
-      "artists": [
-        {
-          "name": "PERZZONA",
-          "url": "https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC"
-        },
-        {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
-        }
-      ],
-      "duration_ms": 150501,
-      "name": "K\u00f6r Ba' K\u00f6r",
-      "url": "https://open.spotify.com/track/6Mxe947VeRmLuH6L1GBb9i"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "PRIPPS I L\u00c5NGBURK",
+        "url": "https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "Banditerna",
+          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
+        }
+      ],
+      "duration_ms": 95438,
+      "name": "PRIPPS I L\u00c5NGBURK",
+      "url": "https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Mwaki (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 177230,
       "name": "Mwaki - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "PRIPPS I L\u00c5NGBURK",
-        "url": "https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX"
-      },
-      "artists": [
-        {
-          "name": "vem e du",
-          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
-        },
-        {
-          "name": "Banditerna",
-          "url": "https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ"
-        }
-      ],
-      "duration_ms": 95438,
-      "name": "PRIPPS I L\u00c5NGBURK",
-      "url": "https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT"
     },
     {
       "added_at": "2024-06-13 22:00:00",

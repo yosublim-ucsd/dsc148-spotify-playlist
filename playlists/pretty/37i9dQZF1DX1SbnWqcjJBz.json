@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 112363,
+  "num_followers": 112400,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 189333,
       "name": "Cool",
       "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Perfect Day Single",
-        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
-      },
-      "artists": [
-        {
-          "name": "Hoku",
-          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Heart to Break",
         "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225972,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Perfect Day Single",
+        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Teen Spirit",
-        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Joyful Noise",
         "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211853,
       "name": "Move in the Right Direction",
       "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Teen Spirit",
+        "url": "https://open.spotify.com/album/4Puwtzbl10V90RTsk8XzWF"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3lfLAToNl2Ibcuo9U6UTSd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Welcome to the Jungle (Deluxe)",
         "url": "https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Dedicated",
         "url": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "MDNA (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Exposed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 208133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5myYDbAurm1CW038qd4gL2"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "MDNA (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk"
     }
   ],
   "unique_name": "Deserved",

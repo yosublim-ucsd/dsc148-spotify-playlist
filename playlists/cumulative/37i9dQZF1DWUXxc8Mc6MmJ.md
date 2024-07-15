@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-293 songs - 18 hr 55 min
+294 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 | 2022-05-11 |  |
 | [Heartbeat](https://open.spotify.com/track/2c8ZAZPa0bDKpBm7n5gBwJ) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Strong Woman Do Bong Soon, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1ZsgoAzyP5WQKUheJqbzqO) | 3:52 | 2024-04-03 | 2024-04-19 |
 | [Heartstrings](https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [Heartstrings OST Part.1](https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ) | 3:11 | 2024-04-04 |  |
-| [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 | 2022-05-11 |  |
+| [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 | 2022-05-11 | 2024-07-15 |
 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 | 2022-05-11 |  |
 | [Here I am](https://open.spotify.com/track/0RDu8QpQwZMtzRjmjL6fp2) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Mr\. Queen \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5Gl6E2Fvv0BXCNHZn2QlTY) | 3:58 | 2022-05-11 | 2022-07-26 |
 | [Here I Am Again](https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk) | 3:54 | 2024-04-03 | 2024-04-19 |
@@ -139,6 +139,7 @@
 | [It\`s you](https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Whats wrong with secretary kim OST Part.2](https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT) | 3:39 | 2024-04-03 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2022-05-11 | 2022-07-01 |
 | [It′s Okay, That′s Love](https://open.spotify.com/track/1ybq1nfLfpyvga0hkNXFAu) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 4:04 | 2024-04-04 | 2024-04-24 |
+| [Just Like a Dream](https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 | 2024-06-25 |  |
 | [Just stay](https://open.spotify.com/track/6zoRfHnv1ohgmCkmkwtZg9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [30 But 17 OST Part.2](https://open.spotify.com/album/5dpAz2loETsN1IuUmmq4QK) | 3:32 | 2022-05-11 | 2022-07-28 |
 | [Kiss me](https://open.spotify.com/track/1OWxRQ27f5B0FS8P1NeGUp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Do You Like Brahms? OST Part.5](https://open.spotify.com/album/7xfdlQq97HTfxn5XqySL3t) | 3:59 | 2022-06-09 | 2022-07-25 |
 | [Laggard](https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9) | [SHIN YOUME](https://open.spotify.com/artist/2xST7A5VgPIcA7u5F8alGE) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 | 2022-10-06 | 2023-03-14 |

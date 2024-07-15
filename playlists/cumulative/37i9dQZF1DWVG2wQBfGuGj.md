@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-242 songs - 12 hr 15 min
+244 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bora](https://open.spotify.com/track/5HzFIsnKHQzt7hkIxGDy1D) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Bora](https://open.spotify.com/album/3HaKdY1qynqmypOTsiLQUs) | 3:03 | 2023-05-05 |  |
 | [Bored of Amsterdam](https://open.spotify.com/track/2yoNkyAIcjMORYpu1S6Vi0) | [ice bather](https://open.spotify.com/artist/74gUv2wBKXAG2Ad1hGJlps) | [Bored of Amsterdam](https://open.spotify.com/album/2ItmmMWBeNdf6aI0hWFTBn) | 2:28 | 2023-05-05 |  |
 | [Born Fighting](https://open.spotify.com/track/55ld5zFPQG6tR9vRxFLmMx) | [Hans Blu](https://open.spotify.com/artist/3EREyIqFqpNOLCxa98i5k5) | [Born Fighting](https://open.spotify.com/album/2QG0q0Liq7yU0nzGsQPG8j) | 3:08 | 2024-03-27 |  |
+| [Both Of Us](https://open.spotify.com/track/5l3ScH72LOQpXQ8qsO1SQc) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Both Of Us](https://open.spotify.com/album/7M0VVSuVALkcjbLNgHKZEl) | 2:42 | 2024-07-14 |  |
 | [C'est la vie](https://open.spotify.com/track/6pa0AGTLAWRTclXoforij1) | [Keknou](https://open.spotify.com/artist/37iv6CM0QO9ZqPJsxT1ZPy) | [C'est la vie](https://open.spotify.com/album/6lcv0jcRTZQfcHBCrzJnpf) | 2:02 | 2023-05-05 |  |
 | [Cala Pada](https://open.spotify.com/track/1A7y3IaHjjnPXB536LnPuq) | [Paul Rietz](https://open.spotify.com/artist/0xvfumiS0sx0xXJshA2uwW) | [Cala Pada](https://open.spotify.com/album/6vkTL2R6ws7QMOxyfN6yc2) | 2:40 | 2023-05-05 |  |
 | [Can't Go Far](https://open.spotify.com/track/6ZLaKWF9SggszDQR6Nri6i) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [Can't Go Far](https://open.spotify.com/album/3Yr8LmLltFvxJp1pm4mlNO) | 2:59 | 2024-06-13 |  |
@@ -182,6 +183,7 @@
 | [Revolución, Pt\. I](https://open.spotify.com/track/5p5LVCIy3KA9B6OSRr8VXV) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Origins](https://open.spotify.com/album/5G6oBLVinroyJnO760V6Gu) | 5:53 | 2024-02-13 |  |
 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 | 2023-11-24 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2023-05-05 |  |
+| [Roly Poly](https://open.spotify.com/track/5hMEo63IJSWOrCffrKomoe) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Roly Poly](https://open.spotify.com/album/4JOA5o4bUR0xuNDZFapmVG) | 2:46 | 2024-07-14 |  |
 | [Run Run](https://open.spotify.com/track/0sms64g9Sgd2QZJ9URMaXY) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Run Run](https://open.spotify.com/album/1mCDqCwuQE7m4cCeA1Jc3o) | 2:44 | 2023-05-05 |  |
 | [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 | 2023-07-07 |  |
 | [Sartorius](https://open.spotify.com/track/2ANndvXKayTN5yla7pc32a) | [DJ Daidol](https://open.spotify.com/artist/15ORgKLuv7SVSdIlAyfMTs) | [Sartorius](https://open.spotify.com/album/4edaSzGIl7o516jm8XMi5N) | 2:48 | 2024-05-11 |  |

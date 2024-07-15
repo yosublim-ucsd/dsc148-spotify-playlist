@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,375 likes - 160 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,411 likes - 160 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 2 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |
 | 3 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
 | 4 | [Rosy Cheeks](https://open.spotify.com/track/0q1B1FNIIX1IKTzGoBUwTY) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [Rosy Cheeks](https://open.spotify.com/album/4ylLZ7Y7b4RVISVAhjEFAv) | 3:10 |
-| 5 | [Something New \(feat\. MAX RAD\)](https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Something New \(feat\. MAX RAD\)](https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4) | 2:50 |
+| 5 | [Something New](https://open.spotify.com/track/3I1I8GRmCd2MOm3cdL7wOb) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Something New](https://open.spotify.com/album/3LfWQjsfzBbMrK1XsKvky4) | 2:50 |
 | 6 | [Gravity \- Payfone Remix](https://open.spotify.com/track/6UcCynkyFSmmjcxBdPqeTg) | [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc), [Payfone](https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu) | [Gravity \(Payfone Remix\)](https://open.spotify.com/album/4UVDulFuJkfv84DZGnGxSJ) | 5:47 |
 | 7 | [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 |
 | 8 | [Love Seeking](https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Love Seeking](https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF) | 3:46 |

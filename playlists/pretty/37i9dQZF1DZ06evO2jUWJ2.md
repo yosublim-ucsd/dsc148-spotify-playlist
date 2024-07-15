@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This is Elevation Worship\. أغاني روعة في قايمة أغاني واحدة.
+> This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,162 likes - 52 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,268 likes - 52 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 51 | [There Is a Cloud](https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 5:47 |
 | 52 | [Might Get Loud \(feat\. Chris Brown, Brandon Lake & Tiffany Hudson\)](https://open.spotify.com/track/6zmTTU4fm4iFhHvMyCxp3p) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 4:39 |
 
-Snapshot ID: `ZpByAAAAAAD6t03475Vp+dps2XHypE8d`
+Snapshot ID: `ZpHDgAAAAADdgZPqqgZ+hA3tZGa/z6Wh`

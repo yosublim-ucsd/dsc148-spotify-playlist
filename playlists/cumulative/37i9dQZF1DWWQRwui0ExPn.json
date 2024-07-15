@@ -50599,6 +50599,24 @@
     },
     {
       "album": {
+        "name": "Highland Sun",
+        "url": "https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S"
+      },
+      "artists": [
+        {
+          "name": "humble hugo",
+          "url": "https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121481,
+      "name": "Highland Sun",
+      "url": "https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK"
+    },
+    {
+      "album": {
         "name": "highlights",
         "url": "https://open.spotify.com/album/31dAQyUHoJbPPVOX59S7sm"
       },
@@ -62152,7 +62170,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 147692,
       "name": "Last Beat Of The Year",
       "url": "https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7"
@@ -91000,7 +91018,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 138227,
       "name": "pretty angel",
       "url": "https://open.spotify.com/track/01e0LPv0ZtprlNox1A33I7"
@@ -130708,7 +130726,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 101661,
       "name": "Winter Stories",
       "url": "https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na"

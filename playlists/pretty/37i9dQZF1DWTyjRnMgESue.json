@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 78636,
+  "num_followers": 78656,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 243875,
-      "name": "I Hate It Here",
-      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-07-08 18:00:19",
@@ -139,22 +143,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 243875,
+      "name": "I Hate It Here",
+      "url": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -411,8 +411,8 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -487,22 +487,6 @@
       "duration_ms": 224371,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/14GaOalWhixmfpfFVw8ycy"
     },
     {
-      "added_at": "2024-07-08 18:00:19",
-      "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Timeline",
@@ -735,6 +719,22 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "added_at": "2024-07-08 18:00:19",
+      "album": {
+        "name": "How Long",
+        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 210658,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Nightvisions",
-        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 236320,
-      "name": "Nightvisions",
-      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 272065,
-      "name": "Stick Around",
-      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "little me",
         "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 180000,
       "name": "little me",
       "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -953,26 +953,6 @@
       "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "One Less Question",
-        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "One Less Question",
-      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
-    },
-    {
       "added_at": "2024-07-08 18:00:19",
       "album": {
         "name": "4 foot 2",
@@ -991,18 +971,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+        "name": "One Less Question",
+        "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+      "duration_ms": 190866,
+      "name": "One Less Question",
+      "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1087,38 +1071,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+        "name": "Crying Over U",
+        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+      "duration_ms": 234231,
+      "name": "Crying Over U",
+      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
     },
     {
       "added_at": "2024-07-08 18:00:19",
@@ -1139,6 +1103,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "All For Something",
         "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 241152,
       "name": "Malleable",
       "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     },
     {
       "added_at": "2024-06-28 04:00:00",

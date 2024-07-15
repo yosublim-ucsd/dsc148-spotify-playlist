@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 34829,
+  "num_followers": 34835,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAB+zfQ3y2lgAaQQ9ijfwP5e",
+  "snapshot_id": "ZpHDgAAAAAD4k7EOboaYysooGcKQl7ao",
   "tracks": [
     {
       "added_at": null,
@@ -211,34 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
       "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Portrait",
-          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
-        },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         },
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 450600,
-      "name": "Slow Jams",
-      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+      "duration_ms": 175290,
+      "name": "Keeps On Fallin\u2019 (with Ella Mai)",
+      "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
     },
     {
       "added_at": null,
@@ -259,26 +247,6 @@
       "duration_ms": 245400,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 175290,
-      "name": "Keeps On Fallin\u2019 (with Ella Mai)",
-      "url": "https://open.spotify.com/track/2aunyb1BeN1HrWDzAJPyBq"
     },
     {
       "added_at": null,
@@ -315,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -351,6 +299,26 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4"
     },
     {
       "added_at": null,
@@ -399,26 +367,6 @@
       "duration_ms": 144581,
       "name": "As a matter of fact",
       "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6"
     },
     {
       "added_at": null,
@@ -571,38 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Marriage\u200e & Divorce",
-        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "I Hope That You're Okay",
-      "url": "https://open.spotify.com/track/1It1muRI7amf04F8W3Ufiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Where Will You Go",
-      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -619,6 +535,22 @@
       "duration_ms": 151577,
       "name": "Simple (with Coco Jones)",
       "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Where Will You Go",
+      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -699,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 198573,
-      "name": "Liquor (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
+      "duration_ms": 293733,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
     },
     {
       "added_at": null,
@@ -739,6 +667,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Liquor (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Marriage\u200e & Divorce",
+        "url": "https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 313266,
+      "name": "The D Word",
+      "url": "https://open.spotify.com/track/5dX6an8iTpf4w11W0yp4VQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Cool In You",
         "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
       },
@@ -748,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 293733,
-      "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
     },
     {
       "added_at": null,
@@ -807,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM"
       },
       "artists": [
         {
@@ -816,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 342360,
-      "name": "And Our Feelings",
-      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
+      "duration_ms": 303093,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE"
     },
     {
       "added_at": null,
@@ -855,22 +823,6 @@
       "duration_ms": 201528,
       "name": "Girls Night Out (with Doechii)",
       "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/3pw5V9vCxISf2edu7otGJM"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 303093,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/4AK8YjpnRNHHFFQKSvqtmE"
     },
     {
       "added_at": null,
@@ -943,6 +895,42 @@
       "duration_ms": 246533,
       "name": "I Honestly Love You",
       "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "When Your Body Gets Weak",
+      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
     }
   ],
   "unique_name": "This Is Babyface",

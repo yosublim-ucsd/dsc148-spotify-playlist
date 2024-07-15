@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 274870,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
@@ -694,6 +694,24 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     },
     {
       "album": {

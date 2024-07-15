@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: RICTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,455 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,449 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 28 | [Enas Antras](https://open.spotify.com/track/6MSYgi5zfZYcdzJiMszwHK) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Saxpas](https://open.spotify.com/artist/1IiQBASBfh603PVlAKUOaL) | [Enas Antras](https://open.spotify.com/album/3bzkhBdc6B3g7ctmiZCLOA) | 3:23 |
 | 29 | [RATATA](https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Venom](https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [RATATA](https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW) | 2:17 |
 | 30 | [Malaga](https://open.spotify.com/track/6kCP67GCmQDGctCX7EipSY) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Malaga](https://open.spotify.com/album/5ZtXZylrV0qhPjs7ZTh78N) | 2:48 |
-| 31 | [Fotia](https://open.spotify.com/track/5WO6ln9zm2870VhESc2Onq) | [Frank](https://open.spotify.com/artist/4oYTmflvXEVEyt276xAReV), [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ) | [Fotia](https://open.spotify.com/album/6oh21YYghqAoChMbgRX0El) | 2:38 |
+| 31 | [Fotia](https://open.spotify.com/track/5WO6ln9zm2870VhESc2Onq) | [Frank](https://open.spotify.com/artist/5qZcNO746AWwiBxDXBgCDU), [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ) | [Fotia](https://open.spotify.com/album/6oh21YYghqAoChMbgRX0El) | 2:38 |
 | 32 | [MASKA](https://open.spotify.com/track/4l08FdIZvs9DdJAwFMCGVI) | [ATC Coco](https://open.spotify.com/artist/4t0acKz54CB6uUA1PeB5wq), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK), [Hantze](https://open.spotify.com/artist/2ed1IT5PQ6RLzryBA2RD2B) | [MASKA](https://open.spotify.com/album/5JbM9QNwEMVhrCPXtMrHgE) | 2:32 |
 | 33 | [Get Up](https://open.spotify.com/track/0A34MOewbxOYqcYEDZkyPC) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Half Quickie](https://open.spotify.com/artist/1sVr6APAAM9iJKccymeKwg), [Kaist](https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz) | [Get Up](https://open.spotify.com/album/2OTQt5saR38tyZSn9WoOwf) | 3:24 |
 | 34 | [ENOXOS](https://open.spotify.com/track/3MK35GCBKUQvGtxITPIE65) | [Kanon](https://open.spotify.com/artist/1ssOY5fx4efqZ0RXZ4M3PJ) | [REALNESS](https://open.spotify.com/album/65K3ySIrBLpnLa4FYmLgZP) | 3:41 |

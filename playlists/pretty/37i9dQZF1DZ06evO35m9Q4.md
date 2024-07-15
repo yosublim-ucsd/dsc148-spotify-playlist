@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,511 likes - 48 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,565 likes - 48 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 26 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 |
 | 27 | [So Excited](https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 3:29 |
 | 28 | [Lookin' out the Window](https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 2:47 |
-| 29 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
-| 30 | [Chitlins Con Carne](https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 3:56 |
+| 29 | [Chitlins Con Carne](https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 3:56 |
+| 30 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 |
 | 31 | [Shake 'N Bake](https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:51 |
 | 32 | [Willie The Wimp \- Live](https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 4:37 |
 | 33 | [Ain't Gone 'N' Give up on Love \- Live at Montreux Casino, Montreux, Switzerland \- July 1985](https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live At Montreux 1982 & 1985](https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf) | 6:24 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 39 | [Letter to My Girlfriend \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 3:08 |
 | 40 | [Give Me Back My Wig](https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:07 |
 | 41 | [May I Have a Talk with You](https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 5:48 |
-| 42 | [Slide Thing \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 2:55 |
-| 43 | [Come On, Pt\. III](https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 4:30 |
-| 44 | [Don't Lie To Me](https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 8:57 |
-| 45 | [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 |
-| 46 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
-| 47 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
+| 42 | [Come On, Pt\. III](https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 4:30 |
+| 43 | [Slide Thing \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 2:55 |
+| 44 | [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 |
+| 45 | [Don't Lie To Me](https://open.spotify.com/track/3S7qClovzdfoPxqVPcH8ma) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 8:57 |
+| 46 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
+| 47 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 | 48 | [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 |
 
-Snapshot ID: `ZpByAAAAAABvREOe9pLMQIe57Fqtqf9c`
+Snapshot ID: `ZpHDgAAAAAC0TL2oWb7FK3TC6vAXrqDU`

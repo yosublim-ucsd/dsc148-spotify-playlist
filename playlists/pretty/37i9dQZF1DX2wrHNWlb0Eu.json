@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 106903,
+  "num_followers": 106945,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
       },
       "artists": [
         {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
         }
       ],
-      "duration_ms": 231936,
-      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
+      "duration_ms": 246923,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
       },
       "artists": [
         {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
         }
       ],
-      "duration_ms": 246923,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+      "duration_ms": 247360,
+      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
-      },
-      "artists": [
-        {
-          "name": "Whatcharawalee",
-          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
-    },
-    {
-      "added_at": "2024-06-11 20:05:28",
-      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 216969,
       "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19",
       "url": "https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB"
+    },
+    {
+      "added_at": "2024-06-11 20:05:28",
+      "album": {
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
+      },
+      "artists": [
+        {
+          "name": "Whatcharawalee",
+          "url": "https://open.spotify.com/artist/0cGfitvwmFr2sSywioWYNM"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/6PM9OBzgQbY7wAkPWBTl2V"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
-      },
-      "artists": [
-        {
-          "name": "No One Else",
-          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
-        }
-      ],
-      "duration_ms": 253636,
-      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
-      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
-    },
-    {
-      "added_at": "2024-06-11 20:05:28",
-      "album": {
         "name": "Sunkissed",
         "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 242154,
       "name": "Sunkissed",
       "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
+    },
+    {
+      "added_at": "2024-06-11 20:05:28",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e01\u0e32\u0e41\u0e1f\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e40\u0e0a\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
+        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
+    },
+    {
+      "added_at": "2024-06-11 20:05:28",
+      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
         "url": "https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 184421,
       "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
       "url": "https://open.spotify.com/track/3seGmbdxubyOV7rAnUYAWh"
-    },
-    {
-      "added_at": "2024-06-11 20:05:28",
-      "album": {
-        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
-      },
-      "artists": [
-        {
-          "name": "Patrickananda",
-          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
-      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
-    },
-    {
-      "added_at": "2024-06-11 20:05:28",
-      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
+    },
+    {
+      "added_at": "2024-06-11 20:05:28",
+      "album": {
+        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
     },
     {
       "added_at": "2024-06-11 20:05:28",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-06-11 20:05:28",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
-      },
-      "artists": [
-        {
-          "name": "Catchy",
-          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
-        }
-      ],
-      "duration_ms": 229166,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
-    },
-    {
-      "added_at": "2024-06-11 20:05:28",
-      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204999,
       "name": "\u0e1d\u0e31\u0e19\u0e2b\u0e27\u0e32\u0e19\u0e2d\u0e32\u0e22\u0e08\u0e39\u0e1a",
       "url": "https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv"
+    },
+    {
+      "added_at": "2024-06-11 20:05:28",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
+      },
+      "artists": [
+        {
+          "name": "Catchy",
+          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
+        }
+      ],
+      "duration_ms": 229166,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
     },
     {
       "added_at": "2024-06-11 20:05:28",

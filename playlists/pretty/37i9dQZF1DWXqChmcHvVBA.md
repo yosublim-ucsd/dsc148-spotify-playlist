@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: ECKO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,538 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,790 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

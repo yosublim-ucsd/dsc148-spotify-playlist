@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353576,
+  "num_followers": 353589,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 152894,
       "name": "Walk",
       "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -443,38 +443,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
-      },
-      "artists": [
-        {
-          "name": "August Moon",
-          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
-        }
-      ],
-      "duration_ms": 157658,
-      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
-      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -487,6 +455,22 @@
       "duration_ms": 200100,
       "name": "Der letzte Tanz",
       "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+        "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
+      },
+      "artists": [
+        {
+          "name": "August Moon",
+          "url": "https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA"
+        }
+      ],
+      "duration_ms": 157658,
+      "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
+      "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -507,6 +491,22 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
-      },
-      "artists": [
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        }
-      ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 169949,
       "name": "Over",
       "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Ghost of You",
-        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 158063,
-      "name": "Ghost of You",
-      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Flugmodus",
         "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178120,
       "name": "Flugmodus",
       "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 158063,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 170928,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd"
-      },
-      "artists": [
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 170928,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 151307,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 156167,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 183775,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
-        "name": "ASAP",
-        "url": "https://open.spotify.com/album/3jJnmKAhUUkI4OjwO1AkuB"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 183775,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/0FQfX2SZ2X18QVa6hJrWPS"
     },
     {
       "added_at": "2024-07-02 14:58:25",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-02 14:58:25",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Nangilima",
-      "url": "https://open.spotify.com/track/75eWcdirphZClDeEinSvnp"
-    },
-    {
-      "added_at": "2024-07-02 14:58:25",
-      "album": {
         "name": "Sweethoneylove",
         "url": "https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 150540,
       "name": "Sweethoneylove",
       "url": "https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt"
+    },
+    {
+      "added_at": "2024-07-02 14:58:25",
+      "album": {
+        "name": "Keep It Low",
+        "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
+      },
+      "artists": [
+        {
+          "name": "Martis",
+          "url": "https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Keep It Low",
+      "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
     }
   ],
   "unique_name": "Feelgood Pop",

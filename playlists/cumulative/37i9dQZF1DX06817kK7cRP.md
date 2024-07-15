@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-190 songs - 8 hr 28 min
+191 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Clap Clap](https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Clap Clap](https://open.spotify.com/album/6ExpYI6P4mqjwlgxI4t8jk) | 2:39 | 2023-01-13 |  |
 | [Class](https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [No\. 18](https://open.spotify.com/artist/1p6OSG0rFg8ISBQXjWsfgm), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Class](https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo) | 2:53 | 2023-01-12 |  |
 | [clocks](https://open.spotify.com/track/2YHZ52RVwbnzyMjGvZYtMN) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [clocks](https://open.spotify.com/album/77zz5vKU1zlkvRhmMD6ZtT) | 2:20 | 2024-06-14 | 2024-06-22 |
-| [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-07-12 |  |
+| [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-07-12 | 2024-07-15 |
 | [Crescent](https://open.spotify.com/track/3U5jU9SmJxeelFlfKCk6Rd) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Crescent](https://open.spotify.com/album/2IjILZtDXBXx3tHJaxBL2e) | 2:45 | 2024-06-14 |  |
 | [Cruise Control](https://open.spotify.com/track/5xSQbBayVvZcjreQ4t3KhQ) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS), [ALGONZO](https://open.spotify.com/artist/3SK7UL3Cgpgn58MxvfFxy8) | [Cruise Control](https://open.spotify.com/album/7tSLPHy2Sg8YmHTTvREaAB) | 2:24 | 2023-12-12 |  |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
@@ -99,6 +99,7 @@
 | [Late Nights & The Moon](https://open.spotify.com/track/7ClkEROkgQZjroYtEK4sPm) | [glowdayz](https://open.spotify.com/artist/3OL6ZKe15Zli8NicwAUEHF) | [Late Nights & The Moon](https://open.spotify.com/album/7qHioyqzRgi3YkY8Okmjyg) | 2:04 | 2024-06-07 |  |
 | [Lavanta](https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [When Every Leaf Is A Flower](https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ) | 2:03 | 2023-01-12 |  |
 | [Leafy Greens](https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Leafy Greens](https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt) | 2:40 | 2023-06-20 |  |
+| [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-07-12 |  |
 | [little lies](https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Good feeling](https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s) | 2:16 | 2023-09-22 |  |
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2023-01-12 | 2023-03-15 |
 | [Lost Planet](https://open.spotify.com/track/4N6qX4nCHm7CdUaM6ujJNM) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Lost Planet](https://open.spotify.com/album/1ACEbv9PGIudBH35GanjNn) | 2:30 | 2023-03-23 |  |

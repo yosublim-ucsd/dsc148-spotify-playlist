@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,919 likes - 156 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,946 likes - 156 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 17 | [Nalaar](https://open.spotify.com/track/1IZ1nLUYBkUwqjN3Rz8zzv) | [Waloox](https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi) | [Nalaar](https://open.spotify.com/album/2JWjOo6A2TiPr3KBn9tYoQ) | 2:24 |
 | 18 | [24k](https://open.spotify.com/track/1t7gEDMO1GigErhWBDpOuv) | [FourFiveNyne](https://open.spotify.com/artist/2YhKD44kUXGZZ58RhrFWD6) | [24k](https://open.spotify.com/album/2tJNLmGBN978TVsOR8ZBPL) | 2:20 |
 | 19 | [Unimerse](https://open.spotify.com/track/4zG5rjF0PLcuVu6u43OgQD) | [Push N' Glide](https://open.spotify.com/artist/6PSNxYsazdREPJeS9XnUjA) | [Unimerse](https://open.spotify.com/album/7lfcSg7ikGV3p1Zbd91e61) | 3:12 |
-| 20 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 |
-| 21 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 |
-| 22 | [LBRTY](https://open.spotify.com/track/2bufGmn2RcHFnI8znnI8xD) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [LBRTY](https://open.spotify.com/album/5V3AymlNG7GgpJgwVxL8Wp) | 3:15 |
-| 23 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 |
-| 24 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 |
-| 25 | [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 |
+| 20 | [Pollution](https://open.spotify.com/track/5bEuOEohMirZGj6kVUKTFV) | [Casiiwool](https://open.spotify.com/artist/5KutRizSdKD7jYEhULGXKu) | [Pollution](https://open.spotify.com/album/59ClEdPWnq2y8FXYCRiUTk) | 2:41 |
+| 21 | [Run the Clock](https://open.spotify.com/track/0pxBhlNZA6sOd3ByHBVzFI) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Run The Clock](https://open.spotify.com/album/7cl7Iy6MGnMA7WNa3zt2nK) | 2:05 |
+| 22 | [Geeker](https://open.spotify.com/track/0XOagxiFUHOYHlz6AthrNB) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Raging in the Pit with My Bros](https://open.spotify.com/album/66uwS7rr9YJdhF5gOIJDMj) | 2:11 |
+| 23 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 |
+| 24 | [Hunch](https://open.spotify.com/track/0Ha38zN6QMVjRKTbJYhjZ9) | [Azucares](https://open.spotify.com/artist/4nBe4luXcnZ8QqpoyZq4OC) | [Hunch / Qwuan](https://open.spotify.com/album/3VLPMI6Fx93tcU3FjuhtGJ) | 2:41 |
+| 25 | [LBRTY](https://open.spotify.com/track/2bufGmn2RcHFnI8znnI8xD) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [LBRTY](https://open.spotify.com/album/5V3AymlNG7GgpJgwVxL8Wp) | 3:15 |
 | 26 | [Unleashed \- Instrumental](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed \(Instrumental\)](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 |
 | 27 | [You Say It's Easy](https://open.spotify.com/track/76H1wnU1AwWjQ2tWKeG1xg) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Love for Drill](https://open.spotify.com/album/5ilOUMe6p4roT9ZViobEC6) | 2:28 |
 | 28 | [Scam](https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Scam](https://open.spotify.com/album/31MjbJLu4imw8ZWNRjQk5I) | 2:46 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 155 | [Theme](https://open.spotify.com/track/6LGzIiVow9pEHzSc7Z2NC5) | [Grand Moist](https://open.spotify.com/artist/7kBEPXj7Sz1SfO73MoFENO) | [Theme](https://open.spotify.com/album/7HWzZzrVY6lIhyoO2V9wL6) | 2:35 |
 | 156 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 |
 
-Snapshot ID: `ZmtBiQAAAACUFjMKAJ1UdlyqZ6V0x1E3`
+Snapshot ID: `ZpPpwgAAAAD9peJPXQ0c1jxXZexKDmtF`

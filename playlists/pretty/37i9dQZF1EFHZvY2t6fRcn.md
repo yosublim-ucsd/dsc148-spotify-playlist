@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 92 | [BAD](https://open.spotify.com/track/5ZlduQgpSRumIfGzbHeiLg) | [Alexx Mack](https://open.spotify.com/artist/56SybfJx38GvQ7nM4ezPnZ) | [Like We're Famous](https://open.spotify.com/album/0R4mVnaeofJvTlbf7yr0Qq) | 3:47 |
 | 93 | [BOYS](https://open.spotify.com/track/3eOIjdurn3lxeOMn90L8Fn) | [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [BOYS](https://open.spotify.com/album/3VtKNel48q9NVpK6vJ66qB) | 2:55 |
 | 94 | [Actress](https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Actress](https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx) | 3:58 |
-| 95 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
-| 96 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
+| 95 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
+| 96 | [Old You](https://open.spotify.com/track/7fsRcbZrbqOJ3yZTYHpJLy) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I) | [Another\. Not Me\. I'm Done.](https://open.spotify.com/album/3ogWyHgX9kpiL03Vpdp0k7) | 3:11 |
 | 97 | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [PWR RNGR ft\. Mick Jenkins](https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p) | 3:36 |
 | 98 | [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 |
 | 99 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 122 | [You Must Be Crazy Too](https://open.spotify.com/track/5Sy3BynuE4fKlxoIh2rCmd) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:25 |
 | 123 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AbWnhgAAAABVgvquSq/Lrqhw8rHaOeu4`
+Snapshot ID: `AbWtJgAAAAChgapmaMqkuN64tsLH2qy+`

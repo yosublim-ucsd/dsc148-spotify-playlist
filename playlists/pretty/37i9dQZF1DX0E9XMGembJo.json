@@ -1,6 +1,6 @@
 {
   "description": "your daily dose of dopamine ",
-  "num_followers": 1523356,
+  "num_followers": 1523619,
   "original_name": "DOPAMINE",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Slide (feat. Frank Ocean & Migos)",
+      "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Papercut Chronicles",
         "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
       },
@@ -1011,34 +1039,6 @@
       "duration_ms": 228600,
       "name": "8TEEN",
       "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Funk Wav Bounces Vol.1",
-        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Slide (feat. Frank Ocean & Migos)",
-      "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g"
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
       "artists": [
         {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 212293,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     }
   ],
   "unique_name": "DOPAMINE",

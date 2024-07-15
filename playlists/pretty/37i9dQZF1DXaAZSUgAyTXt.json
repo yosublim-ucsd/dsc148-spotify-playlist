@@ -1,6 +1,6 @@
 {
   "description": "when life gives you lemons \u00af\\_(\u30c4)_/\u00af",
-  "num_followers": 117148,
+  "num_followers": 117157,
   "original_name": "Lemonade",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,26 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -279,26 +299,6 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
         "name": "Those Eyes (Alternate Versions)",
         "url": "https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2"
       },
@@ -311,6 +311,26 @@
       "duration_ms": 167658,
       "name": "Those Eyes - Sped Up",
       "url": "https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -347,18 +367,18 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+      "duration_ms": 186066,
+      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -379,38 +399,18 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
         }
       ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
-        "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-        "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
-      "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 173447,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
     },
     {
       "added_at": "2024-06-14 00:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-06-14 00:00:00",
       "album": {
+        "name": "fever dream",
+        "url": "https://open.spotify.com/album/1K4Aca27m9PCMHu21rXLD9"
+      },
+      "artists": [
+        {
+          "name": "Current Blue",
+          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
+        }
+      ],
+      "duration_ms": 116093,
+      "name": "fever dream",
+      "url": "https://open.spotify.com/track/68foAtx812B9N6s6j6EZsG"
+    },
+    {
+      "added_at": "2024-06-14 00:00:00",
+      "album": {
         "name": "Photo ID (with Dominic Fike)",
         "url": "https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 207927,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5"
-    },
-    {
-      "added_at": "2024-06-14 00:00:00",
-      "album": {
-        "name": "fever dream",
-        "url": "https://open.spotify.com/album/1K4Aca27m9PCMHu21rXLD9"
-      },
-      "artists": [
-        {
-          "name": "Current Blue",
-          "url": "https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS"
-        }
-      ],
-      "duration_ms": 116093,
-      "name": "fever dream",
-      "url": "https://open.spotify.com/track/68foAtx812B9N6s6j6EZsG"
     },
     {
       "added_at": "2024-06-14 00:00:00",

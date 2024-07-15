@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-637 songs - 1 day 14 hr 5 min
+638 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 | 2021-12-24 |  |
 | [Desastre](https://open.spotify.com/track/2T3shLFlv5svyAGHjT68GH) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Desastre](https://open.spotify.com/album/3Tdg1F62EicWL8YJ7KNbpY) | 3:31 | 2023-06-16 | 2023-07-22 |
 | [Descalza Camino](https://open.spotify.com/track/7LK2PfcUYSbdQC0WxiJ96F) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Descalza Camino](https://open.spotify.com/album/54isI5NDdNqfce82qGHXJK) | 2:51 | 2022-01-14 | 2022-01-22 |
+| [Desde mi Ataúd](https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Desde mi Ataúd](https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr) | 3:18 | 2024-07-11 |  |
 | [Desesperado](https://open.spotify.com/track/4IaNtVTCcgQvD4fOpR41b5) | [Fermi](https://open.spotify.com/artist/3zKTjOf7vGQrcu3mJQMMA0) | [Desesperado](https://open.spotify.com/album/24UmqGrqCtuEXFCpebYT54) | 3:12 | 2022-01-27 | 2022-02-05 |
 | [Despierta](https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Despierta](https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR) | 3:05 | 2023-07-28 | 2023-09-16 |
 | [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 | 2023-02-03 | 2024-04-19 |
@@ -445,7 +446,7 @@
 | [Pecho Jardín](https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7) | [Alejandro Albarrán](https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Pecho Jardín](https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc) | 4:42 | 2024-05-30 |  |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
-| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 |  |
+| [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-16 | 2024-07-15 |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |
 | [Persiguiendo el sol](https://open.spotify.com/track/22MdrwrcX4TK0dLP7iDfLe) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Persiguiendo el sol](https://open.spotify.com/album/45zzJc7zbQOhVgjR9PrXZF) | 2:24 | 2023-05-19 | 2023-05-30 |
 | [Petit Matin](https://open.spotify.com/track/1n4avKsSM6Zh6iUlCaImdq) | [Lili Del Sol](https://open.spotify.com/artist/7H4yMcbwwmQYF4zrOPz3bl), [Manu Linois](https://open.spotify.com/artist/3hnHGtZ0ZJsEeMaCpb76hj) | [HOMINUM](https://open.spotify.com/album/1o6QLWlzUUuRX5GucEohCx) | 4:07 | 2022-02-04 | 2022-07-14 |

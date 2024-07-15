@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 880446,
+  "num_followers": 881074,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
         }
       ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1055,6 +1039,22 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+      "duration_ms": 170000,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 304080,
       "name": "Go West - 2003 Remaster",
       "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/5oV1YjM2rtyZ55txHHsFUu"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1343,6 +1343,26 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "In The Summertime",
+      "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1391,26 +1411,6 @@
       "duration_ms": 268910,
       "name": "Informer",
       "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Rayvon",
-          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "In The Summertime",
-      "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "You're My Heart, You're My Soul '98",
-      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Back For Good",
+        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "You're My Heart, You're My Soul '98",
+      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 204586,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "C'est la Vie: The Collection",
+        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
+      },
+      "artists": [
+        {
+          "name": "B*Witched",
+          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "C'est la Vie: The Collection",
-        "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
-      },
-      "artists": [
-        {
-          "name": "B*Witched",
-          "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "S Club",
         "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 214400,
       "name": "Bring It All Back",
       "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Roses Are Red - Original Version",
-      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Commitments",
         "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 241866,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
-      },
-      "artists": [
-        {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 279360,
       "name": "Cantaloop (Flip Fantasia)",
       "url": "https://open.spotify.com/track/06DSI8L6IT8SizCw3JLckz"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "On Vol.1",
+        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
+      },
+      "artists": [
+        {
+          "name": "D:Ream",
+          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Things Can Only Get Better",
+      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
     }
   ],
   "unique_name": "90s Party",

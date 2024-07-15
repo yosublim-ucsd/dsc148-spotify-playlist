@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 571170,
+  "num_followers": 571146,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 191822,
       "name": "About Damn Time",
       "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "Therefore I Am",
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "Therefore I Am",
-        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 174321,
-      "name": "Therefore I Am",
-      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Burning Bridges",
         "url": "https://open.spotify.com/album/6Lq1HJzKX0BNeZWHWGu9lY"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "Little Miss",
         "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
       },
@@ -1367,6 +1367,30 @@
       "duration_ms": 172933,
       "name": "Little Miss",
       "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1399,30 +1423,6 @@
       "duration_ms": 216400,
       "name": "Brother Sun/Sister Moon",
       "url": "https://open.spotify.com/track/1K1avESFuxk2TmPTQ3j9wJ"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "Leave The Door Open",
-        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
     },
     {
       "added_at": "2024-07-11 01:17:45",

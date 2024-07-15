@@ -1,12 +1,12 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 28736,
-  "original_name": "LA LLISTA DE FLAIXBAC (7/7/2024)",
+  "num_followers": 28735,
+  "original_name": "LA LLISTA DE FLAIXBAC (14/7/2024)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AAA1j8IUiKfkwmKSBK/4yiugf3QUMzNr",
+  "snapshot_id": "AAA1tiqQ/8sXg35wRM7ec/cJ8M4T5xbM",
   "tracks": [
     {
       "added_at": "2024-05-05 16:43:56",
@@ -23,22 +23,6 @@
       "duration_ms": 140000,
       "name": "SOLUCIONS i NO PROBLEMES",
       "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
-    },
-    {
-      "added_at": "2024-05-05 16:43:45",
-      "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-04-21 16:26:53",
@@ -61,24 +45,20 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-02-25 17:17:01",
+      "added_at": "2024-05-05 16:43:45",
       "album": {
-        "name": "COVARDS",
-        "url": "https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        },
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 189076,
-      "name": "COVARDS",
-      "url": "https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2024-05-05 16:43:34",
@@ -105,22 +85,6 @@
       "url": "https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP"
     },
     {
-      "added_at": "2024-04-28 17:08:22",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
       "added_at": "2024-05-19 16:52:59",
       "album": {
         "name": "La Raz\u00f3n",
@@ -141,6 +105,42 @@
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
     },
     {
+      "added_at": "2024-02-25 17:17:01",
+      "album": {
+        "name": "COVARDS",
+        "url": "https://open.spotify.com/album/3icg4CI1dzZd3AImqe3tc0"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "duration_ms": 189076,
+      "name": "COVARDS",
+      "url": "https://open.spotify.com/track/0fRUIBnfBki2kS5S0Y8c11"
+    },
+    {
+      "added_at": "2024-04-28 17:08:22",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
       "added_at": "2024-03-17 17:54:21",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
@@ -159,74 +159,6 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-03-17 17:54:45",
-      "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-    },
-    {
-      "added_at": "2024-04-28 17:08:44",
-      "album": {
-        "name": "Lugar Para\u00edso (y el tuyo)",
-        "url": "https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 186827,
-      "name": "ARA",
-      "url": "https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ"
-    },
-    {
-      "added_at": "2024-05-12 15:42:37",
-      "album": {
-        "name": "COMEN\u00c7AR A VIURE",
-        "url": "https://open.spotify.com/album/2xsNgctYHbxR23g8LV7MDp"
-      },
-      "artists": [
-        {
-          "name": "Els Catarres",
-          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
-        }
-      ],
-      "duration_ms": 166668,
-      "name": "COMEN\u00c7AR A VIURE",
-      "url": "https://open.spotify.com/track/0Lh4c3QpwRP4a7DeybvhRN"
-    },
-    {
-      "added_at": "2024-02-25 17:17:14",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-06-16 19:02:01",
@@ -253,20 +185,56 @@
       "url": "https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd"
     },
     {
-      "added_at": "2024-02-11 16:14:09",
+      "added_at": "2024-05-12 15:42:37",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "COMEN\u00c7AR A VIURE",
+        "url": "https://open.spotify.com/album/2xsNgctYHbxR23g8LV7MDp"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Els Catarres",
+          "url": "https://open.spotify.com/artist/0InCPtI0kadS7s3cZrcbbY"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 166668,
+      "name": "COMEN\u00c7AR A VIURE",
+      "url": "https://open.spotify.com/track/0Lh4c3QpwRP4a7DeybvhRN"
+    },
+    {
+      "added_at": "2024-04-28 17:08:44",
+      "album": {
+        "name": "Lugar Para\u00edso (y el tuyo)",
+        "url": "https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 186827,
+      "name": "ARA",
+      "url": "https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ"
+    },
+    {
+      "added_at": "2024-03-17 17:54:45",
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
     },
     {
       "added_at": "2024-05-12 15:42:26",
@@ -285,52 +253,36 @@
       "url": "https://open.spotify.com/track/5AxKeSyenbb6lH0xYF5kjk"
     },
     {
-      "added_at": "2024-02-18 16:39:42",
+      "added_at": "2024-02-11 16:14:09",
       "album": {
-        "name": "La meva sort",
-        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
       "artists": [
         {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 154577,
-      "name": "La meva sort",
-      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-03 16:24:55",
+      "added_at": "2024-02-25 17:17:14",
       "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
-    },
-    {
-      "added_at": "2024-05-26 16:56:54",
-      "album": {
-        "name": "la noia",
-        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "la noia",
-      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-06-02 16:13:40",
@@ -349,22 +301,6 @@
       "url": "https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb"
     },
     {
-      "added_at": "2024-01-28 17:01:37",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
       "added_at": "2024-06-02 16:13:31",
       "album": {
         "name": "Espresso",
@@ -379,6 +315,22 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-03-03 16:24:55",
+      "album": {
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-06-23 15:44:13",
@@ -397,6 +349,70 @@
       "url": "https://open.spotify.com/track/5NnVYDzchKktmiDCGZgvtd"
     },
     {
+      "added_at": "2024-02-18 16:39:42",
+      "album": {
+        "name": "La meva sort",
+        "url": "https://open.spotify.com/album/75Slg29gzVtmrEM5kQ9DH9"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "duration_ms": 154577,
+      "name": "La meva sort",
+      "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
+    },
+    {
+      "added_at": "2024-01-28 17:01:37",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2024-05-26 16:56:54",
+      "album": {
+        "name": "la noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "la noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "added_at": "2024-06-09 16:14:09",
+      "album": {
+        "name": "La Far\u00e0ndula",
+        "url": "https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        }
+      ],
+      "duration_ms": 186260,
+      "name": "La Far\u00e0ndula",
+      "url": "https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q"
+    },
+    {
       "added_at": "2024-04-14 15:42:06",
       "album": {
         "name": "Eyes Closed",
@@ -413,22 +429,6 @@
       "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
-      "added_at": "2024-04-07 15:42:26",
-      "album": {
-        "name": "COM EST\u00c0 EL PATI",
-        "url": "https://open.spotify.com/album/6KuUJeCMEAdYj8Lqaq4E2r"
-      },
-      "artists": [
-        {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "COM EST\u00c0 EL PATI",
-      "url": "https://open.spotify.com/track/3hHDpby70b29o2T9v26RNX"
-    },
-    {
       "added_at": "2024-04-28 17:08:32",
       "album": {
         "name": "Llamas en el cielo",
@@ -443,6 +443,22 @@
       "duration_ms": 162181,
       "name": "Llamas en el cielo",
       "url": "https://open.spotify.com/track/552jr5jIQTESjFUTlMawOU"
+    },
+    {
+      "added_at": "2024-04-07 15:42:26",
+      "album": {
+        "name": "COM EST\u00c0 EL PATI",
+        "url": "https://open.spotify.com/album/6KuUJeCMEAdYj8Lqaq4E2r"
+      },
+      "artists": [
+        {
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "COM EST\u00c0 EL PATI",
+      "url": "https://open.spotify.com/track/3hHDpby70b29o2T9v26RNX"
     },
     {
       "added_at": "2024-03-31 15:14:11",
@@ -463,86 +479,6 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
-    },
-    {
-      "added_at": "2024-06-09 16:14:09",
-      "album": {
-        "name": "La Far\u00e0ndula",
-        "url": "https://open.spotify.com/album/2RND9IXMik2mDxa3In7nCC"
-      },
-      "artists": [
-        {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        }
-      ],
-      "duration_ms": 186260,
-      "name": "La Far\u00e0ndula",
-      "url": "https://open.spotify.com/track/061GP3myKZzbztHmOivT7Q"
-    },
-    {
-      "added_at": "2024-02-05 09:19:30",
-      "album": {
-        "name": "La_Original.mp3",
-        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
-    },
-    {
-      "added_at": "2024-05-26 16:57:04",
-      "album": {
-        "name": "SexeSexy",
-        "url": "https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Bexnil",
-          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "SexeSexy",
-      "url": "https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9"
-    },
-    {
-      "added_at": "2024-04-14 15:42:19",
-      "album": {
-        "name": "Today is the day",
-        "url": "https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t"
-      },
-      "artists": [
-        {
-          "name": "Buhos",
-          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
-        },
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        }
-      ],
-      "duration_ms": 170780,
-      "name": "Today is the day",
-      "url": "https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF"
     },
     {
       "added_at": "2024-06-09 16:13:58",
@@ -577,6 +513,118 @@
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
+      "added_at": "2024-02-05 09:19:30",
+      "album": {
+        "name": "La_Original.mp3",
+        "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"
+    },
+    {
+      "added_at": "2024-07-07 16:49:59",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-06-23 15:44:02",
+      "album": {
+        "name": "Passen coses",
+        "url": "https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou"
+      },
+      "artists": [
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "duration_ms": 167595,
+      "name": "Passen coses",
+      "url": "https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH"
+    },
+    {
+      "added_at": "2024-04-14 15:42:19",
+      "album": {
+        "name": "Today is the day",
+        "url": "https://open.spotify.com/album/4Xs5q0nlVwnfel2mgfUK8t"
+      },
+      "artists": [
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "duration_ms": 170780,
+      "name": "Today is the day",
+      "url": "https://open.spotify.com/track/0kCwogCcYRnmgVnaowyYBF"
+    },
+    {
+      "added_at": "2024-05-26 16:57:04",
+      "album": {
+        "name": "SexeSexy",
+        "url": "https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Bexnil",
+          "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "SexeSexy",
+      "url": "https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9"
+    },
+    {
+      "added_at": "2024-06-30 16:22:45",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
       "added_at": "2023-11-05 17:14:30",
       "album": {
         "name": "Els teus ulls",
@@ -593,20 +641,36 @@
       "url": "https://open.spotify.com/track/6cPe7rorhofISE335CqPmH"
     },
     {
-      "added_at": "2024-03-24 17:09:44",
+      "added_at": "2024-06-30 16:22:34",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-07-14 16:17:27",
+      "album": {
+        "name": "LA MARINA STA MORENA",
+        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 131332,
+      "name": "LA MARINA STA MORENA",
+      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
     },
     {
       "added_at": "2024-01-28 17:01:51",
@@ -633,72 +697,40 @@
       "url": "https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U"
     },
     {
-      "added_at": "2024-06-23 15:44:02",
+      "added_at": "2024-07-07 16:49:42",
       "album": {
-        "name": "Passen coses",
-        "url": "https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou"
+        "name": "TOT EST\u00c0 PER FER",
+        "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
       },
       "artists": [
         {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
-        }
-      ],
-      "duration_ms": 167595,
-      "name": "Passen coses",
-      "url": "https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH"
-    },
-    {
-      "added_at": "2024-06-30 16:22:45",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-02-05 09:19:42",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
         },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-02-11 16:13:59",
-      "album": {
-        "name": "4 KISSUS",
-        "url": "https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY"
-      },
-      "artists": [
         {
           "name": "Figa Flawas",
           "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
         }
       ],
-      "duration_ms": 143636,
-      "name": "4 KISSUS",
-      "url": "https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8"
+      "duration_ms": 159310,
+      "name": "JA DORMIR\u00c9",
+      "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
+    },
+    {
+      "added_at": "2024-03-24 17:09:44",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "added_at": "2023-11-26 17:16:53",
@@ -717,36 +749,20 @@
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-06-30 16:22:34",
+      "added_at": "2024-07-14 16:17:16",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Sempre Joves x10",
+        "url": "https://open.spotify.com/album/2CieTUcjWa7KsdEd8zyRWw"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
         }
       ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-07-07 16:49:59",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 188325,
+      "name": "Boig X Tu",
+      "url": "https://open.spotify.com/track/1ECjtBKeOS6rV7exnE5fYG"
     },
     {
       "added_at": "2024-03-10 16:13:34",
@@ -769,42 +785,22 @@
       "url": "https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk"
     },
     {
-      "added_at": "2024-07-07 16:49:42",
+      "added_at": "2024-07-14 16:17:05",
       "album": {
-        "name": "TOT EST\u00c0 PER FER",
-        "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
       "artists": [
         {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        },
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 159310,
-      "name": "JA DORMIR\u00c9",
-      "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
-    },
-    {
-      "added_at": "2024-02-05 09:18:50",
-      "album": {
-        "name": "HERE TO STAY",
-        "url": "https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Coll",
-          "url": "https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd"
-        }
-      ],
-      "duration_ms": 158775,
-      "name": "HERE TO STAY",
-      "url": "https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf"
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (7/7/2024)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (14/7/2024)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 25201,
+  "num_followers": 25235,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
-        }
-      ],
-      "duration_ms": 213321,
-      "name": "Laluda Bellu",
-      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
       },
@@ -187,6 +171,38 @@
       "duration_ms": 449400,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -239,34 +255,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+        "name": "#SinNombre",
+        "url": "https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE"
       },
       "artists": [
         {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+          "name": "Monk!",
+          "url": "https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo"
         }
       ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+      "duration_ms": 338364,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -283,6 +283,38 @@
       "duration_ms": 401600,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 166557,
+      "name": "Mira Honduras",
+      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -319,22 +351,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "#SinNombre",
-        "url": "https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE"
-      },
-      "artists": [
-        {
-          "name": "Monk!",
-          "url": "https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo"
-        }
-      ],
-      "duration_ms": 338364,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 6",
         "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
       },
@@ -367,38 +383,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 166557,
-      "name": "Mira Honduras",
-      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 308920,
-      "name": "Pobre Marinero",
-      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Mete y Saca",
         "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
       },
@@ -411,22 +395,6 @@
       "duration_ms": 373386,
       "name": "Cartel Mix",
       "url": "https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -495,6 +463,70 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 308920,
+      "name": "Pobre Marinero",
+      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Mete y Saca",
+        "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
+      },
+      "artists": [
+        {
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        }
+      ],
+      "duration_ms": 325640,
+      "name": "Mete y Saca",
+      "url": "https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
         "name": "Punta Gold, Vol. 1",
         "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 192954,
       "name": "La Parranda (Sei Sei Bei)",
       "url": "https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Mete y Saca",
-        "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
-      },
-      "artists": [
-        {
-          "name": "Punta Cartel",
-          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
-        }
-      ],
-      "duration_ms": 325640,
-      "name": "Mete y Saca",
-      "url": "https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -575,18 +591,22 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB"
       },
       "artists": [
         {
-          "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
         }
       ],
-      "duration_ms": 113475,
-      "name": "Vamos Vamos Todos Con la Seleccion",
-      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -607,38 +627,18 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
       },
       "artists": [
         {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 196676,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Quemala",
-        "url": "https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB"
-      },
-      "artists": [
-        {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        },
-        {
-          "name": "Mr Jc",
-          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
-        }
-      ],
-      "duration_ms": 145321,
-      "name": "Quemala",
-      "url": "https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C"
+      "duration_ms": 220380,
+      "name": "Suenos",
+      "url": "https://open.spotify.com/track/7C28Z8QbcrEmLRCg1sBW8f"
     }
   ],
   "unique_name": "Punta",

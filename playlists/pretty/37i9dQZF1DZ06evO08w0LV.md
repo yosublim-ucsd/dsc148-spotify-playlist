@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 
 ### [This Is Måneskin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08w0LV)
 
-> This Is Måneskin\. Los temas esenciales, todos en una lista.
+> This is Måneskin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,114 likes - 36 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,113 likes - 36 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 13 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 |
 | 14 | [THE DRIVER](https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:08 |
 | 15 | [Morirò da Re](https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:37 |
-| 16 | [OWN MY MIND](https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:11 |
+| 16 | [TIMEZONE](https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:59 |
 | 17 | [Somebody Told Me](https://open.spotify.com/track/4AIatGjGyVipeEAzCMTqOg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:41 |
 | 18 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
 | 19 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 |
-| 20 | [TIMEZONE](https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:59 |
+| 20 | [OWN MY MIND](https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:11 |
 | 21 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
 | 22 | [Chosen](https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:42 |
 | 23 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 35 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
 | 36 | [KOOL KIDS](https://open.spotify.com/track/0JlowC3ck7YYDm1mACwHwF) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:43 |
 
-Snapshot ID: `ZpByAAAAAAAoAwi8jjiYijG7tGxSWnhr`
+Snapshot ID: `ZpHDgAAAAAB4JlIAaKSTTjI7WLVpz0Rh`

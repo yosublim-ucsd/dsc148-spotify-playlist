@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Lila Downs, Ni\u00f1a Pastori y Soledad en portada.",
-  "num_followers": 69850,
+  "num_followers": 69870,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -447,38 +447,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "C\u00d3MO RESPIRAR???",
-        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "C\u00d3MO RESPIRAR???",
-      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -515,26 +483,34 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+        "name": "C\u00d3MO RESPIRAR???",
+        "url": "https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 175172,
-      "name": "Alguien Me Espera en Madrid",
-      "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
+      "duration_ms": 221075,
+      "name": "C\u00d3MO RESPIRAR???",
+      "url": "https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -579,22 +555,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -627,6 +587,30 @@
       "duration_ms": 215956,
       "name": "Entre La Maleza",
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Alguien Me Espera en Madrid",
+      "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -667,22 +651,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Pu\u00f1etas Mentales",
-        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 139571,
-      "name": "Pu\u00f1etas Mentales",
-      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Wacha Checa",
         "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
       },
@@ -699,42 +667,34 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Un Viaje a Todas Partes",
-        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
+        "name": "Pu\u00f1etas Mentales",
+        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 203836,
-      "name": "Un Viaje a Todas Partes",
-      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
+      "duration_ms": 139571,
+      "name": "Pu\u00f1etas Mentales",
+      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
     },
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Lo Que Mis Ojos Ven",
-        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
       },
       "artists": [
         {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 207224,
-      "name": "Lo Que Mis Ojos Ven",
-      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -759,6 +719,26 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "Lo Que Mis Ojos Ven",
+        "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 207224,
+      "name": "Lo Que Mis Ojos Ven",
+      "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Un Viaje a Todas Partes",
+        "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 203836,
+      "name": "Un Viaje a Todas Partes",
+      "url": "https://open.spotify.com/track/1IyyGyeI0FK3zfrDbDb0QF"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
         "name": "Calle Sin Salida",
         "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 170240,
       "name": "Calle Sin Salida",
       "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2024-07-11 02:20:32",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-11 02:20:32",
       "album": {
+        "name": "Hola, Me Llamo Mar\u00eda",
+        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Hola, Me Llamo Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
+    },
+    {
+      "added_at": "2024-07-11 02:20:32",
+      "album": {
         "name": "nunca y despu\u00e9s",
         "url": "https://open.spotify.com/album/3JZKpaOiDOoanRYQc1nMOq"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 211006,
       "name": "nunca y despu\u00e9s",
       "url": "https://open.spotify.com/track/5M0quwzJafA2xYHv2fjk6e"
-    },
-    {
-      "added_at": "2024-07-11 02:20:32",
-      "album": {
-        "name": "Hola, Me Llamo Mar\u00eda",
-        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Hola, Me Llamo Mar\u00eda",
-      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
     },
     {
       "added_at": "2024-07-11 02:20:32",

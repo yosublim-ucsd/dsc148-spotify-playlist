@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > 1, 2, 3 let's go...!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,179,600 likes - 111 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179,865 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

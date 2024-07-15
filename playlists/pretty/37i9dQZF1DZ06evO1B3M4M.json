@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 13593,
+  "num_followers": 13602,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAWlmtYzw2c01DJvl+LQ5YM",
+  "snapshot_id": "ZpHDgAAAAAB+y0f44fdvOeErnOi4iFYf",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 174722,
+      "name": "Main Titles (Fantastic Beasts and Where to Find Them)",
+      "url": "https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batman Begins (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
       },
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
       "artists": [
         {
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 174722,
-      "name": "Main Titles (Fantastic Beasts and Where to Find Them)",
-      "url": "https://open.spotify.com/track/4Pk1KXtkFTJNKLqwHhD3Zn"
+      "duration_ms": 152106,
+      "name": "Newt and Leta",
+      "url": "https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 141066,
       "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
       "url": "https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Newt and Leta",
-      "url": "https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 125469,
-      "name": "He's Listening to You Tina",
-      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
+      "duration_ms": 130509,
+      "name": "In the Cells",
+      "url": "https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman J. Israel, Esq. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lTpJffQUPSCm0VLiWHI8b"
+        "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Maple Glazed Donut",
-      "url": "https://open.spotify.com/track/5eTLTRb0rOuCOVulfHBALq"
+      "duration_ms": 155613,
+      "name": "I Know You Are There",
+      "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
     },
     {
       "added_at": null,
@@ -684,15 +684,15 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 130509,
-      "name": "In the Cells",
-      "url": "https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg"
+      "duration_ms": 125469,
+      "name": "He's Listening to You Tina",
+      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
+        "name": "Roman J. Israel, Esq. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lTpJffQUPSCm0VLiWHI8b"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 155613,
-      "name": "I Know You Are There",
-      "url": "https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG"
+      "duration_ms": 183053,
+      "name": "Maple Glazed Donut",
+      "url": "https://open.spotify.com/track/5eTLTRb0rOuCOVulfHBALq"
     },
     {
       "added_at": null,
@@ -727,42 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dark Knight (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "And I Thought My Jokes Were Bad",
-      "url": "https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Healing Katniss",
-      "url": "https://open.spotify.com/track/3Kgycp43ACNRDY3X9KTd9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atlantis: The Lost Empire",
         "url": "https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq"
       },
@@ -775,22 +739,6 @@
       "duration_ms": 225093,
       "name": "The Crystal Chamber - From \"Atlantis: The Lost Empire\"/Score",
       "url": "https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 116189,
-      "name": "Tina Takes Newt In / Macusa Headquarters",
-      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
     },
     {
       "added_at": null,
@@ -811,6 +759,22 @@
       "duration_ms": 554026,
       "name": "Why so Serious?",
       "url": "https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Healing Katniss",
+      "url": "https://open.spotify.com/track/3Kgycp43ACNRDY3X9KTd9j"
     },
     {
       "added_at": null,
@@ -847,6 +811,42 @@
       "duration_ms": 115906,
       "name": "Archer & Solomon Hike",
       "url": "https://open.spotify.com/track/4mbA69qFwC1NhffvpsUt5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dark Knight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "And I Thought My Jokes Were Bad",
+      "url": "https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 116189,
+      "name": "Tina Takes Newt In / Macusa Headquarters",
+      "url": "https://open.spotify.com/track/6ijP8nX229lru6paMOhwFr"
     },
     {
       "added_at": null,

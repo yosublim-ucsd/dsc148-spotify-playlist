@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-333 songs - 18 hr 39 min
+334 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Don't Give In](https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Don't Give In](https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck) | 3:29 | 2022-07-25 | 2022-10-13 |
 | [Don't Trust Myself](https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Don't Trust Myself](https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65) | 2:49 | 2022-10-24 |  |
 | [Don’t Matter](https://open.spotify.com/track/1y2ffEt2MDA3ghGwlJYuyh) | [Lydia Lee](https://open.spotify.com/artist/3PBcsYf74HPwGgOvyUSm5F) | [The House That I Live In](https://open.spotify.com/album/0rNvPsTkfRZap56kUJwnML) | 3:02 | 2022-06-06 | 2024-07-12 |
-| [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 |  |
+| [Drive](https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Drive](https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19) | 3:10 | 2022-10-24 | 2024-07-15 |
 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 | 2024-04-08 |  |
 | [Drowning](https://open.spotify.com/track/5yOy3vK27xjkWaqTS46gHN) | [Three Oscillators](https://open.spotify.com/artist/7sWAzQH4ktfR6aO0L2gwB7), [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Drowning](https://open.spotify.com/album/4mdszm9ez7c8ohdLyG5n8v) | 3:36 | 2022-06-06 | 2022-07-29 |
 | [drunk](https://open.spotify.com/track/3KkVd7Xg0jCAZSOatzQ6Td) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [drunk](https://open.spotify.com/album/14vqR57z8khZzYex37NVg9) | 3:46 | 2022-06-06 | 2022-07-29 |
@@ -337,6 +337,7 @@
 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 | 2022-07-25 | 2024-04-19 |
 | [Woo Woo](https://open.spotify.com/track/5WnAOIwhl9dxdzNmBhW4hK) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Woo Woo](https://open.spotify.com/album/3oTWydF6FVRShRa2ynHpsm) | 3:16 | 2022-06-06 | 2022-07-26 |
 | [Wrong Place, Wrong Time](https://open.spotify.com/track/4aMcU2HPB7pBQxdBCMReSt) | [alea gabrielle](https://open.spotify.com/artist/08wRQpPJTgHxAYgrfKmVwQ) | [Wrong Place, Wrong Time](https://open.spotify.com/album/1kyz8WVA5zS4Q47Gmb8nBN) | 3:46 | 2022-06-06 | 2022-07-29 |
+| [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-15 |  |
 | [yellow](https://open.spotify.com/track/0qstnaL14EV0e8TDgHA0kL) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [yellow](https://open.spotify.com/album/01ilKhmXUXqmgkZd9PvLjH) | 1:12 | 2022-06-06 | 2024-06-17 |
 | [You](https://open.spotify.com/track/6RNzBgaxbDLDdnq4jy4bNQ) | [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa), [Tim De Cotta](https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D), [Vandetta](https://open.spotify.com/artist/2zJyoM4BKp0Aufq8QIpexd) | [You](https://open.spotify.com/album/7jxS1hXDUt23Qcbifqkmdc) | 4:12 | 2022-06-06 | 2022-07-28 |
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2022-07-25 | 2024-04-19 |

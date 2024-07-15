@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1636981,
+  "num_followers": 1637180,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABJtxrjCPtuM/8EahCVifWf",
+  "snapshot_id": "ZpHDgAAAAAB4W4fqiIfgtJeWw/2Gl10v",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unsure",
         "url": "https://open.spotify.com/album/6ll7yKhF7Iq3c04eLbwC3P"
       },
@@ -571,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
       "artists": [
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": null,
@@ -603,6 +623,22 @@
       "duration_ms": 222320,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": null,
@@ -827,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
       },
       "artists": [
         {
@@ -836,13 +872,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Torine",
+          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
         }
       ],
-      "duration_ms": 184889,
-      "name": "Heading Home",
-      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
+      "duration_ms": 171585,
+      "name": "Hello World",
+      "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
     },
     {
       "added_at": null,
@@ -883,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello World",
-        "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
       },
       "artists": [
         {
@@ -892,13 +928,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Torine",
-          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 171585,
-      "name": "Hello World",
-      "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
+      "duration_ms": 184889,
+      "name": "Heading Home",
+      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": null,
@@ -1039,26 +1075,6 @@
       "duration_ms": 151101,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA"
     }
   ],
   "unique_name": "This Is Alan Walker",

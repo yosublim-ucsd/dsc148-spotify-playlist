@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music served here\. Cover \- Bad Newz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,217,033 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,219,181 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 14 | [Tum Se \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Indraneel](https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B) | [Tum Se \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe) | 4:24 |
 | 15 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 |
 | 16 | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2) | 4:13 |
-| 17 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
+| 17 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 |
 | 18 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 |
 | 19 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 |
 | 20 | [Pehle Bhi Main](https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [ANIMAL](https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO) | 4:10 |

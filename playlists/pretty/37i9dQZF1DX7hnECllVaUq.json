@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: The Reklaws",
-  "num_followers": 246857,
+  "num_followers": 246996,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Where the Wild Things Are",
-      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -451,34 +451,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Country Squire",
+        "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 163854,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
+      "duration_ms": 218280,
+      "name": "All Your'n",
+      "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
     },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+      "duration_ms": 239533,
+      "name": "Where the Wild Things Are",
+      "url": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 227466,
-      "name": "Hey Driver (feat. The War and Treaty)",
-      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -619,18 +615,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Country Squire",
-        "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 218280,
-      "name": "All Your'n",
-      "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
+      "duration_ms": 227466,
+      "name": "Hey Driver (feat. The War and Treaty)",
+      "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Poets & Old Souls",
-        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
       },
       "artists": [
         {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 188482,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Chasin' You",
-      "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Chasin' You",
+      "url": "https://open.spotify.com/track/5MwynWK9s4hlyKHqhkNn4A"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "White Horse",
-        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "White Horse",
-      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Brett Young",
         "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "On A Different Night",
+        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 189277,
+      "name": "On A Different Night",
+      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Things That We Drink To",
         "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 158320,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/3DpYNk8DsTwZ8rtTTTrKyf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "On A Different Night",
-        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 189277,
-      "name": "On A Different Night",
-      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
     },
     {
       "added_at": "2024-07-12 04:00:00",

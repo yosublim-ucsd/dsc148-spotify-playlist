@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Small Town Syndrome",
+        "url": "https://open.spotify.com/album/1YMO805X4i11iqElzNXfjB"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2024-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179558,
+      "name": "Small Town Syndrome",
+      "url": "https://open.spotify.com/track/5zcZWauQFIqz90488s06Xn"
+    },
+    {
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/0zuVpWisDhrMnPVRxPYsUd"
       },

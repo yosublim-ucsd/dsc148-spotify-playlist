@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 137877,
+  "num_followers": 137906,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -279,18 +275,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -367,42 +367,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 184783,
-      "name": "Love Tonight (Robin Schulz Remix)",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H"
-      },
-      "artists": [
-        {
-          "name": "Jantoje",
-          "url": "https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx"
-        }
-      ],
-      "duration_ms": 212756,
-      "name": "Heart Strings",
-      "url": "https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -423,6 +387,42 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H"
+      },
+      "artists": [
+        {
+          "name": "Jantoje",
+          "url": "https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx"
+        }
+      ],
+      "duration_ms": 212756,
+      "name": "Heart Strings",
+      "url": "https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "Love Tonight (Robin Schulz Remix)",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
@@ -435,26 +435,6 @@
       "duration_ms": 269480,
       "name": "I Don't Wanna Leave",
       "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Strangers (with Mansionair)",
-        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 217390,
-      "name": "Strangers (with Mansionair)",
-      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -567,6 +547,26 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Strangers (with Mansionair)",
+        "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 217390,
+      "name": "Strangers (with Mansionair)",
+      "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Rainfall (Praise You) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "MACHINE",
         "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 146250,
       "name": "Changes - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -935,26 +919,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Gimme Some More (feat. Shungudzo)",
-        "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 225558,
-      "name": "Gimme Some More (feat. Shungudzo)",
-      "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
@@ -971,6 +935,42 @@
       "duration_ms": 128100,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "Gimme Some More (feat. Shungudzo)",
+        "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "duration_ms": 225558,
+      "name": "Gimme Some More (feat. Shungudzo)",
+      "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
     },
     {
       "added_at": "2024-02-01 13:01:25",

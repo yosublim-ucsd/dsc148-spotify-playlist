@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 5 min
+73 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Levantamos Tu Nombre](https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Levantamos Tu Nombre](https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde) | 5:50 | 2023-07-09 |  |
 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 | 2024-01-15 |  |
 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 | 2024-05-14 |  |
+| [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Marca da Promessa \(Ao Vivo\)](https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB) | 5:33 | 2024-07-15 |  |
 | [Melhor Amigo](https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Melhor Amigo](https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU) | 5:35 | 2023-07-09 |  |
 | [Menina](https://open.spotify.com/track/0LZKa9LD1BGUpRF2znosFZ) | [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Menina](https://open.spotify.com/album/5vdyiT8h1KrYOSiirmjLlu) | 2:53 | 2024-03-29 | 2024-04-26 |
 | [Meu Deus Cuidará de Mim](https://open.spotify.com/track/1V0Ma0rTt44fPrU6GVPI7I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:16 | 2023-07-09 |  |
@@ -51,7 +52,7 @@
 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 | 2023-10-10 |  |
 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3rrURU6lLvSUNB0VXMaHMZ) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/2X23sNHUxzEsWAKwTGcmWF) | 4:33 | 2024-03-08 | 2024-04-05 |
 | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Acabou \(Ao Vivo\)](https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW) | 5:15 | 2023-07-09 |  |
-| [Não Há Nada, Mas Haverá](https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:44 | 2023-07-09 |  |
+| [Não Há Nada, Mas Haverá](https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:44 | 2023-07-09 | 2024-07-15 |
 | [O Amor Venceu \(Ao Vivo\)](https://open.spotify.com/track/3tsvvDT5rxEVs8rxtawduX) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Amor Venceu \(Ao Vivo\)](https://open.spotify.com/album/1Bp0byIrVLWQw9FjIiCSF4) | 6:35 | 2023-09-09 | 2023-12-14 |
 | [O Grande Eu Sou \(Ao Vivo\)](https://open.spotify.com/track/6RnZACBi3dBpe7PPx8yHZG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Ele É Jesus \(Ao Vivo\)](https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo) | 5:47 | 2024-04-28 |  |
 | [O Que Darei a Ti](https://open.spotify.com/track/2EsPqXim2134VnFphor7gG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:58 | 2023-07-09 | 2023-09-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5376,
+  "num_followers": 5377,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACvzWs2CNFS4+Qb576OJN9A",
+  "snapshot_id": "ZpHDgAAAAABgiV2ciV8BIjPoY72QmMcN",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DOIN!?",
+        "url": "https://open.spotify.com/album/36E65j8CJx5tsD240jbt5a"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Richie Rich",
+          "url": "https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        }
+      ],
+      "duration_ms": 220058,
+      "name": "WHAT WE DOIN!?",
+      "url": "https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIVE ME A BEAT!",
         "url": "https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO"
       },
@@ -255,34 +283,6 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DOIN!?",
-        "url": "https://open.spotify.com/album/36E65j8CJx5tsD240jbt5a"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Richie Rich",
-          "url": "https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        }
-      ],
-      "duration_ms": 220058,
-      "name": "WHAT WE DOIN!?",
-      "url": "https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq"
     },
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169566,
-      "name": "WHO ELSE YOU KNOW!?",
-      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YANKIN!",
         "url": "https://open.spotify.com/album/4UzCUrPGInWVchMROi7XEV"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 238181,
       "name": "YANKIN!",
       "url": "https://open.spotify.com/track/7jICgMZ4vEkAirE1gxMMZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "WHO ELSE YOU KNOW!?",
+      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175982,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -543,22 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
       "artists": [
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+      "duration_ms": 175982,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
     },
     {
       "added_at": null,
@@ -587,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
       "artists": [
         {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 152759,
-      "name": "LIL LAD (UNIMPRESSED)",
-      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,
@@ -623,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's That?",
-        "url": "https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz"
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
       "artists": [
         {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 140000,
-      "name": "What's That?",
-      "url": "https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx"
+      "duration_ms": 152759,
+      "name": "LIL LAD (UNIMPRESSED)",
+      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 125039,
       "name": "GEEKED UP",
       "url": "https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's That?",
+        "url": "https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "What's That?",
+      "url": "https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vomit",
-        "url": "https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj"
-      },
-      "artists": [
-        {
-          "name": "Travis Thompson",
-          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
-        },
-        {
-          "name": "Nima Skeemz",
-          "url": "https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 168342,
-      "name": "Vomit",
-      "url": "https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -755,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vomit",
+        "url": "https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj"
+      },
+      "artists": [
+        {
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        },
+        {
+          "name": "Nima Skeemz",
+          "url": "https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 168342,
+      "name": "Vomit",
+      "url": "https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -775,30 +775,6 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -839,6 +815,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE FREESTYLE REMIX",
+        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
+      },
+      "artists": [
+        {
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE REMIX",
+      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -863,6 +883,26 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie! 2: The Yeequel",
+        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        }
+      ],
+      "duration_ms": 121765,
+      "name": "HIP-HOP",
+      "url": "https://open.spotify.com/track/3AzaLnoEWrvD5VMHlG8i09"
     },
     {
       "added_at": null,
@@ -899,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie! 2: The Yeequel",
-        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
       "artists": [
         {
@@ -908,33 +948,17 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        }
-      ],
-      "duration_ms": 121765,
-      "name": "HIP-HOP",
-      "url": "https://open.spotify.com/track/3AzaLnoEWrvD5VMHlG8i09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POP OFF",
-        "url": "https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
         }
       ],
-      "duration_ms": 143529,
-      "name": "U TELL ME (Feat. P-Lo)",
-      "url": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
     },
     {
       "added_at": null,
@@ -963,8 +987,52 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+        "name": "POP OFF",
+        "url": "https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "U TELL ME (Feat. P-Lo)",
+      "url": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 204943,
+      "name": "Untouchable (feat. P-LO)",
+      "url": "https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie! 2: The Yeequel",
+        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
       "artists": [
         {
@@ -972,37 +1040,17 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         },
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
         },
         {
           "name": "Jay Anthony",
           "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE FREESTYLE REMIX",
-        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
-      },
-      "artists": [
-        {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE REMIX",
-      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
+      "duration_ms": 139807,
+      "name": "SWING IT (feat. Jay Anthony)",
+      "url": "https://open.spotify.com/track/66CNrz8P6P9CB6bJfA5sXp"
     },
     {
       "added_at": null,
@@ -1055,22 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
@@ -1091,26 +1123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie! 2: The Yeequel",
-        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
         }
       ],
-      "duration_ms": 139807,
-      "name": "SWING IT (feat. Jay Anthony)",
-      "url": "https://open.spotify.com/track/66CNrz8P6P9CB6bJfA5sXp"
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -1131,22 +1155,6 @@
       "duration_ms": 175354,
       "name": "Level",
       "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     }
   ],
   "unique_name": "This Is P-Lo",

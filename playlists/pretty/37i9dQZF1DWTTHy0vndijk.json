@@ -1,6 +1,6 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Weeekly(\uc704\ud074\ub9ac) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 522775,
+  "num_followers": 522763,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
+        "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
+        "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
+      },
+      "artists": [
+        {
+          "name": "I-LAND2 : N/a",
+          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
+        }
+      ],
+      "duration_ms": 183251,
+      "name": "IWALY",
+      "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
         "name": "Russian Roulette - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
       },
@@ -155,34 +171,18 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 140021,
-      "name": "Lucky Girl Syndrome",
-      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
-        "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
-      },
-      "artists": [
-        {
-          "name": "I-LAND2 : N/a",
-          "url": "https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4"
-        }
-      ],
-      "duration_ms": 183251,
-      "name": "IWALY",
-      "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 140021,
+      "name": "Lucky Girl Syndrome",
+      "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -267,6 +267,38 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
+        "name": "We play",
+        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "Strawberry Rush",
+        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "Strawberry Rush",
+      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
@@ -295,38 +327,6 @@
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "We play",
-        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 168104,
-      "name": "Midnight Fiction",
-      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -363,34 +363,34 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
-        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Feel My Rhythm",
-      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+      "duration_ms": 194080,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "Strawberry Rush",
-        "url": "https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 176240,
-      "name": "Strawberry Rush",
-      "url": "https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1"
+      "duration_ms": 168104,
+      "name": "Midnight Fiction",
+      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -427,54 +427,6 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "STAYDOM",
-        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 107463,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
         "name": "Love Me Back (From \"Operation: True Love\")",
         "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
       },
@@ -487,6 +439,22 @@
       "duration_ms": 186293,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
+        "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Feel My Rhythm",
+      "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -523,6 +491,22 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 107463,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/2Xiaplc23BureS4EDeE8xa"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -543,18 +527,34 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 166946,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -603,22 +603,6 @@
       "duration_ms": 188133,
       "name": "SUPERWOMAN",
       "url": "https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/5MM3zQXvFmpTBDe45rVida"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/4SjL5rKPVxe2K2FnjluuVa"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 213426,
       "name": "RUN2U",
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
-        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 220745,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
         "name": "TEENFRESH",
         "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 169906,
       "name": "#menow",
       "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
+        "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 220745,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
-      },
-      "artists": [
-        {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
-        }
-      ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2024-07-09 09:07:05",
-      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-07-09 09:07:05",
       "album": {
-        "name": "Fancy - Spotify Singles",
-        "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
       "artists": [
         {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
         }
       ],
-      "duration_ms": 193277,
-      "name": "Fancy - Spotify Singles",
-      "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
     },
     {
       "added_at": "2024-07-09 09:07:05",
@@ -927,6 +911,22 @@
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "added_at": "2024-07-09 09:07:05",
+      "album": {
+        "name": "The 1st Mini Album 'Beam Of Prism'",
+        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "BOP BOP!",
+      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,534 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,571 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 25 | [Runaway Pup](https://open.spotify.com/track/41758pMJBGBAULbsnBlve8) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Runaway Pup](https://open.spotify.com/album/7HWMchGb6EvhdsEf5PEab5) | 2:26 |
 | 26 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 |
 | 27 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 |
-| 28 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
-| 29 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 28 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 29 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 |
 | 30 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 31 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 |
 | 32 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 38 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
 | 39 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 |
 | 40 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |
-| 41 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
-| 42 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
-| 43 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
+| 41 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
+| 42 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
+| 43 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
 | 44 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz) | 3:45 |
 | 45 | [MUSTARD \(with 6LACK\)](https://open.spotify.com/track/1vITRP5ITGjLK5v8LjjVo0) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [moreward\(FORWARD\)](https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx) | 3:21 |
 | 46 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
-| 47 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
-| 48 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 |
-| 49 | [Breaking By](https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:53 |
+| 47 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 |
+| 48 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
+| 49 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 50 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 
 Snapshot ID: `ZoghOQAAAADXX3OVo9QDAPUKeo+mWBrv`

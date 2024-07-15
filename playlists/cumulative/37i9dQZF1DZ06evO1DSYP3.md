@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 28 min
+76 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Too Faded](https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold](https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f) | 3:22 | 2024-01-29 |  |
 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 | 2024-01-29 | 2024-07-12 |
 | [Trying Me](https://open.spotify.com/track/4XgeghQAOvnb4WzgIW1OJb) | [Jammy](https://open.spotify.com/artist/2JyMaoNqyKyWNcASw5b5X8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Trying Me](https://open.spotify.com/album/6pI4FHyb3ZXNtfqgyZGWbZ) | 2:29 | 2024-03-02 | 2024-04-03 |
-| [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 | 2024-01-29 |  |
+| [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 | 2024-01-29 | 2024-07-15 |
 | [U TELL ME \(Feat\. P\-Lo\)](https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [POP OFF](https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV) | 2:23 | 2024-01-29 |  |
+| [Untouchable \(feat\. P\-LO\)](https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Magic Hour](https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp) | 3:24 | 2024-07-15 |  |
 | [Vomit](https://open.spotify.com/track/7LtZmVyaEt07cln17YfyXe) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Vomit](https://open.spotify.com/album/21bsgfwUMEcuKnStLE8Rrj) | 2:48 | 2024-05-05 |  |
 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 | 2024-01-29 |  |
 | [WHAT WE DOIN!?](https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Richie Rich](https://open.spotify.com/artist/4hSGrfIm5xRloHXESKxrFd), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb) | [WHAT WE DOIN!?](https://open.spotify.com/album/36E65j8CJx5tsD240jbt5a) | 3:40 | 2024-06-30 |  |

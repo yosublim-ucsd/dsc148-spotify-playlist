@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32294,
+  "num_followers": 32297,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
+    },
+    {
+      "added_at": "2024-03-08 05:32:56",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
-    },
-    {
-      "added_at": "2024-03-08 05:32:56",
-      "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
-    },
-    {
-      "added_at": "2024-03-08 05:32:56",
-      "album": {
         "name": "Flip",
         "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 182120,
       "name": "Come In",
       "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
+    },
+    {
+      "added_at": "2024-03-08 05:32:56",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-03-08 05:32:56",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-03-08 05:32:56",
       "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2024-03-08 05:32:56",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 161640,
       "name": "Blame",
       "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
-    },
-    {
-      "added_at": "2024-03-08 05:32:56",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2024-03-08 05:32:56",

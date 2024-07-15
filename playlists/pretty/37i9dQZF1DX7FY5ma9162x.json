@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Tommy Richman",
-  "num_followers": 268769,
+  "num_followers": 268863,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,22 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -399,26 +403,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -455,6 +439,22 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -487,42 +487,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -543,6 +507,26 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -855,8 +835,28 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+      "duration_ms": 196204,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 399153,
-      "name": "Hours In Silence",
-      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -1007,22 +987,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -1051,6 +1015,42 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1175,22 +1191,6 @@
       "duration_ms": 212866,
       "name": "B.S. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "What You Did (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "What You Did (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "Next 2 U",
-        "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
@@ -1500,25 +1500,9 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 161801,
-      "name": "Next 2 U",
-      "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1535,6 +1519,22 @@
       "duration_ms": 233069,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -1623,6 +1607,54 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Next 2 U",
+        "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Next 2 U",
+      "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Princess Going Digital",
+      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1663,38 +1695,6 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Princess Going Digital",
-      "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2024-07-09 20:40:35",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-09 20:40:35",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
-    },
-    {
-      "added_at": "2024-07-09 20:40:35",
-      "album": {
         "name": "Call Me Every Day (feat. Wizkid)",
         "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "added_at": "2024-07-09 20:40:35",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2024-07-09 20:40:35",

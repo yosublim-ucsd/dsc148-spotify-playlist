@@ -1,12 +1,12 @@
 {
-  "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 78378,
+  "description": "This Is Trivium. Los temas esenciales, todos en una lista.",
+  "num_followers": 78391,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAACLdbsR0ozzTGNzLyb6jFkM",
+  "snapshot_id": "ZpHDgAAAAAAqrLfzGhlfCnCRuuXXRX5l",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 265895,
-      "name": "Blind Leading the Blind",
-      "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
+      "duration_ms": 204570,
+      "name": "Scattering The Ashes",
+      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
       "artists": [
         {
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 204570,
-      "name": "Scattering The Ashes",
-      "url": "https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascendancy (Special Edition)",
-        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 489960,
-      "name": "Master of Puppets",
-      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
+      "duration_ms": 265895,
+      "name": "Blind Leading the Blind",
+      "url": "https://open.spotify.com/track/7a6AriexF79dNNhknDluGd"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascendancy (Special Edition)",
+        "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 489960,
+      "name": "Master of Puppets",
+      "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -615,6 +615,38 @@
       "duration_ms": 266173,
       "name": "Through Blood and Dirt and Bone",
       "url": "https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crusade",
+        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 243746,
+      "name": "Anthem (We Are the Fire)",
+      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 409693,
+      "name": "Torn Between Scylla and Charybdis",
+      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 409693,
-      "name": "Torn Between Scylla and Charybdis",
-      "url": "https://open.spotify.com/track/3Sie7xWnFu5Q9DL4rfR9Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crusade",
-        "url": "https://open.spotify.com/album/42MixogSAsobX5po649Y0j"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 243746,
-      "name": "Anthem (We Are the Fire)",
-      "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Watch the World Burn",
-      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shogun (Special Edition)",
         "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 714986,
       "name": "Shogun",
       "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Vengeance Falls",
-      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
     },
     {
       "added_at": null,
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Inception of the End",
-      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
+      "duration_ms": 293093,
+      "name": "Watch the World Burn",
+      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Vengeance Falls",
+      "url": "https://open.spotify.com/track/1dMHNNZ3Oy7wxX1HtQFgId"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Villainy Thrives",
-      "url": "https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80"
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Inception of the End",
+      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
     }
   ],
   "unique_name": "This Is Trivium",

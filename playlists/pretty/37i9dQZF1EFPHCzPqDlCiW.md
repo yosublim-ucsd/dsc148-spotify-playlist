@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 124 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Enlightened](https://open.spotify.com/track/2gHOYkfncsID7v89HU7wpc) | [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Enlightened](https://open.spotify.com/album/2wrvR3grhGvyoywz20XRmC) | 3:08 |
 | 120 | [Walk Away](https://open.spotify.com/track/40COlkwjf7rVerBqzNYFOj) | [Kingsland Road](https://open.spotify.com/artist/5z3iTZIRcqy0MyPQY9vEZG) | [We Are the Young](https://open.spotify.com/album/7lSQAPah3kFTIYiUNUAKw4) | 3:47 |
 | 121 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 |
-| 122 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
-| 123 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 124 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 122 | [Small Town Syndrome](https://open.spotify.com/track/5zcZWauQFIqz90488s06Xn) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Small Town Syndrome](https://open.spotify.com/album/1YMO805X4i11iqElzNXfjB) | 2:59 |
+| 123 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
+| 124 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
+| 125 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbWngwAAAAB3HRSGOyJyJQF4qP/IFvtb`
+Snapshot ID: `AbWtIwAAAABa93irmAIrNplsnY+cpmUJ`

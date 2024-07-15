@@ -668,7 +668,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 183529,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
@@ -896,6 +896,28 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
+    },
+    {
+      "album": {
+        "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
+        "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
+      },
+      "artists": [
+        {
+          "name": "adm:t",
+          "url": "https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ"
+        },
+        {
+          "name": "Tember Blanche",
+          "url": "https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154527,
+      "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
+      "url": "https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT"
     },
     {
       "album": {

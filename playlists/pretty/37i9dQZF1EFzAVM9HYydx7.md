@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562 likes - 283 songs - 17 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,566 likes - 283 songs - 17 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 42 | [Up All Night](https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:54 |
 | 43 | [High School](https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pink Friday: Roman Reloaded The Re\-Up \(Explicit Version\)](https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1) | 3:38 |
 | 44 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
-| 45 | [Hype](https://open.spotify.com/track/5NFYuqu8V6QXc6mzcLImd6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:29 |
-| 46 | [6 God](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:00 |
+| 45 | [6 God](https://open.spotify.com/track/3a8tAZFJxlmBwOtrf5L1oC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:00 |
+| 46 | [Hype](https://open.spotify.com/track/5NFYuqu8V6QXc6mzcLImd6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:29 |
 | 47 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
 | 48 | [Fancy](https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:19 |
 | 49 | [NC\-17](https://open.spotify.com/track/6BJbOXDlgVAXSaq6wYFYT2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:36 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 168 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4KLpNmKeu6C2jVaTQeFCZO) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:13 |
 | 169 | [Jesus Piece](https://open.spotify.com/track/1yIhFZoPNT8LcIz7n1MVHn) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 3:53 |
 | 170 | [Ambitionz](https://open.spotify.com/track/1mFIiPjGUudqmMDgjH8QOO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:57 |
-| 171 | [ROYL](https://open.spotify.com/track/1S5Kq3A8hpx3J4cmcADcF5) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 3:24 |
-| 172 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 171 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
+| 172 | [ROYL](https://open.spotify.com/track/1S5Kq3A8hpx3J4cmcADcF5) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 3:24 |
 | 173 | [Tsunami \(feat\. Davido\)](https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:28 |
 | 174 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 |
 | 175 | [4 My Town \(Play Ball\)](https://open.spotify.com/track/3922kPG1JMYBNhACLo9j3f) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:21 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 282 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 283 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbWniQAAAACxxOY6TyQ5qSuuVvtLHRxe`
+Snapshot ID: `AbWtKQAAAABpvcbSf3J1/x0NylnAMjgP`

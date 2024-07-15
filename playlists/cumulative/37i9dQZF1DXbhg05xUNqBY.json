@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "date_added": "2024-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "album": {
         "name": "Heaven's Eyes",
         "url": "https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 197920,
       "name": "The Thank You Song",
       "url": "https://open.spotify.com/track/5jmz156BNGH5pqNQU1bAGz"

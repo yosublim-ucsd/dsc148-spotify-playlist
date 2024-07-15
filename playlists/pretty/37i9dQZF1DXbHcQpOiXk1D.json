@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 313785,
+  "num_followers": 313830,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "An Ever Changing View",
         "url": "https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 279240,
       "name": "Insecurities (feat. Moses Sumney)",
       "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -219,18 +219,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "ode to rahsaan",
-        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
       },
       "artists": [
         {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 210447,
-      "name": "ode to rahsaan",
-      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -267,22 +271,18 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+        "name": "ode to rahsaan",
+        "url": "https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
+      "duration_ms": 210447,
+      "name": "ode to rahsaan",
+      "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -327,22 +327,18 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Perceive Its Beauty, Acknowledge Its Grace",
-        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 177133,
-      "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
-      "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Chasing the Drum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Chasing the Drum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+      "duration_ms": 177133,
+      "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
+      "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 367973,
       "name": "Still Waters",
       "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Turquoise Galaxy",
-      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Connla's Well",
         "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
       },
@@ -535,6 +551,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
+      },
+      "artists": [
+        {
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
+        }
+      ],
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "The Colour Purple (Live From Malibu)",
         "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
       },
@@ -547,22 +579,6 @@
       "duration_ms": 163226,
       "name": "The Colour Purple - Live From Malibu",
       "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -583,22 +599,6 @@
       "duration_ms": 172782,
       "name": "Vita",
       "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Messimalism (Above Thought)",
-        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
-      },
-      "artists": [
-        {
-          "name": "Emanative",
-          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
-        },
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 404458,
-      "name": "Messimalism (Above Thought)",
-      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Never Doubt",
         "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Messimalism (Above Thought)",
+        "url": "https://open.spotify.com/album/0CjY2PxtolrVrSt4SLGUKn"
+      },
+      "artists": [
+        {
+          "name": "Emanative",
+          "url": "https://open.spotify.com/artist/5XNaa9EOra6P39TWGbCXuB"
+        },
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 404458,
+      "name": "Messimalism (Above Thought)",
+      "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Funeka",
         "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 243000,
       "name": "Funeka",
       "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -907,18 +887,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+        "name": "When It Comes Together",
+        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        },
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
+      "duration_ms": 188181,
+      "name": "When It Comes Together",
+      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 221409,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1015,6 +1015,22 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/0Ak2aBGFCtMPfIWK4ZaYqD"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 375291,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "WeirdOs",
-        "url": "https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6"
-      },
-      "artists": [
-        {
-          "name": "O.",
-          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
-        }
-      ],
-      "duration_ms": 269034,
-      "name": "TV Dinners",
-      "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "All Black Everything",
         "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 306714,
       "name": "All Black Everything",
       "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "WeirdOs",
+        "url": "https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6"
+      },
+      "artists": [
+        {
+          "name": "O.",
+          "url": "https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB"
+        }
+      ],
+      "duration_ms": 269034,
+      "name": "TV Dinners",
+      "url": "https://open.spotify.com/track/7nJ58q6TZPNJSugTUGq8vy"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1319,50 +1335,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0egI36OMLEcADQ8zJSbZGm"
-      },
-      "artists": [
-        {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        },
-        {
-          "name": "Dream Mclean",
-          "url": "https://open.spotify.com/artist/0ojBbzNVKsx1wFf7Ag3YIv"
-        },
-        {
-          "name": "Dame",
-          "url": "https://open.spotify.com/artist/7lKsazBrIDEv76YQzFt05s"
-        },
-        {
-          "name": "Wallace Rice",
-          "url": "https://open.spotify.com/artist/2jBrnxIU5OlEBG0DQY3Lqu"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/76q8RxpJisulRDVQZaW7b2"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Be Myself",
         "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
@@ -1383,6 +1355,22 @@
       "duration_ms": 227835,
       "name": "Be Myself",
       "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     }
   ],
   "unique_name": "Jazz UK",

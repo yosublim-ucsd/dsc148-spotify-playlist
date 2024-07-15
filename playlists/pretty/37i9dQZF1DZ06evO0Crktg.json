@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 226123,
+  "num_followers": 226494,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAABgXSFgFwBL2eB5BhXq1viL",
+  "snapshot_id": "ZpHDgAAAAAB2am/dN5M8H5x+Vy41eYuk",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+      "duration_ms": 179253,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
     },
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Help Me God",
-        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Son Of The Dirty South",
-      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": null,

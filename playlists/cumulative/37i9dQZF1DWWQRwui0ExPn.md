@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,862 songs - 10 day 20 hr 8 min
+6,863 songs - 10 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2607,6 +2607,7 @@
 | [High Weirdo](https://open.spotify.com/track/2UYmeCosafcN7co8OJM1GA) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Nebula](https://open.spotify.com/album/1wNsxYpp9J3o27v8h0WQ2Y) | 1:45 | 2022-05-27 | 2022-09-16 |
 | [Higher](https://open.spotify.com/track/1AWORcMuBOYbRFRPtSgyRt) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Higher](https://open.spotify.com/album/6EUfsYFr2xvSJ2TGppUS7G) | 2:05 | 2019-09-08 | 2020-07-07 |
 | [higher](https://open.spotify.com/track/1zvi8dfPE8N05au0znnRhD) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [higher](https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse) | 1:58 | 2021-11-20 | 2022-06-10 |
+| [Highland Sun](https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Highland Sun](https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S) | 2:01 | 2024-07-12 |  |
 | [highlights](https://open.spotify.com/track/4I3NfbJ3J41LhkAILcLx0b) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [highlights](https://open.spotify.com/album/31dAQyUHoJbPPVOX59S7sm) | 2:32 | 2020-04-13 | 2021-05-03 |
 | [Highly Overrated](https://open.spotify.com/track/5ezzEdJswUWJvW2kNZGfFg) | [Fremantle Doctor](https://open.spotify.com/artist/4Y5gklmu7DtgKiCKuPDgBX) | [Highly Overrated](https://open.spotify.com/album/3XrE5bfTCIZ3LCOpTe419l) | 2:22 | 2024-01-19 |  |
 | [Highway](https://open.spotify.com/track/2lcpXxk1QzI1POmw4Klucc) | [YetBaby](https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb) | [Highway](https://open.spotify.com/album/1CTkIeCTuAvUToWfbXqgLi) | 2:02 | 2023-01-13 | 2023-08-26 |
@@ -3196,7 +3197,7 @@
 | [Lanterns](https://open.spotify.com/track/68vaAU5cIsDPu47auem0In) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lanterns](https://open.spotify.com/album/1LMkckcPNJ2zwHktKn4IGg) | 1:22 | 2022-07-22 | 2022-11-11 |
 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2022-12-09 |
 | [Lasagne](https://open.spotify.com/track/0YVUFizlbV0l7okjXGUTWu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lasagne](https://open.spotify.com/album/747EgjI5KoDtHRvN8nB7MG) | 1:46 | 2020-11-10 | 2021-10-20 |
-| [Last Beat Of The Year](https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Last Beat Of The Year](https://open.spotify.com/album/61cIIt2aeMn0FTo5j02vI3) | 2:27 | 2023-12-15 |  |
+| [Last Beat Of The Year](https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Last Beat Of The Year](https://open.spotify.com/album/61cIIt2aeMn0FTo5j02vI3) | 2:27 | 2023-12-15 | 2024-07-15 |
 | [Last Call](https://open.spotify.com/track/4ZH7eKeRIu9fEtVeOEukAj) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu), [Fayelo](https://open.spotify.com/artist/1K18BNpoYTlf251GQL1Mdz) | [Last Call](https://open.spotify.com/album/3KYrvXn0mZYypBHGbqOMQF) | 2:56 | 2021-08-29 | 2022-03-21 |
 | [Last Minute](https://open.spotify.com/track/4KY9vmJS55o2AAMbR5zDfg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:17 | 2021-08-22 | 2022-03-21 |
 | [Last Moment](https://open.spotify.com/track/3ijP0DiE8iYKmElrpn1MvG) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [In Sounds](https://open.spotify.com/album/77cM54j8U79v13bAKrjikF) | 2:06 | 2022-07-22 | 2022-11-11 |
@@ -4674,7 +4675,7 @@
 | [Pressure](https://open.spotify.com/track/4HTbx3Gny40i6LcQSWNgAZ) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Pressure](https://open.spotify.com/album/0dDZ7v2j43mLvYMnJJSJXf) | 1:57 | 2023-01-20 | 2023-10-06 |
 | [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 | 2022-11-11 |
 | [Pretty and the Beast](https://open.spotify.com/track/4NBIMXqhYshVmoxHHvsmPi) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Pretty and the Beast](https://open.spotify.com/album/3JvNlmuavGeNMY2WimBXAu) | 2:10 | 2023-03-16 | 2023-10-06 |
-| [pretty angel](https://open.spotify.com/track/01e0LPv0ZtprlNox1A33I7) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [pretty angel](https://open.spotify.com/album/13WEDtGMbIUo4SBjQwSBxa) | 2:18 | 2024-01-05 |  |
+| [pretty angel](https://open.spotify.com/track/01e0LPv0ZtprlNox1A33I7) | [Phresh Milk](https://open.spotify.com/artist/4U5mB170iJgggrvfl1bdCX) | [pretty angel](https://open.spotify.com/album/13WEDtGMbIUo4SBjQwSBxa) | 2:18 | 2024-01-05 | 2024-07-15 |
 | [Pretty Birds](https://open.spotify.com/track/3KwszaXnBJJExWG0MRmsRW) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [Pretty Birds](https://open.spotify.com/album/4huHLIGS9GUNjkHChOTIAb) | 2:03 | 2023-04-12 | 2023-10-20 |
 | [Pretty Lady](https://open.spotify.com/track/4U7nooIX0YZR2sm97xrHPH) | [Dani Desh](https://open.spotify.com/artist/1e12CuoLjy5FhIu0hvcLxP), [Howiewonder](https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk) | [Blossom](https://open.spotify.com/album/3JiXFzs5PG0gwYVZy1v3CZ) | 2:56 | 2023-05-23 | 2023-10-13 |
 | [Pretty Woman](https://open.spotify.com/track/53QGrFO942fjfeCnBhhpUy) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Pretty Woman](https://open.spotify.com/album/3C2z3Fkxzs1s3rqXSzGIyn) | 2:28 | 2022-07-08 | 2022-10-21 |
@@ -6714,7 +6715,7 @@
 | [Winter Landscape In Moonlight](https://open.spotify.com/track/2vHEcAo2T6v3lT0KxJowyt) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Winter Landscape In Moonlight](https://open.spotify.com/album/02eZqjYgyFIWR5D766t27P) | 2:46 | 2022-12-09 | 2023-04-13 |
 | [Winter Melody](https://open.spotify.com/track/1p97ORAMUOY7ThHkyokXgC) | [Jazzy Underground](https://open.spotify.com/artist/4WyvUTY8OXpek6GksJh8wl) | [Winter Melody](https://open.spotify.com/album/7xcbWHqaVUGYEzBRxqGTd3) | 1:30 | 2023-01-06 | 2023-09-08 |
 | [Winter rain](https://open.spotify.com/track/4S2QNrT4UyeCZK9dyBpFnp) | [PRODA](https://open.spotify.com/artist/2wKsHaG2GNyzDYW3nhDlJZ) | [Winter rain](https://open.spotify.com/album/2iWEmXEyT7CSQ3sFMW3GDZ) | 2:13 | 2023-01-06 | 2024-05-25 |
-| [Winter Stories](https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na) | [Morakle](https://open.spotify.com/artist/61y6w6H60Xm87eRHuGAhyj) | [Winter Stories](https://open.spotify.com/album/2PSo3vYPAO5J78p56LsGb5) | 1:41 | 2024-01-26 | 2024-06-20 |
+| [Winter Stories](https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na) | [Morakle](https://open.spotify.com/artist/61y6w6H60Xm87eRHuGAhyj) | [Winter Stories](https://open.spotify.com/album/2PSo3vYPAO5J78p56LsGb5) | 1:41 | 2024-01-26 |  |
 | [Winter Wonderland](https://open.spotify.com/track/7GvkwVWW90W8vvUIgj54vt) | [Soft Eyez](https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT) | [Winter Wonderland](https://open.spotify.com/album/0QTZHBEsjse6oTZlOxbrJn) | 1:52 | 2021-12-17 | 2021-12-27 |
 | [wintertale](https://open.spotify.com/track/6Oaa0s5yzNB8LMGGM7dJDL) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [wintertale](https://open.spotify.com/album/741s6yQUkm8BSIbhOY2ABs) | 1:24 | 2022-12-23 | 2023-08-11 |
 | [Winter’s Butterfly](https://open.spotify.com/track/7KnEwMYwJIkW2PU8wqkEGG) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Winter’s Butterfly](https://open.spotify.com/album/052vacW1ZsS24rfrqDNqPO) | 2:21 | 2022-12-09 | 2023-01-20 |

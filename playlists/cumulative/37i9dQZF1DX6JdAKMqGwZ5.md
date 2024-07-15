@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Barry B, Carolina Durante.
 
-121 songs - 6 hr 17 min
+122 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Demasiado Grande](https://open.spotify.com/track/4VApNR3krAS6J2KEvF6f1w) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam), [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [HIMNOS DE GUERRA](https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF) | 3:30 | 2024-06-27 |  |
 | [DEMONIO](https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [GRANDE](https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L) | 2:28 | 2024-06-27 | 2024-07-14 |
 | [Diamante](https://open.spotify.com/track/4F5gTSLd8FvbLkWlJHFQlq) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Diamante](https://open.spotify.com/album/0uKwIyx6m6LUVpACtb8Qfq) | 3:12 | 2024-06-27 |  |
+| [d´ESCARNIO](https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [d´ESCARNIO](https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ) | 2:39 | 2024-07-12 |  |
 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 | 2024-06-27 |  |
 | [EFÍMERO](https://open.spotify.com/track/5gXR3Qj04wz3QTn26gHiYw) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [EFÍMERO](https://open.spotify.com/album/7DiaeTQqUOO6QpOYkOn0v7) | 2:06 | 2024-06-27 | 2024-07-05 |
 | [El Faro](https://open.spotify.com/track/0or0IEapGFlUxDFXm7DtBh) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [El Faro](https://open.spotify.com/album/6onJCmeJrH53BS1vyREijD) | 3:17 | 2024-06-27 | 2024-07-05 |
@@ -102,7 +103,7 @@
 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 | 2024-06-27 |  |
 | [Quiero Hacer Música](https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Quiero Hacer Música](https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc) | 3:20 | 2024-06-27 |  |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2024-06-27 | 2024-07-05 |
-| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 |  |
+| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 | 2024-07-15 |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2024-06-27 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |
 | [Si Tengo Suerte](https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Si Tengo Suerte](https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh) | 2:54 | 2024-06-27 |  |

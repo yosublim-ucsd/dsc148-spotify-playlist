@@ -1,12 +1,12 @@
 {
-  "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 286307,
+  "description": "This is Pantera. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 286387,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAaimdUgLanC+C/liakcNFp",
+  "snapshot_id": "ZpHDgAAAAACAUbxX5PeI97JYUnrGpZv/",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
+      "duration_ms": 197533,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 197533,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
+      "duration_ms": 160960,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
     },
     {
       "added_at": null,

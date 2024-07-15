@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544349,
+  "num_followers": 544343,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -175,18 +191,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -239,26 +259,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Appeal To Reason",
         "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -351,6 +335,22 @@
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -619,6 +619,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -825,38 +825,6 @@
       "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5YO2QzhS2sSpZlkT721pnW"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 105826,
-      "name": "Do The Paranoid Style",
-      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
-    },
-    {
       "added_at": "2024-04-18 19:24:00",
       "album": {
         "name": "Letter to Self",
@@ -871,6 +839,22 @@
       "duration_ms": 226385,
       "name": "Up and Comer",
       "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5YO2QzhS2sSpZlkT721pnW"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/14mBmB265dJ0UHPLXbbM6v"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -943,6 +927,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Hello Exile",
         "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
     },
     {
       "added_at": "2021-07-08 22:59:55",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Won't Give Up The Fight",
-      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
-    },
-    {
       "added_at": "2021-07-08 22:59:55",
       "album": {
         "name": "TURNSTILE LOVE CONNECTION",
@@ -1189,20 +1173,20 @@
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
     },
     {
-      "added_at": "2024-04-18 19:24:00",
+      "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Our Brand Could Be Yr Life",
-        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 160346,
-      "name": "ATM",
-      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1223,6 +1207,22 @@
       "duration_ms": 173000,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL"
+    },
+    {
+      "added_at": "2024-04-18 19:24:00",
+      "album": {
+        "name": "Our Brand Could Be Yr Life",
+        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Forever And Ever x Infinity",
-        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204470,
-      "name": "Stay Awhile",
-      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Forever And Ever x Infinity",
+        "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204470,
+      "name": "Stay Awhile",
+      "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
-      },
-      "artists": [
-        {
-          "name": "We Still Dream",
-          "url": "https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Cop Outs and Cover Ups",
-      "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Paradise Lost, a poem by John Milton",
         "url": "https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 167920,
       "name": "Paradise Lost, a poem by John Milton",
       "url": "https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
+      },
+      "artists": [
+        {
+          "name": "We Still Dream",
+          "url": "https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o"
+        }
+      ],
+      "duration_ms": 187655,
+      "name": "Cop Outs and Cover Ups",
+      "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Stay Rad!",
         "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Overexposed",
-        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
       },
       "artists": [
         {
-          "name": "Sleep On It",
-          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 199600,
-      "name": "A New Way Home",
-      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1543,6 +1527,22 @@
       "duration_ms": 182044,
       "name": "Placement",
       "url": "https://open.spotify.com/track/3ZmYRJVR8NZAVg7X4zt4eb"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Overexposed",
+        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
+      },
+      "artists": [
+        {
+          "name": "Sleep On It",
+          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "A New Way Home",
+      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Fresh Produce",
-        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
+        "name": "Songs of Armor and Devotion",
+        "url": "https://open.spotify.com/album/5OMrKFXc0bOdWuHIYBG3bN"
       },
       "artists": [
         {
-          "name": "Seaway",
-          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
         }
       ],
-      "duration_ms": 212443,
-      "name": "Pleasures",
-      "url": "https://open.spotify.com/track/2LL5HEIRSIS2W6zMa4jrQI"
+      "duration_ms": 246066,
+      "name": "Daggers",
+      "url": "https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh"
     }
   ],
   "unique_name": "Punk Rock Workout",

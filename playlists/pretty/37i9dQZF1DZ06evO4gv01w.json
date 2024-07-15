@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 28022,
+  "num_followers": 28035,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAD2HgfRWPXs7o4jA7Cpxxw+",
+  "snapshot_id": "ZpHDgAAAAAD5QskrMMNhfCG5iMYO4zXr",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electrified",
-        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
       },
       "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 163758,
-      "name": "One and Lonely",
-      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4EawAVDF7WBbWj7gGLSjP3"
     },
     {
       "added_at": null,
@@ -195,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+        "name": "Electrified",
+        "url": "https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH"
       },
       "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4EawAVDF7WBbWj7gGLSjP3"
+      "duration_ms": 163758,
+      "name": "One and Lonely",
+      "url": "https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
+      "duration_ms": 164106,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/1hyEsWwmDnWnLaw0n0YkLS"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/1hyEsWwmDnWnLaw0n0YkLS"
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+      "duration_ms": 201526,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
         }
       ],
-      "duration_ms": 201526,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
       "duration_ms": 209720,
       "name": "When God Closes a Door",
       "url": "https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 256000,
       "name": "Southern Comfort (Trap Remix)",
       "url": "https://open.spotify.com/track/512wwvX0c5JkyhiF5siFL5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Shall Be Released (feat. Larkin Poe)",
+        "url": "https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 287643,
+      "name": "I Shall Be Released (feat. Larkin Poe)",
+      "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 137109,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/5guqdCxSoMWo22zBn13ybb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Shall Be Released (feat. Larkin Poe)",
-        "url": "https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo"
-      },
-      "artists": [
-        {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 287643,
-      "name": "I Shall Be Released (feat. Larkin Poe)",
-      "url": "https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rainy Day Sessions EP",
-        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
-      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
+      "duration_ms": 209398,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/6lH0490xa4CKhavDK3eHVI"
     },
     {
       "added_at": null,
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "The Rainy Day Sessions EP",
+        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
       },
       "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 209398,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/6lH0490xa4CKhavDK3eHVI"
+      "duration_ms": 233066,
+      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
+      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 404786,
+  "num_followers": 404825,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -363,18 +363,22 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -475,34 +475,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Amor a Primera Vista",
-        "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "Amor a Primera Vista",
-      "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -531,6 +503,34 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Amor a Primera Vista",
+        "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "duration_ms": 220941,
+      "name": "Amor a Primera Vista",
+      "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
         "name": "Yo Las Pongo",
         "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 161226,
       "name": "La Noche Que Murio Chicago",
       "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -987,6 +971,22 @@
       "duration_ms": 216613,
       "name": "El Paso Del Gigante",
       "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -1115,18 +1091,26 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Serie Fiesta",
-        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
         }
       ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1143,6 +1127,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Serie Fiesta",
+        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Que lo baile bien",
-        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Que lo baile bien",
+        "url": "https://open.spotify.com/album/5Scr8TrsI2p52bLtjvqYwE"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/7hZxeDEidGxPfg8ZAAKOOY"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
-        "name": "Dinamitazos Tropicales de Siempre",
-        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 194986,
       "name": "Cumbia Morena",
       "url": "https://open.spotify.com/track/0RW9lpU6FOyGNawOa3MbH8"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1603,6 +1619,22 @@
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Borrachera Con Los Honorables (Live)",
+        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 188416,
+      "name": "La Boda Del Huitlacoche - Live",
+      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1627,34 +1659,18 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+        "name": "Grandes Temas Latinos para Bailar y Alegrar",
+        "url": "https://open.spotify.com/album/41zzdhXHDQ7RnY7mGsE0ud"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/1XZVhSjF9rbiKgcqsuTQmj"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1703,22 +1719,6 @@
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
-        "name": "Grandes Temas Latinos para Bailar y Alegrar",
-        "url": "https://open.spotify.com/album/41zzdhXHDQ7RnY7mGsE0ud"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/1XZVhSjF9rbiKgcqsuTQmj"
     },
     {
       "added_at": "2024-07-11 01:19:52",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-11 01:19:52",
       "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Despu\u00e9s de Ti \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/2pwaDBvwFwppCMnnTUbl7A"
-    },
-    {
-      "added_at": "2024-07-11 01:19:52",
-      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 180626,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
+    },
+    {
+      "added_at": "2024-07-11 01:19:52",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Despu\u00e9s de Ti \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/2pwaDBvwFwppCMnnTUbl7A"
     },
     {
       "added_at": "2024-07-11 01:19:52",

@@ -1,12 +1,12 @@
 {
-  "description": "This is: Latto. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 29028,
+  "description": "This is Latto. The essential tracks, all in one playlist.",
+  "num_followers": 29043,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAAd5eg1zvmkHDOb1iZvM0J9",
+  "snapshot_id": "ZpHDgAAAAADlKWXSQyBrx8Jd6yTrStY+",
   "tracks": [
     {
       "added_at": null,
@@ -107,30 +107,6 @@
       "duration_ms": 185748,
       "name": "Put It On Da Floor Again (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Just Called",
-        "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "I Just Called",
-      "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
     },
     {
       "added_at": null,
@@ -555,6 +531,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. Latto)",
+        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207284,
+      "name": "Can't Get Enough (feat. Latto)",
+      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Light (feat. Yung Bleu) [Remix]",
         "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
       },
@@ -583,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ISSA PARTY (feat. BabyDrill)",
-        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "ISSA PARTY (feat. BabyDrill)",
-      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put It On Da Floor",
         "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
       },
@@ -615,26 +611,6 @@
       "duration_ms": 181437,
       "name": "Put It On Da Floor",
       "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
     },
     {
       "added_at": null,
@@ -659,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Didn't Say (feat. Latto)",
-      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You For Believing",
         "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
       },
@@ -695,6 +651,26 @@
       "duration_ms": 168019,
       "name": "5'5 (feat. Latto)",
       "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Didn't Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
     },
     {
       "added_at": null,
@@ -875,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet (feat. Latto) [Remix]",
-        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 211917,
-      "name": "Wet (feat. Latto) - Remix",
-      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
         "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
       },
@@ -911,6 +867,26 @@
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wet (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 211917,
+      "name": "Wet (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
     },
     {
       "added_at": null,
@@ -955,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "missunderstood",
         "url": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
       },
@@ -971,50 +967,6 @@
       "duration_ms": 184871,
       "name": "Bitter (feat. Mulatto)",
       "url": "https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Huh!",
-        "url": "https://open.spotify.com/album/2rWER0lIjkJUpbsXvk503k"
-      },
-      "artists": [
-        {
-          "name": "Lyrikile Trife",
-          "url": "https://open.spotify.com/artist/5wkTjLCJjwAxMdwmUhMcqu"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178350,
-      "name": "Mad Huh!",
-      "url": "https://open.spotify.com/track/77wkplIxuDJ7EJwF5HvLOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
-        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
-      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
       "added_at": null,
@@ -1039,6 +991,30 @@
       "duration_ms": 163481,
       "name": "Live My Best Life (with Snoop Dogg & Latto)",
       "url": "https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
+        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
+      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
       "added_at": null,
@@ -1079,6 +1055,26 @@
       "duration_ms": 172137,
       "name": "Like A Thug (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Down (feat. Latto)",
+        "url": "https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Down (feat. Latto)",
+      "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
     },
     {
       "added_at": null,

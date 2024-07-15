@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,791 likes - 75 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,803 likes - 75 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 7 | [couch sitters](https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [couch sitters](https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG) | 2:34 |
 | 8 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 |
 | 9 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
-| 10 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
-| 11 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
+| 10 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
+| 11 | [On The Ropes](https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN) | [LOFI FRAN](https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6) | [On The Ropes](https://open.spotify.com/album/3rKkbhXfzpRHPfRLZfxUfN) | 1:24 |
 | 12 | [Myth](https://open.spotify.com/track/5TIc53pvTiR7tzz08OwiUj) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Myth](https://open.spotify.com/album/2uEzVjqCcDFdfbgRjyMn4s) | 1:55 |
 | 13 | [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 |
 | 14 | [Waffle Date](https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Waffle Date](https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr) | 2:31 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 50 | [time's arrow](https://open.spotify.com/track/6Cvg6ojYitzuxZt1YHFmOI) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [time's arrow](https://open.spotify.com/album/2Mp2LYqJ7G8GKnKKF0doym) | 2:18 |
 | 51 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
 | 52 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
-| 53 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
-| 54 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
-| 55 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
-| 56 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
+| 53 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
+| 54 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
+| 55 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
+| 56 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
 | 57 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
 | 58 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
 | 59 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 66 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 | 67 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
 | 68 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
-| 69 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
-| 70 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
+| 69 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
+| 70 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
 | 71 | [End Credits](https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [End Credits](https://open.spotify.com/album/2COxCYzeNwCOcAQSGu80Fg) | 2:52 |
 | 72 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 |
 | 73 | [August](https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [Loops](https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ) | 1:54 |

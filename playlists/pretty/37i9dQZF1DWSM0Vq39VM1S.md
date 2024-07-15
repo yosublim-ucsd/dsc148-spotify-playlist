@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,360 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,450 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 9 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 10 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 11 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
-| 12 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
-| 13 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
-| 14 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
+| 12 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
+| 13 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
+| 14 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 15 | [Just Breathe](https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 3:35 |
 | 16 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 17 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 49 | [On the Road \- Radio Edit](https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [On the Road](https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d) | 3:12 |
 | 50 | [L'Océan des Amoureux](https://open.spotify.com/track/2xZW4rrLzolmc9HfmnqkDP) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:56 |
 | 51 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
-| 52 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
-| 53 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 |
+| 52 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 |
+| 53 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 54 | [Water Ran](https://open.spotify.com/track/4u4NcX9VdRHTLIJQqXne3I) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Invincible Friends](https://open.spotify.com/album/09cVRkXeGEMJ4oiZmMxnc1) | 3:53 |
-| 55 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 |
-| 56 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 |
+| 55 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 |
+| 56 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 |
 | 57 | [A Part of Us \- Original Motion Picture Soundtrack](https://open.spotify.com/track/3E71Cnxd9WRnZhWC1THHTq) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [A Part of Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38lREADM7sZBLfjAROd5AN) | 5:31 |
 | 58 | [Strangers](https://open.spotify.com/track/6FwQXU8dVDUoo09SGHAxSA) | [ELLIOTT ARMEN](https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt) | [Strangers](https://open.spotify.com/album/43Zp5dae11AgsnXKktKCUP) | 3:48 |
 | 59 | [Breath of Roma](https://open.spotify.com/track/7oHPHBLG6hOaGeBrkOUSS3) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Breath of Roma](https://open.spotify.com/album/7CweJaFaFVZLSQvCtDM05m) | 3:25 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 67 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
 | 68 | [1982 \- English Version](https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Solide Mirage \(Deluxe Edition\)](https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm) | 3:23 |
 | 69 | [The Beginning](https://open.spotify.com/track/0eeIwG0vTlzUpkpeKA4MuK) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [The Beginning](https://open.spotify.com/album/12HDa5GkLlZz5d32yATbwz) | 3:44 |
-| 70 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 |
-| 71 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
+| 70 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
+| 71 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 |
 | 72 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 |
 | 73 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 |
 | 74 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |

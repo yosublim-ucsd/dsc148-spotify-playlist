@@ -15288,7 +15288,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-15",
       "duration_ms": 218311,
       "name": "The Fullness of My Being",
       "url": "https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o"
@@ -17472,6 +17472,24 @@
       "duration_ms": 317130,
       "name": "Wide Open",
       "url": "https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP"
+    },
+    {
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
+      },
+      "artists": [
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "album": {

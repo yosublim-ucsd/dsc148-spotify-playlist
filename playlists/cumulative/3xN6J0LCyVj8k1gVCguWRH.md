@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,590 songs - 8 day 10 hr 45 min
+3,591 songs - 8 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2868,6 +2868,7 @@
 | [Standing at the Altar](https://open.spotify.com/track/740tWsllt99upfwFNhhWEb) | [Oscar Bryant and The Bluebirds](https://open.spotify.com/artist/53ZHIQIURbIH2KD5sx2iXs) | [Standing at the Altar](https://open.spotify.com/album/15lIUB4sLfY1fVcr0htaoB) | 3:39 | 2023-04-01 | 2023-04-23 |
 | [Star \(feat\. Yogi\)](https://open.spotify.com/track/5p4QNyQvoZtKlp6f4e1X5I) | [The Groove Supplier](https://open.spotify.com/artist/2DFdxWIx41TkkNuFIjhVbE), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Star \(feat\. Yogi\)](https://open.spotify.com/album/2CYg0eTUZlemEt7sdhRaA0) | 4:21 | 2022-06-10 | 2022-06-26 |
 | [Star Shaped Pegs](https://open.spotify.com/track/5ScwIBmNQB5YzrRtOSLTYI) | [Drew Neirin](https://open.spotify.com/artist/4FUY0z7cRDDvdIaryGUWdz), [Earl St John](https://open.spotify.com/artist/5bOOJSc3XjrjFmCFUlPnNA) | [Rejects of the New World Order](https://open.spotify.com/album/5upLC17mycSvl1ejR2O9Z6) | 2:40 | 2024-04-03 | 2024-04-12 |
+| [Stargaze](https://open.spotify.com/track/4zGKNj8uaXLHiqx7SDTqsr) | [Aria Zadeh](https://open.spotify.com/artist/0nKgHhTQdbeac1Zuz6qKJM) | [Stargaze](https://open.spotify.com/album/4gP3dSqjFacHYYUWXAUIGw) | 2:51 | 2024-07-15 |  |
 | [Starry Eyed](https://open.spotify.com/track/7zrODsbiWVMFuQWsSjgYQp) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Starry Eyed](https://open.spotify.com/album/5VpDdbLf6y1jdd8rGU6swI) | 3:24 | 2021-07-10 | 2021-07-25 |
 | [Stars](https://open.spotify.com/track/0Y5todJ3IZUePS1nMqBAyC) | [2nd Brightest Object](https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q) | [Stars](https://open.spotify.com/album/5K1uT2dCoaUoki69kPzKVP) | 3:04 | 2022-09-23 | 2022-10-09 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-07-12 | 2021-11-19 |

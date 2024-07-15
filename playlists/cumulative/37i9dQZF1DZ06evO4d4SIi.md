@@ -2,7 +2,7 @@
 
 ### [This Is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
 
-> This is: Jordan Davis\. Alle wichtigen Tracks in einer Playlist.
+> This is Jordan Davis\. The essential tracks, all in one playlist.
 
 51 songs - 2 hr 40 min
 
@@ -27,7 +27,7 @@
 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 | 2024-02-24 |  |
 | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR) | 5:04 | 2024-04-21 |  |
 | [I Still Smoked](https://open.spotify.com/track/2SMzVQE4Y1k0idunVh6R2R) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:26 | 2024-05-17 | 2024-07-04 |
-| [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 | 2024-07-04 |  |
+| [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 | 2024-07-04 | 2024-07-15 |
 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 | 2023-02-08 |  |
 | [Made That Way](https://open.spotify.com/track/2k4Chj6SG01uoySJzBK1lO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:53 | 2023-02-08 | 2024-06-01 |
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2023-02-08 | 2023-03-10 |
@@ -45,7 +45,7 @@
 | [Selfish](https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:12 | 2023-02-08 |  |
 | [Short Fuse](https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:49 | 2023-02-20 |  |
 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 | 2023-02-08 |  |
-| [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2023-02-08 | 2024-07-13 |
+| [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2023-02-08 |  |
 | [So Do I](https://open.spotify.com/track/0MjbiK4r82QTmDiJPvBngj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:07 | 2023-05-03 |  |
 | [Sunday Saints](https://open.spotify.com/track/3VDENjuApDBbAO6KT4THXL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:39 | 2023-02-20 | 2023-02-22 |
 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 | 2023-02-08 | 2024-07-14 |

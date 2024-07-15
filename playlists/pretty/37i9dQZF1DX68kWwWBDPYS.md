@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Jacinto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,552 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,548 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

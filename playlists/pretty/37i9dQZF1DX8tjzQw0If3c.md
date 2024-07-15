@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Sarah Suhairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,758 likes - 66 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,759 likes - 66 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

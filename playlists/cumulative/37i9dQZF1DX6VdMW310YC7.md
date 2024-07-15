@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,642 songs - 4 day 16 hr 47 min
+1,643 songs - 4 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
-| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 |  |
+| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 | 2024-07-15 |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
 | [Forever in My Mind](https://open.spotify.com/track/2xZ9aPo57bpZO1yAAnBI6s) | [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [Forever in My Mind](https://open.spotify.com/album/292MhRLW28A7dFbQyYMLpP) | 2:37 | 2022-12-28 | 2023-01-06 |
 | [Forever Sun](https://open.spotify.com/track/7mCvVkAN54xuYfmQbk7Pdo) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Forever Sun](https://open.spotify.com/album/0P08zM3Kv5hmJeFWDgD2Hy) | 2:38 | 2022-07-01 | 2022-12-29 |
@@ -1199,6 +1199,7 @@
 | [Riffs of the Night](https://open.spotify.com/track/16Q23rwqIqNUoVsm062KGp) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6Abdri62FUkqPquCfsuKZY) | 4:08 | 2022-08-19 | 2022-10-13 |
 | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/track/61Jk4NuavJPhDBvVZes5iB) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Right Here, Right Now \(feat\. Taska Black\)](https://open.spotify.com/album/5SR62UKvlHz3RaNA4GHYUS) | 3:33 | 2020-05-18 | 2020-07-18 |
 | [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 | 2023-09-15 |  |
+| [Rise Above](https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Rise Above](https://open.spotify.com/album/19EPuUvxNIptO3sEJRhJAm) | 3:19 | 2024-07-12 |  |
 | [Rise Up](https://open.spotify.com/track/2sTe3y5xjQvVb9tDTVaI35) | [Thomas Jack](https://open.spotify.com/artist/6JmzdIDSQdeHg0pocIascm), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Rise Up](https://open.spotify.com/album/71OvAYyGpaspUbSFoKw1Tn) | 3:01 | 2020-05-22 | 2020-07-03 |
 | [Riverwards Stream](https://open.spotify.com/track/4HunXDbm6cFDmsH3pFOg7h) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:07 | 2020-03-16 | 2022-01-14 |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2020-02-29\* | 2022-09-24 |

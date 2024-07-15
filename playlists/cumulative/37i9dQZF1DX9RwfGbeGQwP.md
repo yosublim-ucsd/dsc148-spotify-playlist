@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,416 songs - 2 day 5 hr 20 min
+1,417 songs - 2 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-01-27 | 2022-12-24 |
 | [Movies Time](https://open.spotify.com/track/0gwgKnS4Xrq7G8X3HenOWM) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Movies Time](https://open.spotify.com/album/7nNyru9BHyuFekEAmfrFdv) | 1:57 | 2022-12-09 | 2023-09-29 |
 | [moviestar](https://open.spotify.com/track/2aQjIW6o8Arj5RtA32cY6F) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [moviestar](https://open.spotify.com/album/5RvO023RqWdqu5ICoSbH1b) | 2:09 | 2023-09-22 |  |
+| [Movin' On](https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Movin' On](https://open.spotify.com/album/7yHEoIHZSI5YCrHiUMOYbJ) | 2:26 | 2024-07-12 |  |
 | [mt\. fuji](https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [kyoto](https://open.spotify.com/album/0ekYAWFyx9byUsfY6L00kq) | 1:49 | 2022-01-27 | 2022-09-17 |
 | [Mugged Off](https://open.spotify.com/track/6n8ig4sDJ41aOA3NflHscL) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [On Track](https://open.spotify.com/album/0Ez9sSh1xGvNMOdVmft9mi) | 2:16 | 2022-01-27 | 2022-05-20 |
 | [Mulholland Cruise](https://open.spotify.com/track/5idpF5W5D1TmaQ1kcvrT4l) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Mulholland Cruise](https://open.spotify.com/album/72uP2pUWQ0nNgBn9JQsCly) | 2:14 | 2022-01-27 | 2022-09-09 |
@@ -996,7 +997,7 @@
 | [Really Get Going](https://open.spotify.com/track/69Go42QZw7dC2Ehl0pZhCi) | [Steefann](https://open.spotify.com/artist/6bQY0OdvrUz4BUlajKcLfF) | [Really Get Going](https://open.spotify.com/album/4MACdcvjpSigHwHLxWDhyx) | 2:35 | 2022-01-27 | 2023-06-06 |
 | [Reasons](https://open.spotify.com/track/6UUhPwauX4nAieYExAj9FH) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Reasons](https://open.spotify.com/album/3Eiu3BJ4na9P7qkYlqDvVE) | 2:15 | 2023-01-13 | 2023-09-29 |
 | [Reassuring Drops](https://open.spotify.com/track/6itjWG7F9xrubgo84dJ0w7) | [Jes Nil](https://open.spotify.com/artist/7gF7CFdREwDpmTLIxTdz10) | [Under the Rain](https://open.spotify.com/album/0P9hF5dbQvWedEKlB2Huw2) | 1:28 | 2022-01-27 | 2022-06-10 |
-| [recline](https://open.spotify.com/track/2YnECW2yH3lvRGeMHTCqY0) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [recline](https://open.spotify.com/album/7ovMGG55n1lBsPo77s5gx3) | 2:16 | 2023-05-19 |  |
+| [recline](https://open.spotify.com/track/2YnECW2yH3lvRGeMHTCqY0) | [ben bocker](https://open.spotify.com/artist/5DEFb4BAzDqOhECmaWBhkI) | [recline](https://open.spotify.com/album/7ovMGG55n1lBsPo77s5gx3) | 2:16 | 2023-05-19 | 2024-07-15 |
 | [Red Wine](https://open.spotify.com/track/4SoO50cOu3MFFE1kgdKro9) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Red Wine](https://open.spotify.com/album/7yUylVEJNkMmbycmOyP8yh) | 2:28 | 2022-12-09 | 2023-10-06 |
 | [Red Witch](https://open.spotify.com/track/0kaTSfOhbQdluy3cMgSXIW) | [Sloepoke](https://open.spotify.com/artist/4PA0B5xujSlQnGiTiAPb1E) | [Red Witch](https://open.spotify.com/album/4k9feeV8JYnj4hTl7oRIGQ) | 1:30 | 2022-12-09 | 2023-10-06 |
 | [Redefine](https://open.spotify.com/track/3myirb6fcmRT8eeSZV1poe) | [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Redefine](https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y) | 2:24 | 2022-01-27 | 2023-09-05 |
