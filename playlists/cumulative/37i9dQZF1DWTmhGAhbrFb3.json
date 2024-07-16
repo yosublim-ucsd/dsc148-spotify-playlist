@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 152000,
       "name": "Aurora Line",
       "url": "https://open.spotify.com/track/1zuGL74HX3yHU0UNFoW1pX"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 168684,
       "name": "Burgeon",
       "url": "https://open.spotify.com/track/5x6b2SejrJYfgY1UN9BneK"
@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Echoes Divided",
+        "url": "https://open.spotify.com/album/7i5F1CLSgsFpYqEJLQQ4MS"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Echoes Divided",
+      "url": "https://open.spotify.com/track/14k8ejDpD3MNTzpYhUjKTN"
+    },
+    {
+      "album": {
         "name": "Elevated Pastures",
         "url": "https://open.spotify.com/album/6ikmItGf76ftAlNgeNlEVm"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 159230,
       "name": "Endelig",
       "url": "https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 157465,
       "name": "Flow State",
       "url": "https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q"
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 153811,
       "name": "Libre",
       "url": "https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp"
@@ -4088,6 +4106,24 @@
       "duration_ms": 207692,
       "name": "Lumination",
       "url": "https://open.spotify.com/track/14qEOt6tE09O8QbrA4EkIJ"
+    },
+    {
+      "album": {
+        "name": "luminesce",
+        "url": "https://open.spotify.com/album/372aHYk4GN7h4ntR0TSxsr"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174625,
+      "name": "luminesce",
+      "url": "https://open.spotify.com/track/6WaUIATyui73xu1bzeGle3"
     },
     {
       "album": {
@@ -4894,7 +4930,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 156203,
       "name": "Nightrain",
       "url": "https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr"
@@ -5711,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Renascence",
+        "url": "https://open.spotify.com/album/6VhLzWBMiWZ9imq8MB5qo8"
+      },
+      "artists": [
+        {
+          "name": "Dreamlifter",
+          "url": "https://open.spotify.com/artist/0FSs6sfUcLgEqXr8HqnMck"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182718,
+      "name": "Renascence",
+      "url": "https://open.spotify.com/track/4cI5JUTZLfZA81q7pzN0ts"
+    },
+    {
+      "album": {
         "name": "Reserve",
         "url": "https://open.spotify.com/album/4MZFlQf43WsdCsHGaVD0Ko"
       },
@@ -5848,7 +5902,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 204000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/4kcGn4dAtnspFcNtuSm0Or"
@@ -6972,7 +7026,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 135072,
       "name": "The Waiting",
       "url": "https://open.spotify.com/track/4CDYt47BwYVotSySNDNlge"

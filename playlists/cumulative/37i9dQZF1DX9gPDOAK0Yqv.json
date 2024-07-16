@@ -7787,6 +7787,24 @@
     },
     {
       "album": {
+        "name": "Remember the Music",
+        "url": "https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244687,
+      "name": "Remember the Music",
+      "url": "https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U"
+    },
+    {
+      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
       },
@@ -8330,7 +8348,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 221346,
       "name": "Save Me - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"

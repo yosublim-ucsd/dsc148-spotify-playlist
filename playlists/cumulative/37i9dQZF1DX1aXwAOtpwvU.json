@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:3IQIVYEmRr7wZnEqpSjfV5\">Zale\u015b</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:07EyVrrbqIAHNLw9FEnQUs\">Lotta</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 195281,
       "name": "bigos",
       "url": "https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM"
@@ -554,6 +554,32 @@
       "duration_ms": 190206,
       "name": "Czuj\u0119, wi\u0119c jestem?",
       "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
+    },
+    {
+      "album": {
+        "name": "Daj\u0119 Ci s\u0142owo",
+        "url": "https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": "Karbid",
+          "url": "https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127366,
+      "name": "Daj\u0119 Ci s\u0142owo",
+      "url": "https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF"
     },
     {
       "album": {
@@ -1681,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "my",
+        "url": "https://open.spotify.com/album/19GsnIluYB9d42QHswzfej"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "my",
+      "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
+    },
+    {
+      "album": {
         "name": "ZGRZYT",
         "url": "https://open.spotify.com/album/02wQzXoSwOPKZHik90xH3Q"
       },
@@ -1790,6 +1834,28 @@
       "duration_ms": 138332,
       "name": "nic(i)",
       "url": "https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc"
+    },
+    {
+      "album": {
+        "name": "Nie Dzwo\u0144 Do Mnie",
+        "url": "https://open.spotify.com/album/6Qb5R0OCZqV7OoUc4eLdB6"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Nie Dzwo\u0144 Do Mnie",
+      "url": "https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk"
     },
     {
       "album": {
@@ -2336,7 +2402,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 125000,
       "name": "Pu$$ycat Dollz",
       "url": "https://open.spotify.com/track/1b4l2qmMY6LvAzRF7Kf9Lf"
@@ -3044,7 +3110,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 152307,
       "name": "Za dobrze by zapomnie\u0107",
       "url": "https://open.spotify.com/track/3XUZJ2FrvymQtTd6t6qJP6"

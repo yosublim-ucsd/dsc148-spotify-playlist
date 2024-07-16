@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: FERBI, Mokebe, Ohgotmi",
-  "num_followers": 17537,
+  "num_followers": 17540,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Za P\u00f3\u017ano",
-        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Za P\u00f3\u017ano",
-      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "Lata",
         "url": "https://open.spotify.com/album/655q7pEf0IAM0xMaxoRRuY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 192194,
       "name": "Lata",
       "url": "https://open.spotify.com/track/3PTqfHy1sEHWH9jKeb7nu9"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Za P\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Za P\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Zobacz",
-        "url": "https://open.spotify.com/album/4TPe45ghlrkj7cOYfBOXVT"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Zobacz",
-      "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "HIP HOP",
         "url": "https://open.spotify.com/album/5NzcSRE2QbkshX2VAKrkMd"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181383,
       "name": "HIP HOP",
       "url": "https://open.spotify.com/track/1Qpr06AZ9f5dBABLboy39j"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Zobacz",
+        "url": "https://open.spotify.com/album/4TPe45ghlrkj7cOYfBOXVT"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Zobacz",
+      "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Serato",
-        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "Serato",
-      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "Twoja wina",
         "url": "https://open.spotify.com/album/4xXE3RZsR8O4SG5XrxNhx4"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
+        "name": "Serato",
+        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Serato",
+      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Trzymaj mnie",
-        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
-      },
-      "artists": [
-        {
-          "name": "J.Kossak",
-          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
-        },
-        {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Trzymaj mnie",
-      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Trzymaj mnie",
+        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
+      },
+      "artists": [
+        {
+          "name": "J.Kossak",
+          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Trzymaj mnie",
+      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
     },
     {
       "added_at": "2024-07-12 10:55:25",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
+        "name": "SOKI",
+        "url": "https://open.spotify.com/album/0Ms2Y7ihtMQFDIZka8FXs4"
+      },
+      "artists": [
+        {
+          "name": "Jakub Matjakowski",
+          "url": "https://open.spotify.com/artist/0KKT7wl67R9feJ8eKIXcCD"
+        }
+      ],
+      "duration_ms": 141124,
+      "name": "SOKI",
+      "url": "https://open.spotify.com/track/34LrHnJnCDFiAs7X8QOF43"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
         "name": "jesie\u0144 23'",
         "url": "https://open.spotify.com/album/42qqDkighlkSd72n7hPzwd"
       },
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "SOKI",
-        "url": "https://open.spotify.com/album/0Ms2Y7ihtMQFDIZka8FXs4"
-      },
-      "artists": [
-        {
-          "name": "Jakub Matjakowski",
-          "url": "https://open.spotify.com/artist/0KKT7wl67R9feJ8eKIXcCD"
-        }
-      ],
-      "duration_ms": 141124,
-      "name": "SOKI",
-      "url": "https://open.spotify.com/track/34LrHnJnCDFiAs7X8QOF43"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "BOOM!",
         "url": "https://open.spotify.com/album/1sec9lLcEnNrVruurFAqEd"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-07-12 10:55:25",
       "album": {
-        "name": "Sny o Tobie",
-        "url": "https://open.spotify.com/album/2S5vn9BwjH3N8mKCdw4Api"
-      },
-      "artists": [
-        {
-          "name": "Astrograjek",
-          "url": "https://open.spotify.com/artist/1oOAzIqLU8w85MU617eK5F"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Sny o Tobie",
-      "url": "https://open.spotify.com/track/0PT2o2WsdqvbmIVfAnMcRp"
-    },
-    {
-      "added_at": "2024-07-12 10:55:25",
-      "album": {
         "name": "bez w d\u0142oni",
         "url": "https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 185658,
       "name": "bez w d\u0142oni",
       "url": "https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c"
+    },
+    {
+      "added_at": "2024-07-12 10:55:25",
+      "album": {
+        "name": "Sny o Tobie",
+        "url": "https://open.spotify.com/album/2S5vn9BwjH3N8mKCdw4Api"
+      },
+      "artists": [
+        {
+          "name": "Astrograjek",
+          "url": "https://open.spotify.com/artist/1oOAzIqLU8w85MU617eK5F"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Sny o Tobie",
+      "url": "https://open.spotify.com/track/0PT2o2WsdqvbmIVfAnMcRp"
     },
     {
       "added_at": "2024-07-12 10:55:25",

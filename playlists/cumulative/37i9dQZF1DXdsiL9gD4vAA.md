@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-167 songs - 15 hr 12 min
+168 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 |  |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 |  |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 | 2024-04-19 |
+| [Aisa Lag Raha Hain](https://open.spotify.com/track/1PpMpSzsZDyOi8VIuwFn3j) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bibhuti Gogoi](https://open.spotify.com/artist/4OJivOTrFG65M0ivJ4sJW1), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr) | [Aisa Lag Raha Hain](https://open.spotify.com/album/40BL6dzi1kHC1T7nuL0QJA) | 4:01 | 2024-07-15 |  |
 | [Ajab Apna Haal Hota](https://open.spotify.com/track/79w1q2K3Hz22ZFFfdlRYkn) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Budapest Symphony Orchestra](https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX) | [Ghazals & Thumris From The Musical Heart of Budapest](https://open.spotify.com/album/230wmWIepyGVyO0OW5ptyM) | 3:48 | 2024-02-07 |  |
 | [Ajnabee](https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/4UGDdDJ84KQ0V7zzEPoaay) | 5:26 | 2023-06-19 |  |
 | [Ajnabee](https://open.spotify.com/track/7EWviiiEH3oeS3D8gUKBnE) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/7fXLbnKX7f1K2cFwmsekWT) | 5:26 | 2023-12-12 | 2024-04-19 |

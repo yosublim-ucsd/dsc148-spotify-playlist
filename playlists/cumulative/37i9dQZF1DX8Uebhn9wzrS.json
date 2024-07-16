@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 168000,
       "name": "american midsummer",
       "url": "https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q"
@@ -7627,6 +7627,24 @@
     },
     {
       "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/2itZuZzqQz9q1Lojz0a6bA"
+      },
+      "artists": [
+        {
+          "name": "Looper Boy",
+          "url": "https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dad's Typewriter Feels",
+      "url": "https://open.spotify.com/track/5HnINSPgOBtvkLvCdywObE"
+    },
+    {
+      "album": {
         "name": "Dai jobu desu",
         "url": "https://open.spotify.com/album/5cgSj26aGyk6VZw6m1FB28"
       },
@@ -8980,6 +8998,24 @@
       "duration_ms": 153947,
       "name": "Dream Canyon",
       "url": "https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c"
+    },
+    {
+      "album": {
+        "name": "Dream Drift",
+        "url": "https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Dream Drift",
+      "url": "https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4"
     },
     {
       "album": {
@@ -19986,7 +20022,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -35273,6 +35309,24 @@
     },
     {
       "album": {
+        "name": "Up In The Clouds Again",
+        "url": "https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po"
+      },
+      "artists": [
+        {
+          "name": "astra division",
+          "url": "https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127856,
+      "name": "Up In The Clouds Again",
+      "url": "https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI"
+    },
+    {
+      "album": {
         "name": "urban souls",
         "url": "https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK"
       },
@@ -36286,7 +36340,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 118378,
       "name": "welcome home",
       "url": "https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU"

@@ -1,6 +1,6 @@
 {
   "description": "canzoni felici italiane e internazionali per un'estate presa bene",
-  "num_followers": 51448,
+  "num_followers": 51449,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Pi\u00f9 Che Logico",
-        "url": "https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Buon Viaggio (Share The Love)",
-      "url": "https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Figli Delle Stelle (2005 - Remaster)",
         "url": "https://open.spotify.com/album/517MxHAODAKO4wAr4pHVAB"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 275480,
       "name": "Figli Delle Stelle",
       "url": "https://open.spotify.com/track/0C9rBeWAsPhmBeaYKZLN5m"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Pi\u00f9 Che Logico",
+        "url": "https://open.spotify.com/album/7rGhalMtF2mZM5bhq88VZ3"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Buon Viaggio (Share The Love)",
+      "url": "https://open.spotify.com/track/7LSBkEm5LQSkhe6yqqqBPs"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Pino Daniele (2008 - Remaster)",
-        "url": "https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr"
-      },
-      "artists": [
-        {
-          "name": "Pino Daniele",
-          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
-        }
-      ],
-      "duration_ms": 179746,
-      "name": "Je So' Pazzo - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "L'ultima notte",
         "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 157566,
       "name": "L'ultima notte",
       "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Pino Daniele (2008 - Remaster)",
+        "url": "https://open.spotify.com/album/1TF4f3ukvC7kdxIfX9eMzr"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "duration_ms": 179746,
+      "name": "Je So' Pazzo - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vFXO237XjPm910TDvvsfg"
     },
     {
       "added_at": "2024-06-28 00:01:00",

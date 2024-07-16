@@ -4881,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159060,
+      "name": "Pregui\u00e7a De Conhecer Gente Nova - Ao Vivo",
+      "url": "https://open.spotify.com/track/0T2gSP5NRws6Y9tiZ6fG7D"
+    },
+    {
+      "album": {
         "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
         "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
       },
@@ -4892,7 +4910,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 159060,
       "name": "Pregui\u00e7a De Conhecer Gente Nova - Ao Vivo",
       "url": "https://open.spotify.com/track/6PAQmABeUj7XcMqfjyaLBF"

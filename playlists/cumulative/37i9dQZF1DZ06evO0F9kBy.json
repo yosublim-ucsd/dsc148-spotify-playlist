@@ -1687,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "Captivate Us (Live From Keeper's Branch)",
+        "url": "https://open.spotify.com/album/0zxzPQFa4Fx4gd4AZJVYZ6"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431708,
+      "name": "You Revive Me - Live",
+      "url": "https://open.spotify.com/track/2WbXqdFSIRYeGxc4kEhBNk"
+    },
+    {
+      "album": {
         "name": "You Revive Me (Live From Keeper's Branch)",
         "url": "https://open.spotify.com/album/3shNnK3y50olcCFqA4l9cJ"
       },
@@ -1720,7 +1742,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 315520,
       "name": "You Were On The Cross",
       "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Ayushmann Khurana
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,874 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,922 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 16 | [Manzoor](https://open.spotify.com/track/71axjI1cwMu0wuHwt9ZSRB) | [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Manzoor](https://open.spotify.com/album/3fMuy5P9rG8zm4oPiclchh) | 3:25 |
 | 17 | [Faasley](https://open.spotify.com/track/5TyGCYKkO0mCpHbMpSz7gf) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr) | [Faasley](https://open.spotify.com/album/3sWkysrGXpNVf8iJ2alJeH) | 3:04 |
 | 18 | [Tu Alvida](https://open.spotify.com/track/0F1ycVUuh6DRRU3pnNXnJF) | [Ali Tariq](https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Tu Alvida](https://open.spotify.com/album/4t30DMF3FF8JsJvpARTIyI) | 3:22 |
-| 19 | [Dard Ke Siva \(Futurewave Season 1\)](https://open.spotify.com/track/6QKWGFTiu9fKRfLjI3ITH3) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W) | [Dard Ke Siva \(Futurewave Season 1\)](https://open.spotify.com/album/1DjXxtdIiHxzG4szmpRbf6) | 2:48 |
+| 19 | [Dard Ke Siva \(Futurewave Season 1\)](https://open.spotify.com/track/6QKWGFTiu9fKRfLjI3ITH3) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W), [Devshi Khanduri](https://open.spotify.com/artist/4iNAio58NgIysAhTVq3bzi) | [Dard Ke Siva \(Futurewave Season 1\)](https://open.spotify.com/album/1DjXxtdIiHxzG4szmpRbf6) | 2:48 |
 | 20 | [Banda Ye Tere Dar Ka](https://open.spotify.com/track/77L5Kk66RWfn9TUjXliXtj) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Tripti Shakya](https://open.spotify.com/artist/1ww6yaJzDRLuuLcOWF3lhI) | [Banda Ye Tere Dar Ka](https://open.spotify.com/album/0fxtmKX4WwF3mq3cYgKR17) | 3:22 |
 | 21 | [Chahun](https://open.spotify.com/track/6tx8UJ7Hlv05KmDMUcGFsY) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT) | [Chahun](https://open.spotify.com/album/40MkluM92kFZqszpjSJSO4) | 3:23 |
 | 22 | [Dheere Dheere](https://open.spotify.com/track/1i1Ew3JJhufofKiGdmUUXa) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dheere Dheere](https://open.spotify.com/album/5N9QvcZqH8CWDAs2BWlx5G) | 2:32 |

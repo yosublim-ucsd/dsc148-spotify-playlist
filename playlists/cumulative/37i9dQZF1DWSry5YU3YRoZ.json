@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 249000,
       "name": "dearmybaby (with Kim Boo Kyung)",
       "url": "https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 197146,
       "name": "love letter",
       "url": "https://open.spotify.com/track/2skufhVn9rdAkD1eVLbEXs"
@@ -912,6 +912,24 @@
       "duration_ms": 166961,
       "name": "My (Prod. Norwegian Wood)",
       "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
+    },
+    {
+      "album": {
+        "name": "My Old Story",
+        "url": "https://open.spotify.com/album/3H47XNGJiq4cp119nhrqqL"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236080,
+      "name": "My Old Story",
+      "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
     },
     {
       "album": {
@@ -1200,6 +1218,24 @@
       "duration_ms": 202413,
       "name": "The Night Time (stripped)",
       "url": "https://open.spotify.com/track/0wIwa4JZbljozgeIEcSxsT"
+    },
+    {
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
     },
     {
       "album": {

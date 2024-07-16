@@ -2,7 +2,7 @@
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This is Los Desvelados\. The essential tracks, all in one playlist.
+> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
 
 68 songs - 3 hr 43 min
 

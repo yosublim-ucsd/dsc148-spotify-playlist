@@ -1,6 +1,6 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 50324,
+  "num_followers": 50329,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-12 08:09:03",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
-      },
-      "artists": [
-        {
-          "name": "Watching Colours",
-          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
-        }
-      ],
-      "duration_ms": 124772,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
-    },
-    {
-      "added_at": "2024-07-12 08:09:03",
-      "album": {
         "name": "Thousand Lullabies",
         "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 129573,
       "name": "Thousand Lullabies",
       "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+    },
+    {
+      "added_at": "2024-07-12 08:09:03",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
+      },
+      "artists": [
+        {
+          "name": "Watching Colours",
+          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
+        }
+      ],
+      "duration_ms": 124772,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
     },
     {
       "added_at": "2024-07-12 08:09:03",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-12 08:09:03",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD"
-      },
-      "artists": [
-        {
-          "name": "Palm Trees",
-          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q"
-    },
-    {
-      "added_at": "2024-07-12 08:09:03",
-      "album": {
         "name": "Morning Glory",
         "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
+    },
+    {
+      "added_at": "2024-07-12 08:09:03",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/286kpjUvHwKKK19JR7OggD"
+      },
+      "artists": [
+        {
+          "name": "Palm Trees",
+          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1VEziHkHWy6sfVnEXq1j5q"
     },
     {
       "added_at": "2024-07-12 08:09:03",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-07-12 08:09:03",
       "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+        "name": "Iawah",
+        "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
         }
       ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+      "duration_ms": 141954,
+      "name": "Iawah",
+      "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
     },
     {
       "added_at": "2024-07-12 08:09:03",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-07-12 08:09:03",
       "album": {
-        "name": "Iawah",
-        "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
       },
       "artists": [
         {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 141954,
-      "name": "Iawah",
-      "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
     },
     {
       "added_at": "2024-07-12 08:09:03",
@@ -1491,26 +1491,22 @@
     {
       "added_at": "2024-07-12 08:09:03",
       "album": {
-        "name": "Second Hand Love",
-        "url": "https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V"
+        "name": "Can't Stop Thinking",
+        "url": "https://open.spotify.com/album/1BlrF6cvnYpn6F5UUVtC7E"
       },
       "artists": [
         {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
         },
         {
-          "name": "FC Commitments",
-          "url": "https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
         }
       ],
-      "duration_ms": 222848,
-      "name": "Second Hand Love",
-      "url": "https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX"
+      "duration_ms": 146730,
+      "name": "Can't Stop Thinking",
+      "url": "https://open.spotify.com/track/2myJ5PdhaDCRV2KUUIDEr6"
     },
     {
       "added_at": "2024-07-12 08:09:03",

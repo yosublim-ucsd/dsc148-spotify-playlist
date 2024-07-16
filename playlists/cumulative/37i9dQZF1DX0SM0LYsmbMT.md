@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,179 songs - 6 day 15 hr 37 min
+4,180 songs - 6 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1171,7 +1171,7 @@
 | [Finally Found U](https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/4uelHunUFz6K88hoByIBmR) | 2:03 | 2022-11-17 | 2024-04-19 |
 | [Finally Found U](https://open.spotify.com/track/7pcYD5IINF1iaIR02Tc8Lf) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/6n4oS9aPtBxTACflyQGjsj) | 2:03 | 2022-11-03 | 2022-11-20 |
 | [Finally Spring](https://open.spotify.com/track/4XT9EDO2LVFzV6as0lGeRd) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Finally Spring](https://open.spotify.com/album/51QWE0RyBs31hEdlqHtK7W) | 1:58 | 2023-04-06 | 2023-05-12 |
-| [Fint](https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Fint](https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP) | 1:54 | 2024-06-27 |  |
+| [Fint](https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Fint](https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP) | 1:54 | 2024-06-27 | 2024-07-16 |
 | [Fiore](https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Fiore](https://open.spotify.com/album/5js8xUKFDM0d1MugbsOIdb) | 2:21 | 2021-05-07 | 2021-07-09 |
 | [Fips Loves Peaches](https://open.spotify.com/track/0PdqDic11pv7Wrl1fXsAXY) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Fips Loves Peaches](https://open.spotify.com/album/2UWIUlmBWJvBQouIPWLRQF) | 2:04 | 2020-05-25 | 2020-07-31 |
 | [Fire Barrel](https://open.spotify.com/track/2mxp3XhXa2sowJs1NOJcLk) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Symbiosis](https://open.spotify.com/album/6vYWvxo5rtRKxazHn5QAS6) | 1:56 | 2023-12-08 |  |
@@ -1320,6 +1320,7 @@
 | [Gato](https://open.spotify.com/track/5Ychb5Luh6sOwDI94KEH0w) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Gato](https://open.spotify.com/album/2PbaDRW4ShFoyl4eFDiI8s) | 1:45 | 2023-07-27 |  |
 | [Gazing at the Sky](https://open.spotify.com/track/7qAFNbaOENjXWOZL8LbIz0) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf) | [Gazing at the Sky](https://open.spotify.com/album/20oqghNE8h2jqftFB8R0vz) | 2:03 | 2020-07-11 | 2021-03-26 |
 | [Geistgeschwür](https://open.spotify.com/track/2lDJxK0xBLHf2oNDh2DoMY) | [Hulk Hodn](https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r) | [Lost Ish](https://open.spotify.com/album/5B4X7y3JCSh5KEYc6ssNAK) | 2:41 | 2020-12-11 | 2021-02-01 |
+| [Gelato](https://open.spotify.com/track/5zrkA0FILCS2dCSMkiQ5tH) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Gelato](https://open.spotify.com/album/4No4kZxSJrHpcJtSRZQvE4) | 1:48 | 2024-07-04 |  |
 | [Gelato 41](https://open.spotify.com/track/6LmN8avpIOQRP69DHTOsay) | [Smoky Kun](https://open.spotify.com/artist/0iGe5DFMl2wkyZr7e8RqXh), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Gelato 41](https://open.spotify.com/album/2KD9rHKwuywDulwj2UVI31) | 3:06 | 2021-09-05 | 2021-09-26 |
 | [Gelato Vibes \(Instrumental\)](https://open.spotify.com/track/1pZ2kEdKIZQQS96WFK4ttQ) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Gelato Vibes](https://open.spotify.com/album/2516n1q1HltORmbv0pA7DE) | 2:59 | 2020-11-03 | 2021-03-06 |
 | [Gemini](https://open.spotify.com/track/4EOVSl5gURKZh9KrCSUXSy) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Gemini](https://open.spotify.com/album/6uFYcI7rTfEtOQk6gqk2hs) | 3:20 | 2021-06-22 | 2021-07-23 |

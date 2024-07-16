@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-380 songs - 18 hr 6 min
+381 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Pra Ser Feliz](https://open.spotify.com/track/6BzzXkRBs6siOGOUHdNAeL) | [Pericles & Leonardo](https://open.spotify.com/artist/341RneaC9FWOyMcrNdEGsV) | [Pra Ser Feliz](https://open.spotify.com/album/5MlWmlvDTbjjp0AA9mXYMx) | 3:25 | 2024-01-29 |  |
 | [Pra Você \- Ao Vivo](https://open.spotify.com/track/5CIN5OD3jSO1nt2OOUikp8) | [Marcos Junior](https://open.spotify.com/artist/5DjYAz5ZEN1nnWW1RZKQbV) | [Acústico Ao Vivo](https://open.spotify.com/album/2MZKLcx6ntz80t7t6omztV) | 3:24 | 2024-01-29 |  |
 | [Pra Você Que Duvidou](https://open.spotify.com/track/72atcbVa0BrK6qKLTe66k7) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 2:43 | 2024-01-29 |  |
-| [Preguiça De Conhecer Gente Nova \- Ao Vivo](https://open.spotify.com/track/6PAQmABeUj7XcMqfjyaLBF) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 2:39 | 2024-02-29 |  |
+| [Preguiça De Conhecer Gente Nova \- Ao Vivo](https://open.spotify.com/track/0T2gSP5NRws6Y9tiZ6fG7D) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:39 | 2024-07-15 |  |
+| [Preguiça De Conhecer Gente Nova \- Ao Vivo](https://open.spotify.com/track/6PAQmABeUj7XcMqfjyaLBF) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk) | 2:39 | 2024-02-29 | 2024-07-16 |
 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/2BNVb9TRXPVhVZT6Hz9r27) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu) | 3:14 | 2024-01-29 |  |
 | [Problemão](https://open.spotify.com/track/7aEMh6RVYuLPXjwwU8IQE3) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:53 | 2024-01-29 |  |
 | [Pula pra Minha Vida](https://open.spotify.com/track/6Pg24lcvPKiPIZbf2ERW6t) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Acredite](https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq) | 3:12 | 2024-01-29 |  |

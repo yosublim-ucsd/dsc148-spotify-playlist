@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 150438,
+  "num_followers": 150495,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 314693,
       "name": "My Queen Is Albertina Sisulu",
       "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "London. Paris. Berlin.",
+        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+      },
+      "artists": [
+        {
+          "name": "Shire T",
+          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "London. Paris. Berlin.",
+      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
-      },
-      "artists": [
-        {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 276008,
-      "name": "Desmond's Empire",
-      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 276008,
+      "name": "Desmond's Empire",
+      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Too Soon You're Old",
+        "url": "https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ"
+      },
+      "artists": [
+        {
+          "name": "Penny Goodwin",
+          "url": "https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX"
+        }
+      ],
+      "duration_ms": 287002,
+      "name": "Too Soon You're Old",
+      "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Too Soon You're Old",
-        "url": "https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ"
+        "name": "Akofa Akoussah",
+        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
       },
       "artists": [
         {
-          "name": "Penny Goodwin",
-          "url": "https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX"
+          "name": "Akofa Akoussah",
+          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
         }
       ],
-      "duration_ms": 287002,
-      "name": "Too Soon You're Old",
-      "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
+      "duration_ms": 233892,
+      "name": "I Tcho Tchass",
+      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 213960,
       "name": "Jimtastic Blues",
       "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Akofa Akoussah",
-        "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
-      },
-      "artists": [
-        {
-          "name": "Akofa Akoussah",
-          "url": "https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh"
-        }
-      ],
-      "duration_ms": 233892,
-      "name": "I Tcho Tchass",
-      "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Age Of Ascent",
         "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1279,30 +1279,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "All Back To: Horse Meat Disco",
-        "url": "https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon"
+        "name": "We Give Thanks",
+        "url": "https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb"
       },
       "artists": [
         {
-          "name": "Alien Alien",
-          "url": "https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf"
-        },
-        {
-          "name": "Igino",
-          "url": "https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR"
-        },
-        {
-          "name": "Ray Mang",
-          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
-        },
-        {
-          "name": "Severino Panzetta",
-          "url": "https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 227991,
-      "name": "Perfidia (feat. Igino) (Severino Panzetta & Ray Mang Remix) - Mixed",
-      "url": "https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq"
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
     }
   ],
   "unique_name": "Turntable",

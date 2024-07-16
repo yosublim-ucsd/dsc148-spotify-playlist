@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi",
-  "num_followers": 31450,
+  "num_followers": 31451,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -323,8 +323,8 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "Efyge?",
-        "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
         }
       ],
-      "duration_ms": 201434,
-      "name": "Efyge?",
-      "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
+      "duration_ms": 171704,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -423,8 +423,8 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "7/7",
-        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
+        "name": "Efyge?",
+        "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
         }
       ],
-      "duration_ms": 171704,
-      "name": "7/7",
-      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+      "duration_ms": 201434,
+      "name": "Efyge?",
+      "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "Se Afisa Sto Htes - Eisai Treli",
-        "url": "https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ"
-      },
-      "artists": [
-        {
-          "name": "Nikos Vertis",
-          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "Se Afisa Sto Htes - Eisai Treli",
-      "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "O Hartis",
         "url": "https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227893,
       "name": "O Hartis",
       "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "Se Afisa Sto Htes - Eisai Treli",
+        "url": "https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ"
+      },
+      "artists": [
+        {
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "Se Afisa Sto Htes - Eisai Treli",
+      "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
     },
     {
       "added_at": "2024-07-11 21:00:00",

@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Griff
 
-5,843 songs - 12 day 3 hr 0 min
+5,845 songs - 12 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [All We Wanted](https://open.spotify.com/track/62kLLQc0yirM4bxYsv9vM3) | [Seth Power](https://open.spotify.com/artist/6OIXNsC1G1XobycFW9G14S) | [All We Wanted](https://open.spotify.com/album/57sOPbEZT0rAM5IIH4z667) | 2:35 | 2022-11-04 | 2022-11-12 |
 | [All White](https://open.spotify.com/track/60cnpF1CzUx286QwoPFwqv) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [All White](https://open.spotify.com/album/21jO577CzbYLBWg66ubYMH) | 3:42 | 2023-08-25 | 2023-09-09 |
 | [All Your Friends](https://open.spotify.com/track/4jtBPSLTBrXH1PzJLrnLTE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [All Your Friends](https://open.spotify.com/album/3k82YLm1mlpqPrivo3jbFt) | 1:48 | 2023-01-20 | 2023-02-04 |
+| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-15 |  |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 | 2024-06-29 |
 | [all\-american bitch!](https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [all\-american bitch!](https://open.spotify.com/album/54GALo6t6yvpqB4RjxYNaT) | 2:28 | 2024-04-12 | 2024-04-27 |
 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 | 2022-06-17 | 2022-07-02 |
@@ -1317,7 +1318,7 @@
 | [Disco Witch](https://open.spotify.com/track/6nxkEJu3LgvvszuAiw5Sjs) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Disco Witch](https://open.spotify.com/album/5arZilDwt0PHWQbaqYM9OW) | 3:09 | 2024-06-21 | 2024-07-13 |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-07-14 | 2023-08-05 |
 | [Distant Lover](https://open.spotify.com/track/75AhHKsTiGzfY3qmPlq0dt) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [Distant Lover](https://open.spotify.com/album/3h97LsW6MFHtfPInLxpCcn) | 3:01 | 2023-07-07 | 2023-07-22 |
-| [distraction](https://open.spotify.com/track/1HMy1YJj75BB5aWXVBc1F3) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [distraction](https://open.spotify.com/album/5izJOdg4ZuWtIXYqqX0CqL) | 2:54 | 2024-06-28 |  |
+| [distraction](https://open.spotify.com/track/1HMy1YJj75BB5aWXVBc1F3) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [distraction](https://open.spotify.com/album/5izJOdg4ZuWtIXYqqX0CqL) | 2:54 | 2024-06-28 | 2024-07-16 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-23 | 2023-01-14 |
 | [diva](https://open.spotify.com/track/5U39FvgtKCE95Qf3rQMYtn) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [The Heart Racers](https://open.spotify.com/album/5zfXIt96aXHIhve1V66EyO) | 2:28 | 2024-02-23 | 2024-03-09 |
 | [DIVE](https://open.spotify.com/track/38iUwJCWrz1EEUSt6AFWDA) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [DIVE](https://open.spotify.com/album/6wm1UNNmDDmcHzf135cNYQ) | 2:32 | 2024-01-12 | 2024-01-20 |
@@ -3322,7 +3323,7 @@
 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 | 2024-01-26 | 2024-02-10 |
 | [Low Tide](https://open.spotify.com/track/09dCk3StPaVK9JpTU6PGN2) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Low Tide](https://open.spotify.com/album/60yL1dEhAtjueNtCZD9fkE) | 2:23 | 2023-10-20 | 2023-11-11 |
 | [lowercase EX](https://open.spotify.com/track/0Vzy1PmKHbpzfWpQsQ6qAo) | [Caleigh](https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1) | [lowercase EX](https://open.spotify.com/album/2ab4hxzHB6pI5iuDjlcACw) | 2:31 | 2023-11-17 | 2023-12-09 |
-| [LSD](https://open.spotify.com/track/5sseYewvoJMOlanmDKVOtf) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [POISONALITY](https://open.spotify.com/album/1hkM4vSZVPfaNcWqrRpJHI) | 3:00 | 2024-06-28 |  |
+| [LSD](https://open.spotify.com/track/5sseYewvoJMOlanmDKVOtf) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [POISONALITY](https://open.spotify.com/album/1hkM4vSZVPfaNcWqrRpJHI) | 3:00 | 2024-06-28 | 2024-07-16 |
 | [LSE to LAX](https://open.spotify.com/track/79ymJdiLZXhHk0Khm58JWa) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [LSE to LAX](https://open.spotify.com/album/6FTHCcC8t5sU5NMWgQA3d8) | 3:04 | 2023-03-03 | 2023-03-18 |
 | [LUBE](https://open.spotify.com/track/63Bw40ft3CFElVuZqiVBfH) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:46 | 2024-05-31 | 2024-06-15 |
 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 | 2024-05-10 | 2024-05-25 |
@@ -5743,6 +5744,7 @@
 | [X\-Tape \(Want to Want Me\)](https://open.spotify.com/track/7tC2jMkaFZxfRfWg6to38q) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [X Tape \(Want to Want Me\)](https://open.spotify.com/album/37z6TaLGT9AXrX0Fl7He4V) | 2:48 | 2023-01-20 | 2023-02-04 |
 | [XO](https://open.spotify.com/track/185Q9qHtxrovV2fA09XjAw) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [XO](https://open.spotify.com/album/47kPcIMjftKm7S60GDFAQM) | 3:32 | 2022-06-24 | 2022-07-09 |
 | [XO](https://open.spotify.com/track/4CEbsu19rgjBzCbrPgT3m9) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [XO](https://open.spotify.com/album/7h9pYM1AlSTCWAsVvr5mG7) | 2:23 | 2023-02-17 | 2023-03-04 |
+| [XO \(Only If You Say Yes\) \(English Ver.\) Feat\. JVKE](https://open.spotify.com/track/5iyoxIdoTDX7gp8o5dkP3Y) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 | 2024-07-15 |  |
 | [xo I hope u die](https://open.spotify.com/track/7yFWkDBtuI18tyiE4atPPb) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [xo I hope u die](https://open.spotify.com/album/5DPzn03qYFHkkW2u8MF3Ge) | 2:19 | 2022-06-24 | 2022-07-09 |
 | [xoxo](https://open.spotify.com/track/777rgFbpeiCj5iYaWotSY4) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [xoxo](https://open.spotify.com/album/2mb5Patti32ZaxozYgopH4) | 2:08 | 2022-11-11 | 2022-11-26 |
 | [XXL](https://open.spotify.com/track/4Sw0OHJKURVnTMui1YuDc0) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [XXL](https://open.spotify.com/album/0s4zD8vllWCAJkZ3elBFuf) | 3:26 | 2023-08-04 | 2023-08-19 |

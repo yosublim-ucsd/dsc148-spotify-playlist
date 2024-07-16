@@ -14397,6 +14397,24 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30d6\u30c8\u30ea\u30c3\u30d7\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/30lj1GdRejyyzRwB1hKhEX"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155900,
+      "name": "\u30e9\u30d6\u30c8\u30ea\u30c3\u30d7\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7uOOoGSY2sbdmVBne9IIbP"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30ea\u30fc",
         "url": "https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx"
       },
@@ -17582,7 +17600,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 219361,
       "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ"
@@ -20732,6 +20750,24 @@
       "duration_ms": 242000,
       "name": "\u878d\u89e3sink",
       "url": "https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ"
+    },
+    {
+      "album": {
+        "name": "\u885b\u661f\u7d00\u884c",
+        "url": "https://open.spotify.com/album/3B2ViAAZxE3OBcFFovr3wL"
+      },
+      "artists": [
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208584,
+      "name": "\u885b\u661f\u7d00\u884c",
+      "url": "https://open.spotify.com/track/0Q65uKeZp0xaIH5nxB0T0U"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Zendaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY)
 
-> This is Zendaya\. The essential tracks, all in one playlist.
+> This Is Zendaya\. Los temas esenciales, todos en una lista.
 
 39 songs - 2 hr 6 min
 

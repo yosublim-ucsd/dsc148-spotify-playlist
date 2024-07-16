@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-172 songs - 16 hr 22 min
+173 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Each & Every Day \(Life Goes On\) \[feat\. Akram Sedkaoui\] \- Thakzin Remix](https://open.spotify.com/track/38IskLIwXANWGbJOF33ALh) | [Jerk House Connection](https://open.spotify.com/artist/0FEoVAvN3q5VWY4emxpFNK), [Akram Sedkaoui](https://open.spotify.com/artist/5c6TLBxjtCdRluAm4bAqUr), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Each & Every Day \(Life Goes On\) \[feat\. Akram Sedkaoui\] \[Thakzin Remix\]](https://open.spotify.com/album/1sxdkmDupoCDBKY7GHaTbL) | 7:32 | 2022-12-22 |  |
 | [Equip XXXO](https://open.spotify.com/track/22hEvuOZAVbiBcpmxsTSh2) | [Equip](https://open.spotify.com/artist/6dzkX7X7s3VmR9EkmXjqFD) | [Greg Wilson Presents XXXO & ICA Beats](https://open.spotify.com/album/0IXZofWDMkhuffMUu8h6yw) | 6:11 | 2022-09-16 |  |
 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 | 2024-03-15 |  |
-| [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 | 2022-09-16 |  |
+| [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/0jjUv8TvssKqGhpDRpXfiR) | 4:01 | 2022-09-16 | 2024-07-16 |
 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6LIkCbYCsPO1mfrmn4DXDQ) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:01 | 2023-11-07 | 2024-04-19 |
 | [Faith in Strangers](https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Faith in Strangers](https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY) | 6:29 | 2022-09-16 |  |
 | [Felicidade \- Nandu Remix](https://open.spotify.com/track/10ww0XdpykKTk1WqQwiW1z) | [gleb filipchenkow](https://open.spotify.com/artist/4LEzemoAJe78zvPQN8DjsD), [Shiny Head](https://open.spotify.com/artist/7oRENb898tIR0E0c8FMP0i), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Felicidade EP](https://open.spotify.com/album/3RJkrIf9YxKuurSkjt3Chs) | 7:10 | 2023-06-09 |  |
@@ -74,6 +74,7 @@
 | [Heat Waves \- Logic1000 Remix](https://open.spotify.com/track/0BzTTI21m2LuYusiy0TOTr) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heat Waves \(Logic1000 Remix\)](https://open.spotify.com/album/2yWZRt7NiE5QgrRpqviLx8) | 3:58 | 2022-09-16 | 2024-03-16 |
 | [High Places](https://open.spotify.com/track/3KfDSBOaumGB0Oqzcz9ora) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Circles EP](https://open.spotify.com/album/7z9Lzvmgfayv3gIdRlANdw) | 4:20 | 2023-11-07 |  |
 | [Houdini \- Adam Port Mix](https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Houdini \(Adam Port Mix\)](https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG) | 3:22 | 2023-12-22 | 2024-03-16 |
+| [Hugs](https://open.spotify.com/track/1O7YnRiMFgM0wuG5HvZ5Sn) | [Asif shmueli](https://open.spotify.com/artist/2YekkzoTicAs8ioaMgtpuO) | [Hugs](https://open.spotify.com/album/5oVEYIdACsMpIzurcmcSAU) | 6:40 | 2024-07-15 |  |
 | [I Found Love \- Perel Remix \- Single Edit](https://open.spotify.com/track/0jQPHbiTwLIL5SmwX2FrN4) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [I Found Love \(Perel Remix\) \- Single Edit](https://open.spotify.com/album/3malrqLHScTbxgvLCrcXu6) | 3:57 | 2023-04-28 |  |
 | [I Guess I Have, Boy](https://open.spotify.com/track/4V6cWho5yqX1Y2TZttlUjm) | [Philippa](https://open.spotify.com/artist/4EJbiuIFj2HwW8NJe1ttIX) | [There's A Ghost In My Synthesizer EP](https://open.spotify.com/album/5jWEO9BYZUZhNnW3SeA2cM) | 5:54 | 2022-09-16 |  |
 | [I Will](https://open.spotify.com/track/5WEyaUpuXCbo0Cc48zDRer) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [I Will](https://open.spotify.com/album/663C9l2cG865dXXs4KJztT) | 5:48 | 2024-05-17 |  |

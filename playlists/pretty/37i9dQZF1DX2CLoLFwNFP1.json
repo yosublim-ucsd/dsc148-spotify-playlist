@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39243,
+  "num_followers": 39267,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "V",
+      "url": "https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Run It",
         "url": "https://open.spotify.com/album/6vko8JQNpg4Hg886cpFbvF"
       },
@@ -2195,6 +2211,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 163531,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "All The Way Up",
         "url": "https://open.spotify.com/album/6qJ6mDO8ZgAlmYrdYmfPtj"
       },
@@ -2207,22 +2239,6 @@
       "duration_ms": 223013,
       "name": "All The Way Up (K)",
       "url": "https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "V",
-      "url": "https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2319,30 +2335,6 @@
       "duration_ms": 261504,
       "name": "My (feat. \ub9b4\ubcf4\uc774 Lil Boi)",
       "url": "https://open.spotify.com/track/1hO2Tr8jzmnENx7iMc3uyv"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/6ZOOniV66m11wsEYkHQMoP"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "All Day (Flex)",
-      "url": "https://open.spotify.com/track/0iNXcid1Ro7OLe4L6fFfLG"
     }
   ],
   "unique_name": "This Is Jay Park",

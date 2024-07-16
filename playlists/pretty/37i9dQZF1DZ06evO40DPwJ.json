@@ -1,13 +1,29 @@
 {
-  "description": "This Is Taio Cruz. Los temas esenciales, todos en una lista.",
-  "num_followers": 17114,
+  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
+  "num_followers": 17120,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAAAUQRUNBErA2z70Ur5kTKhW",
+  "snapshot_id": "ZpMVAAAAAADg27Ixk8dcfY8fSM8yix0O",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "There She Goes",
+        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 208611,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
@@ -91,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "There She Goes",
-        "url": "https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt"
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
       },
       "artists": [
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 208611,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT"
+      "duration_ms": 187626,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6AxCr5G75R5rqyNCYWVpTo"
     },
     {
       "added_at": null,
@@ -408,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 228866,
-      "name": "I'll Never Love Again",
-      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
     },
     {
       "added_at": null,
@@ -476,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 231106,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
+      "duration_ms": 228866,
+      "name": "I'll Never Love Again",
+      "url": "https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES"
     },
     {
       "added_at": null,

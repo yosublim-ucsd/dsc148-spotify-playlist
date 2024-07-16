@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6392,
+  "num_followers": 6405,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Down, down, down",
-        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "Down, down, down",
-      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Again and Again",
         "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 174560,
       "name": "Again and Again",
       "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Down, down, down",
+        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "Down, down, down",
+      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
     },
     {
       "added_at": "2024-02-08 23:00:00",

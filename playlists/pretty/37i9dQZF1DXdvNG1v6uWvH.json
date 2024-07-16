@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9014,
+  "num_followers": 9026,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Like I Say (I runaway)",
-        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 177475,
-      "name": "Like I Say (I runaway)",
-      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
@@ -199,26 +183,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Slippin' (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8"
       },
@@ -239,6 +203,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Like I Say (I runaway)",
+        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Monaco",
         "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
       },
@@ -255,6 +235,26 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2"
       },
@@ -267,26 +267,6 @@
       "duration_ms": 218115,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 218095,
-      "name": "Give Me Anything",
-      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -311,18 +291,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "i hope i never fall in love",
-        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 216818,
-      "name": "i hope i never fall in love",
-      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+      "duration_ms": 218095,
+      "name": "Give Me Anything",
+      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -343,18 +327,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+        "name": "i hope i never fall in love",
+        "url": "https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz"
       },
       "artists": [
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+      "duration_ms": 216818,
+      "name": "i hope i never fall in love",
+      "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -371,6 +355,22 @@
       "duration_ms": 174246,
       "name": "something bout april",
       "url": "https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/0dTP1GvdwEb3MXHks8qbYa"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Takes Me Back Home",
-        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
         }
       ],
-      "duration_ms": 193137,
-      "name": "Takes Me Back Home",
-      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -467,22 +483,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Bass Player's Brother",
         "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
       },
@@ -495,22 +495,6 @@
       "duration_ms": 186489,
       "name": "Bass Player's Brother",
       "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 137979,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -535,34 +519,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "early twenties",
-        "url": "https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
       },
       "artists": [
         {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 186080,
-      "name": "happier without you",
-      "url": "https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+      "duration_ms": 137979,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -583,6 +551,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/59mrrDBo6tionR9iX7PP64"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 179954,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6ubngwdRd9apKdbtqPuDrY"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "early twenties",
+        "url": "https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "happier without you",
+      "url": "https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 196577,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Dumb",
         "url": "https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN"
       },
@@ -731,38 +747,26 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0KdLugcHPnDPf7zUDlwrTc"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 196577,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Ingens Pige",
-        "url": "https://open.spotify.com/album/6PM22xbws0VlndnoY4LBjB"
-      },
-      "artists": [
-        {
-          "name": "Tina Dickow",
-          "url": "https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe"
+          "name": "Hoax (BE)",
+          "url": "https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9"
         },
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "LUMINAE",
+          "url": "https://open.spotify.com/artist/4t0nVUXwGsNCLSgkv9dsil"
+        },
+        {
+          "name": "LALISA (FR)",
+          "url": "https://open.spotify.com/artist/0e37sviHsNfymG39REzzfm"
         }
       ],
-      "duration_ms": 198254,
-      "name": "Ingens Pige",
-      "url": "https://open.spotify.com/track/7sLlSjR6so9CDPzsgXFXnw"
+      "duration_ms": 207096,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/34YFCDjpJFNYyMYkaKYvTz"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -791,26 +795,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0KdLugcHPnDPf7zUDlwrTc"
+        "name": "Ingens Pige",
+        "url": "https://open.spotify.com/album/6PM22xbws0VlndnoY4LBjB"
       },
       "artists": [
         {
-          "name": "Hoax (BE)",
-          "url": "https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9"
+          "name": "Tina Dickow",
+          "url": "https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe"
         },
         {
-          "name": "LUMINAE",
-          "url": "https://open.spotify.com/artist/4t0nVUXwGsNCLSgkv9dsil"
-        },
-        {
-          "name": "LALISA (FR)",
-          "url": "https://open.spotify.com/artist/0e37sviHsNfymG39REzzfm"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 207096,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/34YFCDjpJFNYyMYkaKYvTz"
+      "duration_ms": 198254,
+      "name": "Ingens Pige",
+      "url": "https://open.spotify.com/track/7sLlSjR6so9CDPzsgXFXnw"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Darkest Hour",
+        "url": "https://open.spotify.com/album/322MAOM8hv8sYGu0SdspXH"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/0HME5zuqS2bjsqI07fhvSk"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Kiss Me Hard (Adam Ten Remix)",
         "url": "https://open.spotify.com/album/57EvaqsfOIfKbhXBJmvCXw"
       },
@@ -951,26 +971,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Darkest Hour",
-        "url": "https://open.spotify.com/album/322MAOM8hv8sYGu0SdspXH"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        },
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Darkest Hour",
-      "url": "https://open.spotify.com/track/0HME5zuqS2bjsqI07fhvSk"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "KANSAS",
         "url": "https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 181266,
       "name": "KANSAS",
       "url": "https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "SNL",
-        "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "SNL",
-      "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 121716,
       "name": "Eat Sleep Rave Repeat",
       "url": "https://open.spotify.com/track/481Yr3hSWlfMeW4pmS13Db"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "SNL",
+        "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "SNL",
+      "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Fun!",
-        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
-      },
-      "artists": [
-        {
-          "name": "Gracie Moller",
-          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "Fun!",
-      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "good luck, goodbye",
-        "url": "https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i"
-      },
-      "artists": [
-        {
-          "name": "Kenzie Cait",
-          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
-        }
-      ],
-      "duration_ms": 206014,
-      "name": "thank god",
-      "url": "https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Lost In Your Love",
         "url": "https://open.spotify.com/album/7354inearIW9cx3IPwFrjc"
       },
@@ -1127,6 +1095,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Fun!",
+        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
+      },
+      "artists": [
+        {
+          "name": "Gracie Moller",
+          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "Fun!",
+      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 136695,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "good luck, goodbye",
+        "url": "https://open.spotify.com/album/4iEl6x2j3jrUDq0fbhOd6i"
+      },
+      "artists": [
+        {
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
+        }
+      ],
+      "duration_ms": 206014,
+      "name": "thank god",
+      "url": "https://open.spotify.com/track/2SUrx1x8BqAe4ASqIoiNY1"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Many Moons, Many Suns",
+        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 138143,
+      "name": "Standing Up To The Wind",
+      "url": "https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Lullaby / LoveLoveLove",
         "url": "https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Many Moons, Many Suns",
-        "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/6rtX52Tel2pDiy2GuK0Xmz"
       },
       "artists": [
         {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+          "name": "BENJAMINRICH",
+          "url": "https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ"
         }
       ],
-      "duration_ms": 138143,
-      "name": "Standing Up To The Wind",
-      "url": "https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq"
+      "duration_ms": 171750,
+      "name": "Dancing With The Devil",
+      "url": "https://open.spotify.com/track/73QcKN6c6L8sFN5ZvaGLFI"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Dancing With The Devil",
-        "url": "https://open.spotify.com/album/6rtX52Tel2pDiy2GuK0Xmz"
-      },
-      "artists": [
-        {
-          "name": "BENJAMINRICH",
-          "url": "https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Dancing With The Devil",
-      "url": "https://open.spotify.com/track/73QcKN6c6L8sFN5ZvaGLFI"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Non-Stop",
         "url": "https://open.spotify.com/album/3LI5uQ5Hin4c47tgT6e2RU"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Let It Out",
-        "url": "https://open.spotify.com/album/1heWm07TMAcbMTTptJsTfR"
-      },
-      "artists": [
-        {
-          "name": "Firewoodisland",
-          "url": "https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/3wBdnFJBADZAqLjeTd7Ufe"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Come Get Her",
         "url": "https://open.spotify.com/album/37cz7NYJI730qHM0tbBKqm"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Let It Out",
+        "url": "https://open.spotify.com/album/1heWm07TMAcbMTTptJsTfR"
+      },
+      "artists": [
+        {
+          "name": "Firewoodisland",
+          "url": "https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/3wBdnFJBADZAqLjeTd7Ufe"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "when all i want is age",
         "url": "https://open.spotify.com/album/4lXqYHmiBr9lx0JV0pyVYV"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 128000,
       "name": "when all i want is age",
       "url": "https://open.spotify.com/track/52HiikMXz0O7tiXUNtfIme"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/2OhwD6BZMAmEYCKI3BDQBl"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenn",
+          "url": "https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/1ZcM1kQONouFUhNgNyEwJF"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1351,22 +1367,6 @@
       "duration_ms": 154714,
       "name": "its just us",
       "url": "https://open.spotify.com/track/6yUclbOepxAGGNqgZ8maix"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/2OhwD6BZMAmEYCKI3BDQBl"
-      },
-      "artists": [
-        {
-          "name": "Jack Allenn",
-          "url": "https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/1ZcM1kQONouFUhNgNyEwJF"
     },
     {
       "added_at": "2024-07-12 00:00:00",

@@ -860,7 +860,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 216003,
       "name": "Dancing With Tears In My Eyes - Bossa Nova Remix",
       "url": "https://open.spotify.com/track/62dfYSQBwa7XOXkLzpBmf0"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 240152,
       "name": "deja vu - Bossa Nova",
       "url": "https://open.spotify.com/track/1xKrcdhhlNQXImSFEpi8Vo"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 182785,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/73FGoCU9GtnqpdKmnIcci2"
@@ -4105,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/1g0JsDbNqzdENHSm0oWuGb"
+      },
+      "artists": [
+        {
+          "name": "Vira Novo",
+          "url": "https://open.spotify.com/artist/7uZaYU5nFEvLJ0IyTFCyhM"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/7rA4tSKoIdhtNyg09tDdTz"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk"
       },
@@ -4138,6 +4156,24 @@
       "duration_ms": 218105,
       "name": "Umbrella (Bossa Version)",
       "url": "https://open.spotify.com/track/1RVjKn6pfJJGgVHx9I5sjw"
+    },
+    {
+      "album": {
+        "name": "Unbreak My Heart",
+        "url": "https://open.spotify.com/album/2YQhGZwYJ2sTfzOoS8RWgi"
+      },
+      "artists": [
+        {
+          "name": "Nico Avenca",
+          "url": "https://open.spotify.com/artist/07m32r2Y0IYm311XCTdur3"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212424,
+      "name": "Unbreak My Heart",
+      "url": "https://open.spotify.com/track/1lJUbbrrsqkT72rjc0aT1i"
     },
     {
       "album": {

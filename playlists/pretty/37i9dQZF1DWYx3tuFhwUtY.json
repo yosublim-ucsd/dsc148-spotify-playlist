@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138244,
+  "num_followers": 138250,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "You and Your Friends (Deluxe)",
         "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -363,6 +347,22 @@
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -395,6 +395,26 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        },
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -459,26 +479,6 @@
       "duration_ms": 412040,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        },
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Lo/Hi",
-        "url": "https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177002,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Yol",
         "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 220909,
       "name": "Ma\u00e7ka Yollar\u0131",
       "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Lo/Hi",
+        "url": "https://open.spotify.com/album/3sRZoykfSZpEtVngmJDply"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/6XRgC4KAp4upKu0v7H4tQo"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -863,38 +863,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Move to San Francisco",
-        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 181492,
-      "name": "Move to San Francisco",
-      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Tasmania",
-        "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Tasmania",
-      "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "Move to San Francisco",
+        "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 181492,
+      "name": "Move to San Francisco",
+      "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Meet Glen Campbell",
         "url": "https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 225186,
       "name": "Sing",
       "url": "https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Tasmania",
+        "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
-      },
-      "artists": [
-        {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": ":3",
         "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 219360,
       "name": "I Don't Know What You See In Me",
       "url": "https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "A Lucid Dream",
-      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "A Lucid Dream",
+      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
     },
     {
       "added_at": "2024-07-12 23:20:36",

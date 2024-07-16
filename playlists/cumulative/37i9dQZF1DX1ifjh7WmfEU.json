@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Subtilit\u00e9",
+        "url": "https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s"
+      },
+      "artists": [
+        {
+          "name": "Bodi Lukasz",
+          "url": "https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Subtilit\u00e9",
+      "url": "https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4"
+    },
+    {
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka"
       },

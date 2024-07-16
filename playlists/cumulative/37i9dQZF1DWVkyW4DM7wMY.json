@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 129600,
       "name": "Nakujali",
       "url": "https://open.spotify.com/track/2d2ogRrGa1wLEkRXiUwB7a"
@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/07lMSOElGW77832xvtCJes"
+      },
+      "artists": [
+        {
+          "name": "Faith Kimani",
+          "url": "https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj"
+        },
+        {
+          "name": "TY1NE",
+          "url": "https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170670,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7aYgfQTQIuoi9FojUgE7lY"
+    },
+    {
+      "album": {
         "name": "Perfection // T r u s t",
         "url": "https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh"
       },
@@ -2782,7 +2804,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 193584,
       "name": "Quick Fix",
       "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
@@ -2843,6 +2865,28 @@
     },
     {
       "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6"
+      },
+      "artists": [
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Jay James",
+          "url": "https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147473,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz"
+    },
+    {
+      "album": {
         "name": "s_t_l",
         "url": "https://open.spotify.com/album/46YeiqJANwshIypsGWn0fK"
       },
@@ -2858,7 +2902,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 206014,
       "name": "s_t_l",
       "url": "https://open.spotify.com/track/18VQULEn0GO9vUKu7xraeJ"
@@ -3284,6 +3328,24 @@
       "duration_ms": 157403,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
+    },
+    {
+      "album": {
+        "name": "Tamagotchi",
+        "url": "https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175235,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1"
     },
     {
       "album": {

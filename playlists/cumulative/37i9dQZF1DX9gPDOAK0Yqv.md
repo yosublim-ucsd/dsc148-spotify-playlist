@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-549 songs - 1 day 20 hr 26 min
+550 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Reflected Wisdom \- Five Phases Project \(4/5\)](https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Five Phases \- Reflected Wisdom](https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e) | 4:59 | 2023-01-27 | 2023-12-01 |
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 | 2024-06-14 |
+| [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-07-12 |  |
 | [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-11 |  |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
 | [Requiem for a Dream \- 2024 Edit](https://open.spotify.com/track/6cq0wIPixlevfTh0fkL8TV) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Requiem for a Dream \(2024 Remake\)](https://open.spotify.com/album/1GtJHDGbaDG74zoNWHi3fF) | 3:54 | 2023-12-15 | 2024-05-25 |
@@ -413,7 +414,7 @@
 | [Salvation \- Radio Edit](https://open.spotify.com/track/7H6smF45tHjEuaNcN1lyrO) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Salvation](https://open.spotify.com/album/32qLU1MffxZU1biGO3dciZ) | 3:50 | 2023-10-13 | 2023-11-10 |
 | [Samum \- 8Kays Remix](https://open.spotify.com/track/1h7E73gjm0VELmrT4TcLHo) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Samum \(8Kays Remix\)](https://open.spotify.com/album/52VrTYzvEmiccQ8vMacUvM) | 6:27 | 2023-04-28 | 2023-10-16 |
 | [Save Me](https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:09 | 2023-08-11 | 2024-04-19 |
-| [Save Me \- Kölsch Remix](https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:41 | 2024-06-20 |  |
+| [Save Me \- Kölsch Remix](https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:41 | 2024-06-20 | 2024-07-16 |
 | [Say It](https://open.spotify.com/track/6qz6MREKavkUBqlM4vWLbL) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Say It](https://open.spotify.com/album/53Yb9x1ITQv8qry0IQTXNe) | 3:40 | 2024-04-25 | 2024-05-17 |
 | [Say Love \- Radio Mix](https://open.spotify.com/track/5Wlpy9LzfhRnZgeUcXkUXh) | [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Say Love](https://open.spotify.com/album/0ZvWPjOwDxNRAqubn8b1u7) | 4:24 | 2022-12-28 | 2023-01-06 |
 | [Second Language \- Grigoré Remix](https://open.spotify.com/track/1EYrZmMlja0g5AVb2FLxcd) | [Fehrplay](https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Second Language remixes](https://open.spotify.com/album/3aISASMSaV7V5YgfDNazzX) | 5:48 | 2024-04-25 | 2024-05-03 |

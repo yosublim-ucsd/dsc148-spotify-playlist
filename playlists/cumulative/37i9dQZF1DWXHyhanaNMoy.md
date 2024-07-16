@@ -4,7 +4,7 @@
 
 > Summer motion en good vibes\. Cover: Rema
 
-1,047 songs - 1 day 23 hr 8 min
+1,048 songs - 1 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Lock That Door](https://open.spotify.com/track/4poAVGGbeNk2elYU5uIYdJ) | [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Lock That Door](https://open.spotify.com/album/1oLzGsJFsQKDo8s22D5Zfx) | 2:46 | 2022-09-01 | 2022-09-16 |
 | [Lockdown](https://open.spotify.com/track/5EPWi2U2ljFPxxhldZZYor) | [Surya Tower](https://open.spotify.com/artist/5ltvKiLia5KeRIEI3Y5mp9), [Naomi Faerber](https://open.spotify.com/artist/6qZWvYSLOSZwnodqXKvJVg) | [Lockdown](https://open.spotify.com/album/5G01ZCVBTb2WbVqceF2C6T) | 2:13 | 2024-03-14 | 2024-05-24 |
 | [Locked Up](https://open.spotify.com/track/4CqK0YoxK7GZRRoQZ6w8oD) | [Justice Toch](https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa) | [Locked Up](https://open.spotify.com/album/7n5npX54ddd7qIDFMOgG48) | 2:20 | 2023-06-15 | 2023-07-21 |
+| [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 | 2024-07-15 |  |
 | [Loco](https://open.spotify.com/track/27GLozlAgrobCCEYSl8pqh) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2) | [Loco](https://open.spotify.com/album/2siYbvyK2oQlwF3doNBmts) | 1:22 | 2023-12-28 | 2024-02-09 |
 | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Loco Loco \(feat\. Sluwe Ollie\)](https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy) | 2:45 | 2023-09-28 | 2024-04-16 |
 | [Looking for Somebody](https://open.spotify.com/track/5D6rGaauri3oyZAXM5V2q2) | [Angelo King](https://open.spotify.com/artist/1Q0kuvgP9fC9Y5OCP1mzOV), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Looking for Somebody](https://open.spotify.com/album/3V3asywN4oLR2McSuXD6gk) | 2:49 | 2022-09-08 | 2022-10-14 |

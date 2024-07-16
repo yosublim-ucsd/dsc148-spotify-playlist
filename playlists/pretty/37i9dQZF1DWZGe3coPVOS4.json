@@ -1,287 +1,15 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 10605,
+  "num_followers": 10619,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAACPSPWS1anEUcEiFhk4MdNs",
+  "snapshot_id": "ZpU5GgAAAACM6MPeg6RCt02+9ZiNUl9s",
   "tracks": [
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "KIDZ BOP 2024 Vol. 2",
-        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180961,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/2dlaRwCVkHNNomzCq9TMtT"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "We\u2019re Taking Over (Dance Remix)",
-        "url": "https://open.spotify.com/album/7lGHNlYMPOHzHXYuokMcys"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 203767,
-      "name": "We're Taking Over - Dance Remix",
-      "url": "https://open.spotify.com/track/0ORhF7uMVltT5g2Bj7aSwk"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 215025,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "End of Beginning",
-        "url": "https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 159679,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "BONITA",
-        "url": "https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 191859,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 160340,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Feather",
-        "url": "https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184212,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180630,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 194581,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/2jsvzGHPQXPVvHeNZ7jAXX"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/6Omf4raSatl9G1iYrSYYwp"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 172239,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 130848,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Is It Over Now?",
-        "url": "https://open.spotify.com/album/2KEgxv9xrT7qomxFyBBEcT"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 206873,
-      "name": "Is It Over Now?",
-      "url": "https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/3cN7jPYAA3oxyEOu0Or6sr"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180709,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/1DeAVIlDfXSfpPjvUuKks4"
@@ -297,10 +25,10 @@
       "url": "https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0RVcDCKlV7Pij2jtfbbFqM"
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
       },
       "artists": [
         {
@@ -308,95 +36,31 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 184961,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/1wAzzLKnVwLdkFLnKt3QyX"
+      "duration_ms": 183463,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/69X59XTjCG6qqJG0KUQNaO"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180961,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/2dlaRwCVkHNNomzCq9TMtT"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP 2024",
         "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184114,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Barbie World",
-        "url": "https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 110928,
-      "name": "Barbie World",
-      "url": "https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "We're Taking Over",
-      "url": "https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Vampire",
-        "url": "https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 220860,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Dance The Night",
-        "url": "https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F"
       },
       "artists": [
         {
@@ -406,13 +70,13 @@
       ],
       "duration_ms": 176404,
       "name": "Dance The Night",
-      "url": "https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7"
+      "url": "https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+        "name": "exes",
+        "url": "https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ"
       },
       "artists": [
         {
@@ -420,396 +84,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 220274,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/5wGn1TsD4ddPVmm0QoReKC"
+      "duration_ms": 160615,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "I Wrote A Song",
-      "url": "https://open.spotify.com/track/11VcpT6pAf1DDqnDEvqZdt"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 147812,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP Ultimate Playlist",
-        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/1POnhYNNZI7mmIqTsYK9LC"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 183710,
-      "name": "Avenir",
-      "url": "https://open.spotify.com/track/7kiw6jUjDX1jMLFzk7iLUd"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 135371,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 179869,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 170239,
-      "name": "Savage Love",
-      "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 166705,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3lfZuAGAbPxh5VHR63ANtP"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "About That Time",
-      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 171878,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0hcOdt4JO5H5Y9SbTzvLuy"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 172935,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/3O0yq1hea0lgOhz4Y0q72G"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 219142,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 119049,
-      "name": "Boy\u2019s a liar",
-      "url": "https://open.spotify.com/track/0vYyr5o7md0Lk13pE6Dwff"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 175737,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0vZ4wU5lqTuDw1ieuCxvEp"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 167384,
-      "name": "TQG",
-      "url": "https://open.spotify.com/track/5rpsAg6usB6NepA846O9K1"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 135046,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/2jbqu1LouRhRLaLupH9U8a"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 186085,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4wtMlbWmelUHUR0KI36w8C"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 138895,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/6o23AeNrj2mfYAkuEcyz2B"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Part Of Your World",
-        "url": "https://open.spotify.com/album/6A9Na8Ss430ANHFWXzR6cn"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180596,
-      "name": "Part Of Your World",
-      "url": "https://open.spotify.com/track/1CJPgxgocqsMojhp1oELbZ"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 181412,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 116074,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP 2023 Vol. 2",
         "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
@@ -825,10 +105,10 @@
       "url": "https://open.spotify.com/track/6r7oPntmW7s4wOmLJIeWOa"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/7FsXesEv0qrJEcs7FWlrFF"
       },
       "artists": [
         {
@@ -836,156 +116,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 186566,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/4AC1jOph59b5NS5ZTIq3K0"
+      "duration_ms": 215025,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0KhNXkYL4RMRKzsr51Hcnc"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Uptown Funk",
-      "url": "https://open.spotify.com/track/6oDMkS87z90Vjm3QrlGdD1"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 197507,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/1wgtIUJy2ustDx3IGp5d0Z"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "Sure Thing (Sped Up)",
-        "url": "https://open.spotify.com/album/7k3oURmxEIjTeGxIXbMIUK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 150902,
-      "name": "Sure Thing - Sped Up Version",
-      "url": "https://open.spotify.com/track/4Ru4657V9SSJz1ZAsUxDR2"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP Ultimate Playlist",
-        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "KIDZ BOP Shuffle",
-      "url": "https://open.spotify.com/track/6hN5PPmt4wtsQAucSyny5t"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 162954,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184956,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Can't Stop The Feeling!",
-      "url": "https://open.spotify.com/track/3kKvAgxuexuRdmBaqhQdz9"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142383,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP Ultimate Playlist",
         "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
@@ -1001,10 +137,10 @@
       "url": "https://open.spotify.com/track/3HYCbsySCw41jJj8XYcBg7"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP Super POP!",
-        "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
       },
       "artists": [
         {
@@ -1012,28 +148,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 167714,
-      "name": "abc",
-      "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
+      "duration_ms": 83313,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/4WDqDsYVuUJxWNRVosvuqf"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 179247,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
@@ -1044,15 +164,15 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 177018,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j"
+      "duration_ms": 162954,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP 40",
-        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
       },
       "artists": [
         {
@@ -1060,12 +180,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 110853,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
+      "duration_ms": 116074,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP 2023 Vol. 2",
         "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
@@ -1076,92 +196,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 157001,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/5oiT9PyDJr1Jy93UH02yuM"
+      "duration_ms": 135371,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 200076,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0ny7P1jlyZXkvvsSfE3cTe"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/0KBLV0XabLg7nlrhro86EZ"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/7u9Uawj6rqRofLnwqZAIVf"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 134148,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
@@ -1177,10 +217,10 @@
       "url": "https://open.spotify.com/track/4CJn6nHQFjGhqs9zD6g2o5"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
       "artists": [
         {
@@ -1188,15 +228,15 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 170243,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/1m51a4loj9dnJXxtfo3owt"
+      "duration_ms": 183306,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/7o0gxSLgdRsAMF2oxBh7bF"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
       },
       "artists": [
         {
@@ -1204,28 +244,12 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 146233,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+      "duration_ms": 219142,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
-      "album": {
-        "name": "KIDZ BOP 2023 Vol. 2",
-        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 146282,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/7pD34DzbJMKhdZaYmBA3MR"
-    },
-    {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
@@ -1241,7 +265,423 @@
       "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
     },
     {
-      "added_at": "2024-06-12 21:26:50",
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 147812,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Can't Stop The Feeling!",
+      "url": "https://open.spotify.com/track/3kKvAgxuexuRdmBaqhQdz9"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 186182,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/5tH5wbM79FUZEDoPYOna41"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "BONITA",
+        "url": "https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 179869,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 223103,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/30n5DvInhiaeSQKvovJEln"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 159679,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180630,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/1Tu30xev5rUpBZnFuKV4rR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 194581,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 119049,
+      "name": "Boy\u2019s a liar",
+      "url": "https://open.spotify.com/track/0vYyr5o7md0Lk13pE6Dwff"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 172239,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 130848,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Barbie World",
+        "url": "https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 110928,
+      "name": "Barbie World",
+      "url": "https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "We're Taking Over",
+      "url": "https://open.spotify.com/track/45GlxNVf17LUYfHjQeuqvC"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Vampire",
+        "url": "https://open.spotify.com/album/7f6qgMKsVgZZVnyndvvjHG"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 220860,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/7yYNyX64fVUrRDm9B8CwGP"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/2Axtzhd5r3gMzLBC1rLMwv"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/4I88Qa7TIAUyaSqzyYeMNT"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 220274,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/5wGn1TsD4ddPVmm0QoReKC"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP Ultimate Playlist",
+        "url": "https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/1POnhYNNZI7mmIqTsYK9LC"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 166705,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3lfZuAGAbPxh5VHR63ANtP"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/3kqt8hGL5eLHxcwMiPwmlF"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 157001,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/5oiT9PyDJr1Jy93UH02yuM"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023 Vol. 2",
+        "url": "https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 172935,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/3O0yq1hea0lgOhz4Y0q72G"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 135046,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/2jbqu1LouRhRLaLupH9U8a"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Uptown Funk",
+      "url": "https://open.spotify.com/track/6oDMkS87z90Vjm3QrlGdD1"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
       "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
@@ -1252,9 +692,121 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/7o0gxSLgdRsAMF2oxBh7bF"
+      "duration_ms": 197507,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/1wgtIUJy2ustDx3IGp5d0Z"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 184956,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142383,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 179247,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 177018,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/60xkljg5VuJ2Syt0tq211j"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 110853,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
+    },
+    {
+      "added_at": "2024-07-15 14:58:34",
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4"
     }
   ],
   "unique_name": "Kidz Bop Party",

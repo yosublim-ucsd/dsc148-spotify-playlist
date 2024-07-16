@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105216,
+  "num_followers": 105260,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
+        "name": "Camela or Die 2.0",
+        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "Camela or Die 2.0",
+      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 168586,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
-        "name": "Camela or Die 2.0",
-        "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "Camela or Die 2.0",
-      "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Reino Sin Futuro",
-        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Reino Sin Futuro",
-      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Histeria",
         "url": "https://open.spotify.com/album/4nmW4nhjBCRidHlCzzAP1l"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 185191,
       "name": "Histeria",
       "url": "https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Reino Sin Futuro",
+        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Reino Sin Futuro",
+      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Influencers",
         "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Lev\u00e1ntate",
-        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
         }
       ],
-      "duration_ms": 232307,
-      "name": "Lev\u00e1ntate",
-      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1555,6 +1539,22 @@
       "duration_ms": 166886,
       "name": "Generaci\u00f3n Enferma",
       "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "El Dolor",
-        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
+        "name": "Ka\u00f1a a los Que Nos Quieren Pisar",
+        "url": "https://open.spotify.com/album/475lQDKfTnB0nSuGgnov06"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
         }
       ],
-      "duration_ms": 240971,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
+      "duration_ms": 276058,
+      "name": "Ka\u00f1a",
+      "url": "https://open.spotify.com/track/77UVdHUTHvECJJ0xcmooGX"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

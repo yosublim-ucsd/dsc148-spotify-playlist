@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 692010,
+  "num_followers": 692169,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Virgin - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Love Zone (Expanded Edition)",
         "url": "https://open.spotify.com/album/7oUQQI3USlnBTUeN6KXXoo"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 452786,
       "name": "When the Going Gets Tough - Extended Version",
       "url": "https://open.spotify.com/track/3tT3CqBYG3peXXZx7xZUx9"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Virgin - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Westside 25th Anniversary",
         "url": "https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Hunting High and Low (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Riddle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "The Riddle - Extended Riddle",
-      "url": "https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "(I Wanna Give You) Devotion",
         "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
       },
@@ -699,6 +683,38 @@
       "duration_ms": 409466,
       "name": "(I Wanna Give You) Devotion - Original Club Mix",
       "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "The Riddle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq"
+      },
+      "artists": [
+        {
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "The Riddle - Extended Riddle",
+      "url": "https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Very Best Of Johnny Hates Jazz",
-        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Shattered Dreams - 12'' Extended Mix",
-      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+        "name": "The Very Best Of Johnny Hates Jazz",
+        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
         }
       ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
+      "duration_ms": 312333,
+      "name": "Shattered Dreams - 12'' Extended Mix",
+      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 422693,
-      "name": "Owner of a Lonely Heart - Extended Remix",
-      "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Never Ending Story",
         "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 368413,
       "name": "Never Ending Story - 12'' Dance Mix",
       "url": "https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 422693,
+      "name": "Owner of a Lonely Heart - Extended Remix",
+      "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Cock Robin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4"
+      },
+      "artists": [
+        {
+          "name": "Cock Robin",
+          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+        }
+      ],
+      "duration_ms": 398546,
+      "name": "The Promise You Made - Extended Version",
+      "url": "https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "The Raw & The Cooked (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 426671,
       "name": "She Drives Me Crazy - David Z 12\" Remix",
       "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Cock Robin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4"
-      },
-      "artists": [
-        {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
-        }
-      ],
-      "duration_ms": 398546,
-      "name": "The Promise You Made - Extended Version",
-      "url": "https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 321840,
-      "name": "You're a Woman",
-      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Goldmine: The Best Of The Pointer Sisters",
         "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 384626,
       "name": "Jump (For My Love) - 12\" Long Version",
       "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 321840,
+      "name": "You're a Woman",
+      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
     },
     {
       "added_at": "2024-02-06 15:45:26",

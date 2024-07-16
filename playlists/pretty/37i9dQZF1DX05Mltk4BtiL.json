@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: H.i.T.",
-  "num_followers": 112525,
+  "num_followers": 112530,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Leon",
-      "url": "https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Kannst du bei mir bleiben?",
         "url": "https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 132000,
       "name": "Kannst du bei mir bleiben?",
       "url": "https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Leon",
+      "url": "https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Du kriegst mich nicht zur\u00fcck",
-        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
-      },
-      "artists": [
-        {
-          "name": "Faber",
-          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Du kriegst mich nicht zur\u00fcck",
-      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "zwei bier (la la la)",
         "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 66209,
       "name": "Muttertag",
       "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Du kriegst mich nicht zur\u00fcck",
+        "url": "https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k"
+      },
+      "artists": [
+        {
+          "name": "Faber",
+          "url": "https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Du kriegst mich nicht zur\u00fcck",
+      "url": "https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "haus am meer",
-        "url": "https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs"
+        "name": "Naja, geht so",
+        "url": "https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM"
       },
       "artists": [
         {
-          "name": "Tuffy",
-          "url": "https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h"
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
         }
       ],
-      "duration_ms": 141986,
-      "name": "haus am meer",
-      "url": "https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW"
+      "duration_ms": 187501,
+      "name": "Naja, geht so",
+      "url": "https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ"
     }
   ],
   "unique_name": "Gegen den Strom",

@@ -2,9 +2,9 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Lomiiel
+> Los éxitos del Dembow\. Portada: Bellakath
 
-358 songs - 17 hr 33 min
+359 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Choppa](https://open.spotify.com/track/5t6avdwcNAQwwxSh4vKdGo) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Fetti031](https://open.spotify.com/artist/0bsQ8jCTdRt3F8R5nNU3hw) | [Choppa](https://open.spotify.com/album/312HAUw3KxV3BouyGFxZKl) | 3:06 | 2022-03-18 | 2023-03-11 |
 | [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-06-23 | 2023-04-11 |
 | [Chukiteo](https://open.spotify.com/track/5tOKGmMGBeH5E1zz2r7N7z) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 2:41 | 2022-05-19 | 2023-05-27 |
+| [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 | 2024-07-15 |  |
 | [Chupable](https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chikybombom La Pantera](https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chupable](https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb) | 2:57 | 2021-11-19 | 2023-03-11 |
 | [Cintureo \- Remix](https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Cintureo \(Remix\)](https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk) | 2:44 | 2023-11-28 |  |
 | [Claro Que Sí](https://open.spotify.com/track/3f1XDZ7EwQv62eDGHygmdf) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Claro Que Sí](https://open.spotify.com/album/2cfGH1DMwK3gU4UwCxEwkT) | 2:40 | 2022-03-18 | 2023-06-28 |
@@ -313,7 +314,7 @@
 | [Subete](https://open.spotify.com/track/7IKPzIshm586JYCchDyfAc) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Subete](https://open.spotify.com/album/7goblZdJaGWwVHICaveWJm) | 3:44 | 2023-02-09 | 2023-08-04 |
 | [Suenala](https://open.spotify.com/track/0ZQFdcp6FPpMSaMv6VC8HL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Principe Baru](https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 3:07 | 2023-02-09 | 2023-03-11 |
 | [Taka Taka](https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Taka Taka](https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G) | 2:35 | 2023-05-26 | 2023-08-04 |
-| [Talco](https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Talco](https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO) | 2:16 | 2023-06-27 |  |
+| [Talco](https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Talco](https://open.spotify.com/album/5OHIw55Adi5Uy4EbjnJGjO) | 2:16 | 2023-06-27 | 2024-07-16 |
 | [Tamo Alante](https://open.spotify.com/track/0qSrSbS1zimVtOzfLCswp9) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Tamo Alante](https://open.spotify.com/album/2QE1c3W38za9tSbcYkIBlT) | 2:52 | 2023-02-09 | 2023-06-28 |
 | [Tamo en Hoja](https://open.spotify.com/track/3N2lSc9JXDFiE0rqKOiGIs) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO), [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Tamo en Hoja](https://open.spotify.com/album/5y0riJ489uBOTqX6aauDW0) | 3:43 | 2021-11-19 | 2023-03-11 |
 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 | 2023-05-26 |  |

@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 163330,
       "name": "Buddy Holly - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/5c5rLhAayijwytvgq5AfVF"
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 247587,
       "name": "B\u00e9la",
       "url": "https://open.spotify.com/track/0qbP8PDOjSTQG2RyCO5RjM"
@@ -4596,12 +4596,12 @@
       },
       "artists": [
         {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        },
-        {
           "name": "Bihotza",
           "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
         },
         {
           "name": "Ska-P",
@@ -9470,6 +9470,24 @@
       "duration_ms": 308852,
       "name": "Focus 13",
       "url": "https://open.spotify.com/track/0wBpSezl32HJpktpTAJMCW"
+    },
+    {
+      "album": {
+        "name": "Focus 12",
+        "url": "https://open.spotify.com/album/14f9Wbk9l84KkMEpmsYSAF"
+      },
+      "artists": [
+        {
+          "name": "Focus",
+          "url": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308852,
+      "name": "Focus 13",
+      "url": "https://open.spotify.com/track/31JoygaldV2abaevnl2q4D"
     },
     {
       "album": {
@@ -31132,7 +31150,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 207050,
       "name": "Undone - The Sweater Song - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/0VIKs4QgaxvY0lYdUAAnUI"

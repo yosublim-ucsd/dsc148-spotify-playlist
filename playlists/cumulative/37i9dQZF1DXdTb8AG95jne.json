@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Hyuk Oh, Sunset Rollercoaster(\ud601\uc624, \uc120\uc14b \ub864\ub7ec\ucf54\uc2a4\ud130)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Volunteers(\ub354 \ubc1c\ub8ec\ud2f0\uc5b4\uc2a4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3108,7 +3108,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 214166,
       "name": "Envy None",
       "url": "https://open.spotify.com/track/196vwD0wtg7XVC1j1Hn1jk"
@@ -9117,6 +9117,24 @@
     },
     {
       "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242161,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/1Qyg8gMMatJyPIi8da7Pc2"
+    },
+    {
+      "album": {
         "name": "Cake CAKE",
         "url": "https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ"
       },
@@ -10417,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "PRE-RELEASE 3RD ALBUM [YEOK SEONG]",
+        "url": "https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM"
       },
@@ -11612,7 +11648,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 170154,
       "name": "The one of the past",
       "url": "https://open.spotify.com/track/1lMehRXG8eAGalZwyMfTxz"
@@ -12266,6 +12302,24 @@
       "duration_ms": 218544,
       "name": "Us",
       "url": "https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ"
+    },
+    {
+      "album": {
+        "name": "\"L\"",
+        "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164513,
+      "name": "Velvet Glove",
+      "url": "https://open.spotify.com/track/2sw4palAKf0wKtopLjDLSi"
     },
     {
       "album": {
@@ -13230,7 +13284,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 208320,
       "name": "You",
       "url": "https://open.spotify.com/track/4QWehEg5WW9PVyEW70GwXa"

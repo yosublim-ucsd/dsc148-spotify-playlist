@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,863 songs - 10 day 20 hr 10 min
+6,864 songs - 10 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2791,6 +2791,7 @@
 | [If I Ever Build a House](https://open.spotify.com/track/1AzfhvDwYiu9SdtKvIJcXk) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6) | [If I Ever Build a House](https://open.spotify.com/album/69NDDMJctUckrj5G5VlNae) | 3:05 | 2019-05-26\* | 2020-06-09 |
 | [If I Wrote You](https://open.spotify.com/track/0pVwoyQqtyF0GWyaMeYy6q) | [Import Export](https://open.spotify.com/artist/0IXo2RN5Z2J7T6W1oyrBWX), [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Heinrich](https://open.spotify.com/artist/0wun1JnzKmylaykmjfrthP) | [If I Wrote You](https://open.spotify.com/album/2DRpdqUh2AgR0LPxudSNi4) | 2:13 | 2021-01-19 | 2022-01-14 |
 | [If Only](https://open.spotify.com/track/1hxqIrbn790zZqwIN45ygU) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/7q1ziZ1kpI1e9zzNU4sD7n) | 2:49 | 2021-07-31 | 2022-03-12 |
+| [If These Streets Could Talk \(T.A.X.I\)](https://open.spotify.com/track/2zOuDVOuHUhzIQmdVtTw2t) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [If These Streets Could Talk \(T.A.X.I\)](https://open.spotify.com/album/69IctPZ9b4gQwtjmlon3z3) | 3:17 | 2024-07-12 |  |
 | [If U Wanna](https://open.spotify.com/track/5KuEzcJf9truWXN0EELIJz) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [If U Wanna](https://open.spotify.com/album/6hE8UTZSKJ5ICtSOg1AgQA) | 2:53 | 2022-12-09 | 2023-08-18 |
 | [If Yo Think About It](https://open.spotify.com/track/1Bnq7asfp3PfWaMrcaOU1L) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [If Yo Think About It](https://open.spotify.com/album/692dMlXkBrcJC7PNNYEA54) | 2:29 | 2023-08-17 | 2023-10-27 |
 | [If You See Me](https://open.spotify.com/track/6yLPidk6IdZxXOlzAI5y5O) | [Ylluw](https://open.spotify.com/artist/6dJeCAbZEvbpbUZyN7OeBh) | [If You See Me](https://open.spotify.com/album/750FUqsKlZuCRvdUyePujd) | 1:55 | 2023-07-06 | 2023-08-26 |
@@ -5087,7 +5088,7 @@
 | [Sea Glass](https://open.spotify.com/track/4fQ5j3zGe75c7T8wtCbVdw) | [Sports & Music](https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9) | [Sea Glass](https://open.spotify.com/album/0IEFN0UXa6evPNmTTYadzt) | 2:03 | 2021-12-03 | 2022-06-17 |
 | [Sea Secrets](https://open.spotify.com/track/71e0TKZn2VgFg6t8kNdkkD) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips) | [Water Secrets](https://open.spotify.com/album/2Ck16RhFLyGrGq2HfBYAOZ) | 2:17 | 2023-10-13 | 2023-11-11 |
 | [Seagazing](https://open.spotify.com/track/2HnbW4hHhgfqiwjP97eFcg) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Seagazing](https://open.spotify.com/album/4cgTpLNBUtHUywVqBaWG71) | 2:24 | 2022-11-25 | 2023-01-20 |
-| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 |  |
+| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 | 2024-07-16 |
 | [Search for Tomorrow](https://open.spotify.com/track/1uTxXCU8uNiOB8iTg3sjcs) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Search for Tomorrow](https://open.spotify.com/album/1mA1yze65ZUBv1xqClnnc2) | 2:08 | 2019-07-23 | 2020-10-21 |
 | [Seashells](https://open.spotify.com/track/2UOaLTPCnWUO8aMDmsIuKr) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Seashells](https://open.spotify.com/album/65mSvsHnM4RjAgBGEcTvar) | 1:55 | 2022-06-10 | 2022-09-30 |
 | [Seaside Stroll](https://open.spotify.com/track/3nmMrM1q7bEHMen6XtrZFg) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Seaside Stroll](https://open.spotify.com/album/70rRWiCBg4IZCxHXKJbC3N) | 2:27 | 2022-11-11 | 2023-09-29 |

@@ -1483,6 +1483,32 @@
     },
     {
       "album": {
+        "name": "Burn It Away",
+        "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
+      },
+      "artists": [
+        {
+          "name": "Will Butler + Sister Squares",
+          "url": "https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj"
+        },
+        {
+          "name": "Will Butler",
+          "url": "https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp"
+        },
+        {
+          "name": "Sister Squares",
+          "url": "https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Burn It Away",
+      "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
+    },
+    {
+      "album": {
         "name": "Burning Down a Denny's",
         "url": "https://open.spotify.com/album/5k7jZVLCfS4Vit76ayHC5Z"
       },
@@ -1952,6 +1978,24 @@
       "duration_ms": 184240,
       "name": "Come Apart",
       "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
+    },
+    {
+      "album": {
+        "name": "4TO",
+        "url": "https://open.spotify.com/album/04sbdwP0aeMJa5iNujsKbS"
+      },
+      "artists": [
+        {
+          "name": "Fold Paper",
+          "url": "https://open.spotify.com/artist/418tC16FB4NdGVApqhpoFo"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Come Down Awkward",
+      "url": "https://open.spotify.com/track/26hBZ4qvc7GYyZy2KGocgp"
     },
     {
       "album": {
@@ -3127,6 +3171,28 @@
     },
     {
       "album": {
+        "name": "Earthling",
+        "url": "https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211853,
+      "name": "Earthling",
+      "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
+    },
+    {
+      "album": {
         "name": "Eat Men Eat",
         "url": "https://open.spotify.com/album/4sKsXkwWFXfXMsMVO7y4l4"
       },
@@ -3725,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/5FUD1SRn2eqvbLHMMFitlH"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144378,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/01Qss5GS3zFangKWlQ7nZt"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp"
       },
@@ -3754,7 +3838,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 222109,
       "name": "Field Of Ruins",
       "url": "https://open.spotify.com/track/2BXzFWbrIzc7TYfs3z8Igv"
@@ -5182,6 +5266,24 @@
       "duration_ms": 89093,
       "name": "HEY ASSHOLE",
       "url": "https://open.spotify.com/track/5EbeMB2XW1Gh0ExAawkBCJ"
+    },
+    {
+      "album": {
+        "name": "Strange Burden",
+        "url": "https://open.spotify.com/album/2nFfJYlW08ZKtWN3XiRV9T"
+      },
+      "artists": [
+        {
+          "name": "Font",
+          "url": "https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "Hey Kekul\u00e9",
+      "url": "https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe"
     },
     {
       "album": {
@@ -6806,7 +6908,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 173073,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u"
@@ -7844,6 +7946,24 @@
       "duration_ms": 194026,
       "name": "My Fall",
       "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
+    },
+    {
+      "album": {
+        "name": "My Family",
+        "url": "https://open.spotify.com/album/7rt6eYcLLi0zBM6R1tmlPB"
+      },
+      "artists": [
+        {
+          "name": "Pom Poko",
+          "url": "https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178770,
+      "name": "My Family",
+      "url": "https://open.spotify.com/track/4VNgtnSNyoqQ4UWkCxxzhK"
     },
     {
       "album": {

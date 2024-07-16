@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ_gbwb9R4EA\">Buscabulla</a>",
-  "num_followers": 66871,
+  "num_followers": 66868,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPkNUaC7Ea+536oahWT3d+Kpw1vRi5",
+  "snapshot_id": "AAAPkeK2g5bKqvc67sobUGpz04vOKKNz",
   "tracks": [
+    {
+      "added_at": "2024-07-15 15:50:32",
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 251767,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d"
+    },
     {
       "added_at": "2024-07-12 09:51:31",
       "album": {

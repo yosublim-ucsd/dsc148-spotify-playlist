@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-198 songs - 9 hr 30 min
+199 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2023-09-29 |  |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
 | [Night Studies: Study 1.1.1 \(Nachts\)](https://open.spotify.com/track/265m4RXrWWR9AJ11jujV47) | [Marino Formenti](https://open.spotify.com/artist/6yX3HigXXYXLv2auxRNkbB) | [Night Studies](https://open.spotify.com/album/30VdZldbyFfiu7ti1Bnw9R) | 2:32 | 2022-01-24 | 2022-02-01 |
+| [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 | 2024-07-15 |  |
 | [Nocturne in Tokyo](https://open.spotify.com/track/4imyXxsul98cYFhQyN4D6y) | [Remo Anzovino](https://open.spotify.com/artist/3eX54towHuwK80Za9BKZ8l) | [Nocturne](https://open.spotify.com/album/7k5UzofOULX7bkeCfgR5lK) | 3:41 | 2021-11-09 | 2023-09-30 |
 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 | 2023-02-28 | 2024-05-02 |
 | [Notes](https://open.spotify.com/track/3ASr0AXBDjIzS9Rwi5tLxy) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Notes](https://open.spotify.com/album/3Hkp9N92ailBc5Wx4xDLY5) | 2:07 | 2023-02-28 |  |

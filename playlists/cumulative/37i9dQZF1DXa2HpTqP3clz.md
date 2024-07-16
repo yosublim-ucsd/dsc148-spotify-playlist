@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Tony Trischka
 
-590 songs - 1 day 11 hr 6 min
+591 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Kentucky Morning](https://open.spotify.com/track/6pvN9EWw7ADaf9i8fq0W8J) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0), [Darrell Scott String Band](https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh) | [Kentucky Morning](https://open.spotify.com/album/3o2DQV1b7sIxCQf3G0yf3c) | 3:51 | 2023-08-11 | 2023-08-17 |
 | [Keys](https://open.spotify.com/track/4Ibk99CMAC2nKGcYr3wVCG) | [Clyde and the Milltailers](https://open.spotify.com/artist/7zBpuTvYYgN8A4KA6PnzUA) | [Gone](https://open.spotify.com/album/7gc0887rEEosEmhLnai9EZ) | 3:00 | 2022-06-17 | 2024-01-27 |
 | [Kill the Snake](https://open.spotify.com/track/1OOmfxYnKweraqU5y6nta5) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Kill the Snake](https://open.spotify.com/album/4XgxQ7cWdvzEkBebsD2fbV) | 3:18 | 2022-04-15 | 2022-06-28 |
+| [Knee Deep in Bluegrass](https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV) | [Ashby Frank](https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT) | [Knee Deep in Bluegrass](https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC) | 3:02 | 2024-07-13 |  |
 | [Last Chance](https://open.spotify.com/track/21TryieQX3eY96LemAyX28) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [Spirit to the Sea](https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC) | 3:59 | 2021-12-17 | 2024-01-27 |
 | [Last Slice Of Heaven](https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp) | [Jack McKeon](https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8) | [Last Slice Of Heaven](https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw) | 3:25 | 2024-04-26 |  |
 | [Leather Britches](https://open.spotify.com/track/1cT7M8Lov9kn4YmBOgOb4t) | [Curtis McPeake](https://open.spotify.com/artist/4PwlAirxlCUyYvCvWf0Koi), [Andy May](https://open.spotify.com/artist/29zPfTRdKbhHXnpHtyQPEO) | [The Good Things \(Outweigh the Bad\)](https://open.spotify.com/album/1voTotVTiai2e9xjBTPtDE) | 1:24 | 2022-02-18 | 2022-07-23 |
@@ -531,7 +532,7 @@
 | [Traveler](https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Travelers Rest](https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy) | 3:37 | 2023-06-23 | 2024-04-07 |
 | [Traveling the Highway Home](https://open.spotify.com/track/4tDtaYKaHte0FzX3KH6Cgo) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Traveling the Highway Home](https://open.spotify.com/album/7eSMID0T1b6W3PbPRybdPc) | 2:43 | 2021-12-17 | 2022-07-16 |
 | [Tried to Ruin My Name](https://open.spotify.com/track/2vSnv3tjh9FbogKRWrrFo1) | [Cory Walker](https://open.spotify.com/artist/3LHp5fPvJvKchR2MB4E1ZZ), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Tried to Ruin My Name](https://open.spotify.com/album/6Ciri7OY3x7Rv5DrdKabyN) | 2:23 | 2023-08-25 | 2023-10-06 |
-| [Trip Around The Sun](https://open.spotify.com/track/47tqsLKc4dfIcaeQ8W8V1f) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Dierks Bentley](https://open.spotify.com/artist/706EDprXH10iiLcPZfEzgf) | [Trip Around the Sun](https://open.spotify.com/album/2jAtYiIh9gHlBr1ZmwMWJb) | 4:20 | 2024-07-13 |  |
+| [Trip Around The Sun](https://open.spotify.com/track/47tqsLKc4dfIcaeQ8W8V1f) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Dierks Bentley](https://open.spotify.com/artist/706EDprXH10iiLcPZfEzgf) | [Trip Around the Sun](https://open.spotify.com/album/2jAtYiIh9gHlBr1ZmwMWJb) | 4:20 | 2024-07-13 | 2024-07-16 |
 | [Troubled Times](https://open.spotify.com/track/0mF8LPhWriCL78r2h2UnXU) | [The Muddy Souls](https://open.spotify.com/artist/1MNJv5xS7pUvBg3ljFLTX3) | [The Raven](https://open.spotify.com/album/0UNap2Kryw872d7Yt4OtCC) | 4:12 | 2022-03-11 | 2022-07-29 |
 | [Turn Me into a Diamond](https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF) | [Sharell Bryant](https://open.spotify.com/artist/4yAeOCzeSufeXn1Vccgi7P) | [Turn Me into a Diamond](https://open.spotify.com/album/1gNvyjqoYmm0Ok3imuiZJA) | 2:52 | 2021-12-17 | 2024-01-27 |
 | [Unholy Water](https://open.spotify.com/track/2oEXzg6PzHXQ3Mt6Ar4fYt) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie](https://open.spotify.com/album/5ImW9Rgw0hvn5Sh1naKrur) | 3:24 | 2022-07-22 | 2022-08-30 |

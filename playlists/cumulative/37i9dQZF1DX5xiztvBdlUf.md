@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-380 songs - 1 day 11 hr 16 min
+381 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-06-30 | 2023-08-03 |
 | [Elevate](https://open.spotify.com/track/4N5fhC9CW1Rt4doyulBgAd) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Effervescence](https://open.spotify.com/album/5quQT3iAzofRlQI00kzrDj) | 3:42 | 2021-11-26 | 2022-06-16 |
 | [Empires Of The North](https://open.spotify.com/track/5Tk2XCfrRLVwVMK4zvk690) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a) | [Empire EP](https://open.spotify.com/album/6di6YbDP1WIdHmsboMKikN) | 3:50 | 2022-05-13 | 2022-07-22 |
+| [Er Lebt In Dir](https://open.spotify.com/track/5jCSuJCwhqGFbbHsSOF8o7) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Er Lebt In Dir](https://open.spotify.com/album/3lwlroHnT8LigqrLqyOCBa) | 2:36 | 2023-11-14 |  |
 | [Ergot](https://open.spotify.com/track/1G6dyaNXhkx0HCM3ZcIJ22) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Ergot EP](https://open.spotify.com/album/05c7P8PiH5Xv8E2R0S5Kg3) | 4:56 | 2022-05-13 | 2022-07-25 |
 | [Eroica](https://open.spotify.com/track/0lh9J6Q95yx86HwtKqL5ma) | [MPathy](https://open.spotify.com/artist/1JfL6hDxts0zIcYb6hT9D9) | [Eroica](https://open.spotify.com/album/46LTKHGVMvAq7s8s4gq8Y7) | 7:29 | 2023-05-05 | 2023-05-27 |
 | [Escape](https://open.spotify.com/track/2E78HhgMhRAYONtMktDgg7) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Escape](https://open.spotify.com/album/1O2xWBUjQB1bNVjxnEz3uq) | 3:04 | 2021-11-26 | 2022-07-28 |
@@ -208,7 +209,7 @@
 | [Love You Or Don't](https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Love You Or Don't](https://open.spotify.com/album/3eJumUNTRkDHN3WpHCCTt7) | 3:18 | 2021-11-26 | 2022-05-19 |
 | [Lunaire](https://open.spotify.com/track/72nMF220X1qe9OBskVHD71) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Lunaire](https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN) | 3:34 | 2021-11-26 | 2024-06-27 |
 | [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 | 2022-11-25 | 2023-01-22 |
-| [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 | 2023-09-15 |  |
+| [Malmedy](https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Malmedy](https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo) | 5:42 | 2023-09-15 | 2024-07-16 |
 | [Mama Thula](https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS) | [Mama Thula](https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ) | 6:01 | 2023-11-14 |  |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2022-01-14 |  |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-11-26 | 2022-10-01 |

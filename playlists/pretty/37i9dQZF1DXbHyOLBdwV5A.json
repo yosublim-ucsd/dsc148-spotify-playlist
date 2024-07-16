@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 122081,
+  "num_followers": 122099,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-07-11 15:55:35",
       "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
-    },
-    {
-      "added_at": "2024-07-11 15:55:35",
-      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
+    },
+    {
+      "added_at": "2024-07-11 15:55:35",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2024-07-11 15:55:35",
@@ -779,22 +779,26 @@
     {
       "added_at": "2024-07-11 15:55:35",
       "album": {
-        "name": "Voc\u00ea Me Amou",
-        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
+        "name": "Tropa de Jesus (2024)",
+        "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
       },
       "artists": [
         {
-          "name": "D\u00e9bora Ulhoa",
-          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+          "name": "BIG FOOT PRODUTORA",
+          "url": "https://open.spotify.com/artist/6IlrVPaoBFaS2Mh7taMjTt"
         },
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "DJ Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2NKWxU3WeE5hQdL5ukUGhU"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Voc\u00ea Me Amou",
-      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
+      "duration_ms": 106285,
+      "name": "Tropa de Jesus (2024)",
+      "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
     },
     {
       "added_at": "2024-07-11 15:55:35",
@@ -851,26 +855,22 @@
     {
       "added_at": "2024-07-11 15:55:35",
       "album": {
-        "name": "Tropa de Jesus (2024)",
-        "url": "https://open.spotify.com/album/3cMB70XA0t8qOHs2V6tMnL"
+        "name": "Voc\u00ea Me Amou",
+        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
       },
       "artists": [
         {
-          "name": "BIG FOOT PRODUTORA",
-          "url": "https://open.spotify.com/artist/6IlrVPaoBFaS2Mh7taMjTt"
+          "name": "D\u00e9bora Ulhoa",
+          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
         },
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "DJ Pez\u00e3o",
-          "url": "https://open.spotify.com/artist/2NKWxU3WeE5hQdL5ukUGhU"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         }
       ],
-      "duration_ms": 106285,
-      "name": "Tropa de Jesus (2024)",
-      "url": "https://open.spotify.com/track/1SUGoH6UafL9VHhon8DMmh"
+      "duration_ms": 179200,
+      "name": "Voc\u00ea Me Amou",
+      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
     },
     {
       "added_at": "2024-07-11 15:55:35",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-07-11 15:55:35",
       "album": {
-        "name": "Sorrindo \u00e0 Toa (Remix)",
-        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleytinho de Maca\u00e9",
-          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Sorrindo \u00e0 Toa - Remix",
-      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
-    },
-    {
-      "added_at": "2024-07-11 15:55:35",
-      "album": {
         "name": "Tempo Novo",
         "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 217147,
       "name": "Tempo Novo",
       "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
+    },
+    {
+      "added_at": "2024-07-11 15:55:35",
+      "album": {
+        "name": "Sorrindo \u00e0 Toa (Remix)",
+        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleytinho de Maca\u00e9",
+          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Sorrindo \u00e0 Toa - Remix",
+      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
     },
     {
       "added_at": "2024-07-11 15:55:35",

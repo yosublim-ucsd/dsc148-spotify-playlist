@@ -2,9 +2,9 @@
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This is BK\. The essential tracks, all in one playlist.
+> This is BK\. Todos os maiores hits em uma só playlist.
 
-86 songs - 5 hr 38 min
+87 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 | 2023-09-18 |  |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:06 | 2023-09-18 | 2024-04-02 |
 | [O Que Quiser Fazer](https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Um](https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0) | 3:45 | 2023-09-18 |  |
-| [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 | 2024-05-24 |  |
+| [Outra Hora](https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Outra Hora](https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw) | 3:17 | 2024-05-24 | 2024-07-16 |
+| [Outra Hora \(Remix\)](https://open.spotify.com/track/4CzY9IOwpNuDycKKvioSWd) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:36 | 2024-07-16 |  |
 | [Paraíso Que Me Cerca](https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:37 | 2023-09-18 |  |
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2023-09-18 |  |
 | [Planos / Sem Ninguém \- Ao Vivo](https://open.spotify.com/track/4oRpFzCG4NOdOzizfxa3G3) | [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Planos / Sem Ninguém \(Ao Vivo\)](https://open.spotify.com/album/59b7Cdu8sfOYUbNkpt0eDP) | 4:10 | 2024-07-14 |  |

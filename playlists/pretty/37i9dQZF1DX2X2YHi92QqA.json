@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30047,
+  "num_followers": 30062,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-        "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
-      },
-      "artists": [
-        {
-          "name": "Oxana Trach",
-          "url": "https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww"
-        }
-      ],
-      "duration_ms": 143953,
-      "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-      "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u0414\u0456\u0442\u0438",
         "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
       },
@@ -951,22 +935,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439",
-        "url": "https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC"
+        "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
+        "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
       },
       "artists": [
         {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        },
-        {
-          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
-          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
+          "name": "Oxana Trach",
+          "url": "https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww"
         }
       ],
-      "duration_ms": 261500,
-      "name": "\u0426\u0456\u043b\u0443\u0439",
-      "url": "https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO"
+      "duration_ms": 143953,
+      "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
+      "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -987,6 +967,26 @@
       "duration_ms": 154527,
       "name": "\u043c\u0435\u0442\u0430\u043c\u043e\u0440\u0444\u043e\u0441\u0456\u043d\u044c",
       "url": "https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0426\u0456\u043b\u0443\u0439",
+        "url": "https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        },
+        {
+          "name": "\u041c\u0423\u041b\u042c\u0422\u0418\u0422\u0420\u0415\u041a",
+          "url": "https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "\u0426\u0456\u043b\u0443\u0439",
+      "url": "https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO"
     },
     {
       "added_at": "2024-07-12 16:07:22",

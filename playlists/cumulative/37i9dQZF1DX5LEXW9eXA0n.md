@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Sojung\(이소정\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Tophyun\(탑현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,258 songs - 3 day 9 hr 27 min
+1,260 songs - 3 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2023-12-14 | 2024-05-18 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-20 | 2022-03-08 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-22 | 2023-01-21 |
+| [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 | 2024-07-15 |  |
 | [Take a taxi](https://open.spotify.com/track/6OBHmeHMdkZXB63phryUKh) | [Wolfie](https://open.spotify.com/artist/2DINOPURfQUFdSe0d0x6DQ) | [Take a taxi](https://open.spotify.com/album/74qafhjd3Y9ZsfV1cSUhGp) | 3:47 | 2023-02-23 | 2023-04-27 |
 | [Take Care](https://open.spotify.com/track/6Vy8rH3XpaY9yoYzUt034a) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [Take Care](https://open.spotify.com/album/5zK1XYqu3ua1KXm4dZfa40) | 3:53 | 2023-11-02 | 2024-02-02 |
 | [Take Me Back In Time](https://open.spotify.com/track/3GOC3sFDrsNK61FQNEqODL) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Take Me Back In Time](https://open.spotify.com/album/2DDALB3NxTOgxoRXAm8LlX) | 3:54 | 2022-10-14 | 2022-10-27 |
@@ -1050,6 +1051,7 @@
 | [This Song](https://open.spotify.com/track/7GyKbTE1bVgWXr3tiqp3H1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [This Song](https://open.spotify.com/album/7mS4NsnK5NSwh5e3HEzyYP) | 5:11 | 2021-12-23 | 2022-06-06 |
 | [Those times](https://open.spotify.com/track/6AYFpiiNPcjpxA9RKa2glZ) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [Those times](https://open.spotify.com/album/7cdzy2LsbTIYhbe6KjDIgB) | 3:42 | 2023-04-26 | 2023-09-12 |
 | [Three Methods of Containing Sorrow](https://open.spotify.com/track/3RDCy9sr00fMnAN8b3E26Y) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Three Methods of Containing Sorrow](https://open.spotify.com/album/5dq1nYp45LJ0t5rng19jnU) | 3:56 | 2024-05-17 |  |
+| [Threshold](https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 4:11 | 2024-07-15 |  |
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2021-12-20 | 2022-07-08 |
 | [Time Spent Walking Through Memories \(Feat\. 10CM\)](https://open.spotify.com/track/484dgUyawknLkNyQfXoDkh) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Memories](https://open.spotify.com/album/38BploYaSSuEFrk7974uX1) | 3:34 | 2023-09-11 | 2023-11-03 |
 | [Time To Break Up](https://open.spotify.com/track/7r4V6nIAovtbrXOoXIDM9W) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [Time To Break Up](https://open.spotify.com/album/41YjMufLJv2wg2C8wZaBRx) | 3:25 | 2022-10-27 | 2023-01-21 |

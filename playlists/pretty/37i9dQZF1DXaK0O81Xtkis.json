@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Haiden Henderson",
-  "num_followers": 215258,
+  "num_followers": 215255,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAACtMy2RZ9ovj7XXq8kPbjj8",
+  "snapshot_id": "ZpVoVgAAAAC05LhmCEo6FBghfhKd563s",
   "tracks": [
     {
       "added_at": "2024-07-12 04:00:00",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
+      "added_at": "2024-07-15 18:20:06",
+      "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "dirty little secret",
@@ -71,22 +103,6 @@
       "duration_ms": 193262,
       "name": "Treadmill",
       "url": "https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 116845,
       "name": "Money",
       "url": "https://open.spotify.com/track/3FF6vKYilv8IIJSoPKN56z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "EVERYTHING IS QUIET",
-        "url": "https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc"
-      },
-      "artists": [
-        {
-          "name": "Braden Bales",
-          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "EVERYTHING IS QUIET",
-      "url": "https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU"
     },
     {
       "added_at": "2024-07-12 04:00:00",

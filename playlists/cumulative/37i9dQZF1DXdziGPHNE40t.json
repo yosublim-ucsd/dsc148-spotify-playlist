@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Fascination",
+        "url": "https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263285,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt"
+    },
+    {
+      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 185265,
       "name": "From Paris with love",
       "url": "https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq"
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 160124,
       "name": "La Libertad",
       "url": "https://open.spotify.com/track/0sg1Dj6iOJenyxjb8lkK7H"
@@ -4770,7 +4788,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 408022,
       "name": "Later And Later",
       "url": "https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw"
@@ -9583,6 +9601,24 @@
     },
     {
       "album": {
+        "name": "To Be Home",
+        "url": "https://open.spotify.com/album/3EvdudM8RjMVl7hOzuLMlC"
+      },
+      "artists": [
+        {
+          "name": "Simple Paradise",
+          "url": "https://open.spotify.com/artist/6lvIL2hc3kaKcKZg0HAGm4"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171549,
+      "name": "To Be Home",
+      "url": "https://open.spotify.com/track/5RYRbcxKPad0oYn4FUA1n0"
+    },
+    {
+      "album": {
         "name": "To the Moon and Back",
         "url": "https://open.spotify.com/album/4FjAzBoqC16rVfrMgEFujB"
       },
@@ -10098,7 +10134,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 246745,
       "name": "What A Difference A Day Makes",
       "url": "https://open.spotify.com/track/38c3Ad0TqWEwnUPH2NdTWm"
@@ -10584,7 +10620,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 216022,
       "name": "Wonderful Is Short",
       "url": "https://open.spotify.com/track/7AeoW54UXtfDBV2WpWSR6f"
@@ -10944,7 +10980,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"

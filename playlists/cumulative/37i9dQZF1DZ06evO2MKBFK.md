@@ -2,7 +2,7 @@
 
 ### [This Is BIGBANG](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MKBFK)
 
-> This is BIGBANG\. The essential tracks, all in one playlist.
+> This Is BIGBANG\. Los temas esenciales, todos en una lista.
 
 65 songs - 3 hr 59 min
 

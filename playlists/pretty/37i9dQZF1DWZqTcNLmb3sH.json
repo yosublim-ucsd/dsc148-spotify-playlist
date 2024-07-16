@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Krishnam Pranaya Sakhi\n",
-  "num_followers": 57899,
+  "num_followers": 57910,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpEGnAAAAABK5eSyI2Cgg7mBVz/+Sj9V",
+  "snapshot_id": "ZpS38wAAAADRrTtP8i1Vp2Hh6CxBeR+M",
   "tracks": [
     {
       "added_at": "2024-07-12 10:14:02",
@@ -55,6 +55,30 @@
       "duration_ms": 154161,
       "name": "Run Run Run Chidambara - From \"Chef Chidambara\"",
       "url": "https://open.spotify.com/track/0we0kmHmr1si80X8jxLZgc"
+    },
+    {
+      "added_at": "2024-07-15 05:47:14",
+      "album": {
+        "name": "Razakar (Kannada)",
+        "url": "https://open.spotify.com/album/5mQztja55VeW5hF1FsmY0q"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Meghana",
+          "url": "https://open.spotify.com/artist/55iMNvfW6kzyjOkUnz2uEF"
+        },
+        {
+          "name": "Mamtha",
+          "url": "https://open.spotify.com/artist/3ygWMCJJpWExxsYRHMtiIO"
+        }
+      ],
+      "duration_ms": 232169,
+      "name": "Bharathi Bharathi Uyyale",
+      "url": "https://open.spotify.com/track/0THDHTe7jhTa5zGbAOzQa8"
     },
     {
       "added_at": "2024-07-12 10:23:45",
@@ -151,6 +175,30 @@
       "duration_ms": 175000,
       "name": "Hello Hello - From \"Chef Chidambara\"",
       "url": "https://open.spotify.com/track/13749eZqeDXUtqjXi3H9Ec"
+    },
+    {
+      "added_at": "2024-07-15 05:47:14",
+      "album": {
+        "name": "Razakar (Kannada)",
+        "url": "https://open.spotify.com/album/5mQztja55VeW5hF1FsmY0q"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Bharani Shree",
+          "url": "https://open.spotify.com/artist/0JcPSe3wQ1ecni0EpTkyaU"
+        },
+        {
+          "name": "Mamtha",
+          "url": "https://open.spotify.com/artist/3ygWMCJJpWExxsYRHMtiIO"
+        }
+      ],
+      "duration_ms": 240137,
+      "name": "Makkali Raa",
+      "url": "https://open.spotify.com/track/67g7RYg40YqOFQ70h2Iz6x"
     },
     {
       "added_at": "2024-07-10 06:04:24",
@@ -1701,38 +1749,6 @@
       "url": "https://open.spotify.com/track/5QnUJYAmnPTqvWeE0xDt0W"
     },
     {
-      "added_at": "2024-05-22 08:23:25",
-      "album": {
-        "name": "Maja Maja (From \"Salute\")",
-        "url": "https://open.spotify.com/album/3aKzJBKB4dtrVmBg8eIxZY"
-      },
-      "artists": [
-        {
-          "name": "Rishikesh C",
-          "url": "https://open.spotify.com/artist/5oUscDQ9vxp2B3DntUxdqV"
-        },
-        {
-          "name": "Keerthan S",
-          "url": "https://open.spotify.com/artist/4hf6PIBjnDE8Q1H7HF0ppA"
-        },
-        {
-          "name": "Pushpa B",
-          "url": "https://open.spotify.com/artist/69eUpFzjD7jvghQhf4IBIC"
-        },
-        {
-          "name": "Bharath Babu L",
-          "url": "https://open.spotify.com/artist/2vsjthIpOrCunnPfrLTGGP"
-        },
-        {
-          "name": "Manuel Jayasheel J",
-          "url": "https://open.spotify.com/artist/3O7XrpigY4x2cYqr9CWXU9"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Maja Maja - From \"Salute\"",
-      "url": "https://open.spotify.com/track/4Gv6pqTY1goK93UD9u8Bmk"
-    },
-    {
       "added_at": "2024-05-22 08:24:11",
       "album": {
         "name": "Kanda Kanda (From \"C\")",
@@ -1815,110 +1831,6 @@
       "duration_ms": 222566,
       "name": "Baalu Badenekayi (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/0vEK02cOCFe09MtUWNap6d"
-    },
-    {
-      "added_at": "2024-03-14 12:22:29",
-      "album": {
-        "name": "Kavithe Kavithe (From \"Yuva\")",
-        "url": "https://open.spotify.com/album/0RdWBnLcwZU4wCv4VlPvH8"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 214617,
-      "name": "Kavithe Kavithe (From \"Yuva\")",
-      "url": "https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad"
-    },
-    {
-      "added_at": "2024-05-13 06:20:11",
-      "album": {
-        "name": "Kandor Mane Kathe (From \"Somberi\")",
-        "url": "https://open.spotify.com/album/3XU5fm7Y4e9P8b11wot8Y7"
-      },
-      "artists": [
-        {
-          "name": "Naveen Sajju",
-          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
-        },
-        {
-          "name": "Gowtham Yashodhara",
-          "url": "https://open.spotify.com/artist/5SJuQhyuTlyRVcTfcQQK5E"
-        },
-        {
-          "name": "John Kennady",
-          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Kandor Mane Kathe - From \"Somberi\"",
-      "url": "https://open.spotify.com/track/4U772Dx5rNN0tidXo4xqzU"
-    },
-    {
-      "added_at": "2024-05-13 06:28:56",
-      "album": {
-        "name": "Kaledhoda Dinave (From \"Ishq - Dont Fall In Love\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2T3lMLpY0jATiDwaw9Ha2x"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        }
-      ],
-      "duration_ms": 259114,
-      "name": "Kaledhoda Dinave (From \"Ishq - Dont Fall In Love\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5JZmrkfwLsh2dkq6uIo9oG"
-    },
-    {
-      "added_at": "2024-05-16 12:59:57",
-      "album": {
-        "name": "Music Shop Murthy (Kannada)",
-        "url": "https://open.spotify.com/album/44iG62oj6JCKbi2ye11oqY"
-      },
-      "artists": [
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Ahmad Parvez",
-          "url": "https://open.spotify.com/artist/2wMLz8vctKy0SxnSMrRtE5"
-        },
-        {
-          "name": "Kishore Vishwakarma",
-          "url": "https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ"
-        }
-      ],
-      "duration_ms": 233242,
-      "name": "Angrezi Beat",
-      "url": "https://open.spotify.com/track/48YSxUAihvV6PvWLNDSxNl"
-    },
-    {
-      "added_at": "2024-04-08 10:57:58",
-      "album": {
-        "name": "Baduku Ondu Ranaranga (From \"Yuva\")",
-        "url": "https://open.spotify.com/album/4kHv9SPwQHkl7nCaNz0lIz"
-      },
-      "artists": [
-        {
-          "name": "Vyasraj Sosale",
-          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 267718,
-      "name": "Baduku Ondu Ranaranga (From \"Yuva\")",
-      "url": "https://open.spotify.com/track/2dgnWtoFeiBHR5oyVmlXcf"
     }
   ],
   "unique_name": "Latest Kannada",

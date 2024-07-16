@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kwiat Jabłoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,736 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,730 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 8 | [Targowa](https://open.spotify.com/track/6Qmgj8jeP7JuCuUGXPMcPs) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Karolina Czarnecka](https://open.spotify.com/artist/6J2uYw9Hf0spyvUuwvEP1l) | [Spacer po Warszawie](https://open.spotify.com/album/5GhrrP768IczdMuPTNHSmd) | 3:44 |
 | 9 | [Spotkanie z Warszawą](https://open.spotify.com/track/5hDNh1K9yB8stfqMFqlly7) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Spotkanie z Warszawą](https://open.spotify.com/album/6EhTMfJz1M4X4zICCMimsa) | 2:26 |
 | 10 | [Teardrop](https://open.spotify.com/track/0SW9AngyutPHZOOqU5gT8H) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [Teardrop](https://open.spotify.com/album/3zOyxQ0GuRrMXDAeOSviEW) | 4:07 |
-| 11 | [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:00 |
+| 11 | [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:25 |
 | 12 | [nanana \- z filmu „Drużyna A\(A\)”](https://open.spotify.com/track/2QWniP8acBEmDa3nkdBOMw) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [nanana \- z filmu „Drużyna A\(A\)”](https://open.spotify.com/album/6hyWOn14ZqwVZbqlQpgi8O) | 2:08 |
 | 13 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 |
 | 14 | [MIASTO AWANTUR](https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP) | [Jędrzej Wise](https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC), [Krzy Krzysztof](https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN) | [MIASTO AWANTUR](https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ) | 3:32 |

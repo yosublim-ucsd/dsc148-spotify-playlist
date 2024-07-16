@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Max Styler\. 50% techno, 50% house
 
-1,672 songs - 3 day 21 hr 49 min
+1,673 songs - 3 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,7 +554,7 @@
 | [Get It](https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Get It](https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9) | 2:19 | 2023-05-19 | 2023-07-30 |
 | [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-06-01 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 | 2023-08-12 |
-| [Get Rockin'](https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Rockin'](https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6) | 3:02 | 2024-04-26 |  |
+| [Get Rockin'](https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Rockin'](https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6) | 3:02 | 2024-04-26 | 2024-07-16 |
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-05 |  |
 | [Get Ur Freak On](https://open.spotify.com/track/5nUCgy69OvkL4QNuEfMB3l) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Get Ur Freak On](https://open.spotify.com/album/7Kka3jOu0UjsKxk2OOecjS) | 2:44 | 2024-03-29 | 2024-07-06 |
 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 | 2024-04-12 |  |
@@ -1027,6 +1027,7 @@
 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 | 2023-10-06 |  |
 | [No Standing](https://open.spotify.com/track/1Sjav5dn1J3e5kCnggX3BR) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [No Standing](https://open.spotify.com/album/4FIF0uU4AJDcQVgUjrqM5Z) | 4:59 | 2022-12-02 | 2023-03-18 |
 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 | 2024-02-23 | 2024-06-15 |
+| [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-07-05 |  |
 | [Not About You](https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Not About You](https://open.spotify.com/album/6zZCXte8GWJPvFOS2UUKYV) | 2:57 | 2022-09-16 | 2022-12-17 |
 | [Not Going Back](https://open.spotify.com/track/7zMw9eXDYueezfOxcX79D2) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY) | [Not Going Back](https://open.spotify.com/album/5HZYrVKS4zRcsdpxw7h1K0) | 3:30 | 2024-02-16 | 2024-03-02 |
 | [Nothing Gonna Stop This](https://open.spotify.com/track/1JWA4peO1GxEgDxh8J23UA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Nothing Gonna Stop This](https://open.spotify.com/album/30ubmboEJ0dSuxjXbusHTA) | 3:47 | 2022-03-04 | 2022-06-04 |

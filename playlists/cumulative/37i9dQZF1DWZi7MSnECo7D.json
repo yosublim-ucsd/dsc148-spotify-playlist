@@ -2767,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "Corpo Celeste",
+        "url": "https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy"
+      },
+      "artists": [
+        {
+          "name": "Gracinha",
+          "url": "https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276374,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi"
+    },
+    {
+      "album": {
         "name": "em busca do veneno da serpente",
         "url": "https://open.spotify.com/album/7aCXFxP6AviVWVd6mVMXce"
       },

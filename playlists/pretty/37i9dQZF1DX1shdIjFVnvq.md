@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 
 > Can't stop, won't stop! Cover: Ufo361
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,241 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,254 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 21 | [Went Hollywood For A Year](https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Went Hollywood For A Year](https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K) | 2:07 |
 | 22 | [LOWLIFE](https://open.spotify.com/track/17OtbhQQ8Udj4NL57cv2mV) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [SIKI JACKSON](https://open.spotify.com/album/4lua2VQpqJYAKHK24oq6ou) | 2:50 |
 | 23 | [PRETTY LIL SHAWTY](https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [PRETTY LIL SHAWTY](https://open.spotify.com/album/2gwcLxt9EWRoFltgOeK4m5) | 2:46 |
-| 24 | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/album/3ztd4CfwWREeO3uzK4WfBP) | 3:14 |
+| 24 | [RACHE](https://open.spotify.com/track/2JJLUr4IlTOqjDw9foFYcj) | [MOWGLI018](https://open.spotify.com/artist/2nki3Bq7vnx8KUvOfwCW14), [KIDD KAWAKI](https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E) | [RACHE](https://open.spotify.com/album/2OaLjxskaclirXx8f1wz19) | 2:22 |
 | 25 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
-| 26 | [RACHE](https://open.spotify.com/track/2JJLUr4IlTOqjDw9foFYcj) | [MOWGLI018](https://open.spotify.com/artist/2nki3Bq7vnx8KUvOfwCW14), [KIDD KAWAKI](https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E) | [RACHE](https://open.spotify.com/album/2OaLjxskaclirXx8f1wz19) | 2:22 |
+| 26 | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [SAY GOODBYE \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/album/3ztd4CfwWREeO3uzK4WfBP) | 3:14 |
 | 27 | [Superstars](https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Superstars](https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR) | 2:19 |
 | 28 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
 | 29 | [EWIGKEIT](https://open.spotify.com/track/55BabkNtx4kGFMehbr2355) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT](https://open.spotify.com/album/2xWhgzAtUIf8tL32eoaD2x) | 1:57 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1shdIjFVnvq.md) - [plain]
 | 54 | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/track/6g9w2kMmb0SpHY4ADT4z6k) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Rocket Science \(feat\. D\-Block Europe\)](https://open.spotify.com/album/2mBUGGJbJMNLlTc7YVxzos) | 3:21 |
 | 55 | [Hotbox](https://open.spotify.com/track/32Z0VTh6WdfNODptGc9OC0) | [Sicko](https://open.spotify.com/artist/0QiFjnDDT6vUrKuh7OukgE), [prod.anno](https://open.spotify.com/artist/1SGLVfATshO6K1jRTGeOxz) | [Hotbox](https://open.spotify.com/album/25ySdvbDJi00CicDFOumF7) | 2:35 |
 | 56 | [SEPTEMBER](https://open.spotify.com/track/2QVOaCOsGYQocs5y0QjTV6) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [In meiner Blüte](https://open.spotify.com/album/3nVrgHcTChGA9u40q4RfTv) | 2:30 |
-| 57 | [Liebeslieder](https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Liebeslieder](https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ) | 2:06 |
-| 58 | [Life Story](https://open.spotify.com/track/6n0tjWhWk846PxAAQo9kb7) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Life Story](https://open.spotify.com/album/6pQtQU1zA4GTkpGa2k8rNN) | 2:31 |
+| 57 | [Life Story](https://open.spotify.com/track/6n0tjWhWk846PxAAQo9kb7) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Life Story](https://open.spotify.com/album/6pQtQU1zA4GTkpGa2k8rNN) | 2:31 |
+| 58 | [Liebeslieder](https://open.spotify.com/track/5fyDNSiWhZZdyFLanzRS6d) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Liebeslieder](https://open.spotify.com/album/0MdYyPd4nmLeSAHEM6ABMZ) | 2:06 |
 | 59 | [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 |
 | 60 | [Theorie und Praxis](https://open.spotify.com/track/3SE6QeQcTbrV4goXLIU1xm) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Theorie und Praxis](https://open.spotify.com/album/23sHEkOm49h3AwijvtsTJW) | 2:35 |
 | 61 | [Let me love you](https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Let me love you](https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX) | 2:47 |

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: Four Year Strong
 
-1,237 songs - 2 day 17 hr 25 min
+1,238 songs - 2 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Birdcage](https://open.spotify.com/track/2dU8wkeyvbMUUM3mwun5IX) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Birdcage](https://open.spotify.com/album/0O5hPKodswyqouT4iSH9ae) | 3:23 | 2021-12-10 | 2022-06-25 |
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2021-12-10 | 2022-06-25 |
 | [Black Confetti](https://open.spotify.com/track/0WaTwKJGHKJQ6Tv9e2rSGk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Black Confetti](https://open.spotify.com/album/4OzfmOuozt9Rlosxrtktzi) | 2:53 | 2022-05-20 | 2022-08-03 |
-| [Blackout](https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Rat Park](https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K) | [Blackout](https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0) | 3:14 | 2024-04-12 |  |
+| [Blackout](https://open.spotify.com/track/1UU3Rz7R3htJ1W636jxzKd) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9), [Rat Park](https://open.spotify.com/artist/3HltfqsiDmqwrvNWGwco9K) | [Blackout](https://open.spotify.com/album/3LX2JhMQanwcOe4Bu81gl0) | 3:14 | 2024-04-12 | 2024-07-16 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2024-04-13 |
 | [blame me for everything](https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [nosebleeder](https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3) | 2:13 | 2024-02-09 |  |
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2022-12-02 |  |
@@ -528,6 +528,7 @@
 | [How It Feels to Be Lost](https://open.spotify.com/track/3A1jkLwsYjaH30J0v6oZCF) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:38 | 2021-12-10 | 2022-07-04 |
 | [I Can Feel Every Cut](https://open.spotify.com/track/6Zlg7H7DNZmE5aFqJ0LInj) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [We're All Desperate Together](https://open.spotify.com/album/13Ek2l28XoGNc3hkUrzQpp) | 3:38 | 2024-04-12 | 2024-04-14 |
 | [I Can't Sleep](https://open.spotify.com/track/1gckzXZppc8a5qHZy4MCZJ) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [The Breakfast Club](https://open.spotify.com/album/2nGlHs1tylkU5Wv8SgVZv9) | 3:22 | 2021-12-10 | 2022-08-06 |
+| [I Died](https://open.spotify.com/track/0ea8gi7YhQj5M9ooEkUn35) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [Hereditary](https://open.spotify.com/album/5m6Urg9zQzjxjKeZZou9J5) | 2:30 | 2024-07-12 |  |
 | [I Don't Care](https://open.spotify.com/track/1I6s7XgnKIkGXtm4bcUWuf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [I Don't Care](https://open.spotify.com/album/4z09qzhq7zGxibWmwcZxFE) | 3:45 | 2022-03-25 | 2022-04-20 |
 | [I Don't Think I Live There Anymore](https://open.spotify.com/track/73HiWcZxgR2JKthCPdc8ur) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Smile Wide](https://open.spotify.com/album/4cadqhi42JfMXBN8E8mBL5) | 3:08 | 2021-12-10 | 2022-04-19 |
 | [I Hate Everybody](https://open.spotify.com/track/2ZcoqjUsyULHkmnHQV1AQ6) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [I Hate Everybody](https://open.spotify.com/album/5DFB770YCQEeRUxsrtmCQ0) | 3:12 | 2022-07-08 | 2022-08-03 |

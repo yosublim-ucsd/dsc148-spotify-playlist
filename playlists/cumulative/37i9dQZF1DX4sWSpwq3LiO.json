@@ -9369,6 +9369,24 @@
     },
     {
       "album": {
+        "name": "frozen kiss & imperfect love",
+        "url": "https://open.spotify.com/album/1ec1G9tjJMC8GjBQMtge5N"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161934,
+      "name": "frozen kiss",
+      "url": "https://open.spotify.com/track/6R1H9Z89KDuRtt8h9PvKeu"
+    },
+    {
+      "album": {
         "name": "Fr\u00fch",
         "url": "https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL"
       },
@@ -9546,7 +9564,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 159128,
       "name": "Gentle Stir",
       "url": "https://open.spotify.com/track/43gzo5RNf3HP1OLoJQsmQG"
@@ -17560,6 +17578,24 @@
       "duration_ms": 312757,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
+    },
+    {
+      "album": {
+        "name": "nocturnal summer & road to isabelle",
+        "url": "https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu"
+      },
+      "artists": [
+        {
+          "name": "forever day",
+          "url": "https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "nocturnal summer",
+      "url": "https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 197437,
+  "num_followers": 197574,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-11 00:14:47",
       "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
+    },
+    {
+      "added_at": "2024-07-11 00:14:47",
+      "album": {
         "name": "La Historia De Los Exitos-Parranderas",
         "url": "https://open.spotify.com/album/164kMmRFSeU303lUvwIWyW"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 241382,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
-    },
-    {
-      "added_at": "2024-07-11 00:14:47",
-      "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/7nJVbjmvbcsnJvqtT1eXvK"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
     },
     {
       "added_at": "2024-07-11 00:14:47",

@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 135156,
       "name": "Sent",
       "url": "https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0"
@@ -1620,6 +1620,28 @@
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
+    },
+    {
+      "album": {
+        "name": "Trodde aldri",
+        "url": "https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC"
+      },
+      "artists": [
+        {
+          "name": "Sunna Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k"
+        },
+        {
+          "name": "Regnv\u00e6r",
+          "url": "https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134992,
+      "name": "Trodde aldri",
+      "url": "https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs"
     },
     {
       "album": {

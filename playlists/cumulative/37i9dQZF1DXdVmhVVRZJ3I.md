@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdVmhVVRZJ3I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdVmhVVRZJ3I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdVmhVVRZJ3I)
 
-### [Suor EDM](https://open.spotify.com/playlist/37i9dQZF1DXdVmhVVRZJ3I)
+### [Treino Eletrônico](https://open.spotify.com/playlist/37i9dQZF1DXdVmhVVRZJ3I)
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 

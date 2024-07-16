@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 141986,
       "name": "haus am meer",
       "url": "https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW"
@@ -794,6 +794,24 @@
       "duration_ms": 66209,
       "name": "Muttertag",
       "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+    },
+    {
+      "album": {
+        "name": "Naja, geht so",
+        "url": "https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM"
+      },
+      "artists": [
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187501,
+      "name": "Naja, geht so",
+      "url": "https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ"
     },
     {
       "album": {

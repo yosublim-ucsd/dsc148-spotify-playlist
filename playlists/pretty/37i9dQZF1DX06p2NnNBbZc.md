@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 
 > 来日公演 "TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN SPECIAL" を開催するTWICEを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,024 likes - 44 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,211 likes - 44 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

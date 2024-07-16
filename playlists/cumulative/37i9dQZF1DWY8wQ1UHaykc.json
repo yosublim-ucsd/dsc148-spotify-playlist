@@ -1855,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "1000 Kisah Satu Hati",
+        "url": "https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Percaya Padaku",
+      "url": "https://open.spotify.com/track/4rHCqrJt6PJmR899XpDQNQ"
+    },
+    {
+      "album": {
         "name": "OST. 5 CM",
         "url": "https://open.spotify.com/album/0RJPZrRDqTohoFBcPQrm8b"
       },

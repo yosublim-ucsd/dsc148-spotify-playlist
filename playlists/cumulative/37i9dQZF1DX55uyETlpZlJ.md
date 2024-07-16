@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-362 songs - 19 hr 37 min
+363 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bere Tara](https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1) | 4:50 | 2023-11-20 | 2024-04-19 |
 | [Bere Tara](https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2) | 4:50 | 2023-11-20 | 2024-06-11 |
 | [Bhavanegalu](https://open.spotify.com/track/51ygWHeQ3xGDwKRgt7NeJF) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9) | 2:32 | 2023-01-13 | 2023-06-08 |
-| [Bhayavagide](https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Bhayavagide](https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR) | 4:07 | 2024-03-14 |  |
+| [Bhayavagide](https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Bhayavagide](https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR) | 4:07 | 2024-03-14 | 2024-07-16 |
 | [BOSS](https://open.spotify.com/track/0cXqo8QjhCsn9qMYjDMZYN) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [djlethal](https://open.spotify.com/artist/1UaUAQfV6k8WGPd4DyUEsN) | [BOSS](https://open.spotify.com/album/2QkuqKnB4GkAr6iCVDCJNL) | 2:17 | 2024-02-19 | 2024-03-23 |
 | [BREAK](https://open.spotify.com/track/1hWHspRRb3R4NY3gl5Fgyj) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/2Qe4fZTViRXEZ6f8gCLiog) | 3:04 | 2023-10-25 | 2024-01-08 |
 | [BREAK](https://open.spotify.com/track/21bX2IavqQcwcJ0NreC79A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/0kNsdsPVpauI9l24ThQRyP) | 3:04 | 2023-10-25 | 2024-02-17 |
@@ -113,6 +113,7 @@
 | [Haaride](https://open.spotify.com/track/1lpmHxVN3Px3umhAHmTdlz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Harsha Shannu](https://open.spotify.com/artist/10SnuopQQz9cFktsDaRzTw) | [Haaride](https://open.spotify.com/album/3VJHNfv2jL5ngZsmm1Jjm4) | 2:49 | 2024-02-19 | 2024-03-23 |
 | [HAARU HAARU](https://open.spotify.com/track/21FxZHSLzd84a8lxmT57tY) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/3UMSP6AJ2irOB5zYCMfrWs) | 2:59 | 2023-11-29 | 2024-03-05 |
 | [HAARU HAARU](https://open.spotify.com/track/4qHbrhQkoKbQ4LSaq4nhd9) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [HAARU HAARU](https://open.spotify.com/album/41pJIGHGZBFZHDV9CFnyvL) | 2:59 | 2023-11-29 | 2024-01-26 |
+| [Haaru Nee Gari Bichi](https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q) | [Haaru Nee Gari Bichi](https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL) | 3:37 | 2024-07-15 |  |
 | [HANA](https://open.spotify.com/track/2cTG4S1RMSXoOszO0CHL0j) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx), [Prithvi Prem Kumar](https://open.spotify.com/artist/61frj1a2Wo6u5TkB74dcfE) | [HANA](https://open.spotify.com/album/2IEzNwgoTqOdU1ulm3R364) | 3:20 | 2024-07-05 |  |
 | [HANTHAKA](https://open.spotify.com/track/5qFoxl74w8PJnjkr9tEGB3) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [HANTHAKA](https://open.spotify.com/album/72pk8t3PDGDUXyfPXONskX) | 2:34 | 2024-06-11 |  |
 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 | 2024-06-11 |  |

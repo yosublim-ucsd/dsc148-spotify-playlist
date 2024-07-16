@@ -12069,6 +12069,24 @@
     },
     {
       "album": {
+        "name": "The View \u666f\u8272",
+        "url": "https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175439,
+      "name": "The View \u666f\u8272",
+      "url": "https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx"
+    },
+    {
+      "album": {
         "name": "There and Then",
         "url": "https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF"
       },

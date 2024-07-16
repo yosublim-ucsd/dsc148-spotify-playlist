@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Pil C, Luca Brassi10x",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Yzomandias, P T K\n",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 142572,
       "name": "Ex-Opps",
       "url": "https://open.spotify.com/track/4vymz2jIglZLuULsMTHx6v"
@@ -310,6 +310,28 @@
       "duration_ms": 178186,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/7cygxRmLVXDCQWt15xdRXB"
+    },
+    {
+      "album": {
+        "name": "No Sleep Gang / Get Low",
+        "url": "https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6"
     },
     {
       "album": {
@@ -342,7 +364,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -658,6 +680,28 @@
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
+    },
+    {
+      "album": {
+        "name": "No Sleep Gang / Get Low",
+        "url": "https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "No Sleep Gang",
+      "url": "https://open.spotify.com/track/4mVwqx2xCrkDP2vYgh38jG"
     },
     {
       "album": {

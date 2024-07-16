@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: Tshepang Ramoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,664 likes - 73 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,666 likes - 73 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 57 | [TELL ME WHAT THE COST IS](https://open.spotify.com/track/6i9XoASSA4yR8GuRR3FPzB) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [TELL ME WHAT THE COST IS](https://open.spotify.com/album/0hVpAd1caXNVeDfVPOiPrf) | 3:01 |
 | 58 | [Show Me](https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Show Me](https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R) | 2:29 |
 | 59 | [Imali Iyaphela](https://open.spotify.com/track/66K0c10DeEP3O1GhqL1veJ) | [Robin Thirdfloor](https://open.spotify.com/artist/24R1N1mF7GaNn2rcL6hNCh), [Dejot](https://open.spotify.com/artist/6MxbPfU59YKhSMf4UAYbwF) | [Imali Iyaphela](https://open.spotify.com/album/481xxG66MoePOAXYTf9aYa) | 3:18 |
-| 60 | [Absolutley Flawless](https://open.spotify.com/track/6bCQemKOoLGAs34kasSQke) | [Angel\-Ho](https://open.spotify.com/artist/39TepozBC9n9EZrCL6jYpS) | [STAIN](https://open.spotify.com/album/0adY7o9S6oZpjo0U950aPG) | 3:56 |
+| 60 | [Absolutley Flawless](https://open.spotify.com/track/6bCQemKOoLGAs34kasSQke) | [Ange Madame](https://open.spotify.com/artist/4BipMgruXUMQVpCvozvMkI) | [STAIN](https://open.spotify.com/album/0adY7o9S6oZpjo0U950aPG) | 3:56 |
 | 61 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 62 | [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 |
 | 63 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |

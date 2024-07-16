@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11115,
+  "num_followers": 11126,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "First Signs Of Me",
+        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 174366,
       "name": "Swing",
       "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "First Signs Of Me",
-        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "WASTELINE",
-        "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
-      },
-      "artists": [
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 164680,
-      "name": "WASTELINE",
-      "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "Supa Sigh",
         "url": "https://open.spotify.com/album/0Ozr5RbURs53qS2LPBq3eS"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 212506,
       "name": "Supa Sigh",
       "url": "https://open.spotify.com/track/6mESvUo6c4KILTSt0tv7Em"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "WASTELINE",
+        "url": "https://open.spotify.com/album/0VzLyC8Er2QnVwOyGF5ZLX"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 164680,
+      "name": "WASTELINE",
+      "url": "https://open.spotify.com/track/6zwNCNnzNfhC5XEhnG9F7Z"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "On My Life",
-        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 125607,
-      "name": "On My Life",
-      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+      "duration_ms": 237532,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -1063,6 +1067,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "On My Life",
+        "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        }
+      ],
+      "duration_ms": 125607,
+      "name": "On My Life",
+      "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/6xe7n9n6eqrZprj2d8QGNE"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 151578,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
-      },
-      "artists": [
-        {
-          "name": "Fasina",
-          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 237532,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
     },
     {
       "added_at": "2024-06-24 06:54:45",

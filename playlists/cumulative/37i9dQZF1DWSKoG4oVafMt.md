@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-867 songs - 1 day 23 hr 7 min
+868 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
 | [Ishq Mohobbat](https://open.spotify.com/track/32ubUB7dKjWQ3lWdOtE2mk) | [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Ishq Mohobbat](https://open.spotify.com/album/2bd82pzDZ9Vb8bLF6bpMoK) | 2:36 | 2024-04-05 | 2024-06-01 |
 | [Ishqan De Rog](https://open.spotify.com/track/3pDxUzAOLnmjxUum5PcTip) | [Deep Chambal](https://open.spotify.com/artist/3urpfjeiggQzlhbXFylaB0) | [Ishqan De Rog](https://open.spotify.com/album/537pV5ckO6gHzSYjgpKGmA) | 2:54 | 2023-12-01 |  |
-| [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2023-04-19 |  |
+| [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2023-04-19 | 2024-07-16 |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
 | [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 | 2022-12-10 |
 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 | 2023-09-02 |
@@ -660,6 +660,7 @@
 | [Safar](https://open.spotify.com/track/57XxjBWEg4bU5nnW5WCSBG) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Safar](https://open.spotify.com/album/0eRGaOgxvCt9kr9yWoyhuL) | 3:17 | 2024-01-24 |  |
 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 | 2022-03-11 |
 | [Saiyaan](https://open.spotify.com/track/6QgW1YysLYl1kZJo3AdAIB) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Saiyaan](https://open.spotify.com/album/0Diu3K0PxRPqNH5qTMcdcl) | 2:55 | 2021-12-02 | 2022-02-01 |
+| [Sajjan](https://open.spotify.com/track/1jSPgMA62zILv48lzdiWDt) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kulwinder Kally](https://open.spotify.com/artist/37KRE7ZFMJoWuYIvtnOe1k) | [Sajjan](https://open.spotify.com/album/6wIEMHmLoloPFDpVUYDpEZ) | 3:01 | 2024-07-15 |  |
 | [Sajjna Ve Sajjna](https://open.spotify.com/track/4bgzuGzDwPhcSF2EdMgLC3) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Yuvika Chaudary](https://open.spotify.com/artist/3e3LG7qmfc6MuNb7cnQqrV) | [Sajjna Ve Sajjna](https://open.spotify.com/album/177O8i5y5Exarm3nan0Bta) | 2:39 | 2022-04-15 | 2022-07-06 |
 | [Sajna](https://open.spotify.com/track/6Px3kJxZiQzGe9hU5twvy2) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Sajna](https://open.spotify.com/album/3l2xpQwu7pgc5ic1GyR1PG) | 3:25 | 2022-11-21 | 2022-12-16 |
 | [SAJNA](https://open.spotify.com/track/5UNSEO2M2ARiRZUHkZa1MX) | [Poojan Kohli](https://open.spotify.com/artist/6VQy77NaASzZZ7ZvvsEfOn) | [SAJNA](https://open.spotify.com/album/3m7rx2rYRg1VKshZZkxxfT) | 3:38 | 2022-07-08 | 2022-08-18 |

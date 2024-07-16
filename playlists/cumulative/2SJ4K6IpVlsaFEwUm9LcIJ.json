@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Tauhid",
+        "url": "https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw"
+    },
+    {
+      "album": {
         "name": "When It Was Done",
         "url": "https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF"
       },
@@ -2382,6 +2400,24 @@
       "duration_ms": 263893,
       "name": "My Head Falls Softly",
       "url": "https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78"
+    },
+    {
+      "album": {
+        "name": "Neurovision (Remastered)",
+        "url": "https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck"
+      },
+      "artists": [
+        {
+          "name": "Telex",
+          "url": "https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261885,
+      "name": "My Time - 2023 Remaster",
+      "url": "https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7"
     },
     {
       "album": {

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta rockia Suomesta\. Kannessa JP Leppäluoto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,838 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,841 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mitä meistä jää](https://open.spotify.com/track/2eyWzMUQASQysU9DzGQ9aS) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Mitä meistä jää](https://open.spotify.com/album/3fcNKRnfUEftW3irGCyLdL) | 2:58 |
 | 2 | [10 Hyvää](https://open.spotify.com/track/4r2oF2dZLUjnXoS1hUH1L8) | [Mikko Herranen](https://open.spotify.com/artist/6AQrndwcFAGXfoiAdgCxXb) | [10 Hyvää](https://open.spotify.com/album/4HnFts5tn8GwW0rfGxLvbl) | 3:20 |
 | 3 | [Kompassi](https://open.spotify.com/track/0cUXDElEWqQ87agmCdQGjS) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Kompassi](https://open.spotify.com/album/13xUxVE7xv8mr0jZenEeEN) | 3:37 |
-| 4 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
-| 5 | [Outolintu](https://open.spotify.com/track/0RwL7fseRYhLYcptly0MZr) | [Kauko Röyhkä](https://open.spotify.com/artist/4AjjQiXKLCvflYtcCo0FLz) | [Outolintu](https://open.spotify.com/album/5xWI980SOhsh135p3bcc3m) | 3:47 |
-| 6 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 |
+| 4 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 |
+| 5 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 |
+| 6 | [Outolintu](https://open.spotify.com/track/0RwL7fseRYhLYcptly0MZr) | [Kauko Röyhkä](https://open.spotify.com/artist/4AjjQiXKLCvflYtcCo0FLz) | [Outolintu](https://open.spotify.com/album/5xWI980SOhsh135p3bcc3m) | 3:47 |
 | 7 | [Ding dong](https://open.spotify.com/track/60qkcfklWUSHnr7ZfPXD4m) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Ding dong](https://open.spotify.com/album/3p2cjEjYOxj5lo7wc99FVi) | 3:44 |
 | 8 | [Annoit mut pois](https://open.spotify.com/track/61iH69pKz3vcHLyvOFC7HE) | [Joosua](https://open.spotify.com/artist/4s4bwc0ixsFFUNvnN80wGZ) | [Annoit mut pois](https://open.spotify.com/album/3wEr0BI1ltgy3CxTrqRf3i) | 3:32 |
 | 9 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 68 | [Jatkan matkaa](https://open.spotify.com/track/0os9TLERlmn5h1QFFbfyEC) | [Valontuojat](https://open.spotify.com/artist/27ErkSOWbcCKKFIyU4NnQr) | [Jatkan matkaa](https://open.spotify.com/album/1ywU5JGbLEOpmL1sa80KGf) | 3:14 |
 | 69 | [Kun kukaan ei huomaa](https://open.spotify.com/track/7o5cMmqHuxgErNxn12ROCc) | [Rakas Paheeni](https://open.spotify.com/artist/0K3ne1iuunHgCOAML6yOnz) | [Kun kukaan ei huomaa](https://open.spotify.com/album/03oSV0SZ4PnPzxlJeIqKCg) | 3:46 |
 
-Snapshot ID: `ZpBIDAAAAAAbtanriT1B5/szSdRx41CK`
+Snapshot ID: `ZpTjkAAAAABW8Jf0F0neAnWYA5SAIKzt`

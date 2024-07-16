@@ -1,6 +1,6 @@
 {
   "description": "Escute Yasmin Santos e mais mulheres no volume m\u00e1ximo! Co-curadoria com Yasmin Santos",
-  "num_followers": 182971,
+  "num_followers": 182987,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "A Paix\u00e3o Tem Mem\u00f3ria",
+        "url": "https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 264706,
+      "name": "A Loba",
+      "url": "https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "liga\u00e7\u00f5es de alma",
         "url": "https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 179725,
       "name": "liga\u00e7\u00f5es de alma",
       "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "A Paix\u00e3o Tem Mem\u00f3ria",
-        "url": "https://open.spotify.com/album/0RHOy2yMiGSIctpV7ediQl"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "A Loba",
-      "url": "https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz"
     },
     {
       "added_at": "2024-07-10 03:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2024-07-10 03:00:00",
       "album": {
+        "name": "Lanca Perfume E Outras Manias",
+        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Desculpe O Au\u00ea",
+      "url": "https://open.spotify.com/track/089k2n6Nv9nmdKymBhspCi"
+    },
+    {
+      "added_at": "2024-07-10 03:00:00",
+      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
-    },
-    {
-      "added_at": "2024-07-10 03:00:00",
-      "album": {
-        "name": "Lanca Perfume E Outras Manias",
-        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Desculpe O Au\u00ea",
-      "url": "https://open.spotify.com/track/089k2n6Nv9nmdKymBhspCi"
     },
     {
       "added_at": "2024-07-10 03:00:00",

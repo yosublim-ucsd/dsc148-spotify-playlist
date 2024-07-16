@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAADBNTiaRgY9N7yWnvbMsgGR",
+  "snapshot_id": "ZpMVAAAAAAClCyixA1l4ZbJOMJcd85ZT",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 78533,
       "name": "Ezra And Mom",
       "url": "https://open.spotify.com/track/5mJfDjDPOedjotdx5W5NsR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hacks: Season 1 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 124424,
-      "name": "Young Deb When She Was Happy",
-      "url": "https://open.spotify.com/track/2VMMFfvVst1NTkjCSX63cD"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

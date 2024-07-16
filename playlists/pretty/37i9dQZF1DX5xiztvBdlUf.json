@@ -1,6 +1,6 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 637882,
+  "num_followers": 637998,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Be Here and Now",
-        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209699,
-      "name": "Be Here and Now",
-      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Be Here and Now",
+        "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209699,
+      "name": "Be Here and Now",
+      "url": "https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Whiter Shade of Pale",
         "url": "https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 163189,
       "name": "Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Clifton 4th",
-        "url": "https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz"
-      },
-      "artists": [
-        {
-          "name": "Markus Gardeweg",
-          "url": "https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu"
-        }
-      ],
-      "duration_ms": 147076,
-      "name": "Clifton 4th",
-      "url": "https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Lost Generation",
         "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Clifton 4th",
+        "url": "https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz"
+      },
+      "artists": [
+        {
+          "name": "Markus Gardeweg",
+          "url": "https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu"
+        }
+      ],
+      "duration_ms": 147076,
+      "name": "Clifton 4th",
+      "url": "https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "10 Years From Now / Collide",
-        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
-      },
-      "artists": [
-        {
-          "name": "PARIS",
-          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
-        },
-        {
-          "name": "Kaleida",
-          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
-        }
-      ],
-      "duration_ms": 275369,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Blue Memory",
         "url": "https://open.spotify.com/album/3W7zqo21XMUIiVXEaLyTBT"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 346971,
       "name": "Blue Memory",
       "url": "https://open.spotify.com/track/2Ltq1zC9Z4tWUr0GBNU8qS"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "10 Years From Now / Collide",
+        "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
+      },
+      "artists": [
+        {
+          "name": "PARIS",
+          "url": "https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N"
+        },
+        {
+          "name": "Kaleida",
+          "url": "https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX"
+        }
+      ],
+      "duration_ms": 275369,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Malmedy",
-        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
+        "name": "Er Lebt In Dir",
+        "url": "https://open.spotify.com/album/3lwlroHnT8LigqrLqyOCBa"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
         }
       ],
-      "duration_ms": 342813,
-      "name": "Malmedy",
-      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
+      "duration_ms": 156250,
+      "name": "Er Lebt In Dir",
+      "url": "https://open.spotify.com/track/5jCSuJCwhqGFbbHsSOF8o7"
     }
   ],
   "unique_name": "Deep House Blend",

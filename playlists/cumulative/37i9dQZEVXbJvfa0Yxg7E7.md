@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,744 songs - 3 day 19 hr 3 min
+1,745 songs - 3 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Av Og På](https://open.spotify.com/track/7voweTvrC3jXyw4dZVpNii) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Av Og På](https://open.spotify.com/album/2TBQe5kdJDL3pQ9wSUEmcJ) | 2:13 | 2022-02-05 | 2022-02-12 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-19 | 2022-12-02 |
 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 | 2022-09-18 | 2022-09-25 |
-| [baby](https://open.spotify.com/track/0Crp2H6SCmv5ZomBW3Kqae) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [baby](https://open.spotify.com/album/4qoGKNSazyc7sPavUG3uQ6) | 3:14 | 2024-05-04 |  |
+| [baby](https://open.spotify.com/track/0Crp2H6SCmv5ZomBW3Kqae) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [baby](https://open.spotify.com/album/4qoGKNSazyc7sPavUG3uQ6) | 3:14 | 2024-05-04 | 2024-07-16 |
 | [Baby](https://open.spotify.com/track/5sQ7zJ8JAy2dDuJJ6Bgq6U) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Baby](https://open.spotify.com/album/30UpSPTI7CDPcdcYPurOaE) | 2:28 | 2023-06-17 | 2023-06-22 |
 | [Baby boss](https://open.spotify.com/track/44lxrAkA7YqDynu96QPCfW) | [Cezinando](https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z) | [Samtidig](https://open.spotify.com/album/00GjrSPb4ewzykgmV39MzH) | 2:09 | 2022-05-28 | 2022-05-30 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-08 | 2023-10-07 |
@@ -1120,6 +1120,7 @@
 | [Night In Oslo](https://open.spotify.com/track/4XnMxCBN6BQw6eUFXwUwKb) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Night In Oslo](https://open.spotify.com/album/1oHyduyQgux6OrDUpSFdTU) | 2:30 | 2023-01-16 | 2023-02-05 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-12 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-06 |
+| [No Gps](https://open.spotify.com/track/6l6Wp79T9WV2zBSym1Vtck) | [Nitro Blaze](https://open.spotify.com/artist/4za4PWNREtvIacdnHfnvrR) | [Beulah Land](https://open.spotify.com/album/60jsEZ7b8XzcaiZi1TJgCi) | 3:25 | 2024-07-15 |  |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-07 | 2022-05-12 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-10 | 2023-01-02 |
 | [Norge I Rødt Hvitt Og Blått](https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt) | [Lars\-Erik Larsson](https://open.spotify.com/artist/7fFoO8E3rLkTJBItdhAwCy), [Arild Feldborg](https://open.spotify.com/artist/751C9BQ0VdWdtVeC0bADSf), [Finn Bø](https://open.spotify.com/artist/4lkMhKErNMyZ9Sarx6n6O5), [Gardemusikken](https://open.spotify.com/artist/7gyEHWG7bLlW2ZCPeIr1fE) | [Norwegian Colours](https://open.spotify.com/album/4kj5swQwMcPO94P5t4seP9) | 2:28 | 2021-05-19 | 2024-05-20 |

@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "nocturnal summer & road to isabelle",
+        "url": "https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu"
+      },
+      "artists": [
+        {
+          "name": "forever day",
+          "url": "https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157968,
+      "name": "nocturnal summer",
+      "url": "https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7k5UzofOULX7bkeCfgR5lK"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Islandeer
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,711 likes - 111 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,713 likes - 111 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 R6
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,411 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,448 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 25 | [née\-nah](https://open.spotify.com/track/6TdFkofgTvN0WfnWFmh4a6) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [née\-nah](https://open.spotify.com/album/4rdRRSa0PSQca066SdtsWT) | 3:40 |
 | 26 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/3KEMjT3QVfKIl4E9DIcrmF) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/6mpTzL80F11TaeU79loRyJ) | 3:11 |
 | 27 | [Il pleut à Paris](https://open.spotify.com/track/441auDLfimQNr0e1yz0KDU) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:27 |
-| 28 | [Automotivo Solitude](https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [DJ DUCK](https://open.spotify.com/artist/6IARCys83hSamwkFJYAdj4) | [Automotivo Solitude](https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k) | 2:01 |
-| 29 | [My Dad's Gone Crazy](https://open.spotify.com/track/3F14hbIqy1JKKLTb1mzdYV) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Hailie Jade](https://open.spotify.com/artist/4BmYRs3xOI8V1WCPDfxhQo) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:27 |
+| 28 | [My Dad's Gone Crazy](https://open.spotify.com/track/3F14hbIqy1JKKLTb1mzdYV) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Hailie Jade](https://open.spotify.com/artist/4BmYRs3xOI8V1WCPDfxhQo) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:27 |
+| 29 | [Automotivo Solitude](https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [DJ DUCK](https://open.spotify.com/artist/6IARCys83hSamwkFJYAdj4) | [Automotivo Solitude](https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k) | 2:01 |
 | 30 | [La Seleçao](https://open.spotify.com/track/2vd2HEhrkafOi2uveHjzzh) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Capo Dei Capi Vol\. II & III](https://open.spotify.com/album/7kJKHavjE6pFQ7koiwykFG) | 3:17 |
 | 31 | [Noite Fria](https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Noite Fria](https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni) | 2:40 |
 | 32 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 |

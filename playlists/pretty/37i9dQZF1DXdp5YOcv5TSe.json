@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 R6",
-  "num_followers": 70411,
+  "num_followers": 70448,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-07-03 07:52:33",
       "album": {
-        "name": "Automotivo Solitude",
-        "url": "https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k"
-      },
-      "artists": [
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "DJ DUCK",
-          "url": "https://open.spotify.com/artist/6IARCys83hSamwkFJYAdj4"
-        }
-      ],
-      "duration_ms": 121860,
-      "name": "Automotivo Solitude",
-      "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
-    },
-    {
-      "added_at": "2024-07-03 07:52:33",
-      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 267013,
       "name": "My Dad's Gone Crazy",
       "url": "https://open.spotify.com/track/3F14hbIqy1JKKLTb1mzdYV"
+    },
+    {
+      "added_at": "2024-07-03 07:52:33",
+      "album": {
+        "name": "Automotivo Solitude",
+        "url": "https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k"
+      },
+      "artists": [
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "DJ DUCK",
+          "url": "https://open.spotify.com/artist/6IARCys83hSamwkFJYAdj4"
+        }
+      ],
+      "duration_ms": 121860,
+      "name": "Automotivo Solitude",
+      "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
     },
     {
       "added_at": "2024-07-03 07:52:33",

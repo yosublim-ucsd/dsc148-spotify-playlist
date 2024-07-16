@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/7smcyWmMxpr2nqnefrh792.md) - [plain]
 | 43 | [Crucified](https://open.spotify.com/track/5TzujOwXTA6XdN17mo8wpk) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:25 |
 | 44 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
 
-Snapshot ID: `AAADBHqouZZIWSt6t9MxZ21qAJ0XyGKA`
+Snapshot ID: `AAADBrEiyo7P/WXt6KiZ9U+V3UF3O3By`

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,643 songs - 4 day 16 hr 50 min
+1,644 songs - 4 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [All That Glitters](https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI) | [Midnight Sky](https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP) | [Future Disco: Poolside Sounds Vol\. 10](https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6) | 3:48 | 2022-07-01 | 2022-07-29 |
 | [All The Lights](https://open.spotify.com/track/0RIO40zfxrCZVcxv6uGwPJ) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [All The Lights](https://open.spotify.com/album/1Pg3pPTxzuEVfO2vwmtr0G) | 4:02 | 2022-09-09 | 2022-12-06 |
 | [All The Roads](https://open.spotify.com/track/4HOs9Y9Zk6EJqJc1vura70) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [ND Catani](https://open.spotify.com/artist/5wufVJUfv37Hgj1y9C3k9K) | [All The Roads](https://open.spotify.com/album/0GOAO2rdb3egDmhNHCOnqN) | 3:42 | 2021-09-21 | 2021-10-02 |
+| [All We Ever Do](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [All We Ever Do](https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV) | 3:15 | 2024-07-12 |  |
 | [All Your Days](https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [All Your Days](https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt) | 4:35 | 2020-03-17 | 2020-10-09 |
 | [All Your Love](https://open.spotify.com/track/2oHwD3ipoRTMNgHuZn6qdV) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [All Your Love](https://open.spotify.com/album/6Bg2MeHWdET3UX29orbiym) | 4:45 | 2022-07-01 | 2022-10-13 |
 | [All Your Love](https://open.spotify.com/track/7vebS6s97IPqq8U7z4cu1B) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [All Your Love](https://open.spotify.com/album/04sCYyuHlShD4uEiaPh94V) | 4:45 | 2020-03-16 | 2022-04-21 |
@@ -757,7 +758,7 @@
 | [It's Ok It's Alright](https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [It's Ok It's Alright](https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h) | 4:03 | 2024-02-09 |  |
 | [It's Strange \(feat\. K.Flay\) \- Melvv Remix](https://open.spotify.com/track/2VUKwQ5wovKeCLf0gQUttH) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [It's Strange \(feat\. K.Flay\) \[Remixes\]](https://open.spotify.com/album/0q1iCP7zlNEHcTIvovdCKj) | 3:38 | 2020-05-18 | 2020-07-03 |
 | [Ivy](https://open.spotify.com/track/05fOOZZ8M2RVlHAUSwj1l5) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 2:23 | 2021-10-01 | 2022-12-02 |
-| [iwaly](https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [iwaly](https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC) | 3:21 | 2024-04-05 |  |
+| [iwaly](https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [iwaly](https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC) | 3:21 | 2024-04-05 | 2024-07-16 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-10 | 2024-06-22 |
 | [Japan \- Satin Jackets Remix](https://open.spotify.com/track/4H33DONRzLH1dfbCXoFgbq) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Japan \(Satin Jackets Remix\)](https://open.spotify.com/album/2T986R8R8ftbIEKIs1WWv1) | 3:57 | 2020-11-13 | 2022-07-29 |
 | [Jetty](https://open.spotify.com/track/71CRvX5TW0CsiCxGZ00IfA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 3:53 | 2020-03-20 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > THE BOX MEDLEY FUNK 2 e os funks mais 🔑 do Brasil\. Foto: Mc Brinquedo, MC Cebezinho, MC Tuto, Mc Laranjinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,323,233 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,323,796 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

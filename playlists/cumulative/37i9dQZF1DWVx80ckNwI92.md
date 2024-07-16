@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['00 Nostalgia](https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [Andrę Wolff](https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85) | [Mango Juice & Bad Decisions](https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL) | 2:41 | 2023-03-30 | 2023-06-27 |
-| [Absolutley Flawless](https://open.spotify.com/track/6bCQemKOoLGAs34kasSQke) | [Angel\-Ho](https://open.spotify.com/artist/39TepozBC9n9EZrCL6jYpS) | [STAIN](https://open.spotify.com/album/0adY7o9S6oZpjo0U950aPG) | 3:56 | 2024-04-25 |  |
+| [Absolutley Flawless](https://open.spotify.com/track/6bCQemKOoLGAs34kasSQke) | [Ange Madame](https://open.spotify.com/artist/4BipMgruXUMQVpCvozvMkI) | [STAIN](https://open.spotify.com/album/0adY7o9S6oZpjo0U950aPG) | 3:56 | 2024-04-25 |  |
 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 | 2023-07-07 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:57 | 2023-03-30 | 2023-05-12 |
 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 | 2023-07-07 |  |

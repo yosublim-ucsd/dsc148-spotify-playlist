@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Carbonne
 
-2,671 songs - 5 day 22 hr 11 min
+2,672 songs - 5 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2144,7 +2144,7 @@
 | [Salut](https://open.spotify.com/track/4EyfIVuLKqAKkQ1ANgC5O1) | [Tom Chicoine](https://open.spotify.com/artist/2AFmNRNeW4gaF0E0fro7QG) | [Salut](https://open.spotify.com/album/6tx2IQpeyb4uZZBHHExOeq) | 3:31 | 2023-01-20 | 2023-01-28 |
 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 | 2024-03-22 | 2024-06-15 |
 | [Salut m'man](https://open.spotify.com/track/0LKcrAbd79yQTSpQBcax5t) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 3:15 | 2022-02-25 | 2022-03-12 |
-| [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-07-12 |  |
+| [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-07-12 | 2024-07-16 |
 | [Sandwich aux tomates](https://open.spotify.com/track/7mxUcpsSjIuTSjiTUGFWEa) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Sandwich aux tomates](https://open.spotify.com/album/0uLti1mVXePKunYyzE2OH3) | 2:45 | 2023-04-21 | 2023-04-29 |
 | [Sandy](https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Sandy](https://open.spotify.com/album/7xplnZSEdsGyiOU2QBQXzi) | 2:45 | 2023-08-18 | 2023-09-17 |
 | [Sans chevaux](https://open.spotify.com/track/7JpH5xbeuCINtcAGudGkLi) | [Anique Granger](https://open.spotify.com/artist/04KkLThEnQyAfCB2hkFdK9) | [Sans chevaux](https://open.spotify.com/album/3CTcUg5hCRyS722rViNpvv) | 3:39 | 2022-04-15 | 2022-04-23 |
@@ -2421,6 +2421,7 @@
 | [Tout se paie](https://open.spotify.com/track/56D6llVPRYVYit9SEUy6Qq) | [Buzzy Bwoy](https://open.spotify.com/artist/4uHPcSf5IvvY1gfKIA1RjQ), [Jibré](https://open.spotify.com/artist/1jgNLo5tXcEYpSbwIVqWlK) | [Tout se paie](https://open.spotify.com/album/10WfFGFS4ZKz3bYId0rWpX) | 3:43 | 2023-01-20 | 2023-01-28 |
 | [Tout va bien](https://open.spotify.com/track/4iW2fvVd5p1DmjvBRUITxo) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs) | [Tout va bien](https://open.spotify.com/album/5QLBWINtANCgkD8sy34Hgt) | 6:17 | 2023-02-03 | 2023-02-18 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-20 | 2022-06-04 |
+| [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 | 2024-07-12 |  |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-02-03 | 2023-02-18 |
 | [Toutes les filles sont belles](https://open.spotify.com/track/1ZliLkP38q7adhN8UdMGHX) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Toutes les filles sont belles](https://open.spotify.com/album/4kNKsBAE1sWjUbf4jarGVV) | 3:29 | 2022-07-22 | 2022-08-20 |

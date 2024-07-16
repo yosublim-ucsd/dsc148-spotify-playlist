@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Jude York
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,551 likes - 24 songs - 1 hr 7 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,552 likes - 27 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,8 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 22 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 |
 | 23 | [F\#CK THE DJ](https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [F\#CK THE DJ](https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC) | 2:25 |
 | 24 | [Rock Da House](https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Rock Da House](https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB) | 2:27 |
+| 25 | [Hurt Me Now](https://open.spotify.com/track/5VcerLp7EuVSEG092Xc5Qf) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Hurt Me Now](https://open.spotify.com/album/2Q1Zc46l5pDtHWZhbPJHTY) | 2:29 |
+| 26 | [Love](https://open.spotify.com/track/04aCkDB3YtAdqA45rLXkUT) | [Mazro](https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7), [Belami](https://open.spotify.com/artist/0f6de5eTnB43IvDNU4us6s) | [Love](https://open.spotify.com/album/5DLR9wkAjJjVanWEoRyNSP) | 2:37 |
+| 27 | [Polvito](https://open.spotify.com/track/7eqoRSVevSWWhw437jt8l2) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Nano the DJ](https://open.spotify.com/artist/6NVb0deCyWyTK5arv4hqIr), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Polvito](https://open.spotify.com/album/6kAxRV8Fq3wVya05pagXsb) | 2:42 |
 
-Snapshot ID: `AAAqzeBfFjv5ayndilv2QFwizV+9eDnS`
+Snapshot ID: `AAAq0OFXa8898qBxzjokfD5ge6ZH+Jke`

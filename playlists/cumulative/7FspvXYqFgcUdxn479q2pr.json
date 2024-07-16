@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Hurt Me Now",
+        "url": "https://open.spotify.com/album/2Q1Zc46l5pDtHWZhbPJHTY"
+      },
+      "artists": [
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149523,
+      "name": "Hurt Me Now",
+      "url": "https://open.spotify.com/track/5VcerLp7EuVSEG092Xc5Qf"
+    },
+    {
+      "album": {
         "name": "I Got To Move",
         "url": "https://open.spotify.com/album/6ni5No6JAyiCgLwWWrloeb"
       },
@@ -1950,6 +1972,28 @@
       "duration_ms": 165937,
       "name": "Lotus (PAROOKAVILLE Anthem 2024) - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/6RtN4kwFFScEgQbARaYli5"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5DLR9wkAjJjVanWEoRyNSP"
+      },
+      "artists": [
+        {
+          "name": "Mazro",
+          "url": "https://open.spotify.com/artist/3MB0qmKdbLc7JCbcE2TWX7"
+        },
+        {
+          "name": "Belami",
+          "url": "https://open.spotify.com/artist/0f6de5eTnB43IvDNU4us6s"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/04aCkDB3YtAdqA45rLXkUT"
     },
     {
       "album": {
@@ -2530,6 +2574,32 @@
       "duration_ms": 155238,
       "name": "Permission",
       "url": "https://open.spotify.com/track/1aKASOozYerKL6WwYtqqbj"
+    },
+    {
+      "album": {
+        "name": "Polvito",
+        "url": "https://open.spotify.com/album/6kAxRV8Fq3wVya05pagXsb"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Nano the DJ",
+          "url": "https://open.spotify.com/artist/6NVb0deCyWyTK5arv4hqIr"
+        },
+        {
+          "name": "PRIMO",
+          "url": "https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "Polvito",
+      "url": "https://open.spotify.com/track/7eqoRSVevSWWhw437jt8l2"
     },
     {
       "album": {

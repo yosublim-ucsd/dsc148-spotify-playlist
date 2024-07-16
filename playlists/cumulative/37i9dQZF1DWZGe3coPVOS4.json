@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 167714,
       "name": "abc",
       "url": "https://open.spotify.com/track/0QzUsAQRKzzDWXffugmOja"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 192008,
       "name": "About That Time",
       "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 200076,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0ny7P1jlyZXkvvsSfE3cTe"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 134148,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 183710,
       "name": "Avenir",
       "url": "https://open.spotify.com/track/7kiw6jUjDX1jMLFzk7iLUd"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 199401,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 209747,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/0KBLV0XabLg7nlrhro86EZ"
@@ -412,10 +412,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 176404,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176404,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY"
     },
     {
       "album": {
@@ -448,7 +466,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 138895,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/6o23AeNrj2mfYAkuEcyz2B"
@@ -491,6 +509,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183463,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/69X59XTjCG6qqJG0KUQNaO"
+    },
+    {
+      "album": {
         "name": "Feather",
         "url": "https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6"
       },
@@ -502,7 +538,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 184212,
       "name": "Feather",
       "url": "https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 181412,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 151444,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/7u9Uawj6rqRofLnwqZAIVf"
@@ -664,7 +700,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 186085,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4wtMlbWmelUHUR0KI36w8C"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 180709,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9"
@@ -736,7 +772,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 184945,
       "name": "I Wrote A Song",
       "url": "https://open.spotify.com/track/11VcpT6pAf1DDqnDEvqZdt"
@@ -772,7 +808,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 206873,
       "name": "Is It Over Now?",
       "url": "https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 187080,
       "name": "KIDZ BOP Shuffle",
       "url": "https://open.spotify.com/track/6hN5PPmt4wtsQAucSyny5t"
@@ -808,7 +844,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 146233,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
@@ -826,7 +862,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 155307,
       "name": "La V\u00edctima",
       "url": "https://open.spotify.com/track/6Omf4raSatl9G1iYrSYYwp"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 146282,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/7pD34DzbJMKhdZaYmBA3MR"
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 171878,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0hcOdt4JO5H5Y9SbTzvLuy"
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 170243,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1m51a4loj9dnJXxtfo3owt"
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 186566,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/4AC1jOph59b5NS5ZTIq3K0"
@@ -1085,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83313,
+      "name": "Not My Fault",
+      "url": "https://open.spotify.com/track/4WDqDsYVuUJxWNRVosvuqf"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
@@ -1100,6 +1154,24 @@
       "duration_ms": 110853,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223103,
+      "name": "On My Love",
+      "url": "https://open.spotify.com/track/30n5DvInhiaeSQKvovJEln"
     },
     {
       "album": {
@@ -1132,7 +1204,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 180596,
       "name": "Part Of Your World",
       "url": "https://open.spotify.com/track/1CJPgxgocqsMojhp1oELbZ"
@@ -1186,7 +1258,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 160340,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV"
@@ -1211,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "KIDZ BOP 2024 Vol. 2",
+        "url": "https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186182,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/5tH5wbM79FUZEDoPYOna41"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP 2021",
         "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
@@ -1222,7 +1312,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 170239,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh"
@@ -1240,7 +1330,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 184114,
       "name": "Seven",
       "url": "https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB"
@@ -1276,7 +1366,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 184961,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/1wAzzLKnVwLdkFLnKt3QyX"
@@ -1366,7 +1456,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 150902,
       "name": "Sure Thing - Sped Up Version",
       "url": "https://open.spotify.com/track/4Ru4657V9SSJz1ZAsUxDR2"
@@ -1384,7 +1474,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 175737,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vZ4wU5lqTuDw1ieuCxvEp"
@@ -1438,7 +1528,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 167384,
       "name": "TQG",
       "url": "https://open.spotify.com/track/5rpsAg6usB6NepA846O9K1"
@@ -1456,7 +1546,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 191859,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm"
@@ -1582,7 +1672,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 203767,
       "name": "We're Taking Over - Dance Remix",
       "url": "https://open.spotify.com/track/0ORhF7uMVltT5g2Bj7aSwk"

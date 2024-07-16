@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 22654,
+  "num_followers": 22657,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAADPbb2461nG/NVsKFq2wdcP",
+  "snapshot_id": "ZpMVAAAAAAAZxaEfZnRSm654dU0/j2BV",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "No Meio de uma Tempestade",
-      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
         "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 372800,
       "name": "Tempo de Cura",
       "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "No Meio de uma Tempestade",
+      "url": "https://open.spotify.com/track/4Lhq875qzPTy88JevznrQX"
     },
     {
       "added_at": null,

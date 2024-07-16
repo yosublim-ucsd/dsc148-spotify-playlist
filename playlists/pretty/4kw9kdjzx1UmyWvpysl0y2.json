@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125901,
+  "num_followers": 125898,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASsdOBlz65VqzcR05BZwFm/g6MFeqV",
+  "snapshot_id": "AAASs8pmKneaEwDohsOJdwjMCDkfbxCH",
   "tracks": [
+    {
+      "added_at": "2024-07-15 15:09:15",
+      "album": {
+        "name": "Hardcore Riddim",
+        "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        }
+      ],
+      "duration_ms": 249228,
+      "name": "Hardcore Riddim",
+      "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
+    },
     {
       "added_at": "2024-07-12 05:33:02",
       "album": {
@@ -1123,54 +1143,6 @@
       "duration_ms": 200275,
       "name": "Feral",
       "url": "https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP"
-    },
-    {
-      "added_at": "2024-04-25 14:11:35",
-      "album": {
-        "name": "Know Me Better",
-        "url": "https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u"
-      },
-      "artists": [
-        {
-          "name": "Vikkstar",
-          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        },
-        {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
-        }
-      ],
-      "duration_ms": 176148,
-      "name": "Know Me Better",
-      "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
-    },
-    {
-      "added_at": "2024-04-24 13:50:33",
-      "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/59hq4Ta7AkKuhQquOi4JTZ"
-      },
-      "artists": [
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        },
-        {
-          "name": "ROY KNOX",
-          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
-        },
-        {
-          "name": "Skyelle",
-          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
-        }
-      ],
-      "duration_ms": 215862,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/5uk6ghqCN4wYDeHIQSNAFS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien parhaat uutuudet\. Kannessa Figaro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,661 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,667 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ensimmäinen](https://open.spotify.com/track/50tcwQjG65UpG70enZidJl) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Ensimmäinen](https://open.spotify.com/album/4Gc4tQY56HWjTYdeKz7UwS) | 3:29 |
 | 2 | [Boys Cry](https://open.spotify.com/track/0H2YPnO2AAsuGFJyI4Uvte) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Boys Cry](https://open.spotify.com/album/5KvkQnJBrs9CoXbGosmpic) | 3:36 |
-| 3 | [Kiviä ja laivoja](https://open.spotify.com/track/3navhyUDpBPcKtUjBrwV46) | [ITE EEROLA](https://open.spotify.com/artist/3lJlwFjhgze1oPi0C1BFh7) | [Linnut / Kiviä ja laivoja](https://open.spotify.com/album/47X4XQZUUEwEYOdmQn854A) | 4:44 |
+| 3 | [\(You Wouldn't\) So I Don't](https://open.spotify.com/track/7iiWL2YS2jEG0vjJHQ01jB) | [Ingrid Alaina](https://open.spotify.com/artist/0eL3qlry7fIu26GJZA7QeP) | [\(You Wouldn't\) So I Don't](https://open.spotify.com/album/4YRnjcQi6fvjTRVrM9mP6M) | 3:05 |
 | 4 | [Ordinary Joys](https://open.spotify.com/track/5TavRtXaX57zPZvhTj46Uh) | [The Wildflower Collective](https://open.spotify.com/artist/2SRjc4zwhu0A7P4dtZcPUu) | [Ordinary Joys](https://open.spotify.com/album/1xt8yeG0rX1SRRE5JzbHBS) | 3:48 |
-| 5 | [Love Can Carry Me](https://open.spotify.com/track/4V2EGUP2UEimHjlzKAr576) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Lemon n Lime Sours](https://open.spotify.com/album/5i3NyC8Mfz9KHS7MF50arq) | 4:00 |
-| 6 | [Pihapuu](https://open.spotify.com/track/0Ai8b9Sw1T5TLSO2hh5t08) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Pihapuu](https://open.spotify.com/album/1A9LE7lRVg4R4ML6hn1t00) | 3:18 |
-| 7 | [Huutaa](https://open.spotify.com/track/5ilFX9I6QFUCYsJrqyH5Vn) | [BLONDI](https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b) | [Huutaa](https://open.spotify.com/album/61hJmEdF0eBKh5u8sS8Ljh) | 3:04 |
-| 8 | [Täysikuu](https://open.spotify.com/track/6yhBy1W2r7Lb9KcVshoYnI) | [Elina Madetoja](https://open.spotify.com/artist/2jSZD3mH5kWWTZnnAyV78p) | [Täysikuu](https://open.spotify.com/album/5SGI50Rptox31ycGoZLsla) | 3:17 |
-| 9 | [Uusi vuodenaika](https://open.spotify.com/track/3wm9mAU0Q7GqWzubelT5EZ) | [Piltonen & Jalvela](https://open.spotify.com/artist/3xxulgS7HMP56ARMVcedyH) | [Uusi vuodenaika](https://open.spotify.com/album/6Qlcb4InammB5wKV0FH6AQ) | 4:11 |
-| 10 | [Quiver](https://open.spotify.com/track/6GYzpsRxtWxfrAd1LLFQE5) | [Nightrain Express](https://open.spotify.com/artist/7s0j3YY0FWaLCB6U0PNV6n) | [Quiver](https://open.spotify.com/album/62HN0UvwrwHinScgx3DafZ) | 4:50 |
-| 11 | [Kiinalainen vesikidutus](https://open.spotify.com/track/2czSgbtUgrCL9QtRslkJIu) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Kiinalainen vesikidutus](https://open.spotify.com/album/1NVloyTGtDq1S8Uc5IlexP) | 4:02 |
-| 12 | [\(You Wouldn't\) So I Don't](https://open.spotify.com/track/7iiWL2YS2jEG0vjJHQ01jB) | [Ingrid Alaina](https://open.spotify.com/artist/0eL3qlry7fIu26GJZA7QeP) | [\(You Wouldn't\) So I Don't](https://open.spotify.com/album/4YRnjcQi6fvjTRVrM9mP6M) | 3:05 |
+| 5 | [Kiviä ja laivoja](https://open.spotify.com/track/3navhyUDpBPcKtUjBrwV46) | [ITE EEROLA](https://open.spotify.com/artist/3lJlwFjhgze1oPi0C1BFh7) | [Linnut / Kiviä ja laivoja](https://open.spotify.com/album/47X4XQZUUEwEYOdmQn854A) | 4:44 |
+| 6 | [Love Can Carry Me](https://open.spotify.com/track/4V2EGUP2UEimHjlzKAr576) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Lemon n Lime Sours](https://open.spotify.com/album/5i3NyC8Mfz9KHS7MF50arq) | 4:00 |
+| 7 | [Pihapuu](https://open.spotify.com/track/0Ai8b9Sw1T5TLSO2hh5t08) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Pihapuu](https://open.spotify.com/album/1A9LE7lRVg4R4ML6hn1t00) | 3:18 |
+| 8 | [Huutaa](https://open.spotify.com/track/5ilFX9I6QFUCYsJrqyH5Vn) | [BLONDI](https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b) | [Huutaa](https://open.spotify.com/album/61hJmEdF0eBKh5u8sS8Ljh) | 3:04 |
+| 9 | [Täysikuu](https://open.spotify.com/track/6yhBy1W2r7Lb9KcVshoYnI) | [Elina Madetoja](https://open.spotify.com/artist/2jSZD3mH5kWWTZnnAyV78p) | [Täysikuu](https://open.spotify.com/album/5SGI50Rptox31ycGoZLsla) | 3:17 |
+| 10 | [Uusi vuodenaika](https://open.spotify.com/track/3wm9mAU0Q7GqWzubelT5EZ) | [Piltonen & Jalvela](https://open.spotify.com/artist/3xxulgS7HMP56ARMVcedyH) | [Uusi vuodenaika](https://open.spotify.com/album/6Qlcb4InammB5wKV0FH6AQ) | 4:11 |
+| 11 | [Quiver](https://open.spotify.com/track/6GYzpsRxtWxfrAd1LLFQE5) | [Nightrain Express](https://open.spotify.com/artist/7s0j3YY0FWaLCB6U0PNV6n) | [Quiver](https://open.spotify.com/album/62HN0UvwrwHinScgx3DafZ) | 4:50 |
+| 12 | [Kiinalainen vesikidutus](https://open.spotify.com/track/2czSgbtUgrCL9QtRslkJIu) | [Janeveera](https://open.spotify.com/artist/3sFdVn4olCxJnN7geK95jg) | [Kiinalainen vesikidutus](https://open.spotify.com/album/1NVloyTGtDq1S8Uc5IlexP) | 4:02 |
 | 13 | [Muurahainen](https://open.spotify.com/track/3awvOQjFwKi0NdpGBOLNvT) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a) | [Muurahainen](https://open.spotify.com/album/2t4T4d4mnk9fhXw2gX9NJA) | 3:12 |
 | 14 | [Unelmasta unelmaan](https://open.spotify.com/track/1ZzIYaAOhbt7qS68AXcbda) | [Lapsihymy](https://open.spotify.com/artist/1Gn0UpjfPnnsCuCMn20GHk) | [Unelmasta unelmaan](https://open.spotify.com/album/4JRIBuiJzL4ZeqiES3rSnI) | 6:38 |
 | 15 | [5AM](https://open.spotify.com/track/6DVO1YMYhnGVzMhGJ6YTYj) | [Folks](https://open.spotify.com/artist/3CvmHRkZZFXMZEiC1QvoXb) | [5AM](https://open.spotify.com/album/50BDfvJzk82bU01qEjy02Q) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [As If I Lived A Different Life](https://open.spotify.com/track/1yA1NgKLcS1mfLjfuN3w28) | [KAMA Kollektiv](https://open.spotify.com/artist/3I4iu93DAk5YWtDDG1wSex), [Kirsi\-Marja Harju](https://open.spotify.com/artist/4IPnFXXMagNYoVflftPoqG), [Jonathan Nagel](https://open.spotify.com/artist/74R2vk1HfBnxKqrjlW2fCB), [Ida Alanen](https://open.spotify.com/artist/1uoE9dQR10MV4nLojgUqsC), [Joe Korach](https://open.spotify.com/artist/1n3Ortwv01F4eXkw9ZWRMS) | [As If I Lived A Different Life](https://open.spotify.com/album/49qxVcekKTZfb1ysMCaZkh) | 6:24 |
 | 80 | [Suru](https://open.spotify.com/track/3kusljHYlIVPZfxyGiGcAu) | [Katri O](https://open.spotify.com/artist/1sTkp2XHuNufsVG0I8EHG2) | [SURU](https://open.spotify.com/album/1RqKZ2zRAJb92MMeyA3rjr) | 2:57 |
 
-Snapshot ID: `ZpBIDAAAAAAM3tMWfjvBbNRXI4bGW8Ss`
+Snapshot ID: `ZpTjIQAAAACTTogWIrhsytPv8hQBML+x`

@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "i hate people",
+        "url": "https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx"
+      },
+      "artists": [
+        {
+          "name": "jaydes",
+          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91730,
+      "name": "i hate people",
+      "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
+    },
+    {
+      "album": {
         "name": "I should've listened to my friends",
         "url": "https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO"
       },
@@ -6554,7 +6572,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 222172,
       "name": "Yo Homo",
       "url": "https://open.spotify.com/track/0VsjCGFUsf5EydQvlIg0k4"

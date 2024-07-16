@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Big Jet Plane (Acoustic)",
+        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Big Jet Plane - Acoustic",
+      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
+    },
+    {
+      "album": {
         "name": "BLACK PARADE",
         "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
       },

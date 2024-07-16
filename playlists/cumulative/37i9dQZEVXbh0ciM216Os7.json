@@ -9872,7 +9872,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 222502,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5U7jEnlwRG0C8Z1pKMvKpd"
@@ -15880,6 +15880,28 @@
       "duration_ms": 217500,
       "name": "Lace It (with Eminem & benny blanco)",
       "url": "https://open.spotify.com/track/0hitTdEb4YohfxjOhdcIMi"
+    },
+    {
+      "album": {
+        "name": "Damn Daniel",
+        "url": "https://open.spotify.com/album/4hKelZgetW69oeejVsJh6C"
+      },
+      "artists": [
+        {
+          "name": "DanielBadeaTV",
+          "url": "https://open.spotify.com/artist/7oY5aVgPka3wkrI9dKAqoy"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190899,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/5yPkN7zDHG6n2njMWGimiB"
     },
     {
       "album": {

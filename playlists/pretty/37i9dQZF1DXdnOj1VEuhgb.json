@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Khontkar\n",
-  "num_followers": 1355716,
+  "num_followers": 1355905,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBH0AAAAAA3AQ+EhhUmKVK0U0plMaQB",
+  "snapshot_id": "ZpTpSwAAAAAxRz2nbELDx9sQzOduDO6Q",
   "tracks": [
     {
       "added_at": "2024-07-11 21:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "ESC*BAR",
+        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 136039,
+      "name": "ESC*BAR",
+      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "behzat \u00e7",
+        "url": "https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "duration_ms": 126834,
+      "name": "behzat \u00e7",
+      "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -59,22 +95,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "ESC*BAR",
-        "url": "https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 136039,
-      "name": "ESC*BAR",
-      "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "Maytap",
         "url": "https://open.spotify.com/album/2ZlM5KbWVZMHHvIcyUSF44"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 170428,
       "name": "Maytap",
       "url": "https://open.spotify.com/track/0L2gNsg2fWJ0dhmcM8xLBD"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "behzat \u00e7",
-        "url": "https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        }
-      ],
-      "duration_ms": 126834,
-      "name": "behzat \u00e7",
-      "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
-        "name": "Cebimde bi\u015fe var!?",
-        "url": "https://open.spotify.com/album/7pnSMItAVeUqh7VQubQqEl"
-      },
-      "artists": [
-        {
-          "name": "Saian",
-          "url": "https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi"
-        },
-        {
-          "name": "Patron",
-          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
-        }
-      ],
-      "duration_ms": 156951,
-      "name": "Cebimde bi\u015fe var!?",
-      "url": "https://open.spotify.com/track/6ROdzOWcYalJwb1e4IwKGG"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
         "name": "7EDI",
         "url": "https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 179733,
       "name": "Shoote Shoote",
       "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
+        "name": "Cebimde bi\u015fe var!?",
+        "url": "https://open.spotify.com/album/7pnSMItAVeUqh7VQubQqEl"
+      },
+      "artists": [
+        {
+          "name": "Saian",
+          "url": "https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi"
+        },
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "duration_ms": 156951,
+      "name": "Cebimde bi\u015fe var!?",
+      "url": "https://open.spotify.com/track/6ROdzOWcYalJwb1e4IwKGG"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -375,22 +375,6 @@
       "duration_ms": 178064,
       "name": "aq",
       "url": "https://open.spotify.com/track/5WTB4eCwPDq1ROngONtHph"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "Bizim Araba",
-        "url": "https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT"
-      },
-      "artists": [
-        {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
-        }
-      ],
-      "duration_ms": 131031,
-      "name": "Bizim Araba",
-      "url": "https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj"
     },
     {
       "added_at": "2024-07-11 21:00:00",
@@ -571,6 +555,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
+        "name": "Bizim Araba",
+        "url": "https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "duration_ms": 131031,
+      "name": "Bizim Araba",
+      "url": "https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
         "name": "taycan v1",
         "url": "https://open.spotify.com/album/4FNyPHSqsqmgMdc6s9Fv1W"
       },
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-11 21:00:00",
       "album": {
+        "name": "Kalbim Yan\u0131mda",
+        "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Kalbim Yan\u0131mda",
+      "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
+    },
+    {
+      "added_at": "2024-07-11 21:00:00",
+      "album": {
         "name": "JET BABA",
         "url": "https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 155500,
       "name": "Sokakta Stres",
       "url": "https://open.spotify.com/track/5UNtKrrLFnvX1rCfdjaZGb"
-    },
-    {
-      "added_at": "2024-07-11 21:00:00",
-      "album": {
-        "name": "Kalbim Yan\u0131mda",
-        "url": "https://open.spotify.com/album/7pGOdUPRuS3sMFo03YBl4o"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Kalbim Yan\u0131mda",
-      "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
     },
     {
       "added_at": "2024-07-11 21:00:00",

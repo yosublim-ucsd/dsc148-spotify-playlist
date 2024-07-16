@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Zen en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,703 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,704 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tanto Desinterés](https://open.spotify.com/track/3VzZ1SNaQ1s513nqQ4lyh4) | [Zen](https://open.spotify.com/artist/2sEmBklSbXkHge8Bx8zQzF) | [Tanto Desinterés](https://open.spotify.com/album/1TvoN32tc6yGqv5yCpU0rI) | 3:15 |
 | 2 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 |
 | 3 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
-| 4 | [Carroñeros](https://open.spotify.com/track/5oLYaER3SiprE8r5pc2feM) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Pulpul](https://open.spotify.com/artist/4W0hBPNHRP2ryMCEI0X4A2) | [Corona de espinas](https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS) | 2:42 |
+| 4 | [Carroñeros](https://open.spotify.com/track/5oLYaER3SiprE8r5pc2feM) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Pulpul](https://open.spotify.com/artist/4W0hBPNHRP2ryMCEI0X4A2) | [Corona de espinas](https://open.spotify.com/album/7a0OPrgyDJVQmlvYKwKkCS) | 2:42 |
 | 5 | [TRAUMADOS](https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 3:35 |
 | 6 | [Universal \- Demo 1992](https://open.spotify.com/track/5teViZyiBVZyU42XNqBnFa) | [Lagartija Nick](https://open.spotify.com/artist/6Ipe0i7N3mneCjxpkNifri), [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Inercia \(Demos y Rarezas\)](https://open.spotify.com/album/5WpRz1VfLY9hSciRjuPfk4) | 3:01 |
 | 7 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |

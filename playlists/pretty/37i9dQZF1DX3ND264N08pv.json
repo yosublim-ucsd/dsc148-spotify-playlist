@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73708,
+  "num_followers": 73718,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
+        "name": "U Will Be Mine",
+        "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
+      },
+      "artists": [
+        {
+          "name": "Hysta",
+          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
+        },
+        {
+          "name": "Radium",
+          "url": "https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "U Will Be Mine",
+      "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
         "name": "Coco's Revenge (Mind Compressor Remix)",
         "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
-        "name": "U Will Be Mine",
-        "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
-      },
-      "artists": [
-        {
-          "name": "Hysta",
-          "url": "https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O"
-        },
-        {
-          "name": "Radium",
-          "url": "https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "U Will Be Mine",
-      "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
     },
     {
       "added_at": "2024-07-12 08:09:29",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "Gremlins",
-        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
-      },
-      "artists": [
-        {
-          "name": "F. Noize",
-          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
-        },
-        {
-          "name": "S-KILL",
-          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Gremlins",
-      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -1215,22 +1195,22 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+        "name": "Gremlins",
+        "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
       },
       "artists": [
         {
-          "name": "Alpha Lion",
-          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
         },
         {
-          "name": "Desolate One",
-          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+          "name": "S-KILL",
+          "url": "https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq"
         }
       ],
-      "duration_ms": 160909,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
+      "duration_ms": 217142,
+      "name": "Gremlins",
+      "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
     },
     {
       "added_at": "2024-07-12 08:09:29",
@@ -1251,6 +1231,26 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+      },
+      "artists": [
+        {
+          "name": "Alpha Lion",
+          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+        },
+        {
+          "name": "Desolate One",
+          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
     },
     {
       "added_at": "2024-07-12 08:09:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "The Oni Retribution",
-        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
-      },
-      "artists": [
-        {
-          "name": "Nosferatu",
-          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
-        }
-      ],
-      "duration_ms": 265900,
-      "name": "The Oni Retribution",
-      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
+        "name": "The Oni Retribution",
+        "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
+      },
+      "artists": [
+        {
+          "name": "Nosferatu",
+          "url": "https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY"
+        }
+      ],
+      "duration_ms": 265900,
+      "name": "The Oni Retribution",
+      "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
     },
     {
       "added_at": "2024-07-12 08:09:29",

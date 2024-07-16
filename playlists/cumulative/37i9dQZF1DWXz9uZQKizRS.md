@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Kwiat Jabłoni
 
-128 songs - 7 hr 5 min
+128 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Hide a Lion](https://open.spotify.com/track/5lEgfZ17Vlha5k66Zlwu5u) | [Hidel Eye](https://open.spotify.com/artist/3p7SOpsF37g2ry8QOdf45R) | [Hide a Lie](https://open.spotify.com/album/0G1kJkQPPs7DAJovQ7xp20) | 2:52 | 2024-07-11 |  |
 | [Justyna](https://open.spotify.com/track/05nA1oNbpiUPUhhdBiyMBf) | [Älskar](https://open.spotify.com/artist/3IowoyLkVgVaXx2pF8KQeP) | [Justyna](https://open.spotify.com/album/63r49NfUMLUxUbH6XZvKgX) | 2:59 | 2024-06-27 |  |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-27 |  |
-| [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:00 | 2024-07-11 |  |
+| [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:25 | 2024-07-11 |  |
 | [Kochaj](https://open.spotify.com/track/7aAEuW4L2NxVW1jwMrmbb8) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Kochaj](https://open.spotify.com/album/4gPWVCDNWEz6JTZU6ZwOah) | 3:22 | 2024-06-27 |  |
 | [Koniec świata!](https://open.spotify.com/track/6OFzetS1Lu4lOBPLCKCapa) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [Koniec świata!](https://open.spotify.com/album/42hgHe9Ow0CSTLi7lhd1Md) | 2:34 | 2024-06-27 | 2024-07-12 |
 | [Kosmos](https://open.spotify.com/track/4w7gUp41Q2QpudY88FLB9K) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Kosmos](https://open.spotify.com/album/0LTabfkCAKxFHn4rNyUxlQ) | 3:11 | 2024-06-27 |  |

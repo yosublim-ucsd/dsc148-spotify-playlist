@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover:Windwaker
 
-950 songs - 2 day 11 hr 6 min
+952 songs - 2 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Better Before](https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [TROPO](https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO) | 3:39 | 2024-03-08 | 2024-04-19 |
 | [Better Off Dead](https://open.spotify.com/track/3NsHDwkHdOZhhxNNBospuX) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Better Off Dead](https://open.spotify.com/album/1fGacap0mcrhWlaUG75GMe) | 3:35 | 2022-04-22 | 2022-06-24 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-23 |
+| [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 | 2024-07-12 |  |
 | [bioMACHiNA](https://open.spotify.com/track/3v7V1aN6K6GcMTMqiQBZvX) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/1FG5jVKV1MgWLSIUa2msk1) | 2:37 | 2022-02-11 | 2022-03-12 |
 | [Birth of the Butcher](https://open.spotify.com/track/7vsIRXXqtHBFbEhcd9lwtB) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Birth of the Butcher](https://open.spotify.com/album/4Zvc0dmE82sOd9sg4RDZc7) | 4:46 | 2022-07-13 | 2022-07-23 |
 | [Bite](https://open.spotify.com/track/365grxI8WwDhxJjATgww6x) | [Releasing the Waves](https://open.spotify.com/artist/5A4v8rwF0FJ63WN6qYZb0W) | [Bite](https://open.spotify.com/album/1VMN2NrnFunYKfBPDBFg75) | 3:11 | 2024-03-27 | 2024-05-11 |
@@ -469,7 +470,7 @@
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2022-07-13 | 2022-07-20 |
 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 | 2024-06-10 |  |
 | [Isolated](https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Isolated](https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz) | 3:41 | 2022-05-20 | 2022-07-23 |
-| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 |  |
+| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 | 2024-07-16 |
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 | 2024-05-11 |
 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-05 | 2024-04-19 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-07-23 |
@@ -511,7 +512,7 @@
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Lilac](https://open.spotify.com/track/6qevKIIxFnwZuhk93LZ1BX) | [Monasteries](https://open.spotify.com/artist/2EaeVm1MjlVtsUV0ebT0vB) | [Lilac](https://open.spotify.com/album/2cpSxn3vfj4aRwbI7XaLdC) | 4:03 | 2022-07-13 | 2022-07-15 |
-| [Limitless](https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO) | 3:28 | 2023-11-27 |  |
+| [Limitless](https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO) | 3:28 | 2023-11-27 | 2024-07-16 |
 | [Little Light](https://open.spotify.com/track/5cemE29LCUtsLtg0a18kK2) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [In the Balance](https://open.spotify.com/album/6uHaWH6DIPK4weWssYgoHv) | 3:03 | 2021-12-17 | 2022-01-22 |
 | [Lockdown](https://open.spotify.com/track/1sRlEiwjCS0swVrNVnPNd0) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Lockdown](https://open.spotify.com/album/0S1HfNJJZeAQfLywooIxpT) | 3:41 | 2024-02-09 | 2024-06-05 |
 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 | 2022-01-28 | 2022-05-06 |
@@ -916,6 +917,7 @@
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-07-28 | 2023-09-16 |
+| [Warrior Souls](https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Bask in the Blood of Our Demons \- EP](https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO) | 3:05 | 2024-07-12 |  |
 | [Wash It Away](https://open.spotify.com/track/6IMtQCeUaVg4K6pyk3LyBi) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Wash It Away](https://open.spotify.com/album/4WNRKcQakjSUvjbw9lVF7c) | 3:34 | 2024-02-09 | 2024-07-13 |
 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 | 2023-03-10 | 2023-11-28 |
 | [Watch Me Burn](https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Watch Me Burn](https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A) | 3:38 | 2023-03-17 | 2023-09-16 |

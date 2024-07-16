@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 23315,
+  "num_followers": 23325,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpOtfgAAAABsKKIcpsk5PlMJ2+bMCyjH",
+  "snapshot_id": "ZpTj0gAAAADPnoV6S2T5kl/oJEnLOpzK",
   "tracks": [
     {
       "added_at": "2024-07-14 10:50:25",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn"
     },
     {
+      "added_at": "2024-06-25 12:06:05",
+      "album": {
+        "name": "Nange Allava",
+        "url": "https://open.spotify.com/album/7Df20vW0rqUdevLUmLykjJ"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 223953,
+      "name": "Nange Allava",
+      "url": "https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j"
+    },
+    {
       "added_at": "2024-07-12 10:33:09",
       "album": {
         "name": "Tomar Aamar Golpo(From \"Manikbabur Megh\")",
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/4EtuaGPxmNuvSifmeXPL86"
     },
     {
-      "added_at": "2024-06-25 12:06:05",
-      "album": {
-        "name": "Nange Allava",
-        "url": "https://open.spotify.com/album/7Df20vW0rqUdevLUmLykjJ"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 223953,
-      "name": "Nange Allava",
-      "url": "https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j"
-    },
-    {
       "added_at": "2024-07-08 09:25:07",
       "album": {
         "name": "Shakkar",
@@ -95,6 +95,22 @@
       "duration_ms": 295135,
       "name": "Shakkarpari",
       "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
+    },
+    {
+      "added_at": "2024-07-15 08:54:42",
+      "album": {
+        "name": "Haaru Nee Gari Bichi",
+        "url": "https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL"
+      },
+      "artists": [
+        {
+          "name": "Annapurna Chalageri",
+          "url": "https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q"
+        }
+      ],
+      "duration_ms": 217940,
+      "name": "Haaru Nee Gari Bichi",
+      "url": "https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV"
     },
     {
       "added_at": "2024-07-11 09:56:13",
@@ -1303,34 +1319,6 @@
       "duration_ms": 257387,
       "name": "Ninnindha shuru",
       "url": "https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2"
-    },
-    {
-      "added_at": "2024-03-14 12:21:16",
-      "album": {
-        "name": "Bhayavagide",
-        "url": "https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR"
-      },
-      "artists": [
-        {
-          "name": "Arfaz Ullal",
-          "url": "https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH"
-        },
-        {
-          "name": "Manu Rao",
-          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
-        },
-        {
-          "name": "Paluz45",
-          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
-        },
-        {
-          "name": "Sinchana Gowda",
-          "url": "https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp"
-        }
-      ],
-      "duration_ms": 247207,
-      "name": "Bhayavagide",
-      "url": "https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh"
     },
     {
       "added_at": "2024-03-08 20:30:34",

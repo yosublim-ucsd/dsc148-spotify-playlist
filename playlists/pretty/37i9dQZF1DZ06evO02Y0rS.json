@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 157837,
+  "num_followers": 157862,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAAAfGRTsIpUsQ5vjOfpCWhSG",
+  "snapshot_id": "ZpMVAAAAAAC1DNmAlAZDr9DNjMrLFzgG",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loom",
+        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Loom (feat. Bonobo)",
+      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -343,22 +363,6 @@
       "duration_ms": 259839,
       "name": "We Could Forever",
       "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sands Remixed",
-        "url": "https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 260124,
-      "name": "Ghost Ship",
-      "url": "https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5"
     },
     {
       "added_at": null,
@@ -403,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sands Remixed",
+        "url": "https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 260124,
+      "name": "Ghost Ship",
+      "url": "https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -415,22 +435,6 @@
       "duration_ms": 78266,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/4cwDC2Yk2zqOp6NMX6v750"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "Change Down",
-      "url": "https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh"
     },
     {
       "added_at": null,
@@ -451,6 +455,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "Change Down",
+      "url": "https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh"
     },
     {
       "added_at": null,
@@ -491,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 322373,
-      "name": "Noctuary",
-      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragments",
         "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
@@ -519,6 +523,22 @@
       "duration_ms": 182293,
       "name": "Elysian",
       "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 322373,
+      "name": "Noctuary",
+      "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
     },
     {
       "added_at": null,
@@ -555,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 71253,
-      "name": "Something for Windy",
-      "url": "https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -583,6 +587,22 @@
       "duration_ms": 306666,
       "name": "Recurring",
       "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 71253,
+      "name": "Something for Windy",
+      "url": "https://open.spotify.com/track/48ppHBSOoD5Iz1gV3pjfOC"
     },
     {
       "added_at": null,
@@ -623,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Migration",
-      "url": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -655,6 +659,22 @@
       "duration_ms": 274893,
       "name": "Walk In The Sky",
       "url": "https://open.spotify.com/track/3fsQsL36PH1G8mn68lsFRK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Migration",
+      "url": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x"
     },
     {
       "added_at": null,
@@ -691,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 276573,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/0oBV4QAfY26kcYqRLRv5ST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": null,

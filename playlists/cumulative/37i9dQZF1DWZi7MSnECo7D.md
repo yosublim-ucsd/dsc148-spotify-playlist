@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Jambu
 
-642 songs - 1 day 12 hr 27 min
+643 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Corrida!](https://open.spotify.com/track/7dn7kstmJzGEIWKvDG1ZqC) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Corrida!](https://open.spotify.com/album/6TCoYx5VpAID8Sz7GnUB7A) | 5:07 | 2024-05-10 |  |
 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 | 2022-03-25 | 2022-04-29 |
 | [Curitiba](https://open.spotify.com/track/2OokguhlbXzig1WIE5uwFC) | [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Curitiba](https://open.spotify.com/album/3GhOL3XNVeLFL8kQw6mBTe) | 3:13 | 2024-02-23 |  |
+| [Cuéntame](https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi) | [Gracinha](https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2) | [Corpo Celeste](https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy) | 4:36 | 2024-07-15 |  |
 | [céu](https://open.spotify.com/track/3aS8ZV7rPGLikifySWy3jM) | [JP](https://open.spotify.com/artist/5QctBwCI85nf7VUvrx50qM), [Flávia Carolina](https://open.spotify.com/artist/7z7DhqJCWSflouFGad8FhL) | [em busca do veneno da serpente](https://open.spotify.com/album/7aCXFxP6AviVWVd6mVMXce) | 5:14 | 2023-09-22 | 2024-05-11 |
 | [cê disse que me ama](https://open.spotify.com/track/0ES1WHS9pYIAxHtR5EhkV2) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ) | [cê disse que me ama](https://open.spotify.com/album/4hc5JdVbwXs2cPmYsm2Yz9) | 2:35 | 2023-07-07 | 2023-11-18 |
 | [Cê me viu ontem](https://open.spotify.com/track/6Iprd2vrpBI06WoN73BMVO) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Cê me viu ontem](https://open.spotify.com/album/5oVdbLtt5DHqphA3xevV6N) | 3:08 | 2022-01-14 | 2022-06-04 |

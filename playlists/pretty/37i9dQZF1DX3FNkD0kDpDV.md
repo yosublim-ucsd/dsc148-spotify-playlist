@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > <a href="spotify:user:31coqoicovg7m5ugwuaoty2ls5ia">Hï Ibiza</a> presents the best club sounds of 2024 with their exclusive takeover\. Join us on a musical journey through the \#1 Club in the World with house, techno and more from their A\-list roster of world\-class residents.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,931 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,035 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

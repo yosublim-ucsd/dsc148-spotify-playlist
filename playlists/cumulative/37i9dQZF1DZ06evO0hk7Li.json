@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "This Is Jacob Banks. Los temas esenciales, todos en una lista.",
+  "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
   "name": "This Is Jacob Banks",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 249413,
       "name": "Aim for My Head",
       "url": "https://open.spotify.com/track/4QAQ3JRAFcBm0zrX3oREX4"
+    },
+    {
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Aim For My Head",
+      "url": "https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj"
     },
     {
       "album": {
@@ -500,7 +518,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 216000,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 162076,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 211875,
       "name": "What Do You Love",
       "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"

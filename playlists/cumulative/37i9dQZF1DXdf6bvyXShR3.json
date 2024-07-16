@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 241780,
       "name": "Fade Into Black (Acoustic Version)",
       "url": "https://open.spotify.com/track/6Dfl3X4P0HqpLauVPNnaq1"
@@ -1426,6 +1426,24 @@
       "duration_ms": 202000,
       "name": "Houdini - Adam Port Mix",
       "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
+    },
+    {
+      "album": {
+        "name": "Hugs",
+        "url": "https://open.spotify.com/album/5oVEYIdACsMpIzurcmcSAU"
+      },
+      "artists": [
+        {
+          "name": "Asif shmueli",
+          "url": "https://open.spotify.com/artist/2YekkzoTicAs8ioaMgtpuO"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Hugs",
+      "url": "https://open.spotify.com/track/1O7YnRiMFgM0wuG5HvZ5Sn"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2024. Cover: Dionela\n",
+  "description": "Discover new artists on the horizon this 2024. Cover: BINI\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -630,6 +630,24 @@
       "duration_ms": 218960,
       "name": "can't get enough",
       "url": "https://open.spotify.com/track/2RmQWlkPigl7R15u7Mm0fr"
+    },
+    {
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175461,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
     },
     {
       "album": {

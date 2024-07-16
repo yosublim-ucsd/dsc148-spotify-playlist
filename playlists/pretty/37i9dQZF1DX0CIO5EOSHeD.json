@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Hovvdy",
-  "num_followers": 496875,
+  "num_followers": 496960,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "you look lovely when you're living",
+        "url": "https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 169707,
+      "name": "we never made it to glasgow",
+      "url": "https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "you look lovely when you're living",
-        "url": "https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 169707,
-      "name": "we never made it to glasgow",
-      "url": "https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Accelerator",
-        "url": "https://open.spotify.com/album/0ulti0MXCGlxytdAzSIXWh"
+        "name": "KPR",
+        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
       },
       "artists": [
         {
-          "name": "HighSchool",
-          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 244223,
-      "name": "Heaven's Gate",
-      "url": "https://open.spotify.com/track/4oPtJ8eELKpuWLIumcOJre"
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
     }
   ],
   "unique_name": "Lofi Indie",

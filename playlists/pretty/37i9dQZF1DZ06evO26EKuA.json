@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 424859,
+  "num_followers": 424954,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAADkzXaC5LpMbAtKpBuG1zXj",
+  "snapshot_id": "ZpMVAAAAAAC3+6MbT7EHRIJI3NGfu+J9",
   "tracks": [
     {
       "added_at": null,
@@ -503,42 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vale Por Siempre",
-        "url": "https://open.spotify.com/album/52ZgXPa5ge0JIMKKXz42QN"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "La Tambora Va A Sonar",
-      "url": "https://open.spotify.com/track/1cp26SwLH6r7mPFvT4KmDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -835,6 +799,38 @@
       "duration_ms": 172933,
       "name": "Amor Que Muere - En Vivo Desde Delfos, Guadalajara/2002",
       "url": "https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "La Banda Borracha",
+      "url": "https://open.spotify.com/track/55NX1m4flj7cqK2JnLyXQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui"
     }
   ],
   "unique_name": "This Is Valent\u00edn Elizalde",

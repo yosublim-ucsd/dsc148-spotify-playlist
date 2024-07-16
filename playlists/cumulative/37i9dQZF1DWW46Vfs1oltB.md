@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: The Quiett\(더 콰이엇\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: The Quiett\)
 
-1,270 songs - 2 day 20 hr 53 min
+1,272 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [GENERATION\(Prod\. Lean$moke\)](https://open.spotify.com/track/55ZNU07XDdynQMykHXYglz) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:34 | 2022-12-27 | 2023-01-04 |
 | [GENIUS \(Feat\. CHANGMO\)](https://open.spotify.com/track/4RrFB4tKGUFc37B0AjUPmT) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [EP1 GENIUS](https://open.spotify.com/album/244KZjMMXFQpg2V4QZpZUB) | 3:08 | 2021-12-18 | 2022-07-01 |
 | [genius complex](https://open.spotify.com/track/6LOSm4BBw3mM9jT7zl1utx) | [장지수 \(Sou\)](https://open.spotify.com/artist/1vBvAsATHK80ncSc7f8cUZ) | [have](https://open.spotify.com/album/4POsG1g3nbJ4T46CIUlh3f) | 2:59 | 2023-06-13 | 2023-06-21 |
+| [Get It](https://open.spotify.com/track/7cACJwffFNUIEznL65UOc2) | [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng) | [Free Hukky Shibaseki & the God Sun Symphony Group : Odyssey.1](https://open.spotify.com/album/2oA8sukittptlD7NRqIaop) | 2:50 | 2024-07-16 |  |
 | [Get That Money](https://open.spotify.com/track/6xUr0E0RDz7WNdA4Hn0Myt) | [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Get That Money](https://open.spotify.com/album/5VVe0kiU7ha5ou5lqtb70B) | 3:15 | 2024-02-08 | 2024-03-09 |
 | [gganbu \(Feat\. YUMDDA, ASH ISLAND\) \(Prod\. TOIL\)](https://open.spotify.com/track/4XI5Kdm1zdSFxdIGd9xUVT) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:06 | 2022-01-15 | 2022-04-19 |
 | [Ghost](https://open.spotify.com/track/1RomIFRvHC7GI484Mwpusl) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Ghost](https://open.spotify.com/album/2S26DTyEtqysktNNYLKZCb) | 3:08 | 2024-03-22 | 2024-06-05 |
@@ -1261,6 +1262,7 @@
 | [말도 안 돼 Nonsense](https://open.spotify.com/track/0mrrVsJ5EGGY84ugYzTWbz) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [애브륄레어드바이져리 LovebrûléeADVISORY](https://open.spotify.com/album/4EqrHsknZhGp75bi2lbjkk) | 2:40 | 2023-08-29 | 2023-09-08 |
 | [몽환의 숲 \(feat\. Yiruma\)](https://open.spotify.com/track/3rQRx89A7kGuyXMbE72WCa) | [Kinetic Flow](https://open.spotify.com/artist/3tZO2DzJzKXhH9gx7GDCWv), [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Challenge 4Da Change](https://open.spotify.com/album/6oNrmkWeMZZeRuMxjK4PMT) | 4:04 | 2024-04-05 | 2024-04-12 |
 | [무투](https://open.spotify.com/track/05ofWSJ9EJxM9TqbIK9sM0) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [무투](https://open.spotify.com/album/0ZU9Kci0rojuL570psUv1c) | 3:52 | 2023-01-03 | 2023-01-11 |
+| [미워미워](https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [미워미워](https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP) | 2:17 | 2024-07-16 |  |
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 | 2024-05-03 |
 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-25 |  |
 | [밴 The Banned](https://open.spotify.com/track/773egXyOzWeLTyz9eSbO4H) | [30](https://open.spotify.com/artist/3klG579pH6Pm20yugj7KQ3) | [THE FROST ON YOUR EDGE](https://open.spotify.com/album/3611OvwL52Wwj32NMzVc8e) | 3:13 | 2023-02-19 | 2023-09-08 |

@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 170706,
       "name": "La Venganza",
       "url": "https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv"
@@ -5768,6 +5768,32 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "album": {
+        "name": "Loco Tu Forma De Ser",
+        "url": "https://open.spotify.com/album/5Vz8UHFy3jmKyt5CHI2RYG"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "Loco Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/30vGAyncjru9ifVcFQGAy0"
     },
     {
       "album": {

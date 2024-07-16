@@ -2,7 +2,7 @@
 
 ### [This Is Rod Wave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oiloJ)
 
-> This is Rod Wave\. The essential tracks, all in one playlist.
+> This is Rod Wave\. Todos os maiores hits em uma só playlist.
 
 50 songs - 2 hr 21 min
 

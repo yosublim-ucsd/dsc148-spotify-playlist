@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R?si=yvApwoW3RneZ\_gbwb9R4EA">Buscabulla</a>
 
-989 songs - 2 day 20 hr 4 min
+990 songs - 2 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [Willow, Pine and Oak](https://open.spotify.com/track/7KFN7Y3LkVbHoGL4g4meeA) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/527BUPjoqgyblvo1NL9Te9) | 3:44 | 2023-08-11 | 2023-10-19 |
 | [Wind Unsung](https://open.spotify.com/track/35ytROTewbDuevp1mNmUxM) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Statues II](https://open.spotify.com/album/3kFHbtO7sXrjVlsfDhi8Ah) | 3:29 | 2023-12-06 | 2024-01-25 |
 | [Windsor Safari Park](https://open.spotify.com/track/0sKWl7zap6vW1jZDNnMj6H) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Windsor Safari Park](https://open.spotify.com/album/2cyAfclIauubG2S32DgMRX) | 5:35 | 2024-05-15 | 2024-06-13 |
+| [Wither](https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Wither](https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw) | 4:11 | 2024-07-15 |  |
 | [Wolves \- Mogwai Mix](https://open.spotify.com/track/5rljsyShN8xio8yd5U9hoq) | [Lloyd Cole](https://open.spotify.com/artist/5CXWXFfhDhFN5uzbfUwAKt), [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Wolves Disco and Boogaloo Remixes](https://open.spotify.com/album/6ENtuyfJT3GUdgF4WbaiXY) | 6:32 | 2023-12-13 | 2024-02-01 |
 | [Women & Children](https://open.spotify.com/track/7kEXTNPacq8h5Ox6viq9OZ) | [PARENT TEACHER](https://open.spotify.com/artist/1ZF7sZoCluOISW7vSPrfkY) | [Women & Children EP](https://open.spotify.com/album/26bHYlrCUrj0NmJjJcdwHn) | 2:41 | 2023-12-13 | 2024-02-01 |
 | [Wonder BCN \- Max In The World's Heavenly Spaces Remix](https://open.spotify.com/track/4iRAww8oKilEkIdeiryrKd) | [Ko Yang](https://open.spotify.com/artist/7vXewIIBMRwCWk5Z0DldSv), [Max In The World](https://open.spotify.com/artist/4wrf0d2kdL15JcpmnK5wpd) | [Wonder BCN](https://open.spotify.com/album/7zSWgWbo9qcgwPSOU4kqMS) | 5:17 | 2024-06-12 | 2024-07-11 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 310865,
       "name": "Dumb Guitar",
       "url": "https://open.spotify.com/track/59j5CBgJDsGgLIPfMINMQK"
@@ -382,10 +382,28 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 212733,
       "name": "FONOS",
       "url": "https://open.spotify.com/track/6QZnvAqU8qfyjdMWpSEsxl"
@@ -496,7 +514,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 140747,
       "name": "Gli ostacoli del cuore (Afro Remix) - Remake",
       "url": "https://open.spotify.com/track/0xNXeg0GzkolehD9wyycyY"
@@ -616,6 +634,24 @@
       "duration_ms": 409407,
       "name": "Kai Irthe Pali",
       "url": "https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F"
+    },
+    {
+      "album": {
+        "name": "Kita Mi Mou Figis",
+        "url": "https://open.spotify.com/album/6YfQciIs2phSLHGnPytQf9"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Kita Mi Mou Figis",
+      "url": "https://open.spotify.com/track/5V1E8NEzmKTgWTI0q8CMoP"
     },
     {
       "album": {
@@ -815,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Fthina Tricks 2",
+        "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "Mia Kali Mera",
+      "url": "https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs"
+    },
+    {
+      "album": {
         "name": "Monaxiki Kardia",
         "url": "https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC"
       },
@@ -977,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Out Here Drinking (\u03c0\u03bf\u03cd \u03c0\u03bf\u03cd \u03c0\u03bf\u03cd)",
+        "url": "https://open.spotify.com/album/1VUjsKymUU3jGwLmC8aC1m"
+      },
+      "artists": [
+        {
+          "name": "Juke",
+          "url": "https://open.spotify.com/artist/1EAOtSJNVKF5eHIGLodlpW"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165047,
+      "name": "Out Here Drinking (\u03c0\u03bf\u03cd \u03c0\u03bf\u03cd \u03c0\u03bf\u03cd)",
+      "url": "https://open.spotify.com/track/1qi8IXVsgIYKUg2H67bVXm"
+    },
+    {
+      "album": {
         "name": "Apo To Xthes Sto Simera",
         "url": "https://open.spotify.com/album/6vUV5GCjJGLG37xCdL8StH"
       },
@@ -1050,6 +1122,24 @@
       "duration_ms": 247507,
       "name": "Protimo '24",
       "url": "https://open.spotify.com/track/0KEo9Lb3YhalYfQv7qpKFf"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "album": {
@@ -1235,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
         "name": "Tyxero Asteri",
         "url": "https://open.spotify.com/album/4bhg5GI8NJ13q5iYlHyb9T"
       },
@@ -1254,6 +1366,46 @@
       "duration_ms": 232000,
       "name": "Tyxero Asteri",
       "url": "https://open.spotify.com/track/5AvyefDkaRgDajjqbfN8vv"
+    },
+    {
+      "album": {
+        "name": "1000 Vanilia",
+        "url": "https://open.spotify.com/album/6zsf9IAaxHHE7oZpPvdebU"
+      },
+      "artists": [
+        {
+          "name": "Lefteris Pantazis",
+          "url": "https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q"
+        },
+        {
+          "name": "Master Tempo",
+          "url": "https://open.spotify.com/artist/30zQQlVo7DhPWgFKhrDkcA"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "Tzoutzouka",
+      "url": "https://open.spotify.com/track/4dC4jq7dZqcT6BkdRgbwdo"
+    },
+    {
+      "album": {
+        "name": "Vorias",
+        "url": "https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189622,
+      "name": "Vorias",
+      "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
     },
     {
       "album": {
@@ -1324,7 +1476,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"

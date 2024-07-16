@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Miss Night and Day (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZFm3bbJwr0rgbcG4ZFJW"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uc740\uc9c0",
+          "url": "https://open.spotify.com/artist/37wPSb7DpxIXbvnBWMmBpu"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1b2IjQzK7jW0cKwZSZ4buN"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/6RXIMDjlTC9QFhDI59gqot"
       },

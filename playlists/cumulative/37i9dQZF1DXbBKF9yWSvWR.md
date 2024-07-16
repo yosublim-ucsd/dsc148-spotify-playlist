@@ -4,7 +4,7 @@
 
 > For your daily dosis of music with an Indie twist\. Cover: Chappell Roan
 
-77 songs - 4 hr 23 min
+78 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-24 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 |  |
 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 | 2024-06-24 |  |
-| [All That's Good Comes With Some Risk](https://open.spotify.com/track/6S5KGieDdf1DEEkuU6KAH8) | [Go Fishing!](https://open.spotify.com/artist/1xGjuJkX70b8AnKHOysE7r) | [All That’s Good Comes With Some Risk](https://open.spotify.com/album/45AgkUoy9dPh1ZoC9DQ4bN) | 3:37 | 2024-06-24 |  |
+| [All That's Good Comes With Some Risk](https://open.spotify.com/track/6S5KGieDdf1DEEkuU6KAH8) | [Go Fishing!](https://open.spotify.com/artist/1xGjuJkX70b8AnKHOysE7r) | [All That’s Good Comes With Some Risk](https://open.spotify.com/album/45AgkUoy9dPh1ZoC9DQ4bN) | 3:37 | 2024-06-24 | 2024-07-16 |
 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 | 2024-06-24 | 2024-07-10 |
 | [Ascend to Heaven](https://open.spotify.com/track/6zHSlc8G9xnrueRFYyLGqS) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [The Ascent](https://open.spotify.com/album/40W3nyoiqb0x0OgCPM07aN) | 3:23 | 2024-06-24 |  |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-24 |  |
@@ -23,6 +23,7 @@
 | [Can't Be Alone](https://open.spotify.com/track/1U7DdSB2WU9Y2EtzNIwdur) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Can't Be Alone](https://open.spotify.com/album/6EuFDMjA4Rf4qmOfwsOS7z) | 3:33 | 2024-06-24 | 2024-07-12 |
 | [Caroline \(i should’ve known better\)](https://open.spotify.com/track/6iUWx0rsWeFZoOjl9CMJ62) | [Gos Rosling](https://open.spotify.com/artist/2zJha56ZWbPFutom5jySwf) | [Caroline \(i should’ve known better\)](https://open.spotify.com/album/7akMIKWLQ83YzA6G4DYefd) | 4:07 | 2024-06-24 |  |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-27 |  |
+| [Cinderella](https://open.spotify.com/track/46clCWv55EyW1ZlOl796It) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 4:03 | 2024-07-15 |  |
 | [Dancing in the Dirt](https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Dancing in the Dirt](https://open.spotify.com/album/4nxLC4lq2pNY1wDx2Nztgk) | 3:15 | 2024-06-24 |  |
 | [Dream](https://open.spotify.com/track/5blwj5ReJjdSBbOse9Iyov) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream](https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm) | 3:03 | 2024-06-24 |  |
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-06-24 |  |
@@ -41,7 +42,7 @@
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-06-27 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-24 | 2024-07-05 |
 | [House Down](https://open.spotify.com/track/6qWHMBqB7lQnUfI32GUaWh) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [House Down](https://open.spotify.com/album/2ir3ghqP2yPb1ECCXPjJim) | 3:05 | 2024-06-24 |  |
-| [I Guess I Just Feel Like](https://open.spotify.com/track/2j2Ff4Tl9WNvkeey3ChP7k) | [HEBE](https://open.spotify.com/artist/1MRHpcPa6DxFio08LUpuFJ) | [I Guess I Just Feel Like](https://open.spotify.com/album/7lyKRWnqVdzhj6AXVX9qfV) | 3:06 | 2024-06-24 |  |
+| [I Guess I Just Feel Like](https://open.spotify.com/track/2j2Ff4Tl9WNvkeey3ChP7k) | [HEBE](https://open.spotify.com/artist/1MRHpcPa6DxFio08LUpuFJ) | [I Guess I Just Feel Like](https://open.spotify.com/album/7lyKRWnqVdzhj6AXVX9qfV) | 3:06 | 2024-06-24 | 2024-07-16 |
 | [I Wanna Know](https://open.spotify.com/track/5V8vO1h5HJAcwt1INaK4LA) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [I Wanna Know](https://open.spotify.com/album/4ESDAKoD962Ung9T8UlrbL) | 2:18 | 2024-07-09 |  |
 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 | 2024-06-24 |  |
 | [In My Room](https://open.spotify.com/track/1v8ciwOzwSSaZYDW5jXgEr) | [Giant Julie](https://open.spotify.com/artist/20npHsmynFR5Ty3qJeeIu0) | [In My Room](https://open.spotify.com/album/0kivE1tzHdMBzh1ZmJ6Njt) | 3:49 | 2024-07-09 |  |
@@ -57,7 +58,7 @@
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 |  |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 |  |
 | [Musings](https://open.spotify.com/track/2SOjODF7m0dUSJy8cDpfX5) | [Zooey](https://open.spotify.com/artist/07EFfxrVAjb17yhr2WyYFx) | [Musings](https://open.spotify.com/album/3xzbV6hdvInYHivUSoCza7) | 3:11 | 2024-06-24 |  |
-| [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-06-24 |  |
+| [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-06-24 | 2024-07-16 |
 | [My Love, I'm Only Mad](https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [My Love, I'm Only Mad](https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI) | 2:45 | 2024-06-24 |  |
 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:12 | 2024-06-24 |  |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-24 |  |
@@ -67,7 +68,7 @@
 | [perfume](https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [bluey](https://open.spotify.com/album/19K1kvE8m1DjWPfXOwFCcZ) | 1:42 | 2024-06-24 |  |
 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-07-11 |  |
 | [Ride or Die](https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Ride or Die](https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg) | 3:24 | 2024-06-24 |  |
-| [Sea](https://open.spotify.com/track/1QZTziCtLzrIhARxNkx2sj) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Airship](https://open.spotify.com/album/0sXwmyVeldUXU2ilDCZYMp) | 4:02 | 2024-06-24 |  |
+| [Sea](https://open.spotify.com/track/1QZTziCtLzrIhARxNkx2sj) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Airship](https://open.spotify.com/album/0sXwmyVeldUXU2ilDCZYMp) | 4:02 | 2024-06-24 | 2024-07-16 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-24 |  |
 | [Shape Memory](https://open.spotify.com/track/5kiOXsffpqt6Dnbf1TguC3) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Shape Memory](https://open.spotify.com/album/3UJ5r6rw1CC9lHGbPmFql8) | 3:12 | 2024-06-24 |  |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-06-24 |  |
@@ -76,12 +77,12 @@
 | [talk shit](https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:13 | 2024-06-24 |  |
 | [talking to myself](https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [talking to myself](https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq) | 2:53 | 2024-07-09 |  |
 | [tell the world](https://open.spotify.com/track/28tGCouphDEPmxYTcP34NV) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [tell the world](https://open.spotify.com/album/6yehVVi1Baoif2AFsjmLU4) | 3:47 | 2024-06-24 |  |
-| [Tested Waters](https://open.spotify.com/track/7o6Recoy903QEdEyiJ4v2H) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Tested Waters](https://open.spotify.com/album/6idrwqlyEYykX81SeNtsvd) | 3:38 | 2024-06-24 |  |
+| [Tested Waters](https://open.spotify.com/track/7o6Recoy903QEdEyiJ4v2H) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Tested Waters](https://open.spotify.com/album/6idrwqlyEYykX81SeNtsvd) | 3:38 | 2024-06-24 | 2024-07-16 |
 | [The Antidote](https://open.spotify.com/track/35NzTGWNRrfzrCASih3lNt) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Noon Garden](https://open.spotify.com/artist/3d9ub2Fp7guk9yviKzD8Kc) | [The Antidote](https://open.spotify.com/album/5OFyN36YpQGNKx2Z4hcfHm) | 5:02 | 2024-07-09 |  |
 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 | 2024-06-24 |  |
 | [The Kitchen](https://open.spotify.com/track/3TxntUv4LHjiI14opPtDxv) | [Bex](https://open.spotify.com/artist/36oeUK8c28Osce2qzpOHmi) | [The Kitchen](https://open.spotify.com/album/1kwc8B8ugCKe0GLGuCSF9k) | 3:27 | 2024-06-24 | 2024-07-10 |
 | [The Word Love](https://open.spotify.com/track/0WUb7VbmfMCNB1IICPoUHP) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [The Word Love](https://open.spotify.com/album/4hRb6avbpjaTGRmMEKQHvY) | 2:52 | 2024-06-24 | 2024-07-10 |
-| [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-06-24 |  |
+| [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-06-24 | 2024-07-16 |
 | [tired](https://open.spotify.com/track/7fTN1weFWy0iOSat8nILIs) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [tired](https://open.spotify.com/album/6wjHHTNSRFOGRsmQb2WwiK) | 2:34 | 2024-06-24 |  |
 | [Underground](https://open.spotify.com/track/34NlD5bQB7Z7UgGHiI4lZh) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Underground](https://open.spotify.com/album/36e8yWH5tlOEZ1FP5n6KMI) | 3:04 | 2024-06-24 |  |
 | [Wish I Could](https://open.spotify.com/track/3s4zyagYB9xcolyQCOTY15) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Wish I Could](https://open.spotify.com/album/7ndbNJdFAqyaFKsdP0709m) | 3:29 | 2024-07-09 |  |

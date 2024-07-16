@@ -2,7 +2,7 @@
 
 ### [pov: la tua estate è un film](https://open.spotify.com/playlist/37i9dQZF1DX5gGGog0N2Tu)
 
-> hey swifties, ci vediamo questo weekend a san siro? 🦋🌟👗🧣🏙🐍💘🪩🍷✨🖊️
+> è successo davvero? 🦋🌟👗🧣🏙🐍💘🪩🍷✨🖊️
 
 138 songs - 7 hr 23 min
 

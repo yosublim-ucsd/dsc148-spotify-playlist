@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Astrid",
-  "num_followers": 249261,
+  "num_followers": 249330,
   "original_name": "Ngetren di 2010an",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZocZzwAAAACy34JmiMa7PFvQjbr8mkHO",
+  "snapshot_id": "ZpSeqgAAAAA52c3HcM/qN5Ha4hr122DR",
   "tracks": [
     {
       "added_at": "2024-07-04 21:53:19",
@@ -23,6 +23,22 @@
       "duration_ms": 250000,
       "name": "Mendua",
       "url": "https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG"
+    },
+    {
+      "added_at": "2024-07-15 03:59:38",
+      "album": {
+        "name": "1000 Kisah Satu Hati",
+        "url": "https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA"
+      },
+      "artists": [
+        {
+          "name": "Ungu",
+          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Percaya Padaku",
+      "url": "https://open.spotify.com/track/4rHCqrJt6PJmR899XpDQNQ"
     },
     {
       "added_at": "2024-07-04 21:53:19",

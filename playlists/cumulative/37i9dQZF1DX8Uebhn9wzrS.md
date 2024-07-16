@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,994 songs - 3 day 3 hr 57 min
+1,997 songs - 3 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Always June](https://open.spotify.com/track/56CgYH9CRH62m5qLC3qbB0) | [Reeve](https://open.spotify.com/artist/0OX3FCZUygSczPyekt9Ne3) | [Always June](https://open.spotify.com/album/6ddQFl7CIOw5FIFe6RT1Jg) | 2:18 | 2022-04-15 | 2022-07-15 |
 | [Always On Time](https://open.spotify.com/track/0k2i7sMuEFtFgJoZsaqodx) | [Milo the Cat](https://open.spotify.com/artist/2f9Z69FJqZkUrUdi5zuCK9) | [Always On Time](https://open.spotify.com/album/6G9UyeGZAkvFLs2Sv7a9tH) | 2:31 | 2022-04-15 | 2022-08-12 |
 | [amber lights](https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [amber lights](https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng) | 2:00 | 2024-06-07 |  |
-| [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 |  |
+| [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 | 2024-07-16 |
 | [Amsterdam](https://open.spotify.com/track/5mH8y8JKcR4EFnjE0gptQv) | [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [Lynde](https://open.spotify.com/artist/6TstGTgiRM3jW0LaUeG61d), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Amsterdam](https://open.spotify.com/album/3SPkCiHZqB0ULe0aU133vd) | 1:39 | 2022-07-08 | 2022-12-03 |
 | [Amu](https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Amu](https://open.spotify.com/album/0PSaBFBM7q8GUJ5Vwko1xy) | 2:18 | 2022-10-28 | 2024-07-15 |
 | [amuse or lose](https://open.spotify.com/track/1NL0EdraCNLtTkpNIqi5te) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [amuse or lose](https://open.spotify.com/album/6yrLul2c3ENpLe2vawKVPk) | 2:00 | 2022-10-28 | 2023-04-21 |
@@ -409,6 +409,7 @@
 | [Crystals](https://open.spotify.com/track/224u5HmiQxK7tQLWrFGdrF) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Crystals](https://open.spotify.com/album/2vNj0Ps06Qzx7eOADRP1NC) | 2:07 | 2022-04-15 | 2023-08-18 |
 | [Curious Shadows](https://open.spotify.com/track/2afipVQcYOHwXFxrQdoCZW) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Curious Shadows](https://open.spotify.com/album/3McYyHGMBzbqgZW34lBjrX) | 2:48 | 2022-04-15 | 2022-09-02 |
 | [cycles](https://open.spotify.com/track/622P9VrAjEfQF3DleDe8pn) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [cycles](https://open.spotify.com/album/3oqe5G67xiQ5qOLkDRfwhR) | 2:18 | 2024-02-09 |  |
+| [Dad's Typewriter Feels](https://open.spotify.com/track/5HnINSPgOBtvkLvCdywObE) | [Looper Boy](https://open.spotify.com/artist/1Bs8y3WbVckMAcIBwN1FXV) | [Once Again](https://open.spotify.com/album/2itZuZzqQz9q1Lojz0a6bA) | 2:48 | 2024-07-12 |  |
 | [Dai jobu desu](https://open.spotify.com/track/0swzQPf4GDR6ZCO0UT1lRJ) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Dai jobu desu](https://open.spotify.com/album/5cgSj26aGyk6VZw6m1FB28) | 2:25 | 2022-08-19 |  |
 | [daisy chain](https://open.spotify.com/track/0vMKJMO8lKTLBKs2GjwFlU) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [daisy chain](https://open.spotify.com/album/3LAZ9QWLd05zvVi4KvMzv7) | 2:16 | 2022-04-15 | 2022-10-08 |
 | [Dance The Night](https://open.spotify.com/track/40YoFnCDboRZe6lmoXcGvM) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Dance The Night](https://open.spotify.com/album/4YE6LjBfsnLKV79C1ZUSeJ) | 2:39 | 2023-11-17 |  |
@@ -481,6 +482,7 @@
 | [Downtown](https://open.spotify.com/track/0F3Bo3HVGi2fzCU67Z6rDv) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Downtown](https://open.spotify.com/album/6KDVzfdX9UGMaDP5K9zREY) | 1:51 | 2022-12-09 |  |
 | [Doze](https://open.spotify.com/track/2oHhz3WhgOpjHBcVkB6znF) | [Aaarly](https://open.spotify.com/artist/6YCPf6MJEOrNwHU71onmpi) | [Doze](https://open.spotify.com/album/737PEsWRUidHj4CsQe26KC) | 2:09 | 2022-04-15 | 2022-05-13 |
 | [Dream Canyon](https://open.spotify.com/track/7wwW2weaG0o43SN581vH7c) | [Backdoor Jesus](https://open.spotify.com/artist/5aokebFIGIK1DHblB80rdw) | [Dream Canyon](https://open.spotify.com/album/2FDdq2nTAxV0aHuOM051Z4) | 2:33 | 2022-04-15 | 2022-11-12 |
+| [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 | 2024-07-12 |  |
 | [Dream Little Dreams](https://open.spotify.com/track/2HP0zVn24L18ChvxZWaGfs) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Dream Little Dreams](https://open.spotify.com/album/3z401mkRRsYqmrMZSoVcqP) | 2:08 | 2023-12-08 |  |
 | [Dream Walker](https://open.spotify.com/track/4DBsrFbmAF9rJtRh88VXQN) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Dream Walker](https://open.spotify.com/album/4hyOyHBAff6IYOQ4qyDHDH) | 2:44 | 2023-10-20 |  |
 | [Dream Weaver](https://open.spotify.com/track/6bU7I0yIIH6LpokLVuhstK) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Weaver](https://open.spotify.com/album/2WX7YqmBUlwRNIbjqJy2y7) | 1:55 | 2022-11-11 | 2023-02-07 |
@@ -1063,7 +1065,7 @@
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2022-04-15 | 2022-05-13 |
 | [Meadow](https://open.spotify.com/track/7Fqob7QxvquyjU27F0v3DL) | [fickle fool](https://open.spotify.com/artist/2FTGZQUnPiR0EqCJb3PEBK) | [Meadow](https://open.spotify.com/album/7dijB1jb8GJaT8C4rkgz81) | 1:58 | 2022-07-15 | 2023-01-13 |
 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-07-01 | 2022-11-26 |
-| [meadows](https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x) | [meadows](https://open.spotify.com/album/0heqR7c9kusR5RbP6fZwUh) | 2:36 | 2023-06-06 |  |
+| [meadows](https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x) | [meadows](https://open.spotify.com/album/0heqR7c9kusR5RbP6fZwUh) | 2:36 | 2023-06-06 | 2024-07-16 |
 | [Meantime](https://open.spotify.com/track/7cpvYg4OZVGB5aHtAssmAm) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Meantime](https://open.spotify.com/album/6YClIz3fDh3rWBHAubvo8D) | 2:50 | 2024-02-23 |  |
 | [Meatloafi](https://open.spotify.com/track/6TQc4MINqlN0aHCn1YrnJN) | [Parcs](https://open.spotify.com/artist/50hSRQpZmGKS1551TkEYKH) | [Meatloafi](https://open.spotify.com/album/1QJ4oGiRvJQODGVoVIqQgS) | 2:34 | 2024-01-19 |  |
 | [Medow](https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Medow](https://open.spotify.com/album/0MpOBAnxzBzNlvkszZrq80) | 2:10 | 2022-11-18 |  |
@@ -1876,6 +1878,7 @@
 | [until tomorrow](https://open.spotify.com/track/7MNksDnfbhw9Dd1xaGFN2Q) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [until tomorrow](https://open.spotify.com/album/4B71U95fiuqTiJS4VEq2B9) | 1:34 | 2023-07-13 | 2023-10-27 |
 | [until we meet again](https://open.spotify.com/track/4WwnDyJgETzTG7tjHdlM27) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [until we meet again](https://open.spotify.com/album/1uMajXkpkeVrHAwJd3DKTR) | 2:05 | 2023-12-08 |  |
 | [Until Winter Ends](https://open.spotify.com/track/2igFrHcEsUfgJt2FbiN47p) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Monkey Sunset](https://open.spotify.com/artist/1oXijIpxdYOXNgz2rPZKlI) | [Until Winter Ends](https://open.spotify.com/album/4bACavj3GW43JWX6eLXByu) | 2:27 | 2022-09-23 | 2023-01-07 |
+| [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-12 |  |
 | [urban souls](https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [urban souls](https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK) | 2:46 | 2022-04-15 | 2022-05-27 |
 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2022-10-01 |  |
 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 | 2022-04-15 | 2022-12-17 |
@@ -1929,7 +1932,7 @@
 | [Wecki](https://open.spotify.com/track/4FgEcQBlEHG8JyKdYgL8uz) | [Sabo Tan](https://open.spotify.com/artist/3XkkVh8jU3QiGPiC8N5RBS) | [Wecki](https://open.spotify.com/album/1QsoRzYNsWn1eqOkVNvLC3) | 2:07 | 2022-04-15 | 2022-04-22 |
 | [Weekend Getaway](https://open.spotify.com/track/1Vn98IKQKI7fdaR3am9jlZ) | [insømnia](https://open.spotify.com/artist/1zof1SgsoqfvofHdVIaC3G), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Weekend Getaway](https://open.spotify.com/album/6WKR0bngS5SvYvwg5TxIww) | 2:23 | 2022-11-11 | 2023-09-16 |
 | [Weird Folks](https://open.spotify.com/track/1BMieBWqghjmpz28GiDkq9) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV) | [The Spaceship](https://open.spotify.com/album/4jLrmKCgM04AqELWslYDOE) | 2:11 | 2022-04-15 | 2022-09-23 |
-| [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 | 2023-02-21 |  |
+| [welcome home](https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [welcome home](https://open.spotify.com/album/6HiDKtH9kWW6uD0EETzRu3) | 1:58 | 2023-02-21 | 2024-07-16 |
 | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/track/643CczHWSpBvDOGSn78CDw) | [PETITE FESSE](https://open.spotify.com/artist/6Eb1zj0M4u2a3hrP2ndXRb) | [Well, I Guess It Has Been a Vibe](https://open.spotify.com/album/45YnKJoeZlsHO3UCeAbdoa) | 1:37 | 2022-04-15 | 2022-09-02 |
 | [Wellspring](https://open.spotify.com/track/0aTxYRuDgt957kEznA87yw) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/3w0KTyQTLn79f276D7AMj2) | 1:56 | 2022-04-22 | 2022-11-06 |
 | [Wellspring](https://open.spotify.com/track/2LPiMy2ePIzegv5EhkQrVR) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Wellspring](https://open.spotify.com/album/340App2IyAkJ6WssIM8AJm) | 1:56 | 2022-10-28 | 2022-11-12 |

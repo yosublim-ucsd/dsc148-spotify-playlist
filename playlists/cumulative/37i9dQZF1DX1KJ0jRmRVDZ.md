@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,159 songs - 2 day 18 hr 6 min
+1,161 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [ライムライト](https://open.spotify.com/track/6dRVLa81jfp37EkKrv0trK) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ライムライト](https://open.spotify.com/album/0wVmz8nodc9IW0NFb8SP1L) | 3:12 | 2022-06-30 | 2022-07-27 |
 | [ラブの逃走](https://open.spotify.com/track/0qeOMkMqcCEWEU2cy9qLSS) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ラブの逃走](https://open.spotify.com/album/4Okc2drrejRZsZtKOPHv8D) | 3:08 | 2022-06-30 | 2022-07-25 |
 | [ラブシック](https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 3:12 | 2023-05-23 | 2023-09-13 |
+| [ラブトリップサマー](https://open.spotify.com/track/7uOOoGSY2sbdmVBne9IIbP) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [ラブトリップサマー](https://open.spotify.com/album/30lj1GdRejyyzRwB1hKhEX) | 2:35 | 2024-07-15 |  |
 | [ラブリー](https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [ラブリー](https://open.spotify.com/album/1bqWRNEezTMkh25svE3JDx) | 3:38 | 2024-02-06 | 2024-02-08 |
 | [ラリー、ラリー](https://open.spotify.com/track/2pYVj8iCqwY1H8blVcecEW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [ラリー、ラリー](https://open.spotify.com/album/6NBNe7n3iMb1q86rTl2LKU) | 2:36 | 2022-06-09 | 2022-07-29 |
 | [ランデブー](https://open.spotify.com/track/5lacv3oHw1HtbCW87uCZqx) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [ランデブー](https://open.spotify.com/album/6sSdvm5IwggRQyFrbC4ZjV) | 3:00 | 2022-06-09 | 2022-06-14 |
@@ -927,7 +928,7 @@
 | [愛くるしい](https://open.spotify.com/track/7KxMETuGfHLNuSIjmioXMw) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [愛くるしい](https://open.spotify.com/album/1HvyZrbkhKUvkhlH63o83e) | 3:29 | 2022-06-21 | 2022-06-29 |
 | [愛なら捨てたはずだった](https://open.spotify.com/track/3GBAhvcQJEuqlXwjdY5JRv) | [神谷志龍](https://open.spotify.com/artist/6r2FGDlvtbwwRAnxLhzoaX) | [愛なら捨てたはずだった](https://open.spotify.com/album/3hBx3b3hBu3nwpZmrBie4k) | 2:58 | 2023-12-19 | 2023-12-27 |
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-01-05 | 2023-07-07 |
-| [愛包ダンスホール](https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [愛包ダンスホール](https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36) | 3:39 | 2024-04-23 |  |
+| [愛包ダンスホール](https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [愛包ダンスホール](https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36) | 3:39 | 2024-04-23 | 2024-07-16 |
 | [感情御中 \- WANT U LUV IT](https://open.spotify.com/track/5f3Dg1YIy5yTlFa7H4MyCO) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [感情御中 \- WANT U LUV IT](https://open.spotify.com/album/68Xdvlu4LxXq1iNbxAnwh9) | 2:55 | 2024-03-19 | 2024-05-06 |
 | [憧れのままに](https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [憧れのままに](https://open.spotify.com/album/7xaN3BvO06dYFJywAwgZDe) | 3:24 | 2023-09-19 | 2024-04-17 |
 | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/track/3diUXDfx20uzySBCK3k9PZ) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [抜刀 \(feat\. 花譜\)](https://open.spotify.com/album/0kkMNmUqS0alqVxclf3Xho) | 3:34 | 2022-07-05 | 2022-07-23 |
@@ -1095,6 +1096,7 @@
 | [蜃気楼](https://open.spotify.com/track/5EeCqwaWhxYm7QKFEoaR9k) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [蜃気楼](https://open.spotify.com/album/3yurGs4HCVIyMbK9Z90tQV) | 5:33 | 2022-10-04 | 2022-10-06 |
 | [蜜蜂](https://open.spotify.com/track/6oDv2ylQf1fiqOMp7UWcV8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:14 | 2022-08-30 | 2023-01-06 |
 | [融解sink](https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [融解sink](https://open.spotify.com/album/6JZ9BCIEapKcYyP7eF6NXL) | 4:02 | 2022-07-28 | 2022-09-09 |
+| [衛星紀行](https://open.spotify.com/track/0Q65uKeZp0xaIH5nxB0T0U) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [衛星紀行](https://open.spotify.com/album/3B2ViAAZxE3OBcFFovr3wL) | 3:28 | 2024-07-15 |  |
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-06-09 | 2022-08-18 |
 | [褪せない](https://open.spotify.com/track/3rCDOXsUAXtDqpGp2eYFQg) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [褪せない](https://open.spotify.com/album/4ejGpYfY8CEoitroejBwxj) | 3:34 | 2023-08-15 | 2023-09-06 |
 | [見て呉れ](https://open.spotify.com/track/6IgRBs86u320N5CFdbWNPe) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [見て呉れ](https://open.spotify.com/album/2mMMbZrMKXqioYhqz45Bj7) | 3:25 | 2022-06-09 | 2022-07-28 |

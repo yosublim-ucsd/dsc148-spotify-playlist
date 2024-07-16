@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 26218,
+  "num_followers": 26303,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpHDgAAAAAAiEYyIekDlvYPgp/au3QqP",
+  "snapshot_id": "ZpMVAAAAAAA4f86eztDyzZHCz+Nn2Xif",
   "tracks": [
     {
       "added_at": null,
@@ -319,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fuerte",
-        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+        "name": "Yo Mir\u00e9 Un Sombrero",
+        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
       },
       "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 150600,
-      "name": "El Fuerte",
-      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
+      "duration_ms": 155185,
+      "name": "Yo Mir\u00e9 Un Sombrero",
+      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
     },
     {
       "added_at": null,
@@ -367,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Mir\u00e9 Un Sombrero",
-        "url": "https://open.spotify.com/album/62lwfVovojkqTMPUoroB6U"
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
       },
       "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 155185,
-      "name": "Yo Mir\u00e9 Un Sombrero",
-      "url": "https://open.spotify.com/track/7mVFcEeHc14QekO81qEGPN"
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "added_at": null,

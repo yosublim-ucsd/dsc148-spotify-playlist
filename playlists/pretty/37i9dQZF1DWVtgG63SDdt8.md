@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,357 likes - 97 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,397 likes - 97 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 66 | [Way Maker \- Remix](https://open.spotify.com/track/3WqIJvIoKag7Vt0KBuqTyz) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker \(Remix\)](https://open.spotify.com/album/0YfhxdzAp9KwcXgU8xUquv) | 3:24 |
 | 67 | [just hold on \(undone\)](https://open.spotify.com/track/6h1yZYnwOcGAPb7x00Y4lC) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [undone ii](https://open.spotify.com/album/1bkyEDpcAX4ddusL9GGUCn) | 2:26 |
 | 68 | [I Am](https://open.spotify.com/track/41iJBE75soAthRH5MH9p9q) | [Of the Land](https://open.spotify.com/artist/6hg70ulbsTWaH4nl3i5S4H) | [I Am](https://open.spotify.com/album/5OhBLULR1z4OAg30Z7rk5M) | 4:41 |
-| 69 | [Just Two People](https://open.spotify.com/track/1Or6xqao6PHnv6MHGxdmpc) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Tiffany Faith](https://open.spotify.com/artist/2N5Aftus0nTayttH4oNChY) | [Just Two People](https://open.spotify.com/album/2FOVDjuPfSqc8EctSOOpdM) | 4:18 |
+| 69 | [Just Two People](https://open.spotify.com/track/1Or6xqao6PHnv6MHGxdmpc) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Tiffany Faith](https://open.spotify.com/artist/58tsjAmFhYIANAxNVzc3Cq) | [Just Two People](https://open.spotify.com/album/2FOVDjuPfSqc8EctSOOpdM) | 4:18 |
 | 70 | [on Christ the solid rock i stand.](https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW) | [on Christ the solid rock i stand.](https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r) | 2:34 |
 | 71 | [My Every Minute](https://open.spotify.com/track/5cJ00QIVhHAcf6DEGr5AXE) | [Canyon Worship](https://open.spotify.com/artist/34byivaRKITJU1NfWWStSh), [Nicole Jasperse](https://open.spotify.com/artist/25AYxNXIWx3XRiT2O4EHZ6) | [Canyon Worship 2024](https://open.spotify.com/album/2QR2zPGnTfyRZwXEiaqqRp) | 5:00 |
 | 72 | [Until Prayer Changes Me](https://open.spotify.com/track/5melOkFv4kXYQTT4RsaalX) | [Kingdom Heirs](https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW) | [Until Prayer Changes Me](https://open.spotify.com/album/780tghTd2l603JpEimkUz9) | 4:25 |

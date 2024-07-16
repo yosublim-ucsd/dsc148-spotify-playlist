@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20415,
+  "num_followers": 20434,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKtnS3/zjhxxPNZHK6I/NtsdYJ7pTr",
+  "snapshot_id": "AAAKuBnBM05TC+noDt+nAm7YHN9OUDmR",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -267,6 +267,38 @@
       "duration_ms": 200306,
       "name": "Kanon",
       "url": "https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA"
+    },
+    {
+      "added_at": "2024-07-15 15:41:08",
+      "album": {
+        "name": "Tauhid",
+        "url": "https://open.spotify.com/album/4RTqDJ4oYVxpgd8Hbt73Bt"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/7gUexbkQ4hUsrdDxcIifAw"
+    },
+    {
+      "added_at": "2024-07-15 17:23:15",
+      "album": {
+        "name": "Neurovision (Remastered)",
+        "url": "https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck"
+      },
+      "artists": [
+        {
+          "name": "Telex",
+          "url": "https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj"
+        }
+      ],
+      "duration_ms": 261885,
+      "name": "My Time - 2023 Remaster",
+      "url": "https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7"
     }
   ],
   "unique_name": "living alone",

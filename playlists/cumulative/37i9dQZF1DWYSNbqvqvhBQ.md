@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYSNbqvqvhBQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYSNbqvqvhBQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYSNbqvqvhBQ)
 
-### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
+### [Blijf Luisteren!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Je blijft luisteren! Nieuwe songs en hits van dit moment\. Cover: The Indien
+> De nieuwste en mooiste liedjes van het moment\. Cover: DI\-RECT
 
 455 songs - 1 day 2 hr 17 min
 

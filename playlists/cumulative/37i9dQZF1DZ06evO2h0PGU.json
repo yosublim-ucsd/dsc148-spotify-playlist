@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This Is Yeah Yeah Yeahs. Los temas esenciales, todos en una lista.",
+  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
   "name": "This Is Yeah Yeah Yeahs",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 155320,
       "name": "Date With The Night",
       "url": "https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 212880,
       "name": "Faces",
       "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 190986,
       "name": "Rockers To Swallow",
       "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 191093,
       "name": "Rockers To Swallow",
       "url": "https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 109800,
       "name": "Tick",
       "url": "https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD"

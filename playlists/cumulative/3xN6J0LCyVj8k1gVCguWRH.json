@@ -4605,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Aviator",
+        "url": "https://open.spotify.com/album/4W7Gz83nXvZv10AkASfAJ9"
+      },
+      "artists": [
+        {
+          "name": "Smith Street",
+          "url": "https://open.spotify.com/artist/5QqhqiHJXhBSmOBxqVrjPY"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215725,
+      "name": "Aviator",
+      "url": "https://open.spotify.com/track/7qGHxRquRlZOHFHg0kmkpO"
+    },
+    {
+      "album": {
         "name": "Awake at Night",
         "url": "https://open.spotify.com/album/7fILg3GvodYhc4g4ikR9px"
       },
@@ -11791,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/7KymrnFxX2GLaExq3qyv9q"
+      },
+      "artists": [
+        {
+          "name": "PONYHENGE",
+          "url": "https://open.spotify.com/artist/7FmkvLyQtCS78FquchCrSU"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/55Q54QhQvFg5ft6iLasIny"
+    },
+    {
+      "album": {
         "name": "Come As You Are Party",
         "url": "https://open.spotify.com/album/4MBgRiyc3FQErOUhpwo0X0"
       },
@@ -13949,6 +13985,24 @@
     },
     {
       "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/7myJycpKkQVg2hvgzkQKE7"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/7Fpl4ofpbd3Q8rAZDL9ZPO"
+    },
+    {
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -14506,7 +14560,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 226000,
       "name": "de ja vu",
       "url": "https://open.spotify.com/track/2urwpQeVzI8p1QjTYPUcEc"
@@ -25401,6 +25455,24 @@
     },
     {
       "album": {
+        "name": "Head Rush",
+        "url": "https://open.spotify.com/album/4I5Ao2oihdeTTxKDk6xc4i"
+      },
+      "artists": [
+        {
+          "name": "Kai Nanfelt",
+          "url": "https://open.spotify.com/artist/1h4fHN9vvesn0dBHg7pN4H"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191088,
+      "name": "Head Rush",
+      "url": "https://open.spotify.com/track/3jkOvFQbAg2i0dJutdtUwR"
+    },
+    {
+      "album": {
         "name": "Head's In the Roses",
         "url": "https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe"
       },
@@ -28660,6 +28732,24 @@
       "duration_ms": 281840,
       "name": "I'm a Manchild",
       "url": "https://open.spotify.com/track/0XgsktTBwxU1IdT0psnfy9"
+    },
+    {
+      "album": {
+        "name": "I'm at LGA",
+        "url": "https://open.spotify.com/album/3Lf70IPeifO86oOclS6wob"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200423,
+      "name": "I'm at LGA",
+      "url": "https://open.spotify.com/track/4TVhUigLU9pF5Eeo7cBmLi"
     },
     {
       "album": {
@@ -32645,6 +32735,24 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M"
+      },
+      "artists": [
+        {
+          "name": "Alfie Castley",
+          "url": "https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221796,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/70deUYDOouO8E0me5JWMGp"
+    },
+    {
+      "album": {
         "name": "last first date",
         "url": "https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ"
       },
@@ -32656,7 +32764,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 187250,
       "name": "last first date",
       "url": "https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ"
@@ -37274,7 +37382,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 133499,
       "name": "marchito",
       "url": "https://open.spotify.com/track/3h7ykC4YeImQ7p1XwIaHeJ"
@@ -41736,6 +41844,24 @@
       "duration_ms": 205720,
       "name": "NME",
       "url": "https://open.spotify.com/track/0y9vwbIshMHjc2dYHNFEOo"
+    },
+    {
+      "album": {
+        "name": "NMT (not much time)",
+        "url": "https://open.spotify.com/album/6Vdw1RnuuknAZKLaSVtzaH"
+      },
+      "artists": [
+        {
+          "name": "BrakaBeats",
+          "url": "https://open.spotify.com/artist/3P3dfmAlq6T6UCcSRzsKje"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224147,
+      "name": "NMT (not much time)",
+      "url": "https://open.spotify.com/track/4bRGPgP1HVCeFY4MvGPdI3"
     },
     {
       "album": {
@@ -49653,6 +49779,28 @@
     },
     {
       "album": {
+        "name": "Roslyn",
+        "url": "https://open.spotify.com/album/5xPJnK6xJWpNp2lPFuHYzC"
+      },
+      "artists": [
+        {
+          "name": "EDU",
+          "url": "https://open.spotify.com/artist/07DkcQ39rNICxi4FExM0O4"
+        },
+        {
+          "name": "Isabella Castillo",
+          "url": "https://open.spotify.com/artist/1KUjNqQQPqBrIMKQ2ONefF"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175842,
+      "name": "Roslyn",
+      "url": "https://open.spotify.com/track/7cOaFebpU2WeTNps7lUKSB"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3ASuS5UwhcW8UMAl2Ahsbn"
       },
@@ -53232,7 +53380,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 240040,
       "name": "So Plain to See",
       "url": "https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula"
@@ -63454,6 +63602,28 @@
       "duration_ms": 186000,
       "name": "Voy",
       "url": "https://open.spotify.com/track/1WYn046bv46ZP4CU4QQCeW"
+    },
+    {
+      "album": {
+        "name": "Vuddy!",
+        "url": "https://open.spotify.com/album/1PuImEKgnnYJCzqNgpNkDr"
+      },
+      "artists": [
+        {
+          "name": "blvkkhvrt.",
+          "url": "https://open.spotify.com/artist/4zkcCa8WaUMWGDIn96MDjt"
+        },
+        {
+          "name": "FLANNEL ALBERT",
+          "url": "https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Vuddy!",
+      "url": "https://open.spotify.com/track/5o5yo0hjla1sjsFJ8Zfaet"
     },
     {
       "album": {

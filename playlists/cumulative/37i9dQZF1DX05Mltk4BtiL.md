@@ -4,7 +4,7 @@
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: H.i.T.
 
-59 songs - 3 hr 0 min
+60 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/track/1klDCE1ebQnTf9cds6I0hW) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ein Spiel \(feat\. piya\)](https://open.spotify.com/album/1MxxDZjHKqlHiS4xuNx8VT) | 3:33 | 2024-06-27 |  |
 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 | 2024-07-04 |  |
 | [Gelernt](https://open.spotify.com/track/1rEVYOEfQRHTCTU0UaeKwt) | [Käptn Peng](https://open.spotify.com/artist/4uJ0Z35toYgdlrDGF4eFY2), [Die Tentakel von Delphi](https://open.spotify.com/artist/4Y7wUypNxLefo23dQexEFV) | [Das nullte Kapitel](https://open.spotify.com/album/1KPrzlaKozFUOMrDv7AH7Z) | 3:21 | 2024-06-27 |  |
-| [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 | 2024-06-27 |  |
+| [haus am meer](https://open.spotify.com/track/1rXogQOERbDIu90ZSXTBEW) | [Tuffy](https://open.spotify.com/artist/4UDkNikL9D2vhFwqmMoJ2h) | [haus am meer](https://open.spotify.com/album/04M4bDc6yaTrkarToMjWKs) | 2:21 | 2024-06-27 | 2024-07-16 |
 | [Hellwach](https://open.spotify.com/track/2w4fID8bdypR2UIgHYgVKZ) | [Kaltenkirchen](https://open.spotify.com/artist/1XuOxeq7zKZTvilwbHdS6v), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Hellwach](https://open.spotify.com/album/5QLUrzqyKotzHYZwmcFKHA) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Kryptik Joe](https://open.spotify.com/artist/1NmLear8QhZBLkRxsnY1iR), [Rocko Schamoni](https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS) | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/album/74u87GFTbOrj1PiRtY8Nh1) | 2:46 | 2024-06-27 |  |
 | [Ich brauch ein Bier](https://open.spotify.com/track/0EnYDvdiddeC9Kq7orP4Qt) | [Dagobert](https://open.spotify.com/artist/6ggenA9SmMMwVYsDSOKIqJ) | [Ich brauch ein Bier](https://open.spotify.com/album/01I2xDTg5tQMYUwxzbsfGM) | 2:03 | 2024-07-04 | 2024-07-12 |
@@ -50,6 +50,7 @@
 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 | 2024-06-27 | 2024-07-12 |
 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 | 2024-06-27 |  |
 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 | 2024-06-27 |  |
+| [Naja, geht so](https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Naja, geht so](https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM) | 3:07 | 2024-07-11 |  |
 | [Oktober in Europa](https://open.spotify.com/track/3d40QNJhGHHBNRhEHEXxHl) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Oktober in Europa](https://open.spotify.com/album/3kqDDoLz4aPELnW6kl3cf8) | 3:28 | 2024-06-27 |  |
 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 | 2024-06-27 |  |
 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 | 2024-06-27 | 2024-07-07 |

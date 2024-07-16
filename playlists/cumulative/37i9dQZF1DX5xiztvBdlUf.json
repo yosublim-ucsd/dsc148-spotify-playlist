@@ -2247,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Er Lebt In Dir",
+        "url": "https://open.spotify.com/album/3lwlroHnT8LigqrLqyOCBa"
+      },
+      "artists": [
+        {
+          "name": "Iman Hanzo",
+          "url": "https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Er Lebt In Dir",
+      "url": "https://open.spotify.com/track/5jCSuJCwhqGFbbHsSOF8o7"
+    },
+    {
+      "album": {
         "name": "Ergot EP",
         "url": "https://open.spotify.com/album/05c7P8PiH5Xv8E2R0S5Kg3"
       },
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 342813,
       "name": "Malmedy",
       "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"

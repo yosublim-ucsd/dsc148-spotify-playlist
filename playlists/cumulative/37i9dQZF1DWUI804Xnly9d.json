@@ -4615,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Naa Samjhe Tum",
+        "url": "https://open.spotify.com/album/7g2Kze0Dnqrkb47kZwvJBJ"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Chandel",
+          "url": "https://open.spotify.com/artist/5hNwJiSjMx50Q1x2goFM6r"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220711,
+      "name": "Naa Samjhe Tum",
+      "url": "https://open.spotify.com/track/2yBHRByW65XskyQqpMMMpO"
+    },
+    {
+      "album": {
         "name": "nadaaniyan",
         "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
       },
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 199661,
       "name": "Safar",
       "url": "https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN"
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-16",
       "duration_ms": 202514,
       "name": "Sochu",
       "url": "https://open.spotify.com/track/651OglmdGFaRT2W47hx696"
@@ -6676,6 +6694,24 @@
       "duration_ms": 186000,
       "name": "Tu Jo Yahan",
       "url": "https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K"
+    },
+    {
+      "album": {
+        "name": "Tu Meri Hui (OmbreOriginals)",
+        "url": "https://open.spotify.com/album/75IGyk2dpmWjubHFJeirKi"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260768,
+      "name": "Tu Meri Hui (OmbreOriginals)",
+      "url": "https://open.spotify.com/track/42bhbV4Hk8HiimPOFceKAk"
     },
     {
       "album": {

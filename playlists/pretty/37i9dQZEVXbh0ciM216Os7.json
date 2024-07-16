@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABo0Sa6mdOde4uOtfqteZ3G",
+  "snapshot_id": "AAAAAAAAAAABjIdIBUAS7VB61OxM3aoe",
   "tracks": [
     {
       "added_at": "2024-07-12 04:00:00",
@@ -115,26 +115,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "JOHANN SEBASTIAN BACHLAVA THE DOCTOR",
-        "url": "https://open.spotify.com/album/0rTMVd3N7czUFdf1mBfNMt"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "KOMPRESSOR",
-      "url": "https://open.spotify.com/track/4PvR0sNCLMTzKHzVOAVNbO"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Life Saving Gun",
         "url": "https://open.spotify.com/album/0nPtgMMOx6KPAkCPV6Q9aj"
       },
@@ -147,26 +127,6 @@
       "duration_ms": 265598,
       "name": "Life Saving Gun",
       "url": "https://open.spotify.com/track/3hENyR6l6q8NWfzEfF9tsG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "EXECUTIONER",
-        "url": "https://open.spotify.com/album/5FFZfAdV8tmUhl9ek7qUzV"
-      },
-      "artists": [
-        {
-          "name": "MC Technique",
-          "url": "https://open.spotify.com/artist/4ZZ7wbrkdBhU8RJLWDo9y7"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 197794,
-      "name": "EXECUTIONER",
-      "url": "https://open.spotify.com/track/6F6YlNB98SpJxPaNE9BWTg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -191,6 +151,46 @@
       "duration_ms": 195867,
       "name": "No Popcorn",
       "url": "https://open.spotify.com/track/3vKnH2bGh2SuwGvZqQgeQq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "JOHANN SEBASTIAN BACHLAVA THE DOCTOR",
+        "url": "https://open.spotify.com/album/0rTMVd3N7czUFdf1mBfNMt"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "KOMPRESSOR",
+      "url": "https://open.spotify.com/track/4PvR0sNCLMTzKHzVOAVNbO"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "EXECUTIONER",
+        "url": "https://open.spotify.com/album/5FFZfAdV8tmUhl9ek7qUzV"
+      },
+      "artists": [
+        {
+          "name": "MC Technique",
+          "url": "https://open.spotify.com/artist/4ZZ7wbrkdBhU8RJLWDo9y7"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 197794,
+      "name": "EXECUTIONER",
+      "url": "https://open.spotify.com/track/6F6YlNB98SpJxPaNE9BWTg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -452,17 +452,13 @@
           "url": "https://open.spotify.com/artist/7oY5aVgPka3wkrI9dKAqoy"
         },
         {
-          "name": "WBE Juss Glo",
-          "url": "https://open.spotify.com/artist/6OxxQhS2LqyRL694MD1Drp"
-        },
-        {
           "name": "Syd",
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 222502,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5U7jEnlwRG0C8Z1pKMvKpd"
+      "duration_ms": 190899,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/5yPkN7zDHG6n2njMWGimiB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
