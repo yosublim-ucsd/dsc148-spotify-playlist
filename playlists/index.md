@@ -1,4 +1,4 @@
-## Playlists \(8093\)
+## Playlists \(8094\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3977,6 +3977,7 @@
 - [Next Up](/playlists/pretty/37i9dQZF1DWZvuOKNcLsjv.md)
 - [Next Wave Soul](/playlists/pretty/37i9dQZF1DX44dZ4p5QLf4.md)
 - [Ngetren di 2010an](/playlists/pretty/37i9dQZF1DWY8wQ1UHaykc.md)
+- [Nice With A Cup of Tea](/playlists/pretty/5LjkDWF27DMbFVRxUE2Pin.md)
 - [Nicholas Sparks \| Songs from the Soundtracks](/playlists/pretty/1scnlLVq91NGtsA9sh0hfw.md)
 - [Nicky Romero's DJ Mix](/playlists/pretty/37i9dQZF1DWXc3wUzQ4Nr1.md)
 - [Nidra](/playlists/pretty/37i9dQZF1DX44osRHySC1k.md)
