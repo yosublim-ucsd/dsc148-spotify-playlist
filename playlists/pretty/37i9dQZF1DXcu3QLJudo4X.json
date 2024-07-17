@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 94543,
+  "num_followers": 94637,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Canned Heat",
-        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 191093,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Canned Heat",
+        "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 294373,
-      "name": "The Things (That) I Used to Do",
-      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+      "duration_ms": 191093,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -719,26 +735,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Good Things Don't Happen Every Day",
-        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McGriff",
-          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
-        },
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "(I Think) Drowning on Dry Land",
-      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "King Of The Blues",
         "url": "https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3"
       },
@@ -755,18 +751,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Good Things Don't Happen Every Day",
+        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Jimmy McGriff",
+          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
+        },
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+      "duration_ms": 183800,
+      "name": "(I Think) Drowning on Dry Land",
+      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -799,6 +799,22 @@
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -863,22 +879,6 @@
       "duration_ms": 287933,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",

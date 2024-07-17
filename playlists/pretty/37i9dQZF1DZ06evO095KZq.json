@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Fantasma. Los temas esenciales, todos en una lista.",
-  "num_followers": 432306,
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
+  "num_followers": 432372,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAAniXNx7rsku2beYUeLP7FQ",
+  "snapshot_id": "ZpRmgAAAAADigVPSUSs7hPgHEXsodWPJ",
   "tracks": [
     {
       "added_at": null,
@@ -755,38 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encantadora",
-        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 144512,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Exitoso",
-        "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 222270,
-      "name": "El Exitoso",
-      "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Morro Pirata",
         "url": "https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 150990,
       "name": "Las Verdades - En Vivo",
       "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 144512,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
     },
     {
       "added_at": null,

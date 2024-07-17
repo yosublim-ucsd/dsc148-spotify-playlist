@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Katy Perry.
 
-112 songs - 5 hr 30 min
+113 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-07-02 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-07-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-07-02 | 2024-07-05 |
-| [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-07-02 |  |
+| [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-07-02 | 2024-07-17 |
 | [Edelleen](https://open.spotify.com/track/6hI1sTn4NS6BrL9wrlqZaI) | [Larry](https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Edelleen](https://open.spotify.com/album/31upea4lQ4IwOqz3KxIFQf) | 2:39 | 2024-07-02 | 2024-07-05 |
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 |  |
 | [Eka tai toka](https://open.spotify.com/track/0BsizkduSdj2b90uAk8Sat) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Eka tai toka](https://open.spotify.com/album/6TK9Qr42ghbH7LVWxfxqf6) | 2:38 | 2024-07-02 |  |
@@ -73,8 +73,9 @@
 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-02 |  |
 | [Miksi pyöräni varastit](https://open.spotify.com/track/7sBEl9SwkETmY8KmvwypEB) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Miksi pyöräni varastit](https://open.spotify.com/album/7aiwichlG4KAtGDMcamNdW) | 2:56 | 2024-07-02 |  |
 | [milloin tää kipu hellittää](https://open.spotify.com/track/5bzUimPTR9eAzNGnbO7bFK) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [milloin tää kipu hellittää](https://open.spotify.com/album/0Wj4EpdfPnoUKsxYfE1460) | 2:30 | 2024-07-02 | 2024-07-12 |
+| [Mitä mä teen?](https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen? \(sped up\)](https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy) | 3:39 | 2024-07-16 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-07-02 | 2024-07-05 |
-| [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 |  |
+| [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-02 | 2024-07-05 |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-12 |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 |  |

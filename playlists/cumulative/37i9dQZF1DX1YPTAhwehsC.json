@@ -5229,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "SEXC SUMMER",
+        "url": "https://open.spotify.com/album/6v4L8ebFkzj3fWv4QP9hTM"
+      },
+      "artists": [
+        {
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101147,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/0xklkDv1z8T1lxVUXo4leG"
+    },
+    {
+      "album": {
         "name": "Die Young",
         "url": "https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O"
       },
@@ -16466,7 +16484,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 143751,
       "name": "practice!",
       "url": "https://open.spotify.com/track/5VfP1gMYKqIX9kmpzPsxDA"

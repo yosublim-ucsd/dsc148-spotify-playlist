@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 881698,
+  "num_followers": 882187,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 255546,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 255546,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 252400,
       "name": "Hey Mr. D.J.",
       "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Music For The People",
-        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
-      },
-      "artists": [
-        {
-          "name": "Marky Mark And The Funky Bunch",
-          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
-        },
-        {
-          "name": "Loleatta Holloway",
-          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "'N Sync UK Version",
         "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Music For The People",
+        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
+      },
+      "artists": [
+        {
+          "name": "Marky Mark And The Funky Bunch",
+          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
+        },
+        {
+          "name": "Loleatta Holloway",
+          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Peaceful Journey",
-        "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
-      },
-      "artists": [
-        {
-          "name": "Heavy D & The Boyz",
-          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
-        },
-        {
-          "name": "Aaron Hall",
-          "url": "https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Best Of Suzanne Vega - Tried And True",
         "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 227866,
       "name": "Tom's Diner - 7\" Version",
       "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Peaceful Journey",
+        "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
+      },
+      "artists": [
+        {
+          "name": "Heavy D & The Boyz",
+          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
+        },
+        {
+          "name": "Aaron Hall",
+          "url": "https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Born Slippy (Nuxx) [Radio Edit]",
+        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 264187,
+      "name": "Born Slippy (Nuxx) - Radio Edit",
+      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Born Slippy (Nuxx) [Radio Edit]",
-        "url": "https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 264187,
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2383,22 +2383,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Commitments",
-        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
+        "name": "Was Ist Das",
+        "url": "https://open.spotify.com/album/0QmvLPwLCu50ebemsJZT6F"
       },
       "artists": [
         {
-          "name": "The Commitments",
-          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
-        },
-        {
-          "name": "Andrew Strong",
-          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
+          "name": "Mo-Do",
+          "url": "https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f"
         }
       ],
-      "duration_ms": 241866,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+      "duration_ms": 313426,
+      "name": "Eins Zwei Polizei",
+      "url": "https://open.spotify.com/track/015p8TgFahkz0viuux9YGJ"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2419,18 +2415,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Was Ist Das",
-        "url": "https://open.spotify.com/album/0QmvLPwLCu50ebemsJZT6F"
+        "name": "The Commitments",
+        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
       },
       "artists": [
         {
-          "name": "Mo-Do",
-          "url": "https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f"
+          "name": "The Commitments",
+          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
+        },
+        {
+          "name": "Andrew Strong",
+          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
         }
       ],
-      "duration_ms": 313426,
-      "name": "Eins Zwei Polizei",
-      "url": "https://open.spotify.com/track/015p8TgFahkz0viuux9YGJ"
+      "duration_ms": 241866,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
       },
       "artists": [
         {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
+      "duration_ms": 337093,
+      "name": "Get Up (Before The Night Is Over)",
+      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
     }
   ],
   "unique_name": "90s Party",

@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 36556,
+  "num_followers": 36595,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "Cheers To Life.",
         "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 168515,
       "name": "Cry (shayo) (feat. Lojay)",
       "url": "https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -895,6 +895,30 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 230124,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 155151,
       "name": "Palava",
       "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 230124,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
+        "name": "LOVE OR LAMBA",
+        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "LOVE OR LAMBA",
+      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
         "name": "808 Rhapsody",
         "url": "https://open.spotify.com/album/1uK5egVvMJTYZSVc1P7axG"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 149387,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/2cVoUBlzLq5lY6fAHj3Pwr"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
-        "name": "LOVE OR LAMBA",
-        "url": "https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "LOVE OR LAMBA",
-      "url": "https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "YP & Azanti, Vol. 2",
-        "url": "https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "2 Hot 2 Handle",
-      "url": "https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c"
-    },
-    {
-      "added_at": "2024-07-12 06:26:28",
-      "album": {
         "name": "Sunflawa",
         "url": "https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 153250,
       "name": "Sunflawa",
       "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"
+    },
+    {
+      "added_at": "2024-07-12 06:26:28",
+      "album": {
+        "name": "YP & Azanti, Vol. 2",
+        "url": "https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 170613,
+      "name": "2 Hot 2 Handle",
+      "url": "https://open.spotify.com/track/15C5fa7gr12ufsvVeYcZ4c"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "Hiii!",
-        "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
       "artists": [
         {
-          "name": "ShineTTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Hiii!",
-      "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-07-12 06:26:28",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-12 06:26:28",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+        "name": "Hiii!",
+        "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+      "duration_ms": 150000,
+      "name": "Hiii!",
+      "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
     },
     {
       "added_at": "2024-07-12 06:26:28",

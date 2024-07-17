@@ -4,7 +4,7 @@
 
 > We hear you.
 
-679 songs - 1 day 9 hr 41 min
+680 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 |  |
 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 | 2021-04-02 | 2022-04-14 |
 | [Silhouette](https://open.spotify.com/track/0xIxUesRUXMlX1zYitECjs) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Silhouette](https://open.spotify.com/album/7EWk2u29tK8b6EMv5fVbhl) | 2:59 | 2021-04-02 | 2022-04-21 |
-| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 | 2023-06-23 |  |
+| [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:16 | 2023-06-23 | 2024-07-17 |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2022-07-15 | 2024-04-19 |
 | [Silly Girl](https://open.spotify.com/track/3RGVYzHQWQOlHYphHMAaaj) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/5N83DElmMbgJiPV6u7qEyn) | 3:18 | 2021-04-02 | 2022-07-24 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-24 | 2022-10-15 |
@@ -570,6 +570,7 @@
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2021-04-02 | 2023-03-22 |
 | [Sweater Weather](https://open.spotify.com/track/6QOv3k9RU5QA8L4obUvozE) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [Sølace](https://open.spotify.com/artist/62AlnDIQccDoQ5FPZRrSL3), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [Sweater Weather](https://open.spotify.com/album/6onCvrUXBkLWAHCaJMxdnC) | 3:21 | 2021-04-02 | 2022-07-13 |
 | [Take Me Back](https://open.spotify.com/track/0RxJW4CqKIM1v0DN3z32zG) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Take Me Back](https://open.spotify.com/album/21RRWWtERAfAwBFv9rzktq) | 3:20 | 2023-08-04 |  |
+| [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-16 |  |
 | [tattletale](https://open.spotify.com/track/1oG97U59L8fVYrVByMCtNI) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Downers Grove](https://open.spotify.com/album/5OMHXvYoClLQUmFwqBav71) | 3:19 | 2023-04-28 | 2023-06-03 |
 | [Tears, 2016](https://open.spotify.com/track/1BisD4JGmDWFPbSJz25j3V) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 5:04 | 2021-04-02 | 2022-07-29 |
 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 | 2023-07-21 | 2023-09-30 |

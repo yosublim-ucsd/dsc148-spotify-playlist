@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-407 songs - 17 hr 50 min
+409 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 | 2022-05-20 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-05-20 |  |
 | [Back to Begin](https://open.spotify.com/track/648XpoeyPdVOTXukyczd8J) | [Mark Fanning](https://open.spotify.com/artist/6l1IhAl77yDLlYVBXMM5Av) | [Back to Begin](https://open.spotify.com/album/5QbM1wsUshWIEjksukWQts) | 2:57 | 2022-05-20 |  |
+| [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 | 2024-07-16 |  |
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-20 | 2024-03-26 |
 | [Beneath the Crystal Veil](https://open.spotify.com/track/6BCLePB0VnQFPJzywUI5NA) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Beneath the Crystal Veil](https://open.spotify.com/album/5I8aud98hM9NxJbHTAp3yB) | 2:33 | 2022-05-20 |  |
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2022-05-20 |  |
@@ -121,6 +122,7 @@
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2022-05-20 | 2024-03-26 |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2022-05-20 |  |
 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 | 2022-05-20 |  |
+| [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 | 2024-07-16 |  |
 | [Follow The Wind](https://open.spotify.com/track/5TsrzBIJvEJXoujkVVY6be) | [Jett Ingram](https://open.spotify.com/artist/1OsM3C8DqfNYJc0PXD0Pyv) | [Follow The Wind](https://open.spotify.com/album/00szFnztAJMvCFQI4xN0pe) | 2:24 | 2022-05-20 |  |
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2022-05-20 | 2024-04-10 |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-05-20 |  |

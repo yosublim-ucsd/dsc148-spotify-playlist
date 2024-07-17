@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Intruders. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is The Intruders. The essential tracks, all in one playlist.",
   "name": "This Is The Intruders",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 166133,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 135800,
       "name": "Rockamaroll",
       "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"

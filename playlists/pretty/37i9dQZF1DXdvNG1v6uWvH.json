@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9026,
+  "num_followers": 9036,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Like I Say (I runaway)",
-        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 177475,
-      "name": "Like I Say (I runaway)",
-      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Monaco",
         "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 158710,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 218115,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1Cco6Y9V8nfarVPMRUalX2"
+        "name": "Like I Say (I runaway)",
+        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
         }
       ],
-      "duration_ms": 218115,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/32b81nMpV15pUrknaKjzPl"
+      "duration_ms": 177475,
+      "name": "Like I Say (I runaway)",
+      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -287,26 +287,6 @@
       "duration_ms": 187550,
       "name": "Still What I'm Looking For",
       "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 218095,
-      "name": "Give Me Anything",
-      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -343,6 +323,26 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 218095,
+      "name": "Give Me Anything",
+      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "something bout april",
         "url": "https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 174246,
       "name": "something bout april",
       "url": "https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -395,6 +379,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 155960,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -451,18 +467,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB"
+        "name": "Bass Player's Brother",
+        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
         }
       ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+      "duration_ms": 186489,
+      "name": "Bass Player's Brother",
+      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -479,22 +495,6 @@
       "duration_ms": 220013,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Bass Player's Brother",
-        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 186489,
-      "name": "Bass Player's Brother",
-      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 137979,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+      "duration_ms": 137979,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -599,6 +583,22 @@
       "duration_ms": 186080,
       "name": "happier without you",
       "url": "https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 196577,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Vakuum",
         "url": "https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 196577,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 196908,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "TRUE MAGIC",
         "url": "https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 214391,
       "name": "lift off!",
       "url": "https://open.spotify.com/track/2TbjVYIbgIh7jBAkSTCnaC"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 196908,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "want",
         "url": "https://open.spotify.com/album/626gFk89gkv78mPCZhePMq"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 126338,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6BZrcQPfNf1GZFle3HPViZ"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "KANSAS",
-        "url": "https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "KANSAS",
-      "url": "https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Eat Sleep Rave Repeat",
         "url": "https://open.spotify.com/album/15777nhY1ROMOtJVVRzQXT"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 121716,
       "name": "Eat Sleep Rave Repeat",
       "url": "https://open.spotify.com/track/481Yr3hSWlfMeW4pmS13Db"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "KANSAS",
+        "url": "https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "KANSAS",
+      "url": "https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Fun!",
-        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
-      },
-      "artists": [
-        {
-          "name": "Gracie Moller",
-          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "Fun!",
-      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 136695,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Fun!",
+        "url": "https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1"
+      },
+      "artists": [
+        {
+          "name": "Gracie Moller",
+          "url": "https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "Fun!",
+      "url": "https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/6rtX52Tel2pDiy2GuK0Xmz"
+      },
+      "artists": [
+        {
+          "name": "BENJAMINRICH",
+          "url": "https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Dancing With The Devil",
+      "url": "https://open.spotify.com/track/73QcKN6c6L8sFN5ZvaGLFI"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
         "name": "Lullaby / LoveLoveLove",
         "url": "https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG"
       },
@@ -1195,18 +1211,22 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Dancing With The Devil",
-        "url": "https://open.spotify.com/album/6rtX52Tel2pDiy2GuK0Xmz"
+        "name": "Non-Stop",
+        "url": "https://open.spotify.com/album/3LI5uQ5Hin4c47tgT6e2RU"
       },
       "artists": [
         {
-          "name": "BENJAMINRICH",
-          "url": "https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ"
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        },
+        {
+          "name": "Akodya",
+          "url": "https://open.spotify.com/artist/4UjJjMsc5rlX1TIGcO4B63"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Dancing With The Devil",
-      "url": "https://open.spotify.com/track/73QcKN6c6L8sFN5ZvaGLFI"
+      "duration_ms": 133103,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/2WSYKUuFJjM4Phb13k3EdH"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Non-Stop",
-        "url": "https://open.spotify.com/album/3LI5uQ5Hin4c47tgT6e2RU"
-      },
-      "artists": [
-        {
-          "name": "Nadia Gattas",
-          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
-        },
-        {
-          "name": "Akodya",
-          "url": "https://open.spotify.com/artist/4UjJjMsc5rlX1TIGcO4B63"
-        }
-      ],
-      "duration_ms": 133103,
-      "name": "Non-Stop",
-      "url": "https://open.spotify.com/track/2WSYKUuFJjM4Phb13k3EdH"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/5Yu34yUWzrlTr0SxIc9mI6"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-12 00:00:00",
       "album": {
-        "name": "Let It Out",
-        "url": "https://open.spotify.com/album/1heWm07TMAcbMTTptJsTfR"
-      },
-      "artists": [
-        {
-          "name": "Firewoodisland",
-          "url": "https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/3wBdnFJBADZAqLjeTd7Ufe"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
         "name": "when all i want is age",
         "url": "https://open.spotify.com/album/4lXqYHmiBr9lx0JV0pyVYV"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 128000,
       "name": "when all i want is age",
       "url": "https://open.spotify.com/track/52HiikMXz0O7tiXUNtfIme"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Let It Out",
+        "url": "https://open.spotify.com/album/1heWm07TMAcbMTTptJsTfR"
+      },
+      "artists": [
+        {
+          "name": "Firewoodisland",
+          "url": "https://open.spotify.com/artist/4ueLGSUjr5bROoGkeZU4cW"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/3wBdnFJBADZAqLjeTd7Ufe"
     },
     {
       "added_at": "2024-07-12 00:00:00",
@@ -1403,6 +1403,22 @@
       "duration_ms": 179279,
       "name": "Breaking apart",
       "url": "https://open.spotify.com/track/4Zz3JWFgBY3juq3ib9nKDp"
+    },
+    {
+      "added_at": "2024-07-12 00:00:00",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     }
   ],
   "unique_name": "New Music Friday Iceland",

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 417880,
+  "num_followers": 417901,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Aline Barros - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 239815,
-      "name": "Sonda-me, Usa-me",
-      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "15 Anos (ao Vivo)",
         "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5YdjtziN8CPnHXnfkeuUqC"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Aline Barros - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 239815,
+      "name": "Sonda-me, Usa-me",
+      "url": "https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 215666,
       "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
       "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Alfa e \u00d4mega",
-        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 364878,
-      "name": "Alfa e \u00d4mega",
-      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
-    },
-    {
-      "added_at": "2023-11-03 04:33:15",
-      "album": {
         "name": "Aba (Ao Vivo)",
         "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
+    },
+    {
+      "added_at": "2023-11-03 04:33:15",
+      "album": {
+        "name": "Alfa e \u00d4mega",
+        "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 364878,
+      "name": "Alfa e \u00d4mega",
+      "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
+      "duration_ms": 919733,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
     },
     {
       "added_at": "2023-11-03 04:33:15",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-11-03 04:33:15",
       "album": {
-        "name": "Preciso de Ti - Diante do Trono 4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN"
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
       },
       "artists": [
         {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 919733,
-      "name": "Preciso de Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
     },
     {
       "added_at": "2023-11-03 04:33:15",

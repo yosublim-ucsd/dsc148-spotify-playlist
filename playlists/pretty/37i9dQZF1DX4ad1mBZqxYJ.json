@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 101316,
+  "num_followers": 101340,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
@@ -2151,18 +2151,22 @@
     {
       "added_at": "2024-07-10 18:12:34",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL"
+        "name": "L-Gante Rkt",
+        "url": "https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Si Te Vienen a Contar",
-      "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
+      "duration_ms": 182052,
+      "name": "L-Gante Rkt",
+      "url": "https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu"
     },
     {
       "added_at": "2024-07-10 18:12:34",
@@ -2183,22 +2187,18 @@
     {
       "added_at": "2024-07-10 18:12:34",
       "album": {
-        "name": "L-Gante Rkt",
-        "url": "https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub"
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL"
       },
       "artists": [
         {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 182052,
-      "name": "L-Gante Rkt",
-      "url": "https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu"
+      "duration_ms": 219573,
+      "name": "Si Te Vienen a Contar",
+      "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
     },
     {
       "added_at": "2024-07-10 18:12:34",

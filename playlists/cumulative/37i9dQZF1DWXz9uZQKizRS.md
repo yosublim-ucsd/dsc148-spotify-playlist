@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Kwiat Jabłoni
 
-128 songs - 7 hr 6 min
+129 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [7/8 wiosny](https://open.spotify.com/track/1e7k48QWsUS5IcTm6VZ1f9) | [Hoszpital](https://open.spotify.com/artist/6uHQjvQb17rofUQgk2GxB0) | [7/8 wiosny](https://open.spotify.com/album/2qTGm26N7zELysGF4ldnCi) | 2:49 | 2024-06-27 | 2024-07-05 |
 | [ALERTY RCB](https://open.spotify.com/track/2HWPhvQLMVwhTLNVvLK3er) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [ALERTY RCB](https://open.spotify.com/album/3qWtFi06FJ8CyM4GprFhDu) | 2:45 | 2024-06-27 |  |
 | [Astro](https://open.spotify.com/track/6pMI0CAzA3fDUao8gQDC5z) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [Astro](https://open.spotify.com/album/4lYXyaZXD9vY8qQiIzad4b) | 2:58 | 2024-06-27 |  |
-| [b a n d s m u t a s ó w](https://open.spotify.com/track/7fNw0SddmoicL9svh4qHvh) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [b a n d s m u t a s ó w](https://open.spotify.com/album/4y2AzTSKgbhRTnMvUnr2CF) | 2:54 | 2024-06-27 |  |
+| [b a n d s m u t a s ó w](https://open.spotify.com/track/7fNw0SddmoicL9svh4qHvh) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [b a n d s m u t a s ó w](https://open.spotify.com/album/4y2AzTSKgbhRTnMvUnr2CF) | 2:54 | 2024-06-27 | 2024-07-17 |
 | [Bańka](https://open.spotify.com/track/4XjJA3L70ucKdjsvi5SERn) | [Meek, Oh Why?](https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Bańka](https://open.spotify.com/album/6BurNBFGOPHyQUX04aztyp) | 3:12 | 2024-06-27 |  |
 | [Beze Mnie](https://open.spotify.com/track/0ZeQbTqUFBUYrg6B3qYOv9) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [jan tymoteusz](https://open.spotify.com/artist/47tOCG7OGq0vpbmRd35di0) | [in three colors \[live\]](https://open.spotify.com/album/2giwDNFZhiXnOHokxlwCre) | 5:32 | 2024-06-27 |  |
 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 | 2024-06-27 |  |
@@ -82,6 +82,7 @@
 | [openbar](https://open.spotify.com/track/4whfaDrrywYPtJvurSK5PC) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [openbar](https://open.spotify.com/album/6kzNMvgiaO4h02cVxwrymN) | 2:58 | 2024-06-27 |  |
 | [origami](https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [origami](https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u) | 2:37 | 2024-06-27 |  |
 | [Ozdoba](https://open.spotify.com/track/32GWeHkDUF3PhWPM1U1DuX) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [Ozdoba](https://open.spotify.com/album/1uuP3ZrDR1pSgg01lkH2Kc) | 3:35 | 2024-06-27 | 2024-07-05 |
+| [pamiętam](https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [pamiętam](https://open.spotify.com/album/3deHWsaVOQ62u2hyQ2JceC) | 3:09 | 2024-07-16 |  |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-06-27 |  |
 | [Patrz jaki widok](https://open.spotify.com/track/0YvxoYezsZPRp73ECcboqw) | [zachwyt](https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01) | [Patrz jaki widok](https://open.spotify.com/album/1orV4qzDrByKrGxIYvPuJU) | 3:38 | 2024-06-27 |  |
 | [Peron](https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Peron](https://open.spotify.com/album/3Ql2LGYrdsMpxsaLG33SlK) | 2:46 | 2024-06-27 |  |

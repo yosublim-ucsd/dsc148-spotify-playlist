@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35540,
+  "num_followers": 35545,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADtJynCov+iE6T+fRVcu86b",
+  "snapshot_id": "ZpRmgAAAAABifzutIEyZbqqBZMDJaGV7",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245249,
-      "name": "Sum' Bulala",
-      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
+      "duration_ms": 294746,
+      "name": "Monate",
+      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 294746,
-      "name": "Monate",
-      "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+      "duration_ms": 245249,
+      "name": "Sum' Bulala",
+      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black President",
-        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 226213,
-      "name": "Stay Away (From My Man)",
-      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
+      "duration_ms": 306933,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+        "name": "Black President",
+        "url": "https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 306933,
-      "name": "Mali",
-      "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+      "duration_ms": 226213,
+      "name": "Stay Away (From My Man)",
+      "url": "https://open.spotify.com/track/40DPMkp4xEbKKkhUCR65Iv"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 290266,
       "name": "Hamba Sathane",
       "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 314426,
+      "name": "Ngiyakusaba",
+      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 291640,
       "name": "Somlandela",
       "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 314426,
-      "name": "Ngiyakusaba",
-      "url": "https://open.spotify.com/track/6ILdtae2jIJoaj0aFxqQQ4"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

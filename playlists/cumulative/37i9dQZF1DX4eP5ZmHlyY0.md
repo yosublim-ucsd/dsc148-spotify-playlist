@@ -2,7 +2,7 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: 三代目 J SOUL BROTHERS from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
 283 songs - 16 hr 25 min
 
@@ -24,7 +24,7 @@
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
-| [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 | 2024-07-14 |
+| [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 |  |
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 |  |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
@@ -172,7 +172,7 @@
 | [present](https://open.spotify.com/track/6iz1Hlc9Evt7xayq3LyRCP) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [present](https://open.spotify.com/album/68Tt5pQ5JRSMRA9SYczoIs) | 4:27 | 2024-02-13 | 2024-03-06 |
 | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/track/36tQVvEnWA4CfgJAQRNDDP) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX), [Takuma the Great](https://open.spotify.com/artist/2VwCj19Ruz3bW7tF0KRJws) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/1M2kGI112t0hnGpUpqzw2y) | 3:29 | 2024-06-12 | 2024-07-10 |
 | [Purple Dawn](https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF) | 3:04 | 2023-11-28 | 2024-04-10 |
-| [Purple Pill feat\. SKY\-HI](https://open.spotify.com/track/1PbnZDxhi5DqUxtT3PXMfD) | [ØMI](https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Purple Pill feat\. SKY\-HI](https://open.spotify.com/album/1MSsDwGXCiErZzUn85TUOG) | 3:08 | 2024-06-25 |  |
+| [Purple Pill feat\. SKY\-HI](https://open.spotify.com/track/1PbnZDxhi5DqUxtT3PXMfD) | [ØMI](https://open.spotify.com/artist/6hgAxdLyAScworv2mZucqK), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Purple Pill feat\. SKY\-HI](https://open.spotify.com/album/1MSsDwGXCiErZzUn85TUOG) | 3:08 | 2024-06-25 | 2024-07-17 |
 | [Put Your Hearts Up \- feat\. PKCZ\(R\)](https://open.spotify.com/track/3RIRAC776wec7SjwOVbylT) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [HBZ](https://open.spotify.com/album/31jRGQGhvoWErr4unFo1jL) | 2:29 | 2024-03-19 | 2024-04-03 |
 | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/track/5e3JBCj1pGvJ9RumYIAbx9) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/5Ip66t8ULaYtxfEPWZAteE) | 2:42 | 2024-05-28 | 2024-06-05 |
 | [RAINBOWxPATROL](https://open.spotify.com/track/3XIbyNrlsz7pUvGSmP62sH) | [AMPTAKxCOLORS](https://open.spotify.com/artist/2ZdbtKGxrjGGn8xFp5V5e8) | [RAINBOWxPATROL \(Special Edition\)](https://open.spotify.com/album/7ibYbymQeDEPORP2mq1nK2) | 3:36 | 2024-03-19 | 2024-03-27 |

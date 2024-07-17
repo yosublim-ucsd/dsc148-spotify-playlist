@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Jasmine Kelly\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,739 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,737 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/track/5RBFwJdHdlQ11F9bxdvjxF) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/album/5NyuMTWEGkPBMz4xyEw2xu) | 3:40 |
 | 50 | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/track/5ZqIDd1adGJHhILcPXeE6Y) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/album/6IUuElV1sctU8hirdTyieP) | 3:33 |
 
-Snapshot ID: `ZmGTRQAAAABXIJGIC+78A0ubD2EygEQV`
+Snapshot ID: `ZpYY5AAAAADThXBHViJIIZp12Knlluyh`

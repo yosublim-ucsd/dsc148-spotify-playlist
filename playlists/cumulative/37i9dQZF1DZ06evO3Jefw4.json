@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "description": "This Is Katy Perry. Los temas esenciales, todos en una lista.",
   "name": "This Is Katy Perry",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 215042,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2xLOMHjkOK8nzxJ4r6yOKR"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 227813,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/4rHmKlFRiFzabiVO6e9w2e"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 173123,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 197840,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 227880,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203362,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 220360,
       "name": "Hot N Cold - Rock Version",
       "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 292706,
       "name": "If We Ever Meet Again (Featuring Katy Perry)",
       "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 225039,
       "name": "Never Worn White",
       "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 247653,
       "name": "One Of The Boys",
       "url": "https://open.spotify.com/track/6uIODsxIHybW8ngRUAACb6"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 231920,
       "name": "Peacock",
       "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/27tNWlhdAryQY04Gb2ZhUI"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 182595,
       "name": "Teary Eyes",
       "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 234920,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
@@ -1926,6 +1926,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "WOMAN\u2019S WORLD EP",
+        "url": "https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "WOMAN\u2019S WORLD - Super Woman Version",
+      "url": "https://open.spotify.com/track/0JBlHS7B5Q0HzGaTAvEgRp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4"

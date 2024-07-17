@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-566 songs - 1 day 4 hr 52 min
+567 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Invisible](https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Julius Dreisig](https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR) | [Invisible](https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT) | 3:21 | 2022-06-23 | 2024-01-27 |
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 | 2023-08-10 |
 | [ITTY BITTY](https://open.spotify.com/track/6mf4SH1vuqb9xAsnEMxAOT) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [ITTY BITTY](https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m) | 2:10 | 2023-03-28 | 2023-08-10 |
+| [jealous](https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq) | [The Trinity](https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY) | [jealous](https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1) | 2:30 | 2024-07-16 |  |
 | [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 | 2023-08-10 |
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-04-28 |
 | [Kapoeira Phonk](https://open.spotify.com/track/6Z5uARi7p14D527FvssFEl) | [HXDES](https://open.spotify.com/artist/70bgV7fa5H6sTah58wm73l), [DYNAMIS](https://open.spotify.com/artist/2Wt4l7cu2A5QctQ04QCR6S) | [Kapoeira Phonk](https://open.spotify.com/album/2iOKeLLyIB2dkVqvmEZj7a) | 1:32 | 2024-04-26 |  |

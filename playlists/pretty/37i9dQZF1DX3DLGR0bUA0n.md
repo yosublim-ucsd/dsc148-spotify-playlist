@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,669 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,717 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 86 | [Si No Te Tengo](https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Si No Te Tengo](https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq) | 3:43 |
 | 87 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
 | 88 | [El Tarasco \(En Vivo\)](https://open.spotify.com/track/6zjCfifyl34i1LBv59sk9g) | [Banda Primos de Tierra Caliente](https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Puras Pa'Pistear \(Septima Tanda\) \(En Vivo\)](https://open.spotify.com/album/4sE5tPuqvrytzBUVdQzLZ5) | 3:23 |
-| 89 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
-| 90 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 |
+| 89 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 |
+| 90 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 |
 | 91 | [La Ultima Copa](https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Inspirados por Ti](https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb) | 4:16 |
 | 92 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |
 | 93 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:7kNqXtgeIwFtelmRjWv205\">John Summit</a>'s favorite tracks. Curated by John Summit. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 17306,
+  "num_followers": 17363,
   "original_name": "John Summit's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpVmFwAAAACZVPYXIEjn/538NNI7VvUW",
+  "snapshot_id": "ZpZ4AwAAAABxM4O1E6ruzD1xS6fSEEaE",
   "tracks": [
     {
       "added_at": "2024-07-15 18:10:31",
@@ -51,102 +51,6 @@
       "duration_ms": 241846,
       "name": "Resonate (feat. Julia Church)",
       "url": "https://open.spotify.com/track/4ZmWVoFNiBj0iNnnC7E4MA"
-    },
-    {
-      "added_at": "2024-07-15 18:10:31",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 218095,
-      "name": "Give Me Anything",
-      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
-    },
-    {
-      "added_at": "2024-07-15 18:10:31",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "venbee",
-          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
-        }
-      ],
-      "duration_ms": 131294,
-      "name": "palm of my hands",
-      "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
-    },
-    {
-      "added_at": "2024-07-15 18:10:31",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 262153,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ"
-    },
-    {
-      "added_at": "2024-07-15 18:10:31",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "KOATES",
-          "url": "https://open.spotify.com/artist/5YSPtpr66K8oOTvy3UjDcj"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Undo (feat. KOATES)",
-      "url": "https://open.spotify.com/track/6PirrekW8pomBQH3A3XgGT"
-    },
-    {
-      "added_at": "2024-07-15 18:10:31",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 267157,
-      "name": "Comfort In Chaos",
-      "url": "https://open.spotify.com/track/2pObpUTLvvhg8PxSid23gG"
     },
     {
       "added_at": "2024-07-15 18:10:31",
@@ -287,6 +191,26 @@
       "duration_ms": 173523,
       "name": "Show Luv",
       "url": "https://open.spotify.com/track/2SbAcN6cMTrtGeTFA5rqDe"
+    },
+    {
+      "added_at": "2024-07-15 18:10:31",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 262153,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ"
     },
     {
       "added_at": "2024-07-15 18:10:31",
@@ -563,6 +487,26 @@
     {
       "added_at": "2024-07-15 18:10:31",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "palm of my hands",
+      "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
+    },
+    {
+      "added_at": "2024-07-15 18:10:31",
+      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
       },
@@ -735,6 +679,26 @@
     {
       "added_at": "2024-07-15 18:10:31",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "KOATES",
+          "url": "https://open.spotify.com/artist/5YSPtpr66K8oOTvy3UjDcj"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Undo (feat. KOATES)",
+      "url": "https://open.spotify.com/track/6PirrekW8pomBQH3A3XgGT"
+    },
+    {
+      "added_at": "2024-07-15 18:10:31",
+      "album": {
         "name": "Compute",
         "url": "https://open.spotify.com/album/3wrT2kx4jd6sxxPaOw4oxk"
       },
@@ -795,34 +759,22 @@
     {
       "added_at": "2024-07-15 18:10:31",
       "album": {
-        "name": "Escape (John Summit Remix)",
-        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Kx5",
-          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
           "name": "John Summit",
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Escape - John Summit Remix",
-      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
+      "duration_ms": 218095,
+      "name": "Give Me Anything",
+      "url": "https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX"
     },
     {
       "added_at": "2024-07-15 18:10:31",
@@ -1031,6 +983,38 @@
     {
       "added_at": "2024-07-15 18:10:31",
       "album": {
+        "name": "Escape (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Escape - John Summit Remix",
+      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
+    },
+    {
+      "added_at": "2024-07-15 18:10:31",
+      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 448769,
       "name": "Fearing Love - Club Mix",
       "url": "https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc"
+    },
+    {
+      "added_at": "2024-07-15 18:10:31",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 267157,
+      "name": "Comfort In Chaos",
+      "url": "https://open.spotify.com/track/2pObpUTLvvhg8PxSid23gG"
     }
   ],
   "unique_name": "John Summit's track IDs",

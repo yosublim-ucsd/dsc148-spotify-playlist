@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203750,
       "name": "AGE OF AQUA",
       "url": "https://open.spotify.com/track/020KP5ag31xCg14Evfbw9M"
@@ -20248,7 +20248,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 174263,
       "name": "Fierce and Fabulous",
       "url": "https://open.spotify.com/track/1S7jmNa2Hk9LyKDKP3robY"
@@ -22558,7 +22558,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203520,
       "name": "Games",
       "url": "https://open.spotify.com/track/3nISt6mN63h48gycpOWpBn"
@@ -27808,7 +27808,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 171581,
       "name": "I Don't Want to Talk About It",
       "url": "https://open.spotify.com/track/5zB0l7V8nGgDykdScEzL7z"
@@ -30444,7 +30444,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 255477,
       "name": "It Wasn't You",
       "url": "https://open.spotify.com/track/1sUzQQG7L2Lgp4YDXb91MK"
@@ -34485,6 +34485,32 @@
     },
     {
       "album": {
+        "name": "Lil Bae",
+        "url": "https://open.spotify.com/album/3F3lFT9ZlSEx2s1C582XW8"
+      },
+      "artists": [
+        {
+          "name": "TDSG",
+          "url": "https://open.spotify.com/artist/0V0Irs6CvlBZyjykmu2ioz"
+        },
+        {
+          "name": "Sean Carson",
+          "url": "https://open.spotify.com/artist/3QhMfvQ8EiTrdwbmZ72boL"
+        },
+        {
+          "name": "Ramel Shakur",
+          "url": "https://open.spotify.com/artist/3eou0iB9CMdgZ8NQB515Wq"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Lil Bae",
+      "url": "https://open.spotify.com/track/5ClxC5uKIVpVm5K1UV1AKo"
+    },
+    {
+      "album": {
         "name": "Future Wars",
         "url": "https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1"
       },
@@ -34626,7 +34652,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 145000,
       "name": "Little Miss",
       "url": "https://open.spotify.com/track/0UXyXVj5TRSuTRd0lU90xo"
@@ -35056,7 +35082,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 200400,
       "name": "LONDON BRIDGES",
       "url": "https://open.spotify.com/track/1XujjFmwVlbvxnKmu13f8H"
@@ -39098,7 +39124,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 245196,
       "name": "Mixoul",
       "url": "https://open.spotify.com/track/7ff650DQe8ydKxReylkYOE"
@@ -47378,7 +47404,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 186678,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/5fgXXkNPSDdd9hBklYb1uj"
@@ -52164,7 +52190,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 118000,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/6XccDkORrSbqvwDOyKBzyI"
@@ -52996,7 +53022,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 154400,
       "name": "Smilin",
       "url": "https://open.spotify.com/track/1uX68R4ZFXJ5GonZ1i9kkb"
@@ -54876,7 +54902,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 193090,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/2Yq8koklcbpOSVYMOvFWh4"
@@ -55184,6 +55210,24 @@
       "duration_ms": 180296,
       "name": "Stomp & Holler",
       "url": "https://open.spotify.com/track/0J9H8KVWlfKNqVGjzkrWXZ"
+    },
+    {
+      "album": {
+        "name": "Goldtooth",
+        "url": "https://open.spotify.com/album/6m0YFlb0Q7OIBT0Qgb4rJt"
+      },
+      "artists": [
+        {
+          "name": "Goldtooth",
+          "url": "https://open.spotify.com/artist/5PZoEi7wXcmnAuiWnWj4zg"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/1h7SY4Lk2LEBswb9RIDZed"
     },
     {
       "album": {
@@ -56722,7 +56766,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 177093,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/2Ovazj2vYIhleoZQDndAFq"
@@ -57490,7 +57534,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 243302,
       "name": "TAKING OFF",
       "url": "https://open.spotify.com/track/6XWk0BydYS1Yj9AFWW0Tyj"
@@ -63710,7 +63754,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 278522,
       "name": "Wait and See",
       "url": "https://open.spotify.com/track/187zxg7jnIUt5pVVp7A9Wd"
@@ -65920,7 +65964,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 251895,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/0popp9JTRsY8qHkHVTvP0x"
@@ -66882,7 +66926,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 185236,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2ieNHrQ6qsbPYofFQe61J7"
@@ -67940,7 +67984,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 259963,
       "name": "You Don't Want Me Anymore (Acoustic) [Chatfield Remix]",
       "url": "https://open.spotify.com/track/7aqKLHzMeaiBHjd3Hld0Pq"

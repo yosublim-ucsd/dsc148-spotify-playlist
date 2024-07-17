@@ -6,8 +6,24 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACZv1hz0puRn9SrpLHnPDK8gO+itk+W",
+  "snapshot_id": "AACZwDPnY73/xXofah8JLnxIECGAbLwX",
   "tracks": [
+    {
+      "added_at": "2024-07-16 08:53:37",
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 208482,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
     {
       "added_at": "2024-07-12 06:14:51",
       "album": {
@@ -45,7 +61,7 @@
         }
       ],
       "duration_ms": 181146,
-      "name": "My Oh My - with Bebe Rexha & Tove Lo",
+      "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {

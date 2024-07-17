@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0?si=thfFqc9xSU2G3\-VWFd2mKg">Megan Moroney</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,641 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,654 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

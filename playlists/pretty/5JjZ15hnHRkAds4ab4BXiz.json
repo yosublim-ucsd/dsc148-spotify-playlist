@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAAGb8emZkeravkLTOwqTLxxaASa82s5",
+  "snapshot_id": "AAAGclkbyDi/x+2X1MWjXS28Xf9kpasK",
   "tracks": [
     {
       "added_at": "2024-04-08 23:00:29",
@@ -6451,6 +6451,54 @@
       "duration_ms": 244640,
       "name": "I Don't Owe You Anything - 2011 Remaster",
       "url": "https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na"
+    },
+    {
+      "added_at": "2024-07-16 19:24:55",
+      "album": {
+        "name": "Ultraviolet Disguise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Tonight You Are Mine",
+      "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
+    },
+    {
+      "added_at": "2024-07-16 19:48:55",
+      "album": {
+        "name": "Metaphysical",
+        "url": "https://open.spotify.com/album/0oWKnbYnV4rzCcZoo6DWP2"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Neon Roses",
+      "url": "https://open.spotify.com/track/0s1PsjRpN9v3gveUOM6Iux"
+    },
+    {
+      "added_at": "2024-07-16 19:53:31",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3UGEWESDelTk6ppL1SMYM2"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        }
+      ],
+      "duration_ms": 288835,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh"
     }
   ],
   "unique_name": "Ballads",

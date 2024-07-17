@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Feel the Music",
+        "url": "https://open.spotify.com/album/1JU3vcpO1AHV04dtw1Fh1t"
+      },
+      "artists": [
+        {
+          "name": "T-Shirts & Sweats",
+          "url": "https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Feel the Music",
+      "url": "https://open.spotify.com/track/0OzHgnO748U2mdmgV57cgy"
+    },
+    {
+      "album": {
         "name": "First Juice",
         "url": "https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 159272,
       "name": "Galactic Odyssey",
       "url": "https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM"
+    },
+    {
+      "album": {
+        "name": "Game Changer",
+        "url": "https://open.spotify.com/album/5TDq44iN68JvxiA47gbNkH"
+      },
+      "artists": [
+        {
+          "name": "The Big Let Down",
+          "url": "https://open.spotify.com/artist/6xyuBVDedXYKfog6HWaJCR"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212577,
+      "name": "Game Changer",
+      "url": "https://open.spotify.com/track/6A32QbIZSDMf2XjWXZzuxg"
     },
     {
       "album": {
@@ -581,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Infrared",
+        "url": "https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Infrared",
+      "url": "https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN"
+    },
+    {
+      "album": {
         "name": "Interference",
         "url": "https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1"
       },
@@ -596,7 +650,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 170000,
       "name": "Interference",
       "url": "https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m"
@@ -650,7 +704,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 250189,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4"
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 206546,
       "name": "Runway",
       "url": "https://open.spotify.com/track/2pgjNImh0JcvNHsI1NiqhK"
@@ -1194,6 +1248,28 @@
       "duration_ms": 169909,
       "name": "Shake You Off",
       "url": "https://open.spotify.com/track/5N04YJGla33NiuSKaHfrvX"
+    },
+    {
+      "album": {
+        "name": "FiLo",
+        "url": "https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "elati0n",
+          "url": "https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185036,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1"
     },
     {
       "album": {
@@ -1262,7 +1338,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 240290,
       "name": "Stardriver",
       "url": "https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe"

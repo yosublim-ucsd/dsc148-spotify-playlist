@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > MC IG e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,830 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,956 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 44 | [Faz Completo, Chefe](https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB) | [Faz Completo, Chefe](https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL) | 2:07 |
 | 45 | [2022](https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [2022](https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1) | 3:38 |
 | 46 | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z) | [Samba De Dom](https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm) | [Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa](https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm) | 5:20 |
-| 47 | [SERENATA](https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:49 |
-| 48 | [Ainda Gosto De Você / Já Era \- Ao Vivo](https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 5:47 |
+| 47 | [Parece Caro](https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:28 |
+| 48 | [SERENATA](https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x) | [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [MAGIC SHOW](https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW) | 2:49 |
 | 49 | [Modo Galático](https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Coração e Beat](https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ) | 3:26 |
-| 50 | [Parece Caro](https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:28 |
+| 50 | [Ainda Gosto De Você / Já Era \- Ao Vivo](https://open.spotify.com/track/0ZDZzrdvU0G3cybktN9dj8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/6bp0caW2RBmlCqC5k52EJw) | 5:47 |
 
 Snapshot ID: `ZpCcbAAAAABb41TQ7eJSNT3Mse2/s2cy`

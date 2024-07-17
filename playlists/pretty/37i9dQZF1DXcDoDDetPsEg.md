@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Ice Spice & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,317 likes - 64 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,387 likes - 64 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 56 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
 | 57 | [Flow Switcher](https://open.spotify.com/track/2F4Vt9kHvZSFjuYud2Z29w) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Flow Switcher](https://open.spotify.com/album/0gQwzc86UP03BtfBviKHE5) | 2:28 |
 | 58 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
-| 59 | [NASTII](https://open.spotify.com/track/3zPzkOXvineaTCwRsYKZyG) | [MOSES CGB](https://open.spotify.com/artist/34WZYq9XpljqZjXi6Zv2C5), [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [NASTII](https://open.spotify.com/album/5VHkKFuCJAp7JtTl5OK2VP) | 3:41 |
+| 59 | [NASTII](https://open.spotify.com/track/3zPzkOXvineaTCwRsYKZyG) | [MOSES CGB](https://open.spotify.com/artist/34WZYq9XpljqZjXi6Zv2C5), [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [NASTII](https://open.spotify.com/album/5VHkKFuCJAp7JtTl5OK2VP) | 2:40 |
 | 60 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 61 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
 | 62 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |

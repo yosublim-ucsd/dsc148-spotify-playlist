@@ -4,7 +4,7 @@
 
 > ¡Ay Jalisco no te rajes!
 
-118 songs - 6 hr 32 min
+119 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cuatro Rosas](https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver a Verte](https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S) | 4:08 | 2023-05-24 | 2024-04-19 |
 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 | 2022-01-26 | 2023-05-25 |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2023-05-24 |  |
-| [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 | 2024-07-11 |  |
+| [Decidir](https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Y si tuviera disquera](https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U) | 4:37 | 2024-07-11 | 2024-07-17 |
 | [El alacrán](https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:33 | 2023-05-24 | 2023-11-11 |
 | [El Alacrán](https://open.spotify.com/track/724EmguSZnZkNYegszQgig) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:33 | 2023-05-24 | 2023-10-02 |
 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 | 2023-05-24 |  |
@@ -88,6 +88,7 @@
 | [La Ventana Sónica](https://open.spotify.com/track/72GbXDJ7g7sm0iGitCGqC6) | [Eleazar Garcia "Chelelo"](https://open.spotify.com/artist/0VsagfYKzqyBGt6O6tzIHP) | [Tesoros De Coleccion \- Eleazar Garcia "Chelelo"](https://open.spotify.com/album/2X07iqs573O0zHmMbJwtml) | 2:12 | 2022-01-26 | 2023-05-25 |
 | [Leña de pirul](https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La reina de las bandas Vol\. II](https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv) | 2:47 | 2023-05-24 | 2024-04-19 |
 | [Leña de pirul](https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:47 | 2023-05-24 |  |
+| [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 | 2024-07-11 |  |
 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 | 2022-01-26 | 2023-05-25 |
 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 | 2023-05-24 |  |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-05-24 | 2023-08-29 |

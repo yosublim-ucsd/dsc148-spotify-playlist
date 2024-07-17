@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121286,
+  "num_followers": 121283,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Waiting For Tonight",
         "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 198019,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Benny",
-      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Benny",
+      "url": "https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+        "name": "Give You Love (feat. Jason Derulo)",
+        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
+      "duration_ms": 174125,
+      "name": "Give You Love (feat. Jason Derulo)",
+      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Give You Love (feat. Jason Derulo)",
-        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
       },
       "artists": [
         {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
         }
       ],
-      "duration_ms": 174125,
-      "name": "Give You Love (feat. Jason Derulo)",
-      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Op Shop Lover",
-        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 150421,
-      "name": "Op Shop Lover",
-      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Op Shop Lover",
+        "url": "https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 150421,
+      "name": "Op Shop Lover",
+      "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812"
     },
     {
-      "added_at": "2024-06-06 14:00:00",
-      "album": {
-        "name": "Cold Treatment",
-        "url": "https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 227146,
-      "name": "Cold Treatment",
-      "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
-    },
-    {
       "added_at": "2024-06-20 14:00:00",
       "album": {
         "name": "What You've Lost",
@@ -823,6 +807,22 @@
       "duration_ms": 171351,
       "name": "What You've Lost",
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "added_at": "2024-06-06 14:00:00",
+      "album": {
+        "name": "Cold Treatment",
+        "url": "https://open.spotify.com/album/4hXJKq0BF3Du9akLvNCptZ"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 227146,
+      "name": "Cold Treatment",
+      "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
       "added_at": "2024-06-06 14:00:00",
       "album": {
         "name": "24 Hours in Paris",
@@ -935,6 +919,22 @@
       "duration_ms": 180673,
       "name": "24 Hours in Paris",
       "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Miss You Still",
         "url": "https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 150778,
       "name": "Miss You Still",
       "url": "https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Fingerprints",
+        "url": "https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 190851,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Safety Pin",
         "url": "https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C"
       },
@@ -1151,18 +1167,34 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Fingerprints",
-        "url": "https://open.spotify.com/album/6G5sqLGZw37y6V1ZsFQrBv"
+        "name": "Loving Me Lover",
+        "url": "https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ"
       },
       "artists": [
         {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 190851,
-      "name": "Fingerprints",
-      "url": "https://open.spotify.com/track/4kAlUfeHA7oxVKPs823Goj"
+      "duration_ms": 202261,
+      "name": "Loving Me Lover",
+      "url": "https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr"
+    },
+    {
+      "added_at": "2024-07-04 14:00:00",
+      "album": {
+        "name": "Physical Medicine",
+        "url": "https://open.spotify.com/album/7vhgCsaORnzwuw1c4neLoO"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Physical Medicine",
+      "url": "https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1183,38 +1215,6 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Minivan",
-        "url": "https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 245942,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Loving Me Lover",
-        "url": "https://open.spotify.com/album/0AleWkO3Bq3IfF5WxtCyKZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 202261,
-      "name": "Loving Me Lover",
-      "url": "https://open.spotify.com/track/1ssaRxZU0QoRFIgrHEVDqr"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Speedracer",
-        "url": "https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV"
+        "name": "Eulogy",
+        "url": "https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA"
       },
       "artists": [
         {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+          "name": "Ayesha Madon",
+          "url": "https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr"
         }
       ],
-      "duration_ms": 178348,
-      "name": "Speedracer",
-      "url": "https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV"
+      "duration_ms": 212841,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6"
     }
   ],
   "unique_name": "The Local List",

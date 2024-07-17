@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Rise Against. Todos os maiores hits em uma s\u00f3 playlist.",
-  "name": "This Is Rise Against",
+  "description": "This is \u30e9\u30a4\u30ba\u30fb\u30a2\u30b2\u30a4\u30f3\u30b9\u30c8\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30e9\u30a4\u30ba\u30fb\u30a2\u30b2\u30a4\u30f3\u30b9\u30c8",
   "tracks": [
     {
       "album": {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203093,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 214053,
       "name": "Sooner Or later",
       "url": "https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 200066,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "Talking To Ourselves",
       "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 207026,
       "name": "The Strength To Go On",
       "url": "https://open.spotify.com/track/2gVuP7yxrIsn2s3i68eHjt"

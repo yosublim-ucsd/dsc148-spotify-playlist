@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 108 | [Paranoid](https://open.spotify.com/track/0dhh7PwPsKce4PenDZrUox) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:04 |
 | 109 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 
-Snapshot ID: `AbWywgAAAADKE4LPnzg2OST5PTVZg22q`
+Snapshot ID: `AbW4IgAAAAAodPnTPSjuV4bvo7WH/KW1`

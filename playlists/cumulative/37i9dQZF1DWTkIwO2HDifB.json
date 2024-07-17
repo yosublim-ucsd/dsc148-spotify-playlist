@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "MTG CHIHIRO",
+        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
+      },
+      "artists": [
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
+    },
+    {
+      "album": {
         "name": "Colocando Nela",
         "url": "https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs"
       },
@@ -2414,6 +2436,28 @@
       "duration_ms": 138461,
       "name": "Eu Fiquei Com a Puta",
       "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "album": {
+        "name": "Eu So Comi Ela uma Vez",
+        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
+      },
+      "artists": [
+        {
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "MC G DS",
+          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107102,
+      "name": "Eu So Comi Ela uma Vez",
+      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
     },
     {
       "album": {
@@ -4096,7 +4140,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 178080,
       "name": "MONTAGEM ANOS 2000",
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
@@ -6624,7 +6668,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 1000192,
       "name": "Set Vini JR. - Os Pretos No Devido Lugar",
       "url": "https://open.spotify.com/track/7ksXMdL7ULEVfnknjoZC23"

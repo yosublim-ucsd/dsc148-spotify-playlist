@@ -1771,6 +1771,28 @@
     },
     {
       "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239291,
+      "name": "El Silencio de Tu Adios",
+      "url": "https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI"
+    },
+    {
+      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 170814,
       "name": "Paloma En Su Nido",
       "url": "https://open.spotify.com/track/0nPAQ8ejbhiLPkUIXi0PwL"

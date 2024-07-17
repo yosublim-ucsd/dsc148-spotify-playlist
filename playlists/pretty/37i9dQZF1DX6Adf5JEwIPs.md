@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Joan Sebastian y Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,920 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,147 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 29 | [Chiquilla cariñosa \- En Vivo](https://open.spotify.com/track/3uRbbVtxvzPbDUtYtSPRBM) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Poquito De Todo Con Sax Vol.1 \(En Vivo\)](https://open.spotify.com/album/1BegSqTbOarMuulAgGf8PV) | 2:56 |
 | 30 | [Vuelvo Al Rancho](https://open.spotify.com/track/20tvSBxeh9zPb5rJFgdbaY) | [Victor Eduardo](https://open.spotify.com/artist/3l6Z0fKebCCFlLyajThPMh), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Vuelvo Al Rancho](https://open.spotify.com/album/1SkztUcox7RLreGT8U0npK) | 2:55 |
 | 31 | [Honra Y Gloria](https://open.spotify.com/track/2iOYDM0E3ZQ3lf56DzPS5P) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Honra Y Gloria](https://open.spotify.com/album/5HPxQKFfgzv6JQKp0tZHjh) | 3:55 |
-| 32 | [Adolescente Y Bonita](https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Homenaje A Ramon Vega](https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56) | 3:17 |
+| 32 | [Adolescente y Bonita](https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Homenaje A Ramon Vega](https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56) | 3:17 |
 | 33 | [QMR](https://open.spotify.com/track/6rna2RSVgfjisOtAoxjSd9) | [Rob Lasseter](https://open.spotify.com/artist/7qUy2qxLYPqgygkWHzxJ1t), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [QMR](https://open.spotify.com/album/0BMhRgx1DHaLL2Lh4WV07V) | 2:38 |
 | 34 | [Me Enamoras](https://open.spotify.com/track/5aPcHIWzBxda6XEJyxLZ2e) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Me Enamoras](https://open.spotify.com/album/3R53XcCAL3Z1RpD7tzUG1S) | 2:52 |
 | 35 | [El Señor De Nayarit \- En vivo](https://open.spotify.com/track/7cG1xgQWXZKNXDCdcur50l) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Puras Caras En Vivo](https://open.spotify.com/album/2Uf4iamWvsftNqz9jtCos4) | 2:08 |

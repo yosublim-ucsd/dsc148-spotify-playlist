@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u96e2\u5a5a\u4f1d\u8aac",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u00c5lborg",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3120,6 +3120,24 @@
       "duration_ms": 325898,
       "name": "Countdown Rag",
       "url": "https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3"
+    },
+    {
+      "album": {
+        "name": "Doughy",
+        "url": "https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA"
+      },
+      "artists": [
+        {
+          "name": "Summer Whales",
+          "url": "https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194164,
+      "name": "Crack!",
+      "url": "https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n"
     },
     {
       "album": {
@@ -13605,6 +13623,24 @@
     },
     {
       "album": {
+        "name": "The Way I See You",
+        "url": "https://open.spotify.com/album/6Ye2HzPp6DhXo6kYPcS5XQ"
+      },
+      "artists": [
+        {
+          "name": "\u00c5lborg",
+          "url": "https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198492,
+      "name": "Somebody, Somewhere",
+      "url": "https://open.spotify.com/track/1UZ39vzyFxP0ESVubuq8mG"
+    },
+    {
+      "album": {
         "name": "SOMEDAY - Itsuka (feat. tonun)",
         "url": "https://open.spotify.com/album/6yndqOxtCbFBpwy5Bz8D6Z"
       },
@@ -14958,7 +14994,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 356250,
       "name": "The Way I See You",
       "url": "https://open.spotify.com/track/5db7WJtS5Z3b8xIFRWJ8AH"
@@ -20515,6 +20551,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30b8\u30bf\u30eb\u30ce\u30a4\u30ba\u3092\u8d70\u3089\u305b\u3066",
+        "url": "https://open.spotify.com/album/4u6XP7voWlrafF1E1z3IWc"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185233,
+      "name": "\u30c7\u30b8\u30bf\u30eb\u30ce\u30a4\u30ba\u3092\u8d70\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/3IwNQribtVSs51nUG7z7FV"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30e9\u30f3\u30b7\u30fc\u30f4",
         "url": "https://open.spotify.com/album/6qh9RV3PAP2u30DiucUTdR"
       },
@@ -21034,6 +21088,24 @@
       "duration_ms": 172466,
       "name": "\u30d1\u30f3\u30b6\u30de\u30b9\u30c8",
       "url": "https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ab\u30ea\u30a2\u30a6",
+        "url": "https://open.spotify.com/album/5puuEZbC0OZ5LJ5w3dVLms"
+      },
+      "artists": [
+        {
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240373,
+      "name": "\u30d2\u30ab\u30ea\u30a2\u30a6",
+      "url": "https://open.spotify.com/track/6AODTKAEuNgTfMpLTWEYXa"
     },
     {
       "album": {
@@ -23331,6 +23403,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u304c\u601d\u3044\u51fa\u3057\u305f\u3089",
+        "url": "https://open.spotify.com/album/39KG47MwdsDLXuj8T0Uuzf"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "\u541b\u304c\u601d\u3044\u51fa\u3057\u305f\u3089",
+      "url": "https://open.spotify.com/track/2daV7kt818vpPzuzVlndxq"
+    },
+    {
+      "album": {
         "name": "Supply/Demand",
         "url": "https://open.spotify.com/album/6TB0X9L7GGcB4GcPYHcHwS"
       },
@@ -25536,7 +25626,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 248166,
       "name": "\u6625\u3092\u7db4\u3058\u308b",
       "url": "https://open.spotify.com/track/5380ecDY45s7k3FrFGcqFx"
@@ -26048,6 +26138,28 @@
       "duration_ms": 224007,
       "name": "\u6a2a\u306b\u7e26\u306b",
       "url": "https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy"
+    },
+    {
+      "album": {
+        "name": "\u6a39\u6d77",
+        "url": "https://open.spotify.com/album/5hnkmEqpxl7q8XdY5pkZMV"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251612,
+      "name": "\u6a39\u6d77",
+      "url": "https://open.spotify.com/track/0cvOEaixEZpRagyyABvbaY"
     },
     {
       "album": {
@@ -28650,6 +28762,24 @@
       "duration_ms": 235571,
       "name": "\u98a8\u8239\u306f\u5c0f\u3055\u306a\u624b\u3092\u96e2\u308c\u3066",
       "url": "https://open.spotify.com/track/1dF4ksSNiXJnogblM7YfEa"
+    },
+    {
+      "album": {
+        "name": "BOMB",
+        "url": "https://open.spotify.com/album/0LTGxuHB4W1j6594P15g08"
+      },
+      "artists": [
+        {
+          "name": "\u30ab\u30e9\u30ce\u30a2",
+          "url": "https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164636,
+      "name": "\u98a8\u90aa\u3063\u3074\u304d",
+      "url": "https://open.spotify.com/track/0FxMiUvvTLvD0SfxC5k7HI"
     },
     {
       "album": {

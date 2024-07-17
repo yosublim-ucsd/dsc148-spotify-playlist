@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Sick Luke, Lazza, Sadturs&KIIDS, Dani Faiv e tanti altri! 🔥
+> Sempre aggiornata\. Con nuovi brani di Sick Luke, Lazza, Sadturs & KIID, Dani Faiv e tanti altri! 🔥
 
 3,923 songs - 7 day 8 hr 32 min
 
@@ -2454,7 +2454,7 @@
 | [NON C'E' RIPOSO](https://open.spotify.com/track/6s8B45CCLLe3iCElkAlYa3) | [TPrex](https://open.spotify.com/artist/0DS0HbGsD8o2ptbl1lCCok), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [\#31\#](https://open.spotify.com/album/7timDDmtEX9hTr9f2uK7OK) | 2:30 | 2024-03-21 | 2024-04-12 |
 | [Non ci basta](https://open.spotify.com/track/0pOLk0GIHU3INPdYt1Bjn7) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Non ci basta](https://open.spotify.com/album/2ch95H0nbpGZ3JbannmLnV) | 2:49 | 2024-02-15 | 2024-02-23 |
 | [Non ci credo](https://open.spotify.com/track/1bRY4AJWG6RE6RORNAhlcd) | [Safe](https://open.spotify.com/artist/0shHMn1Y2nEr1yPdlc0u70) | [Non ci credo](https://open.spotify.com/album/7sadAhWs3ZmzdICWxwVHCm) | 2:29 | 2023-09-07 | 2023-09-29 |
-| [NON CI FERMI MAI \(feat\. Marsiglia, Kerim Levrai, Orfedi, YANIS LA STRADA, Boya\)](https://open.spotify.com/track/474I8T9h2WZ98Pinp5Yq4m) | [GROUP5](https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu), [Marsiglia](https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD), [Kerim Levrai](https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta), [Orfedi](https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue), [YANIS LA STRADA](https://open.spotify.com/artist/05yX5gzc5F7gQF1OV5Nf8I), [Boya](https://open.spotify.com/artist/130gpNzKdEyIvWWbaQ0UlO) | [5](https://open.spotify.com/album/4PfbZ5x99x2ItLSPw9gpdi) | 2:52 | 2024-07-11 |  |
+| [NON CI FERMI MAI \(feat\. Marsiglia, Kerim Levrai, Orfedi, YANIS LA STRADA, Boya\)](https://open.spotify.com/track/474I8T9h2WZ98Pinp5Yq4m) | [GROUP5](https://open.spotify.com/artist/2hx4C3GnYXZh96qs9jgZFu), [Marsiglia](https://open.spotify.com/artist/360DKtml0W70xlAGX7bEwD), [Kerim Levrai](https://open.spotify.com/artist/2snabMyKqMDWa5rbHSP1ta), [Orfedi](https://open.spotify.com/artist/6tWqhYyCcRdweFdayEdUue), [YANIS LA STRADA](https://open.spotify.com/artist/05yX5gzc5F7gQF1OV5Nf8I), [Boya](https://open.spotify.com/artist/4iQgimNhNNW2FTHo7CjtjD) | [5](https://open.spotify.com/album/4PfbZ5x99x2ItLSPw9gpdi) | 2:52 | 2024-07-11 |  |
 | [Non Confondermi](https://open.spotify.com/track/0tNWG65aDhAJRBmH9yoBwW) | [Khera](https://open.spotify.com/artist/1mF3Knm2KX7t8RgdK3iUpf) | [Non Confondermi](https://open.spotify.com/album/3Fg255OAPYcVXEaQXvgbzw) | 2:42 | 2024-03-14 | 2024-03-22 |
 | [Non dirmi di no](https://open.spotify.com/track/3UU2kTKbu4crBMPzk1KeJI) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Non dirmi di no](https://open.spotify.com/album/0syoy5ELSQ0rcNy9Bv7hEe) | 2:50 | 2023-06-08 | 2023-06-16 |
 | [Non Dormirò](https://open.spotify.com/track/7sLavFm97j5SN0RzDHBEai) | [Brasky](https://open.spotify.com/artist/5QdJHD6ewQYohCOwsZV5Me) | [Non Dormirò](https://open.spotify.com/album/3dH5zcxY8Ma4Bdj9vrJb8L) | 2:15 | 2023-04-20 | 2023-05-05 |

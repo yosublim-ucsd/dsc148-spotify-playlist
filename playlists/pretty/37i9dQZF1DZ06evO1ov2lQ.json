@@ -1,29 +1,13 @@
 {
-  "description": "This is Biosphere. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3116,
+  "description": "This is Biosphere. The essential tracks, all in one playlist.",
+  "num_followers": 3117,
   "original_name": "This Is Biosphere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAB7Srghzn83C1pI47CtMbQ9",
+  "snapshot_id": "ZpRmgAAAAADkw0Cv+HzJ/HuVutNj22cd",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Poa Alpina",
-      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
-    },
     {
       "added_at": null,
       "album": {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Times When I Know You'll Be Sad",
-      "url": "https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw"
+      "duration_ms": 432600,
+      "name": "Kobresia",
+      "url": "https://open.spotify.com/track/5O6MFTh1rd9PeN8XEn1yCS"
     },
     {
       "added_at": null,
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Senja Recordings",
-        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+        "name": "Shenzhou [Reissue]",
+        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
       },
       "artists": [
         {
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 292480,
-      "name": "Bergsbotn I",
-      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
+      "duration_ms": 299284,
+      "name": "Shenzhou",
+      "url": "https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL"
     },
     {
       "added_at": null,
@@ -276,9 +260,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 304586,
-      "name": "Antennaria",
-      "url": "https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh"
+      "duration_ms": 224400,
+      "name": "Times When I Know You'll Be Sad",
+      "url": "https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 292480,
+      "name": "Bergsbotn I",
+      "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
       "duration_ms": 318949,
       "name": "From a Solid To a Liquid",
       "url": "https://open.spotify.com/track/2LWPDsw1WejU1AkWzNM9Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Oi-1",
-      "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
     },
     {
       "added_at": null,
@@ -340,9 +324,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 181413,
-      "name": "Uva-Ursi",
-      "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"
+      "duration_ms": 304586,
+      "name": "Antennaria",
+      "url": "https://open.spotify.com/track/5ypp9xJW7yp3f2yC10gHEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Oi-1",
+      "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
     },
     {
       "added_at": null,
@@ -372,9 +372,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 299284,
-      "name": "Shenzhou",
-      "url": "https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL"
+      "duration_ms": 296092,
+      "name": "Heat Leak",
+      "url": "https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "Uva-Ursi",
+      "url": "https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx"
     },
     {
       "added_at": null,
@@ -427,38 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shenzhou [Reissue]",
-        "url": "https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 296092,
-      "name": "Heat Leak",
-      "url": "https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Global Underground #43: Joris Voorn - Rotterdam (DJ Mix)",
         "url": "https://open.spotify.com/album/19mo8UP3Rhdqw1SGBbUFvf"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 48111,
-      "name": "Grandiflora",
-      "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
+      "duration_ms": 318577,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
     },
     {
       "added_at": null,
@@ -564,15 +564,15 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 340974,
-      "name": "Tan\u00df",
-      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 318577,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j"
+      "duration_ms": 48111,
+      "name": "Grandiflora",
+      "url": "https://open.spotify.com/track/0XG0jUpQ4ubOz9hzqbygOq"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cirque",
-        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
+        "name": "L'incoronazione Di Poppea",
+        "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
       },
       "artists": [
         {
@@ -628,25 +628,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 64053,
-      "name": "Miniature Rock Dwellers",
-      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Microgravity",
-        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 326751,
-      "name": "Cloudwalker Ii",
-      "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
+      "duration_ms": 64178,
+      "name": "La Sconsolata",
+      "url": "https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inland Delta",
-        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
       },
       "artists": [
         {
@@ -676,15 +660,15 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 169280,
-      "name": "Florian\u00b4s Flute",
-      "url": "https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj"
+      "duration_ms": 160000,
+      "name": "Monju - 1",
+      "url": "https://open.spotify.com/track/3Uum7nj3BuWhmkvcA50OBw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "L'incoronazione Di Poppea",
-        "url": "https://open.spotify.com/album/4TgfPL0vRiA2MToVsBcUEA"
+        "name": "Microgravity",
+        "url": "https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY"
       },
       "artists": [
         {
@@ -692,25 +676,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 64178,
-      "name": "La Sconsolata",
-      "url": "https://open.spotify.com/track/0e3vabGuru2Y3MUv9m29Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patashnik",
-        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 387308,
-      "name": "Novelty Waves",
-      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
+      "duration_ms": 326751,
+      "name": "Cloudwalker Ii",
+      "url": "https://open.spotify.com/track/1sc11Z7HhrSqxFE0YTfH7Z"
     },
     {
       "added_at": null,
@@ -731,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+        "name": "Cirque",
+        "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
       "artists": [
         {
@@ -740,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Monju - 1",
-      "url": "https://open.spotify.com/track/3Uum7nj3BuWhmkvcA50OBw"
+      "duration_ms": 64053,
+      "name": "Miniature Rock Dwellers",
+      "url": "https://open.spotify.com/track/0SrIBh7MBoZ741GpqZIgqO"
     },
     {
       "added_at": null,
@@ -756,9 +724,25 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 312440,
-      "name": "Delta Function",
-      "url": "https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD"
+      "duration_ms": 169280,
+      "name": "Florian\u00b4s Flute",
+      "url": "https://open.spotify.com/track/2J0O7r3f6THs06qJwjgVyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patashnik",
+        "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 387308,
+      "name": "Novelty Waves",
+      "url": "https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inland Delta",
+        "url": "https://open.spotify.com/album/2JjR9KTuYLUDLctLpcAYiq"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 312440,
+      "name": "Delta Function",
+      "url": "https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cirque",
         "url": "https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl"
       },
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patashnik [Decrypted By Sketch]",
-        "url": "https://open.spotify.com/album/1ufomz4DidAU7QxfXkhpQE"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
           "name": "Biosphere",
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        },
-        {
-          "name": "Sketch",
-          "url": "https://open.spotify.com/artist/0WIvZeTr7H3B4qvY4aAKzl"
         }
       ],
-      "duration_ms": 885462,
-      "name": "Caboose - Sketch Remix 1",
-      "url": "https://open.spotify.com/track/07hJwxGrrf65FuinKOhvYe"
+      "duration_ms": 304460,
+      "name": "Arafura",
+      "url": "https://open.spotify.com/track/2yJMu2hzbQ8MQur8HwaSVV"
     }
   ],
   "unique_name": "This Is Biosphere",

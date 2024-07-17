@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 234813,
       "name": "A Mother Like You",
       "url": "https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av"
@@ -162,6 +162,28 @@
     {
       "album": {
         "name": "All In",
+        "url": "https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Lulu West",
+          "url": "https://open.spotify.com/artist/7a3sDI6GCVntr6RXmCphhl"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Becoming Me",
+      "url": "https://open.spotify.com/track/1ClHmPJLgZPIGU9uf7DGaA"
+    },
+    {
+      "album": {
+        "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
       "artists": [
@@ -266,7 +288,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 213080,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
@@ -284,7 +306,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 241826,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD"
@@ -302,7 +324,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
@@ -464,7 +486,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 183413,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7oZqpToODghmQtvmzmyfQK"
@@ -482,7 +504,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 218106,
       "name": "Fight On, Fighter",
       "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
@@ -500,7 +522,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 201146,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun"
@@ -536,7 +558,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 236106,
       "name": "Footprints in the Sand - Single Mix",
       "url": "https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2"
@@ -554,7 +576,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 229760,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
@@ -572,7 +594,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 211266,
       "name": "Growing Older",
       "url": "https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL"
@@ -590,7 +612,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 207172,
       "name": "He Knows My Name",
       "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
@@ -760,7 +782,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 294533,
       "name": "I Hope You Dance",
       "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
@@ -796,7 +818,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 268533,
       "name": "I Will Be Here",
       "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
@@ -868,7 +890,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 207432,
       "name": "Keep Me In The Moment - Radio Version",
       "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
@@ -962,7 +984,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 192893,
       "name": "Love God Love People - Radio Version",
       "url": "https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S"
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 184103,
       "name": "Love Me Like I Am",
       "url": "https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 158772,
       "name": "Mama",
       "url": "https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux"
@@ -1258,7 +1280,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 231000,
       "name": "More Beautiful You",
       "url": "https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY"
@@ -1330,7 +1352,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 266000,
       "name": "Nobody Loves Me Like You",
       "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203942,
       "name": "Paving the Runway (You're Gonna Fly)",
       "url": "https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj"
@@ -1456,7 +1478,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 208520,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao"
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 207901,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/5nHI8nKWPcuLvhdg50Y0ey"
@@ -1564,7 +1586,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 175120,
       "name": "Sweet Love of Mine (Acoustic)",
       "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
@@ -1683,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Revive",
+        "url": "https://open.spotify.com/album/16JL6rDC3VCsKJkIciBXUP"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267247,
+      "name": "This Is My Thank You (Mommy\u2019s Song)",
+      "url": "https://open.spotify.com/track/72xMx4bnIan9e1h4rI7wso"
+    },
+    {
+      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -1694,7 +1734,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
@@ -1712,7 +1752,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 211600,
       "name": "Trust In You",
       "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
@@ -1748,10 +1788,46 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 211822,
       "name": "Unsung Hero",
       "url": "https://open.spotify.com/track/3SlET8cwpL8uGI6BFFqmsp"
+    },
+    {
+      "album": {
+        "name": "Unsung Hero (The Inspired By Soundtrack)",
+        "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194759,
+      "name": "Unsung Hero - Single Edit",
+      "url": "https://open.spotify.com/track/4nl4VNUEN8ZaEq8v8o89tl"
+    },
+    {
+      "album": {
+        "name": "Watch You Be A Mother",
+        "url": "https://open.spotify.com/album/5GMeNlwBaPLfkRRbY5QxXc"
+      },
+      "artists": [
+        {
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195240,
+      "name": "Watch You Be A Mother",
+      "url": "https://open.spotify.com/track/67IB1lHdV5kf7H0NigJTPG"
     },
     {
       "album": {
@@ -1802,7 +1878,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 280866,
       "name": "We Will Dance",
       "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
@@ -1838,7 +1914,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 215466,
       "name": "What I Never Knew I Always Wanted",
       "url": "https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb"
@@ -1856,7 +1932,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 281013,
       "name": "When God Made You",
       "url": "https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE"
@@ -1874,7 +1950,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 157746,
       "name": "When I Talk to God",
       "url": "https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA"
@@ -1936,7 +2012,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 203941,
       "name": "Write Your Story",
       "url": "https://open.spotify.com/track/0wWDNsLRUuXFGRd4NcrdrR"
@@ -2006,6 +2082,24 @@
       "duration_ms": 366160,
       "name": "You Make Me Brave - Live",
       "url": "https://open.spotify.com/track/14I9CpiA1CMTdLga8SKAjJ"
+    },
+    {
+      "album": {
+        "name": "Your Love Defends Me",
+        "url": "https://open.spotify.com/album/4YXPklDfVeYK6PeJwr6j7V"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Your Love Defends Me",
+      "url": "https://open.spotify.com/track/4EFRKHigIJ18jPJq12jAVW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: YOOKiE \\m/",
-  "num_followers": 328722,
+  "num_followers": 328743,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1983,6 +1983,26 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -2003,26 +2023,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "duration_ms": 162856,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
         "name": "Brunt",
         "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 205241,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "duration_ms": 162856,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2407,30 +2407,6 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3jdiIaMrGeRxFbjkdz3LBE"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Stoned Level",
-          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
-        }
-      ],
-      "duration_ms": 217655,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/1ttkNqDHNLSJBdlVwalFF0"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
         "name": "Black Velvet",
         "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
       },
@@ -2487,22 +2463,42 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Worst Night of My Life",
-        "url": "https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY"
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3jdiIaMrGeRxFbjkdz3LBE"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
         },
         {
-          "name": "SPIRIT LINK",
-          "url": "https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc"
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "Qoiet",
+          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Worst Night of My Life",
-      "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"
+      "duration_ms": 217655,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1ttkNqDHNLSJBdlVwalFF0"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2024-07-12 17:41:26",

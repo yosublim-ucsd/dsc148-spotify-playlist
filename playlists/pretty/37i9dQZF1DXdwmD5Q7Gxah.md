@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > happy 5 years of lorem\. thank you for listening :\) cover: Clairo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,845 likes - 123 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,730 likes - 123 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

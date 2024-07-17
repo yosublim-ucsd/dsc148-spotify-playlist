@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Judeline.",
-  "num_followers": 754141,
+  "num_followers": 754151,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
-        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
+        "name": "el parque",
+        "url": "https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        },
+        {
+          "name": "Violeta H\u00f3dar",
+          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
         }
       ],
-      "duration_ms": 249600,
-      "name": "NADIE M\u00c1S!",
-      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
+      "duration_ms": 173616,
+      "name": "el parque",
+      "url": "https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -91,22 +95,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "el parque",
-        "url": "https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C"
+        "name": "S\u00cdSIFO / NADIE M\u00c1S!",
+        "url": "https://open.spotify.com/album/6p8AhSbmlsrAaqqV1BnBGD"
       },
       "artists": [
         {
-          "name": "Chiara Oliver",
-          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
-        },
-        {
-          "name": "Violeta H\u00f3dar",
-          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 173616,
-      "name": "el parque",
-      "url": "https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc"
+      "duration_ms": 249600,
+      "name": "NADIE M\u00c1S!",
+      "url": "https://open.spotify.com/track/5DtnCKnQ8nmRX1JL8N90Ua"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 217096,
-      "name": "Te Am\u00e9 Temprano",
-      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 201355,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 217096,
+      "name": "Te Am\u00e9 Temprano",
+      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "(sola)",
+        "url": "https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 148677,
+      "name": "(sola)",
+      "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Achachair\u00fa",
         "url": "https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 140894,
       "name": "Achachair\u00fa",
       "url": "https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "(sola)",
-        "url": "https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 148677,
-      "name": "(sola)",
-      "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -511,18 +511,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+        "name": "chill like that ft. Jesse Baez",
+        "url": "https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+      "duration_ms": 154736,
+      "name": "chill like that ft. Jesse Baez",
+      "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -551,22 +555,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "chill like that ft. Jesse Baez",
-        "url": "https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ"
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
       "artists": [
         {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
         }
       ],
-      "duration_ms": 154736,
-      "name": "chill like that ft. Jesse Baez",
-      "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "blush",
+        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 106222,
+      "name": "bruce willisss",
+      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "blush",
-        "url": "https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 106222,
-      "name": "bruce willisss",
-      "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Luna mar",
         "url": "https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 208057,
       "name": "Tambi\u00e9n de dolor se canta",
       "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -819,18 +803,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Amor Artificial",
-        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4"
       },
       "artists": [
         {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 219986,
-      "name": "Amor Artificial",
-      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
+      "duration_ms": 151280,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -847,6 +835,38 @@
       "duration_ms": 195080,
       "name": "Flecha",
       "url": "https://open.spotify.com/track/3pKqURqogvWFugRGpWy0pG"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -899,26 +919,6 @@
       "duration_ms": 137872,
       "name": "Fall in Love Again",
       "url": "https://open.spotify.com/track/2MW6Yui61LO7dLjakQHN2C"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Esc\u00e1ndalo",
-        "url": "https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 151280,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Purista",
+        "url": "https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM"
+      },
+      "artists": [
+        {
+          "name": "Abrildefresa",
+          "url": "https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Frankies",
+      "url": "https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "La Verdad",
         "url": "https://open.spotify.com/album/7cXzfzrkgf5peHs9PIOaw7"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 161148,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/2GqJCcdlPR9xkDkZpPkW9z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Esta vida que eleg\u00ed",
-        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187783,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "By Your Side / A T\u00fa Lado",
-        "url": "https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj"
-      },
-      "artists": [
-        {
-          "name": "Yung Pleit",
-          "url": "https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "By Your Side / A T\u00fa Lado",
-      "url": "https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "aguardiente",
         "url": "https://open.spotify.com/album/3TIihrZYBfGRrfsEcGz6Ch"
       },
@@ -1159,6 +1143,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Esta vida que eleg\u00ed",
+        "url": "https://open.spotify.com/album/0alnRc5CatL1is7bUqJ1j9"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187783,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/2InhKV1mZAkERacOHu7Shb"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "By Your Side / A T\u00fa Lado",
+        "url": "https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj"
+      },
+      "artists": [
+        {
+          "name": "Yung Pleit",
+          "url": "https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "By Your Side / A T\u00fa Lado",
+      "url": "https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/6AitlMXq7JCzB28hJPhPgx"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 231146,
       "name": "Gaucho",
       "url": "https://open.spotify.com/track/2QNQ8XWpFjuTrHBLn7gEpj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "no llamaste (Remix)",
-        "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        },
-        {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
-        }
-      ],
-      "duration_ms": 246233,
-      "name": "no llamaste - Remix",
-      "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
     }
   ],
   "unique_name": "Mixto",

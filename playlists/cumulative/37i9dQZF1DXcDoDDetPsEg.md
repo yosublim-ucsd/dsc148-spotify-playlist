@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Ice Spice & Central Cee
 
-1,200 songs - 2 day 13 hr 4 min
+1,200 songs - 2 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,7 +718,7 @@
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-17 | 2022-06-10 |
 | [Nack](https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [Nack](https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d) | 2:49 | 2023-01-06 | 2023-03-03 |
 | [Naij Blood](https://open.spotify.com/track/7gynWYGLgh5b5S98GSBufK) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Naij Blood](https://open.spotify.com/album/6dTPkWC1NO5IvvyBCSYeY9) | 2:34 | 2024-02-22 | 2024-03-16 |
-| [NASTII](https://open.spotify.com/track/3zPzkOXvineaTCwRsYKZyG) | [MOSES CGB](https://open.spotify.com/artist/34WZYq9XpljqZjXi6Zv2C5), [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [NASTII](https://open.spotify.com/album/5VHkKFuCJAp7JtTl5OK2VP) | 3:41 | 2024-07-12 |  |
+| [NASTII](https://open.spotify.com/track/3zPzkOXvineaTCwRsYKZyG) | [MOSES CGB](https://open.spotify.com/artist/34WZYq9XpljqZjXi6Zv2C5), [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [NASTII](https://open.spotify.com/album/5VHkKFuCJAp7JtTl5OK2VP) | 2:40 | 2024-07-12 |  |
 | [Needle \(feat\. Drake\)](https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:55 | 2023-12-11 | 2024-03-09 |
 | [Neighbourhood Hero](https://open.spotify.com/track/03QtKGgldQkz00VPHiZtg1) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Neighbourhood Hero](https://open.spotify.com/album/1oquYifDek9GGLnd6XrhBP) | 3:16 | 2023-06-22 | 2023-08-04 |
 | [NEIGHBOURS](https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [NEIGHBOURS](https://open.spotify.com/album/5k1htUtASv8WIFomZCnb7a) | 3:06 | 2024-04-25 | 2024-06-01 |

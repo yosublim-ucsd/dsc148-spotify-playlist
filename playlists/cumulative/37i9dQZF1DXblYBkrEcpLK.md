@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: My Deer Friend Nokotan しかのこのこのここしたんたん ©おしおしお・講談社／日野南高校シカ部
 
-688 songs - 1 day 21 hr 48 min
+689 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [エメラルド](https://open.spotify.com/track/1YVMz0iftvnc4stAEMkhJr) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [エメラルド](https://open.spotify.com/album/09mACU8bjpR5TiX37AXTEp) | 3:40 | 2023-05-09 | 2023-05-24 |
 | [オンリー](https://open.spotify.com/track/4hJmc8djXkDik2wEKrfe6R) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [オンリー](https://open.spotify.com/album/3OpRSmtFASdDxOGZyt8IN0) | 3:50 | 2022-06-12 | 2022-07-29 |
 | [カナユメ](https://open.spotify.com/track/5n63vjAwKJy4GN9B6vu4cd) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [カナユメ](https://open.spotify.com/album/3BwWZNxUTv3qJXKkrygSC3) | 5:07 | 2022-06-24 | 2022-07-29 |
-| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-02-13 |  |
+| [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-02-13 | 2024-07-17 |
 | [キミとセミブルー](https://open.spotify.com/track/3uWSKo3aWWcC7X0uiXRmOH) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [有村麻央](https://open.spotify.com/artist/5BAKveSLkmyXPCIkpj1Fk8), [紫雲清夏](https://open.spotify.com/artist/0TuubEkxXuUbxPWhZyEsJs), [姫崎莉波](https://open.spotify.com/artist/29izEVvc7Y1YS3BZhE6OXh) | [キミとセミブルー](https://open.spotify.com/album/5PqxoESaAvcqFZK3GuwWUA) | 3:56 | 2024-07-03 | 2024-07-10 |
 | [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 | 2023-04-11 | 2023-05-11 |
 | [キョリ感](https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [キョリ感](https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq) | 3:51 | 2022-06-24 | 2022-07-27 |
@@ -665,6 +665,7 @@
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-06-14 | 2022-07-15 |
 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-23 |  |
 | [誰彼スクランブル](https://open.spotify.com/track/0psSjxGt2lNnWYhZLLqBT6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [誰彼スクランブル](https://open.spotify.com/album/3riDcXmPfyF8WRyiFUJOo3) | 4:28 | 2022-07-07 | 2022-07-25 |
+| [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-07-16 |  |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-21 | 2022-06-25 |
 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-10-10 | 2024-02-14 |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-12 | 2023-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Käärijä ja Joost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,486 likes - 121 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,493 likes - 121 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 13 | [PRADA SHEIDIT](https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PRADA SHEIDIT](https://open.spotify.com/album/1b4Ap7YFqXzo9R2vZ7XAL9) | 2:33 |
 | 14 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 15 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 |
-| 16 | [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
+| 16 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
 | 17 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 18 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
 | 19 | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/track/6kbZCTF1nRX5hby64Z1Wmq) | [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5), [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/album/1CARdA6I2UNChyv6Njcsua) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,775 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,777 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 29 | [OPENING STAGE](https://open.spotify.com/track/5TOzHUzLfUvLppskdhyCxZ) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [ロックマンX3 サウンド コレクション](https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw) | 1:35 |
 | 30 | [長曾我部元親のテーマ](https://open.spotify.com/track/2kDR0tn8wc11wetaxGtntt) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [戦国BASARA 西軍BEST](https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD) | 2:06 |
 | 31 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1m3f9gu1huZORuJ2uB34Tm) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [バイオハザード 6 オリジナル・サウンドトラック](https://open.spotify.com/album/3iD3OUJv0glDai64IVxMFk) | 3:50 |
-| 32 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
-| 33 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
+| 32 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
+| 33 | [Esperanto](https://open.spotify.com/track/70CUZtpLl7JYn5UJ99HkS4) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [ロックマン ゼロ4 オリジナルサウンドトラック](https://open.spotify.com/album/5llJtMDrs4Kmtq8iEFZs9s) | 2:19 |
 | 34 | [X4 \- BOSS](https://open.spotify.com/track/4u3iiJok9uFwOCFS6YggNU) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d) | [ロックマンX アニバーサリーコレクション サウンドトラック](https://open.spotify.com/album/4Tx330gx8oYUUWDQM27Ffy) | 2:51 |
 | 35 | [墓場](https://open.spotify.com/track/4JaYyVgt7FuTtYanPrWeOn) | [M\-TWO Inc.](https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9), [designwave co.,ltd.](https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62) | [帰ってきた 魔界村 オリジナル・サウンドトラック](https://open.spotify.com/album/4EPXj1UsxZa0R66wcZJ0nv) | 1:42 |
 | 36 | [ROCKMAN2/Dr\. WILY STAGE 1 \- OMEGAMAN MIX](https://open.spotify.com/track/1uRa9Jk0Xw03kiMqrGOb7N) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/5h4Q9ndqX9UNPnhwsonC3G) | 3:53 |

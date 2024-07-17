@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 ### [This Is Finch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xlck7)
 
-> This is Finch\. The essential tracks, all in one playlist.
+> This is Finch\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,950 likes - 23 songs - 1 hr 27 min
 
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 22 | [Fireflies](https://open.spotify.com/track/65SgwW4bzyNhApmK2kzrqt) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:28 |
 | 23 | [Murder Me](https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:11 |
 
-Snapshot ID: `ZpMVAAAAAAAi4XiTjcb947QYAlyUhbl0`
+Snapshot ID: `ZpRmgAAAAAC9lHBWNHwE6S1EM4rmtU5C`

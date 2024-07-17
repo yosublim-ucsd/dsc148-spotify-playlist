@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\(더 발룬티어스\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-747 songs - 1 day 21 hr 42 min
+748 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 | 2021-12-12 |  |
 | [from twenty](https://open.spotify.com/track/0tN2Z7B2V1tR4BmVljIg44) | [kimparkjeje](https://open.spotify.com/artist/602h8qtRacImt6YVsJQZci) | [from twenty](https://open.spotify.com/album/75Cm9LvIZCWCy6bgBGEVa9) | 3:02 | 2022-03-31 | 2022-04-20 |
 | [Funky Drive](https://open.spotify.com/track/2dfDjliDkAZwTas9pcVAtw) | [JulyMorning](https://open.spotify.com/artist/30P86pnaycnTGEKX0mFEP6), [12Wol](https://open.spotify.com/artist/4jeMPxrPovmczIJySSyXxW) | [Funky Drive](https://open.spotify.com/album/1nE2YT12F7GD0IVD7O8Rci) | 3:39 | 2022-05-03 | 2022-05-06 |
+| [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-07-16 |  |
 | [Gentle Breeze](https://open.spotify.com/track/0gywQujjcGhh1XAjMkjhwd) | [OLIVER](https://open.spotify.com/artist/4WzpqecdwnCeWATK2UpssH) | [Gentle Breeze](https://open.spotify.com/album/5Cvj2fZ0NE49eYxq51UBvk) | 3:11 | 2021-12-21 | 2022-07-06 |
 | [Getting the Season](https://open.spotify.com/track/66ZCqYrneHDfVoxE3cE5O0) | [Ryoni](https://open.spotify.com/artist/4i9PKdDoAnZi9xC9VhqbdM) | [Getting the Season](https://open.spotify.com/album/77DQNQ0pscdJwCI0uz9RtW) | 4:14 | 2022-03-31 | 2022-04-15 |
 | [Ghost Theatre](https://open.spotify.com/track/40iWsP5PYbpJB7uC4eE5pU) | [Moskva Surfing Club](https://open.spotify.com/artist/72RQExfl8kYY207YfKV5Nl) | [Ghost Theatre](https://open.spotify.com/album/4eN3Dzm5FEaPly9th3vjeQ) | 5:34 | 2024-04-30 | 2024-05-10 |
@@ -563,7 +564,7 @@
 | [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 | 2022-05-11 | 2022-06-08 |
 | [So, Sometimes, I](https://open.spotify.com/track/30v6L22ChZQMHGsbV0wzut) | [OYEOL](https://open.spotify.com/artist/7qhXhpFaPjoBhqebBazlaR) | [So, Sometimes, I](https://open.spotify.com/album/3mmzEA59HmwLRad8PwuXnk) | 3:20 | 2022-03-31 | 2022-04-12 |
 | [Sofa\(So far\)](https://open.spotify.com/track/41A2osT4LHlwVAOKAHuVBU) | [DOULA](https://open.spotify.com/artist/705wNI5stBHWB0LrqQR3Iy) | [PLAGIAT](https://open.spotify.com/album/6Wm0bOnoPWBhJP8whcINuR) | 2:53 | 2022-03-31 | 2022-04-10 |
-| [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 | 2024-07-15 |  |
+| [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 | 2024-07-15 | 2024-07-17 |
 | [Somebody](https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Somebody](https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM) | 3:58 | 2021-12-12 | 2022-07-07 |
 | [Someday](https://open.spotify.com/track/45QwxuJHU1ZkJrgAPcvBND) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Contact Information](https://open.spotify.com/album/6esC0qAVXhz5mlFZQZTHIb) | 3:51 | 2022-04-12 | 2022-04-19 |
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-03-31 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Kittie
 
-921 songs - 2 day 19 hr 48 min
+922 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 | 2022-07-08 | 2024-04-19 |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2022-07-13 | 2022-08-06 |
 | [Chains of Fury](https://open.spotify.com/track/3mWpUooYBCQzcNaWTuVSGm) | [Manimal](https://open.spotify.com/artist/7goOwP4vH811Qt4yjmGMPM) | [Chains of Fury](https://open.spotify.com/album/61K1NTLjHvIR9beka1NrVJ) | 4:06 | 2021-12-17 | 2022-08-03 |
-| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-06-21 |  |
+| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-06-21 | 2024-07-17 |
 | [Chelsea Smile](https://open.spotify.com/track/0uq2rghwRwU7kUUkDew2gG) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Chelsea Smile](https://open.spotify.com/album/0hqrPHjlhMH4txz0vVA9sK) | 5:02 | 2024-05-03 | 2024-06-01 |
 | [Chernobyl 2.0](https://open.spotify.com/track/37kv4U7UWzP6ggS7ktima0) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ) | [Chernobyl 2.0](https://open.spotify.com/album/7kUK5baWiXwi6zPHVXxJOr) | 4:53 | 2021-12-17 | 2022-04-18 |
 | [Children of the Grave](https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2009 Remastered Version\)](https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5) | 5:14 | 2022-01-14 | 2022-05-01 |
@@ -228,6 +228,7 @@
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-29 |  |
 | [Dominion](https://open.spotify.com/track/3Ozsvtb47qZ0yzTxNTcPM0) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Dominion](https://open.spotify.com/album/5lqDlYKKERiLwrIkW6qyls) | 4:39 | 2021-12-17 | 2022-07-21 |
 | [Don't Look Back](https://open.spotify.com/track/4FBNk8oVjE2ZURNW2856A8) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Don't Look Back](https://open.spotify.com/album/5pqH2TT6VinVvH2FdwGpLC) | 3:04 | 2022-03-11 | 2022-07-29 |
+| [Dopamine \(feat\. Simone Simons\)](https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4) | [Dopamine](https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4) | 3:36 | 2024-07-12 |  |
 | [Down and Out](https://open.spotify.com/track/2mjhf9C6pE6oUkxF7mRyd7) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [Down and Out](https://open.spotify.com/album/5oJdANHLwnB7wxDuoAkTOq) | 3:59 | 2021-12-17 | 2022-07-29 |
 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 | 2021-12-17 |  |
 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 | 2022-08-19 |  |

@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 156793,
       "name": "Deep Steadiness",
       "url": "https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ"
@@ -3716,6 +3716,24 @@
       "duration_ms": 317047,
       "name": "Last Dream Before Sunrise",
       "url": "https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ"
+    },
+    {
+      "album": {
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/4J9YetDF7lSXwjLcgEPjLi"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/6QevBRGBOGwv6EciZovC3S"
     },
     {
       "album": {

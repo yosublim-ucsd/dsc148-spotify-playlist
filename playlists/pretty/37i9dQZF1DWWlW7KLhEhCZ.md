@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Emitê Único
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,425 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,809 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Ziriguidum](https://open.spotify.com/track/6k1SBH0cjvPbEhyT61w1Xl) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ziriguidum](https://open.spotify.com/album/1NAIBH6RXrTaYAf6Q4G336) | 2:25 |
 | 75 | [Bellingham](https://open.spotify.com/track/3GTpSnNTSh4QOKE9aM8gmI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Bellingham](https://open.spotify.com/album/77tDGgpRLeX6TSXjtgRZOs) | 1:53 |
 
-Snapshot ID: `ZpCcbAAAAAD4N5G64Cs+IpcO+Dr4c/It`
+Snapshot ID: `Zpa8XgAAAABmvVwOkZvMj5qJRjdJ60CM`

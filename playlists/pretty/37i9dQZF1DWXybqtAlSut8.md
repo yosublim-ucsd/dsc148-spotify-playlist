@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,146 likes - 51 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,244 likes - 51 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 10 | [Nearer, My God, to Thee \- Piano](https://open.spotify.com/track/6tmfx84m0fPjDRWaEOJRsp) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:34 |
 | 11 | [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 |
 | 12 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 |
-| 13 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 |
-| 14 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
-| 15 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 |
-| 16 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 |
-| 17 | [tis So Sweet To Trust In Jesus \- Piano](https://open.spotify.com/track/6uZZOnfsqJ6uk3KjAFhtVX) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:26 |
-| 18 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 |
+| 13 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
+| 14 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 |
+| 15 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 |
+| 16 | [tis So Sweet To Trust In Jesus \- Piano](https://open.spotify.com/track/6uZZOnfsqJ6uk3KjAFhtVX) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:26 |
+| 17 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 |
+| 18 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 |
 | 19 | [In Your Arms](https://open.spotify.com/track/1Y0jvSloelDbT0ZjuFF3oW) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 |
 | 20 | [Leaning On The Everlasting Arms](https://open.spotify.com/track/2vjH1lpJo24k93pfoorvoo) | [Lukas Fisher](https://open.spotify.com/artist/08h9zARjShXXPEMXBbDKho) | [Nearer My God To Thee](https://open.spotify.com/album/40Dh9xw7pcr8lShXTg8eY0) | 2:06 |
 | 21 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 50 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 | 51 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 |
 
-Snapshot ID: `Zk36bwAAAAC9gbpQyhWsSk9wy7aj7Mu3`
+Snapshot ID: `ZpYwAwAAAAAuV9ZchstYLD5VauyoangT`

@@ -4,7 +4,7 @@
 
 > This Is Engel Montaz\. Los temas esenciales, todos en una lista.
 
-35 songs - 1 hr 51 min
+36 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Quedate \- Version Discoteca](https://open.spotify.com/track/4fNoiC78XH83V907TSAk9m) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(Version Discoteca\)](https://open.spotify.com/album/49marj4ERkHVY510ycGNMr) | 3:20 | 2024-06-19 |  |
 | [Ruta](https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw) | 2:30 | 2024-06-19 |  |
 | [Sense](https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:36 | 2024-07-12 |  |
-| [Si estoy contigo](https://open.spotify.com/track/0NXbFGO2dDZoarxny3GE1h) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Si estoy contigo](https://open.spotify.com/album/3h5wlOLNHcI3K2FYMJFxXx) | 3:11 | 2024-06-19 |  |
+| [Si estoy contigo](https://open.spotify.com/track/0NXbFGO2dDZoarxny3GE1h) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Si estoy contigo](https://open.spotify.com/album/3h5wlOLNHcI3K2FYMJFxXx) | 3:11 | 2024-06-19 | 2024-07-17 |
+| [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:36 | 2024-07-17 |  |
 | [Sin Panty \- Remix](https://open.spotify.com/track/41FYsZQxbBO0hETmJmVIJJ) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Montana 70](https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES), [Lyon La Diferencia](https://open.spotify.com/artist/7ssGLdyYoVhq3TrM6dUfGe) | [Sin Panty \(Remix\)](https://open.spotify.com/album/65d8uCZ0dGTOVhsBT6KA4C) | 3:25 | 2024-06-19 |  |
 | [Soledad](https://open.spotify.com/track/0jzKk6dyyPXCddoXEuKVYM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Freko](https://open.spotify.com/artist/7paxv0UNX1PYfdn3ZfZFWt), [Koko](https://open.spotify.com/artist/2D1sHU8nG2WKvlMoHFwzg0) | [Soledad](https://open.spotify.com/album/2BO0CNO8lEMKB5tW6MN2Bg) | 3:15 | 2024-06-19 |  |
 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 | 2024-06-19 |  |

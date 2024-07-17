@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,738 likes - 60 songs - 3 hr 18 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,736 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 46 | [This Pain](https://open.spotify.com/track/22axRxZqMClirktRxYWLkf) | [Peetu S](https://open.spotify.com/artist/2G4Uvipvoj1FK1Fuetayle) | [This Pain](https://open.spotify.com/album/6EWPKLQKPlUHLa0R3YvOqc) | 3:59 |
 | 47 | [D.R.A.M.A.](https://open.spotify.com/track/70kAwMiBK6WVZbcZwhNbLS) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3), [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV) | [D.R.A.M.A.](https://open.spotify.com/album/08Qu0ibp3z1HmMZkEwe9A0) | 2:19 |
 | 48 | [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 |
-| 49 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:56 |
+| 49 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:49 |
 | 50 | [Deep Cut](https://open.spotify.com/track/3nZ8NNEHwRmxKbFV7fBeHS) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh) | [Deep Cut](https://open.spotify.com/album/3UB8ZF4mBMDiw5N7UGrulF) | 3:33 |
 | 51 | [Can We Do Better?](https://open.spotify.com/track/6GmIaA90k1ZylUGCMs3DwS) | [Winterfresh](https://open.spotify.com/artist/5CEQDOtEb9UftqMWwoJXrL) | [Can We Do Better?](https://open.spotify.com/album/5JRyvw1k2uzy1QFppSSjnL) | 2:49 |
 | 52 | [Martian Basement Rave](https://open.spotify.com/track/663e09xdRZ0BXAhQmxrojJ) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Martian Basement Rave](https://open.spotify.com/album/75ctABlRTvJNvbCHvgiXT1) | 3:32 |

@@ -4,7 +4,7 @@
 
 > Simply rain
 
-344 songs - 15 hr 44 min
+348 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Million Drops](https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 | 2021-11-08 |  |
 | [Agumbe \(Rain\)](https://open.spotify.com/track/7qq69TmR3SPVHsnk1avVvw) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Karnataka \(Rain\)](https://open.spotify.com/album/66ntfonNc1lpN3fuYFZ7lk) | 3:01 | 2022-11-16 |  |
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-08 |  |
+| [Altostratus](https://open.spotify.com/track/1cy8xrjUjonN2wplWc2rK9) | [Hydrometry](https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z) | [Altostratus](https://open.spotify.com/album/5fOJHqUjEg3mXdvlttBDAF) | 2:31 | 2024-07-16 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2021-11-08 |  |
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2021-11-08 |  |
 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 | 2021-11-08 |  |
@@ -133,6 +134,7 @@
 | [Kulangana \(Rain\)](https://open.spotify.com/track/23y6GPrgh0T8pibNl6E4FL) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:00 | 2023-02-13 |  |
 | [La Cienega Rain](https://open.spotify.com/track/52TANWyIjIMqjzUBwQZrj9) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Los Angeles Rain](https://open.spotify.com/album/6GuGhvQs5EpSxr6wQd71Bd) | 2:38 | 2021-11-08 |  |
 | [Lake Rain](https://open.spotify.com/track/7sxSrsyHbmjQwitrShgRb0) | [Thermal Element](https://open.spotify.com/artist/0LMmofBm4IQU1xB5K85kCu) | [Rain Needle Drop](https://open.spotify.com/album/5F5TmziODGRgeqgEIXUDmu) | 5:03 | 2022-11-16 |  |
+| [Lavender Horizon \- Rain](https://open.spotify.com/track/27sN7uMS7eRe9C0UTr1qQD) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Lavender Horizon](https://open.spotify.com/album/4pRsPE5F0Rz2rYqaofrEg5) | 2:42 | 2024-07-16 |  |
 | [Lazbuye \(Rain\)](https://open.spotify.com/track/24SYwtCJKtYxu6oiWlftAz) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:01 | 2023-02-13 |  |
 | [Let It Rain](https://open.spotify.com/track/2iM7PybcbJwrzzS7by70m8) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Monsoon](https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO) | 3:00 | 2021-11-08 |  |
 | [Lets Let the Rain Fall](https://open.spotify.com/track/6qDTf4etLwApVRaBXuha1u) | [PDC RAIN](https://open.spotify.com/artist/7LggWLcctC0mmu6sQYFKmN) | [Lets Sleep on this Rainy Day](https://open.spotify.com/album/6FRbYafyfKSnmTdjFvFcdG) | 2:33 | 2021-11-08 |  |
@@ -228,6 +230,7 @@
 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 | 2021-11-08 |  |
 | [Rain Sky Pt\. 1](https://open.spotify.com/track/1mWWaKRiywpw4CSULMpOAa) | [Olvidara](https://open.spotify.com/artist/4AbWC5jrOCMHtDTN0lsGjJ) | [Rain Sky](https://open.spotify.com/album/0b60bEwgXWSLIRymKUEFVR) | 2:04 | 2021-11-08 |  |
 | [Rain Sky Samples 1](https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Rain Sky Samples](https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY) | 2:52 | 2021-11-08 |  |
+| [Rain Sounds are for Sleeping](https://open.spotify.com/track/0VIhxk3yhwg9y7PdknwQlk) | [Rain is my Life](https://open.spotify.com/artist/1TnTnEuSNAIMiqXv2GdVbh) | [Rain Sounds are for Sleeping](https://open.spotify.com/album/2QqlVviYgCg9gKxdqxevnj) | 4:34 | 2024-07-16 |  |
 | [Rain Sounds In Los Llanos](https://open.spotify.com/track/2i2XQP37gZCAi0DveWyGcD) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Tropical Rain Sounds \- Colombia](https://open.spotify.com/album/1o6MUAVUhkL7FlvuV5cND8) | 2:15 | 2024-03-22 |  |
 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 | 2021-11-08 |  |
 | [Rain Wall For Sleep](https://open.spotify.com/track/5qBURD07mYmymBewmZf3de) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Night Time Rain Fall](https://open.spotify.com/album/1sKdVqFClvg3wW3qmd1FIM) | 2:33 | 2021-11-08 |  |
@@ -296,6 +299,7 @@
 | [Smooth Rain](https://open.spotify.com/track/5qbe9BVsvI8LmOcfTIkhnR) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Rain Vol\. 2](https://open.spotify.com/album/2yl5OYvVrpDSxPjM0el2Ak) | 3:10 | 2022-11-16 |  |
 | [Soaked \- Seamless](https://open.spotify.com/track/3fEaiB5iqb7gGndpBYQVHR) | [Rain Cloudz](https://open.spotify.com/artist/1cHrN4K4eGFc5weOXZ3rm9) | [Take Cover](https://open.spotify.com/album/6C3pFXdL20J4F0CVtcLlNz) | 2:44 | 2023-02-13 |  |
 | [Soaking Rain](https://open.spotify.com/track/0ew24XQhqDFsThoo1YhiEY) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Soaking Rain](https://open.spotify.com/album/20WguoNvu9y7cUi53GQeic) | 2:45 | 2022-11-16 |  |
+| [Soda Springs Showers](https://open.spotify.com/track/0hI8luf5FOzwTtVHatPCTx) | [Visceral Rain](https://open.spotify.com/artist/0iXGgjkn97AolhD6yR3FbO) | [Soda Springs Showers](https://open.spotify.com/album/7FpdPLnWPVyBRgRba9fnTg) | 2:43 | 2024-07-16 |  |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-11-16 | 2023-06-17 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2021-11-08 |  |
 | [Soft Spring Rain](https://open.spotify.com/track/6e7YD5GoUNfKnSfIPaDGzQ) | [Alegrini](https://open.spotify.com/artist/0pSXa2TK84g7PYeCWzVNSL) | [Soft Spring Rain](https://open.spotify.com/album/7p54Us2p3RbbSBofHygSbD) | 1:53 | 2021-11-08 | 2023-06-17 |

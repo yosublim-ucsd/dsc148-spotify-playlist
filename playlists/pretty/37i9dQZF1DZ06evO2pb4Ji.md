@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. The essential tracks, all in one playlist.
+> This is League of Legends\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,953 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,957 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 44 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 |
 | 45 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 | 46 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
-| 47 | [Hall of Legends: Orchestral Theme](https://open.spotify.com/track/3uUhu7AwioNHpA50nFdhdo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hall of Legends: Orchestral Theme](https://open.spotify.com/album/21L28RGYsJBThdnvVLdG86) | 5:06 |
-| 48 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 47 | [Rules \(Are Meant to Break\)](https://open.spotify.com/track/0rZiFIOOnem9NmdzFEJBmR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez) | [Rules \(Are Meant to Break\)](https://open.spotify.com/album/2iv4BH1w4P2vpiRZq3V9rj) | 3:01 |
+| 48 | [Hall of Legends: Orchestral Theme](https://open.spotify.com/track/3uUhu7AwioNHpA50nFdhdo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hall of Legends: Orchestral Theme](https://open.spotify.com/album/21L28RGYsJBThdnvVLdG86) | 5:06 |
 | 49 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
-| 51 | [No Chill \(Heartsteel\)](https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [REMIX RUMBLE \(Original Soundtrack from Teamfight Tactics Set 10\)](https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT) | 3:14 |
+| 51 | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/album/4C4R2RGv446YfoWhIz3i8O) | 4:37 |
 
-Snapshot ID: `ZpMVAAAAAAACJ64OYSnAZ/wVGuiZXWb2`
+Snapshot ID: `ZpRmgAAAAABNxTvZ6cKFkdWreTNXqDIv`

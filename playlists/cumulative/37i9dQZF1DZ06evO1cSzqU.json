@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is Scorpions. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Scorpions. The essential tracks, all in one playlist.",
   "name": "This Is Scorpions",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 324160,
       "name": "Believe In Love",
       "url": "https://open.spotify.com/track/3T8I6Fdb6sUvIQqCaXK98b"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 227293,
       "name": "Can't Live Without You",
       "url": "https://open.spotify.com/track/0mOMvN8GNGAVW5e5934fUn"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 272626,
       "name": "Hit Between The Eyes",
       "url": "https://open.spotify.com/track/6pVnEL98xUnESYP0JbLXJI"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 237466,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 285400,
       "name": "Tease Me Please Me",
       "url": "https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0"
@@ -1208,6 +1208,24 @@
       "duration_ms": 243800,
       "name": "The Future Never Dies",
       "url": "https://open.spotify.com/track/5bTEYXUQLLQzjIurNtP1Ib"
+    },
+    {
+      "album": {
+        "name": "Humanity - Hour I",
+        "url": "https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "The Game of Life",
+      "url": "https://open.spotify.com/track/5ArG8t9RvmzhFFvhemwfo6"
     },
     {
       "album": {

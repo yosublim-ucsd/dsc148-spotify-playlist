@@ -2239,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204298,
+      "name": "Moon River (Arr. for Guitar by S\u00e9rgio Assad) - From \"Breakfast at Tiffany's\"",
+      "url": "https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO"
+    },
+    {
+      "album": {
         "name": "Westworld: Season 1 (Music from the HBO Series)",
         "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
       },
@@ -3667,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Wildest Dreams (Arr. Lawson for Harp)",
+        "url": "https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306861,
+      "name": "Wildest Dreams (Arr. Lawson for Harp)",
+      "url": "https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV"
+    },
+    {
+      "album": {
         "name": "Vsq Film School: Cult Classics & Indie Faves",
         "url": "https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W"
       },
@@ -3682,6 +3722,24 @@
       "duration_ms": 205706,
       "name": "Wise Up",
       "url": "https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/5BQHMh8KPLIKeRuLFmZT5R"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216083,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6N4MfpMejai00PjIazxX7J"
     },
     {
       "album": {

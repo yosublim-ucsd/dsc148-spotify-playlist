@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19262,
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "num_followers": 19268,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADZtC3OS4XrMQ9gav0TSeVw",
+  "snapshot_id": "ZpRmgAAAAABAP6mm6HlQsXQQT6TOL2Kf",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,

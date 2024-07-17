@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: ONE Service",
-  "num_followers": 160327,
+  "num_followers": 160366,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "Tudo Posso",
         "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 397762,
       "name": "Tudo Posso",
       "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -827,18 +827,26 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
       },
       "artists": [
         {
           "name": "Paulo Cesar Baruk",
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leandro Rodrigues",
+          "url": "https://open.spotify.com/artist/16eJL1MTKluQZzZNNm4y65"
+        },
+        {
+          "name": "PVAP",
+          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
         }
       ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
+      "duration_ms": 332160,
+      "name": "Sossegai - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -923,8 +931,8 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
       },
       "artists": [
         {
@@ -932,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 244826,
-      "name": "A Voz do Senhor",
-      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1047,26 +1055,18 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
       },
       "artists": [
         {
           "name": "Paulo Cesar Baruk",
           "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Leandro Rodrigues",
-          "url": "https://open.spotify.com/artist/16eJL1MTKluQZzZNNm4y65"
-        },
-        {
-          "name": "PVAP",
-          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Sossegai - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
+      "duration_ms": 244826,
+      "name": "A Voz do Senhor",
+      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
     },
     {
       "added_at": "2024-07-12 03:01:00",

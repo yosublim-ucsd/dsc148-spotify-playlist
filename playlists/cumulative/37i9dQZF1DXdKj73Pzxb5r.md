@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. \#IndieLokaldiSpotify Cover: Dreane
 
-113 songs - 7 hr 30 min
+118 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dinamika Ibukota](https://open.spotify.com/track/21rHgfejti4dwB7KZeoIqZ) | [Wacuwacu](https://open.spotify.com/artist/00sNv6O0WdBwf00jxIDkgc) | [Dinamika Ibukota](https://open.spotify.com/album/4135UcKGoGDg4IVzhzOCY8) | 3:59 | 2024-06-27 |  |
 | [Doa Terima Kasih](https://open.spotify.com/track/1tZS5E6Ltac2knz4OUWLzh) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Doa Terima Kasih](https://open.spotify.com/album/3FNHfvgztF0EokCZW3goRu) | 3:50 | 2024-06-27 |  |
 | [Don't Let It Slip Away](https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv) | [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BLEU HOUSE](https://open.spotify.com/artist/3hLKrHan3Nuo1N2rod8s4M) | [White Couch In The House](https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss) | 5:38 | 2024-07-11 |  |
+| [Don't You Dare Hesitate](https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 2:23 | 2024-07-16 |  |
 | [Dont You Forget About Me](https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Sorry for Everything Goodbye Forever](https://open.spotify.com/album/3bk7YFSrS1PAMIb8Lyp0dI) | 4:25 | 2024-06-27 |  |
 | [Du, Du](https://open.spotify.com/track/5RH461kXc7syReeDMLmIAp) | [Seiring Waktu Berjalan](https://open.spotify.com/artist/1ixlVKRxM7n3xazTNbpbJx) | [Du, Du](https://open.spotify.com/album/3aRgQJxKzMXJHJlKCJdBqL) | 4:51 | 2024-06-27 |  |
 | [Dua yang Satu](https://open.spotify.com/track/0ZDC7shS1u468eCz243SwV) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Rumah & Seisinya](https://open.spotify.com/album/30FDzhqc6I74auZ7X3ZuBQ) | 2:34 | 2024-06-27 |  |
@@ -39,6 +40,7 @@
 | [Expectation](https://open.spotify.com/track/3E9C95z7qSy2DDN8Q0pppH) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Expectation](https://open.spotify.com/album/03tQ7t9U9Nn1FPBSeSiH6V) | 3:19 | 2024-06-27 |  |
 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-06-27 | 2024-07-12 |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
+| [Fermeture](https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 1:04 | 2024-07-16 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 |  |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 |  |
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-04 |  |
@@ -61,6 +63,7 @@
 | [Kontemplasi](https://open.spotify.com/track/7hHiaXpGgst4M1JPvuJCR5) | [Pure](https://open.spotify.com/artist/685Hd4pDVo14EZM9xCbZGr) | [Kontemplasi](https://open.spotify.com/album/18XuaiOkj3Vc1pICPR8KA0) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Labirin Pikiran](https://open.spotify.com/track/6geMi4peZEz7wLyiwGhIbN) | [Budiraya](https://open.spotify.com/artist/5pHCbLQj6BRrqQXBShicgy) | [Labirin Pikiran](https://open.spotify.com/album/2P42a3gPX8ZCNJFTXjum89) | 4:04 | 2024-06-27 | 2024-07-05 |
 | [Lagu Lama](https://open.spotify.com/track/5pXbx9GLA7G7VOSVFEBJFW) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Lagu Lama](https://open.spotify.com/album/6gtIruxboZVfDgE2JKREwM) | 3:33 | 2024-06-27 |  |
+| [Lagu Lama](https://open.spotify.com/track/6s7qmCa3Lu79BtZteJ8mmr) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 3:33 | 2024-07-16 |  |
 | [Langgas](https://open.spotify.com/track/5AcTfKB9WHC5h200wOs8nx) | [Soegi Bornean](https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel) | [Langgas](https://open.spotify.com/album/2mq35fmgWBZ7LjWPRfMlw3) | 4:29 | 2024-06-27 |  |
 | [less sugar, please](https://open.spotify.com/track/3ECxqDL216DPm4nghJAbx6) | [Anggia Anggun](https://open.spotify.com/artist/0bTtZmXdVmIitQl9b9ihKz) | [less sugar, please](https://open.spotify.com/album/7vcvikSFeiYY61Dnthuy8y) | 3:52 | 2024-06-27 | 2024-07-05 |
 | [Let Go](https://open.spotify.com/track/1drOwW01nQm3HRZ7yDVP5i) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Let Go](https://open.spotify.com/album/1RfqRTWsDJE1Ta78rRwVno) | 3:28 | 2024-06-27 |  |
@@ -80,6 +83,7 @@
 | [Nelangsa Pasar Turi](https://open.spotify.com/track/0DhgjYNtV0bchCToeFwRpv) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Nelangsa Pasar Turi](https://open.spotify.com/album/3WDFtJW61DcXNnYzCjEjh6) | 4:45 | 2024-06-27 |  |
 | [Nevermind](https://open.spotify.com/track/68lwFbVvTbPENi7PrJg1hu) | [Tobias Hosea](https://open.spotify.com/artist/7cPc3OavyjUwdMjfugxoAp) | [Nevermind](https://open.spotify.com/album/5pNPZD5KqVf48by3PIHYYZ) | 4:24 | 2024-06-27 | 2024-07-05 |
 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2024-07-04 |  |
+| [Niscaya](https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Niscaya](https://open.spotify.com/album/0kdtt7OLuQH3ojqFslGep6) | 3:58 | 2024-07-16 |  |
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 |  |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-06-27 |  |
 | [Padam, Hadirmu Lentera](https://open.spotify.com/track/0tzteHtQzkR58XkA7bDzHL) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Padam, Hadirmu Lentera](https://open.spotify.com/album/6Pgg7VZpg1Cqap7WUs0C5p) | 3:35 | 2024-06-27 |  |
@@ -104,6 +108,7 @@
 | [Sunday](https://open.spotify.com/track/2rfmkK3tZz8XuSdEARWNsE) | [Sheaves](https://open.spotify.com/artist/1ukzwOak6jL1bFFb9OyY0O) | [Sunday](https://open.spotify.com/album/1TivvAlGmKdopFUnTvEUwO) | 4:15 | 2024-06-27 | 2024-07-05 |
 | [Sunyi Sepi](https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Sunyi Sepi](https://open.spotify.com/album/4dLOnpFp2eCcLZAObRKNce) | 4:20 | 2024-06-27 |  |
 | [Tak Ada Keluarga yang Sempurna \- From "Dua Hati Biru"](https://open.spotify.com/track/5bWgVQroeQ9T4nDhpC9LeN) | [hara](https://open.spotify.com/artist/1NKaPLdlQCfYkNyex4BqQ9) | [Tak Ada Keluarga yang Sempurna \(From "Dua Hati Biru"\)](https://open.spotify.com/album/1aNKubU6cT1yQ6yjlm5auU) | 5:26 | 2024-06-27 | 2024-07-12 |
+| [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-07-16 |  |
 | [Tamasya](https://open.spotify.com/track/454GREw0cFbPj8lZGJ7QqS) | [Kahfii](https://open.spotify.com/artist/1omUKn9sxGqCzZaSd1Xo07) | [Tamasya](https://open.spotify.com/album/3rJzH3pXhnTiKNEhRc5GWe) | 5:21 | 2024-06-27 |  |
 | [Tarian Pembantai](https://open.spotify.com/track/4cO6paTmfs8RamVyROWn8D) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Dunia Tetap Berputar Meskipun Aku Tertidur](https://open.spotify.com/album/44oL1mqGI2v4JwraqLQQBb) | 4:27 | 2024-06-27 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |

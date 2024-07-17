@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 58684,
+  "num_followers": 58739,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
         "name": "That's Why I Love You",
         "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 218000,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
-      },
-      "artists": [
-        {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-07-05 03:01:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-07-05 03:01:00",
       "album": {
-        "name": "Filho do Soul",
-        "url": "https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI"
-      },
-      "artists": [
-        {
-          "name": "Augus7o",
-          "url": "https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz"
-        },
-        {
-          "name": "Lovro",
-          "url": "https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Filho do Soul",
-      "url": "https://open.spotify.com/track/0GyYORKftax285LSmzF2oA"
-    },
-    {
-      "added_at": "2024-07-05 03:01:00",
-      "album": {
         "name": "L0V3 Tvp3",
         "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 129729,
       "name": "Ultimo Fim (Short)",
       "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
+    },
+    {
+      "added_at": "2024-07-05 03:01:00",
+      "album": {
+        "name": "Filho do Soul",
+        "url": "https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI"
+      },
+      "artists": [
+        {
+          "name": "Augus7o",
+          "url": "https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz"
+        },
+        {
+          "name": "Lovro",
+          "url": "https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Filho do Soul",
+      "url": "https://open.spotify.com/track/0GyYORKftax285LSmzF2oA"
     },
     {
       "added_at": "2024-07-05 03:01:00",

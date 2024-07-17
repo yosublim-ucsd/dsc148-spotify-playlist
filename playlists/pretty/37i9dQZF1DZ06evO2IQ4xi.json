@@ -1,29 +1,13 @@
 {
-  "description": "This is Doechii. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 9961,
+  "description": "This is Doechii. The essential tracks, all in one playlist.",
+  "num_followers": 9969,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAACkkzJXn1pkFqLBE/Kba2W9",
+  "snapshot_id": "ZpRmgAAAAABvJ5NFn4qQNbLZ8LuelLhz",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
     {
       "added_at": null,
       "album": {
@@ -207,22 +191,6 @@
       "duration_ms": 168620,
       "name": "Spookie Coochie",
       "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": null,
@@ -583,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
       "artists": [
         {
@@ -592,13 +560,13 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Jst Ray",
-          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+          "name": "Leo Conoza",
+          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Bitches Be (with Jst Ray)",
-      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+      "duration_ms": 192000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
     },
     {
       "added_at": null,
@@ -635,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Leo Conoza",
-          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porches",
         "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
       },
@@ -675,6 +623,22 @@
       "duration_ms": 315074,
       "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
       "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 277463,
+      "name": "Pms",
+      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     },
     {
       "added_at": null,
@@ -711,22 +675,6 @@
       "duration_ms": 148523,
       "name": "Afro Blues",
       "url": "https://open.spotify.com/track/5EfDqGykBZWPbxopMU7xyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 277463,
-      "name": "Pms",
-      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     }
   ],
   "unique_name": "This Is Doechii",

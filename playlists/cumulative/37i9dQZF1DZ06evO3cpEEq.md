@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is Felicity Urquhart\. The essential tracks, all in one playlist.
+> This is: Felicity Urquhart\. Alle wichtigen Tracks in einer Playlist.
 
 96 songs - 5 hr 53 min
 
@@ -22,7 +22,7 @@
 | [Bogswamp](https://open.spotify.com/track/0HVMscjhyVfXgiNFgpcgUa) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Bogswamp](https://open.spotify.com/album/5IEDUuNTmaSyVIu3pt6c2b) | 3:54 | 2023-06-17 |  |
 | [Bon Bons](https://open.spotify.com/track/2kUYxBMfhX1HhJwZDpYvOM) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:35 | 2023-06-25 | 2024-07-14 |
 | [Breaking Your Heart Again](https://open.spotify.com/track/0xTkMv6wQtQkhBbRvLfd6t) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:53 | 2023-06-17 | 2023-08-10 |
-| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 | 2024-07-12 |
+| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 |  |
 | [Cartwheel and Climb](https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:50 | 2023-06-19 | 2023-08-28 |
 | [Catching a Feeling](https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:57 | 2023-06-17 | 2024-07-14 |
 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 | 2023-06-17 |  |
@@ -43,7 +43,7 @@
 | [Hopeless and Good](https://open.spotify.com/track/7uZ53d1RAWO7e89qd6JLLt) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:50 | 2023-07-13 | 2024-02-23 |
 | [Hopscotch Sunday](https://open.spotify.com/track/6wZXs9O8fBFoDAe9Oer5nG) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:37 | 2023-06-21 |  |
 | [I Fall](https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:19 | 2023-06-17 |  |
-| [I Remember You](https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:38 | 2023-06-17 |  |
+| [I Remember You](https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:38 | 2023-06-17 | 2024-07-17 |
 | [I Wanna Be the Girl](https://open.spotify.com/track/4jM8LvR7ZpHhkCZmcaJca2) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:18 | 2024-03-14 | 2024-06-26 |
 | [If You Were My Baby](https://open.spotify.com/track/2NPiQrtS4BUmXwTWKvUL9I) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Rick Price](https://open.spotify.com/artist/3A5jMjZqO0LZh3oPEuqL8q) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:05 | 2023-06-17 |  |
 | [In My Dreams](https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:51 | 2023-07-03 |  |

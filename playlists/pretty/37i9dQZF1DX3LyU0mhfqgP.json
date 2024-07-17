@@ -1,15 +1,31 @@
 {
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: SOPHIE",
-  "num_followers": 1084969,
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: V\u0169 C\u00e1t T\u01b0\u1eddng ",
+  "num_followers": 1084941,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZozqoAAAAABLXWgHZgzw7xOwXn6c11Pv",
+  "snapshot_id": "ZpYcqgAAAACbrRjxG5nRd1MG1XWmY5iq",
   "tracks": [
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "T\u1eebng L\u00e0",
+        "url": "https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv"
+      },
+      "artists": [
+        {
+          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
+          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "T\u1eebng L\u00e0",
+      "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
         "url": "https://open.spotify.com/album/4kepJ3GktWe5ijlknpPN88"
@@ -33,7 +49,55 @@
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/4476oK9dDwXluywz166CT1"
+      },
+      "artists": [
+        {
+          "name": "The Buoys",
+          "url": "https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc"
+        }
+      ],
+      "duration_ms": 224849,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "BRAND NEW BITCH",
+        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "BRAND NEW BITCH",
+      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
+        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
+      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Crazy Woman",
         "url": "https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v"
@@ -49,7 +113,43 @@
       "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "JOYRIDE",
+        "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "JOYRIDE",
+      "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Ready For Your Love",
         "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
@@ -69,7 +169,23 @@
       "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "luv stuck",
         "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
@@ -89,39 +205,7 @@
       "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
-        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 192862,
-      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
-      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "JOYRIDE",
-        "url": "https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "JOYRIDE",
-      "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "We Invented Love",
         "url": "https://open.spotify.com/album/5pWBArie1qTnabaxWKh8e0"
@@ -145,43 +229,7 @@
       "url": "https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "BRAND NEW BITCH",
-        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "BRAND NEW BITCH",
-      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 217529,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Nice Guy",
         "url": "https://open.spotify.com/album/56hjcZ7cuvs3VpQ25Udqlp"
@@ -197,23 +245,7 @@
       "url": "https://open.spotify.com/track/45Cm2OHPj7L3xaBW94buSS"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "T\u1eebng L\u00e0",
-        "url": "https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv"
-      },
-      "artists": [
-        {
-          "name": "V\u0169 C\u00e1t T\u01b0\u1eddng",
-          "url": "https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "T\u1eebng L\u00e0",
-      "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
@@ -229,23 +261,7 @@
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "talking to myself",
         "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
@@ -277,7 +293,23 @@
       "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Blue Skies Motel",
+        "url": "https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC"
+      },
+      "artists": [
+        {
+          "name": "Mani Orrason",
+          "url": "https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5KMaaEKQkELaj1vxMu5YEZ"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/0JbE9OLwtc9dThd8kcwKeW"
@@ -293,7 +325,7 @@
       "url": "https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
@@ -309,7 +341,7 @@
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Haymaker",
         "url": "https://open.spotify.com/album/53hM1rBhTGK8uY3jdFZGwp"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/07qmzofBow9aB4raGOafDz"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "ChuChu",
         "url": "https://open.spotify.com/album/5PRVxfynNLbexxfHqsF8SA"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/7dul1sCCqoYRY058KpSoSC"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "through the telescope",
         "url": "https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/4gQ76st50BNwJg6jOLBwvv"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "WALK WALK",
         "url": "https://open.spotify.com/album/0zL56tDbTcYXWzXRoJDEEH"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/4AlJtmiBLtD2g6VGKhx6xF"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Midnight Ride",
         "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
@@ -413,87 +445,7 @@
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Bottle of Wisdom",
-        "url": "https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr"
-      },
-      "artists": [
-        {
-          "name": "VANDALISBIN",
-          "url": "https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd"
-        }
-      ],
-      "duration_ms": 185357,
-      "name": "Bottle of Wisdom",
-      "url": "https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "If I Let A White Man Cut My Hair",
-        "url": "https://open.spotify.com/album/3tsp9gSe97lApw6uGl6KjE"
-      },
-      "artists": [
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
-        }
-      ],
-      "duration_ms": 198566,
-      "name": "If I Let A White Man Cut My Hair",
-      "url": "https://open.spotify.com/track/3gyX09oKqNf8aSldPAIGKy"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/1Bi4KnPVCURk8qndajRD8y"
-      },
-      "artists": [
-        {
-          "name": "Matt Terry",
-          "url": "https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV"
-        }
-      ],
-      "duration_ms": 199159,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/0UqctutoxkAsS7pbfF3KQk"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/73rFocl011WgsCQzadxU2A"
-      },
-      "artists": [
-        {
-          "name": "Agoney",
-          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
-        }
-      ],
-      "duration_ms": 138884,
-      "name": "Redenci\u00f3n",
-      "url": "https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
@@ -509,7 +461,103 @@
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Bottle of Wisdom",
+        "url": "https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr"
+      },
+      "artists": [
+        {
+          "name": "VANDALISBIN",
+          "url": "https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd"
+        }
+      ],
+      "duration_ms": 185357,
+      "name": "Bottle of Wisdom",
+      "url": "https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "If I Let A White Man Cut My Hair",
+        "url": "https://open.spotify.com/album/3tsp9gSe97lApw6uGl6KjE"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "duration_ms": 198566,
+      "name": "If I Let A White Man Cut My Hair",
+      "url": "https://open.spotify.com/track/3gyX09oKqNf8aSldPAIGKy"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/1Bi4KnPVCURk8qndajRD8y"
+      },
+      "artists": [
+        {
+          "name": "Matt Terry",
+          "url": "https://open.spotify.com/artist/2JLqTvFXmC87BksiCsBezV"
+        }
+      ],
+      "duration_ms": 199159,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/0UqctutoxkAsS7pbfF3KQk"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/73rFocl011WgsCQzadxU2A"
+      },
+      "artists": [
+        {
+          "name": "Agoney",
+          "url": "https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk"
+        }
+      ],
+      "duration_ms": 138884,
+      "name": "Redenci\u00f3n",
+      "url": "https://open.spotify.com/track/6k0j9RR6RilfL0bw64F0wk"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/2R72ja4Moh2PmLuEx1xb3F"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "ROMANTICA",
         "url": "https://open.spotify.com/album/05SUDmg1DnHXwXDJxvCdyv"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Bastonada nos Dentes",
         "url": "https://open.spotify.com/album/0qfpP7JfJkzo3hyT73XoFO"
@@ -569,7 +617,7 @@
       "url": "https://open.spotify.com/track/05e2ruOLoaPqTMo9DPQZ1I"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "The Code",
         "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
@@ -585,7 +633,7 @@
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5s5rhS4NoZkkogRzvXep6C"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/2CUS6iJi3EuVezxJa6rCvV"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/3NljK894W0iGjihYpIkgB2"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/1Loai4s2ys83B8zF3SVCB8"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1wiNGVqtNMiziYeh8hGpb1"
@@ -637,39 +685,7 @@
       "url": "https://open.spotify.com/track/2H5ZgMAQWLsq09AEkZyT3g"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "TOY DOLL HEART",
-        "url": "https://open.spotify.com/album/5qRwboTSRSAokar1ZFO6rr"
-      },
-      "artists": [
-        {
-          "name": "B\u016aJIN",
-          "url": "https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "TOY DOLL HEART",
-      "url": "https://open.spotify.com/track/78dt3LkFKk16vFZnu95nwx"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "Mai fermi",
         "url": "https://open.spotify.com/album/3HSo1OxhQ726QU9HgVzoS9"
@@ -685,135 +701,23 @@
       "url": "https://open.spotify.com/track/07YWfmgmkkUDzgRsS1SBFj"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
-        "name": "Neon Tan",
-        "url": "https://open.spotify.com/album/7HsvX59vKGZsmA31aKnQqH"
+        "name": "Kitty Kush",
+        "url": "https://open.spotify.com/album/24BgUfeQ8tVfLLAlsokZs4"
       },
       "artists": [
         {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+          "name": "Aisho Nakajima",
+          "url": "https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3"
         }
       ],
-      "duration_ms": 217428,
-      "name": "Neon Tan",
-      "url": "https://open.spotify.com/track/1WWyKDgWX58EAQsgbzcfZR"
+      "duration_ms": 141500,
+      "name": "Kitty Kush",
+      "url": "https://open.spotify.com/track/0VTOjRq2Z4DILnxPgF3VAm"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/4qZjF8ZITj8PzM3czk9xho"
-      },
-      "artists": [
-        {
-          "name": "Matilda",
-          "url": "https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp"
-        }
-      ],
-      "duration_ms": 171337,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/33nNr7ZB1HCN1fjdqPdomW"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "DRAMA",
-        "url": "https://open.spotify.com/album/1Fo7vUm0xF1frBVNf2HLJN"
-      },
-      "artists": [
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "DRAMA",
-      "url": "https://open.spotify.com/track/18ZPQRCfN2kWgjdDa9Oa7T"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "estonovabien",
-        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 161354,
-      "name": "estonovabien",
-      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Dissonance",
-        "url": "https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 131609,
-      "name": "Dissonance",
-      "url": "https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Claustrophobia",
-        "url": "https://open.spotify.com/album/2I4LO32KkvHyBHD4ugLSX8"
-      },
-      "artists": [
-        {
-          "name": "Nayeli",
-          "url": "https://open.spotify.com/artist/3xJ54VQTXSMcCYbO1dDhvc"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Claustrophobia",
-      "url": "https://open.spotify.com/track/4fTwn8ExOjTONXJwXBBFxI"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "Artificial Bliss",
-        "url": "https://open.spotify.com/album/1lpRTHQYQNzdzfzWO9bjIp"
-      },
-      "artists": [
-        {
-          "name": "Elliot Boyd",
-          "url": "https://open.spotify.com/artist/43XREBdVRoF4RB3brNoLf9"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Artificial Bliss",
-      "url": "https://open.spotify.com/track/7kf82gaBAc0B6miT8y1m3O"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
-      "album": {
-        "name": "romantyzuj\u0119 EP",
-        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
-      },
-      "artists": [
-        {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "deszcz",
-      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
-    },
-    {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/2swOJCOKzbibXXNgngQhSD"
@@ -829,23 +733,119 @@
       "url": "https://open.spotify.com/track/7iz7hkPpGX5l5umybDRYQD"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
       "album": {
-        "name": "\u0e21\u0e32\u0e17\u0e33\u0e44\u0e21",
-        "url": "https://open.spotify.com/album/15g2CrXaCvlKUWbJm2yXWk"
+        "name": "Neon Tan",
+        "url": "https://open.spotify.com/album/7HsvX59vKGZsmA31aKnQqH"
       },
       "artists": [
         {
-          "name": "Yoshi Rinrada",
-          "url": "https://open.spotify.com/artist/1sPCy6IMLjMnCjDxnqe0fL"
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
         }
       ],
-      "duration_ms": 186442,
-      "name": "\u0e21\u0e32\u0e17\u0e33\u0e44\u0e21",
-      "url": "https://open.spotify.com/track/3dBKJR1hJO7F1yE13BmJrc"
+      "duration_ms": 217428,
+      "name": "Neon Tan",
+      "url": "https://open.spotify.com/track/1WWyKDgWX58EAQsgbzcfZR"
     },
     {
-      "added_at": "2024-07-09 07:45:36",
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/4qZjF8ZITj8PzM3czk9xho"
+      },
+      "artists": [
+        {
+          "name": "Matilda",
+          "url": "https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp"
+        }
+      ],
+      "duration_ms": 171337,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/33nNr7ZB1HCN1fjdqPdomW"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "estonovabien",
+        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 161354,
+      "name": "estonovabien",
+      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Dissonance",
+        "url": "https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 131609,
+      "name": "Dissonance",
+      "url": "https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Claustrophobia",
+        "url": "https://open.spotify.com/album/2I4LO32KkvHyBHD4ugLSX8"
+      },
+      "artists": [
+        {
+          "name": "Nayeli",
+          "url": "https://open.spotify.com/artist/3xJ54VQTXSMcCYbO1dDhvc"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Claustrophobia",
+      "url": "https://open.spotify.com/track/4fTwn8ExOjTONXJwXBBFxI"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "Artificial Bliss",
+        "url": "https://open.spotify.com/album/1lpRTHQYQNzdzfzWO9bjIp"
+      },
+      "artists": [
+        {
+          "name": "Elliot Boyd",
+          "url": "https://open.spotify.com/artist/43XREBdVRoF4RB3brNoLf9"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Artificial Bliss",
+      "url": "https://open.spotify.com/track/7kf82gaBAc0B6miT8y1m3O"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
+      "album": {
+        "name": "romantyzuj\u0119 EP",
+        "url": "https://open.spotify.com/album/1npaNdX2BlFVJut1qvGzpR"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "deszcz",
+      "url": "https://open.spotify.com/track/3Po2TlXn1bcRsSujzbNkk2"
+    },
+    {
+      "added_at": "2024-07-16 07:09:30",
       "album": {
         "name": "NIE ZNASZ JEJ",
         "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-1,196 songs - 2 day 12 hr 47 min
+1,197 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-13 | 2024-06-21 |
 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-11 |  |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-07-05 |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-11 |  |
 | [mit ansigt](https://open.spotify.com/track/6WlfJY5s5xhWauA0Fq4M2x) | [popdreng](https://open.spotify.com/artist/2ZlAmhF3ayHihB6tf3cy7Y) | [mit ansigt](https://open.spotify.com/album/01gUQYhDS38JHD6P9IDjrW) | 3:00 | 2024-06-06 | 2024-06-14 |
 | [mit hjerte](https://open.spotify.com/track/5hz60mNRdPGSH6l33r9IV0) | [evigblå](https://open.spotify.com/artist/4zUjJUUYB3w7TXCvWKrVGk) | [mit hjerte](https://open.spotify.com/album/3Mbv0RBgHKc6zOPoDaOeMd) | 3:08 | 2024-05-23 | 2024-06-01 |
 | [Mockingbird](https://open.spotify.com/track/649grJfDqBcAOox6w9mtTE) | [Gorgeous](https://open.spotify.com/artist/6C0TMfW4C2qCYxMkktQLXd) | [Mockingbird](https://open.spotify.com/album/5AxWgZkZaQmcgXlYtsGKlv) | 4:02 | 2024-05-23 | 2024-06-01 |
@@ -750,7 +751,7 @@
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-05-30 | 2024-06-07 |
 | [My Favorite Moment](https://open.spotify.com/track/52CN0PBmuhy3TsbrRFwNy9) | [The William Blakes](https://open.spotify.com/artist/4IQvmf2jENQNGAdtIZBfSy) | [My Favorite Moment](https://open.spotify.com/album/7aicLNyhtiY6FFkWxsTVYm) | 3:38 | 2024-06-13 | 2024-06-21 |
 | [My Monsieur](https://open.spotify.com/track/6JbtzdUXE6JPDrUzvnvPWd) | [Yo Johnny](https://open.spotify.com/artist/25ohYOZfH653j5l7JinIMf), [Ravi Kuma](https://open.spotify.com/artist/2rmq8jyOQONkcsrcgPG93K) | [My Monsieur](https://open.spotify.com/album/5ncuxG1gQnjzmSXDEFJFpL) | 2:41 | 2024-06-20 | 2024-06-28 |
-| [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-12 |  |
+| [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-12 |  |
 | [my own war](https://open.spotify.com/track/6oKiR3Tgo4wq7YvQwo6vb3) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [my own war](https://open.spotify.com/album/1dbYskjA98RmaAuu43oIrw) | 3:02 | 2024-07-04 | 2024-07-12 |
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-02 | 2024-05-10 |
 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 | 2024-07-04 | 2024-07-12 |

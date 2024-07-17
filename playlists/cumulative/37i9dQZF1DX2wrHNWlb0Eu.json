@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 267133,
       "name": "\u0e04\u0e33\u0e16\u0e32\u0e21",
       "url": "https://open.spotify.com/track/0IFIKMchcHNwvl4owtoKaF"
@@ -1238,6 +1238,28 @@
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+        "url": "https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        },
+        {
+          "name": "XX",
+          "url": "https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252897,
+      "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
+      "url": "https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG"
     },
     {
       "album": {

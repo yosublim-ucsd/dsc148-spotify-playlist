@@ -3047,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Upperwest",
+        "url": "https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Upperwest",
+      "url": "https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG"
+    },
+    {
+      "album": {
         "name": "Vaikne",
         "url": "https://open.spotify.com/album/5zCCxMWQbzOgzl4nij0PVT"
       },

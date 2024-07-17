@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,531 likes - 61 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,590 likes - 61 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 13 | [衝撃](https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [衝撃](https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU) | 3:01 |
 | 14 | [Ashes on The Fire](https://open.spotify.com/track/6bXCGI0zBTjvwYBlDkFey3) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 4:34 |
 | 15 | [紅蓮の弓矢](https://open.spotify.com/track/0F8psXXh2oxE5BGdkKaoIs) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [自由への進撃](https://open.spotify.com/album/31L6jyQkVDu1xdfXizvAc2) | 5:16 |
-| 16 | [EL○](https://open.spotify.com/track/5LwaIhoULK2am3iNK7xXWb) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:41 |
+| 16 | [EL○](https://open.spotify.com/track/7mBLkiiBW38YLIkuoUAfcc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 4:41 |
 | 17 | [YouSee\-Power](https://open.spotify.com/track/517GTpatzMITcAIqsM74BU) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:17 |
 | 18 | [ətˈæk 0N tάɪtn<TFSv>](https://open.spotify.com/track/7cJyOWBZ2Moscj0LlNQexC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:57 |
 | 19 | [An Ordinary Day](https://open.spotify.com/track/7dRSePqAa4bScB706vKeC7) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 03](https://open.spotify.com/album/3rTrVjcIrw83YvtMIYlLJw) | 5:43 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkVfVmXHa7l.md) - [plain]
 | 60 | [自由の代償](https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:49 |
 | 61 | [theDOGS](https://open.spotify.com/track/7oexMVSCaD9l35CAliJT4w) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」後編\~自由の翼\~エンディングテーマ theDOGS produced by 澤野弘之](https://open.spotify.com/album/65i8TQtZ3KB2xpwe90FKRV) | 4:35 |
 
-Snapshot ID: `ZnzOqgAAAAC/ovod9tjtPc7ApgNXE862`
+Snapshot ID: `ZpagogAAAADzp7QvIXdBILGDTb1WAnKv`

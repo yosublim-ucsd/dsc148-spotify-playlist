@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 135255,
+  "num_followers": 135318,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Silky Soul",
+        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "Can't Get over You",
+      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 268173,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Silky Soul",
-        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 317026,
-      "name": "Can't Get over You",
-      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
     },
     {
       "added_at": "2024-07-09 17:06:54",

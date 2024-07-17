@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: Aina Abdul, Fabio Asher",
-  "num_followers": 20722,
+  "num_followers": 20726,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-12 04:46:25",
       "album": {
+        "name": "Tutur Batin",
+        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 215591,
+      "name": "Tutur Batin",
+      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
+    },
+    {
+      "added_at": "2024-07-12 04:46:25",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2024-07-12 04:46:25",
-      "album": {
-        "name": "Tutur Batin",
-        "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 215591,
-      "name": "Tutur Batin",
-      "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
     },
     {
       "added_at": "2024-07-12 04:46:25",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-12 04:46:25",
       "album": {
+        "name": "Nonfiksi",
+        "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 239416,
+      "name": "Lampu Kuning",
+      "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
+    },
+    {
+      "added_at": "2024-07-12 04:46:25",
+      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -863,26 +879,6 @@
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
-    },
-    {
-      "added_at": "2024-07-12 04:46:25",
-      "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 210801,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
     }
   ],
   "unique_name": "OTW ",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "432 Hz Lotus",
+        "url": "https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Parson",
+          "url": "https://open.spotify.com/artist/59S9QzQL8JVg6lts6OmX7I"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "432 Hz Lotus",
+      "url": "https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan"
+    },
+    {
+      "album": {
         "name": "Aasaan",
         "url": "https://open.spotify.com/album/2aRyCa9QEAc5VSM7R5LlYE"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 198051,
       "name": "Ancient Garden",
       "url": "https://open.spotify.com/track/7bkGyNEmJN1oDKe90FeuGt"
@@ -114,10 +132,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 505000,
       "name": "Angelic Realms",
       "url": "https://open.spotify.com/track/59Exthh0eds9w6UpUdwt0v"
+    },
+    {
+      "album": {
+        "name": "Astral Mountains",
+        "url": "https://open.spotify.com/album/0SdXknphzK0DvfaxLEFpPP"
+      },
+      "artists": [
+        {
+          "name": "Aden Cloud",
+          "url": "https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "Astral Mountains",
+      "url": "https://open.spotify.com/track/3p24rvJ2tPVnAqAikNfTcA"
     },
     {
       "album": {
@@ -184,7 +220,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 153973,
       "name": "Bhoop",
       "url": "https://open.spotify.com/track/5VUFIDfke3h6uPVCiFKXDW"
@@ -314,7 +350,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 180107,
       "name": "Clear Thoughts",
       "url": "https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF"
@@ -404,7 +440,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 278467,
       "name": "Cool Waters",
       "url": "https://open.spotify.com/track/2Dn4McNUBZuJQizR8gHmdS"
@@ -452,7 +488,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 237209,
       "name": "Dharawi Nights",
       "url": "https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF"
@@ -488,7 +524,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 366698,
       "name": "Disoriented",
       "url": "https://open.spotify.com/track/0ZnvdrjaPIiN7YeMZ5pDvN"
@@ -674,10 +710,64 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 283601,
       "name": "Eye of Horus",
       "url": "https://open.spotify.com/track/4glYwIM9IRl5tFX6aVgIRi"
+    },
+    {
+      "album": {
+        "name": "Fill My Soul",
+        "url": "https://open.spotify.com/album/1SUHmIOFSU0EUG2iNCOdkg"
+      },
+      "artists": [
+        {
+          "name": "Nambara Nim",
+          "url": "https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180978,
+      "name": "Fill My Soul",
+      "url": "https://open.spotify.com/track/5Nq4PiczI37zqNSufnRwGq"
+    },
+    {
+      "album": {
+        "name": "Floating Air",
+        "url": "https://open.spotify.com/album/7s8lb7gx7CVoH90zMQlC09"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Floating Air",
+      "url": "https://open.spotify.com/track/1BzIJLDKXbKjYkwz5de0u4"
+    },
+    {
+      "album": {
+        "name": "Flute Meditation Journey",
+        "url": "https://open.spotify.com/album/7oAvAIBDyZz4tuUPoEn2JU"
+      },
+      "artists": [
+        {
+          "name": "Mar Duron",
+          "url": "https://open.spotify.com/artist/5Z2wSeKFonNld5ZNij5qQV"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121886,
+      "name": "Flute Meditation Journey",
+      "url": "https://open.spotify.com/track/3JyDcbcq2w0xSeWknewNRT"
     },
     {
       "album": {
@@ -718,6 +808,24 @@
       "duration_ms": 243326,
       "name": "Follow The Sun - Osmosis Version",
       "url": "https://open.spotify.com/track/0MlYCFWI0oduT11W6O8ptJ"
+    },
+    {
+      "album": {
+        "name": "Forcefield",
+        "url": "https://open.spotify.com/album/7zcIO6YYpF6u6mahAE6wCO"
+      },
+      "artists": [
+        {
+          "name": "Wings Of Silk",
+          "url": "https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180589,
+      "name": "Forcefield",
+      "url": "https://open.spotify.com/track/56b05eHG1cX7Pa2TNdq4VW"
     },
     {
       "album": {
@@ -786,7 +894,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 317640,
       "name": "Hams (Whispers)",
       "url": "https://open.spotify.com/track/4ZKZt1HPNFBbVK69eIdMmy"
@@ -822,7 +930,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 198971,
       "name": "Haze Garden (Prayer)",
       "url": "https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd"
@@ -847,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Healing Waters",
+        "url": "https://open.spotify.com/album/14MQg2aI9GwWcG2fEe96jE"
+      },
+      "artists": [
+        {
+          "name": "Nika Tibia",
+          "url": "https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210045,
+      "name": "Healing Waters",
+      "url": "https://open.spotify.com/track/1xf8ik4evrkInc4MBK9FeF"
+    },
+    {
+      "album": {
         "name": "Dream Sequence",
         "url": "https://open.spotify.com/album/1ByBAMtsTxntiXGXY2SzK3"
       },
@@ -862,10 +988,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 268130,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5Ijm7hp5J2t3Mzss2bx9FT"
+    },
+    {
+      "album": {
+        "name": "Indian Sun",
+        "url": "https://open.spotify.com/album/7kSQemHvzLL46C6Vwvplzm"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182124,
+      "name": "Indian Sun",
+      "url": "https://open.spotify.com/track/1lB8R6zPxWaKjDAKRCi1Ov"
     },
     {
       "album": {
@@ -880,7 +1024,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 265248,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/1WncuU7QUZnx6eSrBa8oYJ"
@@ -1182,7 +1326,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 249656,
       "name": "Meditation Forest",
       "url": "https://open.spotify.com/track/0qXYVxXhJNSsaHsc6hp4dQ"
@@ -1222,6 +1366,24 @@
       "duration_ms": 200000,
       "name": "Milena's Theme (Duduk)",
       "url": "https://open.spotify.com/track/290GVez1qXhK2Dmx9JIauj"
+    },
+    {
+      "album": {
+        "name": "Mindale & Vistara",
+        "url": "https://open.spotify.com/album/5yNh1yAZ2K9iN0GhUznbnQ"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "Mindale",
+      "url": "https://open.spotify.com/track/5ZCbJko5nNHcze0KePBu4q"
     },
     {
       "album": {
@@ -1399,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Orca",
+        "url": "https://open.spotify.com/album/51mntvX9buhW9gPHhuJnIF"
+      },
+      "artists": [
+        {
+          "name": "Hulusi Hart",
+          "url": "https://open.spotify.com/artist/2t4NIwKfdzXxHI8VM8fOcN"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123500,
+      "name": "Orca",
+      "url": "https://open.spotify.com/track/7vqSjRB8R6iMUt29U0hbrd"
+    },
+    {
+      "album": {
         "name": "Peace and Quiet",
         "url": "https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0"
       },
@@ -1428,7 +1608,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 256002,
       "name": "Peaceful Hang Drum & Birdsong",
       "url": "https://open.spotify.com/track/4QAsHrYGR3RMonfSPI8gI5"
@@ -1468,6 +1648,24 @@
       "duration_ms": 230992,
       "name": "Prakriti Ke Saath",
       "url": "https://open.spotify.com/track/4mZ2cc1snsDnxf0NZbtd8v"
+    },
+    {
+      "album": {
+        "name": "Pune",
+        "url": "https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE"
+      },
+      "artists": [
+        {
+          "name": "Arch",
+          "url": "https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Pune",
+      "url": "https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4"
     },
     {
       "album": {
@@ -1552,7 +1750,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 389133,
       "name": "Realisation",
       "url": "https://open.spotify.com/track/6SZQ7BGoqvT0gE8Y9nWg1I"
@@ -1654,7 +1852,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 208481,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/7afUgskG9rOtR3E2gzN83j"
@@ -1712,7 +1910,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 270000,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/31VYNJ5we001yPTboZ7mXf"
@@ -1943,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "In Two Minds",
+        "url": "https://open.spotify.com/album/0lOZdbwV2CkgUiOQsuEE5Z"
+      },
+      "artists": [
+        {
+          "name": "Aguto Rising",
+          "url": "https://open.spotify.com/artist/3L7kF3nc7Xv5oFW6T4sZfG"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344014,
+      "name": "Songs in the Trees",
+      "url": "https://open.spotify.com/track/54HxJXNaQV4u3nAo0Opg58"
+    },
+    {
+      "album": {
         "name": "Soothing Streams",
         "url": "https://open.spotify.com/album/3cdSodclvk7shIjJpah4Ie"
       },
@@ -1976,6 +2192,24 @@
       "duration_ms": 136765,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d"
+    },
+    {
+      "album": {
+        "name": "Spirit Dreams",
+        "url": "https://open.spotify.com/album/63qVF6YRPDjbBpKwGyNyTR"
+      },
+      "artists": [
+        {
+          "name": "Greet The Day",
+          "url": "https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167766,
+      "name": "Spirit Dreams",
+      "url": "https://open.spotify.com/track/7bE8OlCcDl6ygOutK8FSyc"
     },
     {
       "album": {
@@ -2044,10 +2278,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 241300,
       "name": "Ta\u00b4 amul",
       "url": "https://open.spotify.com/track/59DL1BgmZlzDlY32MIsK7Q"
+    },
+    {
+      "album": {
+        "name": "Temple By The Water",
+        "url": "https://open.spotify.com/album/521CLKel2O41qG4zuazpGm"
+      },
+      "artists": [
+        {
+          "name": "Goa Gubhar",
+          "url": "https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177081,
+      "name": "Temple By The Water",
+      "url": "https://open.spotify.com/track/6YrcMJ3CIo1fZj7nduxhHv"
     },
     {
       "album": {
@@ -2123,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Tonal Calmness",
+        "url": "https://open.spotify.com/album/3UIe0Q2nz2FJOPKj01Kiut"
+      },
+      "artists": [
+        {
+          "name": "Places Within",
+          "url": "https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225517,
+      "name": "Tonal Calmness",
+      "url": "https://open.spotify.com/track/3PDE4uafLyorNaIWTos0MA"
+    },
+    {
+      "album": {
         "name": "Tranquil",
         "url": "https://open.spotify.com/album/1q5ZaHcamTvYgXameiiLtR"
       },
@@ -2138,6 +2408,24 @@
       "duration_ms": 206769,
       "name": "Tranquil",
       "url": "https://open.spotify.com/track/1VmsFLsFl9lrKeIm6Ok1sw"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/1IrBjyFHiyTNmfDFbltipR"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223852,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/00zTtuuRC9TZsBZ6rE71PK"
     },
     {
       "album": {
@@ -2358,7 +2646,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 344502,
       "name": "Wnderligha i\u00e6rtekn",
       "url": "https://open.spotify.com/track/30OKZtYttWUoXqa3VvEKJX"
@@ -2412,7 +2700,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 166896,
       "name": "\u0939\u0940\u0932\u093f\u0902\u0917 \u0938\u0902\u0917\u0940\u0924",
       "url": "https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ"

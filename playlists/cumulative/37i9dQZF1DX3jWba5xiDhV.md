@@ -4,7 +4,7 @@
 
 > Pino D'Angiò, italo disco king, you will always be missed 💔 1952\-2024
 
-185 songs - 15 hr 38 min
+186 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 | 2022-02-11 |  |
 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2024-04-04 |  |
 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 | 2022-10-07 | 2023-05-18 |
-| [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 |  |
+| [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 | 2022-02-11 | 2024-07-17 |
 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 | 2022-06-17 |  |
 | [Disco de la Noche](https://open.spotify.com/track/3L9qk5Lfs21bbA3upETg1f) | [Tarick1](https://open.spotify.com/artist/0dYDiawyfSqoWCgSdGYdsJ) | [Disco de la Noche](https://open.spotify.com/album/0k0eSLB89yP37TQ0YddmUm) | 3:39 | 2022-02-11 | 2022-03-22 |
 | [Disco Eccezionale \- Radio Edit](https://open.spotify.com/track/4k2xqWr7zFxVRY6BkrujuI) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Funk Rimini](https://open.spotify.com/artist/0gGVmvsVn6KNyOUACCBMRm) | [Disco Eccezionale](https://open.spotify.com/album/5M4oCtFndxCgeZkUEdqIUe) | 3:48 | 2022-02-11 | 2022-03-22 |
@@ -120,6 +120,7 @@
 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/2PK6xbvzCXZuhH0CZnLPiV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number \(Club Domani Remix\)](https://open.spotify.com/album/3XGVShMuSAzI0qqjuOEsXo) | 5:17 | 2022-02-11 | 2022-03-22 |
 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 | 2022-06-17 | 2024-06-17 |
 | [Neutron Dance](https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Division](https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV) | 6:36 | 2022-02-11 |  |
+| [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2024-07-16 |  |
 | [One for You, One for Me](https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui) | [La Bionda](https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i) | [The Collection](https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT) | 3:34 | 2022-02-11 |  |
 | [Only You](https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC) | [Savage](https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW) | [Tonight](https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys) | 3:53 | 2022-02-11 |  |
 | [Orient Express \- Vocal](https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV) | [Wish Key](https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl) | [Orient Express](https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv) | 7:08 | 2022-02-11 | 2022-10-08 |

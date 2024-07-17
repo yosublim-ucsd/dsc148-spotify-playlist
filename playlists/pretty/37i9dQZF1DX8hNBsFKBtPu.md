@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Katy Perry 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,897 likes - 128 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,896 likes - 128 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

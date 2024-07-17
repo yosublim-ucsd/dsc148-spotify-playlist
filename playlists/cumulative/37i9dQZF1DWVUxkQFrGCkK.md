@@ -4,7 +4,7 @@
 
 > moooooooove
 
-608 songs - 1 day 20 hr 31 min
+609 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Woman](https://open.spotify.com/track/0piIciwJcCG3t3O7hIAc7R) | [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h), [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf), [Madrid De Los Austrias](https://open.spotify.com/artist/5rMgBsf8Uemm3q7ReOLx2U) | [Canita Brava](https://open.spotify.com/album/3dFr2bE6fofJTOuJDR5QxX) | 6:18 | 2023-06-29 | 2023-08-02 |
 | [XXL](https://open.spotify.com/track/4W4m2zIJEeRJrVqXXIRilb) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [No Title Yet](https://open.spotify.com/album/6f0vJAFCklYzFAnpCc34QJ) | 6:34 | 2023-06-29 | 2023-08-25 |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 | 2023-04-13 | 2024-01-05 |
+| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-16 |  |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2023-12-21 |  |
 | [You Take Me Higher](https://open.spotify.com/track/64lDlWh45oGS2GofvC8Vp4) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [You Take Me Higher](https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8) | 3:07 | 2024-07-12 |  |
 | [You're Always On My Mind](https://open.spotify.com/track/0GKcmKs2FfeBDoJbpFadgh) | [Owen Vonn](https://open.spotify.com/artist/2p0u9cJPv581v5aTp2oSky) | [You're Always On My Mind](https://open.spotify.com/album/74dBO88tQw5RYjcTeWpD0m) | 6:00 | 2024-02-01 | 2024-03-15 |

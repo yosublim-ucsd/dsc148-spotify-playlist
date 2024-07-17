@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125898,
+  "num_followers": 125903,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASs8pmKneaEwDohsOJdwjMCDkfbxCH",
+  "snapshot_id": "AAAStbfcndlHlxxVbpBcUoayOe0XAFm+",
   "tracks": [
+    {
+      "added_at": "2024-07-16 14:18:27",
+      "album": {
+        "name": "Much Is Taken, Much Abides",
+        "url": "https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Much Is Taken, Much Abides",
+      "url": "https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1"
+    },
     {
       "added_at": "2024-07-15 15:09:15",
       "album": {
@@ -1127,22 +1147,6 @@
       "duration_ms": 147200,
       "name": "OUR STARS",
       "url": "https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi"
-    },
-    {
-      "added_at": "2024-04-26 15:06:25",
-      "album": {
-        "name": "Feral",
-        "url": "https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 200275,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

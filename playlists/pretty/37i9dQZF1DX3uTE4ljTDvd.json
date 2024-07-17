@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 121359,
+  "num_followers": 121386,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
+        "name": "Primeiro Amor",
+        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        }
+      ],
+      "duration_ms": 236828,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 330409,
       "name": "Vai Adorando (Ao Vivo)",
       "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
-        "name": "Primeiro Amor",
-        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        }
-      ],
-      "duration_ms": 236828,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -487,18 +487,22 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
-        "name": "Mesmo Sem Entender",
-        "url": "https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR"
+        "name": "Sinal de Amor",
+        "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
       },
       "artists": [
         {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Mesmo Sem Entender",
-      "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"
+      "duration_ms": 215750,
+      "name": "Sinal de Amor",
+      "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -519,22 +523,18 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
-        "name": "Sinal de Amor",
-        "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
+        "name": "Mesmo Sem Entender",
+        "url": "https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR"
       },
       "artists": [
         {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
         }
       ],
-      "duration_ms": 215750,
-      "name": "Sinal de Amor",
-      "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
+      "duration_ms": 204600,
+      "name": "Mesmo Sem Entender",
+      "url": "https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3"
     },
     {
       "added_at": "2024-07-13 00:28:33",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-13 00:28:33",
       "album": {
+        "name": "Eu Vou Mergulhar",
+        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        }
+      ],
+      "duration_ms": 291967,
+      "name": "Eu Vou Mergulhar",
+      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
+    },
+    {
+      "added_at": "2024-07-13 00:28:33",
+      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2024-07-13 00:28:33",
-      "album": {
-        "name": "Eu Vou Mergulhar",
-        "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
-      },
-      "artists": [
-        {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
-        }
-      ],
-      "duration_ms": 291967,
-      "name": "Eu Vou Mergulhar",
-      "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
       "added_at": "2024-07-13 00:28:33",

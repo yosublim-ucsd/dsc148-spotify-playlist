@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: srwks.\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Hitsujibungaku\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 103 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,994 likes - 103 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 |
-| 2 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 |
-| 3 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 2 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 3 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 |
 | 4 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 |
 | 5 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 |
 | 6 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 102 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 |
 | 103 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 |
 
-Snapshot ID: `ZpOgLgAAAAA+yocyjz4zwkfF9hF18t+G`
+Snapshot ID: `ZpXlwgAAAAA//R2MMUfsolk+T3caZXND`

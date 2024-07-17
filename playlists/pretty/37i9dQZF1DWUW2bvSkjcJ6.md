@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,947 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,992 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 4 | [5 Fuß](https://open.spotify.com/track/3nLWNMYImHjMe4TKz9GA6O) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [5 Fuß](https://open.spotify.com/album/3YsJuzRFGU0AhYx69QSiEE) | 2:22 |
 | 5 | [Wenn du mich kennst](https://open.spotify.com/track/7wz5d9hBn3oaJJXb6YdhbS) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Wenn du mich kennst](https://open.spotify.com/album/7pMfFFZsLEJeYIfKzkBnF9) | 2:36 |
 | 6 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 |
-| 7 | [My Oh My \- with Bebe Rexha & Tove Lo](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
+| 7 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 |
 | 8 | [VIEL GESEHEN](https://open.spotify.com/track/25nqp9CoZjUNk70cimVpta) | [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [VIEL GESEHEN](https://open.spotify.com/album/0awhKTwOXQS3feafU2Klyj) | 2:58 |
 | 9 | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Fall At Your Feet \(with Dean Lewis\)](https://open.spotify.com/album/7msRig3mOdFp1MeUZPngiY) | 2:23 |
 | 10 | [I'm Sorry \- southstar Remix](https://open.spotify.com/track/1DCR3o15qC2degQEYG5K2R) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [sowhy3](https://open.spotify.com/artist/1U1FxSl6bYeFUeGcg8KOsE) | [Digital Chaos](https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA) | 3:34 |

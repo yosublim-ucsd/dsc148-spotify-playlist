@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,882 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,230 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Burning Heart](https://open.spotify.com/track/6mVJRgyXJ3eAy6EViECJyW) | [Vandenberg](https://open.spotify.com/artist/3hAv15rFpsTe7zteKhhJTx) | [Vandenberg](https://open.spotify.com/album/5gQHRkxkF0X01H4f9z3Tcg) | 4:10 |
 | 50 | [Perdida](https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 3:29 |
 
-Snapshot ID: `ZkF/mAAAAABHtjIsymaPgSFbmd17lbfY`
+Snapshot ID: `ZpXnCQAAAABQqMQ/FhLFM2GCQms+K5wk`

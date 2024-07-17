@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:3y2cIKLjiOlp1Np37WiUdH">Shaboozey</a>
 
-3,520 songs - 7 day 9 hr 2 min
+3,521 songs - 7 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1664,6 +1664,7 @@
 | [Keep You Around](https://open.spotify.com/track/4Kp1NMyG6MZzbGtmNnTbXq) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [Keep You Around](https://open.spotify.com/album/1KIPnoqKZIfMqNjqpeMJqr) | 3:10 | 2024-03-22 | 2024-03-30 |
 | [Keeper](https://open.spotify.com/track/2DxrPZi0nxaIrGciFmErTW) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Keeper](https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm) | 3:20 | 2022-05-06 | 2022-06-08 |
 | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI) | 2:55 | 2022-06-17 | 2022-07-02 |
+| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-16 |  |
 | [keisha](https://open.spotify.com/track/0ICoAzphnJ3i5I9KHcBLdo) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [keisha](https://open.spotify.com/album/6lIhuQnAGRVi0DMNUmdNCD) | 2:55 | 2022-03-18 | 2022-05-28 |
 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 | 2022-02-11 | 2022-03-05 |
 | [Kick Doe Click \(ChopNotSlop Remix\)](https://open.spotify.com/track/2UyRADQ8m5pZBNGP0BLpoA) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [Nonsense and Mexican Shit \(ChopNotSlop Remix\)](https://open.spotify.com/album/6BToPpZxD4rTGAERc67hzW) | 4:09 | 2022-12-16 | 2023-01-14 |
@@ -3486,7 +3487,7 @@
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-02-25 |
 | [YOLANDA](https://open.spotify.com/track/2JPyIUTaDhW8PRwMUbSaRo) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 2:51 | 2024-03-08 | 2024-03-16 |
 | [You](https://open.spotify.com/track/1US4HqzbdbPo3QZnieLQEU) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [You](https://open.spotify.com/album/0yTyFB70pV7XcVs9j1jXDj) | 2:52 | 2022-09-09 | 2022-10-01 |
-| [You](https://open.spotify.com/track/6NANrt9lskVowsuZIxGbu9) | [SKN The Divine](https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK) | [You](https://open.spotify.com/album/2PzmmGMw0lhuZ3iqkQkmWP) | 2:30 | 2024-07-12 |  |
+| [You](https://open.spotify.com/track/6NANrt9lskVowsuZIxGbu9) | [SKN The Divine](https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK) | [You](https://open.spotify.com/album/2PzmmGMw0lhuZ3iqkQkmWP) | 2:30 | 2024-07-12 | 2024-07-17 |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-22 | 2023-11-30 |
 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 | 2024-06-28 | 2024-07-06 |
 | [You Carried Me \- Jekalyn's Version](https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [JEKALYN](https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK) | 5:03 | 2023-10-20 | 2023-11-30 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 67130,
+  "description": "This is Lunay. The essential tracks, all in one playlist.",
+  "num_followers": 67150,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADpOgGejCC0uABYPTZQ8rss",
+  "snapshot_id": "ZpRmgAAAAABq6UyB9iVEL4VSoAkxJbUP",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luz Apaga",
         "url": "https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 245000,
       "name": "Luz Apaga",
       "url": "https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
     },
     {
       "added_at": null,
@@ -1018,11 +1018,15 @@
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Susan Soltero",
+          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
         }
       ],
-      "duration_ms": 152000,
-      "name": "TBC",
-      "url": "https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo"
+      "duration_ms": 43008,
+      "name": "INTERLUDE / REPORTE DEL TIEMPO",
+      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
     },
     {
       "added_at": null,
@@ -1082,15 +1086,11 @@
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Susan Soltero",
-          "url": "https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx"
         }
       ],
-      "duration_ms": 43008,
-      "name": "INTERLUDE / REPORTE DEL TIEMPO",
-      "url": "https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y"
+      "duration_ms": 152000,
+      "name": "TBC",
+      "url": "https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo"
     },
     {
       "added_at": null,

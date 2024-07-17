@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,381 likes - 120 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,385 likes - 120 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 16 | [Fantastic](https://open.spotify.com/track/6RjS6MPgwJZF46uIZ42xKo) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Fantastic](https://open.spotify.com/album/2kwi1bM3Xh3vIV0AlMoQvH) | 2:32 |
 | 17 | [ساري الليل](https://open.spotify.com/track/3vjHJ9U0YkrR4QRDs5sy25) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [ساري الليل](https://open.spotify.com/album/6r8vCGqbxWAMj6TK1cdAI6) | 3:01 |
 | 18 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
-| 19 | [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 |
+| 19 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
 | 20 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
 | 21 | [pretty kitten](https://open.spotify.com/track/2VvirlkCrKMtmMJyJJSOx8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [pretty kitten](https://open.spotify.com/album/2QUUYnHejVdzcIp3pQPAEm) | 2:22 |
 | 22 | [TARAT ALTAYARA](https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [TARAT ALTAYARA](https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu) | 2:02 |
 | 23 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
 | 24 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/5XKKqryFZZpWO2oVEbBesD) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 25 | [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 |
-| 26 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
+| 26 | [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 |
 | 27 | [Logha](https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Swish](https://open.spotify.com/artist/0CMKtAa3P8sJ6MJjs8sqPi) | [Logha](https://open.spotify.com/album/4YNYUx2sXyYGcfNfqEc3pn) | 3:18 |
 | 28 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
 | 29 | [Sana](https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh) | [Walgz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT) | [Sana](https://open.spotify.com/album/4OY6ClZ57h5wcMsMW5AP0x) | 2:49 |
@@ -120,9 +120,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 110 | [Bl3ks](https://open.spotify.com/track/4bPrbtbzcawcrZJIyNCFzF) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Bl3ks](https://open.spotify.com/album/0HynO5MeZlsguTJD4e8lPT) | 3:57 |
 | 111 | [3yan T3ban \(Oddisee Remix\)](https://open.spotify.com/track/6FKIxWPsnQE88ebswxMt9I) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Manara Remixed](https://open.spotify.com/album/0dMwJwEy5wN0Jn1wrEJns0) | 2:41 |
 | 112 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 |
-| 113 | [Blue \- COLORS Sudan](https://open.spotify.com/track/4pAXmdDXQCBjX8aA8ZuyYm) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/5DVW38hjEoUkEckabps3S7) | 2:46 |
-| 114 | [Ya Sudan \- Alive At Spacebomb Studios](https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Ya Sudan \(Alive At Spacebomb Studios\)](https://open.spotify.com/album/2Dp2bjaqbtGWdhV2v2kXeU) | 3:09 |
-| 115 | [A'abir Sikkah](https://open.spotify.com/track/3Ofk3PAr8Zkp8Ut7YNc3Bq) | [Abdel Gadir Salim](https://open.spotify.com/artist/3Veb31WLtJfmDbXk3zm3xd) | [Nujum Al\-lail](https://open.spotify.com/album/5cdR3DjaQ7Qx5UEHvUfv7j) | 8:09 |
+| 113 | [Ya Sudan \- Alive At Spacebomb Studios](https://open.spotify.com/track/1YpnoEzbd883QqxoV7BkcE) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Ya Sudan \(Alive At Spacebomb Studios\)](https://open.spotify.com/album/2Dp2bjaqbtGWdhV2v2kXeU) | 3:09 |
+| 114 | [A'abir Sikkah](https://open.spotify.com/track/3Ofk3PAr8Zkp8Ut7YNc3Bq) | [Abdel Gadir Salim](https://open.spotify.com/artist/3Veb31WLtJfmDbXk3zm3xd) | [Nujum Al\-lail](https://open.spotify.com/album/5cdR3DjaQ7Qx5UEHvUfv7j) | 8:09 |
+| 115 | [Blue \- COLORS Sudan](https://open.spotify.com/track/4pAXmdDXQCBjX8aA8ZuyYm) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Blue \- COLORS Sudan](https://open.spotify.com/album/5DVW38hjEoUkEckabps3S7) | 2:46 |
 | 116 | [Ahla Eyyoun](https://open.spotify.com/track/3t6mDLyrhHgRfcZErr5N9G) | [Abdel Aziz El Mubarak](https://open.spotify.com/artist/7rl7hf7PUimWwI7hBLQ6bB) | [Abdel Aziz El Mubarak](https://open.spotify.com/album/3GSWzFJZ0lgJAFrNOv9l8d) | 6:44 |
 | 117 | [Noora](https://open.spotify.com/track/28QZMziRHzyxHet8LKkv7R) | [Mohamed Gubara](https://open.spotify.com/artist/6nl9GL3qa0qk0BFYsEG37s) | [Sounds of Sudan](https://open.spotify.com/album/631O6gPniiPLl8u6fxzrVo) | 6:10 |
 | 118 | [Agricultural Revolution](https://open.spotify.com/track/5eoW1Ke2adtl6zuEc6hbjy) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Agricultural Revolution / Al Asafir](https://open.spotify.com/album/5bSVJ7ylub0b0Ihf4tDadW) | 5:07 |

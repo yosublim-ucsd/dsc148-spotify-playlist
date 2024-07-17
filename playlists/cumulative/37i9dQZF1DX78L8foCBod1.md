@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-165 songs - 11 hr 29 min
+168 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [aLIEz](https://open.spotify.com/track/0w0LzMyUvgRYqYehX77UE7) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:28 | 2022-06-21 | 2024-04-19 |
 | [aLIEz](https://open.spotify.com/track/1I6uKSVVYyFq5qaSa6W7Pp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [A/Z\|aLIEz](https://open.spotify.com/album/3Gf6cfCBKbLgJWOF8aTnel) | 4:28 | 2022-09-29 | 2022-11-13 |
 | [aLIEz](https://open.spotify.com/track/1sbc8eGIQ69LOdmOdDx6g7) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS) | [A/Z\|aLIEz](https://open.spotify.com/album/1FgOn3h8OH4b8udcRf230e) | 4:28 | 2022-06-07 |  |
+| [AOTF\-s1](https://open.spotify.com/track/1JY8LKemcPBXL4tAbibfAc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 7:57 | 2024-07-16 |  |
 | [AOTF\-s1](https://open.spotify.com/track/1C9oENPxKhJlRy21acxJNq) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 7:57 | 2022-06-21 | 2024-03-27 |
 | [AOTF\-s1](https://open.spotify.com/track/4UsCRRCctHBF45wci4a4BR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack](https://open.spotify.com/album/4RiSh2jF23Dwbpvlt7pjO9) | 7:57 | 2022-06-07 | 2022-07-29 |
 | [AOTF\-s2](https://open.spotify.com/track/471mJZzGPEvXlVI2lV9WBJ) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 3:33 | 2022-06-21 | 2024-04-19 |
@@ -61,6 +62,7 @@
 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 | 2022-06-07 |  |
 | [Ego](https://open.spotify.com/track/76ucx0i5WBu3fTPIrG1jh3) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 3:14 | 2023-05-12 | 2024-04-19 |
 | [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 | 2022-06-07 |  |
+| [EL○](https://open.spotify.com/track/7mBLkiiBW38YLIkuoUAfcc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 4:41 | 2024-07-16 |  |
 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 | 2022-06-07 |  |
 | [God of ink](https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:11 | 2022-06-07 |  |
 | [gravityWall](https://open.spotify.com/track/6WBoHxSRyvMyGIzslzJJ8m) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [gravityWall/sh0ut](https://open.spotify.com/album/2K0cY9YMrCDWoNHMpNZMsF) | 3:46 | 2022-09-29 | 2022-11-13 |
@@ -164,6 +166,7 @@
 | [YouSee\-Power](https://open.spotify.com/track/6fx2tRc1ez4qCPySzRRx1m) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 4:17 | 2022-06-21 | 2024-04-19 |
 | [Zero Eclipse](https://open.spotify.com/track/0MemW1DmggDpHBGH4GgiaS) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | ["Attack on Titan" Season 3 Original Soundtrack](https://open.spotify.com/album/5ZT4JbMhZU7V8sDPHZhG8h) | 4:13 | 2022-06-21 | 2024-04-19 |
 | [Zero Eclipse](https://open.spotify.com/track/3MRtp8nHiflu8rrmLYB07X) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「進撃の巨人」Season3 オリジナルサウンドトラック](https://open.spotify.com/album/68QDg9053hXAeE2GR6lBmD) | 4:13 | 2022-06-07 |  |
+| [ətˈæk 0N tάɪtn \- TFSv](https://open.spotify.com/track/6ieOSrKrWjIRCtAdwWOPE2) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 4:57 | 2024-07-16 |  |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-06-07 |  |
 | [その先の光へ](https://open.spotify.com/track/6vhlzDLaHOaENWsdwGCBCc) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [その先の光へ](https://open.spotify.com/album/1wlUyiLlOK5m7LWBhXxEuc) | 4:22 | 2022-06-07 |  |
 | [アッシャー幻saw曲 第一楽章: Call me later](https://open.spotify.com/track/4Ubtpg1kZYDfc2S2UhwW54) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:19 | 2022-06-07 | 2024-03-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,713 likes - 150 songs - 8 hr 27 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,711 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 145 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 | 146 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 | 147 | [See You Sweat](https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [See You Sweat](https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i) | 3:29 |
-| 148 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:56 |
+| 148 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:49 |
 | 149 | [One More Night \- feat\. Flume](https://open.spotify.com/track/4tAms1KMqptEzmO59cULhS) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Can You Hear Me Dreaming?](https://open.spotify.com/album/3gi2MFodyrIh2X2r1hbgvx) | 2:44 |
 | 150 | [Say](https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Say](https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5) | 2:54 |
 

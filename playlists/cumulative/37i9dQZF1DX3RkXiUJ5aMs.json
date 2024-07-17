@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188455,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
+    },
+    {
+      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 201332,
       "name": "Before You Ask Her",
       "url": "https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 286800,
       "name": "Can't Live A Day",
       "url": "https://open.spotify.com/track/1mopEOz5TeAMbz81Z63xKJ"
@@ -402,7 +420,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 226720,
       "name": "Family",
       "url": "https://open.spotify.com/track/1VAVGF84xWOXojCoOjKsvV"
@@ -525,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Father Song",
+        "url": "https://open.spotify.com/album/55IC3yOUiWseZ4MT6yoEgX"
+      },
+      "artists": [
+        {
+          "name": "Gideon Roberts",
+          "url": "https://open.spotify.com/artist/6jaG4lKI1f0SeeWBCr2bfI"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Father Song",
+      "url": "https://open.spotify.com/track/5ZnzeK0guHHU7lVXB19DPy"
+    },
+    {
+      "album": {
         "name": "First a Son (Live)",
         "url": "https://open.spotify.com/album/54ED5AYVMlLkwipCofO5qI"
       },
@@ -554,7 +590,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 318933,
       "name": "Go There With You",
       "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
@@ -760,7 +796,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 206400,
       "name": "I Still Believe in That",
       "url": "https://open.spotify.com/track/6lBfMfwQuQSQBxxsjvbynx"
@@ -796,7 +832,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 334946,
       "name": "I Want To Be Just Like You",
       "url": "https://open.spotify.com/track/7bNHXMLUgvoWzYwoKYQiSN"
@@ -940,7 +976,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 163880,
       "name": "My Father's World",
       "url": "https://open.spotify.com/track/14flwcbz38Q5HeQiutm0SQ"
@@ -976,7 +1012,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 219986,
       "name": "My Little Girl (from My Friend Flicka)",
       "url": "https://open.spotify.com/track/7qosBEliJ2mNL87rMTfbT5"
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 245440,
       "name": "New Day",
       "url": "https://open.spotify.com/track/1Jc3DqBxWynXZPQLmOEHEe"
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 243720,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1ENDLctAQDHtblpQYefF0I"
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 242733,
       "name": "Stealing Cinderella",
       "url": "https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ"
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 212733,
       "name": "That Kind Of Love",
       "url": "https://open.spotify.com/track/2u9Gu96C6sZqsjt4LSt74F"
@@ -1398,10 +1434,28 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 239973,
       "name": "Unfailing Love",
       "url": "https://open.spotify.com/track/2hJtYiDfwn57achG9nuiyl"
+    },
+    {
+      "album": {
+        "name": "Vuela",
+        "url": "https://open.spotify.com/album/3iP4r0Xv2PrkhnMOh9pipO"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186888,
+      "name": "Vuela",
+      "url": "https://open.spotify.com/track/1h4SBBa7WBdzG2dSF4LMTn"
     },
     {
       "album": {
@@ -1492,7 +1546,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 283200,
       "name": "When Love Takes You In",
       "url": "https://open.spotify.com/track/0eSFnGle4aBxTZ83VRs6vP"

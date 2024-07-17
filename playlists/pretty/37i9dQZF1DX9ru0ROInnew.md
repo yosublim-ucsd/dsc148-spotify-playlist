@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,519 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,566 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 109 | [Shut Up](https://open.spotify.com/track/7yJq8vPPDNL4GxW93t93ZC) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Shut Up](https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC) | 2:59 |
 | 110 | [47 \- Remix](https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [47 \(Remix\)](https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA) | 8:37 |
 | 111 | [WOW](https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [WOW](https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS) | 3:37 |
-| 112 | [Activa](https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Bendecido](https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV) | 3:41 |
-| 113 | [47](https://open.spotify.com/track/7KhBQ6XFeAGrQzyT28MWvP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy) | [47](https://open.spotify.com/album/3TQNU06kZkQgN54c8l5NwM) | 4:13 |
+| 112 | [47](https://open.spotify.com/track/7KhBQ6XFeAGrQzyT28MWvP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy) | [47](https://open.spotify.com/album/3TQNU06kZkQgN54c8l5NwM) | 4:13 |
+| 113 | [Activa](https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Bendecido](https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV) | 3:41 |
 | 114 | [Relax](https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Relax](https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3) | 3:26 |
 | 115 | [Esclava \(Remix\) \[feat\. Bryant Myers, Anonimus & Almighty\]](https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Real Hasta La Muerte Mixtape](https://open.spotify.com/album/4B45YXF6QPhVVln3nKPsOA) | 4:41 |
 | 116 | [Tu No Metes Cabra](https://open.spotify.com/track/10nQ3Pj0o1XotcikgJPVKD) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/3fR0Rw46Bq2LU1JAY3irCe) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:7zpvy5B9gb5KprNUzNCOEE">Miel San Marcos</a> y <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,387 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,474 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

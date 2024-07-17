@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20434,
+  "num_followers": 20521,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKuBnBM05TC+noDt+nAm7YHN9OUDmR",
+  "snapshot_id": "AAAKus65aKrOH+ozSpT8LShyKmr1iI6W",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -299,6 +299,38 @@
       "duration_ms": 261885,
       "name": "My Time - 2023 Remaster",
       "url": "https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7"
+    },
+    {
+      "added_at": "2024-07-16 15:24:50",
+      "album": {
+        "name": "Pretty Place Demos",
+        "url": "https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2"
+      },
+      "artists": [
+        {
+          "name": "NumbDome",
+          "url": "https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "With You - Demo",
+      "url": "https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn"
+    },
+    {
+      "added_at": "2024-07-16 22:45:54",
+      "album": {
+        "name": "caught by a wind",
+        "url": "https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "caught by a wind",
+      "url": "https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas"
     }
   ],
   "unique_name": "living alone",

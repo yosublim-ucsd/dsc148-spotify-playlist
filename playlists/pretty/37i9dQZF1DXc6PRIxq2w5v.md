@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Thiagão, Pregador Luo
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,658 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,706 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 67 | [Me Deixou Forte](https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Me Deixou Forte](https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va) | 2:44 |
 | 68 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 |
 | 69 | [Bem Maior](https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Bem Maior](https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y) | 2:36 |
-| 70 | [Passos](https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Passos](https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ) | 3:15 |
+| 70 | [Love Sangre](https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Love Sangre](https://open.spotify.com/album/4Z21EoViE71csguinP5E1S) | 2:53 |
 | 71 | [Lesgo](https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Lesgo](https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV) | 3:24 |
 | 72 | [FLOW ISADORA POMPEO](https://open.spotify.com/track/1v3Gr65M8szE3ySn9gqsaD) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [DG Beatz](https://open.spotify.com/artist/0PrH9vTBeW7zwwrwykDKOR) | [FLOW ISADORA POMPEO](https://open.spotify.com/album/67h5O3D5HHmSYbYsGQfSUl) | 2:16 |
-| 73 | [Love Sangre](https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo) | [ADS Escobar](https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Love Sangre](https://open.spotify.com/album/4Z21EoViE71csguinP5E1S) | 2:53 |
+| 73 | [Passos](https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Passos](https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ) | 3:15 |
 | 74 | [Fui Liberto](https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t) | [Nicole Gomes](https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Fui Liberto](https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3) | 2:33 |
 | 75 | [Metanoia](https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [DJ Richa](https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ) | [Metanoia](https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG) | 2:51 |
 | 76 | [Alma](https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Alma](https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ) | 3:07 |

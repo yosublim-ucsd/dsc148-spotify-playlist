@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-207 songs - 16 hr 48 min
+208 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [Ki telfetlah bgha ykatefna](https://open.spotify.com/track/1XAwe7TX1iSlVBB0U2tNyl) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Ki telfetlah bgha ykatefna](https://open.spotify.com/album/3ZjkQpXeOF0weNHOyMUFtF) | 4:26 | 2024-02-05 |  |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 | 2022-12-27 |
+| [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 | 2024-07-16 |  |
 | [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 | 2023-10-11 |  |
 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 | 2022-11-21 |
 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 | 2023-11-02 |  |
@@ -198,7 +199,7 @@
 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 | 2022-11-14 | 2022-11-21 |
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2024-06-01 |
-| [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 |  |
+| [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 | 2024-07-17 |
 | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/album/1TvQ3FKMchGMi67E2uYYrP) | 8:40 | 2023-12-28 |  |
 | [شكون لي دارلي](https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [شكون لي دارلي](https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g) | 1:40 | 2024-03-16 | 2024-05-14 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-24 |  |

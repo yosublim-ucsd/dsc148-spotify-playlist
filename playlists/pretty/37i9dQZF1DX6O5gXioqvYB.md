@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > La nuova scena indie italiana! Cover: ceneri
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,583 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,586 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 7 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 |
 | 8 | [STUPIDA](https://open.spotify.com/track/1yHU38rOiDrRC839QBbN8l) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [STUPIDA](https://open.spotify.com/album/1imcRHiMvoqVMsyRdO4vv5) | 3:00 |
 | 9 | [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 |
-| 10 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 |
+| 10 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 |
 | 11 | [odio l'estate.](https://open.spotify.com/track/2SX5vNtHYFuEs8P3rYUQHy) | [petra](https://open.spotify.com/artist/3yzgT3hMTtjPZ9GgmeFnCt) | [odio l'estate.](https://open.spotify.com/album/5xcCj6E31B8EL4028AshAl) | 2:36 |
 | 12 | [Costellazione](https://open.spotify.com/track/5Jox5uSfaGkJ2Wm7zXEzTY) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/3gUebY15KykhIStuskHmpM) | 3:15 |
 | 13 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 |

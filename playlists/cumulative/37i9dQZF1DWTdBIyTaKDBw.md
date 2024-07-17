@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-306 songs - 17 hr 30 min
+307 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
-| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
+| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2024-07-17 |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 |  |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 | 2022-05-03 | 2024-07-03 |
@@ -155,6 +155,7 @@
 | [Luv Letter](https://open.spotify.com/track/60mjatPf9M1fXkBmei0ATb) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9) | [MIRROR](https://open.spotify.com/album/2hVOlMI7GteBNwO90mflZd) | 4:28 | 2024-07-02 |  |
 | [Lyricist](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) | 3:16 | 2022-07-22 | 2024-06-22 |
 | [Lyricist](https://open.spotify.com/track/5MFROL7TXwkFAeDs6rphWX) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/0EMhcFdM4qy85rwwqOttww) | 3:16 | 2022-05-03 | 2022-07-29 |
+| [Maiko's Hope](https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:28 | 2024-07-02 |  |
 | [Mamoritai](https://open.spotify.com/track/2MGWnzs81DVvCUi9HC6oWx) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [The Equilibrium](https://open.spotify.com/album/5gnvSc5zztBfd5SDEcVbv9) | 2:40 | 2024-07-02 |  |
 | [Maudie](https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:04 | 2022-09-07 | 2022-12-03 |
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 | 2024-06-22 |

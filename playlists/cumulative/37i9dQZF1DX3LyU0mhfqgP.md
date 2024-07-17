@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: SOPHIE
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Vũ Cát Tường
 
-1,273 songs - 2 day 20 hr 39 min
+1,276 songs - 2 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-03-12 | 2024-05-07 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-23 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-07-09 |  |
+| [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-16 |  |
 | [Ahora](https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Emilia Siede](https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 3:56 | 2023-03-31 | 2023-04-14 |
 | [Ahora](https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Brenda Martin](https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI) | [OTRX](https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh) | 3:36 | 2023-03-31 | 2023-04-14 |
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2n8j7u2yDV1hyIXvh5f85Q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2edjshjBUtVkfILZP3ATDR) | 3:03 | 2024-03-12 | 2024-04-13 |
@@ -310,7 +311,7 @@
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-05-11 | 2024-07-10 |
 | [Dose](https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ) | [Trevi Moran](https://open.spotify.com/artist/2mMuXvJVBA9Ft34x9WYpP2) | [Dose](https://open.spotify.com/album/4Jfbqyz9pc5PvjGwjTuW3L) | 3:42 | 2022-01-28 | 2022-07-22 |
 | [Double Yellow](https://open.spotify.com/track/0xhXzTgmlSXu90D0HN4qUa) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw), [boy jones](https://open.spotify.com/artist/5fJ65ad5oG6eKLXI1NgKSu) | [Double Yellow](https://open.spotify.com/album/0tfLWqHSp56vi3YX6KVKW2) | 3:22 | 2023-06-02 | 2023-07-12 |
-| [DRAMA](https://open.spotify.com/track/18ZPQRCfN2kWgjdDa9Oa7T) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [DRAMA](https://open.spotify.com/album/1Fo7vUm0xF1frBVNf2HLJN) | 3:00 | 2024-07-09 |  |
+| [DRAMA](https://open.spotify.com/track/18ZPQRCfN2kWgjdDa9Oa7T) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [DRAMA](https://open.spotify.com/album/1Fo7vUm0xF1frBVNf2HLJN) | 3:00 | 2024-07-09 | 2024-07-17 |
 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 | 2022-06-17 | 2022-07-26 |
 | [Dream Of Hell](https://open.spotify.com/track/71xwMsjqpSNfT9PHlEZow8) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [It's All Happening](https://open.spotify.com/album/0oP0OCi2uZY6rqlzcS88xd) | 3:51 | 2023-11-14 | 2023-11-30 |
 | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/4SG3t0x3Qk5YXEqAJ89xqT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/album/5fEol7mRuY1Vn0G9rsO9eV) | 2:27 | 2024-06-05 | 2024-07-10 |
@@ -527,6 +528,7 @@
 | [i belong to you](https://open.spotify.com/track/1HgeKwvlxU1ScR9pExHrQS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [i belong to you](https://open.spotify.com/album/7yZzjlDLPVx72ecjraESoI) | 3:04 | 2022-04-01 | 2022-10-08 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2022-01-21 | 2022-10-29 |
 | [i didn't know any better](https://open.spotify.com/track/3h8QfnbdQKKcYm086PsMQ2) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [i owe it to myself](https://open.spotify.com/album/5nE9Ce10HEVXUj1qcqnE1E) | 3:31 | 2022-03-25 | 2022-07-27 |
+| [I Do](https://open.spotify.com/track/5KMaaEKQkELaj1vxMu5YEZ) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Blue Skies Motel](https://open.spotify.com/album/5iI2whl1ujFd9PoxRuH4qC) | 2:54 | 2024-07-16 |  |
 | [i don't believe in God](https://open.spotify.com/track/4gQ76st50BNwJg6jOLBwvv) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:21 | 2024-06-05 |  |
 | [I Don't Love You](https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n) | 4:11 | 2024-03-12 | 2024-04-19 |
 | [I Don't Love You](https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [I Don't Love You](https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN) | 4:11 | 2024-04-16 | 2024-05-07 |
@@ -630,6 +632,7 @@
 | [kim kardashian](https://open.spotify.com/track/1Fsrv7KzrMrRWN02QybpNN) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [kim kardashian](https://open.spotify.com/album/2kxzIQa64scNGZnyIvIx85) | 2:34 | 2022-08-26 | 2022-09-10 |
 | [Kind Of Girl](https://open.spotify.com/track/04cy0BQeW4ZDLspMIfpMLv) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Kind Of Girl](https://open.spotify.com/album/7M7Qc4c1qDMdrDWXtQ4NF7) | 4:06 | 2022-04-29 | 2022-06-25 |
 | [King Kong](https://open.spotify.com/track/5CiG5NP7m7IbqNl8QLF9il) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Parallel](https://open.spotify.com/album/6aO0SJdC67T4ufViXz4ZAc) | 2:55 | 2023-08-01 | 2023-08-09 |
+| [Kitty Kush](https://open.spotify.com/track/0VTOjRq2Z4DILnxPgF3VAm) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Kitty Kush](https://open.spotify.com/album/24BgUfeQ8tVfLLAlsokZs4) | 2:21 | 2024-07-16 |  |
 | [Klub Złamanych Serc](https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Klub Złamanych Serc](https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU) | 2:08 | 2023-11-14 | 2023-11-30 |
 | [Know Someone](https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Know Someone](https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf) | 4:20 | 2023-08-08 | 2023-09-13 |
 | [KoOkOo](https://open.spotify.com/track/6K4wSJbaRk7sGWs2dfgHeX) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [KoOkOo](https://open.spotify.com/album/7qwo1A3u9JxRTwWhiNrOLR) | 3:58 | 2023-06-01 | 2023-07-12 |
@@ -1135,7 +1138,7 @@
 | [Tootsie Rollin](https://open.spotify.com/track/0AvZgPrDfx1uELYGFqb4ST) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [Tootsie Rollin](https://open.spotify.com/album/6L68Wu2jCzKrCnJZ5RxEwU) | 3:02 | 2023-09-12 | 2023-10-11 |
 | [TOP TEN!](https://open.spotify.com/track/21Ltf4RXrYaymlGB0AW6wF) | [SPACEBABYMADCHA](https://open.spotify.com/artist/4Twtl8sz0ceeOrdXmglVpa) | [TOP TEN!](https://open.spotify.com/album/6K71MbG9hsMj0PnYSUA5kg) | 2:57 | 2023-08-08 | 2023-09-26 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-07-11 | 2024-04-10 |
-| [TOY DOLL HEART](https://open.spotify.com/track/78dt3LkFKk16vFZnu95nwx) | [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [TOY DOLL HEART](https://open.spotify.com/album/5qRwboTSRSAokar1ZFO6rr) | 3:37 | 2024-07-09 |  |
+| [TOY DOLL HEART](https://open.spotify.com/track/78dt3LkFKk16vFZnu95nwx) | [BŪJIN](https://open.spotify.com/artist/1Li4AeVdyUrd5ltRTzfWED) | [TOY DOLL HEART](https://open.spotify.com/album/5qRwboTSRSAokar1ZFO6rr) | 3:37 | 2024-07-09 | 2024-07-17 |
 | [Trainwreck](https://open.spotify.com/track/7JB6QakLsBYIFJygBj3Gw9) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Trainwreck](https://open.spotify.com/album/40BPGWLG5pzVVN1o0DsyzN) | 2:32 | 2022-07-01 | 2022-07-28 |
 | [Transfert Trottinette](https://open.spotify.com/track/6jgtiFU9ilEW2nPRtR3FrR) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Théorème](https://open.spotify.com/album/02jbw685jrJePuPIl9PppC) | 2:39 | 2023-01-24 | 2023-03-08 |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-02-11 | 2022-08-01 |
@@ -1266,7 +1269,7 @@
 | [คืนให้ \(ps.\)](https://open.spotify.com/track/6RZJoBLhiRKqXeW7N55iFd) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [Mean TaitosmitH](https://open.spotify.com/artist/2cUSxZOzaRA7D3cxuIWVNT) | [คืนให้ \(ps.\)](https://open.spotify.com/album/2PCCiKnz9rt84NssRnQx1Q) | 3:37 | 2023-04-13 | 2023-05-10 |
 | [จับหน่อยจะล้ม \(Help!\)](https://open.spotify.com/track/4Ax1QYgUzqZZlp65tKASID) | [ARII Takahashi](https://open.spotify.com/artist/2RUEOKaoRDiqpuDu2PgE2Q) | [จับหน่อยจะล้ม \(Help!\)](https://open.spotify.com/album/604INeuz7PaijOpoNyvbse) | 3:12 | 2023-03-07 | 2023-04-01 |
 | [ดีกว่า](https://open.spotify.com/track/0YOubd0ULVXNbu5ECSgJ30) | [SIN](https://open.spotify.com/artist/3ubzA3oelaUG8pvmDqftyf) | [ดีกว่า](https://open.spotify.com/album/5IxVPyYNAYSjCTxZc7M22J) | 3:24 | 2023-01-24 | 2023-03-08 |
-| [มาทำไม](https://open.spotify.com/track/3dBKJR1hJO7F1yE13BmJrc) | [Yoshi Rinrada](https://open.spotify.com/artist/1sPCy6IMLjMnCjDxnqe0fL) | [มาทำไม](https://open.spotify.com/album/15g2CrXaCvlKUWbJm2yXWk) | 3:06 | 2024-07-09 |  |
+| [มาทำไม](https://open.spotify.com/track/3dBKJR1hJO7F1yE13BmJrc) | [Yoshi Rinrada](https://open.spotify.com/artist/1sPCy6IMLjMnCjDxnqe0fL) | [มาทำไม](https://open.spotify.com/album/15g2CrXaCvlKUWbJm2yXWk) | 3:06 | 2024-07-09 | 2024-07-17 |
 | [ยังรัก \(Young Love\)](https://open.spotify.com/track/06I5qXltU2LqsxSEel2a0x) | [Ben Chalatit](https://open.spotify.com/artist/0GiEONvF01I5uJJzctwnNx), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ยังรัก \(Young Love\)](https://open.spotify.com/album/2Km14IkUkroo25nBn4HWEe) | 4:24 | 2023-08-08 | 2023-09-13 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-08-08 | 2023-09-13 |
 | [สกินชิพ \- Skinship](https://open.spotify.com/track/1MOHPTfRJN7a1lFvz6OvnA) | [DoubleBam](https://open.spotify.com/artist/18TTJQtRF5HSVBSzhn1FPK) | [สกินชิพ \(Skinship\)](https://open.spotify.com/album/15dKiEeFFx7olHbZgo7irE) | 2:32 | 2023-04-13 | 2023-05-10 |

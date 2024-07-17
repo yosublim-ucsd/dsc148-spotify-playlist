@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 21725,
+  "num_followers": 21731,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAD/SfNNdeu8+ZciFe3NFhfm",
+  "snapshot_id": "ZpRmgAAAAAC/k4miefPV1eJFqpNQJ5Mt",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 228760,
-      "name": "Drunks, Lovers, Sinners and Saints",
-      "url": "https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN"
+      "duration_ms": 220440,
+      "name": "We Are the Sound",
+      "url": "https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 220440,
-      "name": "We Are the Sound",
-      "url": "https://open.spotify.com/track/522Ujz4WQ0i2YjQk1eWOch"
+      "duration_ms": 228760,
+      "name": "Drunks, Lovers, Sinners and Saints",
+      "url": "https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Girls Pointing and Laughing (Live)",
-        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 293958,
-      "name": "Little Girls Pointing and Laughing - Live",
-      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 314876,
       "name": "Adelleda",
       "url": "https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Girls Pointing and Laughing (Live)",
+        "url": "https://open.spotify.com/album/7Iy9LMILoGIaZLknGwZTac"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 293958,
+      "name": "Little Girls Pointing and Laughing - Live",
+      "url": "https://open.spotify.com/track/0UL9ahJncduDBElTmZJQ2Q"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 376906,
-      "name": "Dogs Blood - Live",
-      "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexisonfire",
         "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191086,
       "name": "Where No One Knows",
       "url": "https://open.spotify.com/track/4KoJronH3cHIYDu7AYFQYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 376906,
+      "name": "Dogs Blood - Live",
+      "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Jubella - Live",
-      "url": "https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicit",
         "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 238418,
       "name": "Complicit",
       "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Jubella - Live",
+      "url": "https://open.spotify.com/track/2DeLdi7dH3cb57BMXe8GiS"
     },
     {
       "added_at": null,

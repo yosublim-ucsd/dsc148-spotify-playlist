@@ -4,7 +4,7 @@
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 32 min
+62 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2023-12-30 |  |
 | [Pagar Pra Ter](https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:05 | 2023-12-30 |  |
 | [Palam Gang](https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz) | [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Crypto Reggae](https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj) | 3:02 | 2023-12-30 |  |
-| [Papo Reto](https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Papo Reto](https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B) | 3:12 | 2024-07-15 |  |
+| [Papo Reto](https://open.spotify.com/track/38uPYjSA9RhTV42nmSAaV2) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Papo Reto \(Deluxe\)](https://open.spotify.com/album/7whN3qlp1F3hlb0JWoDHkR) | 3:12 | 2024-07-17 |  |
+| [Papo Reto](https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Papo Reto](https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B) | 3:12 | 2024-07-15 | 2024-07-17 |
 | [Pense Bem](https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Origens](https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG) | 3:15 | 2023-12-30 |  |
 | [Pimenta](https://open.spotify.com/track/0By9H1WMJpcKgos5rZSzRC) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:42 | 2023-12-30 |  |
 | [Poetisas No Topo](https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9) | [Mariana Mello](https://open.spotify.com/artist/3SpxzQOI6hJGCxNhMQbWEG), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Souto](https://open.spotify.com/artist/2zm6X9AMGSg8BVjUhHe3M4), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poetisas No Topo](https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4) | 11:33 | 2024-07-09 |  |

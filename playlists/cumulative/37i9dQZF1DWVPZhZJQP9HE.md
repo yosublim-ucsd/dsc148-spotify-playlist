@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-546 songs - 1 day 8 hr 24 min
+547 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Devathai](https://open.spotify.com/track/4yostA1PrvFZpt5nlpVCp3) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Devathai](https://open.spotify.com/album/1nJWfx1wivsOd16Oy73c4F) | 3:22 | 2023-03-14 | 2023-07-15 |
 | [Dhamaa Thundu](https://open.spotify.com/track/1lUh6aLGOHS70yTY4Yvu5E) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Dhamaa Thundu](https://open.spotify.com/album/7oCcYPS3NlEqh9xY3irW1G) | 1:04 | 2022-12-20 | 2023-02-07 |
 | [Dhandasoru](https://open.spotify.com/track/3mAyqaqsWRTY3CM26S1Hxn) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Dhandasoru](https://open.spotify.com/album/7nrYJxXREf24DLnoNJCbZ0) | 3:23 | 2022-05-20 | 2022-06-16 |
+| [Dhinam Dhinam](https://open.spotify.com/track/32e1r398BKzfq2RsltEq8s) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K.S.Shyam Sundar](https://open.spotify.com/artist/2VdVc6U01hzC9PNGU8JrrJ), [Thamizh Anangu](https://open.spotify.com/artist/2C3geIIiCjxVhBOryNSVtR) | [Dhinam Dhinam](https://open.spotify.com/album/2C4mqO3x20Soub56Hq8CQn) | 5:55 | 2024-07-16 |  |
 | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/track/1Fd9CucoQHCdfI9OkJaaY8) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [DIGIT "ALL" ANTHEM\-BLACKSHEEP TV](https://open.spotify.com/album/2CrINPwYd8VJxwjErnjMDI) | 4:45 | 2023-02-10 | 2023-08-09 |
 | [Dolu Dolu](https://open.spotify.com/track/7qG4GUCpzFW2ipC9cV0Ek4) | [David Shone](https://open.spotify.com/artist/3DJaqdCBdN9HZX880w2uoo), [Ranjith Govind](https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth) | [Dolu Dolu](https://open.spotify.com/album/3vTEBAk2S0U5XNfoKyD4CP) | 5:13 | 2022-12-02 | 2023-02-22 |
 | [Dooram](https://open.spotify.com/track/34p2ECAu54Jm3Bhfmk1ykH) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt), [Bhavani R](https://open.spotify.com/artist/1gYyuaOQtl0ibPYHFwjTNG) | [Dooram](https://open.spotify.com/album/42qjYngA4LGkRuzTJrGkXT) | 3:47 | 2023-03-29 | 2023-04-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Lauren Aquilina.",
-  "num_followers": 942501,
+  "num_followers": 942901,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-03 08:15:53",
       "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Psycho Killer",
-      "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
-    },
-    {
-      "added_at": "2024-07-03 08:15:53",
-      "album": {
         "name": "Getting No Sleep",
         "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 192000,
       "name": "Getting No Sleep",
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
+    },
+    {
+      "added_at": "2024-07-03 08:15:53",
+      "album": {
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Psycho Killer",
+      "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
     },
     {
       "added_at": "2024-07-03 08:15:53",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-03 08:15:53",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-07-03 08:15:53",
-      "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB"
+    },
+    {
+      "added_at": "2024-07-03 08:15:53",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-03 08:15:53",

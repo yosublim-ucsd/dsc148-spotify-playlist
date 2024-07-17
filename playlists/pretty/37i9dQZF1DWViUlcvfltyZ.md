@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia, Generic Animal in cover 🎸
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,319 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,325 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 22 | [SELLOUT](https://open.spotify.com/track/5asgUMWlD2FfHIH8Jio5Wx) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [SELLOUT](https://open.spotify.com/album/4PkBqatSXwHCtXeNBVS7b8) | 2:08 |
 | 23 | [La forma mutevole della perfezione](https://open.spotify.com/track/2A66Vkewxh46W3uCCN9XF9) | [Malmö](https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q) | [La forma mutevole della perfezione](https://open.spotify.com/album/3ia1ux1iRA3LPjfUKNMScf) | 3:02 |
 | 24 | [Mi piace quello che è vero](https://open.spotify.com/track/7rEnQc2M6jzto3d6ijNUUz) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Garage Pordenone](https://open.spotify.com/album/2YsXkYTQUjxNhR4XcU386t) | 3:25 |
-| 25 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 |
+| 25 | [Federico](https://open.spotify.com/track/7BoOBKS1Hjp8emEya78hA2) | [Oratio](https://open.spotify.com/artist/01hSOvWdEIjgEGkJGhNuHn), [RENEE](https://open.spotify.com/artist/3aDh7Ke1Zh28igid7zJhmZ) | [Cinque canzoni](https://open.spotify.com/album/49nKcArx2pJqBGJvvI6dug) | 3:43 |
 | 26 | [666](https://open.spotify.com/track/1ljwn9Y3fqgjexPwCOw0fi) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [666](https://open.spotify.com/album/57WA9HoR4PeU7rB36FKXEQ) | 2:52 |
 | 27 | [Treseicinque](https://open.spotify.com/track/6Yu9v1PlxetOhdbjkEs5V3) | [Gato Tomato](https://open.spotify.com/artist/2V61JPB2PMJ22uXbvGA0QR), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Volume uno](https://open.spotify.com/album/366UYbgb13kiYUQZLX1lR5) | 2:27 |
 | 28 | [Indeterminate](https://open.spotify.com/track/75gDT7ZD4sexX1Ef7EUOug) | [Huge Molasses Tank Explodes](https://open.spotify.com/artist/4MgUpAxPbXLB8gZOUS2hhS) | [Indeterminate](https://open.spotify.com/album/3j1bIhf843Klg5jy5uhmdv) | 5:25 |

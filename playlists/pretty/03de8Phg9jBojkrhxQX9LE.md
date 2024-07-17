@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,706 likes - 157 songs - 9 hr 3 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,708 likes - 157 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 9 | [Silence](https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Silence](https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj) | 4:00 |
 | 10 | [Follow My Heart](https://open.spotify.com/track/6e0TQQNlfhmUMEqjdVF8Sb) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Lexurus](https://open.spotify.com/artist/3iEPGgJzNDexM0WPqpcvMB), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Follow My Heart](https://open.spotify.com/album/5rSLW4TMDDlMnerGm4LewW) | 3:02 |
 | 11 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |
-| 12 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:56 |
+| 12 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:49 |
 | 13 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 |
 | 14 | [NMF](https://open.spotify.com/track/2tdkpdOhUP3RnVS2Snl7b4) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [NMF](https://open.spotify.com/album/2PN4QOzldg4guJ6B5RqbhL) | 3:31 |
 | 15 | [HOLD TIGHT](https://open.spotify.com/track/289tmBFmHQMK6smVI5V1z2) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [BBYGIRL EP](https://open.spotify.com/album/4EnIgXTSRQmLbgBd92heFR) | 2:17 |

@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "enna vittu",
+        "url": "https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6"
+      },
+      "artists": [
+        {
+          "name": "AE Prince",
+          "url": "https://open.spotify.com/artist/1PD5zYoXUX1xKPcV0TOHgS"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76696,
+      "name": "enna vittu",
+      "url": "https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC"
+    },
+    {
+      "album": {
         "name": "Fake Escobar",
         "url": "https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy"
       },

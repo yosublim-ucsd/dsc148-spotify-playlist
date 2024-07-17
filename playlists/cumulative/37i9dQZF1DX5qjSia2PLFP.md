@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:5qhDQveADDnjIZQ85AtgDM">Star Bandz</a>
 
-960 songs - 1 day 20 hr 44 min
+961 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [just like you \(feat\. Toosii\)](https://open.spotify.com/track/3cUSkvFsOhJF3XZGZnDJ8n) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [SELFishly enTITLED](https://open.spotify.com/album/4WtxBSoCmS0B1kVPdZIG3y) | 3:17 | 2023-08-25 | 2024-02-17 |
 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 | 2023-04-28 | 2023-09-30 |
 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 | 2022-08-05 | 2022-12-31 |
+| [Just Stay With Me](https://open.spotify.com/track/5sbCm4DzpDTcU3KXnB3CVU) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [SEXC SUMMER](https://open.spotify.com/album/6v4L8ebFkzj3fWv4QP9hTM) | 2:32 | 2024-07-16 |  |
 | [Just Want You \(feat\. Hunxho\)](https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [ScoreGod](https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9) | 2:54 | 2024-03-01 | 2024-06-29 |
 | [Kai Cenat / Old Days](https://open.spotify.com/track/6WJCcHnZjQChksxrAo96w5) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [MegaTron 2](https://open.spotify.com/album/7zezk3hbEWlOooKBLuLJKp) | 5:19 | 2023-11-09 | 2024-02-17 |
 | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP) | 2:46 | 2024-02-09 | 2024-02-17 |
@@ -488,7 +489,7 @@
 | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/track/2qBK9DOAR0bibcmjrt30Lu) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Let It Go \(feat\. Capella Grey\)](https://open.spotify.com/album/0rKWedeYHXhufKpEBG8Jru) | 2:31 | 2024-01-19 | 2024-02-10 |
 | [Let It Hurt](https://open.spotify.com/track/0JdgoToPo58IFxuk63OlVE) | [The Letter M](https://open.spotify.com/artist/0RhSI5MCAkQlbwWdtv2c3L), [Sho.](https://open.spotify.com/artist/66EoIMOSEzUIvTYRYVWJzh) | [Life Aint Fair](https://open.spotify.com/album/33VnLnIfkiioW6GkR7R6Vq) | 3:41 | 2023-10-25 | 2023-11-01 |
 | [Let It Rain](https://open.spotify.com/track/2SHd3iSPeYj9epQUrYVmtX) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Let It Rain](https://open.spotify.com/album/7l3lv5SWsUy7ehwvnMmsXJ) | 2:39 | 2023-08-04 | 2023-10-21 |
-| [Let my phone die](https://open.spotify.com/track/6xJzsh3Ww4axsGHhmRCVim) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [Let my phone die](https://open.spotify.com/album/19ArK7kEAQOwrkyba20LWk) | 1:15 | 2024-07-12 |  |
+| [Let my phone die](https://open.spotify.com/track/6xJzsh3Ww4axsGHhmRCVim) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [Let my phone die](https://open.spotify.com/album/19ArK7kEAQOwrkyba20LWk) | 1:15 | 2024-07-12 | 2024-07-17 |
 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 | 2022-03-04 | 2022-06-08 |
 | [Let's Get It](https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 2:46 | 2022-03-11 | 2022-06-08 |
 | [Let's Get Money](https://open.spotify.com/track/0hpCqkNmZPuICMY2h0S3aB) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Let's Get Money](https://open.spotify.com/album/5xkMGkWkc8Ng0UAzEq6WUG) | 3:07 | 2022-06-07 | 2022-09-24 |

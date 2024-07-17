@@ -1,12 +1,12 @@
 {
   "description": "Hits terpanas dari Billie Eilish, Sal Priadi serta artis terfavorit Anda dari dalam negeri dan mancanegara.",
-  "num_followers": 2327088,
+  "num_followers": 2327400,
   "original_name": "Hot Hits Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpAPkAAAAAB1UYiFCvN890uy6tYp6X62",
+  "snapshot_id": "ZpcEkgAAAABnqQNc0aQJGK2dZD2/88IG",
   "tracks": [
     {
       "added_at": "2024-07-11 17:00:00",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
+      "added_at": "2024-07-16 23:38:58",
+      "album": {
+        "name": "Kini Mereka Tahu",
+        "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 284136,
+      "name": "Kini Mereka Tahu",
+      "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
+    },
+    {
       "added_at": "2024-07-11 17:00:00",
       "album": {
         "name": "Ku Ingin Pisah",
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-07-11 17:00:00",
       "album": {
-        "name": "Kata Mereka Ini Berlebihan",
-        "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Kata Mereka Ini Berlebihan",
-      "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
-    },
-    {
-      "added_at": "2024-07-11 17:00:00",
-      "album": {
         "name": "Surat Cinta Untuk Starla",
         "url": "https://open.spotify.com/album/2psuiIqSvW4pk4bJojGWfR"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-07-11 17:00:00",
+      "album": {
+        "name": "Kata Mereka Ini Berlebihan",
+        "url": "https://open.spotify.com/album/3UDTwdzFWA2rgP19S9oUaC"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Kata Mereka Ini Berlebihan",
+      "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
     },
     {
       "added_at": "2024-07-11 17:00:00",

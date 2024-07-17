@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,250 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,260 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 67 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 68 | [Heaven Is Too Far Away](https://open.spotify.com/track/6iNjeRwNNyRiJQ0RGQiz7s) | [Shelly E\. Johnson](https://open.spotify.com/artist/51ivlzD9Vuy7pi21E3FF67) | [Heaven Is Too Far Away](https://open.spotify.com/album/5ntPNlQX5ElhcWELkkrBUj) | 6:23 |
 | 69 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
-| 70 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
-| 71 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
+| 70 | [Closure](https://open.spotify.com/track/2WBHmEgFHvzYFM24L4m9BO) | [Jemimah Paine](https://open.spotify.com/artist/4KsMnVZJDA21NtWFMXwQin) | [Closure](https://open.spotify.com/album/0vMCaROMM23vQHgjTArSOn) | 3:23 |
+| 71 | [Just Hold On](https://open.spotify.com/track/7q5LTs2lW6kwp8UC2Da7W4) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Just Hold On](https://open.spotify.com/album/48OhsxPMxadsXWxAj86IiZ) | 2:23 |
 | 72 | [doing well](https://open.spotify.com/track/0Q6YrLKv9PUVcj4qfKewxB) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [doing well](https://open.spotify.com/album/6kihcoNftMnN3IP66yuTnd) | 2:19 |
 | 73 | [With You Through It All](https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [With You Through It All](https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g) | 3:48 |
 | 74 | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi), [Shanell Alyssa](https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n) | [Just Grieve \(feat\. Shanell Alyssa\)](https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR) | 3:37 |
-| 75 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [CAROLENA](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
-| 76 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
+| 75 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
+| 76 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [CAROLENA](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
 | 77 | [Memories!](https://open.spotify.com/track/16ZMv3xUd3iXrN2fSy9WDe) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Memories!](https://open.spotify.com/album/2WHKSSpeXR4ByTAJh7yF3J) | 2:43 |
 | 78 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
 | 79 | [Just Say That](https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [Just Say That](https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V) | 2:01 |

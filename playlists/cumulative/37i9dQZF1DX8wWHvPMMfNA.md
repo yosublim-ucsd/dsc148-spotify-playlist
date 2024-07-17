@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-906 songs - 2 day 8 hr 49 min
+907 songs - 2 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Clouds Got In Our Way](https://open.spotify.com/track/56oTEnXtzyX81TQbv95xnZ) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Clouds Got In Our Way](https://open.spotify.com/album/6ypEs7KXI72ol1kWWFX6nq) | 3:19 | 2024-02-09 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 |  |
 | [Clover runs](https://open.spotify.com/track/106pfUb5fASv3yk2o4ft5g) | [Marc Frost](https://open.spotify.com/artist/2MF42y9jjPwHBA5TEBpr4k) | [Clover runs](https://open.spotify.com/album/3a2deDvRsmV4PzpR6vqOpi) | 3:11 | 2023-06-01 |  |
-| [Collected](https://open.spotify.com/track/0oWtsgAcVGmBJ6vhZR4gKC) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Collected](https://open.spotify.com/album/3U3U6cEvBsQYKMkR8QAttb) | 3:30 | 2024-02-23 |  |
+| [Collected](https://open.spotify.com/track/0oWtsgAcVGmBJ6vhZR4gKC) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Collected](https://open.spotify.com/album/3U3U6cEvBsQYKMkR8QAttb) | 3:30 | 2024-02-23 | 2024-07-17 |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-05-04 |  |
 | [Comeuppance](https://open.spotify.com/track/3iU2rkahLELzejRd4zhtK8) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Comeuppance](https://open.spotify.com/album/0i12bOmKWymeeCHCTzj7En) | 4:35 | 2023-06-01 |  |
 | [Comin' Home](https://open.spotify.com/track/37TT49ibO443nURgjFI5wd) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Comin' Home](https://open.spotify.com/album/6ncZ5omXi25febQFNuXSAs) | 3:59 | 2024-01-19 |  |
@@ -616,6 +616,7 @@
 | [Reflecting](https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X) | [Chestnut Street Trio](https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8) | [Reflecting](https://open.spotify.com/album/23IlVPwP8Iu0V92QJxOVXf) | 3:56 | 2024-04-17 |  |
 | [Reflections in Blue](https://open.spotify.com/track/2vq1b2eqBWKZpxoVHECAGs) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Reflections in Blue](https://open.spotify.com/album/4y2Qcm0gdpw1ibhfj4QZD4) | 2:32 | 2023-09-22 | 2024-05-24 |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-06-01 |  |
+| [Remembering You](https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Remembering You](https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o) | 3:10 | 2024-07-15 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-11 |  |
 | [Rendezvous in Rhythm](https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Rendezvous in Rhythm](https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E) | 3:12 | 2023-11-17 |  |
 | [Reunited](https://open.spotify.com/track/6z85P76YGzmZdcGUYYeap6) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Reunited](https://open.spotify.com/album/0SQVcxNtMbuGXr6eBLC7VL) | 3:33 | 2023-06-15 |  |

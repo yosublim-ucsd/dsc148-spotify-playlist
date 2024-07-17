@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KyoungSeo\(경서\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-708 songs - 1 day 18 hr 49 min
+709 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [20s](https://open.spotify.com/track/41jvAKlAHXpP6ywHiF30Ld) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [STUDY](https://open.spotify.com/album/5Ui0n470azPnCIBmfTMvCO) | 4:40 | 2024-03-21 | 2024-05-10 |
 | [24 years](https://open.spotify.com/track/4fr96gcFKpf9kAJtvCJROx) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [24 years](https://open.spotify.com/album/326uCTjLWz3BUV85xkuVtX) | 3:20 | 2022-07-08 | 2022-07-10 |
 | [31](https://open.spotify.com/track/5DXbuLQrN6acpjrdd4hUX2) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [31](https://open.spotify.com/album/5rdXLxhpGKj3IchwANaYCT) | 3:14 | 2022-04-22 | 2022-07-23 |
-| [404 Loading](https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 4:04 | 2024-06-05 |  |
+| [404 Loading](https://open.spotify.com/track/13gq2LImslxP5pdi6nGTjO) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [TAP \- The 2nd Mini Album](https://open.spotify.com/album/5PliHwqYkEzdXHZnA6scC0) | 4:04 | 2024-06-05 | 2024-07-17 |
 | [4DL \(four\-dimensional love\)](https://open.spotify.com/track/6uTb0yiIbiGd2G5lTMyO0f) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Youth Heritage](https://open.spotify.com/album/0lJnKh8v5DHkeRxpuCV3si) | 4:04 | 2024-05-08 | 2024-05-10 |
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2022-04-22 | 2022-07-27 |
 | [52](https://open.spotify.com/track/0BjtnuipCRCiS02Doe9Auk) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [52](https://open.spotify.com/album/6Hd1Syeatbj9KJXaKTevEN) | 3:36 | 2024-05-08 | 2024-05-10 |
@@ -420,6 +420,7 @@
 | [Option B](https://open.spotify.com/track/6VJQFfnYkXj2WGHVrhZPOl) | [Marcus Way](https://open.spotify.com/artist/2EdMOk5FEJM6VWRRmSELyp) | [B Sides of Almost Everything](https://open.spotify.com/album/17I4xcG0j2xTx0elLOk7RK) | 3:07 | 2022-05-03 | 2022-05-08 |
 | [Orange Dream](https://open.spotify.com/track/7mXP2e8BWogfNUetKRIWes) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [The Killer's Shopping List, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vbG0V7H1bPV18r1cP891u) | 4:36 | 2022-06-13 | 2022-07-29 |
 | [Orange Drive \(feat\. Jaeyeon\)](https://open.spotify.com/track/5AV46mxygxymvopKsIkAlf) | [Seoul Dabansa](https://open.spotify.com/artist/7eGLy6C0ZiRDgr9E4iWrFG), [Jaeyeon](https://open.spotify.com/artist/3G1Tc30MBFyPWNCFANyF0u) | [Orange Drive](https://open.spotify.com/album/0ivJG3KryS32p5LOSMHYY8) | 4:05 | 2022-04-22 | 2022-07-05 |
+| [Orca](https://open.spotify.com/track/623eMqeawjpsDlbB6W7GoJ) | [re:nier](https://open.spotify.com/artist/3EjzP7g4fMNarEXNpoYo4t) | [Orca](https://open.spotify.com/album/3y6pcqsKBZFeEpHr9V0O7x) | 5:40 | 2024-07-16 |  |
 | [Ordinary Days](https://open.spotify.com/track/6nZqsYlVsAAN4Q0MHVnLis) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 3:06 | 2024-06-05 |  |
 | [Our Bubble](https://open.spotify.com/track/4GT4VsB0gbHicB2x76dPBC) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Our Bubble](https://open.spotify.com/album/59UEAx6Kjrd3zgmewzjeQi) | 2:54 | 2022-05-11 | 2022-06-05 |
 | [our song](https://open.spotify.com/track/7bucDwUAM9hzKXSaAeeDP8) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 7:38 | 2022-07-01 | 2022-07-09 |

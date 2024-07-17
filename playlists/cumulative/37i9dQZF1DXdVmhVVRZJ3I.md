@@ -4,7 +4,7 @@
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-84 songs - 4 hr 0 min
+85 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,9 @@
 | [TikTak](https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [TikTak](https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u) | 2:17 | 2023-09-22 | 2023-12-14 |
 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 | 2023-07-21 |  |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2023-07-21 |  |
-| [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7) | 2:33 | 2024-05-17 |  |
+| [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/track/3tyYBPax1BWTXwgL86131f) | [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Two Sides \(feat\. Julia Temos\)](https://open.spotify.com/album/3cNQpCVYoz0wwCTXAdsZG7) | 2:33 | 2024-05-17 | 2024-07-17 |
 | [Vagatechno](https://open.spotify.com/track/1LEg5ZU8fuTZnTWVdbLSnC) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [Vagabundo Não Para](https://open.spotify.com/album/1dJlxVsVX9v4niXxhi7Mv1) | 3:20 | 2023-10-06 | 2023-11-11 |
+| [Wait](https://open.spotify.com/track/3g7QrkxytGxHue8BQE2zK2) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Wait](https://open.spotify.com/album/6o3vNyPtF8yDAhlnrwKJ6v) | 2:40 | 2024-07-15 |  |
 | [Warrior](https://open.spotify.com/track/6cDVw32EV7JgKc4bJMvE5f) | [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Warrior](https://open.spotify.com/album/2Us1IQT6CnhjHuZlRUuNYF) | 2:52 | 2023-11-10 | 2024-04-07 |
 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 | 2023-07-21 |  |
 | [What's Up](https://open.spotify.com/track/12yj178KaJo8PrddT0StaL) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [What's Up](https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd) | 2:27 | 2023-07-21 |  |

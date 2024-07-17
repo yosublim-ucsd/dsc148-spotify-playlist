@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,562 songs - 3 day 9 hr 37 min
+1,563 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2023-06-28 |
 | [Come Online](https://open.spotify.com/track/3EmVX1rAlN2N910g81I9S8) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Come Online](https://open.spotify.com/album/2d9FYJWCvtOqD2tkRtUlHP) | 2:35 | 2021-06-27 | 2021-09-21 |
 | [CONNECT](https://open.spotify.com/track/2kKcX2rC5BECH3sb11MHp7) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY) | [Reset The Levels IV](https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE) | 3:19 | 2022-11-12 | 2022-11-14 |
+| [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 | 2024-07-16 |  |
 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 | 2021-05-29 | 2021-05-30 |
 | [Cornelis Schuyt](https://open.spotify.com/track/78kHKktuOj6kgIFJ11tKk9) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Recklezz](https://open.spotify.com/album/2SQP0maBlv8QZunwPVfE3P) | 2:12 | 2022-11-19 | 2022-11-21 |
 | [Count Me Out](https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:43 | 2022-05-14 | 2022-05-16 |
@@ -410,7 +411,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-04-25 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-12-15 | 2022-02-06 |
 | [ENERGY](https://open.spotify.com/track/2i5vu6GI7mJ2B2pf9gNFhn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 1:56 | 2022-07-30 | 2022-08-01 |
-| [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-03-11 |  |
+| [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-03-11 | 2024-07-17 |
 | [Engelengezang](https://open.spotify.com/track/0DL5ZiYdN0I4xpJ1yJfvC4) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [Engelengezang](https://open.spotify.com/album/4DrqmEKNUHc0Sz8BIVspX6) | 2:42 | 2024-06-09 |  |
 | [Enjoyment](https://open.spotify.com/track/6joqibVw5dlmznb4bINJhb) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Enjoyment](https://open.spotify.com/album/3u7RahkGaDMBWG6W0JIVTn) | 3:14 | 2022-08-20 | 2022-08-22 |
 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 | 2024-03-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Russell Dickerson, Megan Moroney, Dasha and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,509 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,600 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

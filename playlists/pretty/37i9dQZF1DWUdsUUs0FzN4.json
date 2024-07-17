@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Ad\u00e1n Cruz y El Bogueto en portada ",
-  "num_followers": 19011,
+  "num_followers": 19016,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,66 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "No Puedo Controlarme",
         "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
       },
@@ -1003,66 +1063,6 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Gato \u00d1ero",
-        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "Gato \u00d1ero",
-      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1211,30 +1211,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Tiki",
-        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
+        "name": "Metele",
+        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
         },
         {
-          "name": "Gitana",
-          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Ranking Stone",
+          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Tiki",
-      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
+      "duration_ms": 195625,
+      "name": "Metele",
+      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1283,26 +1279,30 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Metele",
-        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
       "artists": [
         {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "Gitana",
+          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
         },
         {
-          "name": "Ranking Stone",
-          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
         }
       ],
-      "duration_ms": 195625,
-      "name": "Metele",
-      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
+      "duration_ms": 189613,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1355,26 +1355,6 @@
       "duration_ms": 227080,
       "name": "Mata - Remix",
       "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1487,26 +1467,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 8",
-        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "\u00d1ero Session 8",
-      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Buz\u00f3n de Voz",
         "url": "https://open.spotify.com/album/4BkaOPT7FUQj23tVW5AE3T"
       },
@@ -1523,6 +1483,46 @@
       "duration_ms": 164223,
       "name": "R\u00f3mpelo",
       "url": "https://open.spotify.com/track/2DTKvhMEE6pTJAKu3uv6Ks"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
+        "name": "Vergazo",
+        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Vergazo",
+      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
         "name": "Perreo Sayayin",
         "url": "https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 110412,
       "name": "Perreo Sayayin",
       "url": "https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
-        "name": "Vergazo",
-        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
-      },
-      "artists": [
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Vergazo",
-      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Culo Arabe",
-        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
-      },
-      "artists": [
-        {
-          "name": "DJ Tona",
-          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
-        },
-        {
-          "name": "Kareem the Press",
-          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "Culo Arabe",
-      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "Rompe La Discoteca",
         "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 216032,
       "name": "Rompe La Discoteca",
       "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Culo Arabe",
+        "url": "https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT"
+      },
+      "artists": [
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        },
+        {
+          "name": "Kareem the Press",
+          "url": "https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "Culo Arabe",
+      "url": "https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD"
     },
     {
       "added_at": "2024-06-07 06:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-07 06:00:00",
       "album": {
-        "name": "Sandunguera",
-        "url": "https://open.spotify.com/album/0NSuEIofyvVx7WByMezRi4"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/1pD16C7FAjxjRdeA5NotLJ"
-    },
-    {
-      "added_at": "2024-06-07 06:00:00",
-      "album": {
         "name": "El Bellako",
         "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 189473,
       "name": "A la pared",
       "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+    },
+    {
+      "added_at": "2024-06-07 06:00:00",
+      "album": {
+        "name": "Sandunguera",
+        "url": "https://open.spotify.com/album/0NSuEIofyvVx7WByMezRi4"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Sandunguera",
+      "url": "https://open.spotify.com/track/1pD16C7FAjxjRdeA5NotLJ"
     },
     {
       "added_at": "2024-06-07 06:00:00",

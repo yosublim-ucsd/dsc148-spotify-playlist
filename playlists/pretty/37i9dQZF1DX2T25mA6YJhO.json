@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Biznaga.",
-  "num_followers": 19220,
+  "num_followers": 19233,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Momento PULP",
+        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
+      },
+      "artists": [
+        {
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        },
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+        }
+      ],
+      "duration_ms": 132980,
+      "name": "Momento PULP",
+      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Coletero",
         "url": "https://open.spotify.com/album/06NOGI9fA5ghWBGfRSxjXD"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 186014,
       "name": "Un final ideal",
       "url": "https://open.spotify.com/track/3TXeQIDsMrjHHn7zre2EHZ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Momento PULP",
-        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
-      },
-      "artists": [
-        {
-          "name": "Mediapunta",
-          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
-        },
-        {
-          "name": "Sidonie",
-          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
-        }
-      ],
-      "duration_ms": 132980,
-      "name": "Momento PULP",
-      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Y no lo ves",
+        "url": "https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z"
+      },
+      "artists": [
+        {
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Y no lo ves",
+      "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Plan de Mierda",
         "url": "https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202348,
       "name": "Plan de Mierda",
       "url": "https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Y no lo ves",
-        "url": "https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Y no lo ves",
-      "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "No me devuelvas la palabra",
-        "url": "https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl"
-      },
-      "artists": [
-        {
-          "name": "Alavedra",
-          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "No me devuelvas la palabra",
-      "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Desde Flores y Entra\u00f1as",
         "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 206026,
       "name": "Las Victorias y Derrotas",
       "url": "https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "No me devuelvas la palabra",
+        "url": "https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl"
+      },
+      "artists": [
+        {
+          "name": "Alavedra",
+          "url": "https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "No me devuelvas la palabra",
+      "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "La Excusa Perfecta",
         "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 180705,
       "name": "La Excusa Perfecta",
       "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Si No Es Hoy Cu\u00e1ndo Es",
         "url": "https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 332942,
       "name": "Si No Es Hoy Cu\u00e1ndo Es",
       "url": "https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Madrid Nos Pertenece",
-        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 221532,
-      "name": "Madrid Nos Pertenece",
-      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Todo Ir\u00e1 Bien",
         "url": "https://open.spotify.com/album/63trf8Z60h09bjYiYOMesB"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 198851,
       "name": "Todo Ir\u00e1 Bien",
       "url": "https://open.spotify.com/track/2spHoHAGAQlOI3twB5QRVl"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Madrid Nos Pertenece",
+        "url": "https://open.spotify.com/album/0kc3AM6xjhP4sgo0dzIFK6"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 221532,
+      "name": "Madrid Nos Pertenece",
+      "url": "https://open.spotify.com/track/0wxl1J7P9LqVDsNJKjFMvv"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "patito",
-        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
-      },
-      "artists": [
-        {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 174449,
-      "name": "patito",
-      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Rosquilla de canela",
         "url": "https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 204173,
       "name": "La Carretera Nocturna",
       "url": "https://open.spotify.com/track/1PJpxElpWQucgRdV8voVRA"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "patito",
+        "url": "https://open.spotify.com/album/5RePQAtG2OT9uHmoL9fjoJ"
+      },
+      "artists": [
+        {
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
+        }
+      ],
+      "duration_ms": 174449,
+      "name": "patito",
+      "url": "https://open.spotify.com/track/4g3iyszdHctzCawEMndp2e"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Estatua de oro",
-        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
-      },
-      "artists": [
-        {
-          "name": "Bum Motion Club",
-          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
-        }
-      ],
-      "duration_ms": 155153,
-      "name": "Estatua de oro",
-      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Premonici\u00f3n",
         "url": "https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 165111,
       "name": "Premonici\u00f3n",
       "url": "https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Estatua de oro",
+        "url": "https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t"
+      },
+      "artists": [
+        {
+          "name": "Bum Motion Club",
+          "url": "https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe"
+        }
+      ],
+      "duration_ms": 155153,
+      "name": "Estatua de oro",
+      "url": "https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Pronto",
-        "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Pronto",
-      "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Ya Sale El Sol",
         "url": "https://open.spotify.com/album/1UBkMgr6rZuPvHe0eaH8hq"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 190894,
       "name": "Ya Sale El Sol",
       "url": "https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
     },
     {
       "added_at": "2024-07-11 22:00:00",

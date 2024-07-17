@@ -6,8 +6,24 @@
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAHFmbfabsqiU2xEPBjc89jTxCovrIv",
+  "snapshot_id": "AAAHGwU7qlwlGxJ83kHOh07Kfr3Iq3oY",
   "tracks": [
+    {
+      "added_at": "2024-07-16 05:49:29",
+      "album": {
+        "name": "WALK - The 6th Album",
+        "url": "https://open.spotify.com/album/1iep1fjubMic2G5ItHxwpb"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/78ZYPq0f3afyzdYdpTOG9C"
+    },
     {
       "added_at": "2024-07-11 08:55:50",
       "album": {

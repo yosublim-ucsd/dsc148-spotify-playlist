@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: The Quiett\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: pH\-1, Lee Young Ji\(이영지\)\)
 
-1,272 songs - 2 day 20 hr 58 min
+1,273 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [First date](https://open.spotify.com/track/4Nhx2WeOEfyk7wdBemVkwr) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd) | [I S2 MY WONDERFUL DAYS \(Prod\. Vangdale\)\(Feat\. Paper Brick\)](https://open.spotify.com/album/3YCrPC7iWGlFtGfnUev1uX) | 2:43 | 2022-01-04 | 2022-06-25 |
 | [First Rollie \(feat\. Seori\)](https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [First Rollie](https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A) | 3:19 | 2022-02-23 | 2022-07-02 |
 | [Fix up \(Feat\. Koonta\)](https://open.spotify.com/track/6hrPBBKARnlBXxMt74nI17) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Fix up \(Feat\. Koonta\)](https://open.spotify.com/album/33Kga5D5fPfXFPR2XqxzKX) | 2:46 | 2023-01-20 | 2023-03-01 |
+| [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [FLAT COKE \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY) | 2:47 | 2024-07-16 |  |
 | [Flick \(Feat\. BE′O, HAON\) \(Prod\. GroovyRoom\)](https://open.spotify.com/track/18FgZS3SkPGifWyVGYO9Gh) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [SHOW ME THE MONEY 11 Episode 2](https://open.spotify.com/album/2MypmCpJHMyUOKcnWsByC0) | 4:20 | 2022-12-11 | 2023-07-18 |
 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2021-12-21 | 2022-04-20 |
 | [flip](https://open.spotify.com/track/4vn9tvIFRHuiOS6OrDQwJh) | [KIM DAN](https://open.spotify.com/artist/5YXQmQgNteUrgFXoPyombD), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [VERSE BATTLE RAPCUP Round of 16 Part II](https://open.spotify.com/album/7MzrqYdS0ZpwBPFdrgSdfs) | 2:46 | 2024-05-02 |  |

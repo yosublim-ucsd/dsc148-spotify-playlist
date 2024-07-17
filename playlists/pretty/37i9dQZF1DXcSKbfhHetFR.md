@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,399 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,404 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 22 | [Le train](https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6) | 3:58 |
 | 23 | [Dans les airs](https://open.spotify.com/track/1H42q82sVhPcGE7kneM7Iq) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/269dGCDHJ6nrZJTEfT1YDp) | 5:23 |
 | 24 | [Tu ne peux pas partir](https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B) | 3:23 |
-| 25 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 25 | [Magané](https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4) | 3:47 |
 | 26 | [Savant Fou](https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le Délire Du Savant Fou](https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR) | 3:19 |
 | 27 | [Compter Les Corps](https://open.spotify.com/track/2b0m5jX5YEKUiSCzk13SiQ) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Compter Les Corps](https://open.spotify.com/album/2aoIxtuvds8j1dnXlM9Y79) | 3:50 |
 | 28 | [Le temps passe](https://open.spotify.com/track/3sAZFLZVmiZJV6PCc4cFsq) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Chacun dans son espace](https://open.spotify.com/album/3lFC3QLYm10tvmRhANLMP3) | 3:24 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 30 | [Gros Tas d'Marde](https://open.spotify.com/track/1mmaW1XlXxi7quDB7Ne0BF) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/2sO6yUUyhX0OnTLfc3yCu0) | 3:10 |
 | 31 | [Ma dope à moi](https://open.spotify.com/track/3D7cavaQelyrkvP2kknMiU) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/7iionYCbeYIliJLEzZIVrH) | 3:28 |
 | 32 | [Moisi moé'ssi](https://open.spotify.com/track/7KCuZqBiTccR0Hwp6yxDni) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/1xbTtfA0OphaVhAktXJoC6) | 3:15 |
-| 33 | [Magané](https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4) | 3:47 |
+| 33 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
 | 34 | [La chèvre](https://open.spotify.com/track/1FNNDPYgiLFjxdfIAKNiH1) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/7tete9W7uNYvZuL2TNgw5C) | 2:55 |
 | 35 | [Cité Rock Suicide](https://open.spotify.com/track/7D9ayTlfonyW0I1MBxmcSQ) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0T6pG4W280cfFmHe4A7Tff) | 3:04 |
 | 36 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 |

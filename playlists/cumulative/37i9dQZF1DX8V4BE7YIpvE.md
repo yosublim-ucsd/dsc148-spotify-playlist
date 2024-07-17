@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-82 songs - 4 hr 14 min
+86 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,20 +30,23 @@
 | [Enough time to think](https://open.spotify.com/track/2j4PAHfX5Buu75RXeTO59l) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Enough time to think](https://open.spotify.com/album/0SgHt11DeylKWRqDBHIwOZ) | 2:43 | 2024-06-06 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6ubtpZG99JxA9NQYsfgzkZ) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Eternal Sunshine](https://open.spotify.com/album/1yGJdpnJ0LpgRHHw7wbbFp) | 2:52 | 2024-06-06 |  |
 | [Faded](https://open.spotify.com/track/7hBhvWoutyueUsCOjz6FZa) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Faded](https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe) | 3:19 | 2024-06-06 | 2024-06-21 |
+| [Feel the Music](https://open.spotify.com/track/0OzHgnO748U2mdmgV57cgy) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Feel the Music](https://open.spotify.com/album/1JU3vcpO1AHV04dtw1Fh1t) | 3:26 | 2024-07-16 |  |
 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 | 2024-06-06 |  |
 | [Forgotten Summer](https://open.spotify.com/track/223hBrvnfpTCqk2IJya5aN) | [FNL BO$$](https://open.spotify.com/artist/6ZLon0iHgFixJOzwdwPTUX) | [Forgotten Summer](https://open.spotify.com/album/10yDRYLxtUGzx3mbAoLvwo) | 2:38 | 2024-06-06 | 2024-06-21 |
 | [Fork!](https://open.spotify.com/track/4sJinP3uGtTJTbL7UyA4Wk) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:53 | 2024-06-06 |  |
 | [Futura](https://open.spotify.com/track/0EloAHBAFuWZQgLgiOeqse) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Futura](https://open.spotify.com/album/5uBzDNHgBHYTkpSldTMfql) | 3:12 | 2024-06-06 |  |
 | [Galactic Odyssey](https://open.spotify.com/track/6FLYswnxa41JAlvVO0z8jM) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Galactic Odyssey](https://open.spotify.com/album/6Tg8rLt0JwF3U9f71ytaH2) | 2:39 | 2024-06-06 |  |
+| [Game Changer](https://open.spotify.com/track/6A32QbIZSDMf2XjWXZzuxg) | [The Big Let Down](https://open.spotify.com/artist/6xyuBVDedXYKfog6HWaJCR) | [Game Changer](https://open.spotify.com/album/5TDq44iN68JvxiA47gbNkH) | 3:32 | 2024-07-16 |  |
 | [Genesis](https://open.spotify.com/track/6oXGhkID0h3hAB7Q8bJbm2) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Genesis](https://open.spotify.com/album/7qRTzJRQaIrcOlbTjN2faN) | 2:36 | 2024-06-06 |  |
 | [Great Ones](https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Great Ones](https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9) | 2:46 | 2024-06-06 |  |
 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 | 2024-06-06 |  |
 | [Happy Days](https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Happy Days](https://open.spotify.com/album/16uHtWmXhndf4gMHAJQjtH) | 2:46 | 2024-06-06 |  |
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 |  |
-| [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 | 2024-06-06 |  |
+| [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
+| [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 | 2024-06-06 | 2024-07-17 |
 | [Journey](https://open.spotify.com/track/0sDCjLC2wBdSMatsDA4zje) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Journey](https://open.spotify.com/album/0pvlGEZl3xnbZRHnFRPVGF) | 2:40 | 2024-06-06 |  |
 | [Knowledge Is Power](https://open.spotify.com/track/0xQ2KcWgthQfNyegtRZZcJ) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Knowledge Is Power](https://open.spotify.com/album/2a1oVmD9eGnNFAS0Ov1qmZ) | 2:57 | 2024-06-06 |  |
-| [Last Call](https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4) | [Airglow](https://open.spotify.com/artist/0347X29GtMWksQFdN7xpg6) | [Stratford Ct\. \| Iterum](https://open.spotify.com/album/3fpiSLxyUVMc3HP0zpZktm) | 4:10 | 2024-06-06 |  |
+| [Last Call](https://open.spotify.com/track/3dhcRBhrx6ZvyPdiz6QKh4) | [Airglow](https://open.spotify.com/artist/0347X29GtMWksQFdN7xpg6) | [Stratford Ct\. \| Iterum](https://open.spotify.com/album/3fpiSLxyUVMc3HP0zpZktm) | 4:10 | 2024-06-06 | 2024-07-17 |
 | [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 | 2024-06-06 |  |
 | [Like Math and Science](https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [You Get What You Give](https://open.spotify.com/album/5Kh55x2m4Vfm5ab5q2r2Mw) | 2:19 | 2024-06-06 |  |
 | [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 | 2024-06-06 |  |
@@ -71,13 +74,14 @@
 | [Red Red Sea](https://open.spotify.com/track/1eMLvUyt10OOSs2qPLmFSk) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Red Red Sea](https://open.spotify.com/album/5IJZmgMdmoR0ZyC9y7M2Nj) | 2:52 | 2024-06-06 | 2024-06-21 |
 | [Roxanne](https://open.spotify.com/track/1Ju6i9d28t9786RVrm1GGz) | [Velvet Pillows](https://open.spotify.com/artist/65CuhifhbwR2bSo6OWTrJM) | [Roxanne](https://open.spotify.com/album/7m2Yo2SlmlBR9nTlU0vrl1) | 3:14 | 2024-06-06 |  |
 | [Runaway Hits](https://open.spotify.com/track/1txPfOfGv4KDLbT8fxMJpx) | [Silva Silvester](https://open.spotify.com/artist/0qX6jHWN2dF8OAGysAJl9Y) | [Runaway Hits](https://open.spotify.com/album/3HbfhUt88VoXeYx7CUMnwv) | 3:10 | 2024-06-06 | 2024-06-13 |
-| [Runway](https://open.spotify.com/track/2pgjNImh0JcvNHsI1NiqhK) | [KING PALM](https://open.spotify.com/artist/54GbY8x05TU5lF1wjGAGwq) | [Air Travel](https://open.spotify.com/album/1k5ceOJjWpz4y3AeJ5WZ7d) | 3:26 | 2024-06-06 |  |
+| [Runway](https://open.spotify.com/track/2pgjNImh0JcvNHsI1NiqhK) | [KING PALM](https://open.spotify.com/artist/54GbY8x05TU5lF1wjGAGwq) | [Air Travel](https://open.spotify.com/album/1k5ceOJjWpz4y3AeJ5WZ7d) | 3:26 | 2024-06-06 | 2024-07-17 |
 | [Saga](https://open.spotify.com/track/3GonFKucRqYyY1QRBVqalr) | [High Fedelity Highway](https://open.spotify.com/artist/2iqYU8YJegaHYzs18bs3nG) | [Saga](https://open.spotify.com/album/6CZVMYSLfI1r5sXXCt0b8F) | 3:30 | 2024-06-06 |  |
 | [Shake You Off](https://open.spotify.com/track/5N04YJGla33NiuSKaHfrvX) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [Phantom Pulse](https://open.spotify.com/album/3H3wQUhwcbmLlEIh6c98Zp) | 2:49 | 2024-06-06 |  |
+| [Shelter](https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [FiLo](https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1) | 3:05 | 2024-07-16 |  |
 | [Sphere](https://open.spotify.com/track/7p3KGBMxdmIttLZWGQQcQ9) | [Petrossi](https://open.spotify.com/artist/292Qxue6mDhhn2lAb1UTPY) | [Sphere](https://open.spotify.com/album/2nTJIiVfO9DIZZTRbKrBxV) | 2:40 | 2024-06-06 |  |
 | [Spoon Too!](https://open.spotify.com/track/6SAXZKjLKBARiy4hn765ku) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Fork!](https://open.spotify.com/album/2SbQuH99se8HcOYNMOwyE7) | 2:28 | 2024-06-06 |  |
 | [Stardancer](https://open.spotify.com/track/6KlbIwVaanhHP5yOU9mhDy) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k) | [The Last Descent](https://open.spotify.com/album/6HvsBZM0eo7dLeUyRg6EpR) | 3:04 | 2024-06-06 | 2024-06-21 |
-| [Stardriver](https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Stardriver](https://open.spotify.com/album/12CPcqbCjUpR5TpMQGBc6y) | 4:00 | 2024-06-06 |  |
+| [Stardriver](https://open.spotify.com/track/7ndi0iC6r18yOyctiM5sbe) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Stardriver](https://open.spotify.com/album/12CPcqbCjUpR5TpMQGBc6y) | 4:00 | 2024-06-06 | 2024-07-17 |
 | [Stars and Planets](https://open.spotify.com/track/6eK4JNI1JDiyIuOtrrp3t7) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Stars and Planets](https://open.spotify.com/album/5QoSvBUOo92siqyyfwLVe3) | 2:50 | 2024-06-06 | 2024-06-21 |
 | [SynthDreams](https://open.spotify.com/track/3FAjcy7jsFO4zD31ZUNjHg) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [SynthDreams](https://open.spotify.com/album/752vHIzraMDQBs7g6Vlm8B) | 2:50 | 2024-06-06 |  |
 | [Tarzana](https://open.spotify.com/track/5CoHu3ekt50n98yuJPlw4t) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Tarzana](https://open.spotify.com/album/4FMXeLzqnZ6t0L6OVVkLu0) | 3:00 | 2024-06-06 |  |

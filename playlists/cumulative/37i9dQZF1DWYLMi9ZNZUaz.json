@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "\"T\u1ed1i\"",
+        "url": "https://open.spotify.com/album/0s2Ov5HXGFTgR0Lc61Jvvu"
+      },
+      "artists": [
+        {
+          "name": "GoAllDay",
+          "url": "https://open.spotify.com/artist/2bGV8Wgh1Kb4LPk1jyEnbg"
+        },
+        {
+          "name": "Dkayz",
+          "url": "https://open.spotify.com/artist/3QBPcz2xseythnRtmXRN5G"
+        },
+        {
+          "name": "Brian",
+          "url": "https://open.spotify.com/artist/0nhYBGxxGTXrYIJK93X3LZ"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183118,
+      "name": "\"T\u1ed1i\"",
+      "url": "https://open.spotify.com/track/0rIrFq7cRTG1q8ga01cNmx"
+    },
+    {
+      "album": {
         "name": "10 Ng\u00e0n N\u0103m",
         "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
       },
@@ -160,7 +186,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 171830,
       "name": "Ai Cho Anh L\u01b0\u01a1ng Thi\u1ec7n",
       "url": "https://open.spotify.com/track/0EZRO9aheeMjRXUZaOshre"
@@ -342,7 +368,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 315118,
       "name": "Anh \u0110\u00e3 L\u1edbn H\u01a1n Th\u1ebf Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/2cz7Y3oZBxzzoNWEdkKbkO"
@@ -515,6 +541,32 @@
     },
     {
       "album": {
+        "name": "B\u00f4ng Hoa Ch\u1eb3ng Thu\u1ed9c V\u1ec1 Ta (Wind Remix)",
+        "url": "https://open.spotify.com/album/2SVO1nskF2K1R9c6XGqU2u"
+      },
+      "artists": [
+        {
+          "name": "Vi\u1ec7t",
+          "url": "https://open.spotify.com/artist/1XmHHw5Jr4vc5UpagQIJWV"
+        },
+        {
+          "name": "Deus Ti\u1ebfn \u0110\u1ea1t",
+          "url": "https://open.spotify.com/artist/2UMBxgeruRK9rpr2kkNze0"
+        },
+        {
+          "name": "Wind",
+          "url": "https://open.spotify.com/artist/113csPuQHzoKzjvFergMqO"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195850,
+      "name": "B\u00f4ng Hoa Ch\u1eb3ng Thu\u1ed9c V\u1ec1 Ta - Wind Remix",
+      "url": "https://open.spotify.com/track/20QqBCV8JYjNHu1shbpv2p"
+    },
+    {
+      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -588,7 +640,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 198816,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3UCDIDbwlglyzkWtIxVJ0Z"
@@ -1480,7 +1532,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 294997,
       "name": "FRIENDSHIP",
       "url": "https://open.spotify.com/track/1ZSwYD21wiQCx3VYrnQHMm"
@@ -1668,6 +1720,24 @@
       "duration_ms": 258574,
       "name": "Hoa Ki\u1ec1u",
       "url": "https://open.spotify.com/track/1p9kfCk3IbjioLhVQxCyib"
+    },
+    {
+      "album": {
+        "name": "HONGKONG12",
+        "url": "https://open.spotify.com/album/0KhXMPufn14hmgv76Q4XTP"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n Tr\u1ecdng T\u00e0i",
+          "url": "https://open.spotify.com/artist/2UCPMrvFm42t3w5duYfQHl"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253531,
+      "name": "HONGKONG12",
+      "url": "https://open.spotify.com/track/3edMkFV4BwGeqt45bPhzIw"
     },
     {
       "album": {
@@ -2586,7 +2656,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 242433,
       "name": "Nh\u1eadt K\u00fd V\u00e0o \u0110\u1eddi",
       "url": "https://open.spotify.com/track/1DkYLzjwHaesQYObT2c3X2"
@@ -3017,6 +3087,32 @@
     },
     {
       "album": {
+        "name": "Reeves (feat. Manbo & HIEUTHUHAI)",
+        "url": "https://open.spotify.com/album/1QzbAkcSotsOujM0Jp1F07"
+      },
+      "artists": [
+        {
+          "name": "KNG",
+          "url": "https://open.spotify.com/artist/4QuHX3gBQSN2L2e1A06gE8"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "MANBO",
+          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255500,
+      "name": "Reeves (feat. Manbo & HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/1FmdRNbzDEv7iII6Iaxm6g"
+    },
+    {
+      "album": {
         "name": "Room 808",
         "url": "https://open.spotify.com/album/3rbRE14MLwx8c4JyObexSs"
       },
@@ -3256,7 +3352,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 188256,
       "name": "S\u00e0i G\u00f2n \u01a1i",
       "url": "https://open.spotify.com/track/5BE96iX1TLgVHFDJPcKpkp"
@@ -4008,7 +4104,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-01",
+      "date_removed": null,
       "duration_ms": 232445,
       "name": "Xin Anh \u0110\u1eebng",
       "url": "https://open.spotify.com/track/7yTgIc73QykZ77WnKiLgLV"
@@ -4450,7 +4546,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 192195,
       "name": "\u1ede S\u00e2u Trong Tim N\u00e0y",
       "url": "https://open.spotify.com/track/3dYB4zyko7GBOgWaP19y5I"

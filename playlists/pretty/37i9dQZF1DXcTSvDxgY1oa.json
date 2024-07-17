@@ -1,6 +1,6 @@
 {
   "description": "geosy op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1677,
+  "num_followers": 1679,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "one heart",
+        "url": "https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9"
+      },
+      "artists": [
+        {
+          "name": "R\u00caVERIE",
+          "url": "https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "one heart",
+      "url": "https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Endless Sunsets",
         "url": "https://open.spotify.com/album/3WtQZdMCYqKBpzMRj7SDy0"
       },
@@ -143,18 +159,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "one heart",
-        "url": "https://open.spotify.com/album/7KOy9BR0vPciTtbiWvx1M9"
+        "name": "sunflower boy",
+        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
       "artists": [
         {
-          "name": "R\u00caVERIE",
-          "url": "https://open.spotify.com/artist/1U5XdE0McaAPAu1zA2AC1T"
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
         }
       ],
-      "duration_ms": 122000,
-      "name": "one heart",
-      "url": "https://open.spotify.com/track/6Tda6aFGbjaTUNk0MQ5mNk"
+      "duration_ms": 146605,
+      "name": "sunflower boy",
+      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -191,22 +207,6 @@
       "duration_ms": 192010,
       "name": "Verrassing",
       "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "sunflower boy",
-        "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
-      },
-      "artists": [
-        {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "sunflower boy",
-      "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
-      },
-      "artists": [
-        {
-          "name": "State Power",
-          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
-        }
-      ],
-      "duration_ms": 142386,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "golden smile",
         "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 184279,
       "name": "golden smile",
       "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+      },
+      "artists": [
+        {
+          "name": "State Power",
+          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+        }
+      ],
+      "duration_ms": 142386,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Sleeptalk",
+        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
+      },
+      "artists": [
+        {
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
+        }
+      ],
+      "duration_ms": 209109,
+      "name": "Sleeptalk",
+      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Partiyi Durdurun!",
         "url": "https://open.spotify.com/album/1HK4nensGYLHAAbUVUSX5k"
       },
@@ -487,6 +503,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "A Cure for My Feels",
+        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
+      },
+      "artists": [
+        {
+          "name": "Simpleton",
+          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
+        }
+      ],
+      "duration_ms": 197917,
+      "name": "A Cure for My Feels",
+      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Sun Flavoured Ice Cream",
         "url": "https://open.spotify.com/album/62PrBLRNfcdDzqi3U7ZVeg"
       },
@@ -499,22 +531,6 @@
       "duration_ms": 202263,
       "name": "Sun Flavoured Ice Cream",
       "url": "https://open.spotify.com/track/5Y8KBgWc4NKiDdCeIl2KUO"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Sleeptalk",
-        "url": "https://open.spotify.com/album/35KwhKnntqjExXWEOLiFZs"
-      },
-      "artists": [
-        {
-          "name": "Dreamer",
-          "url": "https://open.spotify.com/artist/2ZtELmYTWzfnlVKkT0kJUk"
-        }
-      ],
-      "duration_ms": 209109,
-      "name": "Sleeptalk",
-      "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Cure for My Feels",
-        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
-      },
-      "artists": [
-        {
-          "name": "Simpleton",
-          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
-        }
-      ],
-      "duration_ms": 197917,
-      "name": "A Cure for My Feels",
-      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "My disguise",
         "url": "https://open.spotify.com/album/1e9vJcj6Obgifb0pg9TKEL"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
-      },
-      "artists": [
-        {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
-        }
-      ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "STAP IN",
         "url": "https://open.spotify.com/album/2D5hhrJdstics1HKZWIcsr"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 104680,
       "name": "DOODSBANG",
       "url": "https://open.spotify.com/track/1z1hDIxanzBgiCyHx63CSC"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Finding Myself Alone",
-        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
-      },
-      "artists": [
-        {
-          "name": "Henk Johannes",
-          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Finding Myself Alone",
-      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Inter-Minus-Net",
         "url": "https://open.spotify.com/album/01I1uWAPQFE4UEtc6Sbozf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 173242,
       "name": "Inter-Minus-Net",
       "url": "https://open.spotify.com/track/5IPQOYGSBLF6pO2KNmcxvM"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Finding Myself Alone",
+        "url": "https://open.spotify.com/album/4udmNbEt3PZUAXUUmzd2q1"
+      },
+      "artists": [
+        {
+          "name": "Henk Johannes",
+          "url": "https://open.spotify.com/artist/3CZHiwnbmEiNa5WqjkPUwG"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Finding Myself Alone",
+      "url": "https://open.spotify.com/track/076o9FPC0h6CjzHpqQpJXy"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Flat Caps And Rain Macs",
-        "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
-      },
-      "artists": [
-        {
-          "name": "Lorem Ipsum",
-          "url": "https://open.spotify.com/artist/58ovPqbyZ6LZD3kpE2lOlT"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Flat Caps And Rain Macs",
-      "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Haya",
         "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 175264,
       "name": "Haya",
       "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Flat Caps And Rain Macs",
+        "url": "https://open.spotify.com/album/5aCa25kATuBbnqu10kG8rw"
+      },
+      "artists": [
+        {
+          "name": "Lorem Ipsum",
+          "url": "https://open.spotify.com/artist/58ovPqbyZ6LZD3kpE2lOlT"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Flat Caps And Rain Macs",
+      "url": "https://open.spotify.com/track/6gEAJOiTe9Gp55wLUulb6D"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Even later in de tuin",
-        "url": "https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9"
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
       },
       "artists": [
         {
-          "name": "Misprint",
-          "url": "https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX"
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
         }
       ],
-      "duration_ms": 160611,
-      "name": "Even later in de tuin",
-      "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+        "name": "Even later in de tuin",
+        "url": "https://open.spotify.com/album/4kacum9sNlrE50wYFZJeG9"
       },
       "artists": [
         {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+          "name": "Misprint",
+          "url": "https://open.spotify.com/artist/7KWqIJRyiEqmjguook7ypX"
         }
       ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
+      "duration_ms": 160611,
+      "name": "Even later in de tuin",
+      "url": "https://open.spotify.com/track/1EpMGlnDB4UuYIBNkdrenA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Order Of Operations",
-        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
-      },
-      "artists": [
-        {
-          "name": "Scherry",
-          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
-        }
-      ],
-      "duration_ms": 431600,
-      "name": "Order Of Operations",
-      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "VOLGEND WATER",
         "url": "https://open.spotify.com/album/5spkxtK1yVIfaJTXKF7gil"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 160902,
       "name": "Scherpe Knuffels",
       "url": "https://open.spotify.com/track/6nMiI4b5K0CvI2Rk0Eo0YP"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Order Of Operations",
+        "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
+      },
+      "artists": [
+        {
+          "name": "Scherry",
+          "url": "https://open.spotify.com/artist/4azakHkTTPfeTYjqmtL06y"
+        }
+      ],
+      "duration_ms": 431600,
+      "name": "Order Of Operations",
+      "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "I Can't Lie",
-        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
-      },
-      "artists": [
-        {
-          "name": "SAMS",
-          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "I Can't Lie",
-      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "What's The Rush",
         "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 337733,
       "name": "Jerome",
       "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "I Can't Lie",
+        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
+      },
+      "artists": [
+        {
+          "name": "SAMS",
+          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "I Can't Lie",
+      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "the grand scheme of things",
-        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
-      },
-      "artists": [
-        {
-          "name": "levi boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
-        }
-      ],
-      "duration_ms": 236117,
-      "name": "the grand scheme of things",
-      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "High On The Moon",
         "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 162798,
       "name": "Two Times In A Moment",
       "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "the grand scheme of things",
+        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
+      },
+      "artists": [
+        {
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+        }
+      ],
+      "duration_ms": 236117,
+      "name": "the grand scheme of things",
+      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "As Time Went By",
-        "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
-      },
-      "artists": [
-        {
-          "name": "From//october",
-          "url": "https://open.spotify.com/artist/2lAWD6Y3cQnPLikV5wKPfQ"
-        }
-      ],
-      "duration_ms": 204100,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Les Heures du Jour",
         "url": "https://open.spotify.com/album/4QyIqQYLvj7AXXBiZQ2Mzg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 182784,
       "name": "\u00c9clat du Jour (Brightness of Day)",
       "url": "https://open.spotify.com/track/09U0q9Nriba5j8HlcoI3vH"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "As Time Went By",
+        "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
+      },
+      "artists": [
+        {
+          "name": "From//october",
+          "url": "https://open.spotify.com/artist/2lAWD6Y3cQnPLikV5wKPfQ"
+        }
+      ],
+      "duration_ms": 204100,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
     },
     {
       "added_at": "2024-07-01 08:44:42",

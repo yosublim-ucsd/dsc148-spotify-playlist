@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Remi Wolf",
-  "num_followers": 45507,
+  "num_followers": 45517,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 161168,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 161168,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
         "name": "ur special to me",
         "url": "https://open.spotify.com/album/1sf3JXII7PIrBTPkEi2A0L"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 114418,
       "name": "ur special to me",
       "url": "https://open.spotify.com/track/28k0oooG5GnOmR6fnx4kPp"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
-        "name": "RAT TRAP 5: the beginning",
-        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "American Spirit",
-      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 179666,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
+        "name": "RAT TRAP 5: the beginning",
+        "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "American Spirit",
+      "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -1011,22 +1027,6 @@
       "duration_ms": 207734,
       "name": "trespass coat",
       "url": "https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
-        "name": "Act of Innocence",
-        "url": "https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG"
-      },
-      "artists": [
-        {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
-        }
-      ],
-      "duration_ms": 183049,
-      "name": "Act of Innocence",
-      "url": "https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
         "name": "24 hours",
         "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 220000,
       "name": "24 hours",
       "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
+        "name": "Act of Innocence",
+        "url": "https://open.spotify.com/album/0cDD4yvNsLL9eermbxEngG"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 183049,
+      "name": "Act of Innocence",
+      "url": "https://open.spotify.com/track/0CiHRdnBbxTpao3DychgTp"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
         "name": "SOPHOMORE",
         "url": "https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 166134,
       "name": "summer of love",
       "url": "https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
-        "name": "New Age Crisis",
-        "url": "https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 158239,
-      "name": "New Age Crisis",
-      "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
     },
     {
       "added_at": "2024-07-12 10:12:17",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-12 10:12:17",
       "album": {
+        "name": "New Age Crisis",
+        "url": "https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 158239,
+      "name": "New Age Crisis",
+      "url": "https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO"
+    },
+    {
+      "added_at": "2024-07-12 10:12:17",
+      "album": {
         "name": "LOVEBITES",
         "url": "https://open.spotify.com/album/4gHjIxAYsDLd6gAWcwNod7"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 212500,
       "name": "LOVEBITES",
       "url": "https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum"
-    },
-    {
-      "added_at": "2024-07-12 10:12:17",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
     }
   ],
   "unique_name": "alt/pop",

@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 182602,
       "name": "Tinnitus",
       "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"
@@ -2112,6 +2112,24 @@
       "duration_ms": 151026,
       "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
       "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
+    },
+    {
+      "album": {
+        "name": "\u00dcber dem Himmel",
+        "url": "https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2024-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146616,
+      "name": "\u00dcber dem Himmel",
+      "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5"

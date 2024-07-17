@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1193240,
+  "num_followers": 1193274,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
-        "name": "2 Veces",
-        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "2 Veces",
-      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
-    },
-    {
-      "added_at": "2024-07-15 22:44:42",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1fyqMU7H0lnxhCjAgy7OBT"
+    },
+    {
+      "added_at": "2024-07-15 22:44:42",
+      "album": {
+        "name": "2 Veces",
+        "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "2 Veces",
+      "url": "https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA"
     },
     {
       "added_at": "2024-07-15 22:44:42",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2024-07-15 22:44:42",
       "album": {
-        "name": "Homenaje A La M\u00fasica Michoacana",
-        "url": "https://open.spotify.com/album/0WGiwrPUKQ1Wxf3UQbqw9k"
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/6CT0IjzheKdquZPESJLGx8"
       },
       "artists": [
         {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
         }
       ],
-      "duration_ms": 170814,
-      "name": "Paloma En Su Nido",
-      "url": "https://open.spotify.com/track/0nPAQ8ejbhiLPkUIXi0PwL"
+      "duration_ms": 239291,
+      "name": "El Silencio de Tu Adios",
+      "url": "https://open.spotify.com/track/5c1NFm7xGou1sDkCN32fXI"
     },
     {
       "added_at": "2024-07-15 22:44:42",

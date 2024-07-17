@@ -2,9 +2,9 @@
 
 ### [Math Rock](https://open.spotify.com/playlist/37i9dQZF1DWSsObZRzO8Xw)
 
-> Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
+> Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-149 songs - 10 hr 25 min
+150 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Badman \(Ting\) \(feat\. Flowdan\)](https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Badman \(Ting\) \(feat\. Flowdan\)](https://open.spotify.com/album/6SdzI9JTSBYzZaIHxlwiwV) | 3:25 | 2024-05-17 |  |
 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 | 2021-10-15 |  |
 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 | 2021-10-15 |  |
+| [Bar Sport](https://open.spotify.com/track/0PD9azht6O41WQRG4TrjXs) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Scherzo Eterno](https://open.spotify.com/album/0DKGfiSJHH4rwwxOe389As) | 3:00 | 2024-07-17 |  |
 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 | 2021-10-15 |  |
 | [Bonus Trigger](https://open.spotify.com/track/2SDtTQfwz93RMCGsgTuvPr) | [Town Portal](https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK) | [The Occident](https://open.spotify.com/album/11jPIR10T2GX93P5rsy4Mi) | 3:07 | 2022-05-20 | 2024-04-19 |
 | [Bonus Trigger](https://open.spotify.com/track/5XaNG4xBlu7aWomscrTugX) | [Town Portal](https://open.spotify.com/artist/1yYkeH8fDEJY4bJtlUseKK) | [The Occident](https://open.spotify.com/album/5ZVY96PXe98i1LfYLFGvzP) | 3:07 | 2021-10-15 |  |
@@ -139,7 +140,7 @@
 | [Torino](https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio y la Última Vuelta al Palejonú](https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH) | 4:11 | 2021-10-15 |  |
 | [tremolo+delay](https://open.spotify.com/track/4FMJnfuIHkiRMGuf4HcipI) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [the book about my idle plot on a vague anxiety](https://open.spotify.com/album/7x84X6ve0wa2UYckfCm1uV) | 3:03 | 2022-05-20 | 2024-04-19 |
 | [tremolo+delay](https://open.spotify.com/track/5RF9Ft88WEZGnZkMMk2DvL) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [the book about my idle plot on a vague anxiety](https://open.spotify.com/album/1KA09QKRS9dbzAzArPIICS) | 3:03 | 2021-10-15 |  |
-| [two moons](https://open.spotify.com/track/2uo8RCIshYb1aVSNZlrwZZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5) | 4:10 | 2021-10-15 |  |
+| [two moons](https://open.spotify.com/track/2uo8RCIshYb1aVSNZlrwZZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5) | 4:10 | 2021-10-15 | 2024-07-17 |
 | [two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk) | 4:10 | 2022-05-20 | 2024-04-19 |
 | [Ukiyo](https://open.spotify.com/track/3Gp9E9NXg7JLVpQXV9y19D) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 5:13 | 2021-10-15 | 2022-05-21 |
 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,068 likes - 47 songs - 2 hr 40 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 292,050 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 46 | [Yours](https://open.spotify.com/track/1wSM6U0j3oM1HPBV6RnwdX) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Love Wins](https://open.spotify.com/album/5AVSqferLbhXI3oqv83uyd) | 3:22 |
 | 47 | [In Silence](https://open.spotify.com/track/0PKaTegYGhpmy92NZyDRhU) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Andrean Sherrnx](https://open.spotify.com/artist/2KB765GuCLxpNI1kd8dumj) | [PSYCHO](https://open.spotify.com/album/2SdFEavs8oALmt0RMTTOFz) | 2:58 |
 
-Snapshot ID: `AAAIAuVZtbZiksQDHcPPIT21lWdP5/Fl`
+Snapshot ID: `AAAIBH2EM83F8BPNAEpEy1X2AOmmo6ND`

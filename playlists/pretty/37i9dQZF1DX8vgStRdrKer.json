@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
-  "num_followers": 10219,
+  "num_followers": 10238,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -569,24 +569,20 @@
       "url": "https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
+      "added_at": "2024-06-14 00:01:00",
       "album": {
-        "name": "We Prevail",
-        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0"
       },
       "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
         {
           "name": "Neeja",
           "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
         }
       ],
-      "duration_ms": 224000,
-      "name": "We Prevail",
-      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
+      "duration_ms": 147621,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -605,20 +601,24 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
-      "added_at": "2024-06-14 00:01:00",
+      "added_at": "2024-03-01 00:01:00",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0"
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
       },
       "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
         {
           "name": "Neeja",
           "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
         }
       ],
-      "duration_ms": 147621,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b"
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "added_at": "2024-04-26 00:01:00",

@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-680 songs - 1 day 14 hr 0 min
+681 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [HSB](https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [HSB](https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ) | 2:34 | 2023-08-21 | 2023-08-29 |
 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-04 | 2022-08-18 |
 | [Human Too](https://open.spotify.com/track/2PUHkK7V8XSoquIV8Skj7h) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:44 | 2022-10-17 | 2023-04-18 |
+| [Hung The Moon](https://open.spotify.com/track/21MvPaoP3lEZ8JlULq50Cv) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Hung The Moon](https://open.spotify.com/album/2mZhNcre8K3m9oOke3Kzpt) | 5:28 | 2024-07-17 |  |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-06-06 | 2022-11-08 |
 | [i can't](https://open.spotify.com/track/2vlzRIh23gossTt67W24kB) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [life’s a bitch… still](https://open.spotify.com/album/6zK5Fd60SMBEaK4tWIIkJl) | 2:24 | 2023-05-22 | 2023-05-30 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-14 | 2023-03-28 |

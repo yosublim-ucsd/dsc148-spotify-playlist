@@ -4,10 +4,11 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-396 songs - 1 day 0 hr 27 min
+397 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['93 or '94](https://open.spotify.com/track/5Xt4AWLrM8FRFZhGWf2UvN) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | ['93 or '94](https://open.spotify.com/album/1FdGLYahtPLY8kU5YEvlhO) | 3:17 | 2024-07-05 |  |
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/0HVyE6s3q5D90yurTKSU2k) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:36 | 2023-05-26 | 2023-09-06 |
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-14 | 2023-06-23 |
 | [63 Days](https://open.spotify.com/track/7ohqcy0MESjxurNED68okJ) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [63 Days](https://open.spotify.com/album/5aGVzJSl9a7wixznvz995F) | 3:07 | 2019-06-16\* | 2020-07-10 |
@@ -56,7 +57,7 @@
 | [Bloodstream](https://open.spotify.com/track/6xUhre6N6NhELpQaTBo3rP) | [Stateless](https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH) | [Stateless](https://open.spotify.com/album/72MlSA2nv8w9b25ybqpm0m) | 5:13 | 2019-06-16\* | 2022-07-29 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-04-11 | 2024-04-19 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2019-06-16\* | 2022-07-29 |
-| [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 | 2022-04-08 |  |
+| [Blows](https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8) | [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Strength](https://open.spotify.com/album/2lYnlOOGFCd0hzkUoSnFNK) | 3:09 | 2022-04-08 | 2024-07-17 |
 | [blue](https://open.spotify.com/track/1xsnGbXEd4sf7ANuDUpJKH) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Nicholas Petricca](https://open.spotify.com/artist/7MfqTaqzU4P7AqqnFj3rYk) | [vital : blue](https://open.spotify.com/album/7hbW6wFwOhvqIwMgisJUIK) | 3:56 | 2019-06-16\* | 2020-07-24 |
 | [Bodies](https://open.spotify.com/track/5TG4PLHEIZPiUlK4osfFcm) | [Pale Seas](https://open.spotify.com/artist/4BwqDlOuXOJSy9CrvPJQIg) | [Stargazing for Beginners](https://open.spotify.com/album/1eVQadtgk65NtaglgNfwc7) | 3:37 | 2019-06-16\* |  |
 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 | 2019-06-16\* |  |

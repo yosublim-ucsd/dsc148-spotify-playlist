@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 73718,
+  "num_followers": 73754,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpDkuQAAAADreRTB5gYEX60I3KZjagBD",
+  "snapshot_id": "ZpZc4gAAAABD+jspltnAnBH77u57jE1Y",
   "tracks": [
     {
       "added_at": "2024-07-12 08:09:29",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "Make It Blow",
-        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Make It Blow",
-      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
         "name": "Meteor",
         "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 220800,
       "name": "Meteor",
       "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-07-12 08:09:29",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
         "name": "U Will Be Mine",
         "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 191999,
       "name": "U Will Be Mine",
       "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-07-12 08:09:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-12 08:09:29",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-07-12 08:09:29",
-      "album": {
         "name": "The Oni Retribution",
         "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 265900,
       "name": "The Oni Retribution",
       "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+    },
+    {
+      "added_at": "2024-07-12 08:09:29",
+      "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2024-07-12 08:09:29",

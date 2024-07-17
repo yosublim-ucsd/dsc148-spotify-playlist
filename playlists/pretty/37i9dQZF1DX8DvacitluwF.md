@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW?si=QI5uHRnMR5uY5LOdR8F4hg>Naye Ayla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,520 likes - 86 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,538 likes - 86 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

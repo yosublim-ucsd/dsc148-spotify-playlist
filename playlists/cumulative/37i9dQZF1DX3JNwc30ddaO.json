@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "Namast\u00e9",
+        "url": "https://open.spotify.com/album/11z8gHXqxGEyxYsEqAfe0m"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Iobst",
+          "url": "https://open.spotify.com/artist/26EGJREcYe6fvnxrxc3vj0"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329760,
+      "name": "A Sound Meditation",
+      "url": "https://open.spotify.com/track/0Fh9g3CBhUl4YBRBSzw24k"
+    },
+    {
+      "album": {
+        "name": "Aether Whisper",
+        "url": "https://open.spotify.com/album/23DGAfZKA6yQX0Y8dMx3Tn"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Aether Whisper",
+      "url": "https://open.spotify.com/track/1iMGEvfZOmurGHSaMkMGlc"
+    },
+    {
+      "album": {
         "name": "Tibetan Singing Bowls",
         "url": "https://open.spotify.com/album/0uRf0FuRW6oZtAeTVM7AOG"
       },
@@ -236,6 +272,24 @@
       "duration_ms": 180000,
       "name": "Beta State",
       "url": "https://open.spotify.com/track/2sFfbLuR3Vo3HsCP6tHzRy"
+    },
+    {
+      "album": {
+        "name": "betray",
+        "url": "https://open.spotify.com/album/31ppXAxRsrF6lbg5GbXZra"
+      },
+      "artists": [
+        {
+          "name": "Dancing and Dreaming",
+          "url": "https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "betray",
+      "url": "https://open.spotify.com/track/45V62IA9Aar5atooZBsuxr"
     },
     {
       "album": {
@@ -743,6 +797,24 @@
     },
     {
       "album": {
+        "name": "parody",
+        "url": "https://open.spotify.com/album/5Q0LzBrLFkx8B54uPqoBt3"
+      },
+      "artists": [
+        {
+          "name": "Lucia Lopez",
+          "url": "https://open.spotify.com/artist/7jH2EHFbOaIWI1XHbOLb9X"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "parody",
+      "url": "https://open.spotify.com/track/1i5CzQoDB5KvPVCyvhhQ11"
+    },
+    {
+      "album": {
         "name": "Gong Zone",
         "url": "https://open.spotify.com/album/1by9VUzQJ6RxtPpuFUR0WA"
       },
@@ -869,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Rishikesh",
+        "url": "https://open.spotify.com/album/0nzxXTeG3Lo22GP8omBXzN"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223061,
+      "name": "Rishikesh",
+      "url": "https://open.spotify.com/track/2FsHFnOQFNMD1xK4x77OAz"
+    },
+    {
+      "album": {
         "name": "7 Chakra Meditation with Tibetan Bowls",
         "url": "https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X"
       },
@@ -988,7 +1078,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 174944,
       "name": "Serene Singing Bowls",
       "url": "https://open.spotify.com/track/7kY7MRu1KpEbFMf0sJkIV5"
@@ -1078,7 +1168,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 172672,
       "name": "Sound Bath",
       "url": "https://open.spotify.com/track/4bimpZQtbHrc1AOz82FHaw"
@@ -1229,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Sun Warrior",
+        "url": "https://open.spotify.com/album/5qx5u8ZiA0cqFmc99F5RHN"
+      },
+      "artists": [
+        {
+          "name": "Sonic Xaman",
+          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Sun Warrior",
+      "url": "https://open.spotify.com/track/301LJr54BhymFXihmjON2D"
+    },
+    {
+      "album": {
         "name": "Songs on Tibetan Bowls",
         "url": "https://open.spotify.com/album/1J9FhUBAz6rerpaHPAKokz"
       },
@@ -1348,7 +1456,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 394000,
       "name": "Tibetan Bells",
       "url": "https://open.spotify.com/track/66Uz6LmJU9NsGeRl9DI8Wh"
@@ -1424,6 +1532,24 @@
       "duration_ms": 246506,
       "name": "Tibetan Bowl Mind Clarity",
       "url": "https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0"
+    },
+    {
+      "album": {
+        "name": "Tibetan Bowl Motion",
+        "url": "https://open.spotify.com/album/0tf5EcKektlyK2VuSL5vXX"
+      },
+      "artists": [
+        {
+          "name": "Spirit Garden",
+          "url": "https://open.spotify.com/artist/21ADT1cKkGhiB070brX819"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180187,
+      "name": "Tibetan Bowl Motion",
+      "url": "https://open.spotify.com/track/72dcE4YGup3OTtdXaSLTGV"
     },
     {
       "album": {
@@ -1644,6 +1770,24 @@
       "duration_ms": 204230,
       "name": "Universal Energy Healing",
       "url": "https://open.spotify.com/track/4FVqhXsgWPyo3pnl5QtyvB"
+    },
+    {
+      "album": {
+        "name": "Yoga Zone",
+        "url": "https://open.spotify.com/album/342nCM4TCgU3ChEdH2kAUk"
+      },
+      "artists": [
+        {
+          "name": "Makalu",
+          "url": "https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Yoga Zone",
+      "url": "https://open.spotify.com/track/5Jn58GjSr9gtTjuSGQ6jm8"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: srwks.\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Hitsujibungaku\)
 
 103 songs - 7 hr 36 min
 

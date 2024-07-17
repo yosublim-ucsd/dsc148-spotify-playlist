@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/5RUnXCUUCTVBjhoKA4xzDv"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185632,
+      "name": "Get You Some",
+      "url": "https://open.spotify.com/track/36c3OD4InlW7CxEQO2sgIZ"
+    },
+    {
+      "album": {
         "name": "Archetypes Collide (Deluxe)",
         "url": "https://open.spotify.com/album/3MYNDH3fqcNMZdg7P2C0j1"
       },
@@ -10600,7 +10618,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 246939,
       "name": "Random Acts of Violence",
       "url": "https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah"

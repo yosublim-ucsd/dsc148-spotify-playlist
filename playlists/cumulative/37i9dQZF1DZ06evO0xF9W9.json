@@ -584,10 +584,28 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 191703,
       "name": "Si estoy contigo",
       "url": "https://open.spotify.com/track/0NXbFGO2dDZoarxny3GE1h"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "Si Estoy Contigo - Bachata",
+      "url": "https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs"
     },
     {
       "album": {

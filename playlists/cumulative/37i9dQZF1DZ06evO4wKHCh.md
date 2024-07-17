@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4wKHCh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4wKHCh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4wKHCh)
 
-### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
+### [Acesta este Emei.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei\. The essential tracks, all in one playlist.
+> This is Emei\. Piesele esențiale într\-un singur playlist.
 
 21 songs - 50 min 10 sec
 

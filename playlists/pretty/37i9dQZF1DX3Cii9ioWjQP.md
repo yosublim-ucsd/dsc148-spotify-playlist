@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Maria Kim\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,755 likes - 114 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,770 likes - 114 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

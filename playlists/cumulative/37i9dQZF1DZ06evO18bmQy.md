@@ -2,7 +2,7 @@
 
 ### [This Is Djonga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18bmQy)
 
-> This is Djonga\. Todos os maiores hits em uma só playlist.
+> This Is Djonga\. Los temas esenciales, todos en una lista.
 
 80 songs - 5 hr 35 min
 

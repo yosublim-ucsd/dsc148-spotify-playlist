@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11633,
+  "num_followers": 11632,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
+      },
+      "artists": [
+        {
+          "name": "Keith Green",
+          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "Easter Song",
+      "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 421616,
       "name": "Long Live The King - Live At The Grove",
       "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm"
-      },
-      "artists": [
-        {
-          "name": "Keith Green",
-          "url": "https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "Easter Song",
-      "url": "https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh"
     },
     {
       "added_at": "2024-07-02 00:57:49",

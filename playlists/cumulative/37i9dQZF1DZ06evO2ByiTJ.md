@@ -2,7 +2,7 @@
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
+> This is Elaine Martins\. Track\-track unggulan, semuanya dalam satu playlist.
 
 60 songs - 4 hr 30 min
 

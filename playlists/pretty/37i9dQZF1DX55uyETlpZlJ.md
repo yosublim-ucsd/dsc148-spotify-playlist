@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,325 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,331 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 2 | [Nange Allava](https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Nange Allava](https://open.spotify.com/album/7Df20vW0rqUdevLUmLykjJ) | 3:43 |
 | 3 | [Tomar Aamar Golpo\(From "Manikbabur Megh"\)](https://open.spotify.com/track/4EtuaGPxmNuvSifmeXPL86) | [Anirban Bhattacharya](https://open.spotify.com/artist/3uJ7kyi2LZwKRUnL9QBHql), [Subhajit Mukherjee](https://open.spotify.com/artist/6c36WqxKaU3FreTxb3Ryzq), [Abhinandan Banerjee](https://open.spotify.com/artist/1gJFTJcZ74SVOCmFiIPZH5) | [Tomar Aamar Golpo\(From "Manikbabur Megh"\)](https://open.spotify.com/album/3zE9OCJDrDu7nf81946NPV) | 3:32 |
 | 4 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 |
-| 5 | [Haaru Nee Gari Bichi](https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q) | [Haaru Nee Gari Bichi](https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL) | 3:37 |
+| 5 | [Haaru Nee Gari Bichi](https://open.spotify.com/track/4dYYaHNqKXfpVcDqnDm9xV) | [Annapurna Chalageri](https://open.spotify.com/artist/6BRGRsI7IQMvUBmJpg5w5q) | [Haaru Nee Gari Bichi](https://open.spotify.com/album/18coGuzXg3JZdbp1YhtQGL) | 3:23 |
 | 6 | [Amalu](https://open.spotify.com/track/6wQcIY7csh8pNjdRIPpGsS) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Amalu](https://open.spotify.com/album/28JRQOBgS56TdjewpaFYk9) | 2:16 |
 | 7 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 |
 | 8 | [Maryade Prashne](https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Maryade Prashne](https://open.spotify.com/album/0sTfJL18ftxj2ZzAL2Rptw) | 2:39 |

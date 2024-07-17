@@ -4167,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "When We Were Two",
+        "url": "https://open.spotify.com/album/0U1wVK949khCQv3RgjqyL2"
+      },
+      "artists": [
+        {
+          "name": "Matteus Fortini",
+          "url": "https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131377,
+      "name": "When We Were Two",
+      "url": "https://open.spotify.com/track/2mP864ibWF6iscuKFnaFuh"
+    },
+    {
+      "album": {
         "name": "Whispering Pines",
         "url": "https://open.spotify.com/album/6859sgyqyzsrzEhQwoO91Q"
       },

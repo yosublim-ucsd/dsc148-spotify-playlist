@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums..\. welcome to the function\. Cover: Rema 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,281 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,302 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 7 | [BASMATI](https://open.spotify.com/track/6CnVtUmo4DNL1dD9N6QIbm) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [BASMATI](https://open.spotify.com/album/6S7g9vDlH0KlKXDDuR8Qio) | 2:37 |
 | 8 | [Miracle Worker \(feat\. Lojay\)](https://open.spotify.com/track/7pkTAS4TcKg1gThbTA8FLX) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Lost and Found](https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax) | 3:05 |
 | 9 | [Gal we Love](https://open.spotify.com/track/2ePhOHdxz3BcYxJg27QxFE) | [Nadg](https://open.spotify.com/artist/3cebGxBz4V81fXQDHv66WB), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Gal we Love](https://open.spotify.com/album/71vPoSAtLtxSjEvY7tNvqj) | 2:26 |
-| 10 | [Gyaliday](https://open.spotify.com/track/58p85QsJrdoaEkrbIzLnc7) | [Delomar](https://open.spotify.com/artist/1z3bHX8di6TlSaLbUvIsri), [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws), [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [Gyaliday](https://open.spotify.com/album/2s8EzyBjv7KqFOERfpsbwh) | 2:02 |
+| 10 | [Gyaliday](https://open.spotify.com/track/58p85QsJrdoaEkrbIzLnc7) | [Delomar](https://open.spotify.com/artist/1z3bHX8di6TlSaLbUvIsri), [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8), [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Gyaliday](https://open.spotify.com/album/2s8EzyBjv7KqFOERfpsbwh) | 2:02 |
 | 11 | [wanted \(feat\. Naomi Sharon\)](https://open.spotify.com/track/5Teihsj5GGSvEKCEcJANV7) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po) | 3:02 |
 | 12 | [Too Girly Girly](https://open.spotify.com/track/4pxmWIqKflqDNfhon9AOat) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Too Girly Girly](https://open.spotify.com/album/4NYkz5khn8h090UNsK1958) | 2:11 |
 | 13 | [Energy](https://open.spotify.com/track/6CHm9FtujcywwpaGCGCL5R) | [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Mr\. Rakka](https://open.spotify.com/artist/5UlgBsfRykGLfPiXMR9Owy), [Jus Now](https://open.spotify.com/artist/0iT2o4MNsBKSLy7bllgdo0) | [Energy](https://open.spotify.com/album/7ozEMNgVVNJFi5slKQzbbc) | 3:14 |

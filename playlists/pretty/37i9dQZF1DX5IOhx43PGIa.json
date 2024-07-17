@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: keshi.",
-  "num_followers": 286595,
+  "num_followers": 286581,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "TIED UP",
-        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "TIED UP",
-      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "WET DREAM",
         "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 150755,
       "name": "WET DREAM",
       "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "TIED UP",
+        "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "TIED UP",
+      "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "DIRT",
         "url": "https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Takes Me Back Home",
-        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 193137,
-      "name": "Takes Me Back Home",
-      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Pluto",
-        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 182282,
       "name": "Coyote, My Little Brother - Spotify Singles",
       "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Pluto",
+        "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 160707,
       "name": "Love Like That (feat. Ali Sethi)",
       "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Jokes On Me",
-        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Jokes On Me",
-      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "ENVY",
         "url": "https://open.spotify.com/album/01Z8iIlYdFrWxsG4bdSdL2"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 202753,
       "name": "ENVY",
       "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "What (I Wish) He Said",
-        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "What (I Wish) He Said",
-      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Blue Car",
         "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 179538,
       "name": "Blue Car",
       "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "giving up everything",
-        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
       },
       "artists": [
         {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
         }
       ],
-      "duration_ms": 184750,
-      "name": "giving up everything",
-      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
+      "duration_ms": 164206,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2367,18 +2367,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Free Fall",
-        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
+        "name": "giving up everything",
+        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
       },
       "artists": [
         {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
         }
       ],
-      "duration_ms": 164206,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
+      "duration_ms": 184750,
+      "name": "giving up everything",
+      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
     },
     {
       "added_at": "2024-07-12 04:00:00",

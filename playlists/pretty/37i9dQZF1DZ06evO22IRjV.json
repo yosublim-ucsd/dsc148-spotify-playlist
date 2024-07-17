@@ -1,12 +1,12 @@
 {
-  "description": "This is FLOW. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 29235,
+  "description": "This is FLOW. The essential tracks, all in one playlist.",
+  "num_followers": 29241,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAD7Rro7dOZ+UfT+xjkxlK6f",
+  "snapshot_id": "ZpRmgAAAAACDtIBDBdQ9jGW6rPVGQFHd",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DICE",
-        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "DICE",
-      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW ANIME BEST \u6975",
         "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 252120,
       "name": "PENDULUM",
       "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DICE",
+        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u97f3\u8272 / Break it down",
-        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 278946,
-      "name": "\u97f3\u8272",
-      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 209527,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u97f3\u8272 / Break it down",
+        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "\u97f3\u8272",
+      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
     },
     {
       "added_at": null,

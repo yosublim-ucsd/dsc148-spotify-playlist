@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: David Carreira, LEO2745
+> Uma playlist de pura alma pop! Foto: iolanda
 
 78 songs - 4 hr 17 min
 
@@ -48,7 +48,7 @@
 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 | 2024-06-27 |  |
 | [Foste Embora](https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Aparentemente \- vol 1](https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ) | 2:39 | 2024-06-27 |  |
 | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/album/0wQJo0SvCjABJJjgINGylA) | 3:22 | 2024-06-27 |  |
-| [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 |  |
+| [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 | 2024-07-17 |
 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 | 2024-06-27 |  |
 | [Há Sempre Uma Música](https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Há Sempre Uma Música](https://open.spotify.com/album/68etasB9n5OlhGaBIxX6s9) | 3:01 | 2024-07-12 |  |
 | [Há Sempre Uma Música](https://open.spotify.com/track/72zUGpAotxbRhlqXnB9nSD) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [SNTMNTL](https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn) | 3:01 | 2024-07-11 | 2024-07-13 |

@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 142653,
       "name": "Cigano - Instrumental",
       "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
@@ -1156,6 +1156,32 @@
       "duration_ms": 304144,
       "name": "Nao Force",
       "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
+    },
+    {
+      "album": {
+        "name": "Nem um Dia (JAH-VAN)",
+        "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Fernando Nunes",
+          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335796,
+      "name": "Nem um Dia - JAH-VAN",
+      "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
     },
     {
       "album": {

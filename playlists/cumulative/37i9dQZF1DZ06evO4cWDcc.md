@@ -2,7 +2,7 @@
 
 ### [This Is Jimi Hendrix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4cWDcc)
 
-> This is Jimi Hendrix\. The essential tracks, all in one playlist.
+> This is Jimi Hendrix\. Track\-track unggulan, semuanya dalam satu playlist.
 
 79 songs - 5 hr 33 min
 

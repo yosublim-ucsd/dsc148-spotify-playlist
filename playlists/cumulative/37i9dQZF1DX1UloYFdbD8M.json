@@ -2085,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "Mayathe",
+        "url": "https://open.spotify.com/album/79q8Ugegn7tkGxGqNeYmhv"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Mayathe",
+      "url": "https://open.spotify.com/track/6EyYDqDJnoCmAwWBpYRMKE"
+    },
+    {
+      "album": {
         "name": "Mazha",
         "url": "https://open.spotify.com/album/0duNv6aeYqZA46xqHLwH4G"
       },

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-191 songs - 8 hr 30 min
+192 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 | 2023-01-12 | 2023-03-29 |
 | [Delta](https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Delta](https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv) | 2:08 | 2023-01-12 |  |
 | [Dew Point](https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Dew Point](https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX) | 2:14 | 2023-01-12 |  |
+| [Dinner Party](https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Dinner Party](https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf) | 1:42 | 2024-07-12 |  |
 | [Dive In!](https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf) | [Lavender Box](https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9) | [Dive In!](https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5) | 2:58 | 2023-10-20 |  |
 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 | 2023-01-26 | 2023-04-21 |
 | [Drama Is Coming](https://open.spotify.com/track/00m4ed2ZgerPoaSQVL9ZzG) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Philipp Wisser](https://open.spotify.com/artist/6yq9TQlcPAawnjhi6WzqNl) | [Drama Is Coming](https://open.spotify.com/album/1mRsrNmcs59VffdaMaEZhA) | 3:32 | 2024-06-14 | 2024-07-13 |
@@ -62,7 +63,7 @@
 | [Free for All](https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Free for All](https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k) | 2:43 | 2023-01-12 |  |
 | [Freeway](https://open.spotify.com/track/4ZyRWLgtHGZAOSeH5W4mes) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Freeway](https://open.spotify.com/album/35H7Dzbib14P3ZarPwh0E0) | 2:30 | 2023-01-12 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2023-01-12 | 2023-04-14 |
-| [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 | 2024-06-14 |  |
+| [Frontside](https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Frontside](https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK) | 2:40 | 2024-06-14 | 2024-07-17 |
 | [frozen biome](https://open.spotify.com/track/1vFxL80Q1etX9noPv9rGmO) | [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [frozen biome](https://open.spotify.com/album/7rbqTTCd4uzPS2UpjMI5r3) | 2:00 | 2024-06-07 | 2024-06-15 |
 | [Full Wet's](https://open.spotify.com/track/5ZwZXIPPrM8tglWmUHq60a) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Full Wet's](https://open.spotify.com/album/59q8662jceuRnzPeEgxhbs) | 2:20 | 2023-04-13 | 2023-06-02 |
 | [Galilean Moons](https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Moons of Jupiter](https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr) | 4:02 | 2023-01-12 | 2024-06-08 |

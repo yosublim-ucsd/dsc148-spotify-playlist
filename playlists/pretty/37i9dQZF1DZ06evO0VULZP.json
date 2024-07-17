@@ -1,12 +1,12 @@
 {
-  "description": "This is Descendents. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 18581,
+  "description": "This is Descendents. The essential tracks, all in one playlist.",
+  "num_followers": 18586,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAAiWClWnA9Bjgl1sgxN8r9z",
+  "snapshot_id": "ZpRmgAAAAABox05RJS6za3yTRGE+yz5o",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 61719,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
+      "duration_ms": 65531,
+      "name": "Crepe Suzette",
+      "url": "https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 65531,
-      "name": "Crepe Suzette",
-      "url": "https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M"
+      "duration_ms": 61719,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND"
     },
     {
       "added_at": null,

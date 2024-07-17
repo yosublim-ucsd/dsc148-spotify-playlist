@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-11",
-  "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
   "name": "This Is N\u00edvea Soares",
   "tracks": [
     {
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 334738,
       "name": "Me Levantou",
       "url": "https://open.spotify.com/track/3DFCYOjz2ahzyPxkdzZX2w"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 275260,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"

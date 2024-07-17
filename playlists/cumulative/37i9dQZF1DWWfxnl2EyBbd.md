@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-571 songs - 1 day 19 hr 40 min
+572 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Everytime I Think Of You](https://open.spotify.com/track/72zSB5CoyY1zfNvQSkGQN8) | [The Alan Broadbent Trio](https://open.spotify.com/artist/3Al4iiw6OMtADaBw7NDWIG) | [Personal Standards](https://open.spotify.com/album/49VvWI9jmo3jhk0hGWT9qy) | 6:06 | 2022-02-10 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
 | [Falsa Balada](https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 3:24 | 2022-05-26 |  |
-| [Farewell Farewell](https://open.spotify.com/track/16ZGpsR577U0BD8nTdENL9) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:43 | 2022-09-29 |  |
+| [Farewell Farewell](https://open.spotify.com/track/16ZGpsR577U0BD8nTdENL9) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [A Brand New Silver Dollar](https://open.spotify.com/album/5PenfsMGMK0o9L7kNHqW8G) | 5:43 | 2022-09-29 | 2024-07-17 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-09 |  |
 | [Find The Way](https://open.spotify.com/track/2sKg6jqljgKwOetEUJPaJX) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 5:58 | 2022-02-10 | 2022-11-09 |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 |  |
@@ -400,6 +400,7 @@
 | [Red Roses](https://open.spotify.com/track/2bJ6vXeDbSvF2xngmc57UZ) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Red Roses](https://open.spotify.com/album/5Rz2VaBkjjV8gxfkBNycF8) | 2:48 | 2023-03-10 |  |
 | [Reflections](https://open.spotify.com/track/2mQToxHWRJDKQx2KCRVS1C) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw), [Göran Strandberg](https://open.spotify.com/artist/5UvgzmaFmOKd0xaN7iCrgu), [Sebastian Voegler](https://open.spotify.com/artist/3VLS93sGJffMxEEkNt85JB) | [Reflections](https://open.spotify.com/album/020CpEUx5DhqpMKyOOZTJ0) | 5:29 | 2022-04-07 |  |
 | [Remembering](https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Who Do You Love the Most?](https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR) | 4:43 | 2022-04-29 |  |
+| [Remembering You](https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Remembering You](https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o) | 3:10 | 2024-07-15 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-12 |  |
 | [Reminiscence](https://open.spotify.com/track/1oPvlSxxRR7hojrjO5T9bB) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 7:03 | 2022-02-10 |  |
 | [Resilience](https://open.spotify.com/track/5f5I2cWttKiqXPCwu1bLTr) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 3:19 | 2022-02-10 |  |

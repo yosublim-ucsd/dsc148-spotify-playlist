@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 107000,
       "name": "Ballerina",
       "url": "https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 144344,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/0AkcaCZBjywy5bNnIR310e"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Gentle Waters",
       "url": "https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 195541,
       "name": "Hush",
       "url": "https://open.spotify.com/track/2yCQoW3u8p5d11iXfQO4Ay"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Inner Dreams",
+        "url": "https://open.spotify.com/album/1DKmYJvyVu3FTZ7hzUzteD"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Inner Dreams",
+      "url": "https://open.spotify.com/track/6bqUMNrGdgAipPvyD9otkl"
+    },
+    {
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4TlMPI8T1PZ954LViXDDX2"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 179874,
       "name": "Insirium",
       "url": "https://open.spotify.com/track/310oWEiiJNzno545nutX6e"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 151572,
       "name": "Lost in the Moment",
       "url": "https://open.spotify.com/track/17FsAMOBtY4ybQf8SzSkyq"
@@ -2911,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Park Day",
+        "url": "https://open.spotify.com/album/4hbYcDY9wMmls0YeVUhgj0"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Park Day",
+      "url": "https://open.spotify.com/track/517hlxj1RKb407deh99OEJ"
+    },
+    {
+      "album": {
         "name": "Corkscrew Swamp Sanctuary Pt. 2 Soundwalk",
         "url": "https://open.spotify.com/album/0TBQA6n8foPfWoamgZgGi3"
       },
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 216420,
       "name": "Peaceful Rains",
       "url": "https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI"
@@ -3088,6 +3124,24 @@
       "duration_ms": 158000,
       "name": "pebble brook - ambient room mix",
       "url": "https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3"
+    },
+    {
+      "album": {
+        "name": "Perfect Harmony",
+        "url": "https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0"
+      },
+      "artists": [
+        {
+          "name": "Edmund's Oasis",
+          "url": "https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200118,
+      "name": "Perfect Harmony",
+      "url": "https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7"
     },
     {
       "album": {
@@ -3307,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Rain Dew",
+        "url": "https://open.spotify.com/album/0eN4xGek46r1K2sv123tvP"
+      },
+      "artists": [
+        {
+          "name": "Maira",
+          "url": "https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Rain Dew",
+      "url": "https://open.spotify.com/track/2muRqaytFxVDmrdAPsHNmi"
+    },
+    {
+      "album": {
         "name": "Rain Journey",
         "url": "https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf"
       },
@@ -3336,7 +3408,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 192000,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I"
@@ -3372,7 +3444,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 171547,
       "name": "Restituere",
       "url": "https://open.spotify.com/track/7lavIExZm0TRGe8Cco9d4h"
@@ -3397,6 +3469,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4bu1PMgzPwk8mkmheIJe2v"
+      },
+      "artists": [
+        {
+          "name": "Inner Purpose",
+          "url": "https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1FqAtrmpCR97Eg0GJHufaV"
+    },
+    {
+      "album": {
         "name": "Rhizome",
         "url": "https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt"
       },
@@ -3408,7 +3498,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 128250,
       "name": "Rhizome",
       "url": "https://open.spotify.com/track/351e6h8azojdBQ9IVoCZSj"
@@ -3506,6 +3596,24 @@
       "duration_ms": 199624,
       "name": "Sauntering Dream",
       "url": "https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF"
+    },
+    {
+      "album": {
+        "name": "Seasonal",
+        "url": "https://open.spotify.com/album/6AOfXfTdIbeiFjmVZ1PaiY"
+      },
+      "artists": [
+        {
+          "name": "Ellisar Dalana",
+          "url": "https://open.spotify.com/artist/0VJq4X2fazAijd0hB6Nmab"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163870,
+      "name": "Seasonal",
+      "url": "https://open.spotify.com/track/4H4IsE65mrXvEq0C141s11"
     },
     {
       "album": {
@@ -3610,7 +3718,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 190000,
       "name": "Silva Fabula",
       "url": "https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT"
@@ -3952,7 +4060,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 102000,
       "name": "Tears in Heaven & Relaxing Mornings",
       "url": "https://open.spotify.com/track/3xxEgKyzXdz1N7SoyFq2f8"

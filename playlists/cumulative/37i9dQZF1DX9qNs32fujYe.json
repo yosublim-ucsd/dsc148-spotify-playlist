@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
@@ -4050,6 +4050,28 @@
       "duration_ms": 184126,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/4FBNk8oVjE2ZURNW2856A8"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6gPSlQpAAdbC727yQ3fov4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        },
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216388,
+      "name": "Dopamine (feat. Simone Simons)",
+      "url": "https://open.spotify.com/track/0mrHi6us5MaQNM34bHI5F7"
     },
     {
       "album": {

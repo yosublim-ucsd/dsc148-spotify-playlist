@@ -1,13 +1,29 @@
 {
-  "description": "This is George Michael. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 569907,
+  "description": "This is George Michael. The essential tracks, all in one playlist.",
+  "num_followers": 569979,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADuiEEDX5v5M+wZZJVVG8M7",
+  "snapshot_id": "ZpRmgAAAAABgpWIFYUq/4wafOz6BMELJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Father Figure - Remastered",
-      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 324666,
       "name": "Fastlove, Pt. 1",
       "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
     },
     {
       "added_at": null,
@@ -115,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 350666,
-      "name": "One More Try - Remastered",
-      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -143,6 +143,22 @@
       "duration_ms": 411146,
       "name": "Jesus to a Child",
       "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "One More Try - Remastered",
+      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
     },
     {
       "added_at": null,
@@ -183,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -195,22 +227,6 @@
       "duration_ms": 280720,
       "name": "Kissing a Fool - Remastered",
       "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "You Have Been Loved",
-      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -235,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 230893,
-      "name": "Too Funky - Single Edit",
-      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -267,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 381626,
-      "name": "Spinning the Wheel",
-      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+      "duration_ms": 230893,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
     },
     {
       "added_at": null,
@@ -295,6 +311,70 @@
       "duration_ms": 243533,
       "name": "A Different Corner",
       "url": "https://open.spotify.com/track/6khoye7kysa6cLGY0AO9dO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 289986,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 310906,
+      "name": "Miss Sarajevo",
+      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 283426,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
     },
     {
       "added_at": null,
@@ -319,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 310906,
-      "name": "Miss Sarajevo",
-      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -347,38 +411,6 @@
       "duration_ms": 333106,
       "name": "Older",
       "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 283426,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Heal the Pain - Remastered",
-      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
     },
     {
       "added_at": null,
@@ -399,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
       "artists": [
         {
@@ -408,9 +440,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 361640,
-      "name": "The Strangest Thing",
-      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
+      "duration_ms": 280000,
+      "name": "Heal the Pain - Remastered",
+      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
     },
     {
       "added_at": null,
@@ -435,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -444,9 +476,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 434733,
-      "name": "Cowboys and Angels - Remastered",
-      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
+      "duration_ms": 361640,
+      "name": "The Strangest Thing",
+      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
     },
     {
       "added_at": null,
@@ -463,6 +495,22 @@
       "duration_ms": 411133,
       "name": "Flawless (Go to the City)",
       "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 434733,
+      "name": "Cowboys and Angels - Remastered",
+      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
     },
     {
       "added_at": null,
@@ -592,9 +640,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 285361,
-      "name": "Going To A Town - Live",
-      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -647,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -656,9 +704,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+      "duration_ms": 355733,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
     },
     {
       "added_at": null,
@@ -679,102 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 355733,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirito Italiano",
-        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        },
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        },
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        },
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Ars Canto G. Verdi",
-          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
-        },
-        {
-          "name": "Cambodian And Tibetan Children's Choir",
-          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
-        },
-        {
-          "name": "Orchestra Sinfonica Italiana",
-          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
-        },
-        {
-          "name": "Jos\u00e9 Molina",
-          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -787,22 +739,6 @@
       "duration_ms": 309821,
       "name": "Through - Live",
       "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
     },
     {
       "added_at": null,
@@ -839,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -851,22 +803,6 @@
       "duration_ms": 269891,
       "name": "Idol - Live",
       "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Something to Save - Remastered",
-      "url": "https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX"
     },
     {
       "added_at": null,
@@ -903,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
       "artists": [
         {
@@ -912,9 +848,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Hand to Mouth - Remastered",
-      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
+      "duration_ms": 268466,
+      "name": "Freeek! '04",
+      "url": "https://open.spotify.com/track/6hoj2fpD27ELoVe2aK4fom"
     }
   ],
   "unique_name": "This Is George Michael",

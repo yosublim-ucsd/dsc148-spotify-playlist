@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EIWfhQkRVjOnZ.md) - [plain]
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,34 +29,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EIWfhQkRVjOnZ.md) - [plain]
 | 19 | [It's Always Cold In Paris](https://open.spotify.com/track/3khOEnCw1YujWr6wnpGa8p) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 2:36 |
 | 20 | [Confined](https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:10 |
 | 21 | [I, Lucifer](https://open.spotify.com/track/0E9FpLirv1SfDcwcSKgzZA) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:42 |
-| 22 | [Vacant Room](https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:32 |
+| 22 | [In The Wake Of Pigs](https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:09 |
 | 23 | [Crumbs For The Murder](https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:32 |
-| 24 | [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 |
+| 24 | [A Call To The Faithful](https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 3:50 |
 | 25 | [Isabella's](https://open.spotify.com/track/779b8UjspJSKZXLWBtnQpR) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:44 |
-| 26 | [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 |
+| 26 | [Redemption](https://open.spotify.com/track/3G5RbTb3FxQDMP6wxb4zgS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 3:40 |
 | 27 | [A Bag Of Marbles](https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:00 |
-| 28 | [Forsaken](https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 5:18 |
+| 28 | [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 |
 | 29 | [Pallbearer](https://open.spotify.com/track/38o6tLdT4SbO9Gwo4RxDTd) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 4:15 |
-| 30 | [The Marriage Of Steel And Skin](https://open.spotify.com/track/3sDJ4E593mzxMIxPYe30zi) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 2:56 |
+| 30 | [Forsaken](https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 5:18 |
 | 31 | [Separate](https://open.spotify.com/track/48OcLHYfQUCCbSSvFjg7nx) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:11 |
-| 32 | [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 |
+| 32 | [Vacant Room](https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Beyond the Gates](https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP) | 3:32 |
 | 33 | [There Can Be No Hesitation](https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:35 |
-| 34 | [Say Goodbye](https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc) | [I Killed The Prom Queen](https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei) | [Music for the Recently Deceased](https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY) | 4:12 |
+| 34 | [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 |
 | 35 | [Sound Of Reason](https://open.spotify.com/track/3ZSuICKIvTVftPjPRYJWI0) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:24 |
-| 36 | [94 Hours](https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:10 |
+| 36 | [Severed Ties Yield Severed Heads](https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:02 |
 | 37 | [Mr\. And Mrs\. Cuckoldom](https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:52 |
-| 38 | [The New Breed](https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:48 |
+| 38 | [In Regards To Myself](https://open.spotify.com/track/3VC4KHC7cRhuG6nYx4f1qj) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:24 |
 | 39 | [A Pathetic Psalm](https://open.spotify.com/track/2tkXYoeNoONdzfrnpAwvHS) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:59 |
-| 40 | [I Never Wanted](https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:44 |
+| 40 | [The Marriage Of Steel And Skin](https://open.spotify.com/track/3sDJ4E593mzxMIxPYe30zi) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 2:56 |
 | 41 | [A Novel Of War](https://open.spotify.com/track/5leJWyLClV1TS8oyvPHiqQ) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 2:48 |
-| 42 | [Chewing The Stitch](https://open.spotify.com/track/4H5kTrbHiFVxltIRGSxfUC) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:07 |
+| 42 | [94 Hours](https://open.spotify.com/track/5sS3HChB8NojQIhwt9WWGR) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Frail Words Collapse](https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE) | 3:10 |
 | 43 | [Luxuria](https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:20 |
-| 44 | [A Threnody For Modern Romance](https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:30 |
+| 44 | [Rose Among The Ashes](https://open.spotify.com/track/4jZNdbXOohNNPMRbaybFQS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 2:20 |
 | 45 | [On Falling Leaf](https://open.spotify.com/track/62KMuaXbunEcJzy7hCUthZ) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:45 |
-| 46 | [A Banquet For Traitors](https://open.spotify.com/track/6Ampu27DQCqG7e2pPWwFKc) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:13 |
+| 46 | [A Threnody For Modern Romance](https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:30 |
 | 47 | [A Mountain So Big, A Question So Small](https://open.spotify.com/track/1vF7UqFlXmPS18N9cCaX2h) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 4:32 |
-| 48 | [Break of Dawn](https://open.spotify.com/track/3HRHYe46bYZ75TdlQErLKC) | [For All Eternity](https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c) | [Metanoia](https://open.spotify.com/album/17NarYciOFunGoSF3b7GXB) | 3:22 |
+| 48 | [I Never Wanted](https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [An Ocean Between Us](https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN) | 4:44 |
 | 49 | [Underwater](https://open.spotify.com/track/3LfpC5MpNuLmWc0fCOlTfC) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Void](https://open.spotify.com/album/66PLx4mZ2i4kVZSLY9Xwq7) | 5:14 |
-| 50 | [A Constant Reminder](https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy) | 3:31 |
+| 50 | [Chewing The Stitch](https://open.spotify.com/track/4H5kTrbHiFVxltIRGSxfUC) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Children Of Fire](https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k) | 3:07 |
 
-Snapshot ID: `AAAAAAAAAAAuRuDaCR4Z0cVKiQ7TFG71`
+Snapshot ID: `AAAAAAAAAABOENV2ygKQ13UheSDMpiV9`

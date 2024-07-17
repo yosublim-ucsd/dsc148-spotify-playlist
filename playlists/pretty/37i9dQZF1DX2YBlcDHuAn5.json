@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7692,
+  "num_followers": 7695,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+        "name": "Life's A Beach & 3 Acoustic Songs",
+        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
       },
       "artists": [
         {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+          "name": "Robert Weston",
+          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+      "duration_ms": 203487,
+      "name": "When You Know You Know - Acoustic",
+      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -583,22 +599,6 @@
       "duration_ms": 202906,
       "name": "Even The Bad Ends Badly",
       "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Life's A Beach & 3 Acoustic Songs",
-        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
-      },
-      "artists": [
-        {
-          "name": "Robert Weston",
-          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
-        }
-      ],
-      "duration_ms": 203487,
-      "name": "When You Know You Know - Acoustic",
-      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4QUzb6iiFjr2K0NTqCIZTV"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
       "artists": [
         {
-          "name": "Donna Blue",
-          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 259374,
       "name": "Big Grey Boxes",
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
+      },
+      "artists": [
+        {
+          "name": "Donna Blue",
+          "url": "https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "How Did We Get To Goodbye",
-        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 279138,
-      "name": "How Did We Get To Goodbye",
-      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0EySNk5QHgIAfQwaOLlKEw"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 288544,
       "name": "I Wish You Were Still Here",
       "url": "https://open.spotify.com/track/2vhyQgkYXAftqcJXd4wEz3"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "How Did We Get To Goodbye",
+        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 279138,
+      "name": "How Did We Get To Goodbye",
+      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
     },
     {
       "added_at": "2024-07-11 22:00:00",

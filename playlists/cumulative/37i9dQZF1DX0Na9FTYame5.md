@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Apache 207, AYLIVA
 
-101 songs - 4 hr 41 min
+102 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Sterne \(feat\. Bozza\)](https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Sterne \(feat\. Bozza\)](https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1) | 3:56 | 2024-06-28 |  |
 | [SUPERHERO Pt\. II](https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [SUPERHERO Pt\. II](https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69) | 2:59 | 2024-06-28 |  |
 | [tempo](https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [tempo](https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7) | 2:44 | 2024-06-28 |  |
-| [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 |  |
+| [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-07-17 |
 | [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 |  |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 |  |
@@ -109,5 +109,6 @@
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2024-06-28 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-06-28 |  |
 | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Zeiten ändern nichts \(feat\. Kool Savas\)](https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu) | 2:31 | 2024-06-28 |  |
+| [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

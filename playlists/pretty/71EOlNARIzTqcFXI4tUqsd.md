@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71EOlNARIzTqcFXI4tUqsd.md) - [plain]
 
 > A playlist for yoga, mindfulness and meditation with reflective moments.
 
-[Above & Beyond](https://open.spotify.com/user/aboveandbeyondofficial) - 27,359 likes - 25 songs - 1 hr 29 min
+[Above & Beyond](https://open.spotify.com/user/aboveandbeyondofficial) - 27,358 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

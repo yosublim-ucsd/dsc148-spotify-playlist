@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: J Balvin, Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,474 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,472 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 14 | [Buen Provecho](https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Modales](https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS) | 2:16 |
 | 15 | [Ñero Session 23](https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Ñero Session 23](https://open.spotify.com/album/6qN493Dqvx508buRITESb6) | 2:44 |
 | 16 | [ME GUSTAN TODAS](https://open.spotify.com/track/360nASHrDZlY2REawPoE20) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [ME GUSTAN TODAS](https://open.spotify.com/album/2gdenJOV6lUWmyRWMRDgJS) | 3:01 |
-| 17 | [Guaro & Dancehall](https://open.spotify.com/track/6rG6185kw4K4QX5mjO1T5s) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Guaro & Dancehall](https://open.spotify.com/album/7cbSb4VXwKGSJ24mYCvVoB) | 3:02 |
+| 17 | [Guaro & Dancehall](https://open.spotify.com/track/6rG6185kw4K4QX5mjO1T5s) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ) | [Guaro & Dancehall](https://open.spotify.com/album/7cbSb4VXwKGSJ24mYCvVoB) | 3:02 |
 | 18 | [Superpoder](https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Superpoder](https://open.spotify.com/album/1NmYcgpj4L0xWLaoUd2phI) | 2:57 |
 | 19 | [Mujeres Solteras](https://open.spotify.com/track/4cBH6zRhKisaqlnGQKs8aD) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mujeres Solteras](https://open.spotify.com/album/2PYydyybGTqdno9Mk1apmS) | 1:35 |
 | 20 | [Bonus Track](https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Bonus Track](https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc) | 3:11 |

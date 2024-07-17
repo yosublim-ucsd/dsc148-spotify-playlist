@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-210 songs - 12 hr 4 min
+213 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Million Reasons](https://open.spotify.com/track/6iqc5uXMFI87x4aoyk3RsV) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2017](https://open.spotify.com/album/2BMSgGCgF7q9OdtobRwhP1) | 3:26 | 2022-11-18 | 2022-11-26 |
 | [Mine](https://open.spotify.com/track/48JM5ZeFDq8fT90UWQoqlm) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:12 | 2022-11-18 | 2022-11-26 |
 | [Minerva](https://open.spotify.com/track/0WBYXkgh8c40tU8kpHuCg5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Deftones](https://open.spotify.com/album/4Us0cxN1m9rBykK1es9tw9) | 3:33 | 2022-11-18 | 2022-11-26 |
+| [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 | 2024-07-16 |  |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/7CrSqDlyBY0kl9nJEKpmbq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 2:42 | 2022-11-18 | 2022-11-26 |
 | [My Favorite Things](https://open.spotify.com/track/2sO7nF36wGywzAlM8mNsjM) | [Carlos Hof](https://open.spotify.com/artist/34Il5iurwAMrpEHqVpbYDX) | [My Favorite Things](https://open.spotify.com/album/0ssAbPbkdrAfNPMySXK3Xv) | 2:42 | 2022-09-09 |  |
 | [My Heart Will Go On](https://open.spotify.com/track/7g7zKzgHOmRYYyYWr66gTW) | [Nazareno Aversa](https://open.spotify.com/artist/5i0O6tyJDlb7ADVL0W7eeT) | [Piano Cover](https://open.spotify.com/album/5JImxehtOINJnpAEIVGbJi) | 3:11 | 2021-11-25 | 2024-04-19 |
@@ -207,7 +208,9 @@
 | [When She Loved Me](https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [When She Loved Me](https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j) | 2:57 | 2023-09-18 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-25 |  |
 | [Wicked Game](https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:24 | 2022-11-18 | 2022-11-26 |
+| [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5) | 5:06 | 2024-07-16 |  |
 | [Wise Up](https://open.spotify.com/track/66VOEjxqwAXhVAMQytWTOo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 3:25 | 2022-11-18 | 2022-11-26 |
+| [Woman](https://open.spotify.com/track/6N4MfpMejai00PjIazxX7J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Woman](https://open.spotify.com/album/5BQHMh8KPLIKeRuLFmZT5R) | 3:36 | 2024-07-16 |  |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-02-14 |  |
 | [Wonderful Tonight](https://open.spotify.com/track/4q8E2afrv4JJvI3Nm7zNdQ) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Wonderful Tonight](https://open.spotify.com/album/4YrzLBICSLvZOmMzAzpeXj) | 2:24 | 2023-10-10 |  |
 | [Wonderwall](https://open.spotify.com/track/37mbKfCK38Kkyg7ivgcxzV) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Wonderwall](https://open.spotify.com/album/0O46PzSt1njOguGiMHF9Pu) | 4:30 | 2023-02-28 |  |

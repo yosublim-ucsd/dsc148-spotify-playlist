@@ -1,12 +1,12 @@
 {
-  "description": "This is: Japanese Breakfast. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 18372,
+  "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
+  "num_followers": 18380,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADNxKp5MDqbbT9fvB1QfLeQ",
+  "snapshot_id": "ZpRmgAAAAADaRV4YLE3jNArP9bcq+RVH",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 179744,
-      "name": "Ballad 0 - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
+      "duration_ms": 257234,
+      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 257234,
-      "name": "Say It Ain't So - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx"
+      "duration_ms": 179744,
+      "name": "Ballad 0 - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj"
     },
     {
       "added_at": null,

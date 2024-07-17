@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Höre dir jetzt die Deutschrap Songs des Jahres an\. Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,332 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,326 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 42 | [Dark Knight](https://open.spotify.com/track/0hbq80nqwppsKczeDYlo64) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Dark Knight](https://open.spotify.com/album/3AenEbUKk1M1NbrwS8W0bo) | 4:35 |
 | 43 | [HINTERM BLOCK](https://open.spotify.com/track/3ExwIfEUmxS42y7Md7fb4I) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [HINTERM BLOCK](https://open.spotify.com/album/6lOxkg6YoOI9U3W2zFnyJv) | 2:48 |
 | 44 | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH) | 2:11 |
-| 45 | [Für dich da](https://open.spotify.com/track/4HRsmwpC0fWgBUADvLJpCy) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Insomnia](https://open.spotify.com/album/7flMvR3hmHgwMpnTsdVApW) | 3:02 |
+| 45 | [Für dich da](https://open.spotify.com/track/4HRsmwpC0fWgBUADvLJpCy) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Insomnia](https://open.spotify.com/album/7flMvR3hmHgwMpnTsdVApW) | 3:02 |
 | 46 | [Bagchaser Can](https://open.spotify.com/track/5QVOfXj8466NDNQRAqfWaA) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Bagchaser Can](https://open.spotify.com/album/4CAlffALq23RXdG1b7DnpA) | 2:09 |
 | 47 | [Smarties](https://open.spotify.com/track/2e5DbCHlhtk4deIvjrIi2H) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Smarties](https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s) | 1:59 |
 | 48 | [Enchanté](https://open.spotify.com/track/7Mn6Tisa1wVvYusahnvjE5) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Enchanté](https://open.spotify.com/album/3b9IMdrnkRmQPf7Su3XT5L) | 1:36 |

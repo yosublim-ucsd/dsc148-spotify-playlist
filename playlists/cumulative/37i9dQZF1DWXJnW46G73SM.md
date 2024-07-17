@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: احمد كامل و زاب ثروت
 
-1,040 songs - 2 day 10 hr 34 min
+1,042 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Eskendereya](https://open.spotify.com/track/1xLgw7NZmHcFDi7PRe4Wod) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Eskendereya](https://open.spotify.com/album/0gpiCuYzxOpiYMrYADdJup) | 3:37 | 2023-07-28 | 2023-08-10 |
 | [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-02 | 2023-03-11 |
 | [Estaghnena](https://open.spotify.com/track/1RlBReXFZDGcDWvVzK4fBM) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Estaghnena](https://open.spotify.com/album/0yZMxNDdp9jK38gt0qTvCc) | 3:17 | 2024-06-13 |  |
-| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-22 |  |
+| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-22 | 2024-07-17 |
 | [ETTIEEL](https://open.spotify.com/track/2V7cMt98OdLnsVzPslqD8M) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [ETTIEEL](https://open.spotify.com/album/1jYqFQeUCu7rPvhyp1jLbn) | 2:47 | 2024-04-25 | 2024-06-28 |
 | [Ew3a](https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ew3a](https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS) | 3:13 | 2023-08-04 | 2023-10-10 |
 | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/track/5OFdNtPy9sgIw7UMkKhpLn) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/album/7IxVks2oX1JIfmX23Fp2Nh) | 3:33 | 2022-12-15 | 2023-02-10 |
@@ -303,6 +303,7 @@
 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 | 2022-08-21 |
 | [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 | 2023-07-28 | 2023-07-30 |
 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-13 | 2023-08-16 |
+| [Habayeb Albi](https://open.spotify.com/track/1CXQ0YBCjBpNjjzPB7WCxn) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Habayeb Albi](https://open.spotify.com/album/7nC3FjyXyZtIglo9Zphvfv) | 2:58 | 2024-07-16 |  |
 | [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 | 2024-01-02 | 2024-02-08 |
 | [Habbeitak](https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI), [OBADA Q](https://open.spotify.com/artist/12YFoLfEdYUglaGcUeU6ty) | [Habbeitak](https://open.spotify.com/album/78Q7pQRA2J1QEIg1NGYgWw) | 2:57 | 2024-02-13 | 2024-04-15 |
 | [Habeena](https://open.spotify.com/track/4IoEukjtpg13X8pPHZidgH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Habeena](https://open.spotify.com/album/5YeLEiEYQMMvDNC46cKLGx) | 3:18 | 2023-01-12 | 2023-01-14 |
@@ -804,6 +805,7 @@
 | [بحبك و خايف](https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [بحبك و خايف](https://open.spotify.com/album/3cP7v2k1xLOXCsFBstKtF7) | 3:57 | 2023-01-26 | 2023-03-07 |
 | [بدارى](https://open.spotify.com/track/5nE3HufIFDQ9WkP941nSSh) | [Wael Amer](https://open.spotify.com/artist/5ZZI6hmqMxslXH7KR44cHW) | [بدارى](https://open.spotify.com/album/3dKDzbDDSyWnQKyYMQ7tnk) | 5:14 | 2023-07-20 | 2023-07-23 |
 | [بره المقاييس](https://open.spotify.com/track/0J6wnJRwAvxO23m3mczYU7) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [بره المقاييس](https://open.spotify.com/album/7tmwsV5DxlO0tn3nGVGBjR) | 4:40 | 2023-08-28 | 2023-12-15 |
+| [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 | 2024-07-16 |  |
 | [بعد الفراق](https://open.spotify.com/track/5EhzRYCsi33GWkiEWKfVUB) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بعد الفراق](https://open.spotify.com/album/48cCganqz8LB7yT5OYq9e7) | 3:46 | 2022-12-01 | 2023-02-03 |
 | [بعده فارق](https://open.spotify.com/track/1c58kQ7ncA2yMYlU6uSgjW) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بعده فارق](https://open.spotify.com/album/11pIRK3KwFhwP5e4muhxMi) | 4:13 | 2024-01-19 | 2024-02-02 |
 | [بقول واكدب](https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقول واكدب](https://open.spotify.com/album/2Gc1wvyvsKOrJQm91zGF92) | 4:40 | 2024-04-18 | 2024-06-27 |
@@ -878,7 +880,7 @@
 | [سوكسيه](https://open.spotify.com/track/2e9tv43tcu7X9pqxvKkkRI) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [سوكسيه](https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa) | 3:27 | 2021-12-23 | 2022-03-10 |
 | [سيبلك براوز](https://open.spotify.com/track/3SssER2qdLRrl9BGuxLCYY) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [سيبلك براوز](https://open.spotify.com/album/74diBm4DH1MH0NxhgJ2yIZ) | 2:50 | 2023-05-18 | 2023-06-23 |
 | [سيرك الحياه](https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [Serk El Haiah](https://open.spotify.com/album/4rHRrAb9uxWqHVHvHCSfO4) | 3:10 | 2021-12-23 | 2022-02-02 |
-| [سيما](https://open.spotify.com/track/6dQnVRj9QyVDfLsEjngU2B) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [سيما](https://open.spotify.com/album/0LGmiCEQRTV25dSPkP8ttT) | 2:52 | 2024-05-30 |  |
+| [سيما](https://open.spotify.com/track/6dQnVRj9QyVDfLsEjngU2B) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [سيما](https://open.spotify.com/album/0LGmiCEQRTV25dSPkP8ttT) | 2:52 | 2024-05-30 | 2024-07-17 |
 | [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 | 2023-05-04 |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
 | [شوك وسكاكين](https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [شوك وسكاكين](https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK) | 3:41 | 2024-02-02 | 2024-03-01 |

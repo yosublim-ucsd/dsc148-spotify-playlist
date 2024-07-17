@@ -55853,6 +55853,24 @@
     },
     {
       "album": {
+        "name": "Ink bottle",
+        "url": "https://open.spotify.com/album/6goq1DnyJRTKwsGjJCa4Aq"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Ink bottle",
+      "url": "https://open.spotify.com/track/18PvH11CdBh6R62YT1U1rW"
+    },
+    {
+      "album": {
         "name": "Ink of Dawn",
         "url": "https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg"
       },
@@ -92846,7 +92864,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 144493,
       "name": "Rain in Ky\u014dto",
       "url": "https://open.spotify.com/track/3GY1Eh9gWqq1e882cIh5J1"
@@ -99040,7 +99058,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -103288,7 +103306,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 143140,
       "name": "slow countryside days",
       "url": "https://open.spotify.com/track/2Fjk06lh3qCrBZZy47krbO"
@@ -119336,7 +119354,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 138227,
       "name": "To Be Honest",
       "url": "https://open.spotify.com/track/28I04TZda8fyLCICihRij9"
@@ -130744,7 +130762,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 101661,
       "name": "Winter Stories",
       "url": "https://open.spotify.com/track/6jwzGn9qLJn8dPkat001na"

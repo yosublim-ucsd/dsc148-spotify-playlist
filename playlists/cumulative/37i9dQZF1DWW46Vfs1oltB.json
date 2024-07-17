@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: The Quiett)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: pH-1, Lee Young Ji(\uc774\uc601\uc9c0))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -7938,6 +7938,28 @@
       "duration_ms": 166473,
       "name": "Fix up (Feat. Koonta)",
       "url": "https://open.spotify.com/track/6hrPBBKARnlBXxMt74nI17"
+    },
+    {
+      "album": {
+        "name": "FLAT COKE (Feat. Lee Young Ji)",
+        "url": "https://open.spotify.com/album/3nHPK4QlfOEuWZ3rGDkthY"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167453,
+      "name": "FLAT COKE (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7"
     },
     {
       "album": {

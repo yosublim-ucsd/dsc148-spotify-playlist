@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 157580,
+  "num_followers": 157614,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Al Claro de Luna",
-        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
-      },
-      "artists": [
-        {
-          "name": "Rafael V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
-        }
-      ],
-      "duration_ms": 111493,
-      "name": "Al Claro de Luna",
-      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Twist",
         "url": "https://open.spotify.com/album/16LnvfnTHvoqxczpRjRk4a"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 135013,
       "name": "Boogie Twist",
       "url": "https://open.spotify.com/track/10NGZL2P7ZJ7C3vwUlyqOG"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Al Claro de Luna",
+        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+      },
+      "artists": [
+        {
+          "name": "Rafael V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+        }
+      ],
+      "duration_ms": 111493,
+      "name": "Al Claro de Luna",
+      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Las Numero 1 De Angelica Maria",
-        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
-      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
-    },
-    {
       "added_at": "2024-07-12 13:46:41",
       "album": {
         "name": "100% Mexican Groovy: Batalla Estelar",
@@ -715,6 +699,22 @@
       "duration_ms": 167926,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Las Numero 1 De Angelica Maria",
+        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -740,22 +740,6 @@
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
-        }
-      ],
-      "duration_ms": 126827,
-      "name": "Hava Naguila",
-      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
-    },
-    {
-      "added_at": "2024-07-12 13:46:41",
-      "album": {
-        "name": "100% Mexican Groovy: Batalla Estelar",
-        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
-      },
-      "artists": [
-        {
           "name": "Gustavo Pimentel",
           "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
         }
@@ -772,13 +756,29 @@
       },
       "artists": [
         {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 138774,
-      "name": "Brebaje De Amor",
-      "url": "https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM"
+      "duration_ms": 126827,
+      "name": "Hava Naguila",
+      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
+    },
+    {
+      "added_at": "2024-07-12 13:46:41",
+      "album": {
+        "name": "100% Mexican Groovy: Batalla Estelar",
+        "url": "https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr"
+      },
+      "artists": [
+        {
+          "name": "Rabbits And Carrots",
+          "url": "https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ"
+        }
+      ],
+      "duration_ms": 307525,
+      "name": "Ciudad Hippie",
+      "url": "https://open.spotify.com/track/7LhWtkCyEXgJCb2tednlR8"
     },
     {
       "added_at": "2023-03-25 17:44:53",
@@ -804,13 +804,13 @@
       },
       "artists": [
         {
-          "name": "Rabbits And Carrots",
-          "url": "https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 307525,
-      "name": "Ciudad Hippie",
-      "url": "https://open.spotify.com/track/7LhWtkCyEXgJCb2tednlR8"
+      "duration_ms": 138774,
+      "name": "Brebaje De Amor",
+      "url": "https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM"
     }
   ],
   "unique_name": "Los 60 M\u00e9xico",

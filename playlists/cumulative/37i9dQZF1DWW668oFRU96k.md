@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x David Guetta
 
-1,204 songs - 2 day 12 hr 16 min
+1,204 songs - 2 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Fantasia](https://open.spotify.com/track/7xH6be4zoKPEDLrEZ347na) | [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH), [Smasher](https://open.spotify.com/artist/5BpW0tbGcMfEX7VNTU86SD) | [Fantasia](https://open.spotify.com/album/2FJ73AkSKfYUO9X5oMz4NQ) | 3:00 | 2023-06-22 | 2023-08-04 |
 | [Far Away](https://open.spotify.com/track/6pMoD5BTJzzgENnTMq2BTk) | [NIGHTINGALE](https://open.spotify.com/artist/1BjY8OlzCH17snJo69ZGnc), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Retro Cactus](https://open.spotify.com/artist/6aEHYwalIVWmgVOBMYwMx3) | [Far Away](https://open.spotify.com/album/2D62fDJGIAyvYRkf6ph81h) | 3:37 | 2023-02-02 | 2023-03-25 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-03-30 | 2023-05-05 |
-| [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:56 | 2024-07-11 |  |
+| [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:49 | 2024-07-11 |  |
 | [Favela](https://open.spotify.com/track/4t0YtciFth6sTtse4PZj7Y) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Wux](https://open.spotify.com/artist/2i5bFKnyyin7g3ZwknYrWR) | [Favela](https://open.spotify.com/album/4kEEdeL8QHTXbIWvwJcQI1) | 2:37 | 2024-05-23 | 2024-06-28 |
 | [Favorite Sound](https://open.spotify.com/track/3OflIzsYlyYFKgb4VvEyVj) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Favorite Sound](https://open.spotify.com/album/1wYxzbz645Vh5k0GNINcmV) | 2:54 | 2024-01-18 | 2024-02-23 |
 | [FEEL \(feat\. REWEL\)](https://open.spotify.com/track/4BC7VcrszMhGHpM5eKEJOH) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [FEEL \(feat\. REWEL\)](https://open.spotify.com/album/3zkwh6xLhWcucGqzBPmNvW) | 2:14 | 2023-11-24 | 2023-12-30 |

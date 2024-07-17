@@ -4,7 +4,7 @@
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-85 songs - 3 hr 49 min
+86 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Imdat](https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat](https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw) | 3:14 | 2023-08-31 |  |
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2023-08-31 | 2024-04-19 |
 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 | 2023-08-31 |  |
-| [KEJE](https://open.spotify.com/track/35GhkheyRNZ0DoQRHmyFgI) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [KEJE](https://open.spotify.com/album/0CNkoYymd3VIea5YC0iOD6) | 2:26 | 2024-07-08 |  |
+| [KEJE](https://open.spotify.com/track/35GhkheyRNZ0DoQRHmyFgI) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [KEJE](https://open.spotify.com/album/0CNkoYymd3VIea5YC0iOD6) | 2:26 | 2024-07-08 | 2024-07-17 |
 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 | 2023-08-31 |  |
 | [Kimse bilmiyor](https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Kimse bilmiyor](https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK) | 2:54 | 2023-08-31 |  |
 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-08-31 |  |
@@ -85,6 +85,7 @@
 | [Taştan](https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc) | 2:56 | 2023-08-31 | 2024-04-19 |
 | [Taştan](https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug) | 2:56 | 2023-08-31 |  |
 | [TERSO](https://open.spotify.com/track/66xkAW9YwodVynvAvqt0tJ) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [TERSO](https://open.spotify.com/album/3y1HriQ4BBCeUUcRFvBD2H) | 2:35 | 2024-06-21 | 2024-07-09 |
+| [TÜM KIZLAR TEHLİKEDE](https://open.spotify.com/track/782V9kOvQK419IJpb5V6aE) | [Sdrk](https://open.spotify.com/artist/6YbNNIHUsoTsgqNVTq3hOD) | [TÜM KIZLAR TEHLİKEDE](https://open.spotify.com/album/744VKg1Z39BnJmAkKXRLk0) | 2:10 | 2024-07-08 |  |
 | [Uyu](https://open.spotify.com/track/4EBZeDM92cmhr2M0WujhTg) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Uyu](https://open.spotify.com/album/1vfSduqTj3GzBqgG36w56p) | 2:16 | 2023-08-31 | 2024-06-17 |
 | [Veda Saati](https://open.spotify.com/track/5W8XrqcmPo6DtyDdPNahkn) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Veda Saati](https://open.spotify.com/album/5ChVdKYddqHDsgUtwzlxln) | 2:27 | 2023-08-31 | 2024-04-19 |
 | [Yangınlar](https://open.spotify.com/track/62Neo1KGRRXVaiISkxFUrE) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Sertan](https://open.spotify.com/artist/0LlV4LGUosenvcisOMC4Vs) | [Yangınlar](https://open.spotify.com/album/6KMkJMnKZ9Vqwy6GdKSTUN) | 2:57 | 2023-08-31 | 2024-04-19 |

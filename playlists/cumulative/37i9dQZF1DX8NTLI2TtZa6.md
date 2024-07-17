@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-516 songs - 22 hr 6 min
+518 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Concentrada](https://open.spotify.com/track/7knnkIB1nGfuDK9XeBpbhI) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Concentrada](https://open.spotify.com/album/5aWPvJXCQ67QQT9LfIYj3U) | 2:24 | 2024-04-10 |  |
 | [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 | 2022-09-20 |  |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 | 2023-10-05 |
+| [Conversation](https://open.spotify.com/track/598l5oslNMIA4FLWMnhIjq) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Conversation](https://open.spotify.com/album/0nDDkyNJSj5UzzCXPlNndR) | 2:44 | 2024-07-16 |  |
 | [Cotton Tale](https://open.spotify.com/track/3p4mrh87pFZu0w2WdNK7bZ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Cotton Tale](https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT) | 2:07 | 2022-02-15 | 2022-08-10 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-06-08 |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-28 |
@@ -496,6 +497,7 @@
 | [Van Gogh](https://open.spotify.com/track/1r7u0P8riC2vByLBR9aTcl) | [Emma Czaplica](https://open.spotify.com/artist/6h7OQW56Ckjwk8kbA1cxqF) | [Van Gogh](https://open.spotify.com/album/3pdsKk5JDvyNzZM8nFeKup) | 2:58 | 2022-06-07 | 2022-07-20 |
 | [Vanishing](https://open.spotify.com/track/0EFseo68EYQE7wptYPTuMG) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Vanishing](https://open.spotify.com/album/7wzFXVYTTkez9YZSRPQBnm) | 3:31 | 2021-12-07 | 2022-06-08 |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2021-12-07 |  |
+| [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 | 2024-07-16 |  |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2021-12-07 | 2022-05-21 |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2021-12-07 | 2022-03-17 |
 | [Vineyards](https://open.spotify.com/track/2pM4sOe1GpsWIcAwTACYGv) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [Vineyards](https://open.spotify.com/album/2TdvbArV40IFASEOaNCppk) | 3:14 | 2022-05-20 | 2023-10-05 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Calmer Self",
+        "url": "https://open.spotify.com/album/7ycshsBDVsO0wdnmn5wM5h"
+      },
+      "artists": [
+        {
+          "name": "Night Joy",
+          "url": "https://open.spotify.com/artist/0DIUElwqkq3OOjWQkHcrsv"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199883,
+      "name": "A Calmer Self",
+      "url": "https://open.spotify.com/track/5eCvkCsjOma5XPedWphCYk"
+    },
+    {
+      "album": {
         "name": "A slow wind by the ocean",
         "url": "https://open.spotify.com/album/0vkVuXoIR3HODhY6UND61K"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 487453,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/6hEN2MHD98OWVTiX3vmX9u"
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Armenian Duduk Calm",
+        "url": "https://open.spotify.com/album/2Y21qNEtJ7yZZUrrw5lU6E"
+      },
+      "artists": [
+        {
+          "name": "Kumbhaka",
+          "url": "https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139960,
+      "name": "Armenian Duduk Calm",
+      "url": "https://open.spotify.com/track/5JXs4xR0InNUFIeCxPjTRP"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
       },
@@ -258,7 +294,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 206683,
       "name": "Body Harmony",
       "url": "https://open.spotify.com/track/09UFsG6dOJpEpZNyduzJuz"
@@ -348,7 +384,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 129679,
       "name": "Celestial Melody",
       "url": "https://open.spotify.com/track/21bB3kgCgoAvqKGFtmBYze"
@@ -539,6 +575,42 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/24JPAY346KKXHQc0OqV2fl"
+      },
+      "artists": [
+        {
+          "name": "Contemplations",
+          "url": "https://open.spotify.com/artist/1uuJsACT4k3FSETvbMEx6X"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/4rWIFWN0YZBls333wOuhuv"
+    },
+    {
+      "album": {
+        "name": "Duduk Dreams",
+        "url": "https://open.spotify.com/album/4epyHlVlNDz5TuETXucJG3"
+      },
+      "artists": [
+        {
+          "name": "Vera Eikon",
+          "url": "https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155070,
+      "name": "Duduk Dreams",
+      "url": "https://open.spotify.com/track/71l4isqXmuzvbe4xOsGGxG"
+    },
+    {
+      "album": {
         "name": "Duduk Love",
         "url": "https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk"
       },
@@ -554,6 +626,24 @@
       "duration_ms": 176000,
       "name": "Duduk Love",
       "url": "https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP"
+    },
+    {
+      "album": {
+        "name": "Duduk meditation",
+        "url": "https://open.spotify.com/album/0BiB5g7JLHHAWyO8kKllDb"
+      },
+      "artists": [
+        {
+          "name": "Tom Vode",
+          "url": "https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Duduk meditation",
+      "url": "https://open.spotify.com/track/4EWJ1WB2hOq9P3un0ryO50"
     },
     {
       "album": {
@@ -737,6 +827,24 @@
     },
     {
       "album": {
+        "name": "Fire of Love",
+        "url": "https://open.spotify.com/album/69L3xvP2LVYvvjLNUeUvCs"
+      },
+      "artists": [
+        {
+          "name": "Yinon Muallem",
+          "url": "https://open.spotify.com/artist/2tkkRpvEOSTB3WbWCtXkbp"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Fire of Love",
+      "url": "https://open.spotify.com/track/2T8fkgF8bZZryochACVheE"
+    },
+    {
+      "album": {
         "name": "Floating in Stillness",
         "url": "https://open.spotify.com/album/0N8e5UlCvI3I515gJDkpGs"
       },
@@ -892,7 +1000,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 151530,
       "name": "In The Distance",
       "url": "https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp"
@@ -932,6 +1040,24 @@
       "duration_ms": 327746,
       "name": "IRAQ Raqsat albedoi: Raqsat albedoi (Iraq)",
       "url": "https://open.spotify.com/track/4Y4GBq0srsSKYB0Nuy4pr8"
+    },
+    {
+      "album": {
+        "name": "Joyous Flow",
+        "url": "https://open.spotify.com/album/1rTRvKgABDgCZUrm6FxAKQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Amar",
+          "url": "https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197555,
+      "name": "Joyous Flow",
+      "url": "https://open.spotify.com/track/6IW2PQXNR6BOkAJUWJMoyZ"
     },
     {
       "album": {
@@ -989,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Maitri Lake (432hz)",
+        "url": "https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Maitri Lake (432hz) - without ambience",
+      "url": "https://open.spotify.com/track/24cX7yJ9Mrqn6Y1LnkCfDH"
+    },
+    {
+      "album": {
         "name": "Masal",
         "url": "https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh"
       },
@@ -1022,7 +1166,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 172546,
       "name": "Masnavi Bayat Esfahan",
       "url": "https://open.spotify.com/track/294vBP3FeWDwpYwvGsy9Y4"
@@ -1040,7 +1184,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 131558,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA"
@@ -1094,7 +1238,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 206683,
       "name": "Mental Wellbeing",
       "url": "https://open.spotify.com/track/28BKLc1P33rinEfjvXV8PW"
@@ -1152,7 +1296,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 206608,
       "name": "Moments \u00e9gyptiens de spa",
       "url": "https://open.spotify.com/track/00OkNY5VMmgSbiLWuxxn0E"
@@ -1242,7 +1386,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 114520,
       "name": "Nava",
       "url": "https://open.spotify.com/track/7ezzTcZHPQLsQ4I6Kqhyxx"
@@ -1542,7 +1686,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 164000,
       "name": "Savasana Dream",
       "url": "https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv"
@@ -1596,7 +1740,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 97986,
       "name": "Shining Through",
       "url": "https://open.spotify.com/track/7qdPbfRTOd2LehxqKjo2rh"
@@ -1632,7 +1776,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 419706,
       "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
       "url": "https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8"
@@ -1654,6 +1798,24 @@
       "duration_ms": 419706,
       "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
       "url": "https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f"
+    },
+    {
+      "album": {
+        "name": "Sorrow of the Wind",
+        "url": "https://open.spotify.com/album/5t2XE6BxZyEHPLjDVgccFq"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Tarilonte",
+          "url": "https://open.spotify.com/artist/49fzCZLTuqOWwAGVcljy9p"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185527,
+      "name": "Sorrow of the Wind",
+      "url": "https://open.spotify.com/track/5pLqju9ZMDIGRqUuroG1He"
     },
     {
       "album": {
@@ -1748,7 +1910,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 326666,
       "name": "Tabla Breath",
       "url": "https://open.spotify.com/track/3cjOt90cB7acl5BAjkIwJ1"
@@ -1849,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "Fast Asleep: Powered by Myndstream",
+        "url": "https://open.spotify.com/album/7wNxnnqx9c6PJSglDjpzXU"
+      },
+      "artists": [
+        {
+          "name": "BlueMonk",
+          "url": "https://open.spotify.com/artist/2n8v80WbQmCIic5PaIBq6k"
+        },
+        {
+          "name": "Michael Whalen",
+          "url": "https://open.spotify.com/artist/1v6gZKsLnNWdnpKUnripxr"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230955,
+      "name": "The Trance",
+      "url": "https://open.spotify.com/track/7dOzER0E2bc7VBie8T65Tv"
+    },
+    {
+      "album": {
         "name": "Thoughts of Mindfulness",
         "url": "https://open.spotify.com/album/7lkPnAPCI6X1aEqHPqFVll"
       },
@@ -1864,6 +2048,24 @@
       "duration_ms": 166295,
       "name": "Thoughts of Mindfulness",
       "url": "https://open.spotify.com/track/0WeP7hnaLn8dxh555MxEYx"
+    },
+    {
+      "album": {
+        "name": "Tigran",
+        "url": "https://open.spotify.com/album/3P4NlCQWlNlzTs5dPNRuoM"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Tigran",
+      "url": "https://open.spotify.com/track/7saYTAW50Y9yMiPCswjZow"
     },
     {
       "album": {
@@ -2004,7 +2206,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 177266,
       "name": "Yeraz (R\u00eaverie)",
       "url": "https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE"
@@ -2044,7 +2246,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 361873,
       "name": "Yohanan - Live '21",
       "url": "https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b"
@@ -2138,7 +2340,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 123798,
       "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
       "url": "https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0"

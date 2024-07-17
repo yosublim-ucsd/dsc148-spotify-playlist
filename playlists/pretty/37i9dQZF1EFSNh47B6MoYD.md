@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 97 | [A Manos Llenas](https://open.spotify.com/track/1EsZQQkjmFcsGUhSDiesEv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 3:32 |
 | 98 | [Leyenda](https://open.spotify.com/track/4WD5qhphbuOYEBCAbhepUM) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Leyenda](https://open.spotify.com/album/69EwBY59m5ReVz9WXWGEol) | 3:36 |
 | 99 | [Mi Canal](https://open.spotify.com/track/1eCG7oAPgfmzB3vVCj9dNN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 3:55 |
-| 100 | [Desde Siempre \- En Vivo](https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:34 |
-| 101 | [Tudo por Amor](https://open.spotify.com/track/29kGwiWNbsT24lXvSHBnDK) | [Emanuel](https://open.spotify.com/artist/1xuWbulfiPxqP5rucKLiQN), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Hoje Há Festa](https://open.spotify.com/album/2pHTzvXpUcEOw2xlf5jSpH) | 4:48 |
+| 100 | [Tudo por Amor](https://open.spotify.com/track/29kGwiWNbsT24lXvSHBnDK) | [Emanuel](https://open.spotify.com/artist/1xuWbulfiPxqP5rucKLiQN), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Hoje Há Festa](https://open.spotify.com/album/2pHTzvXpUcEOw2xlf5jSpH) | 4:48 |
+| 101 | [Desde Siempre \- En Vivo](https://open.spotify.com/track/4W9TrGS7HAFkYTTLN6XNDv) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:34 |
 | 102 | [Siembro Mi Vida](https://open.spotify.com/track/4y6oqAgr6EsHHim3Ksyym5) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Panamá Mía](https://open.spotify.com/album/11NwW5Y133MwLsll261Lzv) | 2:29 |
 | 103 | [Con Tal de Que No Te Vays \- En Vivo](https://open.spotify.com/track/2jXmAvQ6AEXS0EDMaTkCgK) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:06 |
 | 104 | [Até Logo](https://open.spotify.com/track/5GN0ecahtja4wD7mpjvSyw) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 3:54 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 144 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `AbWywgAAAADe9xfbQs9QRDgkH2jNrdXd`
+Snapshot ID: `AbW4IgAAAAB6JC7fg2cVpE1qA7H7R0mu`

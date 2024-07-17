@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ajuliacosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,869 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,872 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 7 | [FOUR FOUR TWO](https://open.spotify.com/track/61Q7N9fncbZ7jyx0VZ0bXj) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [FOUR FOUR TWO](https://open.spotify.com/album/0oKAIlwFQXQbONkbSMOoGt) | 6:51 |
 | 8 | [Rainha da Finesse](https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Rainha da Finesse](https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM) | 2:46 |
 | 9 | [BB ATLETA](https://open.spotify.com/track/10A5iL0LUxbWr02ID6kYtu) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY) | [BB ATLETA](https://open.spotify.com/album/6w7nsP45gbt3ihNGGLV5Ua) | 3:22 |
-| 10 | [Medo de Quem?](https://open.spotify.com/track/5EKCczncKlpSmDoP074cVF) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:54 |
+| 10 | [Medo de Quem?](https://open.spotify.com/track/5EKCczncKlpSmDoP074cVF) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 2:54 |
 | 11 | [Patrício's](https://open.spotify.com/track/6HVzQ2xHsE7nfRrD8zTawj) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Rubro](https://open.spotify.com/artist/12Q1vJ1wMjyzZMmW4QOcgw) | [Patrício's](https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB) | 4:33 |
 | 12 | [Sacrifícios](https://open.spotify.com/track/2iOqhcypCqgQnpEXQ57EFM) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:51 |
 | 13 | [Seu Job](https://open.spotify.com/track/2YENQseYfuRAaZoUrQ9wGa) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q), [Coelho](https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa) | [Para Todas do Job](https://open.spotify.com/album/7mIgIX5BUaCP24wnK28OG7) | 4:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 582292,
+  "num_followers": 582337,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Was du nicht siehst (feat. ela.)",
-        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
-        }
-      ],
-      "duration_ms": 151704,
-      "name": "Was du nicht siehst (feat. ela.)",
-      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Was du nicht siehst (feat. ela.)",
+        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "Was du nicht siehst (feat. ela.)",
+      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Elbe",
+        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Elbe",
+      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Elbe",
-        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
-      },
-      "artists": [
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Elbe",
-      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Mittelfinger",
-        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129272,
-      "name": "Mittelfinger",
-      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Kopf aus",
         "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 136120,
       "name": "Kopf aus",
       "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Mittelfinger",
+        "url": "https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129272,
+      "name": "Mittelfinger",
+      "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Hund (feat. Takt32)",
-        "url": "https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
-        },
-        {
-          "name": "Takt32",
-          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
-        }
-      ],
-      "duration_ms": 182975,
-      "name": "Hund (feat. Takt32)",
-      "url": "https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "BOI",
         "url": "https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 228736,
       "name": "Monoton",
       "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Hund (feat. Takt32)",
+        "url": "https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5"
+        },
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        }
+      ],
+      "duration_ms": 182975,
+      "name": "Hund (feat. Takt32)",
+      "url": "https://open.spotify.com/track/0YLSTJa2YeDmNNaO7PvpFQ"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "nur liebe, immer.",
-        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "luft holen",
-      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Glas",
         "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
       },
@@ -1767,6 +1751,46 @@
       "duration_ms": 219887,
       "name": "Mondlicht",
       "url": "https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "nur liebe, immer.",
+        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 146346,
+      "name": "luft holen",
+      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "MISS YOU",
+        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+        }
+      ],
+      "duration_ms": 129587,
+      "name": "MISS YOU",
+      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1807,30 +1831,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "MISS YOU",
-        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
-      },
-      "artists": [
-        {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        },
-        {
-          "name": "The Cratez",
-          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
-        }
-      ],
-      "duration_ms": 129587,
-      "name": "MISS YOU",
-      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Ein Auge blau",
         "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
       },
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "\u00dcber dem Himmel",
+        "url": "https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 146616,
+      "name": "\u00dcber dem Himmel",
+      "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 216421,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 182602,
-      "name": "Tinnitus",
-      "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"
     }
   ],
   "unique_name": "Rap in deep",

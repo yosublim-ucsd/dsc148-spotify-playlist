@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Lena Park(\ubc15\uc815\ud604)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Huh Gak(\ud5c8\uac01)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -4080,7 +4080,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 187142,
       "name": "If You",
       "url": "https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY"
@@ -4272,6 +4272,24 @@
       "duration_ms": 256252,
       "name": "It's love",
       "url": "https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe"
+    },
+    {
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN"
     },
     {
       "album": {
@@ -7584,7 +7602,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 223706,
       "name": "Summer Sweet (Kor Ver.)",
       "url": "https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw"
@@ -8904,7 +8922,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 233750,
       "name": "Where are you",
       "url": "https://open.spotify.com/track/0FClXEsgXBcoB0CSWY0TWP"

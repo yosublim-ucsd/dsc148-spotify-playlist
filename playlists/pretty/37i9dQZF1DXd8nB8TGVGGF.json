@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 43806,
+  "num_followers": 43877,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Frosty - Single Version",
-      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
         "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 159866,
       "name": "I'm a Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Frosty - Single Version",
+      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Beck, Bogert, Appice",
+        "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
+      },
+      "artists": [
+        {
+          "name": "Beck, Bogert, Appice",
+          "url": "https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Black Cat Moan",
+      "url": "https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 215026,
       "name": "All Your Love - Mono",
       "url": "https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Beck, Bogert, Appice",
-        "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
-      },
-      "artists": [
-        {
-          "name": "Beck, Bogert, Appice",
-          "url": "https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Black Cat Moan",
-      "url": "https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "On The Waterfront",
         "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 311240,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/3klYyhZSVWWnCEsPyD0dSs"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "BD Music & Toppi Present the Blues",
         "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 131946,
       "name": "Confessin' the Blues",
       "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Lightnin' Strikes One More Time",
+      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Truckin' With Albert Collins",
         "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Lightnin' Strikes One More Time",
-      "url": "https://open.spotify.com/track/0jJ4yI4iNcmUDmb9EtWDZg"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 208842,
+      "name": "The Purple Puppy",
+      "url": "https://open.spotify.com/track/6ULPuvWEQYXPPzdfGzq90k"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Retrospective 1957-62",
         "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 208842,
-      "name": "The Purple Puppy",
-      "url": "https://open.spotify.com/track/6ULPuvWEQYXPPzdfGzq90k"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Abc of the Blues, Vol. 36",
-        "url": "https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 178755,
-      "name": "Feeli' Good",
-      "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "When Girls Do It",
         "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 172560,
       "name": "When Girls Do It",
       "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Abc of the Blues, Vol. 36",
+        "url": "https://open.spotify.com/album/7lleAD3GRgVvjXHNTsRNCg"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 178755,
+      "name": "Feeli' Good",
+      "url": "https://open.spotify.com/track/5JKfPYbO58hhkKFumwlKY3"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 300640,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/5KYlh46iJUzViGrydbHpuY"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2024-05-29 07:10:09",

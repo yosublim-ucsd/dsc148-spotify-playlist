@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 39267,
+  "num_followers": 39298,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
         "name": "Son Malas (Feat. Jay Park)",
         "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 148640,
       "name": "Son Malas",
       "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
     },
     {
       "added_at": "2024-07-02 08:45:37",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-07-02 08:45:37",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198910,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/46sgzGh1EoiaGqZDBikbDe"
+    },
+    {
+      "added_at": "2024-07-02 08:45:37",
+      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
       },
@@ -2315,26 +2331,6 @@
       "duration_ms": 235067,
       "name": "I Like 2 Party (Remastered)",
       "url": "https://open.spotify.com/track/7LSPwkstWZsVYd48Le4Lgs"
-    },
-    {
-      "added_at": "2024-07-02 08:45:37",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 261504,
-      "name": "My (feat. \ub9b4\ubcf4\uc774 Lil Boi)",
-      "url": "https://open.spotify.com/track/1hO2Tr8jzmnENx7iMc3uyv"
     }
   ],
   "unique_name": "This Is Jay Park",

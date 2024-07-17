@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Lena Park\(박정현\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Huh Gak\(허각\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-548 songs - 1 day 11 hr 49 min
+549 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [I'm glad I waited](https://open.spotify.com/track/3pBE270KLKUjGo5aVF1ecd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [I'm glad I waited](https://open.spotify.com/album/51DBWkJfpGcqLC5CxvYCKZ) | 3:55 | 2023-07-17 | 2023-08-11 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2024-02-20 | 2024-04-24 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2021-12-20 | 2024-05-29 |
-| [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 | 2022-04-19 |
+| [If You](https://open.spotify.com/track/38O4krdJIyvMIjFRP7u9OY) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [If You](https://open.spotify.com/album/2crxI7Z1EmYHQqgsX3qjl2) | 3:07 | 2022-04-01 |  |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-20 | 2024-05-22 |
 | [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 | 2024-06-20 |
@@ -233,6 +233,7 @@
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-10-04 | 2024-05-05 |
 | [It's all just lies](https://open.spotify.com/track/4T2XFY63jsrqFx2Hc7YXEn) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 13](https://open.spotify.com/album/4MVXmcZU1FDhR9OGarTEQK) | 3:42 | 2022-07-25 | 2022-08-04 |
 | [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-24 | 2022-06-11 |
+| [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2024-07-16 |  |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2021-12-20 |  |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-27 |  |
@@ -410,7 +411,7 @@
 | [Still](https://open.spotify.com/track/0BhkiHwAXhZlNwqZAOonMp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [ALAL \#3](https://open.spotify.com/album/7fh1VfRnuVyNYI1QpMmIc2) | 4:08 | 2022-03-29 | 2022-04-17 |
 | [Still Yours](https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Still Yours](https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf) | 4:00 | 2024-05-09 | 2024-05-21 |
 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2023-08-31 |  |
-| [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 |  |
+| [Summer Sweet \(Kor Ver.\)](https://open.spotify.com/track/2dK8rN7jeXGlmn1mGVVvyw) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [STAY WITH ME](https://open.spotify.com/album/3viBb010uLvcWvlWmInkjJ) | 3:43 | 2024-07-11 | 2024-07-17 |
 | [Sun And Moon](https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon Part.1](https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq) | 5:01 | 2021-12-20 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-29 | 2024-06-06 |
@@ -482,7 +483,7 @@
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-11 | 2023-02-15 |
 | [Whenever, Wherever](https://open.spotify.com/track/68lCkasCqmEhKCPHvYPNei) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Saimdang, Memoir of Colors OST Part.4](https://open.spotify.com/album/1lzIhggC6QNI37k0lkwHQI) | 4:29 | 2022-03-31 | 2022-04-16 |
 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 | 2021-12-20 |  |
-| [Where are you](https://open.spotify.com/track/0FClXEsgXBcoB0CSWY0TWP) | [Darae](https://open.spotify.com/artist/3OpUCwdRemzjq1qt0RkR64) | [Where are you](https://open.spotify.com/album/565QTWRpw0fKT6OZVbVoQ6) | 3:53 | 2024-06-20 |  |
+| [Where are you](https://open.spotify.com/track/0FClXEsgXBcoB0CSWY0TWP) | [Darae](https://open.spotify.com/artist/3OpUCwdRemzjq1qt0RkR64) | [Where are you](https://open.spotify.com/album/565QTWRpw0fKT6OZVbVoQ6) | 3:53 | 2024-06-20 | 2024-07-17 |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-15 | 2023-07-12 |
 | [Who You Are](https://open.spotify.com/track/37IQNTuNonHsOkp22bd5uQ) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Moonshine \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4Nht08CVURFZK2u74ST3Ki) | 3:30 | 2022-01-18 | 2022-07-29 |
 | [Will Last Forever](https://open.spotify.com/track/3z44VMUFtXkJ54xIbd2Qb2) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/293zq9Taxnnr8OmLq78HUE) | 4:24 | 2021-12-20 | 2022-07-29 |

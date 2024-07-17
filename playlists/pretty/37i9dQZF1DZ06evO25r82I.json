@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43790,
+  "num_followers": 43794,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAACn/wfpscAwSibrm3l9Hep7",
+  "snapshot_id": "ZpRmgAAAAADgJdN1y9m/z7qFo/YVwSHL",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Bleed American",
-      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
+      "duration_ms": 284373,
+      "name": "Hear You Me",
+      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
     },
     {
       "added_at": null,
@@ -210,11 +210,15 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        },
+        {
+          "name": "Davey Vonbohlen",
+          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 284373,
-      "name": "Hear You Me",
-      "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+      "duration_ms": 243506,
+      "name": "A Praise Chorus",
+      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
     },
     {
       "added_at": null,
@@ -274,15 +278,11 @@
         {
           "name": "Jimmy Eat World",
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        },
-        {
-          "name": "Davey Vonbohlen",
-          "url": "https://open.spotify.com/artist/2EYidR98SsS1xtRwavAmW1"
         }
       ],
-      "duration_ms": 243506,
-      "name": "A Praise Chorus",
-      "url": "https://open.spotify.com/track/0n7d3no0cHnsnkgfFzDuj4"
+      "duration_ms": 217213,
+      "name": "The Authority Song",
+      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 217213,
-      "name": "The Authority Song",
-      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay On My Side Tonight",
-        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 464200,
-      "name": "Disintegration",
-      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Stay On My Side Tonight",
+        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 464200,
+      "name": "Disintegration",
+      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
     },
     {
       "added_at": null,

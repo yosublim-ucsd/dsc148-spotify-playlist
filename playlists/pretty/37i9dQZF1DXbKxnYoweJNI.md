@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 血肉果汁機 \(Fresh Juicer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,387 likes - 123 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,386 likes - 123 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

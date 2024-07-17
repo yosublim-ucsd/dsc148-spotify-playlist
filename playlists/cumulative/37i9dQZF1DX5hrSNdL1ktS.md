@@ -2,9 +2,9 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alu Mix, El Bogueto y Uzielito Mix en portada
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla en portada
 
-579 songs - 1 day 4 hr 33 min
+580 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Nena Linda \(feat\. Oviña\)](https://open.spotify.com/track/6TGKIXje52nlR8IXZ2PMuc) | [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam) | [Nena Linda \(feat\. Oviña\)](https://open.spotify.com/album/3pJwEw0j6QTOtudgdMP1mt) | 2:30 | 2024-06-14 |  |
 | [Ni Miro \(feat\. Neutro Shorty\)](https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Hector Miller](https://open.spotify.com/artist/7tOWLNCTJTEIDBwIUyyQue), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Ni Miro \(feat\. Neutro Shorty\)](https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0) | 5:02 | 2023-01-27 | 2023-06-24 |
 | [Nieve de Vainilla](https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94) | [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Nieve de Vainilla](https://open.spotify.com/album/0Gor4xY55uhvXIxsB2y9ly) | 2:41 | 2022-01-07 | 2022-07-30 |
+| [Niña Santa](https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 2:52 | 2024-07-16 |  |
 | [NO CONFÍO EN EL INSTA](https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:18 | 2022-01-07 | 2022-02-16 |
 | [No contesta](https://open.spotify.com/track/1xFb3wxSLYsrYPdC73Xwu0) | [Chema Lee](https://open.spotify.com/artist/7KNlM6uE7Ru0qjwKtQRJ5R), [Tesla da cherry](https://open.spotify.com/artist/6l3JLPVk4cxum2ifkWHq4k) | [No contesta](https://open.spotify.com/album/4RzgXvfRwt9e258yrBh1yH) | 2:32 | 2023-09-15 | 2024-01-27 |
 | [No Control](https://open.spotify.com/track/6D7cn7VABwVTEFmUR4Kpj1) | [Iker Ocampo](https://open.spotify.com/artist/1qgabGHE1rOWY8IyxA4LN7), [FlakOGmx](https://open.spotify.com/artist/1gOsUum8ZHAZbtYjJCIE6A) | [No Control](https://open.spotify.com/album/7t0RSqmDwjSAo3JixxmwA8) | 3:34 | 2023-02-24 | 2023-03-04 |
@@ -441,7 +442,7 @@
 | [Rabote](https://open.spotify.com/track/2yz9M2dg31BbxL3sFs9dMO) | [Gelous](https://open.spotify.com/artist/5kYCLpKf9xPzuAtGV0j7EO), [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Interrogante Uno](https://open.spotify.com/artist/0kL4y31aI77SsAjlE9G3i2) | [Rabote](https://open.spotify.com/album/0pikRI78NM8XI7tDM2NvzF) | 2:06 | 2024-07-05 |  |
 | [RAYBEN CAP 7: BELLAKACOQUETTE \(feat\. Profeta Yao Yao & Cachirula\)](https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb) | [RAYBEN CAP 7: BELLAKACOQUETTE \(feat\. Profeta Yao Yao & Cachirula\)](https://open.spotify.com/album/6oacIxkILsvDG3nG045io9) | 2:39 | 2024-04-19 | 2024-07-06 |
 | [Rebelde](https://open.spotify.com/track/6TREasFcQcdlqTT0b5obMB) | [Jay Guerrero](https://open.spotify.com/artist/1GChW6AvwIDazi6tUQ7jXB) | [Rebelde](https://open.spotify.com/album/0SF5Wrfh7yqlgJ8iskRY4N) | 2:52 | 2023-03-17 | 2023-04-01 |
-| [Rebote](https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Rebote](https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF) | 2:38 | 2024-03-01 |  |
+| [Rebote](https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Rebote](https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF) | 2:38 | 2024-03-01 | 2024-07-17 |
 | [RECUERDOS](https://open.spotify.com/track/1tXxQ9PNjn8P9SKtizNffN) | [Rudeboy](https://open.spotify.com/artist/25Ztax2yOyQ7TTxlWoP5SM) | [RECUERDOS](https://open.spotify.com/album/3SWJueZYe73CmJjKoiDwXY) | 2:59 | 2023-04-21 | 2023-07-15 |
 | [REGGAETON SAD](https://open.spotify.com/track/6MUdaMmlboGccKv9Fm5Ze3) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [REGGAETON SAD](https://open.spotify.com/album/6hDzYcv7Uyy0SOxTVrkdeW) | 3:18 | 2023-04-21 | 2023-09-30 |
 | [Regreso La Bandida](https://open.spotify.com/track/1yuTlON3xyN2JeefcL0080) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Regreso La Bandida](https://open.spotify.com/album/7r3fxEf6qc40MwtJwhpsDQ) | 2:21 | 2024-05-03 | 2024-05-18 |

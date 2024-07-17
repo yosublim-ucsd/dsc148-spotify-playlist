@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > The hottest Pop tracks, all in one playlist! Featuring our rising stars, some pop classics and your favourite artists' favourite artists\. Shop this Summer's Pop Collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 79,684 likes - 99 songs - 5 hr 16 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 79,806 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

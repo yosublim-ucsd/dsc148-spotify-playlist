@@ -4,7 +4,7 @@
 
 > LUCKI, born and raised on the internet.
 
-1,018 songs - 1 day 17 hr 27 min
+1,019 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2022-08-29 | 2023-03-25 |
 | [friday](https://open.spotify.com/track/0pk6N8dYtK9R4O2k5aazfl) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [friday](https://open.spotify.com/album/4z5KIWcXYnsXVQm08XnIHr) | 2:25 | 2023-02-24 | 2023-04-09 |
 | [From Tha Back](https://open.spotify.com/track/6yPXp9wf5SVk98bhJdOZkM) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Huncho Da Rockstar](https://open.spotify.com/artist/4VrY0JpWXcvse8rsqAIZj3) | [From Tha Back](https://open.spotify.com/album/2uH6mlobFkCOzoTS7oqvKy) | 2:46 | 2021-09-21 | 2022-03-26 |
+| [Fuck All The Opps](https://open.spotify.com/track/1dAuSAE5eL94xV0aIyPCr3) | [J4That0oter](https://open.spotify.com/artist/332UeMBqYqEtYyulhnrrvM), [PFA Leek](https://open.spotify.com/artist/1vxOOb598YZp1CLdXQIgK1), [Rivtwer AJ](https://open.spotify.com/artist/2OPTLyeXOIvn3pBWBK7PlC) | [Fuck All The Opps](https://open.spotify.com/album/0iqfb9xXvn2Cso7ink6ZBl) | 3:20 | 2024-07-16 |  |
 | [Fuego \- Remix](https://open.spotify.com/track/5PSn6lZpITagw70YBnLpSZ) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [TRAQULA](https://open.spotify.com/artist/7ulnU80aA4UleNCZ95c4PE) | [Fuego](https://open.spotify.com/album/6SXp7tyMpyK65xrmEq0g0y) | 2:26 | 2022-12-16 | 2023-03-23 |
 | [Fukit](https://open.spotify.com/track/2QJLqxLXlzMiApFS6eBY4G) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:28 | 2023-02-09 | 2023-04-09 |
 | [FUNCTIONING ALCOHOLIC](https://open.spotify.com/track/6vB0VGQhnd1Qvkmrt8kNmr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [FUNCTIONING ALCOHOLIC](https://open.spotify.com/album/4Hcfj9PreOzF6kIQMR9M5F) | 1:57 | 2023-06-30 | 2023-10-21 |
@@ -617,7 +618,7 @@
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-07 | 2022-04-02 |
 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-01-11 | 2024-04-19 |
 | [MOVE YO BODY \- sped up](https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P) | 1:57 | 2024-01-11 | 2024-05-22 |
-| [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 | 2024-01-12 |  |
+| [Mozzarella](https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Mozzarella](https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq) | 2:50 | 2024-01-12 | 2024-07-17 |
 | [Mr\. Hanky](https://open.spotify.com/track/0ZcI3yLtpDra2lTWaajM6l) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Mr\. Hanky](https://open.spotify.com/album/1TcIh59Gfrw12QFjIu8RJu) | 2:22 | 2023-01-06 | 2023-06-10 |
 | [Mr\. McAdams](https://open.spotify.com/track/7uPVu05kl4tGCJ3KRUucBT) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Mr\. McAdams](https://open.spotify.com/album/3zIqYHjhiIX0ezJUIegDfl) | 2:36 | 2023-12-15 | 2023-12-19 |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-04-20 | 2022-09-17 |

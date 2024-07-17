@@ -5551,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "jealous",
+        "url": "https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1"
+      },
+      "artists": [
+        {
+          "name": "The Trinity",
+          "url": "https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150222,
+      "name": "jealous",
+      "url": "https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq"
+    },
+    {
+      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544337,
+  "num_followers": 544331,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 185493,
       "name": "From The Outside",
       "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL"
     },
     {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "If There Is Light, It Will Find You",
+        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
+    },
+    {
       "added_at": "2024-04-18 19:24:00",
       "album": {
         "name": "Our Brand Could Be Yr Life",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "If There Is Light, It Will Find You",
-        "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "What Are We Standing For",
         "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "INTERNATIONALLY UNKNOWN",
-        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
-      },
-      "artists": [
-        {
-          "name": "RAT BOY",
-          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
-        }
-      ],
-      "duration_ms": 134941,
-      "name": "I WANNA SKATE",
-      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "E.P.",
-        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+        "name": "INTERNATIONALLY UNKNOWN",
+        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
       },
       "artists": [
         {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
         }
       ],
-      "duration_ms": 195208,
-      "name": "Minds Like Minefields",
-      "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
+      "duration_ms": 134941,
+      "name": "I WANNA SKATE",
+      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1335,6 +1319,22 @@
       "duration_ms": 155733,
       "name": "Zero Remorse",
       "url": "https://open.spotify.com/track/3moomsVlUVM1oUEE5Wslsg"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "E.P.",
+        "url": "https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 195208,
+      "name": "Minds Like Minefields",
+      "url": "https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH"
     },
     {
       "added_at": "2024-04-18 19:24:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Surviving California",
-        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
+        "name": "Stay Rad!",
+        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
       },
       "artists": [
         {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 170875,
-      "name": "Surviving California",
-      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
+      "duration_ms": 114219,
+      "name": "Night of the Knuckleheads",
+      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Stay Rad!",
-        "url": "https://open.spotify.com/album/4sHMfa5WtLCj48iUYZGMCf"
+        "name": "Surviving California",
+        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
       },
       "artists": [
         {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
         }
       ],
-      "duration_ms": 114219,
-      "name": "Night of the Knuckleheads",
-      "url": "https://open.spotify.com/track/6u0ygfd65uaWJfeAxUjVXr"
+      "duration_ms": 170875,
+      "name": "Surviving California",
+      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1511,22 +1511,6 @@
       "duration_ms": 178989,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Overexposed",
-        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
-      },
-      "artists": [
-        {
-          "name": "Sleep On It",
-          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "A New Way Home",
-      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Overexposed",
+        "url": "https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn"
+      },
+      "artists": [
+        {
+          "name": "Sleep On It",
+          "url": "https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "A New Way Home",
+      "url": "https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Nothing Grows Here",
-        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 256700,
-      "name": "Fools Gold",
-      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Thoughts and Prayers",
         "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 149591,
       "name": "Precariat",
       "url": "https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Nothing Grows Here",
+        "url": "https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 256700,
+      "name": "Fools Gold",
+      "url": "https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Fresh Produce",
-        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
+        "name": "Everything to Me",
+        "url": "https://open.spotify.com/album/2EWrogTNE7C0vLpPT4eYd0"
       },
       "artists": [
         {
-          "name": "Seaway",
-          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 212443,
-      "name": "Pleasures",
-      "url": "https://open.spotify.com/track/2LL5HEIRSIS2W6zMa4jrQI"
+      "duration_ms": 176531,
+      "name": "Everything to Me",
+      "url": "https://open.spotify.com/track/5e3Zy2KYr34wbE450xQxcI"
     }
   ],
   "unique_name": "Punk Rock Workout",

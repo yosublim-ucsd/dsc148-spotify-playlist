@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: The Revolutions
+> Yo Hai Haryanvi Hip\-Hop! Cover: Badal & GD47
 
-257 songs - 13 hr 28 min
+258 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Meter Khench](https://open.spotify.com/track/0VonGBdBy7i4gEXUwp9WhX) | [Arun Taank](https://open.spotify.com/artist/0uoMDF5nGJGZqZt7ZybJ0u), [Akhri Sultaan](https://open.spotify.com/artist/0Mw3EnmkxQQyWu4mI8r8L2), [Bigdee](https://open.spotify.com/artist/2Y8HUZ2z19r7fog9SuDprK) | [Meter Khench](https://open.spotify.com/album/71s6jogrwwclqzxXTeYH6h) | 3:11 | 2023-06-05 | 2023-06-17 |
 | [Meter Khench Ke](https://open.spotify.com/track/5nvzggXBYnjxp4Vvhl1EEF) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Meter Khench Ke](https://open.spotify.com/album/1iipktugZewHMt2zpdT1wc) | 2:57 | 2023-09-27 |  |
 | [Mia Cara](https://open.spotify.com/track/0mN2mYHD4X7TR51fGqhqh7) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Mia Cara](https://open.spotify.com/album/1M60um0RRcgUeM4WAQG1hO) | 3:52 | 2024-07-03 |  |
+| [Mote Kharche](https://open.spotify.com/track/3dNToqbycdUSywpw0ZyCOC) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Mote Kharche](https://open.spotify.com/album/4dQF9RxSETEd7mUdY6yTyt) | 2:44 | 2024-07-16 |  |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 |  |
 | [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 | 2023-06-30 |
 | [Naina Ki Talwar](https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24) | 2:42 | 2023-03-28 | 2023-07-22 |
@@ -231,7 +232,7 @@
 | [Shareef Bande](https://open.spotify.com/track/5NvY1yfoncIR6i1uhiUa02) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Namayoho Studio](https://open.spotify.com/artist/56wgaEDkjpz1i3Sr9AlJh8) | [Shareef Bande](https://open.spotify.com/album/3ZEUGpvxsAKyzikdO3TC3I) | 3:11 | 2023-05-15 | 2023-09-28 |
 | [Sheesha](https://open.spotify.com/track/0aFLaSo21GazAKoZDooDuc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sheesha](https://open.spotify.com/album/3H2mp5opnTBnWbFYQlxEaT) | 3:37 | 2023-03-28 |  |
 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 | 2023-03-28 |  |
-| [SIZE 7](https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Yuvraj Vijay](https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ) | [SIZE 7](https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1) | 2:32 | 2024-05-29 |  |
+| [SIZE 7](https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Yuvraj Vijay](https://open.spotify.com/artist/352sCHXoSWFV41bH0rnVOZ) | [SIZE 7](https://open.spotify.com/album/5qGFSr2mhi9DqliGs9CND1) | 2:32 | 2024-05-29 | 2024-07-17 |
 | [Small Towns](https://open.spotify.com/track/4If3KpzvKF4ua9eabqGDFM) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Y2A](https://open.spotify.com/artist/6N1Gax5MyNXDO3vxg3N7y7), [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa) | [Small Towns](https://open.spotify.com/album/3hh9T0laD4bpieYXkc3OHb) | 4:03 | 2023-03-28 | 2023-05-10 |
 | [Sneeze](https://open.spotify.com/track/0ssV2OWkon59eAeR7gEpXZ) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Sneeze](https://open.spotify.com/album/0i9EeZFCVSRa3FbSeLF64o) | 4:16 | 2023-03-28 |  |
 | [Solo](https://open.spotify.com/track/6hH0jv0z1TGx6KhZTCBpe7) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Solo](https://open.spotify.com/album/0T0TknPntxbVXqM223ZKKM) | 2:32 | 2024-05-29 | 2024-06-06 |

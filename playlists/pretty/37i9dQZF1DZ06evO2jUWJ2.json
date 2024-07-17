@@ -1,12 +1,12 @@
 {
-  "description": "This Is Elevation Worship. Los temas esenciales, todos en una lista.",
-  "num_followers": 277368,
-  "original_name": "This Is Elevation Worship",
+  "description": "This is Elevation Worship. Piesele esen\u021biale \u00eentr-un singur playlist.",
+  "num_followers": 277471,
+  "original_name": "Acesta este Elevation Worship.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAABjhzWeyx8+pKJo8ta4/mVB",
+  "snapshot_id": "ZpRmgAAAAAD7a25aWgHuz6m/BiQN/UYc",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,30 @@
       "duration_ms": 377306,
       "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
       "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
     },
     {
       "added_at": null,
@@ -871,26 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Of A Sudden / Another One",
-        "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
       "artists": [
         {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 475718,
-      "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
-      "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
     },
     {
       "added_at": null,
@@ -919,22 +939,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy In The Morning",
-        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
+        "name": "All Of A Sudden / Another One",
+        "url": "https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
+      "duration_ms": 475718,
+      "name": "All Of A Sudden (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK"
     },
     {
       "added_at": null,
@@ -975,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 581177,
-      "name": "Available (Live)",
-      "url": "https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -1015,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 581177,
+      "name": "Available (Live)",
+      "url": "https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -1027,36 +1051,8 @@
       "duration_ms": 347893,
       "name": "There Is a Cloud",
       "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 279691,
-      "name": "Might Get Loud (feat. Chris Brown, Brandon Lake & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/6zmTTU4fm4iFhHvMyCxp3p"
     }
   ],
-  "unique_name": "This Is Elevation Worship",
+  "unique_name": "Acesta este Elevation Worship.",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2"
 }

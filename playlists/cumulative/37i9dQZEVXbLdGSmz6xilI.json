@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 300000,
       "name": "bao ti\u1ec1n m\u1ed9t m\u1edb b\u00ecnh y\u00ean?",
       "url": "https://open.spotify.com/track/7kgzRBNkBRArtTPkYjWLYT"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -7999,6 +7999,32 @@
     },
     {
       "album": {
+        "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
+        "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
+      },
+      "artists": [
+        {
+          "name": "MANBO",
+          "url": "https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
+      "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
+    },
+    {
+      "album": {
         "name": "H\u1eb9n Ki\u1ebfp T\u01b0\u01a1ng Ph\u00f9ng",
         "url": "https://open.spotify.com/album/7mXmVct42N7OTRUcwwGznX"
       },
@@ -11822,7 +11848,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
@@ -11960,7 +11986,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 276016,
       "name": "Ng\u00e0y \u0110\u1ea7u Sau Chia Tay",
       "url": "https://open.spotify.com/track/6xKs4CnVadRzdNZ48vhT27"
@@ -20526,7 +20552,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 178924,
       "name": "\u1ed4 Qu\u1ef7",
       "url": "https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD"

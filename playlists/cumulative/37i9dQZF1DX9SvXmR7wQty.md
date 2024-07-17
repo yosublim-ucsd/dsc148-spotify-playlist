@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Carbonne
 
-2,672 songs - 5 day 22 hr 13 min
+2,673 songs - 5 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-01 | 2024-04-27 |
 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 | 2021-12-31 | 2022-01-22 |
 | [500](https://open.spotify.com/track/7DRRBm6gsNolYnMUVxjbIa) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [500](https://open.spotify.com/album/0OOhemBhXqxbrahJbrNSUD) | 2:49 | 2023-12-22 | 2024-01-20 |
-| [50¢](https://open.spotify.com/track/23Vfw3quYZrSLLVJMpARPr) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 2:32 | 2024-07-12 |  |
+| [50¢](https://open.spotify.com/track/23Vfw3quYZrSLLVJMpARPr) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 2:32 | 2024-07-12 | 2024-07-17 |
 | [5AM](https://open.spotify.com/track/3lernf2FiyL07kM8uTAueb) | [Brown Family](https://open.spotify.com/artist/58kHjJdhzMEVRdibBX5JJW) | [5AM](https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I) | 3:35 | 2024-04-26 | 2024-05-03 |
 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 | 2024-04-12 | 2024-06-01 |
 | [6 mois](https://open.spotify.com/track/2gOu93kTZxjuuMGWeOgH9t) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [6 mois](https://open.spotify.com/album/0kULqrFM1MeS1O0ImWFkfy) | 3:22 | 2024-03-08 | 2024-03-16 |
@@ -1642,6 +1642,7 @@
 | [Mon jauné](https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Mon jauné](https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD) | 3:18 | 2023-08-25 | 2023-10-07 |
 | [Mon petit chemin](https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 3:10 | 2023-02-03 | 2023-02-18 |
 | [Mon sang](https://open.spotify.com/track/4x6YcJgEFXLZiCYkaexWYA) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Prince Limonade](https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M) | 2:19 | 2022-10-14 | 2022-10-29 |
+| [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 |  |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |

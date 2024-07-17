@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-383 songs - 19 hr 40 min
+384 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Deep Contemplation](https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm) | [Mikael Arvo](https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C) | [Understanding Yourself](https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ) | 3:48 | 2022-01-19 | 2024-01-21 |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2022-01-12 | 2024-01-18 |
 | [Deep Sleep](https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr) | [Jasmine Bordeaux](https://open.spotify.com/artist/5kxIHAETC8i2dwHZOASyVD) | [Deep Sleep](https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw) | 2:37 | 2022-01-12 | 2024-05-21 |
-| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 |  |
+| [Deep Steadiness](https://open.spotify.com/track/4fjAMHIsHsK6QpuCyWtJEZ) | [Winds Of Minds](https://open.spotify.com/artist/52zUN5HeRQAGLIyXhxZaR0) | [Deep Steadiness](https://open.spotify.com/album/2THS7bZGzzUoBPteGW8CKX) | 2:36 | 2023-04-21 | 2024-07-17 |
 | [Descanso](https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Descanso](https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy) | 3:47 | 2022-01-12 | 2023-03-15 |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2022-01-12 | 2024-05-21 |
 | [Determination](https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Determination](https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt) | 1:52 | 2022-01-12 | 2023-07-29 |
@@ -213,6 +213,7 @@
 | [Lake Huron](https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 3:15 | 2022-01-12 | 2023-03-15 |
 | [Lambent](https://open.spotify.com/track/2woYpp1YRCgnPHbzavLqBp) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [Lambent](https://open.spotify.com/album/386n0Aim29Nsb5lfn2zBK1) | 2:24 | 2024-01-17 | 2024-01-20 |
 | [Last Dream Before Sunrise](https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Day Arc](https://open.spotify.com/album/6mQtAox00kP7CngQyyIHMt) | 5:17 | 2022-04-13 | 2022-04-21 |
+| [Lavender Fields](https://open.spotify.com/track/6QevBRGBOGwv6EciZovC3S) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Lavender Fields](https://open.spotify.com/album/4J9YetDF7lSXwjLcgEPjLi) | 2:52 | 2024-07-15 |  |
 | [Lay Down with Me](https://open.spotify.com/track/7v49py6TF4kTEFXNx3KMBf) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Subtle Perceptions](https://open.spotify.com/album/5wruu2VIx70v132QBLXeex) | 5:01 | 2024-01-17 | 2024-02-08 |
 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-20 |  |
 | [life cycle](https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [life cycle](https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy) | 3:07 | 2024-05-20 |  |

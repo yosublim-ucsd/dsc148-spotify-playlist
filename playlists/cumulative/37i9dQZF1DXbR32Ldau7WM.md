@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: toe
 
-1,078 songs - 2 day 23 hr 20 min
+1,081 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,11 +108,13 @@
 | [Danger Boy](https://open.spotify.com/track/1KEc3W0f5GxJfeCsxlknIk) | [the telephones](https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ) | [Danger Boy](https://open.spotify.com/album/4Qh4rjZXolyW7DAX6ZATWa) | 3:14 | 2024-02-06 | 2024-04-24 |
 | [Dani](https://open.spotify.com/track/5ykMYNZv2E8iPKZFkuxJC6) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/22V3Kxi5wlfh6V2jt39Q2I) | 4:29 | 2023-02-07 | 2023-02-15 |
 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 | 2023-06-27 | 2023-12-20 |
+| [Daydreaming](https://open.spotify.com/track/1FGMOYigI47jlDeckQCjvq) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Daydreaming](https://open.spotify.com/album/2HEd3TIi5tw3wPZJ9j6Vk9) | 3:12 | 2024-07-16 |  |
 | [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 | 2023-06-15 |
 | [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 | 2023-06-21 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
 | [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 | 2024-02-01 | 2024-04-02 |
 | [DEAR YOU](https://open.spotify.com/track/14CIoI3XDNnxlcDlSlqCyQ) | [PERSONZ](https://open.spotify.com/artist/6n9RT2nh15EFHJk1grNlBO) | [DEAR YOU](https://open.spotify.com/album/3KjvjCzz2VjIXDAx638odq) | 4:11 | 2024-02-27 | 2024-04-24 |
+| [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 |  |
 | [Destruction Baby \- LIVE](https://open.spotify.com/track/4hHsq2OToBt2HVWRGBqcwS) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 3:33 | 2023-05-30 | 2023-06-07 |
 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 | 2023-06-27 |  |
 | [DEVOTION](https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [DEVOTION](https://open.spotify.com/album/05tsVA1WtUbwYII1wdyero) | 4:33 | 2023-06-13 | 2024-01-24 |
@@ -321,6 +323,7 @@
 | [Magic](https://open.spotify.com/track/2buW01JGz5GXaLvf4DJ0iM) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Magic](https://open.spotify.com/album/3yGdkifwZ60aVBhrDYylmJ) | 3:44 | 2023-04-06 | 2023-06-28 |
 | [MAGIC TIME](https://open.spotify.com/track/3qyH4YUfaRDoMvjB4b4TiC) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/1LdYc6r9E8RKlTShRs0myy) | 2:36 | 2023-08-15 | 2023-08-17 |
 | [MAGIC TIME](https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/3G6Zoq3MHR6dlBCyxitVjI) | 2:36 | 2023-08-15 | 2023-08-23 |
+| [MAKE A MiRACLE](https://open.spotify.com/track/237v95eDjI8vdzByNf1quh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [MAKE A MiRACLE](https://open.spotify.com/album/1XN2esANyOw0kENjtW7mOi) | 3:58 | 2024-07-16 |  |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-24 |  |
 | [Malfunction](https://open.spotify.com/track/1dWGUO81ML2o5z9ntAzMqX) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [Malfunction](https://open.spotify.com/album/7b6ayWuKcSWL46HQ4saGAY) | 4:28 | 2023-05-23 | 2023-05-31 |
 | [MANCHILD](https://open.spotify.com/track/6rppJOqAXXvKgPVpb8hAwk) | [WUJA BIN BIN](https://open.spotify.com/artist/6dPqZIZksDEEt2IQ3lVo9Q) | [MANCHILD](https://open.spotify.com/album/0l4AN2OAR0u2VylULwF2hE) | 3:50 | 2023-12-12 | 2023-12-20 |
@@ -714,7 +717,7 @@
 | [アイムリアル](https://open.spotify.com/track/2ILWgaW2fK1IzShTZdOhqe) | [Yoshiharu Shiina](https://open.spotify.com/artist/2YoEsDFl4XsjRk3j22YfbH) | [アイムリアル](https://open.spotify.com/album/0BcbumwHjdJ1fEa7m9vH56) | 3:23 | 2022-05-12 | 2022-07-27 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2023-08-15 | 2023-08-23 |
 | [アゲイン](https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 3:34 | 2023-06-27 |  |
-| [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 | 2024-05-14 |  |
+| [アフタースクール](https://open.spotify.com/track/12yaUWXL3LaWZbps2MVzOy) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [SINGLE 1](https://open.spotify.com/album/4KHq9rx1FHIx7YXefUjK0F) | 3:24 | 2024-05-14 | 2024-07-17 |
 | [アフターダーク](https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ワールド ワールド ワールド](https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI) | 3:12 | 2023-06-27 | 2024-02-07 |
 | [アポフェニア](https://open.spotify.com/track/2LMMdR5vkNpm6v1AwXg7l9) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/5ft76H4MMIeRPiWF50v9VW) | 4:06 | 2022-08-30 | 2022-09-01 |
 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 | 2024-07-02 |  |
@@ -744,7 +747,7 @@
 | [クロスロード](https://open.spotify.com/track/06bGA7LD0gnMEheiYlAF2l) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [クロスロード](https://open.spotify.com/album/4mJ1KXrkeLBHxny9dADqb7) | 3:00 | 2023-11-14 | 2024-02-21 |
 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 | 2023-07-04 | 2024-02-07 |
 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 | 2023-06-27 | 2024-02-07 |
-| [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-19 |  |
+| [ケモノミチ](https://open.spotify.com/track/4lpFErPc45W6HYnpoaxCdl) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [ケモノミチ](https://open.spotify.com/album/0klgJfPMllexvhss9c816Z) | 3:58 | 2023-09-19 | 2024-07-17 |
 | [ゲット・アップ・ルーシー](https://open.spotify.com/track/2KuNvu2Jh1CYVOrhEHWN8S) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [Chicken Zombies](https://open.spotify.com/album/5brEuhJXQyScy3W5XPtrJN) | 4:36 | 2023-12-19 | 2024-04-24 |
 | [ココカラ銀座](https://open.spotify.com/track/4nOYiE2HLDen03WXEN0iNw) | [Hoff Dylan](https://open.spotify.com/artist/47ircJ7HYosHqScopxYS4S) | [ココカラ銀座](https://open.spotify.com/album/7j4JuldCckd7krjlvHcVfC) | 4:34 | 2022-05-10 | 2022-05-21 |
 | [コバルトブルー](https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヘッドフォンチルドレン](https://open.spotify.com/album/1LypiBHtLzLa0c9IErlDt6) | 4:25 | 2024-04-03 | 2024-07-03 |
@@ -1016,7 +1019,7 @@
 | [瞳のランデヴー](https://open.spotify.com/track/4qZMoOB9dT4R4an1eo4g6I) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [PORTRAIT](https://open.spotify.com/album/7DnC5XdoVUZgrrhOM9Qvrg) | 4:16 | 2024-02-27 | 2024-03-06 |
 | [瞳のランデヴー](https://open.spotify.com/track/615moHge9ZH2r6NGj3ZANR) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [瞳のランデヴー](https://open.spotify.com/album/4zfVYnpWM2lUfHEXvE3I4w) | 4:17 | 2024-02-27 | 2024-02-29 |
 | [知らない道](https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [知らない道](https://open.spotify.com/album/5CfbxKycxzQX1SZmRW8RiV) | 4:35 | 2023-04-11 | 2023-05-10 |
-| [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 | 2023-05-23 |  |
+| [私は猫の目](https://open.spotify.com/track/1EIb4vsdJ3F0ZBb0x37QHd) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [私は猫の目](https://open.spotify.com/album/1ILH3GsxlJPT6Jezilsfbx) | 3:10 | 2023-05-23 | 2024-07-17 |
 | [秘密 \- band arrange](https://open.spotify.com/track/4doFF3dxn4Xrw3pSOQpD2i) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [秘密 \(band arrange\) / boys & girls \(band arrange\)](https://open.spotify.com/album/2AhF44xKGvyMj7ap14lDfF) | 4:52 | 2022-10-29 | 2022-11-02 |
 | [空へ向かう木のように](https://open.spotify.com/track/6Gv6FWMPMipoJPgMbSdQWT) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [Version 5.0](https://open.spotify.com/album/5E257eQJYcjeqPapr7JSHr) | 3:37 | 2023-08-29 | 2023-09-13 |
 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 | 2023-09-05 |  |

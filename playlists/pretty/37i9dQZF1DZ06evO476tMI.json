@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 608433,
+  "num_followers": 608540,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAABIuCAyxydyP/gRVXtlHMeY",
+  "snapshot_id": "ZpRmgAAAAADVMRBxcle9KvN25Atywic/",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 275533,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 268600,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": null,
@@ -635,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Like I Never Left (feat. Akon)",
+      "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Preacher's Wife",
         "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
       },
@@ -671,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Like I Never Left (feat. Akon)",
-      "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Call You Tonight",
+      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Dream Duets",
         "url": "https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ"
       },
@@ -727,42 +727,6 @@
       "duration_ms": 234480,
       "name": "I Believe In You And Me",
       "url": "https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Something In Common",
-      "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Call You Tonight",
-      "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
     },
     {
       "added_at": null,
@@ -795,6 +759,26 @@
       "duration_ms": 321666,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/4gDBc1RxPAvinJrZzZ9nYX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6MBpIrXaNMdoTNrWchRpO7"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Something In Common",
+      "url": "https://open.spotify.com/track/3D6xxbFiyPRduSUowHbjSP"
     },
     {
       "added_at": null,
@@ -863,6 +847,26 @@
       "duration_ms": 301573,
       "name": "The Prince Of Egypt (When You Believe)",
       "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Nobody Loves Me Like You Do (with Jermaine Jackson)",
+      "url": "https://open.spotify.com/track/72NcOvvGdarZaOyKMNHZ1m"
     }
   ],
   "unique_name": "This Is Whitney Houston",

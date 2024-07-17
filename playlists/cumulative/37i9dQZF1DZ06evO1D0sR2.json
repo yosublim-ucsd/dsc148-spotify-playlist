@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
+  "description": "This Is JJ Hairston. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
   "name": "This Is JJ Hairston",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 421772,
       "name": "All You've Done (feat. Cristabel Clack)",
       "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 176253,
       "name": "The Lifter",
       "url": "https://open.spotify.com/track/47HL24sAiA9RybhLGODrUX"

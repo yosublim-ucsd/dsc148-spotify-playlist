@@ -6741,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Valse de Mignon",
+        "url": "https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136687,
+      "name": "Valse de Mignon",
+      "url": "https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM"
+    },
+    {
+      "album": {
         "name": "Valse Lente",
         "url": "https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8"
       },

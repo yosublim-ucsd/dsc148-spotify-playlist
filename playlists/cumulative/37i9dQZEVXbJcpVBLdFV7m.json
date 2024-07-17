@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
+        "url": "https://open.spotify.com/album/28t9nnMVI7mJWLWpKnx7Sh"
+      },
+      "artists": [
+        {
+          "name": "DJ Damyan",
+          "url": "https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI"
+        },
+        {
+          "name": "Ork. Salih Hamburg",
+          "url": "https://open.spotify.com/artist/4CrkuFqKkCWd7pJTOaGxhX"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219545,
+      "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
+      "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -168,7 +190,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -294,6 +316,32 @@
       "duration_ms": 184852,
       "name": "Alibi (feat. Rudimental)",
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
       "album": {
@@ -548,6 +596,24 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
+    },
+    {
+      "album": {
+        "name": "A\u015fka \u0130nanmaz",
+        "url": "https://open.spotify.com/album/7HPDobtd7ZH2McwQkZkroV"
+      },
+      "artists": [
+        {
+          "name": "Kendi",
+          "url": "https://open.spotify.com/artist/59sYqGGNlpHuTWcenvV9mZ"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233821,
+      "name": "A\u015fka \u0130nanmaz",
+      "url": "https://open.spotify.com/track/065g6sD1YLuMXMKUpOPDSW"
     },
     {
       "album": {
@@ -892,7 +958,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -1076,7 +1142,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 237810,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/4z45k4ATKpEHg7tLmQEhfW"
@@ -1496,7 +1562,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 136000,
       "name": "CISTAK",
       "url": "https://open.spotify.com/track/4KwetoJ2Hi9KN0K0oIcWNE"
@@ -1782,6 +1848,28 @@
       "duration_ms": 171427,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Tzank\u01ce Uraganu",
+          "url": "https://open.spotify.com/artist/1nRdMIjXitRbmuhwGJopDK"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Delta Force",
+      "url": "https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds"
     },
     {
       "album": {
@@ -2174,7 +2262,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -3120,7 +3208,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -3366,7 +3454,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 135880,
       "name": "icantbelieveiletyougetaway",
       "url": "https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH"
@@ -3518,6 +3606,32 @@
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+      },
+      "artists": [
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
       "album": {
@@ -4871,6 +4985,28 @@
     },
     {
       "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -5556,7 +5692,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 187189,
       "name": "Na Ti Xerese (Remix)",
       "url": "https://open.spotify.com/track/1bxGUnNsgB2Nqu0bXvx2NI"
@@ -5770,7 +5906,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 159230,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
@@ -5824,7 +5960,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 154909,
       "name": "Novi ochi",
       "url": "https://open.spotify.com/track/0WjViBfbxMuMFf7d1RJ7ud"
@@ -6101,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158663,
+      "name": "Otaku Hot Girl",
+      "url": "https://open.spotify.com/track/6saYisCUAZXc505blie9kZ"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -6196,7 +6350,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
@@ -6284,7 +6438,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 224124,
       "name": "PICK UP THE PHONE (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
@@ -6324,7 +6478,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -6840,6 +6994,24 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "album": {
@@ -7845,6 +8017,24 @@
     },
     {
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157120,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -8074,6 +8264,24 @@
       "duration_ms": 500116,
       "name": "Take Me Back To Eden",
       "url": "https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5IkpYMy0TAOMgN32esvOwp"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/655SPDBiEdmH1L6y3IJFlc"
     },
     {
       "album": {
@@ -8937,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "Tuka Tuka",
+        "url": "https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW"
+      },
+      "artists": [
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196918,
+      "name": "Tuka Tuka",
+      "url": "https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e"
+    },
+    {
+      "album": {
         "name": "NEI LETTI DEGLI ALTRI",
         "url": "https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F"
       },
@@ -9022,7 +9248,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 221648,
       "name": "Tzjalo Ljato",
       "url": "https://open.spotify.com/track/5bQ1V6dzJgerxJpa1ArUSE"
@@ -9414,7 +9640,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
@@ -9716,7 +9942,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 79452,
       "name": "X-SLIDE",
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
@@ -9862,7 +10088,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
@@ -10453,6 +10679,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209571,
+      "name": "\u0414\u043e\u043a\u0442\u043e\u0440\u0435",
+      "url": "https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe"
+    },
+    {
+      "album": {
         "name": "\u0414\u044f\u0432\u043e\u043b \u043e\u0442 \u0420\u0430\u044f",
         "url": "https://open.spotify.com/album/3hMoxCqS2rl4HboPRwFSor"
       },
@@ -10468,6 +10712,42 @@
       "duration_ms": 145161,
       "name": "\u0414\u044f\u0432\u043e\u043b \u043e\u0442 \u0420\u0430\u044f",
       "url": "https://open.spotify.com/track/5W71vTaU1D24Gv65e3EZId"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "\u0416\u0430\u043b\u043a\u043e",
+      "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198580,
+      "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
     },
     {
       "album": {
@@ -10542,6 +10822,24 @@
       "duration_ms": 249350,
       "name": "\u0417\u0434\u0440\u0430\u0432 \u0411\u043e\u0434\u044a\u0440 \u0414\u0443\u0445",
       "url": "https://open.spotify.com/track/3iYds4ZaAY9ueYdNC0osjc"
+    },
+    {
+      "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
+      "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
     },
     {
       "album": {
@@ -11098,7 +11396,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 235384,
       "name": "\u0421\u043f\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/1DzCI8lUzAYWB9kvlRDZSJ"
@@ -11239,6 +11537,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185777,
+      "name": "\u0422\u043e\u043a \u043f\u043e \u0442\u044f\u043b\u043e\u0442\u043e",
+      "url": "https://open.spotify.com/track/4LK3G3bxhj1OYcOdOvXmXp"
+    },
+    {
+      "album": {
         "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
         "url": "https://open.spotify.com/album/0SjTFgK4uWJgntsGLObsNz"
       },
@@ -11283,6 +11599,24 @@
     },
     {
       "album": {
+        "name": "GALENAXX",
+        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "\u0423\u0431\u0438\u0439 \u043c\u0435",
+      "url": "https://open.spotify.com/track/2EQc2P44Rbxnisizg91153"
+    },
+    {
+      "album": {
         "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
         "url": "https://open.spotify.com/album/1GAhTWXPYPtkquR0qJsU5N"
       },
@@ -11298,6 +11632,24 @@
       "duration_ms": 206000,
       "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
       "url": "https://open.spotify.com/track/4CdCa2gcNtsqPTA9JELgqb"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0415\u041d\u0422\u042a\u0420\u0410",
+        "url": "https://open.spotify.com/album/57PjVfbF0N5TZXsHA7e7wJ"
+      },
+      "artists": [
+        {
+          "name": "I.N.I.",
+          "url": "https://open.spotify.com/artist/564L14VyLz0lmnlpwX2MBw"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252400,
+      "name": "\u0426\u0415\u041d\u0422\u042a\u0420\u0410",
+      "url": "https://open.spotify.com/track/02kKRYaCZMjhFviC9zVb9D"
     },
     {
       "album": {

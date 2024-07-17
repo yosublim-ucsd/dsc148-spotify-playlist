@@ -4,7 +4,7 @@
 
 > 来日公演 "TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN SPECIAL" を開催するTWICEを特集！
 
-82 songs - 4 hr 30 min
+85 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dance The Night Away](https://open.spotify.com/track/281tmNk46TBQS9ACYMLYyA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/4JRX1T8VKbEMvTtnQXnLYM) | 3:00 | 2023-05-21 |  |
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-11 |  |
 | [Done for Me \(feat\. Kehlani\)](https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:00 | 2023-05-21 | 2024-07-12 |
+| [Echoes of heart](https://open.spotify.com/track/12NySHZrtgHK78nKfP3yur) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 3:14 | 2024-07-16 |  |
 | [Fake & True](https://open.spotify.com/track/55Rxs4UMMcHSy53DYyLguZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [&TWICE](https://open.spotify.com/album/6SCVmWtPzCVQSW211WMa8D) | 3:39 | 2024-07-11 |  |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2023-05-21 | 2024-04-19 |
 | [FANCY](https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 3:33 | 2023-05-21 |  |
@@ -47,9 +48,11 @@
 | [Hare Hare](https://open.spotify.com/track/3QcJghvqRS17RoPPP0C2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG) | 3:23 | 2024-07-11 |  |
 | [Heart Shaker](https://open.spotify.com/track/52FCAZn0YEkZfF0BtiAUMW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/0R7pj4tnmcoUulrZGPo6nw) | 3:06 | 2023-05-21 | 2024-04-19 |
 | [Heart Shaker](https://open.spotify.com/track/6gxF4ibm6S95UUC6vyIiln) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/4TOqKpo9ct2Hj21uQ3cnOm) | 3:06 | 2023-05-21 |  |
+| [Here I am](https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:50 | 2024-07-16 |  |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2023-05-21 | 2024-04-19 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/3apeXzypBMnUfYcZYNX6DH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:25 | 2023-05-21 |  |
 | [I GOT YOU](https://open.spotify.com/track/5PC5gR6dt9Xp4mij4OJ9rV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/7mVYkS8Bwibque5PEMA9F1) | 2:53 | 2024-07-11 |  |
+| [Inside of me](https://open.spotify.com/track/2Py38uCGjUARv3r7KQjcM8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:53 | 2024-07-16 |  |
 | [Juice](https://open.spotify.com/track/43BtEHgPHapAp1YNxEfxqd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:14 | 2023-05-21 | 2024-07-12 |
 | [Knock Knock](https://open.spotify.com/track/3HWOknOVmd44e1jg4g0Sga) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 3:15 | 2023-05-21 | 2024-04-19 |
 | [KNOCK KNOCK](https://open.spotify.com/track/3rQjCycDV0Ibadg6A1Nq45) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster : LANE2](https://open.spotify.com/album/4GWHz1Kxn8EirxXQgP7u7u) | 3:15 | 2023-05-21 |  |

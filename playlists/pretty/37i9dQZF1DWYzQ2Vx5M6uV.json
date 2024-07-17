@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 116760,
+  "num_followers": 116778,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
-        "name": "Vive La Vida (Remix)",
-        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 237754,
-      "name": "Vive La Vida - Remix",
-      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
+        "name": "Vive La Vida (Remix)",
+        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 237754,
+      "name": "Vive La Vida - Remix",
+      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     },
     {
       "added_at": "2024-06-07 09:14:55",

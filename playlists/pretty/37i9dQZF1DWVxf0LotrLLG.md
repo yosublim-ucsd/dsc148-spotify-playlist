@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Sebastian Llosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,277 likes - 431 songs - 22 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,264 likes - 431 songs - 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 189 | [FRESCA](https://open.spotify.com/track/73MptyZJavDGIh0HF42Q8L) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 3:06 |
 | 190 | [PRENDER](https://open.spotify.com/track/4zB7S0NbvHZ8yPa1zfpARH) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [EL NIÑO BENDITO](https://open.spotify.com/album/5pSazlKAjiS4GxMWVVw2Ja) | 3:08 |
 | 191 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 |
-| 192 | [PODCAST](https://open.spotify.com/track/7uKqnK0Fe6mWIDocv4YhOw) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Oldtape](https://open.spotify.com/artist/1fcC1o5FX0biTfGdo43WQ2) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:46 |
+| 192 | [PODCAST](https://open.spotify.com/track/7uKqnK0Fe6mWIDocv4YhOw) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Oldtape](https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:46 |
 | 193 | [Mundo de lo Ajeno](https://open.spotify.com/track/3YzcYb2ZqkYKYeT4kuR6YW) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 3:22 |
 | 194 | [Cinco Horas Menos](https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 3:23 |
 | 195 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |

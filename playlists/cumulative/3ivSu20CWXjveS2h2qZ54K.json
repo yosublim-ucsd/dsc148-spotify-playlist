@@ -3045,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208482,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
+    {
+      "album": {
         "name": "\u00bfTe acuerdas?",
         "url": "https://open.spotify.com/album/0DVIxjdEXHxaSt7pFNZIEn"
       },
@@ -9596,7 +9614,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181146,
-      "name": "My Oh My - with Bebe Rexha & Tove Lo",
+      "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {

@@ -1,12 +1,12 @@
 {
-  "description": "This is zebrahead. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 16620,
+  "description": "This is zebrahead. The essential tracks, all in one playlist.",
+  "num_followers": 16632,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAA2INmB6ZORlm8bZp450WzB",
+  "snapshot_id": "ZpRmgAAAAAB0EXftf3Eg2Mqfe68V3P93",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 183282,
       "name": "When Both Sides Suck, We're All Winners",
       "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Over the Edge",
-      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 240533,
       "name": "F.L.F.U.",
       "url": "https://open.spotify.com/track/7CAF2YK0IvvUFiQhGwiqF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 206178,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+      "duration_ms": 189840,
+      "name": "The Walking Dead",
+      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 189840,
-      "name": "The Walking Dead",
-      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
+      "duration_ms": 206178,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
     },
     {
       "added_at": null,

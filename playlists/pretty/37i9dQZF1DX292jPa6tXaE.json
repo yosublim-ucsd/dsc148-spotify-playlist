@@ -1,32 +1,28 @@
 {
-  "description": "Discover new Punjabi artists! Cover: Prabh Bains",
-  "num_followers": 1496,
+  "description": "Discover new Punjabi artists! Cover: Jaby",
+  "num_followers": 1506,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo4OQAAAAAAUiDKduT+o5zR407mLMj5U",
+  "snapshot_id": "ZpbEXAAAAADfEzB0Oa50KuLfNfGmJ8Y/",
   "tracks": [
     {
-      "added_at": "2024-07-10 04:29:51",
+      "added_at": "2024-07-16 19:05:00",
       "album": {
-        "name": "Backhome",
-        "url": "https://open.spotify.com/album/7LwdMsMPLn3RgCQpyBQKPY"
+        "name": "Pyaar Jeha",
+        "url": "https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB"
       },
       "artists": [
         {
-          "name": "Prabh Bains",
-          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
-        },
-        {
-          "name": "Jashan Inder",
-          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+          "name": "Jaby",
+          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
         }
       ],
-      "duration_ms": 162666,
-      "name": "Backhome",
-      "url": "https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN"
+      "duration_ms": 153600,
+      "name": "Pyaar Jeha",
+      "url": "https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -47,6 +43,94 @@
       "duration_ms": 154239,
       "name": "Akhiyan",
       "url": "https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck"
+    },
+    {
+      "added_at": "2024-07-16 19:05:00",
+      "album": {
+        "name": "Tareek",
+        "url": "https://open.spotify.com/album/4jJTlBEcW2L3UY8iaTOG6H"
+      },
+      "artists": [
+        {
+          "name": "OtaaL",
+          "url": "https://open.spotify.com/artist/2EsJnc4nxzib2w52GbJfzO"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 170808,
+      "name": "Tareek",
+      "url": "https://open.spotify.com/track/4CAiZC1PX9sddBFtEiLwie"
+    },
+    {
+      "added_at": "2024-07-10 04:29:51",
+      "album": {
+        "name": "Hulaare",
+        "url": "https://open.spotify.com/album/5eKSNifZknKkVZKffxu2PE"
+      },
+      "artists": [
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "duration_ms": 156330,
+      "name": "Hulaare",
+      "url": "https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB"
+    },
+    {
+      "added_at": "2024-07-10 04:29:51",
+      "album": {
+        "name": "Talks",
+        "url": "https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Talks",
+      "url": "https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0"
+    },
+    {
+      "added_at": "2024-07-10 04:29:51",
+      "album": {
+        "name": "Sara Pind Mittran Da",
+        "url": "https://open.spotify.com/album/3TL1nlrJaZbhNArzLIHssl"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Ricky Khan",
+          "url": "https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Sara Pind Mittran Da",
+      "url": "https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -75,22 +159,22 @@
     {
       "added_at": "2024-07-10 04:29:51",
       "album": {
-        "name": "Talks",
-        "url": "https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF"
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U"
       },
       "artists": [
         {
-          "name": "Juss",
-          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+          "name": "NADAR",
+          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
         },
         {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+          "name": "DaBrown",
+          "url": "https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Talks",
-      "url": "https://open.spotify.com/track/4lC5EzS4NHJFcyUKLvX7Q0"
+      "duration_ms": 214236,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -111,6 +195,22 @@
       "duration_ms": 132244,
       "name": "Pasand",
       "url": "https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S"
+    },
+    {
+      "added_at": "2024-07-10 04:29:51",
+      "album": {
+        "name": "Hasrat",
+        "url": "https://open.spotify.com/album/0OLHeuf28IBn95ewH8142S"
+      },
+      "artists": [
+        {
+          "name": "Yuvraj Tung",
+          "url": "https://open.spotify.com/artist/7yqoq4MWdw2ZNyAKDqH0fE"
+        }
+      ],
+      "duration_ms": 198846,
+      "name": "Hasrat",
+      "url": "https://open.spotify.com/track/1fpooY2ysygMUZSeK8rxSB"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -151,18 +251,26 @@
     {
       "added_at": "2024-07-10 04:29:51",
       "album": {
-        "name": "Aadatan",
-        "url": "https://open.spotify.com/album/58HGDWL4l1rlGr4CQQwP8j"
+        "name": "Mi Precioso",
+        "url": "https://open.spotify.com/album/5y868NRUeKZvLnPtHnKC44"
       },
       "artists": [
         {
-          "name": "Prince Jadon",
-          "url": "https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5"
+          "name": "Jas Chahal",
+          "url": "https://open.spotify.com/artist/1dEQI8eLF7oqlS3iV8aH24"
+        },
+        {
+          "name": "Nawab Khan",
+          "url": "https://open.spotify.com/artist/36jHfTqq00vX3h5qu1yuWO"
+        },
+        {
+          "name": "Deol Harman",
+          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
         }
       ],
-      "duration_ms": 201419,
-      "name": "Aadatan",
-      "url": "https://open.spotify.com/track/0VKgIuXoAXsLGv5dwMq5jN"
+      "duration_ms": 172173,
+      "name": "Mi Precioso",
+      "url": "https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -179,30 +287,6 @@
       "duration_ms": 198857,
       "name": "MERA YAAR",
       "url": "https://open.spotify.com/track/5EkuhS6Fxi7JgwaNJaaVvB"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
-        "name": "Sara Pind Mittran Da",
-        "url": "https://open.spotify.com/album/3TL1nlrJaZbhNArzLIHssl"
-      },
-      "artists": [
-        {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        },
-        {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        },
-        {
-          "name": "Ricky Khan",
-          "url": "https://open.spotify.com/artist/5QcmkDotvADr6cAYDdlRZQ"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Sara Pind Mittran Da",
-      "url": "https://open.spotify.com/track/2WYFqWFRaI1m8PCsdwRA6w"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -243,26 +327,6 @@
     {
       "added_at": "2024-07-10 04:29:51",
       "album": {
-        "name": "Hulaare",
-        "url": "https://open.spotify.com/album/5eKSNifZknKkVZKffxu2PE"
-      },
-      "artists": [
-        {
-          "name": "Shahat Gill",
-          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
-        },
-        {
-          "name": "Kaptaan",
-          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
-        }
-      ],
-      "duration_ms": 156330,
-      "name": "Hulaare",
-      "url": "https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
         "name": "Paisa",
         "url": "https://open.spotify.com/album/7jLJcHGDgJxbkJtxN14gh9"
       },
@@ -291,22 +355,6 @@
       "duration_ms": 169280,
       "name": "Ex Calling",
       "url": "https://open.spotify.com/track/2haaMSm6yleceFFnyyGhff"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
-        "name": "Hasrat",
-        "url": "https://open.spotify.com/album/0OLHeuf28IBn95ewH8142S"
-      },
-      "artists": [
-        {
-          "name": "Yuvraj Tung",
-          "url": "https://open.spotify.com/artist/7yqoq4MWdw2ZNyAKDqH0fE"
-        }
-      ],
-      "duration_ms": 198846,
-      "name": "Hasrat",
-      "url": "https://open.spotify.com/track/1fpooY2ysygMUZSeK8rxSB"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -379,50 +427,6 @@
       "duration_ms": 180000,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0UHAKKGEF136QPQBeOh2kk"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
-        "name": "Mi Precioso",
-        "url": "https://open.spotify.com/album/5y868NRUeKZvLnPtHnKC44"
-      },
-      "artists": [
-        {
-          "name": "Jas Chahal",
-          "url": "https://open.spotify.com/artist/1dEQI8eLF7oqlS3iV8aH24"
-        },
-        {
-          "name": "Nawab Khan",
-          "url": "https://open.spotify.com/artist/36jHfTqq00vX3h5qu1yuWO"
-        },
-        {
-          "name": "Deol Harman",
-          "url": "https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Mi Precioso",
-      "url": "https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U"
-      },
-      "artists": [
-        {
-          "name": "NADAR",
-          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
-        },
-        {
-          "name": "DaBrown",
-          "url": "https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC"
-        }
-      ],
-      "duration_ms": 214236,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc"
     },
     {
       "added_at": "2024-07-10 04:29:51",
@@ -671,22 +675,6 @@
       "duration_ms": 167211,
       "name": "Vanjara",
       "url": "https://open.spotify.com/track/6c3aaV7TSnCCnDAfPFwUAj"
-    },
-    {
-      "added_at": "2024-07-10 04:29:51",
-      "album": {
-        "name": "Chitte Te La Gyi",
-        "url": "https://open.spotify.com/album/05Jo6Av74UjT1l0FLRC3Bj"
-      },
-      "artists": [
-        {
-          "name": "Supernova Muzic",
-          "url": "https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Chitte Te La Gyi",
-      "url": "https://open.spotify.com/track/1dLBKArxfhzaw1JAD3VzDg"
     },
     {
       "added_at": "2024-07-10 04:29:51",

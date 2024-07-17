@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,922 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,937 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 27 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 |
 | 28 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 29 | [À l'envers](https://open.spotify.com/track/0f3acPxu7bt8ukIWqUZJAE) | [Sophie Grenier](https://open.spotify.com/artist/3JMrRREEeixveAxloDEuNS) | [À l'envers](https://open.spotify.com/album/4jMPq40oVFbvtZIl5GWoRT) | 2:44 |
-| 30 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:45 |
+| 30 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 |
 | 31 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 |
 | 32 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 |
 | 33 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 |

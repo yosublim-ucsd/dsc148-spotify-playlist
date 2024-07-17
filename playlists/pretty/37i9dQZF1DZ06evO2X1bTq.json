@@ -1,12 +1,12 @@
 {
-  "description": "This Is U2. Los temas esenciales, todos en una lista.",
-  "num_followers": 1216323,
+  "description": "This is U2. The essential tracks, all in one playlist.",
+  "num_followers": 1216432,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAADvgnLPc7g2h7Jez1KCaLZl",
+  "snapshot_id": "ZpRmgAAAAADpMq/ZOHqvwt7FFv0mwd+t",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "Sunday Bloody Sunday - Remastered 2008",
+      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -75,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "New Year's Day",
+      "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -84,9 +148,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+      "duration_ms": 184543,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
     },
     {
       "added_at": null,
@@ -103,6 +167,22 @@
       "duration_ms": 193520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "Mysterious Ways",
+      "url": "https://open.spotify.com/track/50JK22El2PTIzZBU2liLDI"
     },
     {
       "added_at": null,
@@ -127,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 337505,
+      "name": "Where The Streets Have No Name - Remastered",
+      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattle And Hum",
         "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
@@ -143,42 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 184543,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/7ndGFo9nZ108KPgXtfYWCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3Lk7RWStfLaHG7lXsuS87j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -191,38 +251,6 @@
       "duration_ms": 298426,
       "name": "Stay (Faraway, So Close!)",
       "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattle And Hum",
-        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 389933,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 337505,
-      "name": "Where The Streets Have No Name - Remastered",
-      "url": "https://open.spotify.com/track/4qgZs0RNjdzKAS22lP0QjY"
     },
     {
       "added_at": null,
@@ -259,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 389933,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atomic City",
         "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
@@ -271,26 +315,6 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattle And Hum",
-        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "When Love Comes To Town",
-      "url": "https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB"
     },
     {
       "added_at": null,
@@ -331,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9"
       },
       "artists": [
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 252162,
-      "name": "Every Breaking Wave",
-      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
+      "duration_ms": 254266,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB"
     },
     {
       "added_at": null,
@@ -359,6 +387,22 @@
       "duration_ms": 226626,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 252162,
+      "name": "Every Breaking Wave",
+      "url": "https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol"
     },
     {
       "added_at": null,
@@ -395,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1980 - 1990",
-        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Bad - Edit",
-      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -423,6 +451,22 @@
       "duration_ms": 296240,
       "name": "Walk On",
       "url": "https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Bad - Edit",
+      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
     },
     {
       "added_at": null,
@@ -459,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Line On The Horizon",
-        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 324013,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -487,6 +515,22 @@
       "duration_ms": 220733,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/1NBf3nsIIaBTikQzV5hICg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 324013,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
     },
     {
       "added_at": null,
@@ -767,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 269053,
-      "name": "The Fly",
-      "url": "https://open.spotify.com/track/4nBln1vXTHnJzXvNgvXyIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -795,38 +823,6 @@
       "duration_ms": 444306,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "October (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Gloria - Remastered 2008",
-      "url": "https://open.spotify.com/track/2HAJf8ZoSXeHfmcC8mS7nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 390506,
-      "name": "Zooropa",
-      "url": "https://open.spotify.com/track/0mGtbkb9zSSxZo1h3qXIDZ"
     }
   ],
   "unique_name": "This Is U2",

@@ -4,7 +4,7 @@
 
 > Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
-138 songs - 11 hr 3 min
+139 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [DOA](https://open.spotify.com/track/7Jvht2ZKSBpiKTYy7qj6qc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Aimee Blackschleger](https://open.spotify.com/artist/7rFMYhsVx0XJQ9sqVgEZAd) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:26 | 2022-02-08 |  |
 | [E.M.A](https://open.spotify.com/track/7rzja9bo3uucVXzVDSBOWi) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 5:42 | 2022-06-21 | 2024-04-19 |
 | [ELO](https://open.spotify.com/track/5udbUimtsff6w1Ekx6sMCN) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Attack On Titan The Final Season Original Soundtrack 02](https://open.spotify.com/album/6ZhZFePX82sWsRzKMdaprL) | 4:41 | 2022-06-21 | 2024-04-19 |
-| [EL○](https://open.spotify.com/track/5LwaIhoULK2am3iNK7xXWb) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:41 | 2022-06-21 |  |
+| [EL○](https://open.spotify.com/track/5LwaIhoULK2am3iNK7xXWb) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」 The Final Season Original Soundtrack 02](https://open.spotify.com/album/4r4YoIuTNdMJIbm5Z9Jamx) | 4:41 | 2022-06-21 | 2024-07-17 |
+| [EL○](https://open.spotify.com/track/7mBLkiiBW38YLIkuoUAfcc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 4:41 | 2024-07-16 |  |
 | [ERENthe標](https://open.spotify.com/track/0wdKJ64h5EuWkJ6PUcKaV4) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 6:23 | 2022-02-08 | 2022-06-22 |
 | [Eye\-Water](https://open.spotify.com/track/1EmEUcSo4TNbxR84er0edj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:01 | 2022-06-21 | 2024-04-19 |
 | [eye\-water](https://open.spotify.com/track/2UTbrDhTXrVmXidoUR81Q6) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」オリジナルサウンドトラック](https://open.spotify.com/album/0FV8hJPG7iVI9N3M24AFxR) | 3:01 | 2022-02-08 |  |

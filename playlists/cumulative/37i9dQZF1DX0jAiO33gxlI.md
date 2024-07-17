@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Magrão AllFavela
 
-697 songs - 1 day 12 hr 59 min
+698 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cachimbo da Paz 2](https://open.spotify.com/track/2ZeG4NqS9tRoUa6LGjAP2I) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:42 | 2023-08-21 | 2023-12-09 |
 | [Cachorrinho Branco e Preto \(feat\. Coruja Bc1\)](https://open.spotify.com/track/7Fq25d1uMgqMaIevy7jZ8J) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [OFF MODE](https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev) | 2:22 | 2023-08-25 | 2023-09-23 |
 | [Cadência 23](https://open.spotify.com/track/77mnm8Dpd1HxCFm9bZqy1W) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Cadência 23](https://open.spotify.com/album/50V8oa9Bus7jtQuoNyRiaD) | 3:23 | 2023-02-03 | 2023-03-11 |
+| [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 | 2024-07-16 |  |
 | [Caminho pro Seu Ouvido \- Remix](https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Caminho pro Seu Ouvido \(Remix\)](https://open.spotify.com/album/1RdMg2ve6GxQGYDtpClLXJ) | 2:35 | 2024-03-22 | 2024-05-11 |
 | [Caminhos](https://open.spotify.com/track/4QfGmkG2qfcY44aLAszbqr) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Caminhos](https://open.spotify.com/album/0MSPw4SE2tpYxRHXUkE1Jo) | 2:38 | 2023-02-03 | 2023-02-11 |
 | [Cansei de Ouvir Trap](https://open.spotify.com/track/0O7sWK79TpnOYYkdd8l9GU) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Cansei de Ouvir Trap Mixtape](https://open.spotify.com/album/5j9OB2EfeWOhLBNo1sNy5s) | 1:46 | 2023-08-25 | 2023-09-16 |

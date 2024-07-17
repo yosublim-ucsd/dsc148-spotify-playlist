@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,491 likes - 97 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,521 likes - 97 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 15 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
 | 16 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
 | 17 | [HOLD TIGHT](https://open.spotify.com/track/289tmBFmHQMK6smVI5V1z2) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [BBYGIRL EP](https://open.spotify.com/album/4EnIgXTSRQmLbgBd92heFR) | 2:17 |
-| 18 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:56 |
+| 18 | [Fault Line](https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Fault Line](https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI) | 3:49 |
 | 19 | [Heavenly Hell \(ft\. Ne\-Yo\)](https://open.spotify.com/track/37lbQkTnqNQ2H3mGvhh7AE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Paragon](https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI) | 3:20 |
 | 20 | [Somebody's Pleasure](https://open.spotify.com/track/0hNtWQ9RYoBTwdepbiYG5W) | [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [DJ Yasmin](https://open.spotify.com/artist/4ziXL8IhPh3fw3pif9gOhD) | [Somebody's Pleasure](https://open.spotify.com/album/4MA2h19I4WLmz90xL0aDpd) | 3:13 |
 | 21 | [Hollow](https://open.spotify.com/track/5lodyAArEOmxYZkSguH7w0) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Azuria](https://open.spotify.com/artist/2CbtXNriZFZ0hb6w4G5Vcv) | [Hollow](https://open.spotify.com/album/3TYPSQMaX5hsHVPjmAAVII) | 3:16 |

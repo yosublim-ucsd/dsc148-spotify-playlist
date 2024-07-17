@@ -1,12 +1,12 @@
 {
-  "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21516,
+  "description": "This is: Lourena. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 21527,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpMVAAAAAAD8ENzoxrVaNUi0RXo340uu",
+  "snapshot_id": "ZpRmgAAAAACxAFG83yW/tLNC4x8qWbS6",
   "tracks": [
     {
       "added_at": null,
@@ -1155,34 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desacelerar",
-        "url": "https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB"
-      },
-      "artists": [
-        {
-          "name": "Cabelera",
-          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Cortuah",
-          "url": "https://open.spotify.com/artist/7kGUzXplnvy1ID4H75a6TA"
-        },
-        {
-          "name": "Pedro Malcher",
-          "url": "https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Desacelerar",
-      "url": "https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
         "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
@@ -1227,6 +1199,34 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desacelerar",
+        "url": "https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB"
+      },
+      "artists": [
+        {
+          "name": "Cabelera",
+          "url": "https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Cortuah",
+          "url": "https://open.spotify.com/artist/7kGUzXplnvy1ID4H75a6TA"
+        },
+        {
+          "name": "Pedro Malcher",
+          "url": "https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Desacelerar",
+      "url": "https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm"
     },
     {
       "added_at": null,

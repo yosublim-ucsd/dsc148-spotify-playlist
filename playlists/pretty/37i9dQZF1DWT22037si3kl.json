@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
-  "num_followers": 139125,
+  "num_followers": 139231,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "DIAS ANTES DO CAOS",
-        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "TAMBOR",
-      "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 200757,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "TAMBOR",
+      "url": "https://open.spotify.com/track/6lUV4vN68pfhLI4k0NSBYP"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        }
+      ],
+      "duration_ms": 131111,
+      "name": "Estrela do Rap",
+      "url": "https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 170647,
       "name": "N\u00fameros da Sorte",
       "url": "https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        }
-      ],
-      "duration_ms": 131111,
-      "name": "Estrela do Rap",
-      "url": "https://open.spotify.com/track/6m1sOoKp7asednKyzmlAXX"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 183414,
       "name": "Hostil",
       "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2024-07-12 03:01:00",

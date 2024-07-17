@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 267500,
       "name": "Chellakili",
       "url": "https://open.spotify.com/track/10LpBN7lIpBa2cP6qfXvb3"
@@ -11185,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "Gajaana",
+        "url": "https://open.spotify.com/album/2lQgdm37gmocEky3bqvHWC"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321262,
+      "name": "Kagidha Megam",
+      "url": "https://open.spotify.com/track/3tvgiA7LSL96zhDvWwxWNf"
+    },
+    {
+      "album": {
         "name": "Kahani (From \"Laal Singh Chaddha\") [TAMIL]",
         "url": "https://open.spotify.com/album/5YnLMP8DKZX39giEyPCnL6"
       },
@@ -14525,6 +14543,36 @@
     },
     {
       "album": {
+        "name": "Double ISMART (Tamil)",
+        "url": "https://open.spotify.com/album/1uFUnkFIMikT7IofHYKdXB"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "T. Kothandaraman",
+          "url": "https://open.spotify.com/artist/0pS7qL1UfGJoYjd4Pd2mdq"
+        },
+        {
+          "name": "Chavali Sameera",
+          "url": "https://open.spotify.com/artist/1irttnjiupXPmfzdgGu6e2"
+        },
+        {
+          "name": "D. Mohan Dev",
+          "url": "https://open.spotify.com/artist/2Lc6Q39MTMjdBvTmgI98Nd"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231202,
+      "name": "Maar Muntha Chod Chinta",
+      "url": "https://open.spotify.com/track/7HsoD6qD9Kj7d8WEkO9a1Z"
+    },
+    {
+      "album": {
         "name": "Maaradhey (From \"Athomugam\")",
         "url": "https://open.spotify.com/album/14fNHe2EeBX8hJiLR3GRa2"
       },
@@ -14790,7 +14838,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 236212,
       "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja"
@@ -24772,7 +24820,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 314230,
       "name": "Sidu Sidu",
       "url": "https://open.spotify.com/track/1RQxUwPxG0Yv5VBvdds4kE"
@@ -25328,7 +25376,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 248918,
       "name": "Sollu (From \"VM ORIGINALS - Season 1\")",
       "url": "https://open.spotify.com/track/2Hwd07KC1h2ISM2zCuyv5D"

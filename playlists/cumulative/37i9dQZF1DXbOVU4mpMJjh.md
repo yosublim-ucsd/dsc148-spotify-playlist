@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,200 songs - 3 day 8 hr 38 min
+1,201 songs - 3 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,7 @@
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-06 |  |
 | [Little Birdy Bean](https://open.spotify.com/track/4vkgxZq0GhzUt6Ta7e4RFO) | [Billy Buss Quartet](https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF) | [Little Birdy Bean](https://open.spotify.com/album/5yjGBYwU32GcZvR9GKD0Ja) | 3:15 | 2024-02-23 |  |
 | [Little by Little](https://open.spotify.com/track/7g7Vv0WnwNwOFnrdHVVepW) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Little by Little](https://open.spotify.com/album/4LKa943xAqsfz0sU9n2y4m) | 4:30 | 2024-07-01 |  |
-| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 |  |
+| [Little Friends](https://open.spotify.com/track/1XG86L7eVEwRN5wuD6E26T) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Little Friends](https://open.spotify.com/album/31CEY462P9AKYSnixdu46b) | 3:03 | 2023-06-15 | 2024-07-17 |
 | [Little Paradise](https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Little Paradise](https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5) | 4:59 | 2022-04-14 | 2022-06-09 |
 | [Live Off The Juice](https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Live Off The Juice](https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA) | 3:22 | 2023-03-16 |  |
 | [Lock and Key](https://open.spotify.com/track/4OwHfJGfIGluHa3pi7nwlM) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 5:18 | 2022-04-14 | 2022-09-16 |
@@ -838,6 +838,7 @@
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2022-04-14 | 2022-04-30 |
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 |  |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-20 |  |
+| [Remembering You](https://open.spotify.com/track/2Glz9Yidu0tZ8ty4YdFill) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Remembering You](https://open.spotify.com/album/1qtn8Ikd6dPrEdnceSw87o) | 3:10 | 2024-07-15 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-10 |  |
 | [Rendezvous in Rhythm](https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Rendezvous in Rhythm](https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E) | 3:12 | 2023-11-17 |  |
 | [Retrato em Branco e Preto](https://open.spotify.com/track/1xVkHfbwx5bJlB1D2dTXtH) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Retrato em Branco e Preto](https://open.spotify.com/album/543v6uPTErc9gMOQJaBhRP) | 7:54 | 2022-08-29 | 2022-09-23 |

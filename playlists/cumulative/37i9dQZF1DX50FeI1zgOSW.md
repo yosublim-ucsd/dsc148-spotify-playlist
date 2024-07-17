@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-313 songs - 18 hr 1 min
+314 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Endrum Unnodu](https://open.spotify.com/track/0UMp5xcRfGgqBqeqrj1uQ0) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Endrum Unnodu](https://open.spotify.com/album/7mkgAiq1Ux0OQLrPR0rEeX) | 3:12 | 2023-06-09 | 2023-06-27 |
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-03-21 | 2023-09-26 |
 | [Engu Poven?](https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Engu Poven?](https://open.spotify.com/album/4paIGcasxYVK8teL1wZqnT) | 3:36 | 2024-06-14 |  |
+| [enna vittu](https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC) | [AE Prince](https://open.spotify.com/artist/1PD5zYoXUX1xKPcV0TOHgS) | [enna vittu](https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6) | 1:16 | 2024-07-16 |  |
 | [Fake Escobar](https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Fake Escobar](https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy) | 2:38 | 2024-01-16 | 2024-03-01 |
 | [FLYHIGH](https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [FLYHIGH \- Tamil](https://open.spotify.com/album/4jSkcXuCqfl9fJ1rpOEQ7w) | 3:55 | 2023-06-29 | 2024-02-01 |
 | [Gang Hood](https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Ice Roy](https://open.spotify.com/artist/6DQkxcm0dnMxOHybgePB7r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Gang Hood](https://open.spotify.com/album/36airy06GYpsfs4FStuLDI) | 3:00 | 2023-07-17 | 2024-02-13 |

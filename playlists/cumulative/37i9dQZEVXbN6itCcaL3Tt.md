@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,791 songs - 3 day 19 hr 56 min
+1,792 songs - 3 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [deszcz pada na namiot](https://open.spotify.com/track/4coP0qBRLkB01IG1iHXR3X) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Julia Mikuła](https://open.spotify.com/artist/34h9tDUEvmwAVRuESr6nlB), [Ka\-Meal](https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9) | [DRAMAT.](https://open.spotify.com/album/1Ygk47YphDLdNZiB2FfVgi) | 3:27 | 2021-03-30 | 2021-04-01 |
 | [Diamentowy Las](https://open.spotify.com/track/0FvivPj6W2AZD4x2rpVKiS) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Diamentowy Las](https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs) | 2:41 | 2021-05-09 | 2021-05-16 |
 | [DIAMENTY](https://open.spotify.com/track/59J3FoTvDMkyA6ldqwbKXC) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [RODZINNY BIZNES](https://open.spotify.com/album/1GabBOxzyUPjkELZE0b3HS) | 2:45 | 2022-12-18 | 2022-12-24 |
+| [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-16 |  |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2023-03-18 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-17 |
@@ -1030,7 +1031,7 @@
 | [Nawiedzony dom](https://open.spotify.com/track/1ZBOgphzRPANN4IFOU9L3H) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [Nawiedzony dom](https://open.spotify.com/album/1R7RAEaC6WflG7Yr32Jb7U) | 2:25 | 2024-06-24 | 2024-06-30 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-12 |
 | [NDA](https://open.spotify.com/track/1LTAYhorx76972Pr5ZOk8b) | [SVM!R](https://open.spotify.com/artist/4K8wRpyAE3Cwq4q5Jpgpdh) | [NDA](https://open.spotify.com/album/6AyR9OVzXt4FokEcjtautT) | 2:46 | 2024-07-08 |  |
-| [Ne Rozumiju](https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [BLINDBOX](https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0) | 3:20 | 2023-11-29 |  |
+| [Ne Rozumiju](https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [BLINDBOX](https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0) | 3:20 | 2023-11-29 | 2024-07-17 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-07-28 | 2021-08-31 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-13 | 2023-04-23 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-07-19 | 2022-01-03 |

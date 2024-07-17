@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Aether Whisper",
+        "url": "https://open.spotify.com/album/23DGAfZKA6yQX0Y8dMx3Tn"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Aether Whisper",
+      "url": "https://open.spotify.com/track/1iMGEvfZOmurGHSaMkMGlc"
+    },
+    {
+      "album": {
         "name": "Dhy\u0101na",
         "url": "https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 164364,
       "name": "Bells And Bowls",
       "url": "https://open.spotify.com/track/71UCdDQmLAGy1is3CnfLwR"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 280954,
       "name": "Mixed Meditation Bowl Sounds",
       "url": "https://open.spotify.com/track/4w9bLHuNZlrvvv8E2vaFYN"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 840000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1CxcMYB5hP79FQRHwP0GcM"
@@ -992,6 +1010,24 @@
       "duration_ms": 143179,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/4dGYytZBGnFHEzJUqMyxdn"
+    },
+    {
+      "album": {
+        "name": "Rishikesh",
+        "url": "https://open.spotify.com/album/0nzxXTeG3Lo22GP8omBXzN"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223061,
+      "name": "Rishikesh",
+      "url": "https://open.spotify.com/track/2FsHFnOQFNMD1xK4x77OAz"
     },
     {
       "album": {
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 273578,
       "name": "Texture Gong 2",
       "url": "https://open.spotify.com/track/1x0OidOskhLSDyUzdMz1Kc"
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 720446,
       "name": "Tibetan Gong and Singing Bowls",
       "url": "https://open.spotify.com/track/5qvn4keL08R5R3WWwaiO7t"
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 205714,
       "name": "Tibetan Meditation Sound",
       "url": "https://open.spotify.com/track/20n08PSmecgBE06F9I7aAO"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 279399,
       "name": "Tibetan Singing Bowls for Meditation",
       "url": "https://open.spotify.com/track/34cMqUnRsM1azvtiC4jruB"

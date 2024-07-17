@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "frozen kiss & imperfect love",
+        "url": "https://open.spotify.com/album/1ec1G9tjJMC8GjBQMtge5N"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161934,
+      "name": "frozen kiss",
+      "url": "https://open.spotify.com/track/6R1H9Z89KDuRtt8h9PvKeu"
+    },
+    {
+      "album": {
         "name": "Glance Out A Casement Window",
         "url": "https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L"
       },

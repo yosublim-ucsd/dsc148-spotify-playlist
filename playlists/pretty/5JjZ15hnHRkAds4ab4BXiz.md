@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 395 songs - 1 day 1 hr 26 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 398 songs - 1 day 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,5 +403,8 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 393 | [Venus In Furs](https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 5:12 |
 | 394 | [Possibilities](https://open.spotify.com/track/4lYzgVFaTWuhiG3vBhRBk5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 1:59 |
 | 395 | [I Don't Owe You Anything \- 2011 Remaster](https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 4:04 |
+| 396 | [Tonight You Are Mine](https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Ultraviolet Disguise \(Deluxe Edition\)](https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm) | 3:50 |
+| 397 | [Neon Roses](https://open.spotify.com/track/0s1PsjRpN9v3gveUOM6Iux) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Metaphysical](https://open.spotify.com/album/0oWKnbYnV4rzCcZoo6DWP2) | 3:56 |
+| 398 | [Space Cadet](https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Sweat](https://open.spotify.com/album/3UGEWESDelTk6ppL1SMYM2) | 4:48 |
 
-Snapshot ID: `AAAGb8emZkeravkLTOwqTLxxaASa82s5`
+Snapshot ID: `AAAGclkbyDi/x+2X1MWjXS28Xf9kpasK`

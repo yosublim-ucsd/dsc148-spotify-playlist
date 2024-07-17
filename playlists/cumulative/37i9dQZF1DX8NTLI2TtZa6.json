@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/0nDDkyNJSj5UzzCXPlNndR"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164464,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/598l5oslNMIA4FLWMnhIjq"
+    },
+    {
+      "album": {
         "name": "Cotton Tale",
         "url": "https://open.spotify.com/album/5g6VsUEKvMkDNMqzvLJ9CT"
       },
@@ -8846,6 +8864,24 @@
       "duration_ms": 182668,
       "name": "Verlorene Liebe",
       "url": "https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL"
+    },
+    {
+      "album": {
+        "name": "Viaggio",
+        "url": "https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158913,
+      "name": "Viaggio",
+      "url": "https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R"
     },
     {
       "album": {

@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 164850,
       "name": "Downtown (feat. NCO)",
       "url": "https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75"
@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Mit\u00e4 m\u00e4 teen? (sped up)",
+        "url": "https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy"
+      },
+      "artists": [
+        {
+          "name": "Varkemaa",
+          "url": "https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Mit\u00e4 m\u00e4 teen?",
+      "url": "https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9"
+    },
+    {
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -1322,7 +1340,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181146,
-      "name": "My Oh My - with Bebe Rexha & Tove Lo",
+      "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {

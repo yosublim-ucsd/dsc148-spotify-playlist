@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Plan De La Mariposa",
-  "num_followers": 133405,
+  "num_followers": 133440,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-06-14 16:51:09",
       "album": {
-        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Birabent",
-          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
-        }
-      ],
-      "duration_ms": 185590,
-      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
-      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
-    },
-    {
-      "added_at": "2024-06-14 16:51:09",
-      "album": {
         "name": "La Llama",
         "url": "https://open.spotify.com/album/20mTTEnxl8XxXYVplAdxMm"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 234674,
       "name": "La Llama",
       "url": "https://open.spotify.com/track/6uT7AhIuuUnzNA3KUc2Vk4"
+    },
+    {
+      "added_at": "2024-06-14 16:51:09",
+      "album": {
+        "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+        "url": "https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Birabent",
+          "url": "https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "La Canci\u00f3n que Peg\u00f3 en el Palo",
+      "url": "https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj"
     },
     {
       "added_at": "2024-06-14 16:51:09",

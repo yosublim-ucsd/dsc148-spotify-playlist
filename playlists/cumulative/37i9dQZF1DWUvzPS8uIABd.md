@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Mouhous.
 
-82 songs - 3 hr 55 min
+83 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Maljapuhe](https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Maljapuhe](https://open.spotify.com/album/67W0t8gyf1vasqr0k8zCUh) | 2:38 | 2024-07-02 |  |
 | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM) | 2:54 | 2024-07-02 |  |
 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-02 |  |
+| [Mitä mä teen?](https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen? \(sped up\)](https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy) | 3:39 | 2024-07-16 |  |
 | [My Type](https://open.spotify.com/track/01ObZaXP84IzVsPezAOaCM) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [My Type](https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj) | 2:39 | 2024-07-02 | 2024-07-05 |
 | [Norppa kivellä](https://open.spotify.com/track/2zFDRptDDg9FC5ZFM0UINl) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Norppa kivellä](https://open.spotify.com/album/6zmw2zvlJilM3McRXvmIgg) | 2:46 | 2024-07-02 | 2024-07-12 |
 | [Nössöö elämää](https://open.spotify.com/track/2j2PrCc78t95Z1UiSMYJjB) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Nössöö elämää](https://open.spotify.com/album/7gaDjn3N035NDekrWIV9Cg) | 3:25 | 2024-07-02 |  |

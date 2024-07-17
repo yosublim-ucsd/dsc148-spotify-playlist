@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-772 songs - 1 day 20 hr 21 min
+773 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [Feeling Low](https://open.spotify.com/track/4tVVyEKRJZCyoEWC3rqy8t) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Feeling Low](https://open.spotify.com/album/2j2CO9BIpL1aGgVtKqvqqp) | 2:55 | 2024-06-10 |  |
 | [Feelings](https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Feelings](https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l) | 3:52 | 2023-02-17 | 2023-05-09 |
 | [Feels Like Home](https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [The Return](https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T) | 3:11 | 2021-12-08 | 2022-03-12 |
-| [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 |  |
+| [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 | 2024-07-17 |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-04-20 | 2023-07-15 |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-02 | 2024-02-16 |
 | [Fight Me](https://open.spotify.com/track/2VMjr4nR9QptTiGOabyeFt) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Fight Me](https://open.spotify.com/album/2cCk1i1D2XQaclGYqaa5oY) | 3:51 | 2023-10-18 | 2024-02-02 |
@@ -437,6 +437,7 @@
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
 | [Mothership](https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Mothership](https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE) | 4:03 | 2023-07-04 | 2023-09-26 |
 | [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 | 2023-02-16 | 2023-05-09 |
+| [Much Is Taken, Much Abides](https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Much Is Taken, Much Abides](https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ) | 3:26 | 2024-07-16 |  |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
 | [Murda](https://open.spotify.com/track/2FZgVtcQhxPTeWJw7TZy3q) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Murda](https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1) | 3:00 | 2021-11-19 | 2022-02-09 |
 | [My Heart’s on Fire](https://open.spotify.com/track/6kIduXkQyuc3hP28wgntnJ) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Qvckslvr](https://open.spotify.com/artist/59dor9AF3qBCxesH4MKQ6M) | [My Heart’s on Fire](https://open.spotify.com/album/1PjXmgO0le7vEsrAW732b2) | 3:11 | 2022-10-27 | 2023-01-12 |

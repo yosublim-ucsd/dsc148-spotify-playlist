@@ -1,13 +1,37 @@
 {
   "description": "LUCKI, born and raised on the internet.",
-  "num_followers": 1395613,
+  "num_followers": 1395570,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnW0qAAAAAC18yp+26SVRYWVATQYkmZ+",
+  "snapshot_id": "ZpZ+CgAAAABGddKJ/RbQzO1gW1ylW4Hu",
   "tracks": [
+    {
+      "added_at": "2024-07-16 14:04:58",
+      "album": {
+        "name": "Fuck All The Opps",
+        "url": "https://open.spotify.com/album/0iqfb9xXvn2Cso7ink6ZBl"
+      },
+      "artists": [
+        {
+          "name": "J4That0oter",
+          "url": "https://open.spotify.com/artist/332UeMBqYqEtYyulhnrrvM"
+        },
+        {
+          "name": "PFA Leek",
+          "url": "https://open.spotify.com/artist/1vxOOb598YZp1CLdXQIgK1"
+        },
+        {
+          "name": "Rivtwer AJ",
+          "url": "https://open.spotify.com/artist/2OPTLyeXOIvn3pBWBK7PlC"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Fuck All The Opps",
+      "url": "https://open.spotify.com/track/1dAuSAE5eL94xV0aIyPCr3"
+    },
     {
       "added_at": "2024-06-14 21:52:03",
       "album": {
@@ -1771,26 +1795,6 @@
       "duration_ms": 146000,
       "name": "Bombs Away",
       "url": "https://open.spotify.com/track/6ihzpb4wOYkZut6iEC1MHE"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Mozzarella",
-        "url": "https://open.spotify.com/album/5XS2sDLBks5lLsQlD4uEuq"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        },
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        }
-      ],
-      "duration_ms": 170732,
-      "name": "Mozzarella",
-      "url": "https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX"
     }
   ],
   "unique_name": "Internet People",

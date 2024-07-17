@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 22355,
+  "num_followers": 22363,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
         "name": "Santana's Greatest Hits",
         "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 196466,
       "name": "Black Magic Woman - Single Version",
       "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
         "name": "Dulce Beat",
         "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 187546,
       "name": "Me Pregunto",
       "url": "https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 256933,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
+        "name": "Lu",
+        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
+      },
+      "artists": [
+        {
+          "name": "LU",
+          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Por Besarte",
+      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
-        "name": "Lu",
-        "url": "https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq"
-      },
-      "artists": [
-        {
-          "name": "LU",
-          "url": "https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Por Besarte",
-      "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "Y si tuviera disquera",
-        "url": "https://open.spotify.com/album/5P10nyZ4SFfmBJHRss7I1U"
+        "name": "Tal y cual",
+        "url": "https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP"
       },
       "artists": [
         {
-          "name": "Disidente",
-          "url": "https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L"
+          "name": "Pito Perez",
+          "url": "https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Decidir",
-      "url": "https://open.spotify.com/track/7DT6NuQBHmsSvA1RWuxoeX"
+      "duration_ms": 216066,
+      "name": "Locamente enamorado",
+      "url": "https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ"
     }
   ],
   "unique_name": "Coraz\u00f3n Tapat\u00edo",

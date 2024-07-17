@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 850521,
+  "num_followers": 850795,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Yo No Nac\u00ed para Amar",
+      "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 205560,
       "name": "Despues De Tanto",
       "url": "https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Con Olor a Hierba",
-      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 266013,
-      "name": "Yo No Nac\u00ed para Amar",
-      "url": "https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS"
+      "duration_ms": 219826,
+      "name": "Con Olor a Hierba",
+      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Por Una Mujer",
-        "url": "https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Rio Rebelde",
-      "url": "https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 162040,
       "name": "Digan lo que digan",
       "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Por Una Mujer",
+        "url": "https://open.spotify.com/album/7nsnSpfQp5tpELjZwWmcyg"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Rio Rebelde",
+      "url": "https://open.spotify.com/track/2PSotAVp5KY6HBEhlRzwvV"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Boleros Inolvidables II",
-        "url": "https://open.spotify.com/album/1NISxuaHQ7AeZzmRb3VNLs"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Las tres cosas",
-      "url": "https://open.spotify.com/track/25H6Wi2xwsE3cr8Bn4ak6G"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 192840,
       "name": "A la Que Vive Contigo",
       "url": "https://open.spotify.com/track/5URxTay6Nl0ZAk7jhVexsj"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Boleros Inolvidables II",
+        "url": "https://open.spotify.com/album/1NISxuaHQ7AeZzmRb3VNLs"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Las tres cosas",
+      "url": "https://open.spotify.com/track/25H6Wi2xwsE3cr8Bn4ak6G"
     },
     {
       "added_at": "2021-04-22 14:20:49",

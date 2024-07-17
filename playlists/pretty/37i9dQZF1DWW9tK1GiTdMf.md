@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🖤 cover: sethu e sally cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,645 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,644 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 53 | [kurushi](https://open.spotify.com/track/3DtfvGCRL77nMLklPe8YtP) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Anima Macchina](https://open.spotify.com/album/1PGQhh1dihyATc0TXieDKQ) | 2:38 |
 | 54 | [girovagando](https://open.spotify.com/track/51xnhQmZHeJAOrr9kIJA6d) | [NXXSE](https://open.spotify.com/artist/7uO8L2XSELB1DBwiZjdBab) | [girovagando](https://open.spotify.com/album/4o09SBwtCq2GUDmpKh0nE5) | 3:05 |
 | 55 | [SEROTONINA](https://open.spotify.com/track/6yMYR2CTxVPa1If4Qe3AVx) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [SEROTONINA](https://open.spotify.com/album/5QnugKAe67cmVm2gsOLWCt) | 2:26 |
-| 56 | [COME MAI](https://open.spotify.com/track/0gd6xXtjEbjaZiGGQ90GcI) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [COME MAI](https://open.spotify.com/album/3BK6QXVnZFzn2jTJyCX4Nz) | 2:01 |
+| 56 | [COME MAI](https://open.spotify.com/track/0gd6xXtjEbjaZiGGQ90GcI) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [COME MAI](https://open.spotify.com/album/3BK6QXVnZFzn2jTJyCX4Nz) | 2:01 |
 | 57 | [LOSER SOLO PER TE](https://open.spotify.com/track/3erP9xWlchFJCYHHdQG8Nk) | [Melody Fall](https://open.spotify.com/artist/2FzBfLO85pYbw7sZ9LdHys) | [LOSER SOLO PER TE](https://open.spotify.com/album/2J8wtMmG9qjBhknuh59GZO) | 3:00 |
 | 58 | [Gothic Royelle//Qui Da Me](https://open.spotify.com/track/5IzQeUGrRCk159gTHtChLd) | [16healty](https://open.spotify.com/artist/2Pu1Z7dXooPujGpfdSbD54), [GOTH BOY](https://open.spotify.com/artist/5qY66yewoZoSpxFxeABuhj) | [Gothic Royelle//Qui Da Me](https://open.spotify.com/album/6dYd6W7g2port6VMhmyj8T) | 2:35 |
 | 59 | [QUELLE VOLTE CHE TI HO ODIATO](https://open.spotify.com/track/7DBZy42cZcN3fHC32bVPNT) | [MANU ROC](https://open.spotify.com/artist/5uwVgGZOxoWYt5AikAEim8), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [QUELLE VOLTE CHE TI HO ODIATO](https://open.spotify.com/album/3Z4KDvq8wNi8NFTyLQ6Acn) | 2:45 |

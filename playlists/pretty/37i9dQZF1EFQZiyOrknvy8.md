@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266 likes - 140 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 140 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 33 | [See You](https://open.spotify.com/track/3nmWV4qvKl7rPdX99SyQem) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:30 |
 | 34 | [Auf halbem Weg](https://open.spotify.com/track/61lfeRJrq2bOyok9CBeQrA) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 2:59 |
 | 35 | [PAY ME BACK!](https://open.spotify.com/track/0XO1KK7qiUGVK8t3FZdM4w) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [PAY ME BACK!](https://open.spotify.com/album/0FdEEw1vJvO8hCUJUoYjRd) | 3:08 |
-| 36 | [Kreis \(feat\. Bausa\)](https://open.spotify.com/track/7eQUk2rv2k38e2ATgzbCTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:05 |
-| 37 | [Immer wieder](https://open.spotify.com/track/7JOxQdjkLecM210GYk1dPk) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 2:26 |
+| 36 | [Immer wieder](https://open.spotify.com/track/7JOxQdjkLecM210GYk1dPk) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 2:26 |
+| 37 | [Kreis \(feat\. Bausa\)](https://open.spotify.com/track/7eQUk2rv2k38e2ATgzbCTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:05 |
 | 38 | [Nie zu Ende](https://open.spotify.com/track/4A09o8LWcPhvQoGk1dHGnJ) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:03 |
 | 39 | [Abreißen](https://open.spotify.com/track/2Vk9WfzfzbzXRkAu7Gixwq) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Neu erzählen](https://open.spotify.com/album/0hQxTlc00nOIwjL52YXnQy) | 2:52 |
 | 40 | [Sie](https://open.spotify.com/track/4liaF9MHLmGB25THZZkkw8) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 3:00 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 127 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 |
 | 128 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 |
 | 129 | [Delfine](https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei \(Deluxe Edition\)](https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq) | 3:09 |
-| 130 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
-| 131 | [sommer im regen](https://open.spotify.com/track/1b13KFdvFNKQheoHS5rGUr) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 2:02 |
+| 130 | [sommer im regen](https://open.spotify.com/track/1b13KFdvFNKQheoHS5rGUr) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 2:02 |
+| 131 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
 | 132 | [Not About You](https://open.spotify.com/track/2qxVLzNuYZ5krJAhUQmC1E) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Stay](https://open.spotify.com/album/6hLb1BSmPR9aglZsak7vHT) | 3:31 |
 | 133 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
 | 134 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbWyvgAAAABLYhMJdYnUaoVyQPcXtaF3`
+Snapshot ID: `AbW4IgAAAAA1qzkWhoYBSdVmGe71AGVc`

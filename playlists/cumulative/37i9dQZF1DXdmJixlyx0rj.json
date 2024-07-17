@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA, Closet Yi)",
+  "description": "New & best K-Electronic music is here. (Cover: NECTA)",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 193767,
       "name": "Better Off (feat. FLANNEL ALBERT)",
       "url": "https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 211506,
       "name": "Criminal - SUMIN Remix",
       "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "DOWNFALL",
+        "url": "https://open.spotify.com/album/76u6XROCDq6ruK7x5Z4DRt"
+      },
+      "artists": [
+        {
+          "name": "Choi jin soul",
+          "url": "https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "DOWNFALL",
+      "url": "https://open.spotify.com/track/3B6FXHASndfG4AymIFJVIV"
+    },
+    {
+      "album": {
         "name": "Dynamite (DayTime Version)",
         "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
       },
@@ -1194,6 +1212,36 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/76I6Pdo52wrdlapdmfdVxb"
+      },
+      "artists": [
+        {
+          "name": "JOPH",
+          "url": "https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D"
+        },
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        },
+        {
+          "name": "ClueAt",
+          "url": "https://open.spotify.com/artist/59PMe4dFTfh6xdsnCQOhZV"
+        },
+        {
+          "name": "DNYDK",
+          "url": "https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1uq7SvgHEMMMace8HP06Tz"
     },
     {
       "album": {
@@ -1626,7 +1674,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-17",
       "duration_ms": 168000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw"
@@ -3060,6 +3108,24 @@
       "duration_ms": 157252,
       "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
       "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+    },
+    {
+      "album": {
+        "name": "SEROTONIN",
+        "url": "https://open.spotify.com/album/5RNFZGKdcv3CWhUKMNs7AG"
+      },
+      "artists": [
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170440,
+      "name": "SEROTONIN",
+      "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
     },
     {
       "album": {

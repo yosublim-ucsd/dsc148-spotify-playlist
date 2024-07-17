@@ -6027,6 +6027,24 @@
     },
     {
       "album": {
+        "name": "Viaggio",
+        "url": "https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158913,
+      "name": "Viaggio",
+      "url": "https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R"
+    },
+    {
+      "album": {
         "name": "Vive Le Piano",
         "url": "https://open.spotify.com/album/00k5SO4QMgdArz37NefkHW"
       },

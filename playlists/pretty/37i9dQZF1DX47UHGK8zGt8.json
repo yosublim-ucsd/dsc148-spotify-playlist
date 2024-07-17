@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 553924,
+  "num_followers": 554092,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Meu Canto - EP",
         "url": "https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 230786,
       "name": "Me Espera",
       "url": "https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
-        "name": "Ensaio Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 181276,
-      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
+        "name": "Ensaio Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Velha Inf\u00e2ncia - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY"
     },
     {
       "added_at": "2024-06-28 03:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-06-28 03:00:00",
       "album": {
+        "name": "Indigo Borboleta Anil",
+        "url": "https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 229550,
+      "name": "Antes de Tudo",
+      "url": "https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7"
+    },
+    {
+      "added_at": "2024-06-28 03:00:00",
+      "album": {
         "name": "M\u00fasica para Casar",
         "url": "https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V"
       },
@@ -875,26 +891,6 @@
       "duration_ms": 149576,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"
-    },
-    {
-      "added_at": "2024-06-28 03:00:00",
-      "album": {
-        "name": "Noite",
-        "url": "https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 211376,
-      "name": "Noite",
-      "url": "https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy"
     },
     {
       "added_at": "2024-06-28 03:00:00",
