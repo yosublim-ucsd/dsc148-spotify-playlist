@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Korashe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,091 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,203 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 9 | [Me jode](https://open.spotify.com/track/2Cn6flTGpTY7vdYdYkJMkR) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Me jode](https://open.spotify.com/album/7u9TgGLN0UxJ2H2ukoSSEo) | 3:13 |
 | 10 | [nada.](https://open.spotify.com/track/7CJb7uclCM7EfSUqtUH38N) | [Aren Martin](https://open.spotify.com/artist/4RK7b5enfCZ7DmrZCChxoi) | [signos ¿](https://open.spotify.com/album/6pgLL2dzVt1PFH8mKsDnKo) | 2:06 |
 | 11 | [fuego del cielo](https://open.spotify.com/track/0M0eNMrR9TFuCJKFEjnOAr) | [killdevil](https://open.spotify.com/artist/5vpWVMn0QugjvV7SkztUEH) | [fuego del cielo](https://open.spotify.com/album/12Dkpe3gVBbIqZ16z7ns3s) | 3:09 |
-| 12 | [No\_hook\_freestyle](https://open.spotify.com/track/1eNqNV50NcPy9tVZY11cnF) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv), [JuanDiego](https://open.spotify.com/artist/0JhVcudMCGJ0pSLeKI21kG) | [No\_hook\_freestyle](https://open.spotify.com/album/52udiImKo0CfzGuiUbvzbF) | 2:48 |
+| 12 | [No\_hook\_freestyle](https://open.spotify.com/track/1eNqNV50NcPy9tVZY11cnF) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv) | [No\_hook\_freestyle](https://open.spotify.com/album/52udiImKo0CfzGuiUbvzbF) | 2:48 |
 | 13 | [suerte](https://open.spotify.com/track/2lKJalUclt5vtblmR5apIB) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [suerte](https://open.spotify.com/album/0ZJV1STaqX2Kcw3qkibxRM) | 2:50 |
 | 14 | [HACER TEATRO](https://open.spotify.com/track/3so52dZJbgrqhU2rBrNiuM) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [HACER TEATRO](https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan) | 2:39 |
 | 15 | [TA\-PU!](https://open.spotify.com/track/6OYv2drTDRm7gbkcHOREm5) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [TA\-PU!](https://open.spotify.com/album/79fBtxry9QZjGgWlxlZDib) | 2:15 |

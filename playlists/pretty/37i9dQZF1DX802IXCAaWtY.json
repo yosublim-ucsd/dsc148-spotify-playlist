@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1242997,
+  "num_followers": 1243481,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
-        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Be My Lover",
-      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 255546,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Captain Jack",
-        "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
-      },
-      "artists": [
-        {
-          "name": "Captain Jack",
-          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Captain Jack - Short Mix",
-      "url": "https://open.spotify.com/track/09uma8kvpf699ailOSlzds"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "To The Maxximum",
         "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 281933,
       "name": "No More (I Can't Stand It)",
       "url": "https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Captain Jack",
+        "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Captain Jack - Short Mix",
+      "url": "https://open.spotify.com/track/09uma8kvpf699ailOSlzds"
     },
     {
       "added_at": "2024-07-15 19:54:53",

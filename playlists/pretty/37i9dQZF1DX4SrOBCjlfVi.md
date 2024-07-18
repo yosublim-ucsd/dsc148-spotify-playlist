@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BossMan Dlow & Lil Baby, Eminem, Ice Spice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,569 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,667 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 17 | [Ghetto Boyz](https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Ghetto Boyz](https://open.spotify.com/album/40chibcpJl6iVoRkdKk4ql) | 2:13 |
 | 18 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 |
 | 19 | [Outta There](https://open.spotify.com/track/6sHkE2T4aajGIgasxsZvNW) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Outta There](https://open.spotify.com/album/2vYEXF5x4W5Ns3tSWwlAOO) | 3:35 |
-| 20 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
+| 20 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
 | 21 | [Fun](https://open.spotify.com/track/3aaS6yVkS9JPZMu4aXNxnx) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Fun](https://open.spotify.com/album/2bj3i9pQ0ZkmI1mGSwskt4) | 2:14 |
 | 22 | [she ain't leaving](https://open.spotify.com/track/77C7L8ZhYt4aBKQ2ljewV2) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [she ain't leaving](https://open.spotify.com/album/2oGUkbWuOyJjnbawOxCAmB) | 2:40 |
 | 23 | [i'm so tired](https://open.spotify.com/track/4p3KnnHKwXk0x9Yv5gHrx6) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [i'm so tired](https://open.spotify.com/album/2jBv5T0o3KtwOgWEvBz9Nk) | 2:17 |

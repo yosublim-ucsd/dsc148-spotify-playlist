@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 195232,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ"
@@ -9526,6 +9526,24 @@
       "duration_ms": 129828,
       "name": "Slowly \u6162\u6162\u5730",
       "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
+    },
+    {
+      "album": {
+        "name": "Snow-covered gardens",
+        "url": "https://open.spotify.com/album/5Xlzu7o4j2rTV3H2F4aLfF"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "Snow-covered gardens",
+      "url": "https://open.spotify.com/track/3DlgODi91SEXoYmgpVSc2U"
     },
     {
       "album": {

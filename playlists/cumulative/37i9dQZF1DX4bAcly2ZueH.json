@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 215106,
       "name": "arne",
       "url": "https://open.spotify.com/track/2EbOv3Xq9fnqhIUSxqZgRG"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 136530,
       "name": "GOOODBYE FOREVER",
       "url": "https://open.spotify.com/track/757t86dILxUPEpgtaEppFM"
@@ -1474,6 +1474,24 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "album": {
@@ -2559,6 +2577,28 @@
     },
     {
       "album": {
+        "name": "Snow Magic",
+        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "GOODSHIT",
+          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182684,
+      "name": "Snow Magic",
+      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+    },
+    {
+      "album": {
         "name": "Somnolent Nova",
         "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
       },
@@ -2694,6 +2734,24 @@
       "duration_ms": 168750,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
+    },
+    {
+      "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "album": {
@@ -3280,7 +3338,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 160000,
       "name": "\u5929\u4f7f Lo-fi (instrumentals)",
       "url": "https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be"

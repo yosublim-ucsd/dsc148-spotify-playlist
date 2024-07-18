@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5147,
+  "num_followers": 5150,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAB9spsPcizXB0lg6Uu9hnyO",
+  "snapshot_id": "ZpW4AAAAAACl5jj5Ow1TbmrJV6NcFFtt",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Above Chiangmai - Remastered 2004",
-      "url": "https://open.spotify.com/track/0ycQOJSAh2HXg1DaKLGoRX"
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 133706,
-      "name": "The Chill Air - Remastered 2004",
-      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 253893,
-      "name": "The Plateaux Of Mirror - Remastered 2004",
-      "url": "https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU"
+      "duration_ms": 230853,
+      "name": "Not Yet Remembered - Remastered 2004",
+      "url": "https://open.spotify.com/track/1kxf6rOZTJh2rVMIqkMpFm"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Among Fields Of Crystal - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
+      "duration_ms": 238240,
+      "name": "Wind In Lonely Fences - Remastered 2004",
+      "url": "https://open.spotify.com/track/31aECKjYHYUwWApiOaLLU2"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The White Arcades",
-        "url": "https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane 12-21",
         "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
@@ -699,6 +683,26 @@
       "duration_ms": 204960,
       "name": "Jane 16 (For Pale Saints)",
       "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
     },
     {
       "added_at": null,
@@ -735,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The White Arcades",
+        "url": "https://open.spotify.com/album/4dYNNHW2lybWJTrWGdxhdN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/5Hteljp3KgrQJKSI86YXCL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -748,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 85586,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -775,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 63506,
-      "name": "The Room Obscured",
-      "url": "https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Budd Box (Spotify Only)",
         "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
@@ -803,6 +807,22 @@
       "duration_ms": 37200,
       "name": "Poem: Wings",
       "url": "https://open.spotify.com/track/189q6zRiaLFn7ohmubP3xm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 63506,
+      "name": "The Room Obscured",
+      "url": "https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc"
     },
     {
       "added_at": null,
@@ -820,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
+      "duration_ms": 76066,
+      "name": "Avenue of Trees",
+      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
     },
     {
       "added_at": null,
@@ -859,22 +879,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
       "artists": [
         {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 76066,
-      "name": "Avenue of Trees",
-      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Avenue of Shapes",
+      "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk into My Voice (American Beat Poetry)",
+        "url": "https://open.spotify.com/album/1j56unWUj9tJXybKXW2QWr"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Daniel Lentz",
+          "url": "https://open.spotify.com/artist/1ZQoNPK02AD5iWU6HcPb1f"
+        },
+        {
+          "name": "Jessica Karraker",
+          "url": "https://open.spotify.com/artist/1HcLZmhJNwYJqmYt6UGIaq"
+        }
+      ],
+      "duration_ms": 36240,
+      "name": "Note - Poem by Michael Mcclure",
+      "url": "https://open.spotify.com/track/4WwBgTjX0flq7O24n5pd0O"
     }
   ],
   "unique_name": "This Is Harold Budd",

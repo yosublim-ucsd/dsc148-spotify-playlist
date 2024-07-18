@@ -1,6 +1,6 @@
 {
   "description": "No hay nada como una Rumba Colombiana. \u00a1Hasta el amanecer! Foto: Fonseca y Grupo Niche",
-  "num_followers": 95024,
+  "num_followers": 95030,
   "original_name": "Rumba Colombiana",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "Persona Ideal",
-        "url": "https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 283272,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
-    },
-    {
-      "added_at": "2024-07-12 18:43:55",
-      "album": {
         "name": "Nicky Jam Hits",
         "url": "https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx"
       },
@@ -899,18 +883,38 @@
     {
       "added_at": "2024-07-12 18:43:55",
       "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
+        "name": "Persona Ideal",
+        "url": "https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 309920,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+      "duration_ms": 283272,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
+    },
+    {
+      "added_at": "2024-07-12 18:43:55",
+      "album": {
+        "name": "Bella (Remix)",
+        "url": "https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Bella - Remix",
+      "url": "https://open.spotify.com/track/0SKhd6uBssOAqEvlLuUr3s"
     }
   ],
   "unique_name": "Rumba Colombiana",

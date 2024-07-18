@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
+  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
   "name": "This Is H\u00e9ctor Lavoe",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Comedia",
       "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 262680,
       "name": "El Todopoderoso",
       "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"

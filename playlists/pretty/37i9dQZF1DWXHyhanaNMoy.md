@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,263 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,368 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 49 | [Yu](https://open.spotify.com/track/1dW46GRu7OnjnlMJsOcMoT) | [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Yu](https://open.spotify.com/album/4Jl0QjOzox1CTftGjpkmam) | 2:25 |
 | 50 | [All Night Long](https://open.spotify.com/track/5SCdqmybgdABx5f53HkwhP) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [All Night Long](https://open.spotify.com/album/1jDzIRpKbVAnOMGKaztPsQ) | 2:46 |
 | 51 | [Keeper](https://open.spotify.com/track/4JdEDm25kiFS9pxNUs2bPN) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Keeper](https://open.spotify.com/album/3NVMLm66TK5iDnp7Cl9dQ2) | 2:35 |
-| 52 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 |
+| 52 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Leska](https://open.spotify.com/artist/0kRb2OhvXmS14Bop8FzFoS) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 |
 | 53 | [Tiffany](https://open.spotify.com/track/5alGFMfqBYoo1ifkYblVDb) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Love Doesn't Exist](https://open.spotify.com/album/0DHt2wzzyU2VHGLDjlAuVs) | 2:50 |
 | 54 | [Jij Bent Het](https://open.spotify.com/track/2n8tEYDOkHJnHhu3DdKjKk) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Jij Bent Het](https://open.spotify.com/album/3fa5PRokqVLjVg98LAJASp) | 2:28 |
 | 55 | [Lavish Dance](https://open.spotify.com/track/29dbzELQ5D6E4L64vR3PWg) | [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV), [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R), [Keess](https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp) | [Lavish Dance](https://open.spotify.com/album/65EJ6sSV54ay7BGgde5Z3E) | 2:41 |

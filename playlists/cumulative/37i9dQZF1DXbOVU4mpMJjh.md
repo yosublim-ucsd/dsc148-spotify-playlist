@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,201 songs - 3 day 8 hr 41 min
+1,202 songs - 3 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beatrice](https://open.spotify.com/track/3fZQ7I7lDN2DZQJHuJ70Ly) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Beatrice](https://open.spotify.com/album/4g1qHBpSJiWwjhLyX27ypB) | 3:35 | 2023-01-19 |  |
 | [Beatrice](https://open.spotify.com/track/30qPlOpLeJWD1mASyON1po) | [Westend Jazz Trio](https://open.spotify.com/artist/0HaG0FgLppnqm1WHvtzUXu) | [Beatrice](https://open.spotify.com/album/1VJRaHnjfgwtQVlCV2NcQb) | 2:55 | 2022-04-14 | 2022-10-08 |
-| [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 | 2023-08-31 |  |
+| [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 | 2023-08-31 | 2024-07-18 |
 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 | 2022-04-14 | 2022-07-29 |
 | [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-06-30 | 2022-09-16 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-09 | 2024-05-24 |
@@ -321,6 +321,7 @@
 | [Falling Grace](https://open.spotify.com/track/0vLU35fijEKlVuu2JbUEII) | [South West Cafe Trio](https://open.spotify.com/artist/0kOnFzBXtdnnGpJ4FDt3Zg) | [Falling Grace](https://open.spotify.com/album/0SrkYsvTohCSDBBggVTqH2) | 3:31 | 2022-04-14 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Falling In Love With Love](https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB) | 2:54 | 2023-05-04 |  |
 | [Far Away](https://open.spotify.com/track/2ZHa8rERyPepL1OpQAtpMj) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Far Away](https://open.spotify.com/album/5CVFwTeaHhFg1d3fbJEruV) | 4:24 | 2023-06-15 |  |
+| [Fascination](https://open.spotify.com/track/2iu9GQDNp55dFtU2pKPxPt) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Fascination](https://open.spotify.com/album/4dKHTNMNgrQmHOtYLvFn8M) | 4:23 | 2024-07-15 |  |
 | [Featherlight](https://open.spotify.com/track/3nWm3nnIZio7LaEaXKzRGK) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Featherlight](https://open.spotify.com/album/1fsYJbaE0j3oqb5gu6r8GC) | 3:15 | 2024-04-17 |  |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-23 | 2024-04-19 |
 | [Fever For The Mood](https://open.spotify.com/track/26ENAUpv3pVXxkPj95wW6y) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Fever For The Mood](https://open.spotify.com/album/0DagNxGIB87J6nmz7ibdUF) | 3:29 | 2023-03-09 |  |

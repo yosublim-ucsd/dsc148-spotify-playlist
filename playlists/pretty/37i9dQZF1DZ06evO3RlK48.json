@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 14457,
+  "num_followers": 14456,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAB1YJ/38alXpqH0CQ3igtIy",
+  "snapshot_id": "ZpW4AAAAAAA3BWVwg8xBJn810BfqzAwH",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at The Greek Theatre in Los Angeles",
-        "url": "https://open.spotify.com/album/1tpRaW0oobL8NV7gZTJ4fS"
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
       },
       "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 291775,
-      "name": "Everything - Live at The Greek Theatre in Los Angeles",
-      "url": "https://open.spotify.com/track/2gkcER3TrQbRACJM8Yd7wZ"
+      "duration_ms": 189720,
+      "name": "What's Love (feat. MUNA)",
+      "url": "https://open.spotify.com/track/5IZQWMhxasWC2KrsRiHnoR"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+        "name": "Live at The Greek Theatre in Los Angeles",
+        "url": "https://open.spotify.com/album/1tpRaW0oobL8NV7gZTJ4fS"
       },
       "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 189720,
-      "name": "What's Love (feat. MUNA)",
-      "url": "https://open.spotify.com/track/5IZQWMhxasWC2KrsRiHnoR"
+      "duration_ms": 291775,
+      "name": "Everything - Live at The Greek Theatre in Los Angeles",
+      "url": "https://open.spotify.com/track/2gkcER3TrQbRACJM8Yd7wZ"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Way",
-        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 200772,
-      "name": "In My Way",
-      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tegan and Sara Present the Con X: Covers",
         "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 177320,
       "name": "Relief Next to Me",
       "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Way",
+        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 200772,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
     },
     {
       "added_at": null,

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+        "url": "https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30b9\u30a2\u30cb\uff01RADIO",
+          "url": "https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2049813,
+      "name": "#57 \u3084\u3063\u3071\u308a\u30b9\u30b4\u3044\u2026\u300c\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u300d\uff0f\u5ef6\u9577\u6226\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u00d7\u30a2\u30cb\u30e1\u8ad6\uff0f\u6b21\u306f\u3053\u3093\u306a\u201c\u97f3\u697d\u00d7\u30a2\u30cb\u30e1\u201d\u304c\u89b3\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/episode/6pyG4hpwSayfUGhbfk0H6V"
+    },
+    {
+      "album": {
         "name": "Shinjitsu eno Shingeki",
         "url": "https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH"
       },
@@ -1606,6 +1624,32 @@
       "duration_ms": 215240,
       "name": "Fight!!",
       "url": "https://open.spotify.com/track/1iP5hkXzkunOzhWT3jgexc"
+    },
+    {
+      "album": {
+        "name": "Fighting My Way",
+        "url": "https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "\u82b1\u6d77\u54b2\u5b63",
+          "url": "https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Fighting My Way",
+      "url": "https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi"
     },
     {
       "album": {
@@ -3236,6 +3280,32 @@
       "duration_ms": 266506,
       "name": "Lun ga Pikatto Hikattara -album version-",
       "url": "https://open.spotify.com/track/561uURkxpWeD2o8auY4rDa"
+    },
+    {
+      "album": {
+        "name": "Luna say maybe",
+        "url": "https://open.spotify.com/album/7t9VsesCOhXdQHqYCAUsgY"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        },
+        {
+          "name": "\u6708\u6751\u624b\u6bec",
+          "url": "https://open.spotify.com/artist/1TdCkttAqnqM1TqyjwXqGi"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265266,
+      "name": "Luna say maybe",
+      "url": "https://open.spotify.com/track/0zxyK9Ih5rnN485VY73bUp"
     },
     {
       "album": {
@@ -8734,6 +8804,24 @@
       "duration_ms": 244746,
       "name": "\u51db",
       "url": "https://open.spotify.com/track/5KeZzt4mImRvIo4TCRQxqm"
+    },
+    {
+      "album": {
+        "name": "\u521d",
+        "url": "https://open.spotify.com/album/1XXM251lifPbi1DsfMw9yf"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317801,
+      "name": "\u521d",
+      "url": "https://open.spotify.com/track/57FixxAqlbcbQdg9fIG5Ep"
     },
     {
       "album": {

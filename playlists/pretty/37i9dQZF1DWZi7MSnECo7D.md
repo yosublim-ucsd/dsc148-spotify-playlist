@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Jambu
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,103 likes - 71 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,028 likes - 71 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

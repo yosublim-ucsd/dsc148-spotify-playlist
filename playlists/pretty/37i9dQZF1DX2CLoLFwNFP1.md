@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,298 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,332 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 90 | [Me Like Yuh](https://open.spotify.com/track/7isBxyC54TWpjrWAD2DqKL) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:43 |
 | 91 | [V](https://open.spotify.com/track/0QwWVdreIp1dJZLPHxhLpX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/3rPMmkJnHMZVqGejpjD1ii) | 3:47 |
 | 92 | [RUN IT](https://open.spotify.com/track/3rMDfuxGyBLyI46q1xgSoA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Run It](https://open.spotify.com/album/6vko8JQNpg4Hg886cpFbvF) | 3:11 |
-| 93 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 |
-| 94 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/3CzPGSRkE7gaipkc2MVErN) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/6eqexjjzD9jIMheYt4p5qP) | 4:37 |
-| 95 | [Replay](https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 2:43 |
-| 96 | [All The Way Up \(K\)](https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/6qJ6mDO8ZgAlmYrdYmfPtj) | 3:43 |
-| 97 | [Yacht \(K\) \[feat\. Sik\-K\]](https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Yacht \(K\) \(feat\. Sik\-K\)](https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl) | 4:06 |
-| 98 | [REBORN](https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm) | 3:55 |
-| 99 | [2nd Thots](https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:44 |
-| 100 | [I Like 2 Party \(Remastered\)](https://open.spotify.com/track/7LSPwkstWZsVYd48Le4Lgs) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Evolution](https://open.spotify.com/album/5nDgTF3gUrgk9UZmUHonhp) | 3:55 |
+| 93 | [Solo \(feat\. Hoody\)](https://open.spotify.com/track/1HKHCSBqNz6LSsufXGcb5q) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:39 |
+| 94 | [ENGINE](https://open.spotify.com/track/7m0AVCxRcpR8Q5j1tUICVT) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/4vDAFQNHJfcpq8sK4Ggop2) | 3:40 |
+| 95 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/3CzPGSRkE7gaipkc2MVErN) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/6eqexjjzD9jIMheYt4p5qP) | 4:37 |
+| 96 | [Replay](https://open.spotify.com/track/6y4QxuBZiFSX8iKphnK3gt) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 2:43 |
+| 97 | [All The Way Up \(K\)](https://open.spotify.com/track/6lp2MvqEBSdL3L84GAvl4o) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [All The Way Up](https://open.spotify.com/album/6qJ6mDO8ZgAlmYrdYmfPtj) | 3:43 |
+| 98 | [Yacht \(K\) \[feat\. Sik\-K\]](https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Yacht \(K\) \(feat\. Sik\-K\)](https://open.spotify.com/album/7s6Cjus2U5giBB0mZxN2jl) | 4:06 |
+| 99 | [REBORN](https://open.spotify.com/track/1CyTCsONfJ1IdUjOHtQgeV) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/2hDjVKHLLiCgkqe6unmyHm) | 3:55 |
+| 100 | [2nd Thots](https://open.spotify.com/track/4vYr4W0t855qPXGPTFp5ky) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:44 |
 
 Snapshot ID: `ZoO+MQAAAADPRRhp+8RDKQu9WJGRwNB0`

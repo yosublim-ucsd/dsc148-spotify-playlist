@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
-  "num_followers": 964014,
+  "num_followers": 964118,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-07-15 13:04:32",
       "album": {
+        "name": "Mi + 1",
+        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        },
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Mi + 1",
+      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
+    },
+    {
+      "added_at": "2024-07-15 13:04:32",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 177000,
       "name": "Sin Filtro",
       "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-07-15 13:04:32",
-      "album": {
-        "name": "Mi + 1",
-        "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        },
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Mi + 1",
-      "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
     },
     {
       "added_at": "2024-07-15 13:04:32",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-236 songs - 10 hr 24 min
+237 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [FUK SUMN](https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:29 | 2024-02-12 | 2024-02-16 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-02-15 | 2024-02-17 |
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-29 | 2024-04-23 |
+| [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
 | [Haunted House](https://open.spotify.com/track/6pgZZ8xfIBewpXeeVvIjyl) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 2:33 | 2024-01-29 | 2024-02-05 |
 | [HOW ARE U](https://open.spotify.com/track/4Ypw4Et7oz04ZL9Reizi9u) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3), [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [HOW ARE U](https://open.spotify.com/album/5Ba3n0vGf3XDDVZh4UIE0h) | 2:16 | 2024-02-17 | 2024-02-20 |
 | [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 | 2024-01-29 | 2024-07-08 |
@@ -89,7 +90,7 @@
 | [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 | 2024-07-07 |  |
 | [SUNSHINE IN JULY](https://open.spotify.com/track/7AaEI5nXd7NZQlhq8cKJQ8) | [Xenia](https://open.spotify.com/artist/4c13QPiKh4XE8FNqXr28FU) | [SUNSHINE IN JULY](https://open.spotify.com/album/2m619MA58ou1A8gyun1OHT) | 2:40 | 2024-06-10 | 2024-06-22 |
 | [Supersonic](https://open.spotify.com/track/4o9kHw0XBJfGazV6bgttU4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:44 | 2024-06-29 |  |
-| [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2024-07-16 |  |
+| [Sweet Night](https://open.spotify.com/track/3Wno87vVBVbSVS2vUUFuKC) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/3Y0g1Cgg3DPMvNoaOgfeT7) | 3:34 | 2024-07-16 | 2024-07-18 |
 | [Take A Chance \- Original Mix](https://open.spotify.com/track/7eCLNLhr19WI7NC8xbTHN9) | [KenKei](https://open.spotify.com/artist/6u31L6JzyhqgNJJnu5TYWX), [good shepherd](https://open.spotify.com/artist/6CqiBIlPiA0INQP2UFfFz2), [Alyssa B](https://open.spotify.com/artist/2dcRg55ANkwKk87s6vTG66) | [Take A Chance / Upside Down](https://open.spotify.com/album/3Rg3nfWqIivGBW2dqSRcjb) | 4:52 | 2024-06-15 | 2024-06-17 |
 | [Take me back](https://open.spotify.com/track/7qG5XXyjO6CPeYOiriZ4Qb) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d) | [Daydream](https://open.spotify.com/album/3z417GZz3Blz83BSyaniDb) | 2:14 | 2024-06-01 | 2024-06-03 |
 | [Taz Muzik](https://open.spotify.com/track/0sakZDi0XsTdFRrDtJZR0N) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:43 | 2024-06-29 | 2024-07-05 |

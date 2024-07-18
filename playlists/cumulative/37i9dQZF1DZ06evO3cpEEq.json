@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "This is: Felicity Urquhart. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Felicity Urquhart. The essential tracks, all in one playlist.",
   "name": "This Is Felicity Urquhart",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 170560,
       "name": "As You Lay Sleeping",
       "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 202546,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd"

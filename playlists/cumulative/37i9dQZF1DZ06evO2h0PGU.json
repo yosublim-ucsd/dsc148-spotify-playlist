@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 383893,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 109480,
       "name": "Man",
       "url": "https://open.spotify.com/track/6LinqKaMUsazZ5NG2H1fyG"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
@@ -842,6 +842,24 @@
       "duration_ms": 177693,
       "name": "Mystery Girl",
       "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"
+    },
+    {
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314493,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/50SlUsduTdMTgpitQtv26O"
     },
     {
       "album": {
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Shame And Fortune",
+      "url": "https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe"
+    },
+    {
+      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -1018,7 +1054,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 211466,
       "name": "Shame And Fortune",
       "url": "https://open.spotify.com/track/1eQZHXR9wmz17x38aksm4z"
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 240760,
       "name": "Y Control",
       "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"

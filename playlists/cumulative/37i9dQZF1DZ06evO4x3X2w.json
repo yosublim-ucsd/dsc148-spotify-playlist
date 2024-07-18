@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is \u30a8\u30a2\u30ed\u30b9\u30df\u30b9\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "name": "This Is \u30a8\u30a2\u30ed\u30b9\u30df\u30b9",
+  "description": "This is Aerosmith. The essential tracks, all in one playlist.",
+  "name": "This Is Aerosmith",
   "tracks": [
     {
       "album": {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 316826,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 338958,
       "name": "Seasons of Wither",
       "url": "https://open.spotify.com/track/0SsvUArQazkyJjXINv4Wnl"

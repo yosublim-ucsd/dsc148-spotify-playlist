@@ -794,7 +794,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 265532,
       "name": "Evening Embrace",
       "url": "https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb"
@@ -1102,6 +1102,24 @@
       "duration_ms": 235106,
       "name": "La Moraima",
       "url": "https://open.spotify.com/track/7HyhgyD0eSVk4S40w5V9e1"
+    },
+    {
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT"
+      },
+      "artists": [
+        {
+          "name": "Elior",
+          "url": "https://open.spotify.com/artist/1fD2SIrAayRGtlgt06VU9M"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184878,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/0mDtRjCnkXPCSA9zI61SxR"
     },
     {
       "album": {
@@ -1656,6 +1674,24 @@
       "duration_ms": 279960,
       "name": "Sole\u00e1",
       "url": "https://open.spotify.com/track/7ET84OBxMtONNtsmsDyifG"
+    },
+    {
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ"
+      },
+      "artists": [
+        {
+          "name": "Young & Rollins",
+          "url": "https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297401,
+      "name": "Spanish Nights",
+      "url": "https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b"
     },
     {
       "album": {

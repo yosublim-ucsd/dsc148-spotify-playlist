@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 1437,
+  "num_followers": 1496,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "In Search of Peace",
-        "url": "https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb"
-      },
-      "artists": [
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "A Breath of Fresh Air",
-      "url": "https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Sonatina",
         "url": "https://open.spotify.com/album/28sxvPZfJSRNw0yOwZ3pPU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 165235,
       "name": "Afternoon Calm",
       "url": "https://open.spotify.com/track/48GxDUMiiTQ4e7EvsU5hRq"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "In Search of Peace",
+        "url": "https://open.spotify.com/album/276Q8fWLfzZPp16nnH9dqb"
+      },
+      "artists": [
+        {
+          "name": "DaniSogen",
+          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "A Breath of Fresh Air",
+      "url": "https://open.spotify.com/track/35TPzWmdsSgpfJ9zp8p3tt"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Kick This",
-        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+          "name": "midnight alpha.",
+          "url": "https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK"
+        },
+        {
+          "name": "Nothingtosay",
+          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Sunflower Samurai",
-      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
+      "duration_ms": 184620,
+      "name": "Winter Gardens",
+      "url": "https://open.spotify.com/track/37U2FOUuvlZKhtwvWbsita"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -771,38 +775,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6"
+        "name": "Kick This",
+        "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
       },
       "artists": [
         {
-          "name": "midnight alpha.",
-          "url": "https://open.spotify.com/artist/5bGpu7IGzmlPjg4cCx85tK"
-        },
-        {
-          "name": "Nothingtosay",
-          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
         }
       ],
-      "duration_ms": 184620,
-      "name": "Winter Gardens",
-      "url": "https://open.spotify.com/track/37U2FOUuvlZKhtwvWbsita"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
-      },
-      "artists": [
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 128372,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+      "duration_ms": 262000,
+      "name": "Sunflower Samurai",
+      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -819,6 +803,22 @@
       "duration_ms": 195500,
       "name": "Shinrin",
       "url": "https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 128372,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Motorbikes in Sapa",
         "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 172288,
       "name": "Motorbikes in Sapa",
       "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Beauty in the Ruins",
+        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Flutters",
+      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Road to Kiyomizu",
         "url": "https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb"
       },
@@ -1007,42 +1027,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "In Harmony With Nature",
-        "url": "https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK"
-      },
-      "artists": [
-        {
-          "name": "Plant Guy",
-          "url": "https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH"
-        }
-      ],
-      "duration_ms": 128820,
-      "name": "Beyond Imagination",
-      "url": "https://open.spotify.com/track/65WcwboLuUCResbw2zAsov"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Beauty in the Ruins",
-        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Flutters",
-      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 91436,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "In Harmony With Nature",
+        "url": "https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK"
+      },
+      "artists": [
+        {
+          "name": "Plant Guy",
+          "url": "https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH"
+        }
+      ],
+      "duration_ms": 128820,
+      "name": "Beyond Imagination",
+      "url": "https://open.spotify.com/track/65WcwboLuUCResbw2zAsov"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "rest & be thankful",
-        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
-      },
-      "artists": [
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "I Eat Plants for a Living",
-          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
-        }
-      ],
-      "duration_ms": 126430,
-      "name": "rest & be thankful",
-      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1147,18 +1127,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+        "name": "rest & be thankful",
+        "url": "https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8"
       },
       "artists": [
         {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "I Eat Plants for a Living",
+          "url": "https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+      "duration_ms": 126430,
+      "name": "rest & be thankful",
+      "url": "https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1179,8 +1163,24 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Stillness in Motion",
+        "url": "https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7"
       },
       "artists": [
         {
@@ -1188,13 +1188,13 @@
           "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         },
         {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
+      "duration_ms": 181714,
+      "name": "Silver Lake",
+      "url": "https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
-      },
-      "artists": [
-        {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
-        }
-      ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Torimichi",
         "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 281739,
       "name": "Torimichi",
       "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Journey To Osaka",
+        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+      },
+      "artists": [
+        {
+          "name": "Aoko",
+          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
+        }
+      ],
+      "duration_ms": 175799,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Drifting Smoke",
         "url": "https://open.spotify.com/album/6AzZmCJhhE7bmRamjbaIDQ"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Journey To Osaka",
-        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+        "name": "Peaceful Soul",
+        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
       },
       "artists": [
         {
-          "name": "Aoko",
-          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
         }
       ],
-      "duration_ms": 175799,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+      "duration_ms": 108963,
+      "name": "Peaceful Soul",
+      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1447,54 +1463,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Peaceful Soul",
-        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
-      },
-      "artists": [
-        {
-          "name": "Wolf Schranze",
-          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
-        }
-      ],
-      "duration_ms": 108963,
-      "name": "Peaceful Soul",
-      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Moonlit Tales",
-        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 198254,
-      "name": "In the Roses",
-      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
-      },
-      "artists": [
-        {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Narrow Road",
         "url": "https://open.spotify.com/album/4UNTRdYFqVCz2veOtIhALs"
       },
@@ -1515,18 +1483,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Yin & Yang",
-        "url": "https://open.spotify.com/album/39EMcDgPAlelOqPTG4F7Rk"
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
       "artists": [
         {
-          "name": "Naga",
-          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
         }
       ],
-      "duration_ms": 96294,
-      "name": "Formless",
-      "url": "https://open.spotify.com/track/1afgreY6DLR9VEvuXSQMlJ"
+      "duration_ms": 197616,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1551,6 +1519,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Yin & Yang",
+        "url": "https://open.spotify.com/album/39EMcDgPAlelOqPTG4F7Rk"
+      },
+      "artists": [
+        {
+          "name": "Naga",
+          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
+        }
+      ],
+      "duration_ms": 96294,
+      "name": "Formless",
+      "url": "https://open.spotify.com/track/1afgreY6DLR9VEvuXSQMlJ"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 221832,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Moonlit Tales",
+        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 198254,
+      "name": "In the Roses",
+      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Mountain Onsen",
-        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Mountain Onsen",
-      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Journey To Osaka",
         "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Night in Osaka",
-        "url": "https://open.spotify.com/album/2ELzmOvD9XSRfWgXkHe4ux"
+        "name": "Mountain Onsen",
+        "url": "https://open.spotify.com/album/32oRQ0n2t3EE6TfDY3Wh8n"
       },
       "artists": [
         {
-          "name": "Calenaur",
-          "url": "https://open.spotify.com/artist/047wXFHzvLbwQzcIIvy8T4"
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
         }
       ],
-      "duration_ms": 98572,
-      "name": "Stars of Mount Fuji",
-      "url": "https://open.spotify.com/track/4SVl0hPWCws7ZWTFf8LIwF"
+      "duration_ms": 161123,
+      "name": "Mountain Onsen",
+      "url": "https://open.spotify.com/track/3KNC1eUxSu4wKoXcCSxbj6"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1679,6 +1663,22 @@
       "duration_ms": 208000,
       "name": "Maiko's Hope",
       "url": "https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Answer Love",
+      "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
     },
     {
       "added_at": "2024-07-02 15:06:02",

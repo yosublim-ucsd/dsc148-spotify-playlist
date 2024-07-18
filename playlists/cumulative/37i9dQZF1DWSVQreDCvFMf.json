@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Baggages",
+        "url": "https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7"
+      },
+      "artists": [
+        {
+          "name": "Zeke Abella",
+          "url": "https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Baggages",
+      "url": "https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd"
+    },
+    {
+      "album": {
         "name": "Balang Araw Ay Mapapangiti ft. Zel Bautista of December Avenue",
         "url": "https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt"
       },
@@ -616,6 +634,24 @@
       "duration_ms": 268474,
       "name": "Karera",
       "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
+    },
+    {
+      "album": {
+        "name": "Kasayaw",
+        "url": "https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q"
+      },
+      "artists": [
+        {
+          "name": "Kiss n Tell",
+          "url": "https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250800,
+      "name": "Kasayaw",
+      "url": "https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa"
     },
     {
       "album": {
@@ -1644,6 +1680,24 @@
       "duration_ms": 222557,
       "name": "Tear Gas (2024)",
       "url": "https://open.spotify.com/track/1B1AHUhJvqYygjw0VKyilj"
+    },
+    {
+      "album": {
+        "name": "Teka Muna (Sandali)",
+        "url": "https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65"
+      },
+      "artists": [
+        {
+          "name": "Fly Mama!",
+          "url": "https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212564,
+      "name": "Teka Muna (Sandali)",
+      "url": "https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC"
     },
     {
       "album": {

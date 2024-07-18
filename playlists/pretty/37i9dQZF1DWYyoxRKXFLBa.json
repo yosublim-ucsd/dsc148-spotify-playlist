@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10082,
+  "num_followers": 10080,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Mdyssl",
         "url": "https://open.spotify.com/album/3FechyjHr69GRejwbQY6AK"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 185026,
       "name": "Chicle de Menta",
       "url": "https://open.spotify.com/track/73VqJSXXWF3pV5uqnuO92N"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "tu liga del pelo",
-        "url": "https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD"
-      },
-      "artists": [
-        {
-          "name": "babas tutsipop",
-          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "tu liga del pelo",
-      "url": "https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Cumplea\u00f1os y Funerales",
         "url": "https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 197853,
       "name": "El Cuerpo Que Habito",
       "url": "https://open.spotify.com/track/40CUrSilracUtZTKc7V2mN"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "tu liga del pelo",
+        "url": "https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "tu liga del pelo",
+      "url": "https://open.spotify.com/track/3tX4hFG4uCVgGVUWdZzK5z"
     },
     {
       "added_at": "2024-06-07 12:38:26",

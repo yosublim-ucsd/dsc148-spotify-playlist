@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,452 likes - 119 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,453 likes - 119 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

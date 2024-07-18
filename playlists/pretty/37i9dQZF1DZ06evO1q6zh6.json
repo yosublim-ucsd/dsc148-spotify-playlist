@@ -1,12 +1,12 @@
 {
-  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 167414,
+  "description": "This is Judas Priest. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 167453,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAAUxSiRnVMWmMQ6DseqV9Ou",
+  "snapshot_id": "ZpW4AAAAAAD7WiD1w5dcwohowk0F3Vcj",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/1Z0HPgl37AoZLX4er7oV5m"
+      "duration_ms": 278067,
+      "name": "Gates of Hell",
+      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 278067,
-      "name": "Gates of Hell",
-      "url": "https://open.spotify.com/track/2XGcAtlohzN8uDENnWT9k1"
+      "duration_ms": 259747,
+      "name": "The Serpent and the King",
+      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
     },
     {
       "added_at": null,
@@ -324,15 +324,15 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 259747,
-      "name": "The Serpent and the King",
-      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Hell Bent for Leather",
-      "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": null,
@@ -363,6 +363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Hell Bent for Leather",
+      "url": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invincible Shield (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 286507,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -379,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invincible Shield (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
@@ -388,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+      "duration_ms": 344400,
+      "name": "A Touch of Evil",
+      "url": "https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa"
     },
     {
       "added_at": null,
@@ -407,22 +439,6 @@
       "duration_ms": 203066,
       "name": "Before the Dawn",
       "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 344400,
-      "name": "A Touch of Evil",
-      "url": "https://open.spotify.com/track/08hn5vq1XnVmVQI4mfzsXa"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "The Green Manalishi (With the Two Pronged Crown)",
-      "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 237266,
       "name": "All Guns Blazing",
       "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "The Green Manalishi (With the Two Pronged Crown)",
+      "url": "https://open.spotify.com/track/6U63nKrxHvM76KOa6kpyfq"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Jawbreaker",
-      "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 289040,
       "name": "Between the Hammer & the Anvil",
       "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living After Midnight",
         "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 260160,
       "name": "The Hellion / Electric Eye",
       "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Freewheel Burning",
-      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 279400,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
+      "duration_ms": 264360,
+      "name": "Freewheel Burning",
+      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Some Heads Are Gonna Roll",
-      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
+      "duration_ms": 279400,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 323266,
       "name": "Rising From Ruins",
       "url": "https://open.spotify.com/track/1f2qbSrsGznurodPtpfjV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Some Heads Are Gonna Roll",
+      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 430826,
       "name": "Prisoner of Your Eyes",
       "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Rock Hard Ride Free",
-      "url": "https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq"
     },
     {
       "added_at": null,

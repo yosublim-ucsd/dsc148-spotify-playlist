@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGiDMXvAZBO.md) - [plain]
 
 > Let the rhymes and rhythms lift you\. Cover: Schoolboy Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,810 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,807 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGiDMXvAZBO.md) - [plain]
 | 68 | [VAILIMA VAILIMA](https://open.spotify.com/track/5dstxx5aFsLQNOb9Kw8AUb) | [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [Puni](https://open.spotify.com/artist/63CtC2iGlPvme2uE8m8bSn) | [VAILIMA VAILIMA](https://open.spotify.com/album/0IyoE8ykBcbyrAjA4evNZI) | 3:12 |
 | 69 | [SHINE \(with SiR\)](https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [SHINE \(with SiR\)](https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm) | 2:59 |
 | 70 | [MATHEMATICS](https://open.spotify.com/track/6pvRrq2HsucHv0RS00P5MX) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [MATHEMATICS](https://open.spotify.com/album/0DpfG6DZku9TSxzYVQtHfL) | 1:19 |
-| 71 | [LIONS](https://open.spotify.com/track/2BYpiqb4FArUNm3mFF8gCg) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd) | [LIONS](https://open.spotify.com/album/6QzrfojoUDxvZrNLpSvLO4) | 4:23 |
+| 71 | [LIONS](https://open.spotify.com/track/2BYpiqb4FArUNm3mFF8gCg) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U) | [LIONS](https://open.spotify.com/album/6QzrfojoUDxvZrNLpSvLO4) | 4:23 |
 | 72 | [SANDCASTLES](https://open.spotify.com/track/5DDJqevYAwrc5eYNTaEVLU) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg) | [SANDCASTLES](https://open.spotify.com/album/4FAXBiBmhhSFeKfz69klRW) | 3:31 |
 | 73 | [Glowstick](https://open.spotify.com/track/7KgFDcBpgXbNsAjxXuUIbX) | [Scribe](https://open.spotify.com/artist/1cUNRt3Ha4lnnNvPTJAIa8) | [Glowstick](https://open.spotify.com/album/51as7z135s0NXIf7vK0aaQ) | 3:09 |
 | 74 | [We Ride](https://open.spotify.com/track/0ZndP0d6W6ICRmSlKgMiS4) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe) | [We Ride](https://open.spotify.com/album/54BeNq6d1lkoLM8foqjx9k) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Käärijä ja Joost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,493 likes - 121 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,504 likes - 121 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 77 | [Suicide \(The Lovers\)](https://open.spotify.com/track/0oVcZ9Z9GIZUcQIbcm3LbL) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Suicide \(The Lovers\)](https://open.spotify.com/album/1TcAW6Ulse2wgqHGfEyFK9) | 3:37 |
 | 78 | [2 thousand 10](https://open.spotify.com/track/6ZuyhM7oUWETNFdhU4qFZW) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [2 thousand 10](https://open.spotify.com/album/5wskgD7oTvGtjwXLBs3m0Q) | 2:10 |
 | 79 | [Moi](https://open.spotify.com/track/6GXqIaJEE0dOV2ULa9ybDK) | [DON KJ](https://open.spotify.com/artist/519EsXmqMIma59ErI9icYK) | [Moi](https://open.spotify.com/album/5Dd1MHK8gsN6XJx1d9djQB) | 3:19 |
-| 80 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
+| 80 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
 | 81 | [Sydänkesä](https://open.spotify.com/track/760uKLUvA1584arBUow1M3) | [Loviisa](https://open.spotify.com/artist/455S3iRQDxLkvVtVVOBQa4) | [Sydänkesä](https://open.spotify.com/album/2MKStW7Qd4Jjm3vtm6iGHF) | 3:07 |
 | 82 | [Pon It](https://open.spotify.com/track/6KD3HROksVKDAtQLlP7ZV6) | [Prinssi](https://open.spotify.com/artist/1ZFNjryB9zNiSA74KZoaEf) | [Pon It](https://open.spotify.com/album/4NsenGsEQG05Voe4YpQknR) | 2:30 |
 | 83 | [\(You Wouldn't\) So I Don't](https://open.spotify.com/track/7iiWL2YS2jEG0vjJHQ01jB) | [Ingrid Alaina](https://open.spotify.com/artist/0eL3qlry7fIu26GJZA7QeP) | [\(You Wouldn't\) So I Don't](https://open.spotify.com/album/4YRnjcQi6fvjTRVrM9mP6M) | 3:05 |

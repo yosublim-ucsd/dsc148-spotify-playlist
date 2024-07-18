@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 541401,
+  "num_followers": 541430,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
-      },
-      "artists": [
-        {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "In Her Garden",
         "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
       },
       "artists": [
         {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
         }
       ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "Diablerie",
         "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
+        "name": "Lightning Born",
+        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
       },
       "artists": [
         {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
+          "name": "Lightning Born",
+          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
         }
       ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
+      "duration_ms": 275066,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Lightning Born",
-        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
       },
       "artists": [
         {
-          "name": "Lightning Born",
-          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
         }
       ],
-      "duration_ms": 275066,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Thornwyck Hymn",
         "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 407783,
       "name": "Thornwyck Hymn",
       "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Supa Scoopa and Mighty Scoop",
-      "url": "https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ"
+      "duration_ms": 492494,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm"
     }
   ],
   "unique_name": "Stoner Rock",

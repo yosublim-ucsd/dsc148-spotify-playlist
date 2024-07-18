@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-307 songs - 17 hr 33 min
+308 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Another Day](https://open.spotify.com/track/21qVapRmGwg0MKS0R6SaaF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:46 | 2022-05-03 | 2022-07-29 |
 | [Another Day](https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:46 | 2022-07-22 | 2024-06-22 |
 | [Another Day](https://open.spotify.com/track/6fsrtPKAPL1erRl4oeDnOf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 2:46 | 2022-09-07 | 2022-11-13 |
-| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 | 2024-07-17 |
+| [Answer Love](https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [Answer Love](https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1) | 3:05 | 2024-07-02 |  |
 | [Atlantis](https://open.spotify.com/track/2HMg3z3pueCvFqvr80ERQl) | [Chiccote's Beats](https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA) | [Atlantis](https://open.spotify.com/album/1j7S6fCw5pm8ygZwuL7KoA) | 1:31 | 2024-07-02 |  |
 | [Autumn Breeze](https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Autumn Breeze \(re;code Episode Ⅶ\)](https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj) | 3:39 | 2022-05-03 | 2024-07-03 |
 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 | 2022-05-03 | 2024-07-03 |
@@ -182,7 +182,7 @@
 | [NO WAY](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 4:16 | 2022-07-22 | 2024-06-22 |
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-05-03 | 2022-07-29 |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-05-03 | 2024-07-03 |
-| [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 |  |
+| [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 | 2024-07-18 |
 | [Nosso Samba](https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Nosso Samba](https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor) | 3:31 | 2022-05-03 | 2022-07-04 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-13 | 2024-07-03 |
 | [One Day](https://open.spotify.com/track/4GyHQOpfrElhvKjIfXSEf3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:13 | 2022-05-03 | 2022-09-09 |
@@ -223,6 +223,7 @@
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [sigh](https://open.spotify.com/track/53pxxjKIvaIxQwOpIeCLdk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:22 | 2022-06-20 | 2022-07-24 |
+| [Silver Lake](https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Stillness in Motion](https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7) | 3:01 | 2024-07-02 |  |
 | [Sipping My life \(Bonus Track\)](https://open.spotify.com/track/1ndZ37FOUNqW7PNWYJvPYk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [INNER CHILD](https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg) | 3:46 | 2022-05-03 | 2024-07-03 |
 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 | 2022-05-03 | 2024-07-03 |
 | [SNOW](https://open.spotify.com/track/6HsPtlz07NgjDlTLAmXt2c) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [SNOW](https://open.spotify.com/album/3viVqPqPnrjrsUqRyg6QC6) | 4:00 | 2022-05-03 | 2022-07-29 |
@@ -235,7 +236,7 @@
 | [Soul Mates](https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Soul Mates](https://open.spotify.com/album/0FlFKikrKvQwyWgkItuS4S) | 1:36 | 2024-07-02 |  |
 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 | 2022-05-03 | 2024-07-03 |
 | [Starry \- Minimal Version](https://open.spotify.com/track/6sUtXeujC7uH57dISpkih6) | [Dine On](https://open.spotify.com/artist/2g01abs3qIjlIJ57gmYT5l) | [Starry](https://open.spotify.com/album/0Bd880GHHwDIhPC7WfQYfk) | 3:06 | 2022-05-03 | 2022-07-26 |
-| [Stars of Mount Fuji](https://open.spotify.com/track/4SVl0hPWCws7ZWTFf8LIwF) | [Calenaur](https://open.spotify.com/artist/047wXFHzvLbwQzcIIvy8T4) | [Night in Osaka](https://open.spotify.com/album/2ELzmOvD9XSRfWgXkHe4ux) | 1:38 | 2024-07-02 |  |
+| [Stars of Mount Fuji](https://open.spotify.com/track/4SVl0hPWCws7ZWTFf8LIwF) | [Calenaur](https://open.spotify.com/artist/047wXFHzvLbwQzcIIvy8T4) | [Night in Osaka](https://open.spotify.com/album/2ELzmOvD9XSRfWgXkHe4ux) | 1:38 | 2024-07-02 | 2024-07-18 |
 | [Stay With Me](https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr) | [Kerusu](https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8) | [Stay With Me](https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV) | 3:48 | 2024-07-02 |  |
 | [Still \(feat\. Stella Jang\)](https://open.spotify.com/track/5E3jHSopOlnv4UZ5P7EkEb) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Want More 19 Part.2](https://open.spotify.com/album/4jMgR0E0gm0btdfMkFYheo) | 4:20 | 2022-05-03 | 2022-07-17 |
 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 | 2022-06-20 | 2022-09-09 |

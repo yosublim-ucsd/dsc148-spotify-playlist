@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Junggigo, SOYOU(\uc815\uae30\uace0, \uc18c\uc720))",
-  "num_followers": 386243,
+  "num_followers": 386260,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,30 @@
     {
       "added_at": "2024-07-04 09:42:34",
       "album": {
+        "name": "Cave Me In",
+        "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 214158,
+      "name": "Cave Me In",
+      "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
+    },
+    {
+      "added_at": "2024-07-04 09:42:34",
+      "album": {
         "name": "Ghosting",
         "url": "https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 178226,
       "name": "What are we (Feat. PARK JIWON of fromis_9)",
       "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
-    },
-    {
-      "added_at": "2024-07-04 09:42:34",
-      "album": {
-        "name": "Cave Me In",
-        "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        },
-        {
-          "name": "Tablo",
-          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Cave Me In",
-      "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
     },
     {
       "added_at": "2024-07-04 09:42:34",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-07-04 09:42:34",
       "album": {
-        "name": "My Lips Like Warm Coffee (The Last 10 Years X JOY, BIG Naughty)",
-        "url": "https://open.spotify.com/album/3pes9BtLBfQ3lZXPm3Mec9"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "My Lips Like Warm Coffee",
-      "url": "https://open.spotify.com/track/1ysKEAoMk6zMn4fGSsk2x3"
-    },
-    {
-      "added_at": "2024-07-04 09:42:34",
-      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+    },
+    {
+      "added_at": "2024-07-04 09:42:34",
+      "album": {
+        "name": "My Lips Like Warm Coffee (The Last 10 Years X JOY, BIG Naughty)",
+        "url": "https://open.spotify.com/album/3pes9BtLBfQ3lZXPm3Mec9"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "My Lips Like Warm Coffee",
+      "url": "https://open.spotify.com/track/1ysKEAoMk6zMn4fGSsk2x3"
     },
     {
       "added_at": "2024-07-04 09:42:34",

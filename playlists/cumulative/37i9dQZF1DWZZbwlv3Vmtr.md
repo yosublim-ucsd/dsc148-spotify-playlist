@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-933 songs - 1 day 12 hr 14 min
+934 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,13 +757,14 @@
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-07-08 |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-15 | 2022-05-20 |
 | [Streets](https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Streets](https://open.spotify.com/album/6eAlAb0BGG1DxKvBhFW7SG) | 2:00 | 2023-04-03 | 2023-11-24 |
-| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 |  |
+| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 | 2024-07-18 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-15 | 2022-07-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-15 | 2023-10-13 |
 | [Subliminal](https://open.spotify.com/track/3VLSJ5VvSBGVXoC5cQo0Fg) | [FOCUS inc.](https://open.spotify.com/artist/5KhJljlbtsSaGGbRwYVp2n) | [Subliminal](https://open.spotify.com/album/56EXm35Vqwysafnh14WaNT) | 2:14 | 2022-04-15 |  |
 | [Suijin](https://open.spotify.com/track/7fIy0MddQcd3CRBHjyMDd7) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Suijin](https://open.spotify.com/album/0dQZpLubRgBOSsUaIhYZwn) | 1:35 | 2022-09-09 | 2023-11-17 |
 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 | 2022-04-15 | 2022-07-29 |
 | [Summer Daze](https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Summer Daze](https://open.spotify.com/album/5zZqkyoW0wwl4JqE2nVaT9) | 2:28 | 2022-04-15 | 2022-08-19 |
+| [Summer Moon](https://open.spotify.com/track/6p57PjYMUPMczkO2VdqrTs) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Moon](https://open.spotify.com/album/4VXQDT2GLzVjatBJVaACsT) | 2:30 | 2024-07-12 |  |
 | [Summer Soul](https://open.spotify.com/track/2N4cy1qVpWs4FV625FcVJG) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Summer Soul](https://open.spotify.com/album/0xchkEyuHD2rvQmUO55l2a) | 2:16 | 2023-01-06 |  |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-04-15 | 2022-04-22 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |

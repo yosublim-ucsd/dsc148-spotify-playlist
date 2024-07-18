@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-234 songs - 15 hr 24 min
+235 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-22 | 2023-11-09 |
 | [Meherezylaa \- From "Maanaadu"](https://open.spotify.com/track/2kAZP4MIGCitpBHn358pgU) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bhavatharini](https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4), [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5) | [Meherezylaa \(From "Maanaadu"\)](https://open.spotify.com/album/7sZ0rgDMsrmo98UY0z98c9) | 4:19 | 2021-11-29 | 2022-10-19 |
 | [Menmayaay](https://open.spotify.com/track/5HVrUNujrjrn7Ewfk018S2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Samrat Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:04 | 2022-05-19 | 2022-06-29 |
+| [Minikki Minikki \(From "Thangalaan"\) \- Tamil](https://open.spotify.com/track/35qzjEf7XtwRM7cjfgF55n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Minikki Minikki \(From "Thangalaan"\) \[Tamil\]](https://open.spotify.com/album/391E7jC3uToRpCTCrJn7LS) | 3:22 | 2024-07-17 |  |
 | [Minnal Kannile \- From "Pizza 3"](https://open.spotify.com/track/1xID80L3QzO9MeD4qAwT4Q) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Ashwin Kakamanu](https://open.spotify.com/artist/0vg6LtT9PSFYAG54GabpY7), [Pavithra Marimuthu](https://open.spotify.com/artist/4BnC9jsalyyLYBN58aeMts) | [Minnal Kannile \(From "Pizza 3"\)](https://open.spotify.com/album/4jVYlDstzcVRH6z1bXCOC7) | 3:45 | 2022-06-20 | 2024-01-05 |
 | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/track/0yV1ttdm79H1jvaFLGFOB3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/album/0mJqaxb4ZJkbJZrgwj000x) | 4:48 | 2022-06-24 | 2022-10-19 |
 | [Mudhal Kaadhal \- From "Adiyae"](https://open.spotify.com/track/7E6g8wI3WIijYkLvZQ50hp) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Bagavathy P K](https://open.spotify.com/artist/0dFN2csM7engJcblm8Lx8H) | [Mudhal Kaadhal \(From "Adiyae"\)](https://open.spotify.com/album/4wfAJ7vn4VwAdTgvhs0AC0) | 3:50 | 2023-07-12 | 2024-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Milo J, Natanael Cano, Oscar Maydon, Yami Safdie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,685 likes - 62 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,745 likes - 62 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

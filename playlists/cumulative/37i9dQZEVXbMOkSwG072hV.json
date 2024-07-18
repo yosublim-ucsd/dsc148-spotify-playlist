@@ -10975,6 +10975,24 @@
     },
     {
       "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225864,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To"
+    },
+    {
+      "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
       },
@@ -16842,7 +16860,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 168045,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/3y7wCusDQhApBbsvlXPhyk"
@@ -30937,6 +30955,24 @@
     },
     {
       "album": {
+        "name": "Morar Nesse Motel",
+        "url": "https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187037,
+      "name": "Morar Nesse Motel",
+      "url": "https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -41212,12 +41248,12 @@
           "url": "https://open.spotify.com/artist/2eUmKl5zvdGRVIg2CsFpBh"
         },
         {
-          "name": "FLUXO DE RUA MUSIC",
-          "url": "https://open.spotify.com/artist/0TnHuFR3YmHIkuaRfjSEUv"
-        },
-        {
           "name": "DJ Blakes",
           "url": "https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz"
+        },
+        {
+          "name": "Mc Roba Cena",
+          "url": "https://open.spotify.com/artist/3JDFG8UQZzliFU7BiKK40c"
         }
       ],
       "date_added": "2024-07-04",
@@ -52156,7 +52192,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 277968,
       "name": "Vida Loka",
       "url": "https://open.spotify.com/track/0uCVzoT0u4PYGJUsHKHQ6j"

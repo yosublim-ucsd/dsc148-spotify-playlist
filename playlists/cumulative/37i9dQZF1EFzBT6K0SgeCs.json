@@ -1139,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6mluibQ80Nxg9sqCUHtZli"
+      },
+      "artists": [
+        {
+          "name": "Maxey Veren",
+          "url": "https://open.spotify.com/artist/0YMggGgZElMmvoQz7gTZFY"
+        },
+        {
+          "name": "jsthebg",
+          "url": "https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222664,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2qb3PcfItkgP49R2wXvUnM"
+    },
+    {
+      "album": {
         "name": "Hollywood Forever",
         "url": "https://open.spotify.com/album/6lZXJbxsk5IdnGqfHJr4RR"
       },

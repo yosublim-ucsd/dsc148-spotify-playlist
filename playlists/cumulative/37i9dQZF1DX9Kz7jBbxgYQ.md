@@ -2,7 +2,7 @@
 
 ### [Desi Indie](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Hasan Raheem
+> Home to the best of South Asian Indie scene\. Cover: Sai Abhyankkar
 
 304 songs - 17 hr 14 min
 

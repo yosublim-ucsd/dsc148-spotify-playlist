@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195734,
+  "num_followers": 195732,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bar Thinking",
-        "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 185286,
-      "name": "Bar Thinking",
-      "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Whole Damn Summer",
         "url": "https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 162985,
       "name": "Whole Damn Summer",
       "url": "https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Bar Thinking",
+        "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "Bar Thinking",
+      "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Ingen, bara du",
         "url": "https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 166689,
       "name": "Ingen, bara du",
       "url": "https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -811,6 +811,30 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        },
+        {
+          "name": "Dean Andrew",
+          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Aldrig vara ung",
         "url": "https://open.spotify.com/album/3Jj8KgdqAXRRTlPIYZdViS"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Javan",
-          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
-        },
-        {
-          "name": "Rivio",
-          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
-        },
-        {
-          "name": "Dean Andrew",
-          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Flyttat d\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
+        "name": "K\u00c4RLEKSMEMOARER",
+        "url": "https://open.spotify.com/album/5ZeQSjhtQHhfx2KdYWFe2P"
       },
       "artists": [
         {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+          "name": "INTI",
+          "url": "https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D"
         }
       ],
-      "duration_ms": 177200,
-      "name": "Flyttat d\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
+      "duration_ms": 228148,
+      "name": "SOMMARREGN",
+      "url": "https://open.spotify.com/track/2dC5l9ZYvxTgLXmq681TVF"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1043,18 +1043,34 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "K\u00c4RLEKSMEMOARER",
-        "url": "https://open.spotify.com/album/5ZeQSjhtQHhfx2KdYWFe2P"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
       "artists": [
         {
-          "name": "INTI",
-          "url": "https://open.spotify.com/artist/2Zm7ZQflu3uuy7zyFkMP1D"
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
         }
       ],
-      "duration_ms": 228148,
-      "name": "SOMMARREGN",
-      "url": "https://open.spotify.com/track/2dC5l9ZYvxTgLXmq681TVF"
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Flyttat d\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
+      },
+      "artists": [
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Flyttat d\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 147520,
       "name": "Hon \u00e4r liv",
       "url": "https://open.spotify.com/track/2ATMAlWadqEjkZ5c0GljAf"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "ITU",
-        "url": "https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V"
-      },
-      "artists": [
-        {
-          "name": "Gamebojj",
-          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
-        }
-      ],
-      "duration_ms": 139928,
-      "name": "ITU",
-      "url": "https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Mordbrand",
         "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "ITU",
+        "url": "https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V"
+      },
+      "artists": [
+        {
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
+        }
+      ],
+      "duration_ms": 139928,
+      "name": "ITU",
+      "url": "https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Sockerdricka",
         "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 202733,
       "name": "Sockerdricka",
       "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa"
-      },
-      "artists": [
-        {
-          "name": "San Sebastian",
-          "url": "https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E"
-        }
-      ],
-      "duration_ms": 184042,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "En v\u00e4n som du",
-        "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa"
       },
       "artists": [
         {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+          "name": "San Sebastian",
+          "url": "https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E"
         }
       ],
-      "duration_ms": 198461,
-      "name": "En v\u00e4n som du",
-      "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
+      "duration_ms": 184042,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "En v\u00e4n som du",
+        "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "En v\u00e4n som du",
+      "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Imagine Paradise",
-        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
-      },
-      "artists": [
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        }
-      ],
-      "duration_ms": 237655,
-      "name": "Imagine Paradise",
-      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "SOLEN VISAR MIG V\u00c4GEN",
         "url": "https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Imagine Paradise",
+        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "duration_ms": 237655,
+      "name": "Imagine Paradise",
+      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
       },
@@ -1387,22 +1387,6 @@
       "duration_ms": 203877,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Confused",
-        "url": "https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu"
-      },
-      "artists": [
-        {
-          "name": "Elias Abbas",
-          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
-        }
-      ],
-      "duration_ms": 129896,
-      "name": "Confused",
-      "url": "https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 189333,
       "name": "Pappa",
       "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Confused",
+        "url": "https://open.spotify.com/album/6BoYdLoD7Y6ZOT6pnsLInu"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "duration_ms": 129896,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/5zQI37GHThm4TLAFgD4ivt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Jag vill ha dig HETT",
+        "url": "https://open.spotify.com/album/4QVqawHLqtlvHBKl3WNDjG"
+      },
+      "artists": [
+        {
+          "name": "Albin Lo\u00e1n",
+          "url": "https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga"
+        },
+        {
+          "name": "Daniel Bentzen",
+          "url": "https://open.spotify.com/artist/5ylehJsTesa76T0hzJ88RY"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Jag vill ha dig HETT",
+      "url": "https://open.spotify.com/track/4lBC21w1qJvrUeZGBdN8NZ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 157031,
       "name": "Utan Dig (oh nej)",
       "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Jag vill ha dig HETT",
-        "url": "https://open.spotify.com/album/4QVqawHLqtlvHBKl3WNDjG"
-      },
-      "artists": [
-        {
-          "name": "Albin Lo\u00e1n",
-          "url": "https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga"
-        },
-        {
-          "name": "Daniel Bentzen",
-          "url": "https://open.spotify.com/artist/5ylehJsTesa76T0hzJ88RY"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Jag vill ha dig HETT",
-      "url": "https://open.spotify.com/track/4lBC21w1qJvrUeZGBdN8NZ"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "R\u00f6k & Discoljus",
-        "url": "https://open.spotify.com/album/1l3ArcISPARn4GPJeMthYz"
-      },
-      "artists": [
-        {
-          "name": "K\u00e5ren",
-          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "R\u00f6k & Discoljus",
-      "url": "https://open.spotify.com/track/6IqCU9bdDRfEPHSBM1nE45"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 152068,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "R\u00f6k & Discoljus",
+        "url": "https://open.spotify.com/album/1l3ArcISPARn4GPJeMthYz"
+      },
+      "artists": [
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "R\u00f6k & Discoljus",
+      "url": "https://open.spotify.com/track/6IqCU9bdDRfEPHSBM1nE45"
     },
     {
       "added_at": "2024-06-27 22:00:00",

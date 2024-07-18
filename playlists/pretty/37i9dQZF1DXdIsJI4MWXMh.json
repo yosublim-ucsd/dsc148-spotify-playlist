@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 66847,
+  "num_followers": 66863,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "La Fiesta de Koky",
         "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 303349,
       "name": "Tus Maletas Ya Est\u00e1s en la Puerta",
       "url": "https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Una D\u00e9cada de \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
+        }
+      ],
+      "duration_ms": 264672,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Una D\u00e9cada de \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 264672,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 188577,
-      "name": "Mi Complice",
-      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Me Voy a Emborrachar",
         "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160000,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 188577,
+      "name": "Mi Complice",
+      "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "El Hijo Ausente",
-        "url": "https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "El Hijo Ausente",
-      "url": "https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "La Pagar\u00e1s",
         "url": "https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
+        "name": "El Hijo Ausente",
+        "url": "https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq"
       },
       "artists": [
         {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
         }
       ],
-      "duration_ms": 211813,
-      "name": "Los Vampiros",
-      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
+      "duration_ms": 178289,
+      "name": "El Hijo Ausente",
+      "url": "https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
+        "name": "Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
       },
       "artists": [
         {
-          "name": "Los Kuatreros Del Sur",
-          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
         }
       ],
-      "duration_ms": 739369,
-      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
+      "duration_ms": 211813,
+      "name": "Los Vampiros",
+      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1331,6 +1315,22 @@
       "duration_ms": 211866,
       "name": "Ojitos Verdes",
       "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG"
+      },
+      "artists": [
+        {
+          "name": "Los Kuatreros Del Sur",
+          "url": "https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8"
+        }
+      ],
+      "duration_ms": 739369,
+      "name": "Te Hice Mal / Ens\u00e9\u00f1ame a Olvidar / Vida de Mi Vida (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Mi Decisi\u00f3n",
-        "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N"
       },
       "artists": [
         {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
         }
       ],
-      "duration_ms": 254850,
-      "name": "Mi Decisi\u00f3n",
-      "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
+      "duration_ms": 211710,
+      "name": "Son Solo Palabritas",
+      "url": "https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N"
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd"
       },
       "artists": [
         {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
         }
       ],
-      "duration_ms": 211710,
-      "name": "Son Solo Palabritas",
-      "url": "https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es"
+      "duration_ms": 254850,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Fiesta Ranchera",
+        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
+      },
+      "artists": [
+        {
+          "name": "Los Ruise\u00f1ores de la Frontera",
+          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Abrazado a Mi Botella",
+      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Fiesta Ranchera",
-        "url": "https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W"
-      },
-      "artists": [
-        {
-          "name": "Los Ruise\u00f1ores de la Frontera",
-          "url": "https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Abrazado a Mi Botella",
-      "url": "https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X"
     },
     {
       "added_at": "2024-06-12 22:58:17",

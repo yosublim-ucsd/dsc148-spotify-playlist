@@ -10182,7 +10182,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 147200,
       "name": "OUR STARS",
       "url": "https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi"
@@ -13454,6 +13454,24 @@
       "duration_ms": 223125,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y"
+    },
+    {
+      "album": {
+        "name": "Tax Evasion",
+        "url": "https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214344,
+      "name": "Tax Evasion",
+      "url": "https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE"
     },
     {
       "album": {

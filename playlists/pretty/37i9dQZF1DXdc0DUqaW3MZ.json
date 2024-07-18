@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 344800,
+  "num_followers": 344899,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Nah It Ain't The Same",
-        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251831,
-      "name": "Nah It Ain't The Same",
-      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
-    },
-    {
-      "added_at": "2024-06-14 14:50:20",
-      "album": {
         "name": "Sunrise Sunfall (Edit)",
         "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
       },
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2024-06-14 14:50:20",
       "album": {
-        "name": "Say Yes (feat. Rona Ray)",
-        "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
+        "name": "Nah It Ain't The Same",
+        "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
       },
       "artists": [
         {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 157134,
-      "name": "Say Yes (feat. Rona Ray)",
-      "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
+      "duration_ms": 251831,
+      "name": "Nah It Ain't The Same",
+      "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
     },
     {
       "added_at": "2024-06-14 14:50:20",
@@ -1363,6 +1343,26 @@
       "duration_ms": 220800,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t"
+    },
+    {
+      "added_at": "2024-06-14 14:50:20",
+      "album": {
+        "name": "Say Yes (feat. Rona Ray)",
+        "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 157134,
+      "name": "Say Yes (feat. Rona Ray)",
+      "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
     }
   ],
   "unique_name": "Soultronic",

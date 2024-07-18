@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,865 songs - 10 day 20 hr 16 min
+6,866 songs - 10 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [5am in cairo](https://open.spotify.com/track/21NHuCeoEJ76SVggMgNsNw) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [5am in cairo](https://open.spotify.com/album/1roCs0WmQH30We3HBrCvOn) | 2:57 | 2020-08-25 | 2021-10-02 |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-05-23 | 2023-09-16 |
 | [666](https://open.spotify.com/track/0a58S0ERta0i8nAUuGoMv0) | [Smeyeul.](https://open.spotify.com/artist/4IXRiE1MOvty3H8tQ0KvTO), [Galvanic](https://open.spotify.com/artist/3GQj08iHefTniyhHjCVBov), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [666](https://open.spotify.com/album/35QkKaaiA0nmNbNDtNwchc) | 2:25 | 2019-12-06 | 2020-01-14 |
+| [73 Spaceloop](https://open.spotify.com/track/6NpJrkwYfrBXppjRbyjoL8) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [73 Spaceloop](https://open.spotify.com/album/4CSoFQ8KiiRONQB5b59WFj) | 1:19 | 2024-07-16 |  |
 | [74 miles from you](https://open.spotify.com/track/3RsPo4nBGUTbQYtT3CGyIC) | [DonLear](https://open.spotify.com/artist/2XFmnlp2flbDWWn4lYJGls), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [74 miles from you](https://open.spotify.com/album/1ufrpkBIwxk5eZMaBgocUT) | 1:51 | 2022-12-23 | 2024-01-19 |
 | [777](https://open.spotify.com/track/6VfRvY8RmH4zfqJqcKqlu8) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [777](https://open.spotify.com/album/4ha5OvpjluhF81Tu9ZzhHg) | 1:46 | 2019-12-22 | 2021-01-26 |
 | [8 AM](https://open.spotify.com/track/3s90WO4Iu0rNT3Qs6WXvec) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [8 AM](https://open.spotify.com/album/2TPDo7GD5UsF5vCJY92ONm) | 2:24 | 2022-11-11 | 2022-12-16 |
@@ -1133,7 +1134,7 @@
 | [Climbing](https://open.spotify.com/track/2ec7B12PyWx8BOtYsZWv99) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Climbing](https://open.spotify.com/album/1riNXWdkcrDoySZIY5j34L) | 3:48 | 2022-09-23 | 2023-01-13 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-15 | 2024-04-27 |
 | [Clocked In](https://open.spotify.com/track/1873cgs4HWZBy0U8wDsnmk) | [Sobbel Sosch](https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok) | [Clocked In](https://open.spotify.com/album/50gRSPQMkG2mWqhC4KAuXq) | 2:01 | 2024-01-26 |  |
-| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 |  |
+| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 | 2024-07-18 |
 | [clocks](https://open.spotify.com/track/6OIvZwDLct03wI7dA5Ljpw) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [clocks](https://open.spotify.com/album/2KaWbgp5F8zYShSZ9s9IvA) | 1:35 | 2021-11-05 | 2022-05-27 |
 | [Clocks Forward](https://open.spotify.com/track/3DXOgShDK2FK1nUM6NeGnL) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Clocks Forward](https://open.spotify.com/album/62YSGSZJsYILAa9H0h9Y7i) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Closed Eyes](https://open.spotify.com/track/0eE5eceODQO7W3vwQ3Hrs2) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Closed Eyes](https://open.spotify.com/album/3ilbOBTZas2MNEdNausZol) | 2:23 | 2022-03-11 | 2022-08-12 |
@@ -2100,7 +2101,7 @@
 | [Flores](https://open.spotify.com/track/4LvzzJt1M7I0mcMB7bI8t5) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Flores](https://open.spotify.com/album/0PvhnLLMpzErQIrftUhO2p) | 1:47 | 2022-04-15 | 2022-05-27 |
 | [Florianopolis](https://open.spotify.com/track/4cTAkCLS5RqKHwYlSgGNZE) | [Erik Obregon](https://open.spotify.com/artist/3PfVXFtmGJxqeF9hImGSPJ) | [Florianopolis](https://open.spotify.com/album/3IyWbIjpbeMTLsvXnuO7kc) | 2:59 | 2022-08-19 | 2023-01-07 |
 | [Floripa](https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Floripa](https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce) | 1:59 | 2020-01-23 | 2021-08-22 |
-| [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 |  |
+| [Flourish](https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Flourish](https://open.spotify.com/album/6Rtxn74NcGt86OLiZ93sC6) | 2:12 | 2024-06-07 | 2024-07-18 |
 | [Flow](https://open.spotify.com/track/7kqjF0uXE6Gps6MvO6Xu6Y) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Flow](https://open.spotify.com/album/37YjtkTCQqG3eDwxTJMy3w) | 1:12 | 2019-06-22 | 2020-10-21 |
 | [Flow & Glow](https://open.spotify.com/track/7i9mp3NNtqCKDY11HeTSDH) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Flow & Glow](https://open.spotify.com/album/0uoyityfoHU9wkc42iXRWf) | 1:35 | 2022-12-02 | 2023-11-17 |
 | [Flow Downstream](https://open.spotify.com/track/493ggrfPQoWAiW3ewJBGRt) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Currents](https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk) | 2:40 | 2022-07-15 | 2022-11-11 |
@@ -3199,7 +3200,7 @@
 | [Lanterns](https://open.spotify.com/track/68vaAU5cIsDPu47auem0In) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lanterns](https://open.spotify.com/album/1LMkckcPNJ2zwHktKn4IGg) | 1:22 | 2022-07-22 | 2022-11-11 |
 | [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2022-12-09 |
 | [Lasagne](https://open.spotify.com/track/0YVUFizlbV0l7okjXGUTWu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lasagne](https://open.spotify.com/album/747EgjI5KoDtHRvN8nB7MG) | 1:46 | 2020-11-10 | 2021-10-20 |
-| [Last Beat Of The Year](https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Last Beat Of The Year](https://open.spotify.com/album/61cIIt2aeMn0FTo5j02vI3) | 2:27 | 2023-12-15 | 2024-07-15 |
+| [Last Beat Of The Year](https://open.spotify.com/track/12fjXJoziK4hIa0pdVY8p7) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Last Beat Of The Year](https://open.spotify.com/album/61cIIt2aeMn0FTo5j02vI3) | 2:27 | 2023-12-15 |  |
 | [Last Call](https://open.spotify.com/track/4ZH7eKeRIu9fEtVeOEukAj) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu), [Fayelo](https://open.spotify.com/artist/1K18BNpoYTlf251GQL1Mdz) | [Last Call](https://open.spotify.com/album/3KYrvXn0mZYypBHGbqOMQF) | 2:56 | 2021-08-29 | 2022-03-21 |
 | [Last Minute](https://open.spotify.com/track/4KY9vmJS55o2AAMbR5zDfg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:17 | 2021-08-22 | 2022-03-21 |
 | [Last Moment](https://open.spotify.com/track/3ijP0DiE8iYKmElrpn1MvG) | [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [In Sounds](https://open.spotify.com/album/77cM54j8U79v13bAKrjikF) | 2:06 | 2022-07-22 | 2022-11-11 |

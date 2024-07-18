@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🖤 cover: sethu e sally cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,644 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,641 likes - 85 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

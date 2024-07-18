@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-228 songs - 11 hr 52 min
+229 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Drive My Car \(Misaki\)](https://open.spotify.com/track/7ug0c7aiNdQqvhqgTbpZgP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:27 | 2024-03-09 | 2024-05-16 |
 | [Duck](https://open.spotify.com/track/4PyujFUInGsWYX3t5XDjZM) | [Bill Wells](https://open.spotify.com/artist/1symcfB0KMf0vEg2nE1pHZ), [Maher Shalal Hash Baz](https://open.spotify.com/artist/0sc4qz42as3DlXXqQcU5Qk) | [Osaka Bridge](https://open.spotify.com/album/79mqjyfKRhFr08g30VAJzG) | 1:04 | 2024-04-27 | 2024-05-16 |
 | [Duffy's](https://open.spotify.com/track/0am577lRtOs3ur575VvdmI) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Less](https://open.spotify.com/album/752HJRCJkpWgUt4arksHZh) | 3:39 | 2024-01-05 | 2024-03-10 |
+| [Ease the Work](https://open.spotify.com/track/71YNoaT0JZ1UUqX00lluRp) | [Hour](https://open.spotify.com/artist/4o9osC05KC6Gayy2WN78p3) | [Ease the Work](https://open.spotify.com/album/6NjKoUqVBjCROQR34U1iE0) | 3:54 | 2024-07-17 |  |
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
 | [Eternal Sunshine of the Spotless Mind](https://open.spotify.com/track/53WIcYCLyuJ25HTkdrmGVo) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Four Covers](https://open.spotify.com/album/0ZiOOV1MXNcH8O56kQJx0h) | 2:15 | 2024-03-11 | 2024-05-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Verano de copas ⚽️🏆 Musica Nueva🕺Verano, no te acabes nunca ✨ Kim Loaiza en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,231 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,332 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

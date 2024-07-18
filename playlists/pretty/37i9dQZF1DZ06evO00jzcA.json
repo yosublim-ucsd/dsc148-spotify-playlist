@@ -1,12 +1,12 @@
 {
-  "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 457727,
+  "description": "This is KISS. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 457821,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAADZLQdYaidc6/IDPRaeBmiE",
+  "snapshot_id": "ZpW4AAAAAAAZ8h9Has6Dbs1TphhjBXsI",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 214666,
       "name": "Hard Luck Woman",
       "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Shout It Out Loud",
-      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
       "duration_ms": 241106,
       "name": "I Was Made For Lovin' You - Single Mix",
       "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 320226,
-      "name": "God Gave Rock 'N' Roll To You II",
-      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Rock 'N' Roll All Nite - Live",
+      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "God Of Thunder",
-      "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psycho Circus",
         "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 330360,
       "name": "Psycho Circus",
       "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "God Of Thunder",
+      "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lick It Up",
-        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 274573,
-      "name": "All Hell's Breakin' Loose",
-      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
+      "duration_ms": 198466,
+      "name": "Turn On The Night",
+      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Turn On The Night",
-      "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lick It Up",
+        "url": "https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 274573,
+      "name": "All Hell's Breakin' Loose",
+      "url": "https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 149720,
       "name": "See You Tonight - Live",
       "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Unholy",
-      "url": "https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB"
     },
     {
       "added_at": null,
@@ -807,6 +791,26 @@
       "duration_ms": 249000,
       "name": "She",
       "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphony: Alive IV",
+        "url": "https://open.spotify.com/album/2tu4fl2V9D3NHdocyV9J5T"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        },
+        {
+          "name": "The Melbourne Symphony Ensemble",
+          "url": "https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Forever (Live)",
+      "url": "https://open.spotify.com/track/1fM0MXvqlJT2H7znb3LiUD"
     }
   ],
   "unique_name": "This Is KISS",

@@ -2,7 +2,7 @@
 
 ### [This Is Pink Floyd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07zaak)
 
-> This is: Pink Floyd\. Alle wichtigen Tracks in einer Playlist.
+> This is Pink Floyd\. The essential tracks, all in one playlist.
 
 51 songs - 4 hr 53 min
 

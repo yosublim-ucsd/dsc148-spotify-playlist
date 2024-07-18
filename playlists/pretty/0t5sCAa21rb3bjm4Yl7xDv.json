@@ -1,12 +1,12 @@
 {
   "description": "The hottest Pop tracks, all in one playlist! Featuring our rising stars, some pop classics and your favourite artists' favourite artists. Shop this Summer's Pop Collection <a href=\"https://www.umusic.ca/pages/POP\">here</a>.",
-  "num_followers": 79806,
+  "num_followers": 79822,
   "original_name": "Pop Girl Summer",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAA5GwUsm7centE/SrYHbtCwXuf9fhnu",
+  "snapshot_id": "AAA5HSrk7T6bJAMzj58XlUh9V/URBuQC",
   "tracks": [
     {
       "added_at": "2024-07-10 13:33:55",
@@ -1011,6 +1011,22 @@
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+    },
+    {
+      "added_at": "2024-07-17 13:40:31",
+      "album": {
+        "name": "Last Time We Never Meet Again",
+        "url": "https://open.spotify.com/album/6obpscPPNZayw65IPFZSWE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 190033,
+      "name": "Last Time We Never Meet Again",
+      "url": "https://open.spotify.com/track/4mKQ5jwuUvusHUVoLsOIHA"
     },
     {
       "added_at": "2024-07-10 13:33:55",

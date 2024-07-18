@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-11",
-  "description": "This is Aidan Bissett. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "name": "Acesta este Aidan Bissett.",
+  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "name": "This Is Aidan Bissett",
   "tracks": [
     {
       "album": {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 163983,
       "name": "Grocery Store Girl",
       "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 205553,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"

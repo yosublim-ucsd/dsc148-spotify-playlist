@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,370 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,450 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 72 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 73 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 | 74 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 |
-| 75 | [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 |
-| 76 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 |
+| 75 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 |
+| 76 | [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 |
 | 77 | [La Luna \- Radio Edit](https://open.spotify.com/track/6kRjB4AwnXnGmhXHisnFXX) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [BOHEMIAN](https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB) | [La Luna \(Radio Edit\)](https://open.spotify.com/album/74ehtTSROSGpuivD54tPEO) | 2:57 |
 | 78 | [Serena](https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Serena](https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom) | 2:33 |
 | 79 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 |
 | 80 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 |
-| 81 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 |
-| 82 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
+| 81 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
+| 82 | [Satisfied](https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Satisfied](https://open.spotify.com/album/5Ao966nL5V38v8652399lo) | 3:06 |
 | 83 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 |
 | 84 | [Wataqui](https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Wataqui](https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS) | 2:34 |
 | 85 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 |

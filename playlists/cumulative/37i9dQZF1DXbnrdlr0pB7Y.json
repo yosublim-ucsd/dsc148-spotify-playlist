@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Las Monta\u00f1as",
+        "url": "https://open.spotify.com/album/6L4p1vuSkKmF1idvouvSuk"
+      },
+      "artists": [
+        {
+          "name": "Graciela Flores",
+          "url": "https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123584,
+      "name": "A Las Monta\u00f1as",
+      "url": "https://open.spotify.com/track/2Qko902B3IJ8XkKdOGRpU8"
+    },
+    {
+      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/31iA73hlTloOrhyFSK6qVl"
       },
@@ -171,6 +189,42 @@
     },
     {
       "album": {
+        "name": "Arequipa",
+        "url": "https://open.spotify.com/album/03Ih2VbB5wtxXGRKfga0QE"
+      },
+      "artists": [
+        {
+          "name": "Barracuda Sound",
+          "url": "https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151066,
+      "name": "Arequipa",
+      "url": "https://open.spotify.com/track/4mFUWVQGq8nwxxJGI0vnry"
+    },
+    {
+      "album": {
+        "name": "Bajo El Mismo Cielo",
+        "url": "https://open.spotify.com/album/0yCZPuSsHsDR7i9PIwKiJn"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Our Home",
+          "url": "https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130005,
+      "name": "Bajo El Mismo Cielo",
+      "url": "https://open.spotify.com/track/6hluJpykHbHa8hJgRmeXvl"
+    },
+    {
+      "album": {
         "name": "Beber",
         "url": "https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km"
       },
@@ -204,6 +258,24 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "album": {
+        "name": "Bolero B....",
+        "url": "https://open.spotify.com/album/0Xg2laQV5vzit9f2Q5E1VS"
+      },
+      "artists": [
+        {
+          "name": "MikaSonnin",
+          "url": "https://open.spotify.com/artist/0wMWCHIgA51FVViHnnonKQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245035,
+      "name": "Bolero B....",
+      "url": "https://open.spotify.com/track/21yFHnnU1nzQ8CfHemfFBt"
     },
     {
       "album": {

@@ -4681,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "--->>>holy",
+        "url": "https://open.spotify.com/album/0xNdxtmvlAbsl1hrllirbe"
+      },
+      "artists": [
+        {
+          "name": "JAN3T",
+          "url": "https://open.spotify.com/artist/6151zA6z4sbiwQZX5POHc6"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207297,
+      "name": "Axis",
+      "url": "https://open.spotify.com/track/5Wp7CChb0lfhB2Ol499gqn"
+    },
+    {
+      "album": {
         "name": "Azules",
         "url": "https://open.spotify.com/album/2cvVW3I0Wub3ppZQ59UlXE"
       },
@@ -18840,7 +18858,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 186986,
       "name": "Facilito",
       "url": "https://open.spotify.com/track/5KCbtEjKyGa5NxDYuoqMPt"
@@ -26932,7 +26950,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 215533,
       "name": "hot glue",
       "url": "https://open.spotify.com/track/0njZDG7JendliN8qs2hlkp"
@@ -28467,6 +28485,24 @@
     },
     {
       "album": {
+        "name": "I Want My Life",
+        "url": "https://open.spotify.com/album/6h3AN0g21y3BifkmvIBGqw"
+      },
+      "artists": [
+        {
+          "name": "Crash & Burn Stockholm",
+          "url": "https://open.spotify.com/artist/4ZhuYyLfLu6MLytAyRU4UR"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170729,
+      "name": "I Want My Life",
+      "url": "https://open.spotify.com/track/2WDzUsVniguMfpGvbsJgjB"
+    },
+    {
+      "album": {
         "name": "I Want to See You Win",
         "url": "https://open.spotify.com/album/7yHlnrEC3tvOPB0XBnmKtU"
       },
@@ -28732,6 +28768,24 @@
       "duration_ms": 281840,
       "name": "I'm a Manchild",
       "url": "https://open.spotify.com/track/0XgsktTBwxU1IdT0psnfy9"
+    },
+    {
+      "album": {
+        "name": "I BET IT'S ALL IN MY HEAD",
+        "url": "https://open.spotify.com/album/5vGY5Er1DqxJOsVhUlKUgQ"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219700,
+      "name": "I'M A SIX, AND SHE'S LIKE A NINETY",
+      "url": "https://open.spotify.com/track/5LEjUKvkjl3sMYaRUZtMbA"
     },
     {
       "album": {
@@ -39912,7 +39966,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 214172,
       "name": "Motion",
       "url": "https://open.spotify.com/track/0EFtWzpREMBLzz6pTb057Q"

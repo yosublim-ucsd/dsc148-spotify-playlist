@@ -1,12 +1,12 @@
 {
-  "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 261890,
+  "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 261945,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAADB9X0J3lQiAt7q5GeNXPb1",
+  "snapshot_id": "ZpW4AAAAAAATjGmeuTnXAdAu0E95ZLJg",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP Gabriela Rocha",
         "url": "https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 314861,
-      "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
-      "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 473955,
       "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 314861,
+      "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
+      "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
     },
     {
       "added_at": null,

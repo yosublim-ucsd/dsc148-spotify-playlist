@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Plug\-in to the official Kickback 2023 playlist, co\-created by gamers, producers, and the Atlanta community.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,222 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,181 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 27431,
+  "num_followers": 27447,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAADtLHZB4oyJTjlwx+xZ1UJL",
+  "snapshot_id": "ZpW4AAAAAADp6yZDqd7Kl0E4Lq9QwiM8",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Wild World - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey Man [Expanded]",
         "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Nothing but Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/76J6iClvhdPlYsaYNpTFYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -119,6 +119,22 @@
       "duration_ms": 263840,
       "name": "Just Take My Heart - 2021 Remastered",
       "url": "https://open.spotify.com/track/2hngAqZosbB3oYHYzsbtM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Nothing but Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/76J6iClvhdPlYsaYNpTFYI"
     },
     {
       "added_at": null,
@@ -155,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Green-Tinted Sixties Mind - 2021 Remastered",
+      "url": "https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Big (2023 Remastered)",
         "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
@@ -167,22 +199,6 @@
       "duration_ms": 285014,
       "name": "Addicted To That Rush - 2023 Remastered",
       "url": "https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered",
-      "url": "https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et"
     },
     {
       "added_at": null,
@@ -219,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered",
+      "url": "https://open.spotify.com/track/6YsOshSb3F3b07X9lIw5Et"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -231,22 +263,6 @@
       "duration_ms": 223426,
       "name": "Superfantastic",
       "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Green-Tinted Sixties Mind - 2021 Remastered",
-      "url": "https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU"
     },
     {
       "added_at": null,
@@ -299,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
       },
       "artists": [
         {
@@ -308,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 329080,
-      "name": "Alive and Kickin' - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm"
+      "duration_ms": 271719,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/6hFMnKj47KhtzduQiHlwcf"
     },
     {
       "added_at": null,
@@ -327,6 +343,22 @@
       "duration_ms": 157733,
       "name": "Seven Impossible Days - Live at Koseinenkin Hall, Tokyo, October 29, 1993",
       "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 329080,
+      "name": "Alive and Kickin' - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm"
     },
     {
       "added_at": null,
@@ -356,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 271719,
-      "name": "I Am You",
-      "url": "https://open.spotify.com/track/6hFMnKj47KhtzduQiHlwcf"
+      "duration_ms": 256790,
+      "name": "Sunday Morning Kinda Girl",
+      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
     },
     {
       "added_at": null,
@@ -420,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 256790,
-      "name": "Sunday Morning Kinda Girl",
-      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
+      "duration_ms": 232011,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
     },
     {
       "added_at": null,
@@ -484,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 232011,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
+      "duration_ms": 198470,
+      "name": "What Were You Thinking",
+      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
     },
     {
       "added_at": null,
@@ -548,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 198470,
-      "name": "What Were You Thinking",
-      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
+      "duration_ms": 251900,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA"
     },
     {
       "added_at": null,
@@ -571,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
       },
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
       "artists": [
         {
@@ -612,57 +628,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 251900,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/17AdKvkNwCHuSPmTn6l4aA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning - Remastered",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Luck Trying",
-        "url": "https://open.spotify.com/album/0pYvl3Eo9TEa4dO8nxjD3H"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 245771,
-      "name": "Good Luck Trying",
-      "url": "https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "My Kinda Woman - 2021 Remastered",
-      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,
@@ -683,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
       "artists": [
         {
@@ -692,9 +660,25 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 282626,
-      "name": "Suffocation",
-      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning - Remastered",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 239173,
       "name": "Road to Ruin - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Suffocation",
+      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 300293,
-      "name": "Nothing Like It In The World",
-      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 247093,
       "name": "Voodoo Kiss - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 300293,
+      "name": "Nothing Like It In The World",
+      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 320800,
       "name": "A Little Too Loose - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/59VVs4joFeFmciCU9psuBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     }
   ],
   "unique_name": "This Is Mr. Big",

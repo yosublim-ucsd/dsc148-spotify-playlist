@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 422541,
+  "num_followers": 422581,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Candles",
-        "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
-      },
-      "artists": [
-        {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
-        }
-      ],
-      "duration_ms": 172399,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Poesia",
         "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 125248,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Candles",
+        "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "duration_ms": 172399,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
-      },
-      "artists": [
-        {
-          "name": "Taganema",
-          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
-        }
-      ],
-      "duration_ms": 145529,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Songs Of Sundown",
         "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Whispering Oaks",
-        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
       },
       "artists": [
         {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
         }
       ],
-      "duration_ms": 151288,
-      "name": "Whispering Oaks",
-      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
+      "duration_ms": 145529,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 142763,
       "name": "Full Bloom",
       "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Whispering Oaks",
+        "url": "https://open.spotify.com/album/1jg0lKpBFgPpgww85JzDNz"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 151288,
+      "name": "Whispering Oaks",
+      "url": "https://open.spotify.com/track/5jJodZ6zXjMdAgumEyVKb1"
     },
     {
       "added_at": "2024-07-10 03:01:00",

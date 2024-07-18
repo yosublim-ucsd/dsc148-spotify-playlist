@@ -7185,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Driftin'",
+        "url": "https://open.spotify.com/album/6oZb1uwGF70X2TT3lrvD58"
+      },
+      "artists": [
+        {
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Driftin'",
+      "url": "https://open.spotify.com/track/7xJqmjHtPBKTIa18GXUog4"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/5aLrJHWb2OwLbNLpp7t4Ug"
       },

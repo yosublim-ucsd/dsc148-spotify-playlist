@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 792895,
+  "num_followers": 793189,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 486240,
-      "name": "Tower Of Strength",
-      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Is Nothing Sacred?",
         "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 205693,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 486240,
+      "name": "Tower Of Strength",
+      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
       "added_at": "2022-07-01 00:50:45",
       "album": {
         "name": "Feel It Break",
@@ -823,6 +807,22 @@
       "duration_ms": 295680,
       "name": "Beat And The Pulse",
       "url": "https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Loved",
-        "url": "https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Shining Road",
-      "url": "https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Shimmering, Warm and Bright",
         "url": "https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Lucky Number (The Best Of)",
-        "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0"
       },
       "artists": [
         {
-          "name": "Lene Lovich",
-          "url": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Bird Song",
-      "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
+      "duration_ms": 231613,
+      "name": "Shining Road",
+      "url": "https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1255,6 +1239,22 @@
       "duration_ms": 247800,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Lucky Number (The Best Of)",
+        "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
+      },
+      "artists": [
+        {
+          "name": "Lene Lovich",
+          "url": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Bird Song",
+      "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
     },
     {
       "added_at": "2021-10-15 04:04:50",

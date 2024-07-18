@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 33253,
+  "num_followers": 33287,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -868,7 +868,7 @@
           "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
         },
         {
-          "name": "Hotkid",
+          "name": "Hotkeed",
           "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-07-05 12:38:20",
       "album": {
-        "name": "What Would You Do Without Me",
-        "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 157821,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
-    },
-    {
-      "added_at": "2024-07-05 12:38:20",
-      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
+    },
+    {
+      "added_at": "2024-07-05 12:38:20",
+      "album": {
+        "name": "What Would You Do Without Me",
+        "url": "https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 157821,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
     },
     {
       "added_at": "2024-07-05 12:38:20",

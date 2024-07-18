@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Town",
+        "url": "https://open.spotify.com/album/5gHaj7LfX54Ex6IJUxlX7Q"
+      },
+      "artists": [
+        {
+          "name": "GIRLBAND!",
+          "url": "https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227744,
+      "name": "Heartbreak Town",
+      "url": "https://open.spotify.com/track/7nT12hUGZBFNhtEszoe98S"
+    },
+    {
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 159000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/50avOa0LBFsU1nAahTRlMZ"

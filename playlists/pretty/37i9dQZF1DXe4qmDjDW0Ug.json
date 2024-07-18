@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13503,
+  "num_followers": 13509,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 263644,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "Back To The Soul Flight",
         "url": "https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 266506,
       "name": "\uadc0\ub85c",
       "url": "https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 234640,
-      "name": "Memory Loss",
-      "url": "https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 247173,
-      "name": "Across the Universe",
-      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+      "duration_ms": 288693,
+      "name": "If You Comeback",
+      "url": "https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -835,6 +819,22 @@
       "duration_ms": 267232,
       "name": "Let's start our love again",
       "url": "https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
     },
     {
       "added_at": "2024-04-04 20:09:20",

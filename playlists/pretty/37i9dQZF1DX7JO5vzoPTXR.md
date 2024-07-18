@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFDmc9mJCPQno?si=e371f985a69844d5">Lauren Aquilina</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,602 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,608 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

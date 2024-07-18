@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-1,259 songs - 2 day 18 hr 11 min
+1,260 songs - 2 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Eat Sleep Rave Repeat](https://open.spotify.com/track/481Yr3hSWlfMeW4pmS13Db) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Eat Sleep Rave Repeat](https://open.spotify.com/album/15777nhY1ROMOtJVVRzQXT) | 2:01 | 2024-07-12 |  |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 | 2024-06-01 |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2024-06-07 |
+| [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 | 2024-07-12 |  |
 | [Einhver sem ég get treyst](https://open.spotify.com/track/6qxEMzWOknzlFbeKLeEGuS) | [AGLA](https://open.spotify.com/artist/2QUbRyEhwjhUINasXB5f6Z) | [Einhver sem ég get treyst](https://open.spotify.com/album/2KzRaU895xfDptXMmkDKcF) | 2:55 | 2024-05-17 | 2024-05-18 |
 | [EINMANA](https://open.spotify.com/track/45GtAneZ6yoNKSOcrAoasP) | [Ka\-Oss](https://open.spotify.com/artist/6QqPC5beQNlutcq8SMQ1hU) | [EINMANA](https://open.spotify.com/album/5lqJYMWKycyBPsYJSL0tqs) | 3:45 | 2024-07-05 | 2024-07-12 |
 | [Eins og þú](https://open.spotify.com/track/6fBZz5cHYzNp0sEz512bmv) | [Daniel Alvin](https://open.spotify.com/artist/69vLAoKh8urFGU1o2uC8iV), [Gunnar Pétur](https://open.spotify.com/artist/7dcxSoW7XiHeNoRBNmbNyF) | [Eins og þú](https://open.spotify.com/album/126UUmY6wOdY2cJvkrLqdf) | 2:44 | 2024-05-03 | 2024-05-05 |

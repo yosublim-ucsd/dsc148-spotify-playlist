@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is: Felicity Urquhart\. Alle wichtigen Tracks in einer Playlist.
+> This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
 96 songs - 5 hr 53 min
 
@@ -12,7 +12,7 @@
 | [All Good Fun](https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:33 | 2023-08-10 | 2023-08-20 |
 | [All Good Fun \- Live @ Studio Goonga, 2019](https://open.spotify.com/track/6b051VFccFPDnLXwDOJX2Z) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [All Good Fun \(Live @ Studio Goonga, 2019\)](https://open.spotify.com/album/37BOImeDfA77dEkVWqvAJG) | 3:43 | 2023-09-18 | 2024-06-14 |
 | [Amazing](https://open.spotify.com/track/2eWvmojw75d2yaPARaKj22) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:01 | 2023-06-17 |  |
-| [As You Lay Sleeping](https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO) | [Mick Thomas](https://open.spotify.com/artist/5PPjTs0rzmF3EQUiRBMge2), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Spin! Spin! Spin!](https://open.spotify.com/album/4RmxqMBODWQhJqmw573xyx) | 2:50 | 2023-06-17 | 2024-07-15 |
+| [As You Lay Sleeping](https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO) | [Mick Thomas](https://open.spotify.com/artist/5PPjTs0rzmF3EQUiRBMge2), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Spin! Spin! Spin!](https://open.spotify.com/album/4RmxqMBODWQhJqmw573xyx) | 2:50 | 2023-06-17 |  |
 | [At Least Once A Year](https://open.spotify.com/track/3ytTfUh19oeYeEi8aP2ff5) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:27 | 2023-11-10 | 2024-01-17 |
 | [At Your Table](https://open.spotify.com/track/3yDSaSwCiSW6oXRDaOlDzp) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:24 | 2023-06-26 |  |
 | [Bed and Breakfast](https://open.spotify.com/track/7bJugT9TUsQQnM0hQlgILq) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 4:01 | 2023-08-07 | 2024-06-17 |
@@ -22,7 +22,7 @@
 | [Bogswamp](https://open.spotify.com/track/0HVMscjhyVfXgiNFgpcgUa) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Bogswamp](https://open.spotify.com/album/5IEDUuNTmaSyVIu3pt6c2b) | 3:54 | 2023-06-17 |  |
 | [Bon Bons](https://open.spotify.com/track/2kUYxBMfhX1HhJwZDpYvOM) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:35 | 2023-06-25 | 2024-07-14 |
 | [Breaking Your Heart Again](https://open.spotify.com/track/0xTkMv6wQtQkhBbRvLfd6t) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:53 | 2023-06-17 | 2023-08-10 |
-| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 |  |
+| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 | 2024-07-18 |
 | [Cartwheel and Climb](https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:50 | 2023-06-19 | 2023-08-28 |
 | [Catching a Feeling](https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:57 | 2023-06-17 | 2024-07-14 |
 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 | 2023-06-17 |  |

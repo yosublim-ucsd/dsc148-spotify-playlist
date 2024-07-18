@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,688 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,707 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 |
+| 1 | [VUELA](https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Dekko](https://open.spotify.com/artist/1LPvyE6UshqFghBPJT1hji), [Luister La Voz](https://open.spotify.com/artist/6sNXVnJ5ZwENFSA2W68S4x) | [VUELA](https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq) | 3:13 |
 | 2 | [Catalina](https://open.spotify.com/track/46W0RhOuD4nUPCCc6Gjsg7) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Catalina](https://open.spotify.com/album/5EWHECPipXWnr60afW3Rf8) | 3:18 |
 | 3 | [Dame Un Beso](https://open.spotify.com/track/6D8ayHlwlcKaaGLjGNLsr7) | [Young F](https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM) | [Dame Un Beso](https://open.spotify.com/album/0LpMyOTBAQCXvMJ6C09V6v) | 3:37 |
 | 4 | [Los Insuperables](https://open.spotify.com/track/2Fiu8HbYuIn5xBC2Xg4608) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Volvió El Rey](https://open.spotify.com/album/6sLEpUUgSz4vTHcEef4gXE) | 3:16 |

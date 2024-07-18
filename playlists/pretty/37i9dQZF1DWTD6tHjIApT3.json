@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u7d2b \u4eca\uff08Mulasaki Ima\uff09",
-  "num_followers": 113063,
+  "num_followers": 113080,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
+        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
         "name": "\u9b54\u6027\u306e\u5973A",
         "url": "https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 228920,
       "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
-        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
-        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
-      },
-      "artists": [
-        {
-          "name": "suis from Yorushika",
-          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
-      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
-        "url": "https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU"
+        "name": "\u7d21\u3050",
+        "url": "https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
         }
       ],
-      "duration_ms": 195680,
-      "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
-      "url": "https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu"
+      "duration_ms": 231133,
+      "name": "\u7d21\u3050",
+      "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u7d21\u3050",
-        "url": "https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ"
+        "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
+        "url": "https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU"
       },
       "artists": [
         {
-          "name": "Tota",
-          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 231133,
-      "name": "\u7d21\u3050",
-      "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"
+      "duration_ms": 195680,
+      "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
+      "url": "https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "Party!!",
-        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Party!!",
-      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u6b8b\u6a5f",
         "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 219643,
       "name": "\u604b\u6ce5\u68d2\u3002",
       "url": "https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "Party!!",
+        "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 258413,
+      "name": "Party!!",
+      "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u521d\uff2b\uff2f\u52dd\u3061",
-        "url": "https://open.spotify.com/album/65MDsIZ8w32fVfbFhz68gH"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        },
-        {
-          "name": "\u306e\u3063\u3061",
-          "url": "https://open.spotify.com/artist/1Y1Uce4qIuL8b1fOMpZZoV"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "\u521d\uff2b\uff2f\u52dd\u3061",
-      "url": "https://open.spotify.com/track/1CgrzghxC7VBPNHrAPqFab"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
         "name": "\u3042\u306e\u306d",
         "url": "https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm"
       },
@@ -1539,22 +1519,6 @@
       "duration_ms": 409653,
       "name": "\u3042\u306e\u306d",
       "url": "https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
-        "name": "\u5b9d\u8005",
-        "url": "https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 257413,
-      "name": "\u5b9d\u8005",
-      "url": "https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1575,6 +1539,42 @@
       "duration_ms": 202880,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u5b9d\u8005",
+        "url": "https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 257413,
+      "name": "\u5b9d\u8005",
+      "url": "https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "\u521d\uff2b\uff2f\u52dd\u3061",
+        "url": "https://open.spotify.com/album/65MDsIZ8w32fVfbFhz68gH"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "\u306e\u3063\u3061",
+          "url": "https://open.spotify.com/artist/1Y1Uce4qIuL8b1fOMpZZoV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "\u521d\uff2b\uff2f\u52dd\u3061",
+      "url": "https://open.spotify.com/track/1CgrzghxC7VBPNHrAPqFab"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1627,18 +1627,54 @@
     {
       "added_at": "2024-07-16 15:00:00",
       "album": {
-        "name": "\u4eba\u9593\u3068\u3057\u3066",
-        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
+        "name": "\u30ef\u30eb\u30c4",
+        "url": "https://open.spotify.com/album/31BC9S9cEbJYjjkyJIxc4N"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
         }
       ],
-      "duration_ms": 194000,
-      "name": "\u4eba\u9593\u3068\u3057\u3066",
-      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
+      "duration_ms": 276933,
+      "name": "\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd"
+    },
+    {
+      "added_at": "2024-07-16 15:00:00",
+      "album": {
+        "name": "Bad Bitch \u7f8e\u5b66 Remix",
+        "url": "https://open.spotify.com/album/1dhoOKqxQ1A6lN0TVxb9WB"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "YURIYAN RETRIEVER",
+          "url": "https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2"
+        }
+      ],
+      "duration_ms": 369111,
+      "name": "Bad Bitch \u7f8e\u5b66 Remix",
+      "url": "https://open.spotify.com/track/0ldJSvsmLivbEDWjMl5K2d"
     },
     {
       "added_at": "2024-07-16 15:00:00",
@@ -1663,22 +1699,6 @@
       "duration_ms": 192700,
       "name": "\u6625\u7d1b\u3044",
       "url": "https://open.spotify.com/track/64YVoI1cPawlsjmnSXgxAH"
-    },
-    {
-      "added_at": "2024-07-16 15:00:00",
-      "album": {
-        "name": "\u30ef\u30eb\u30c4",
-        "url": "https://open.spotify.com/album/31BC9S9cEbJYjjkyJIxc4N"
-      },
-      "artists": [
-        {
-          "name": "Leo Ieiri",
-          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "\u30ef\u30eb\u30c4",
-      "url": "https://open.spotify.com/track/68vtBxs3GCBkVjLS94QVPd"
     }
   ],
   "unique_name": "Women's Voice",

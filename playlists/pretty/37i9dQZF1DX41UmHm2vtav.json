@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 468454,
+  "num_followers": 468493,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-07-09 12:47:44",
       "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2024-07-09 12:47:44",
+      "album": {
         "name": "EletroTribalistas",
         "url": "https://open.spotify.com/album/1LVeI6iW6g7RvgQBLoSLpb"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 226745,
       "name": "Passe em Casa (feat. Margareth Menezes) - Eletr\u00f4nica",
       "url": "https://open.spotify.com/track/3lnPNtiKdNG5kLhQD4A7XV"
-    },
-    {
-      "added_at": "2024-07-09 12:47:44",
-      "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2024-07-09 12:47:44",

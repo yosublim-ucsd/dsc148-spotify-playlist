@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,002 likes - 55 songs - 3 hr 24 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,007 likes - 55 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 48 | [Shout You Down](https://open.spotify.com/track/6UW9ApvsAi3T4iADLrfLZH) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Shout You Down / I Wanna Live](https://open.spotify.com/album/3DAc4Nb1a7PlaQ43SILidd) | 2:49 |
 | 49 | [Pink Smoke](https://open.spotify.com/track/7qJswKoIImLc8pPN8LtEJb) | [Quivers](https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55) | [Pink Smoke](https://open.spotify.com/album/3RPe2D0NvKostJO4GbnfcM) | 4:27 |
 | 50 | [Purgatory](https://open.spotify.com/track/4tqMUDk2r6GFa5ELJa7voi) | [The Mystery Lights](https://open.spotify.com/artist/6AQxkjJQfz7CNjwZ5CTqJX) | [Purgatory](https://open.spotify.com/album/6QTrdozaYg3U5gpHypmeyf) | 2:57 |
-| 51 | [Cut It Like a Diamond](https://open.spotify.com/track/5eQnPdGxqHKAyeqIotY1kn) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Cut It Like a Diamond](https://open.spotify.com/album/6EC9ICAiffDaIaiIIElaAK) | 4:26 |
+| 51 | [Cut It Like A Diamond](https://open.spotify.com/track/5eQnPdGxqHKAyeqIotY1kn) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Cut It Like A Diamond](https://open.spotify.com/album/6EC9ICAiffDaIaiIIElaAK) | 4:26 |
 | 52 | [MIND TRAIN](https://open.spotify.com/track/7pFRffu8D6ungYqP4eWCQT) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [MIND TRAIN](https://open.spotify.com/album/0VGZKgvi9aFr0PYOHJt7hY) | 9:03 |
 | 53 | [slob air](https://open.spotify.com/track/1eW6b42vW6wGWxVIoCfi52) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [slob air](https://open.spotify.com/album/4LBy7wrXhv18P82ekthg7d) | 12:28 |
 | 54 | [Breath Out](https://open.spotify.com/track/0VT4FAlIF2tfOS2DqJ3zwO) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Breath Out](https://open.spotify.com/album/6aeYIgaukmhTJ8wm3WubkC) | 3:08 |

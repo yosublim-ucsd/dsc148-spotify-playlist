@@ -305,6 +305,28 @@
     },
     {
       "album": {
+        "name": "EEEASY",
+        "url": "https://open.spotify.com/album/5rlMaYhSPOoM0gGobykuzm"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "\u827e\u5fd7\u6052Asen",
+          "url": "https://open.spotify.com/artist/6r2q02rEyw3DQXDXpNFwpp"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180293,
+      "name": "EEEASY",
+      "url": "https://open.spotify.com/track/5P66jWpMGuRtTrJHz2pneh"
+    },
+    {
+      "album": {
         "name": "Fast car",
         "url": "https://open.spotify.com/album/3TESS9fUY3HpvrJiVlxScF"
       },
@@ -4086,7 +4108,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 209838,
       "name": "\u7121\u57a2",
       "url": "https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv"

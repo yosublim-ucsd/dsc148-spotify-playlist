@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17923,
+  "num_followers": 17928,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Flora Matos Vs. Stereodubs",
-        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Stereodubs",
-          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Esperar o Sol",
-      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Rela\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0CU3Cm9HXv6cWv1NxMuqXw"
       },
@@ -1135,6 +1135,26 @@
       "duration_ms": 184697,
       "name": "Rela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "A M\u00fasica da M\u00e3e",
+        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "A M\u00fasica da M\u00e3e",
+      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1179,26 +1199,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "A M\u00fasica da M\u00e3e",
-        "url": "https://open.spotify.com/album/7dEBIuAU4GRtGxbxweMtXp"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "A M\u00fasica da M\u00e3e",
-      "url": "https://open.spotify.com/track/2YD8rHthWUwXAyucqI5gYm"
     },
     {
       "added_at": "2024-02-23 18:00:29",

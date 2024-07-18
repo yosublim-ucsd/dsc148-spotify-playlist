@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 230680,
       "name": "A Perfect Day to Die",
       "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
@@ -4856,6 +4856,24 @@
       "duration_ms": 257186,
       "name": "Far from the Sanctuary",
       "url": "https://open.spotify.com/track/5pnHwLdIvwp1IPXmQJmaBc"
+    },
+    {
+      "album": {
+        "name": "Fast As A Shark",
+        "url": "https://open.spotify.com/album/2zlgvGZhWNxFqssp7or4if"
+      },
+      "artists": [
+        {
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208009,
+      "name": "Fast As A Shark",
+      "url": "https://open.spotify.com/track/6zgeRLkClN6lSNRSpQK9K7"
     },
     {
       "album": {
@@ -8004,7 +8022,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
@@ -11216,7 +11234,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 163557,
       "name": "Rankarumpu",
       "url": "https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f"
@@ -15210,6 +15228,24 @@
       "duration_ms": 265001,
       "name": "Turborider",
       "url": "https://open.spotify.com/track/07QtZcsiO25zCmq7oQ8utc"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200023,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
     },
     {
       "album": {

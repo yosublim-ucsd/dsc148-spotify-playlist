@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 27407,
+  "num_followers": 27412,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym"
-      },
-      "artists": [
-        {
-          "name": "Mamma Soul",
-          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
         "name": "En Una",
         "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 249731,
       "name": "En Una",
       "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/5vk3olvzG9kcELAZ1i8Pym"
+      },
+      "artists": [
+        {
+          "name": "Mamma Soul",
+          "url": "https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/4jSbJmZXOmLKLz2nkG3oup"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
-        "name": "Jurassik Funk",
-        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
-      },
-      "artists": [
-        {
-          "name": "Jurassik Funk",
-          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Pick Up On Your Line",
-      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 184111,
       "name": "Estoy Contento, Nena",
       "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
+        "name": "Jurassik Funk",
+        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
+      },
+      "artists": [
+        {
+          "name": "Jurassik Funk",
+          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Pick Up On Your Line",
+      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
-        "name": "Contra la Corriente",
-        "url": "https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY"
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
       },
       "artists": [
         {
-          "name": "Crettino",
-          "url": "https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD"
-        },
-        {
-          "name": "Felipe Ilabaca",
-          "url": "https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU"
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
         }
       ],
-      "duration_ms": 175957,
-      "name": "Contra la Corriente",
-      "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+        "name": "Contra la Corriente",
+        "url": "https://open.spotify.com/album/4BDKn8HX52PP61H4GcZODY"
       },
       "artists": [
         {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+          "name": "Crettino",
+          "url": "https://open.spotify.com/artist/6JjpGdFSIb9QIRXGmvT7OD"
+        },
+        {
+          "name": "Felipe Ilabaca",
+          "url": "https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU"
         }
       ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
+      "duration_ms": 175957,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/1GltPY9or2DUMLAZIIFyno"
     },
     {
       "added_at": "2024-07-11 23:40:44",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-07-11 23:40:44",
       "album": {
+        "name": "Susana",
+        "url": "https://open.spotify.com/album/5DpAbzJJ6XdFQDj3M5TDWi"
+      },
+      "artists": [
+        {
+          "name": "TARO El Caramelo",
+          "url": "https://open.spotify.com/artist/2vgR2bFMFjxIwpxKOu0eIe"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Susana",
+      "url": "https://open.spotify.com/track/1DhDFR31XT5CqdxD0scbHN"
+    },
+    {
+      "added_at": "2024-07-11 23:40:44",
+      "album": {
         "name": "Polvo C\u00f3smico (Remix)",
         "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
-    },
-    {
-      "added_at": "2024-07-11 23:40:44",
-      "album": {
-        "name": "Susana",
-        "url": "https://open.spotify.com/album/5DpAbzJJ6XdFQDj3M5TDWi"
-      },
-      "artists": [
-        {
-          "name": "TARO El Caramelo",
-          "url": "https://open.spotify.com/artist/2vgR2bFMFjxIwpxKOu0eIe"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Susana",
-      "url": "https://open.spotify.com/track/1DhDFR31XT5CqdxD0scbHN"
     },
     {
       "added_at": "2024-07-11 23:40:44",

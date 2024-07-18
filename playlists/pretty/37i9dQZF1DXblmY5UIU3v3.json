@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 422193,
+  "num_followers": 422420,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-15 20:00:01",
       "album": {
-        "name": "Cradles",
-        "url": "https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq"
-      },
-      "artists": [
-        {
-          "name": "T-Mass",
-          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/1hxgToW6NhgNzFtCfZXeWU"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Cradles",
-      "url": "https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW"
-    },
-    {
-      "added_at": "2024-07-15 20:00:01",
-      "album": {
         "name": "Solovey",
         "url": "https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 125177,
       "name": "Solovey",
       "url": "https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb"
+    },
+    {
+      "added_at": "2024-07-15 20:00:01",
+      "album": {
+        "name": "Cradles",
+        "url": "https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq"
+      },
+      "artists": [
+        {
+          "name": "T-Mass",
+          "url": "https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/1hxgToW6NhgNzFtCfZXeWU"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Cradles",
+      "url": "https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW"
     },
     {
       "added_at": "2024-07-15 20:00:01",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-15 20:00:01",
       "album": {
+        "name": "Tricky Trippy",
+        "url": "https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5"
+      },
+      "artists": [
+        {
+          "name": "Demeter",
+          "url": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
+        }
+      ],
+      "duration_ms": 178002,
+      "name": "Tricky Trippy",
+      "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"
+    },
+    {
+      "added_at": "2024-07-15 20:00:01",
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 152001,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC"
-    },
-    {
-      "added_at": "2024-07-15 20:00:01",
-      "album": {
-        "name": "Tricky Trippy",
-        "url": "https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5"
-      },
-      "artists": [
-        {
-          "name": "Demeter",
-          "url": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
-        }
-      ],
-      "duration_ms": 178002,
-      "name": "Tricky Trippy",
-      "url": "https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu"
     },
     {
       "added_at": "2024-07-15 20:00:01",

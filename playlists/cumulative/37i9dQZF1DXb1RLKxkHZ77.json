@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "3..2..1",
+        "url": "https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg"
+      },
+      "artists": [
+        {
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203356,
+      "name": "3..2..1",
+      "url": "https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j"
+    },
+    {
+      "album": {
         "name": "99",
         "url": "https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7"
       },
@@ -100,6 +118,24 @@
       "duration_ms": 279928,
       "name": "Ajarkan Aku...",
       "url": "https://open.spotify.com/track/0oFODP50WO9IhPfZHZ99hs"
+    },
+    {
+      "album": {
+        "name": "Akan Tiba",
+        "url": "https://open.spotify.com/album/3jmjlZE6a2LyGocLvqrTVv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Delisha",
+          "url": "https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Akan Tiba",
+      "url": "https://open.spotify.com/track/0yM2rAvalsqBtcFEWgkUrb"
     },
     {
       "album": {
@@ -1885,6 +1921,28 @@
     },
     {
       "album": {
+        "name": "Cinta Tak Pernah Tepat Waktu",
+        "url": "https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212318,
+      "name": "Cinta Tak Pernah Tepat Waktu",
+      "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
+    },
+    {
+      "album": {
         "name": "Cinta Tiada Batas",
         "url": "https://open.spotify.com/album/6OAI3NOZazrdSqcITWz9OT"
       },
@@ -2498,6 +2556,24 @@
       "duration_ms": 242000,
       "name": "Gagal Bersembunyi",
       "url": "https://open.spotify.com/track/3uVXx4FZU0TawfkyQznFBr"
+    },
+    {
+      "album": {
+        "name": "Gambar Dan Kenangan",
+        "url": "https://open.spotify.com/album/0agOzLYAiWUbo36rCzaEzy"
+      },
+      "artists": [
+        {
+          "name": "Reedzwann",
+          "url": "https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275247,
+      "name": "Gambar Dan Kenangan",
+      "url": "https://open.spotify.com/track/4wbrkz0CyQhMFVTXpGGwo8"
     },
     {
       "album": {
@@ -3678,7 +3754,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 343937,
       "name": "Jangan Pergi",
       "url": "https://open.spotify.com/track/2faSHQDkP2AMv637Khx29U"
@@ -3950,7 +4026,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 192000,
       "name": "Kala Tiba - (Nafsu Original Soundtrack)",
       "url": "https://open.spotify.com/track/6qAG6TTtxyzxzVsDuoTFFx"
@@ -4226,6 +4302,28 @@
       "duration_ms": 229622,
       "name": "Kaulah Syurga",
       "url": "https://open.spotify.com/track/5Mg6WjcJyOCoz03mHBXhqd"
+    },
+    {
+      "album": {
+        "name": "Keakhirnya (feat. Heidi Moru)",
+        "url": "https://open.spotify.com/album/0IypmRbEALARWpRJdCsF2p"
+      },
+      "artists": [
+        {
+          "name": "Fimie Don",
+          "url": "https://open.spotify.com/artist/1zXDRPtYIB5xIK8oH4Bht0"
+        },
+        {
+          "name": "Heidi Moru",
+          "url": "https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240387,
+      "name": "Keakhirnya (feat. Heidi Moru)",
+      "url": "https://open.spotify.com/track/3NoklPTz2sPQMS6QhALvMM"
     },
     {
       "album": {
@@ -5078,7 +5176,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 202784,
       "name": "Mahir Memberi Luka",
       "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
@@ -6116,7 +6214,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 231103,
       "name": "Padam Api Dalam Lentera",
       "url": "https://open.spotify.com/track/5K3YoXc2ZoNcqu4rLtVk5Z"
@@ -6428,7 +6526,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 200277,
       "name": "Perih Jerih",
       "url": "https://open.spotify.com/track/5FU11jfMr0J7tr2LJkb1S7"
@@ -7661,6 +7759,28 @@
     },
     {
       "album": {
+        "name": "Selama Ku Bernafas",
+        "url": "https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294293,
+      "name": "Selama Ku Bernafas",
+      "url": "https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T"
+    },
+    {
+      "album": {
         "name": "Semangat Wira",
         "url": "https://open.spotify.com/album/3Nbl6VxFMTxa0AaGlhcFoJ"
       },
@@ -8622,7 +8742,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 215368,
       "name": "Tangis",
       "url": "https://open.spotify.com/track/48bY0txTRuOJdMrbQu7O0W"

@@ -2147,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "La Mantequilla - Desencadena Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3i259A1pncMGQikOXpxnoE"
+      },
+      "artists": [
+        {
+          "name": "Leon Boy",
+          "url": "https://open.spotify.com/artist/3zAGNUjthXxNCP7wjyc4E5"
+        },
+        {
+          "name": "Desenfrenados Rockabilly",
+          "url": "https://open.spotify.com/artist/7KMrpJczTHJfmxImS5g703"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242822,
+      "name": "La Mantequilla",
+      "url": "https://open.spotify.com/track/46ZnCf3Yoed1vwQdrOiILy"
+    },
+    {
+      "album": {
         "name": "La Muerte",
         "url": "https://open.spotify.com/album/42XyZuqcGW7GiRYnBOYwSj"
       },
@@ -3342,7 +3364,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 183760,
       "name": "Runaway - En Directo",
       "url": "https://open.spotify.com/track/6n9lXiZ7ncFaTQyGV9RaAy"
@@ -3638,7 +3660,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 214000,
       "name": "Sputnik A-Go-Go",
       "url": "https://open.spotify.com/track/7etKtgTsjfSEOZp1eqNJad"
@@ -4366,6 +4388,28 @@
       "duration_ms": 126733,
       "name": "Walk, Don't Run",
       "url": "https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM"
+    },
+    {
+      "album": {
+        "name": "Went to a Party",
+        "url": "https://open.spotify.com/album/2QX23dMU67xFKfKXblwsZa"
+      },
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+        },
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177653,
+      "name": "Went to a Party",
+      "url": "https://open.spotify.com/track/74J56b0iuvVHwQtqiANQpG"
     },
     {
       "album": {

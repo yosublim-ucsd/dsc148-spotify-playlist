@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Moroney. The essential tracks, all in one playlist.",
-  "num_followers": 13139,
+  "num_followers": 13217,
   "original_name": "This Is Megan Moroney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAABrWC9HXifDK8BkKtv8MD4t",
+  "snapshot_id": "ZpW4AAAAAABdT7a298yE/ylbIIh6cibG",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "28th of June",
-        "url": "https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX"
+        "name": "Lucky (Deluxe)",
+        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
       "artists": [
         {
           "name": "Megan Moroney",
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
         }
       ],
-      "duration_ms": 225363,
-      "name": "28th of June",
-      "url": "https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct"
+      "duration_ms": 191189,
+      "name": "Nothin\u2019 Crazy (feat. Mackenzie Carpenter)",
+      "url": "https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc"
     },
     {
       "added_at": null,
@@ -307,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky (Deluxe)",
-        "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 191189,
-      "name": "Nothin\u2019 Crazy (feat. Mackenzie Carpenter)",
-      "url": "https://open.spotify.com/track/6CLi7ysa6YNvoBlYg9W5Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Are You Listening To?",
         "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 251479,
       "name": "What Are You Listening To?",
       "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 190730,
+      "name": "I Love Me",
+      "url": "https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 190730,
-      "name": "I Love Me",
-      "url": "https://open.spotify.com/track/7yL4l7X3nfMV6zYBgn1IfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucky (Deluxe)",
         "url": "https://open.spotify.com/album/4Yb0OvM7xTvuyjUivVEXP4"
       },
@@ -407,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 181322,
-      "name": "Miss Universe",
-      "url": "https://open.spotify.com/track/5sQmEdWnALexmqT8e4q3dB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
@@ -435,6 +403,22 @@
       "duration_ms": 212301,
       "name": "He Made Me Do It",
       "url": "https://open.spotify.com/track/2pkZwJgXMeapPZ3BGoNNGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181322,
+      "name": "Miss Universe",
+      "url": "https://open.spotify.com/track/5sQmEdWnALexmqT8e4q3dB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-1,197 songs - 2 day 12 hr 51 min
+1,198 songs - 2 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Easy](https://open.spotify.com/track/79ZKrHZVLDR7zeUMIsjI1r) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Easy](https://open.spotify.com/album/5JcxWL1M174eVCbxbpLXMo) | 2:54 | 2024-06-06 | 2024-06-14 |
 | [Eat Sleep Rave Repeat](https://open.spotify.com/track/481Yr3hSWlfMeW4pmS13Db) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Eat Sleep Rave Repeat](https://open.spotify.com/album/15777nhY1ROMOtJVVRzQXT) | 2:01 | 2024-07-11 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-30 | 2024-06-07 |
+| [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 | 2024-07-11 |  |
 | [Elsker Dig Så Meget](https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Elsker Dig Så Meget](https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR) | 3:21 | 2024-05-16 | 2024-05-24 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-05-30 | 2024-06-07 |
 | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [En del av dig \(From the Netflix film "A Part Of You"\)](https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ) | 2:57 | 2024-06-20 | 2024-06-28 |

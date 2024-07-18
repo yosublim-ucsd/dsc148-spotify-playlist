@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,900 songs - 4 day 11 hr 44 min
+1,902 songs - 4 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Congos](https://open.spotify.com/track/4xXNsJ5lkapF4psNWfCdXw) | [Catsinka](https://open.spotify.com/artist/2Ynro8ElWjD3skhoMLjJTh) | [Universal Language EP](https://open.spotify.com/album/39j16dKoN2gw08XqKDDkIK) | 4:09 | 2023-04-07 | 2023-04-15 |
 | [Connected](https://open.spotify.com/track/56ChzyUJ7FrIsToNQaJi7i) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Connected](https://open.spotify.com/album/5ybyy1avjgzWjCg8oaMGG3) | 4:00 | 2023-10-13 | 2023-10-28 |
 | [Conquistador](https://open.spotify.com/track/4NpbvvJopO5C2nNa0YMrjq) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:52 | 2023-04-28 | 2023-05-06 |
+| [Control](https://open.spotify.com/track/52gYzfR68quRvIsB190kG8) | [Erick Diaz](https://open.spotify.com/artist/4avEqbkqIkOS7xEPy7ixDm) | [Control](https://open.spotify.com/album/0JQdRC48hTRUED6xsDbZQP) | 2:35 | 2024-07-17 |  |
 | [Conversation](https://open.spotify.com/track/2GJvfmOHNmhF5g4pf8eYXB) | [D\-Tek](https://open.spotify.com/artist/0Ss5Mgh4yOBheewjYwTJ7p) | [Conversation](https://open.spotify.com/album/1uasdYV8h6Suy7Rly4Wu3m) | 3:50 | 2022-04-28 | 2022-05-14 |
 | [Coqueteah \- Streaming Edit](https://open.spotify.com/track/25fL5edDFXGKqIOloY6ZQj) | [Tony Metric](https://open.spotify.com/artist/3jNo8kSqxXoHTiMUuLWG8O) | [Embobaa](https://open.spotify.com/album/3LYVfPRW585YUPHkV6CNib) | 3:26 | 2023-12-29 | 2024-01-06 |
 | [Core](https://open.spotify.com/track/1MixxR1r47McDJSccegs2Q) | [FOOLiE](https://open.spotify.com/artist/5X3h4PwWZi0RkCyFd6gs0P) | [Core](https://open.spotify.com/album/4C8VuicYQmsCMMpWzpdpZF) | 5:08 | 2022-05-29 | 2022-06-04 |
@@ -1373,6 +1374,7 @@
 | [Rock](https://open.spotify.com/track/60pk1z3KUXawMOslSu37Rg) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Rock](https://open.spotify.com/album/2qWVoG7H0qvzOYUvl1CxQN) | 3:03 | 2023-09-15 | 2023-09-23 |
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-10 | 2022-06-18 |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-21 | 2023-04-29 |
+| [Rock With It](https://open.spotify.com/track/0DERnltMeapqQ0vvRDjAmR) | [Erick Diaz](https://open.spotify.com/artist/4avEqbkqIkOS7xEPy7ixDm), [Freshcobar](https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd), [Lavelle Dupree](https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m) | [Rock With It](https://open.spotify.com/album/6dg209L4D2gPURC2z9s45X) | 3:57 | 2024-07-17 |  |
 | [Rockin'](https://open.spotify.com/track/4Hh7h8a7S1Q0LjZFwn56lg) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Rockin'](https://open.spotify.com/album/7veglwyYAQL5LV1lHbhfnU) | 2:58 | 2024-06-13 | 2024-07-08 |
 | [Rodeo](https://open.spotify.com/track/3n7bTMRshWeaIcl8mfJboJ) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [Casse Croûte Sampler Vol\. 01](https://open.spotify.com/album/5nhCaLvXOG3NYQJObiBahC) | 3:49 | 2022-09-02 | 2022-09-10 |
 | [Roll Deep](https://open.spotify.com/track/0aM9pyp7B9aCcuhac1Rmov) | [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [JSED](https://open.spotify.com/artist/2cmDOnKaD2t6yi7uMc9CCq) | [Roll Deep](https://open.spotify.com/album/6vTSZuSEzAauBKX1A6rH7c) | 2:40 | 2024-02-04 | 2024-03-16 |

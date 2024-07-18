@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Kelly Lee Owens",
-  "num_followers": 485594,
+  "num_followers": 485785,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "IMY",
+        "url": "https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 180367,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -859,50 +879,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "IMY",
-        "url": "https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 180367,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Yo Bunny (Cheat Codes Remix)",
-        "url": "https://open.spotify.com/album/3hZaCXeki6Rcf89LoPjJHe"
-      },
-      "artists": [
-        {
-          "name": "prodbycpkshawn",
-          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
-        },
-        {
-          "name": "Ugly Andz.",
-          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 173725,
-      "name": "Yo Bunny - Cheat Codes Remix",
-      "url": "https://open.spotify.com/track/1itwltfvxU4OUdwdxs3Svr"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/29ruA3J7ns9aIlwiud6x7r"
       },
@@ -919,26 +895,6 @@
       "duration_ms": 177709,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5FJ0jXIJTYKuB5XdmMzeok"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -967,22 +923,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Find A Way (feat. Suli Breaks)",
-        "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
+        "name": "Yo Bunny (Cheat Codes Remix)",
+        "url": "https://open.spotify.com/album/3hZaCXeki6Rcf89LoPjJHe"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
         },
         {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         }
       ],
-      "duration_ms": 182098,
-      "name": "Find A Way (feat. Suli Breaks)",
-      "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
+      "duration_ms": 173725,
+      "name": "Yo Bunny - Cheat Codes Remix",
+      "url": "https://open.spotify.com/track/1itwltfvxU4OUdwdxs3Svr"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1031,6 +991,46 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Find A Way (feat. Suli Breaks)",
+        "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "duration_ms": 182098,
+      "name": "Find A Way (feat. Suli Breaks)",
+      "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Play the Game",
         "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
       },
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "wish.",
-        "url": "https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "Ellii",
-          "url": "https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e"
-        }
-      ],
-      "duration_ms": 206206,
-      "name": "wish.",
-      "url": "https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Real Hot",
         "url": "https://open.spotify.com/album/1DxUQVcVsoklWJzDaJ8ymI"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 163005,
       "name": "Real Hot",
       "url": "https://open.spotify.com/track/77v4EvOOKhfcElCWzRoBMB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "wish.",
+        "url": "https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        },
+        {
+          "name": "Ellii",
+          "url": "https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e"
+        }
+      ],
+      "duration_ms": 206206,
+      "name": "wish.",
+      "url": "https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1159,62 +1159,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "heartbeat (feat. Vv Pete) [rebirth]",
-        "url": "https://open.spotify.com/album/38mIXhlny0d7tQKF4c7lFc"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
-        }
-      ],
-      "duration_ms": 129213,
-      "name": "heartbeat (feat. Vv Pete) [rebirth]",
-      "url": "https://open.spotify.com/track/1jAMjt84UVy3STztrBsIKY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "See What I See",
-        "url": "https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        },
-        {
-          "name": "DEXTER KING",
-          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
-        }
-      ],
-      "duration_ms": 146417,
-      "name": "See What I See",
-      "url": "https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "So Good (Heat Mix)",
-        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
-      },
-      "artists": [
-        {
-          "name": "Blackchild (ITA)",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "So Good - Heat Mix",
-      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
       },
@@ -1247,6 +1191,62 @@
       "duration_ms": 252266,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "heartbeat (feat. Vv Pete) [rebirth]",
+        "url": "https://open.spotify.com/album/38mIXhlny0d7tQKF4c7lFc"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        }
+      ],
+      "duration_ms": 129213,
+      "name": "heartbeat (feat. Vv Pete) [rebirth]",
+      "url": "https://open.spotify.com/track/1jAMjt84UVy3STztrBsIKY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "So Good (Heat Mix)",
+        "url": "https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW"
+      },
+      "artists": [
+        {
+          "name": "Blackchild (ITA)",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "So Good - Heat Mix",
+      "url": "https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "See What I See",
+        "url": "https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "DEXTER KING",
+          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
+        }
+      ],
+      "duration_ms": 146417,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "fucking highschool people",
-        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
-      },
-      "artists": [
-        {
-          "name": "MRD",
-          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
-        }
-      ],
-      "duration_ms": 225375,
-      "name": "fucking highschool people",
-      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/5l8i5yXzGe7hgSjata9lwt"
       },
@@ -1367,26 +1351,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lovestruck",
-        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        },
-        {
-          "name": "Strath",
-          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Lovestruck",
-      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Here Again",
         "url": "https://open.spotify.com/album/0IlNCKUSISscfx38FhKD27"
       },
@@ -1403,6 +1367,58 @@
       "duration_ms": 209340,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5tjKn1vs9VXuiX1oQn4zzK"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "fucking highschool people",
+        "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        }
+      ],
+      "duration_ms": 225375,
+      "name": "fucking highschool people",
+      "url": "https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Homie Don\u2019t Shake",
+        "url": "https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Homie Don\u2019t Shake",
+      "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Homie Don\u2019t Shake",
-        "url": "https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Homie Don\u2019t Shake",
-      "url": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u"
       },
@@ -1463,22 +1463,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Dem Ears",
-        "url": "https://open.spotify.com/album/0kbeXN53Gcg1Sbe9gjuTT9"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0BiIbbU8OuIGWgwgH5p4Ki"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Racquel Jones",
-          "url": "https://open.spotify.com/artist/3cKtACqghal3orX5jPdsbp"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Dem Ears",
-      "url": "https://open.spotify.com/track/0dw00onNNQX2PpAH5sMMZp"
+      "duration_ms": 255901,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4iyLMFKYSH8Fm7RjqcMkh9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1503,18 +1499,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0BiIbbU8OuIGWgwgH5p4Ki"
+        "name": "Dem Ears",
+        "url": "https://open.spotify.com/album/0kbeXN53Gcg1Sbe9gjuTT9"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Racquel Jones",
+          "url": "https://open.spotify.com/artist/3cKtACqghal3orX5jPdsbp"
         }
       ],
-      "duration_ms": 255901,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4iyLMFKYSH8Fm7RjqcMkh9"
+      "duration_ms": 147000,
+      "name": "Dem Ears",
+      "url": "https://open.spotify.com/track/0dw00onNNQX2PpAH5sMMZp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0rn3JcTCtYffK0hBvEvYFc"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/3JuScXVzkJTODvJJFfqeM2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1555,18 +1571,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/0rn3JcTCtYffK0hBvEvYFc"
+        "name": "At Night I Think Of You (Seth Troxler & Nick Morgan Remix)",
+        "url": "https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq"
       },
       "artists": [
         {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+          "name": "Tr\u00e8s Mortimer",
+          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Nick Morgan",
+          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
         }
       ],
-      "duration_ms": 193440,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/3JuScXVzkJTODvJJFfqeM2"
+      "duration_ms": 219866,
+      "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
+      "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1595,26 +1619,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "At Night I Think Of You (Seth Troxler & Nick Morgan Remix)",
-        "url": "https://open.spotify.com/album/4GBQXHCUrxqHQFzLizB4Oq"
+        "name": "give me a reason",
+        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
       },
       "artists": [
         {
-          "name": "Tr\u00e8s Mortimer",
-          "url": "https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7"
-        },
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Nick Morgan",
-          "url": "https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8"
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 219866,
-      "name": "At Night I Think Of You - Seth Troxler & Nick Morgan Remix",
-      "url": "https://open.spotify.com/track/2TfO3Q2lD898SIz0pVn7Qh"
+      "duration_ms": 159327,
+      "name": "give me a reason",
+      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1635,18 +1651,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "give me a reason",
-        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
+        "name": "Pagaia",
+        "url": "https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Black Legend",
+          "url": "https://open.spotify.com/artist/4qLiTGMBoVE95pmqJPseOU"
         }
       ],
-      "duration_ms": 159327,
-      "name": "give me a reason",
-      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
+      "duration_ms": 166190,
+      "name": "Pagaia",
+      "url": "https://open.spotify.com/track/6WQY5UTB3Z4WLBx5TWq0tq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1667,22 +1687,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Pagaia",
-        "url": "https://open.spotify.com/album/19XagvskmJR5KIVdrNiVew"
+        "name": "Subsonic",
+        "url": "https://open.spotify.com/album/5ZKLQG0kagtuRzmFZfhBXZ"
       },
       "artists": [
         {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Black Legend",
-          "url": "https://open.spotify.com/artist/4qLiTGMBoVE95pmqJPseOU"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
         }
       ],
-      "duration_ms": 166190,
-      "name": "Pagaia",
-      "url": "https://open.spotify.com/track/6WQY5UTB3Z4WLBx5TWq0tq"
+      "duration_ms": 209090,
+      "name": "Subsonic",
+      "url": "https://open.spotify.com/track/05uO4x1gzDdyM49aQpy9V1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 258000,
       "name": "Angel Girl - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/40tV7DG6m3yb7hlDll5tFX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Subsonic",
-        "url": "https://open.spotify.com/album/5ZKLQG0kagtuRzmFZfhBXZ"
-      },
-      "artists": [
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Subsonic",
-      "url": "https://open.spotify.com/track/05uO4x1gzDdyM49aQpy9V1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Only Love",
-        "url": "https://open.spotify.com/album/5dSzvbgAgtZ3MWuJwgVbhn"
-      },
-      "artists": [
-        {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
-        },
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        }
-      ],
-      "duration_ms": 206700,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2nVBisvPxcBnHHyn2PPaQK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/2SdFEavs8oALmt0RMTTOFz"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 190415,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/3lOhm1NgRtM29bv3mpZZnw"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/5dSzvbgAgtZ3MWuJwgVbhn"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "duration_ms": 206700,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2nVBisvPxcBnHHyn2PPaQK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1915,42 +1915,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Freefalling",
-        "url": "https://open.spotify.com/album/37bYpcbLZVy9Gg82LTJEv6"
+        "name": "Paradise II",
+        "url": "https://open.spotify.com/album/4v7e045zDYgPiR2Qcz8cZN"
       },
       "artists": [
         {
-          "name": "Gem & Tauri",
-          "url": "https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp"
-        },
-        {
-          "name": "Eyes Everywhere",
-          "url": "https://open.spotify.com/artist/0BAgsxXcb52gCf9FbKqGVn"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         }
       ],
-      "duration_ms": 204047,
-      "name": "Freefalling",
-      "url": "https://open.spotify.com/track/426sdb2ET6VhUBSyJKUUqD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Talk 2 Em Mate",
-        "url": "https://open.spotify.com/album/2oE9oQdAbtX0C23O3Q3PHF"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Talk 2 Em Mate",
-      "url": "https://open.spotify.com/track/6NL9ijw3S2LSdCtfqqf15H"
+      "duration_ms": 195394,
+      "name": "Paradise II",
+      "url": "https://open.spotify.com/track/5rAf2c3RiulJMVWGDrWUMo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1975,18 +1951,42 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Paradise II",
-        "url": "https://open.spotify.com/album/4v7e045zDYgPiR2Qcz8cZN"
+        "name": "Talk 2 Em Mate",
+        "url": "https://open.spotify.com/album/2oE9oQdAbtX0C23O3Q3PHF"
       },
       "artists": [
         {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
         }
       ],
-      "duration_ms": 195394,
-      "name": "Paradise II",
-      "url": "https://open.spotify.com/track/5rAf2c3RiulJMVWGDrWUMo"
+      "duration_ms": 223750,
+      "name": "Talk 2 Em Mate",
+      "url": "https://open.spotify.com/track/6NL9ijw3S2LSdCtfqqf15H"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Freefalling",
+        "url": "https://open.spotify.com/album/37bYpcbLZVy9Gg82LTJEv6"
+      },
+      "artists": [
+        {
+          "name": "Gem & Tauri",
+          "url": "https://open.spotify.com/artist/4pSG7BUZvHZGk1j7QoWcFp"
+        },
+        {
+          "name": "Eyes Everywhere",
+          "url": "https://open.spotify.com/artist/0BAgsxXcb52gCf9FbKqGVn"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 204047,
+      "name": "Freefalling",
+      "url": "https://open.spotify.com/track/426sdb2ET6VhUBSyJKUUqD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Numerical Deviant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Selectors)",
-        "url": "https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ"
-      },
-      "artists": [
-        {
-          "name": "Roza Terenzi",
-          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
-        }
-      ],
-      "duration_ms": 305562,
-      "name": "Numerical Deviant",
-      "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Keep On Waiting",
         "url": "https://open.spotify.com/album/4tKBklazmf4jeAqkDV6iXV"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 209533,
       "name": "Keep On Waiting",
       "url": "https://open.spotify.com/track/6zRbUtYcdwUYQ9CNShaqov"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Numerical Deviant (Part of Dekmantel Ten: A Decade of Dekmantel Festival - Selectors)",
+        "url": "https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ"
+      },
+      "artists": [
+        {
+          "name": "Roza Terenzi",
+          "url": "https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs"
+        }
+      ],
+      "duration_ms": 305562,
+      "name": "Numerical Deviant",
+      "url": "https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Feel Like",
+        "url": "https://open.spotify.com/album/1MeeFPo4iBN2oCZqOQjIL5"
+      },
+      "artists": [
+        {
+          "name": "Curious Mind",
+          "url": "https://open.spotify.com/artist/0Mli6eFFMu7PSanMAj0gOz"
+        },
+        {
+          "name": "Comet",
+          "url": "https://open.spotify.com/artist/2ZNGdMoA9RSXhAAT9xAIEx"
+        }
+      ],
+      "duration_ms": 164575,
+      "name": "Feel Like",
+      "url": "https://open.spotify.com/track/4PXHLQ8mgFrz6HdEH8dG2x"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Earth Your Mind",
         "url": "https://open.spotify.com/album/6sqxVcGDDJjzlV0iptEQ2E"
       },
@@ -2211,26 +2231,6 @@
       "duration_ms": 216850,
       "name": "In Ether",
       "url": "https://open.spotify.com/track/5qMgz1qXTbWJfGc4YB4kPU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Feel Like",
-        "url": "https://open.spotify.com/album/1MeeFPo4iBN2oCZqOQjIL5"
-      },
-      "artists": [
-        {
-          "name": "Curious Mind",
-          "url": "https://open.spotify.com/artist/0Mli6eFFMu7PSanMAj0gOz"
-        },
-        {
-          "name": "Comet",
-          "url": "https://open.spotify.com/artist/2ZNGdMoA9RSXhAAT9xAIEx"
-        }
-      ],
-      "duration_ms": 164575,
-      "name": "Feel Like",
-      "url": "https://open.spotify.com/track/4PXHLQ8mgFrz6HdEH8dG2x"
     },
     {
       "added_at": "2024-07-12 04:00:00",

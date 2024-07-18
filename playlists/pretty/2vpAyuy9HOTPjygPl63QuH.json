@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10856,
+  "num_followers": 10861,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAi12wto17O9zp75KlL9Gi1CUxCQs2D",
+  "snapshot_id": "AAAi23zAttxufJkRAQoPkW2dNCg5GpTw",
   "tracks": [
     {
       "added_at": "2024-07-12 16:23:45",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/1p4NbbxsvCLS7lE7NHBDO8"
     },
     {
+      "added_at": "2024-07-17 11:48:21",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0JQdRC48hTRUED6xsDbZQP"
+      },
+      "artists": [
+        {
+          "name": "Erick Diaz",
+          "url": "https://open.spotify.com/artist/4avEqbkqIkOS7xEPy7ixDm"
+        }
+      ],
+      "duration_ms": 155849,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/52gYzfR68quRvIsB190kG8"
+    },
+    {
       "added_at": "2024-06-28 10:28:49",
       "album": {
         "name": "Sweetest Lines",
@@ -299,6 +315,30 @@
       "duration_ms": 227272,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/6TySyad9aOP0uDkBET5CDt"
+    },
+    {
+      "added_at": "2024-07-17 11:48:40",
+      "album": {
+        "name": "Rock With It",
+        "url": "https://open.spotify.com/album/6dg209L4D2gPURC2z9s45X"
+      },
+      "artists": [
+        {
+          "name": "Erick Diaz",
+          "url": "https://open.spotify.com/artist/4avEqbkqIkOS7xEPy7ixDm"
+        },
+        {
+          "name": "Freshcobar",
+          "url": "https://open.spotify.com/artist/34bAhoMcvOZmefLB6LJqcd"
+        },
+        {
+          "name": "Lavelle Dupree",
+          "url": "https://open.spotify.com/artist/2u4jNgwOcmnXNGjHOGst5m"
+        }
+      ],
+      "duration_ms": 237656,
+      "name": "Rock With It",
+      "url": "https://open.spotify.com/track/0DERnltMeapqQ0vvRDjAmR"
     },
     {
       "added_at": "2024-06-30 08:09:48",

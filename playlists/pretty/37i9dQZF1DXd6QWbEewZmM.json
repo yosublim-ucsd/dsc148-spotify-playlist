@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 277628,
+  "num_followers": 277706,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Sal De Mi Mente",
-        "url": "https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM"
-      },
-      "artists": [
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175096,
-      "name": "Sal De Mi Mente",
-      "url": "https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk"
-    },
-    {
-      "added_at": "2024-05-17 05:46:19",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
+    },
+    {
+      "added_at": "2024-05-17 05:46:19",
+      "album": {
+        "name": "Sal De Mi Mente",
+        "url": "https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175096,
+      "name": "Sal De Mi Mente",
+      "url": "https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Proximo Paso",
-        "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
+        "name": "Malandro Enamorado",
+        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
       },
       "artists": [
         {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
         }
       ],
-      "duration_ms": 163126,
-      "name": "Amor De Cuentos",
-      "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
+      "duration_ms": 216980,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Malandro Enamorado",
-        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
+        "name": "Proximo Paso",
+        "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
       },
       "artists": [
         {
-          "name": "Giovanni Y Su Equipo Escoltado",
-          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
         }
       ],
-      "duration_ms": 216980,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
+      "duration_ms": 163126,
+      "name": "Amor De Cuentos",
+      "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
+    },
+    {
+      "added_at": "2024-05-17 05:46:19",
+      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 220000,
       "name": "RLUX",
       "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
-    },
-    {
-      "added_at": "2024-05-17 05:46:19",
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN"
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
       "artists": [
         {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe"
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7fXMAtYUmRHuEK3vFQCMXN"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+      "duration_ms": 239200,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/6XbfRfhfoAcwpArvTYKvpe"
     },
     {
       "added_at": "2024-05-17 05:46:19",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-05-17 05:46:19",
       "album": {
-        "name": "Tomando",
-        "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 199536,
-      "name": "Tomando",
-      "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
-    },
-    {
-      "added_at": "2024-05-17 05:46:19",
-      "album": {
         "name": "Si\u00e9ntelo a Tu Modo",
         "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 224738,
       "name": "La \u00danica",
       "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
+    },
+    {
+      "added_at": "2024-05-17 05:46:19",
+      "album": {
+        "name": "Tomando",
+        "url": "https://open.spotify.com/album/1f8bw9BkGoBWH0eHFHI0b2"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 199536,
+      "name": "Tomando",
+      "url": "https://open.spotify.com/track/1CGht82S5X0ZZiEqDaFdGI"
     },
     {
       "added_at": "2024-05-17 05:46:19",

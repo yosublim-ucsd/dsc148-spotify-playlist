@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Ambwa Ki Dariyon Pe",
+        "url": "https://open.spotify.com/album/5IamEGy2JfRTxBJ0KOnDF6"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Slathia",
+          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Ambwa Ki Dariyon Pe",
+      "url": "https://open.spotify.com/track/5dQ806Bsw67JKwv26QotBc"
+    },
+    {
+      "album": {
         "name": "Angana Morey",
         "url": "https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR"
       },
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 325318,
       "name": "Main Bharose",
       "url": "https://open.spotify.com/track/33AshJyW3Wu1iKtTLoD8AW"
@@ -5700,7 +5718,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 218000,
       "name": "Sunlo",
       "url": "https://open.spotify.com/track/0fAqdUszYZAchN2QAGZE9s"
@@ -5784,6 +5802,24 @@
       "duration_ms": 198750,
       "name": "Tarfe",
       "url": "https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM"
+    },
+    {
+      "album": {
+        "name": "Tera Junoon",
+        "url": "https://open.spotify.com/album/5foF2jYpEh28PxsAgdFP7G"
+      },
+      "artists": [
+        {
+          "name": "Madhav Mahajan",
+          "url": "https://open.spotify.com/artist/2o3BjrezOtEh2AfODNjLXX"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295772,
+      "name": "Tera Junoon",
+      "url": "https://open.spotify.com/track/0dwrjtyiGDQe10u9VZkkUn"
     },
     {
       "album": {

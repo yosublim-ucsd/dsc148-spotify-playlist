@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 |  |
+| [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 | 2024-07-18 |
 | [Bohun](https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Bohun](https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7) | 3:23 | 2024-06-27 |  |
 | [Dobroho ranku](https://open.spotify.com/track/2xfA5qFr0hbd1cXnNhwNUu) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Dobroho ranku](https://open.spotify.com/album/47n464V7jEcpdMw4GWREB1) | 2:38 | 2024-07-12 |  |
 | [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 |  |
@@ -47,7 +47,7 @@
 | [метаморфосінь](https://open.spotify.com/track/4rLvqRtMQN0u5NQmPrtZkT) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [метаморфосінь](https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd) | 2:34 | 2024-07-12 |  |
 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 | 2024-06-27 |  |
 | [Мій "Друг"](https://open.spotify.com/track/6Xrv76JoY3G5l2i3LmFGXK) | [IRYN](https://open.spotify.com/artist/5oD5C0wSepvoGEDPtZHcKB) | [Мій "Друг"](https://open.spotify.com/album/4dLP7eonTcM9qaCOCx6szi) | 2:21 | 2024-06-27 | 2024-07-13 |
-| [Місто\. Музика](https://open.spotify.com/track/4qEa03hbf3pglMHGS7dYjw) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Місто\. Музика](https://open.spotify.com/album/4XG0cirKxXBthRQIid82e4) | 2:38 | 2024-06-27 | 2024-07-14 |
+| [Місто\. Музика](https://open.spotify.com/track/4qEa03hbf3pglMHGS7dYjw) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Місто\. Музика](https://open.spotify.com/album/4XG0cirKxXBthRQIid82e4) | 2:38 | 2024-06-27 |  |
 | [На самоті](https://open.spotify.com/track/7zshbb3VovaEaQR47csaEQ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [На самоті](https://open.spotify.com/album/0MMu0fyYHvn4xl5I566v1O) | 2:01 | 2024-06-27 |  |
 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 | 2024-06-27 |  |
 | [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 | 2024-06-27 |  |

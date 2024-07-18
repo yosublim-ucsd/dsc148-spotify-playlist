@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,720 likes - 100 songs - 5 hr 14 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,717 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

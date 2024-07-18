@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,889 likes - 94 songs - 5 hr 19 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 42,900 likes - 94 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 26 | [Timeout](https://open.spotify.com/track/1sqevD3fjkg2buOzFyKR47) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Sunflower Shawty 2](https://open.spotify.com/album/2o7QTukcVwEdqKkM7hqVId) | 2:31 |
 | 27 | [Body Pending](https://open.spotify.com/track/63jXJH2ZmaKDWRSOKohkh8) | [Sugarstone](https://open.spotify.com/artist/5h5xAMMNy2Nz3dB0c9T8MR) | [Body Pending](https://open.spotify.com/album/125T5vhcwrWtDp1X0dP1TT) | 3:28 |
 | 28 | [Encas](https://open.spotify.com/track/7aeQEahIMIb7fhu0E23KBc) | [Ouss Wayne](https://open.spotify.com/artist/1ryPZmq4dEy3efIH0Fv7cV) | [Encas](https://open.spotify.com/album/42OE4g8Z8tSpFDQw7d9LGP) | 3:06 |
-| 29 | [Winston](https://open.spotify.com/track/62t0EsBv5V7EY4qgUKrtPB) | [Naf](https://open.spotify.com/artist/5R82xpSEoJkDdaDWuvwEc1), [Mathilde Aimée](https://open.spotify.com/artist/0BTanWm5661S3hjG1lNYzi) | [Winston](https://open.spotify.com/album/5rrZp0ehJdCLxBmP4j7zPZ) | 5:49 |
+| 29 | [Winston](https://open.spotify.com/track/62t0EsBv5V7EY4qgUKrtPB) | [Naf](https://open.spotify.com/artist/5R82xpSEoJkDdaDWuvwEc1), [Mathilde Aimée.](https://open.spotify.com/artist/0BTanWm5661S3hjG1lNYzi) | [Winston](https://open.spotify.com/album/5rrZp0ehJdCLxBmP4j7zPZ) | 5:49 |
 | 30 | [Massingo](https://open.spotify.com/track/0I3I7Mkpm0d3jV4SeyatOf) | [Charlie Yamson](https://open.spotify.com/artist/2GVbIBeJpjOeld6d0LcygC) | [Massingo](https://open.spotify.com/album/18uy3SXiaep57NE9Ng41cO) | 2:03 |
 | 31 | [Ale Ale](https://open.spotify.com/track/440aEJivdqoJi4j79YUNNd) | [Limón Blue](https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0) | [Ale Ale](https://open.spotify.com/album/3WFYlR4kea0QFnevdn6X8w) | 3:01 |
 | 32 | [Manjula](https://open.spotify.com/track/4r8nD7w4T7UKfj1ZzjHeE8) | [Shack Rose](https://open.spotify.com/artist/4HkPb5ckJxHYK6kRl1ARiS) | [Manjula](https://open.spotify.com/album/5tOIF5re3FmDNLC3zhjHb4) | 2:35 |

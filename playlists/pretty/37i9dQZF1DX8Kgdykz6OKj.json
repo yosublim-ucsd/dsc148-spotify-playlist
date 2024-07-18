@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1304390,
+  "num_followers": 1304777,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
+        "name": "Clin D'oeil",
+        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
+      },
+      "artists": [
+        {
+          "name": "Jazz Liberatorz",
+          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
+      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
         "name": "mynameisnt",
         "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
-        "name": "Clin D'oeil",
-        "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
-      },
-      "artists": [
-        {
-          "name": "Jazz Liberatorz",
-          "url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
-        }
-      ],
-      "duration_ms": 328573,
-      "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
-      "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -1079,26 +1095,6 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
         "name": "Escape Music",
         "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
@@ -1119,34 +1115,22 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
       "artists": [
         {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
-      },
-      "artists": [
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
         }
       ],
-      "duration_ms": 149470,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1167,6 +1151,22 @@
       "duration_ms": 205628,
       "name": "The Eternal Now",
       "url": "https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+      },
+      "artists": [
+        {
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "DaLouIsBack",
-        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 157201,
-      "name": "DaLouIsBack",
-      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1251,18 +1235,22 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "NYDFRYSTL",
-        "url": "https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I"
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
       "artists": [
         {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 108187,
-      "name": "NYDFRYSTL",
-      "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1283,22 +1271,34 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+        "name": "DaLouIsBack",
+        "url": "https://open.spotify.com/album/3hikpXw8GNMNLXt7AE3P9U"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
         }
       ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+      "duration_ms": 157201,
+      "name": "DaLouIsBack",
+      "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
+        "name": "NYDFRYSTL",
+        "url": "https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 108187,
+      "name": "NYDFRYSTL",
+      "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "Northside",
-        "url": "https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Daniel Son",
-          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
-        }
-      ],
-      "duration_ms": 170195,
-      "name": "NORTHSIDE",
-      "url": "https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 213940,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
+        "name": "Northside",
+        "url": "https://open.spotify.com/album/0hLjVlDpKDXTevkmF8AwqW"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        }
+      ],
+      "duration_ms": 170195,
+      "name": "NORTHSIDE",
+      "url": "https://open.spotify.com/track/6gGfplhh2VslZlRvWcLNEQ"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "Blessing in Disguise",
-        "url": "https://open.spotify.com/album/77vFBBZ5yCoUsdoo5PRT2Y"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        },
-        {
-          "name": "Blue November",
-          "url": "https://open.spotify.com/artist/4htVqP1ktKHtZzGFgBUcNm"
-        }
-      ],
-      "duration_ms": 214700,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
-    },
-    {
-      "added_at": "2024-07-12 18:51:43",
-      "album": {
         "name": "Cosca",
         "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 116756,
       "name": "Cosca",
       "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
+    },
+    {
+      "added_at": "2024-07-12 18:51:43",
+      "album": {
+        "name": "Blessing in Disguise",
+        "url": "https://open.spotify.com/album/77vFBBZ5yCoUsdoo5PRT2Y"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        },
+        {
+          "name": "Blue November",
+          "url": "https://open.spotify.com/artist/4htVqP1ktKHtZzGFgBUcNm"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
     },
     {
       "added_at": "2024-07-12 18:51:43",
@@ -1987,18 +1987,26 @@
     {
       "added_at": "2024-07-12 18:51:43",
       "album": {
-        "name": "Zoe",
-        "url": "https://open.spotify.com/album/0PU8QxQsi07bJl0SO6KNmz"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
       },
       "artists": [
         {
-          "name": "Genra",
-          "url": "https://open.spotify.com/artist/1lNk3e9W4O8RmXP1y8OE3r"
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "Ezzy",
+          "url": "https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu"
+        },
+        {
+          "name": "Michael Christmas",
+          "url": "https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp"
         }
       ],
-      "duration_ms": 193904,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/7AdvTJBXmJ3WhedAQGrS9D"
+      "duration_ms": 126839,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
     }
   ],
   "unique_name": "Jazz Rap",

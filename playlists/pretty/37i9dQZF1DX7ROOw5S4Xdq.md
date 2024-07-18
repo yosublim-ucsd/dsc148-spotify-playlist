@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Kellen Byanca, Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,655 likes - 48 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,756 likes - 48 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 9 | [Maná \- Ao Vivo](https://open.spotify.com/track/5a62zM771clErk0XasW8hq) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Maná \(Ao Vivo\)](https://open.spotify.com/album/3fOB68m62jbBMVYeoQQZFR) | 5:24 |
 | 10 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2616NuUQokWPwD2bhIKMv3) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/4mtub29S2rkT59GvCtMU8Y) | 5:11 |
 | 11 | [Eu Te Ouvi \- Ao Vivo](https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Te Ouvi \(Ao Vivo\)](https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt) | 4:03 |
-| 12 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/16eJL1MTKluQZzZNNm4y65), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
+| 12 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
 | 13 | [Alguém](https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Alguém](https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3) | 3:49 |
 | 14 | [Filho Pródigo / Aba \- Ao Vivo](https://open.spotify.com/track/0JJzcJvXx1WRHyUgda78IM) | [Edificando Adoradores](https://open.spotify.com/artist/6gMJxMyIgamvww0DeHJtvl), [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Filho Pródigo / Aba \(Ao Vivo\)](https://open.spotify.com/album/7xRIoVVoLhMXsSTXhyNnPx) | 11:02 |
 | 15 | [Pai de Amor](https://open.spotify.com/track/3TM82i8yLGyWcSAJazpqzi) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ), [Aline Irineu](https://open.spotify.com/artist/25cyBt9N6k3IaRvxF8gP4y), [Samuel Silva](https://open.spotify.com/artist/2V50FkQY9Arw9iQbEm8wuB) | [Pai de Amor](https://open.spotify.com/album/6EtTVEWqjAM53Ajwa8RzaQ) | 3:16 |

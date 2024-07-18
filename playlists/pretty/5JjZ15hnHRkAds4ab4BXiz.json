@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAAGclkbyDi/x+2X1MWjXS28Xf9kpasK",
+  "snapshot_id": "AAAGen3CCd5kcHlj/hti5DCfK9iuA1eG",
   "tracks": [
     {
       "added_at": "2024-04-08 23:00:29",
@@ -6499,6 +6499,134 @@
       "duration_ms": 288835,
       "name": "Space Cadet",
       "url": "https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh"
+    },
+    {
+      "added_at": "2024-07-17 20:07:26",
+      "album": {
+        "name": "Monodrama",
+        "url": "https://open.spotify.com/album/2OWoXF6XAoTLZsd34ehZuI"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "Monodrama",
+      "url": "https://open.spotify.com/track/6ckTubYkPQPegMg5zfJRjZ"
+    },
+    {
+      "added_at": "2024-07-17 20:12:40",
+      "album": {
+        "name": "Violent",
+        "url": "https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Violent",
+      "url": "https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA"
+    },
+    {
+      "added_at": "2024-07-17 20:15:00",
+      "album": {
+        "name": "You Gave It Your Best",
+        "url": "https://open.spotify.com/album/4y3ZVR9bObdAuD7cVDTet0"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 125449,
+      "name": "SASFM",
+      "url": "https://open.spotify.com/track/3mR7a59x0KsRK00GIXobfd"
+    },
+    {
+      "added_at": "2024-07-17 20:18:09",
+      "album": {
+        "name": "It Doesn't Have To Change",
+        "url": "https://open.spotify.com/album/3BgBwGQEjIqwxEfrfNnHwU"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "It Doesn't Have To Change",
+      "url": "https://open.spotify.com/track/02zl70OiiAHt4Ph2mT5tYu"
+    },
+    {
+      "added_at": "2024-07-17 20:19:59",
+      "album": {
+        "name": "Wishful Thinking (At Its Best)",
+        "url": "https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 212921,
+      "name": "Angry Lizard Noise",
+      "url": "https://open.spotify.com/track/2yCnLYbDzx2rP9pmNRJQaP"
+    },
+    {
+      "added_at": "2024-07-17 20:25:35",
+      "album": {
+        "name": "Demo EP",
+        "url": "https://open.spotify.com/album/030PWSHt39Cg6qF2iYvcT9"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "Original Monet - Demo",
+      "url": "https://open.spotify.com/track/4Fq1gRuwSnbHuPFsbpdELV"
+    },
+    {
+      "added_at": "2024-07-17 20:28:39",
+      "album": {
+        "name": "cotton eye joe",
+        "url": "https://open.spotify.com/album/1QhH2QjT3n7WaJ5bSysO8L"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "cotton eye joe",
+      "url": "https://open.spotify.com/track/13vwUuL2l4XoDKUr42ULLt"
+    },
+    {
+      "added_at": "2024-07-17 20:33:17",
+      "album": {
+        "name": "I Don't Make Me",
+        "url": "https://open.spotify.com/album/0BMtMOLzV90U3DUWN868WZ"
+      },
+      "artists": [
+        {
+          "name": "benches",
+          "url": "https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "At a Moment's Notice",
+      "url": "https://open.spotify.com/track/79sWENj1DxZlTsdzn57PnU"
     }
   ],
   "unique_name": "Ballads",

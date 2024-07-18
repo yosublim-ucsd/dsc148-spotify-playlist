@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6515,
+  "num_followers": 6518,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
-        "name": "I'll be by your side",
-        "url": "https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 234786,
-      "name": "I\u2032ll be by your side",
-      "url": "https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2"
-    },
-    {
-      "added_at": "2024-06-28 05:51:45",
-      "album": {
         "name": "Omnibus, Pt. 2: Inside Out",
         "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 232960,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
+    },
+    {
+      "added_at": "2024-06-28 05:51:45",
+      "album": {
+        "name": "I'll be by your side",
+        "url": "https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 234786,
+      "name": "I\u2032ll be by your side",
+      "url": "https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2"
     },
     {
       "added_at": "2024-06-28 05:51:45",
@@ -847,18 +847,22 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
-        "name": "be like YOU",
-        "url": "https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "JUNGSOOMIN",
-          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 154173,
-      "name": "be like YOU",
-      "url": "https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE"
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     },
     {
       "added_at": "2024-06-28 05:51:45",
@@ -879,22 +883,18 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+        "name": "be like YOU",
+        "url": "https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8"
       },
       "artists": [
         {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "JUNGSOOMIN",
+          "url": "https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc"
         }
       ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+      "duration_ms": 154173,
+      "name": "be like YOU",
+      "url": "https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE"
     },
     {
       "added_at": "2024-06-28 05:51:45",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-28 05:51:45",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 182031,
+      "name": "CAPTAIN",
+      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
+    },
+    {
+      "added_at": "2024-06-28 05:51:45",
+      "album": {
         "name": "Farmers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
-    },
-    {
-      "added_at": "2024-06-28 05:51:45",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 182031,
-      "name": "CAPTAIN",
-      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

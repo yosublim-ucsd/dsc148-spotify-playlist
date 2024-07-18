@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-430 songs - 1 day 14 hr 10 min
+431 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2022-04-15 | 2022-08-13 |
 | [Horizon](https://open.spotify.com/track/2P6RQguS7aEMz5wfJupyzQ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [Horizon](https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV) | 6:13 | 2024-02-08 |  |
 | [Hottest Record in the World](https://open.spotify.com/track/4zUqroe9fG1TOV9yKJVgVW) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Hottest Record in the World](https://open.spotify.com/album/7AwrMRA2dnSI8BNh385m18) | 3:49 | 2022-04-15 | 2022-07-29 |
-| [House Anthem](https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Exciter EP](https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk) | 5:35 | 2024-05-16 |  |
+| [House Anthem](https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq) | [Clüb De Combat](https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw) | [Exciter EP](https://open.spotify.com/album/2KSfWKqnb68mwhMchuTFnk) | 5:35 | 2024-05-16 | 2024-07-18 |
 | [Housefly](https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7) | [Horisone](https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr) | [Vibrations](https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5) | 7:15 | 2022-06-24 | 2022-08-15 |
 | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q) | 3:26 | 2024-03-07 | 2024-07-09 |
 | [How Many Lies](https://open.spotify.com/track/5C23r6b92Kgbwew8Hm9tCw) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [How Many Lies](https://open.spotify.com/album/1UWa6HoAzIBc81AR2b665l) | 2:54 | 2022-06-24 | 2022-10-23 |
@@ -231,6 +231,7 @@
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-06-24 | 2024-03-08 |
 | [Losing Control](https://open.spotify.com/track/0Ab9Mj7laZ4wz2ZeDfudBa) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Losing Control](https://open.spotify.com/album/4sIQ5ZhDMCg9ytxnHmWiAw) | 3:02 | 2022-04-15 | 2022-04-21 |
 | [Lost Connection](https://open.spotify.com/track/457J6aXUGeqeNXTqyxMRpZ) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Incrust EP](https://open.spotify.com/album/6mQn6wroVCHNMaQmaz0LOA) | 7:05 | 2022-06-24 | 2022-07-26 |
+| [Lost Control](https://open.spotify.com/track/3j1wd5HVTtU1osGzblz693) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Lost Control EP](https://open.spotify.com/album/1YPywDiKG4uzkaTmlAFArC) | 3:35 | 2024-07-08 |  |
 | [Love Ain't Over \- Gerd Janson Remix](https://open.spotify.com/track/3KU7S29UbwE9TwN86cV1yg) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Love Ain't Over \(Gerd Janson Remix\)](https://open.spotify.com/album/1hdehNKSIbU6MFiyoapqPS) | 6:22 | 2022-04-15 | 2022-04-21 |
 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 | 2022-06-17 | 2023-11-16 |
 | [Love Will Set U Free](https://open.spotify.com/track/60XMrQr1Q54t9F7obw4cul) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Love Will Set U Free](https://open.spotify.com/album/5mOPJyGANs9UdcjZjuQZZH) | 5:07 | 2022-04-15 | 2022-11-20 |
@@ -245,7 +246,7 @@
 | [Mesmerize](https://open.spotify.com/track/6qlFi74GMP1OgN5Czct7yf) | [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Mesmerize](https://open.spotify.com/album/60DuCA4E1zLP1kTfsSdo9N) | 3:27 | 2024-01-22 |  |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-03-07 |  |
 | [Mezcalita](https://open.spotify.com/track/4uIAv1aDKmLUyEXANBgGac) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Mezcalita](https://open.spotify.com/album/3UpIzrokMVGiJXwbghHIVu) | 4:16 | 2023-04-07 | 2023-04-29 |
-| [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2024-03-07 |  |
+| [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA) | 2:56 | 2024-03-07 |  |
 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 | 2023-05-26 | 2024-01-27 |
 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 | 2022-11-25 | 2023-09-02 |
 | [Monsterbüro](https://open.spotify.com/track/2OtYRMgTANHk5hhOm3O37t) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Monsterbüro](https://open.spotify.com/album/1L9aMaYiUug54NBwgiveNl) | 6:55 | 2022-04-15 | 2022-06-15 |

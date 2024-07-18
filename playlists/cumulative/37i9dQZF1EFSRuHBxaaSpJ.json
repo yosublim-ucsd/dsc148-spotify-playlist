@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "En temps r\u00e9el",
+        "url": "https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "M'en aller",
+      "url": "https://open.spotify.com/track/7LlyQndi8Sebi4YRXz4nVc"
+    },
+    {
+      "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc"
       },

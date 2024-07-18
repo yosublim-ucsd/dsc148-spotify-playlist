@@ -1,12 +1,12 @@
 {
-  "description": "This Is Auli'i Cravalho. Los temas esenciales, todos en una lista.",
-  "num_followers": 2639,
+  "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
+  "num_followers": 2640,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAADr5WVBS6stXtODIzW7szI3",
+  "snapshot_id": "ZpW4AAAAAACmlkviL7EFWjCniLA0IJkX",
   "tracks": [
     {
       "added_at": null,
@@ -88,29 +88,29 @@
       },
       "artists": [
         {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Louise Bush",
-          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+          "name": "Vai Mahina",
+          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
+        },
+        {
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        },
+        {
+          "name": "Matthew Ineleo",
+          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
         }
       ],
-      "duration_ms": 210320,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+      "duration_ms": 72626,
+      "name": "Know Who You Are",
+      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
     },
     {
       "added_at": null,
@@ -176,29 +176,17 @@
       },
       "artists": [
         {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Vai Mahina",
-          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
-        },
-        {
-          "name": "Olivia Foa'i",
-          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
-        },
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Matthew Ineleo",
-          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
         }
       ],
-      "duration_ms": 72626,
-      "name": "Know Who You Are",
-      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
     },
     {
       "added_at": null,
@@ -259,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
       },
       "artists": [
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 162826,
-      "name": "I Am Moana (Song of the Ancestors)",
-      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
     },
     {
       "added_at": null,
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scars To Your Beautiful (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
       },
@@ -363,6 +331,22 @@
       "duration_ms": 258933,
       "name": "Scars To Your Beautiful - Rise Cast Version",
       "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Word Of Your Body (Rise Cast Version)",
         "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
@@ -447,6 +415,26 @@
       "duration_ms": 174226,
       "name": "The Word Of Your Body - Rise Cast Version",
       "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,
@@ -491,26 +479,6 @@
       "duration_ms": 211956,
       "name": "The Guilty Ones - Rise Cast Version",
       "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
-        }
-      ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,

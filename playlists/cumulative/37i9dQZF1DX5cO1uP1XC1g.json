@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 214956,
       "name": "Befdiki",
       "url": "https://open.spotify.com/track/2xxrKfNmahZzrCgR3gfJcN"
@@ -5386,6 +5386,24 @@
       "duration_ms": 208840,
       "name": "Wayyak",
       "url": "https://open.spotify.com/track/1zQBbLzIE77m5kjm7BPYet"
+    },
+    {
+      "album": {
+        "name": "Wein",
+        "url": "https://open.spotify.com/album/6qpyG94O0DlV4wubXAlyLN"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "Wein",
+      "url": "https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2"
     },
     {
       "album": {

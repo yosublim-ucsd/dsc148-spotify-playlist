@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: AC/DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,772 likes - 66 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,832 likes - 66 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

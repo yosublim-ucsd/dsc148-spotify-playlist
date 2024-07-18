@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 207318,
+  "num_followers": 207353,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Shine A Light",
-      "url": "https://open.spotify.com/track/5Op9PcisNc0oGnS4dysmbu"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Rise and Shine",
         "url": "https://open.spotify.com/album/1JeUwHeGyUNb33g86ol1eJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 222973,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/0oyo8O2SWdfHqx5LBONZbf"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "Shine A Light",
+      "url": "https://open.spotify.com/track/5Op9PcisNc0oGnS4dysmbu"
     },
     {
       "added_at": "2024-07-05 23:46:34",

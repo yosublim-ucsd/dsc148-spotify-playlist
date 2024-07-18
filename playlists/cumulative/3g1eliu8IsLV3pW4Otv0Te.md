@@ -4,7 +4,7 @@
 
 > 
 
-208 songs - 14 hr 19 min
+210 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bring It Back](https://open.spotify.com/track/1n93IBxGlmQ53wkcmTDpIa) | [Two Thirds](https://open.spotify.com/artist/5EuLaMwYamree7kzPvrPds) | [Monstercat \- Best of DnB/Drumstep, Vol\. 1.](https://open.spotify.com/album/2XV1AsAcqOChVB8Hsevx3H) | 5:18 | 2016-06-27 |  |
 | [Broken Love](https://open.spotify.com/track/300yMbSPjCi6fo9EpCVwyC) | [Quarantino](https://open.spotify.com/artist/5y4NgF9HhK3EgWbfjLRX7e) | [Broken Love](https://open.spotify.com/album/6KamujvpdIeso5B5G7urpx) | 2:36 | 2024-06-18 |  |
 | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/track/6lbhkPbkKj6jnPTt1FelVo) | [Stephen Swartz](https://open.spotify.com/artist/2RMgYVDRYOGHlqqcushWNU) | [Bullet Train \(feat\. Joni Fatora\)](https://open.spotify.com/album/1Yd1ARdvNdMUo6KnuN6q6w) | 4:05 | 2016-05-22 |  |
+| [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-07-17 |  |
 | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/track/6EOIhxrgVQKpHFYpTheSWd) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [KG](https://open.spotify.com/artist/2y0QGjnlzB39Nf2duLQoxk), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Calling Out \(feat\. KG & Skyelle\)](https://open.spotify.com/album/5fbMm1EbdfTXjj81SDuZ6H) | 5:35 | 2016-07-14 |  |
 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2019-09-17 |  |
 | [Chase The Sun](https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Chase The Sun](https://open.spotify.com/album/1tXlFJklT4d4Jc5TtuWiwc) | 3:09 | 2023-09-29 |  |
@@ -196,6 +197,7 @@
 | [True Love](https://open.spotify.com/track/1lXHSDFD4ljZLyLB58hpvd) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:28 | 2024-04-18 |  |
 | [Truth](https://open.spotify.com/track/26yGxHiLkXJkQ7FsmTGfod) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat 010 \- Conquest](https://open.spotify.com/album/2A49vgoPAzzEDY07MGT4dg) | 5:15 | 2016-06-15 |  |
 | [Truth \(Dabin Remix\)](https://open.spotify.com/track/0ogrMxcNZc3iRxYwMuKe6M) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat 013 \- Awakening](https://open.spotify.com/album/3WMELssaZMsFbItfy1XnRe) | 5:12 | 2016-10-05 |  |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/44zHtICHoRfBaxfRgiSrKL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:27 | 2024-07-18 |  |
 | [U Got That](https://open.spotify.com/track/6raUUjOswDxI6c4ELU0KnQ) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [U Got That](https://open.spotify.com/album/53TgsMdAWXNmBx7BJMJiJz) | 3:07 | 2019-08-03 |  |
 | [Underwater \(feat\. Meron Ryan\)](https://open.spotify.com/track/3SIsf8XxAkmVamndeRNVa1) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Meron Ryan](https://open.spotify.com/artist/5sp1KhgKd6NVt83alP5T7G) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:52 | 2016-01-15 |  |
 | [Vagrant](https://open.spotify.com/track/1M85o2ruB9uTj68dIXj6dJ) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Vagrant](https://open.spotify.com/album/7KPjaI7hStPVhmGW7UM6ay) | 4:28 | 2016-07-14 |  |

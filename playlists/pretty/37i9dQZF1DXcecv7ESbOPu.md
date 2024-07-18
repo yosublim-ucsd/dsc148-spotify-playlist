@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,936 likes - 118 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,935 likes - 118 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 77 | [Ass & Titties](https://open.spotify.com/track/654YeofBUKDI6gN8Y3QXhm) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Ass & Titties](https://open.spotify.com/album/4Gl3juiY1DQwSAWdrBpzFn) | 3:00 |
 | 78 | [Where Your Heart Is At](https://open.spotify.com/track/5FpKPX1OziXDrQfAm1eNG4) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Where Your Heart Is At](https://open.spotify.com/album/1HzHwAwopn0hVZMmsLmkOM) | 2:19 |
 | 79 | [Piggyback Ride](https://open.spotify.com/track/4AdNVebs1TVwDyIDIfRZZm) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Piggyback Ride](https://open.spotify.com/album/0kmZJsjWNSSX4FG9BAHzjf) | 2:55 |
-| 80 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
+| 80 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
 | 81 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 |
 | 82 | [Lamento Boliviano \- Summer Remix](https://open.spotify.com/track/7hRcuWhQyd75G6p4A8RiLu) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Iwaro](https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Lamento Boliviano \(Summer Remix\)](https://open.spotify.com/album/6clGDh7kyfbROxxA3cVHDc) | 2:42 |
 | 83 | [A Lifetime in the Service of Darkness](https://open.spotify.com/track/1PDpmvH0CIX9qLXkgNXPTz) | [Ashbury Heights](https://open.spotify.com/artist/3rclGaNhwMNMcU2GkN91j9), [Ulrike Goldmann](https://open.spotify.com/artist/3SG9qOAh3iANO0yttH3mgu) | [A Lifetime in the Service of Darkness](https://open.spotify.com/album/3AufqxhCY5KzSj2xa5wLDV) | 4:16 |

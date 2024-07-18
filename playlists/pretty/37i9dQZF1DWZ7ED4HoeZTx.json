@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 126806,
+  "num_followers": 126864,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-07-10 16:28:22",
       "album": {
-        "name": "\u659c\u967d",
-        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
+        "name": "Debussy: Clair De Lune and Other Piano Favourites",
+        "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Martin Jones",
+          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
         }
       ],
-      "duration_ms": 200186,
-      "name": "\u659c\u967d",
-      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
+      "duration_ms": 268000,
+      "name": "Clair de Lune, L. 32",
+      "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
     },
     {
       "added_at": "2024-07-10 16:28:22",
@@ -495,22 +499,18 @@
     {
       "added_at": "2024-07-10 16:28:22",
       "album": {
-        "name": "Debussy: Clair De Lune and Other Piano Favourites",
-        "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
+        "name": "\u659c\u967d",
+        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Martin Jones",
-          "url": "https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Clair de Lune, L. 32",
-      "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
+      "duration_ms": 200186,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
     },
     {
       "added_at": "2024-07-10 16:28:22",

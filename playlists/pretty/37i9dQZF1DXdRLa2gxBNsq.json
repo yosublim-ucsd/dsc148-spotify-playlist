@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105278,
+  "num_followers": 105313,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "A Frontline Compilation",
-        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 112720,
-      "name": "Don Vito y la Revuelta en el Frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Siglo XXI",
         "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 192800,
       "name": "La \u00daltima Patada",
       "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "A Frontline Compilation",
+        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 112720,
+      "name": "Don Vito y la Revuelta en el Frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/4EBFU2ujZgudwRUsi588jo"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "C\u00f3mo Convertirse en Nada",
-        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
+        "name": "Aizkolari",
+        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
         }
       ],
-      "duration_ms": 160253,
-      "name": "C\u00f3mo Convertirse en Nada",
-      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
+      "duration_ms": 127480,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Aizkolari",
-        "url": "https://open.spotify.com/album/13sAtrIn7lO0xiO4G3dyR6"
+        "name": "C\u00f3mo Convertirse en Nada",
+        "url": "https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq"
       },
       "artists": [
         {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 127480,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/5JU3KxDurO5jxRS6oXDKFN"
+      "duration_ms": 160253,
+      "name": "C\u00f3mo Convertirse en Nada",
+      "url": "https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195049,
-      "name": "Enemigo a las Puertas",
-      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Camela or Die 2.0",
         "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 179197,
       "name": "Camela or Die 2.0",
       "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195049,
+      "name": "Enemigo a las Puertas",
+      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "El \u00daltimo Amigo",
-        "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 164991,
-      "name": "El \u00daltimo Amigo",
-      "url": "https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 170585,
       "name": "Vieja Guardia",
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "El \u00daltimo Amigo",
+        "url": "https://open.spotify.com/album/0RCBE5QYkbBPBt3GaYxGtk"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 164991,
+      "name": "El \u00daltimo Amigo",
+      "url": "https://open.spotify.com/track/6Zv2OenXhewcKuCVLxDCPk"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Humanos",
-        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
+        "name": "El Dolor",
+        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
         }
       ],
-      "duration_ms": 151134,
-      "name": "Humanos",
-      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+      "duration_ms": 240971,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1479,50 +1479,34 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Cagaos",
-        "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
+        "name": "Humanos",
+        "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
       "artists": [
         {
-          "name": "Colapso",
-          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
         }
       ],
-      "duration_ms": 157411,
-      "name": "Cagaos",
-      "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
+      "duration_ms": 151134,
+      "name": "Humanos",
+      "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
     },
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "El Dolor",
-        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
         }
       ],
-      "duration_ms": 240971,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
-        "name": "Basura",
-        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
-      },
-      "artists": [
-        {
-          "name": "Pota en la Sopa",
-          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Basura",
-      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
+        "name": "Cagaos",
+        "url": "https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K"
+      },
+      "artists": [
+        {
+          "name": "Colapso",
+          "url": "https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e"
+        }
+      ],
+      "duration_ms": 157411,
+      "name": "Cagaos",
+      "url": "https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
         "name": "Influencers",
         "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
       },
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
+        "name": "Basura",
+        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
+      },
+      "artists": [
+        {
+          "name": "Pota en la Sopa",
+          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Basura",
+      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
         "name": "No Hay Agua",
         "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 124853,
       "name": "Mi Mejor Colega - original",
       "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-07-12 10:37:20",

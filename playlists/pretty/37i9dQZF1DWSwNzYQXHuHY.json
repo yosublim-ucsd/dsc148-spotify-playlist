@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9786,
+  "num_followers": 9785,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 140506,
-      "name": "My Dear",
-      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "Ordinary Confession",
         "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 228173,
       "name": "Ordinary Confession",
       "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 140506,
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2024-06-05 03:49:47",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-06-05 03:49:47",
       "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/7nHakKPqirVerK9QHackK7"
+      },
+      "artists": [
+        {
+          "name": "summer",
+          "url": "https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Color me",
+      "url": "https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY"
+    },
+    {
+      "added_at": "2024-06-05 03:49:47",
+      "album": {
         "name": "izzana (Feat. OLNL)",
         "url": "https://open.spotify.com/album/0pVFUTRcXEnGA3d5BkPj6N"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 212693,
       "name": "izzana (Feat. OLNL)",
       "url": "https://open.spotify.com/track/3WZzMC6xb14FRUWcnWDL9b"
-    },
-    {
-      "added_at": "2024-06-05 03:49:47",
-      "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 7)",
-        "url": "https://open.spotify.com/album/7nHakKPqirVerK9QHackK7"
-      },
-      "artists": [
-        {
-          "name": "summer",
-          "url": "https://open.spotify.com/artist/77KRHZ336HpxYp3mTKOLQw"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Color me",
-      "url": "https://open.spotify.com/track/1RDx47LCcsq5z2sVa7LFKY"
     }
   ],
   "unique_name": "\uc378 (Something)",

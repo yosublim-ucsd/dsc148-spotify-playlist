@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-465 songs - 1 day 2 hr 33 min
+466 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [NO PROBLEM \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/6eRUz27KzkmGy3s6ZMcHgt) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix \(Stray Kids\)](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 3:16 | 2022-12-15 | 2023-09-26 |
 | [No Question](https://open.spotify.com/track/2rdSeijZ1fZW7qQ98ROZvd) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Rare](https://open.spotify.com/album/65L9F76DAVu2S0qeBStsiK) | 2:38 | 2022-12-15 |  |
 | [No Question \(feat\. MNEK & Ryan Ashley\)](https://open.spotify.com/track/7AQbZRY9zEvayl1OdkzEV9) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [NIT3 TALES](https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ) | 3:21 | 2022-09-08 | 2022-12-16 |
-| [No satisfaction](https://open.spotify.com/track/6RnhqFsyRuMWNJ1Z9Hrvma) | [SamFan Thomas](https://open.spotify.com/artist/3BM1ACFkmIfHTpnJQw687R) | [Douala](https://open.spotify.com/album/5TMiltCQCPbpP1NJxpREiG) | 5:21 | 2023-12-13 |  |
+| [No satisfaction](https://open.spotify.com/track/4ENR9j84YIzR3na4qvr2DD) | [Sam Fan Thomas](https://open.spotify.com/artist/2JbJuYv3mZFqheYEo0412Y) | [No Satisfaction](https://open.spotify.com/album/0LLLmA1WA88IUmZScuhDLu) | 5:21 | 2024-07-17 |  |
+| [No satisfaction](https://open.spotify.com/track/6RnhqFsyRuMWNJ1Z9Hrvma) | [SamFan Thomas](https://open.spotify.com/artist/3BM1ACFkmIfHTpnJQw687R) | [Douala](https://open.spotify.com/album/5TMiltCQCPbpP1NJxpREiG) | 5:21 | 2023-12-13 | 2024-07-18 |
 | [No Time For Tears](https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears](https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx) | 3:16 | 2022-09-08 |  |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-20 |  |
 | [Not for the Radio \(feat\. MNEK\)](https://open.spotify.com/track/1VM5S8JNUysQsSgdoRFsdI) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [YOUTH](https://open.spotify.com/album/0ctfduE1sLhqIjbcFokWvv) | 4:05 | 2022-09-08 |  |

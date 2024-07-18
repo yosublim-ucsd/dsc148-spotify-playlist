@@ -4,7 +4,7 @@
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Nathaniel Rateliff & the Night Sweats
 
-454 songs - 1 day 3 hr 42 min
+455 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 | 2021-05-07 | 2023-02-11 |
 | [Better Coast](https://open.spotify.com/track/0FrTXd8KMWEhCi2iWf1gil) | [Plastic Picnic](https://open.spotify.com/artist/0oiS9wyrwFOAvNhYhP3udG) | [Better Coast / Distilled](https://open.spotify.com/album/3AqEe0abSB7miiKdVkwjfL) | 3:21 | 2022-05-25 | 2022-07-29 |
 | [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 | 2022-01-21 | 2022-03-26 |
+| [Big Black Hearse](https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Big Black Hearse](https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS) | 3:29 | 2024-07-12 |  |
 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/3X4YuIXeQo5kf34mM0gtju) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes Demos](https://open.spotify.com/album/3joUkppKWBZqJvRnF5YGCR) | 3:03 | 2021-01-29 | 2022-01-15 |
 | [Blood Runs Red](https://open.spotify.com/track/3KNa3a7r6bw3SGI27Syuxn) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Blood Runs Red](https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw) | 3:38 | 2022-07-01 | 2024-07-13 |
 | [Bloodrush \- Edit](https://open.spotify.com/track/0b0zFHW34b9dCVTSu0F3tU) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Bloodrush](https://open.spotify.com/album/3SlJjfANoyxq1Ed8aQDn9G) | 3:37 | 2022-03-25 | 2022-11-13 |
@@ -63,7 +64,7 @@
 | [Burn It Away](https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii) | [Will Butler + Sister Squares](https://open.spotify.com/artist/2PoDtU1peduJm6HDYtNuaj), [Will Butler](https://open.spotify.com/artist/1POwuKLQ9xhMZzIYElNtWp), [Sister Squares](https://open.spotify.com/artist/1TOW2EEmDmqHe2i7gt2NLZ) | [Burn It Away](https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj) | 4:04 | 2024-07-12 |  |
 | [Burnout](https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0) | [Futurebirds](https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O) | [Burnout / Feel Less Bad](https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP) | 2:33 | 2024-07-12 |  |
 | [California Rain](https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [California Rain](https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw) | 3:23 | 2024-07-12 |  |
-| [Call It Like It Is](https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw) | 3:24 | 2023-06-09 |  |
+| [Call It Like It Is](https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Tired Hearts](https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw) | 3:24 | 2023-06-09 | 2024-07-18 |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2021-09-10 | 2022-07-28 |
 | [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 | 2022-12-02 |
 | [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 | 2022-11-12 |

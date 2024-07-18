@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345096,
+      "name": "Todos Juntos (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/5E8fsTZfvnj7tuRvCnV4SV"
+    },
+    {
+      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 295626,
       "name": "Todos Juntos (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/1xUWqYaqqGLXFBMMbQ4ZMI"

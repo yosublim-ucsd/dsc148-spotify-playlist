@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-281 songs - 15 hr 30 min
+282 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Look At Her Now](https://open.spotify.com/track/7eOkHIcaoUhngxxypM5Ajr) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 2:42 | 2023-12-30 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2023-12-30 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4IRzTXxMgop9fDFhh01B96) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/2XBHmxirFItibDrYjfGLmy) | 3:26 | 2023-12-31 | 2024-02-01 |
+| [Louder](https://open.spotify.com/track/08s07LwInGpJUeA8rUtyMD) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 3:00 | 2024-07-17 |  |
 | [Love Goes On](https://open.spotify.com/track/7ggFrwti59f2wm5aYMxo6O) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:20 | 2023-12-30 |  |
 | [Love Is Weird](https://open.spotify.com/track/1g5pB9oVpLUM7dxhGhCOke) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:30 | 2023-12-30 |  |
 | [Love Me Land](https://open.spotify.com/track/5knSvwiFenQOkDoriHi2Rg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:40 | 2023-12-30 |  |
@@ -200,7 +201,7 @@
 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 | 2023-12-30 |  |
 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 | 2023-12-30 | 2024-01-11 |
 | [Orange Magic](https://open.spotify.com/track/08Ov5PSmldmPxZDGufK6Pj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:53 | 2023-12-30 |  |
-| [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 |  |
+| [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 | 2024-07-18 |
 | [Otro Level](https://open.spotify.com/track/43bfyPggtSHsrVqQWntlUr) | [Zeuss 是](https://open.spotify.com/artist/4YnGucTisf2YIULDATbKKu) | [Otro Level](https://open.spotify.com/album/5xnBLla5mfupVLWo4bG1RQ) | 2:02 | 2023-12-30 | 2024-02-16 |
 | [Otro Level](https://open.spotify.com/track/30bos35PKdBqeSMgVFsia5) | [zxtyy](https://open.spotify.com/artist/5K2mfHnYfV0ONVRHRy2DSR), [reiiki](https://open.spotify.com/artist/5B68mBRgTMDaNza1wiz3cw) | [sYrup!](https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM) | 2:02 | 2024-05-19 | 2024-05-21 |
 | [Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 7:23 | 2023-12-30 |  |

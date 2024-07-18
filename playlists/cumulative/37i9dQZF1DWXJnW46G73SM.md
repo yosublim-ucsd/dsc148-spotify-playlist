@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا🤩 الغلاف: احمد كامل و زاب ثروت
+> أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
 
-1,042 songs - 2 day 10 hr 41 min
+1,044 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Ana Be Touly](https://open.spotify.com/track/3vnaFVNsC059Iiu5QDZ6Ms) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Ana Be Touly](https://open.spotify.com/album/2snYyolbPLnvsU2VNHyA3F) | 3:44 | 2023-03-07 | 2023-05-06 |
 | [Ana El Mostahel](https://open.spotify.com/track/4lYozOwaI7qe9clHySo8UN) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [Ana El Mostahel](https://open.spotify.com/album/7BmITE5PHY7SF8bblQWfQg) | 4:21 | 2022-03-10 | 2022-07-02 |
 | [Ana El Tayeb](https://open.spotify.com/track/7BpSOx73f8kASfLHhxSbBr) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Ana El Tayeb](https://open.spotify.com/album/1jly0ZLFaEbXVLZkxO7gkC) | 3:24 | 2023-08-10 | 2023-08-29 |
+| [Ana Gamed Keda Keda](https://open.spotify.com/track/4fl68lr8sFQbw94F60qr4H) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أنا جامد كده كده](https://open.spotify.com/album/1YhG18vjgk5DX4l7FNO1uV) | 2:51 | 2024-07-17 |  |
 | [Ana Khayef](https://open.spotify.com/track/5Now4XxDXgEiE1xndhlr6e) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Ana Khayef](https://open.spotify.com/album/2tUkPPHfCfg8QE3VV1sfV3) | 3:58 | 2024-02-16 | 2024-04-26 |
 | [Ana Kwaiesa](https://open.spotify.com/track/5RoqJbplHkPfnuhbgox0Wa) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Ana Kwaiesa](https://open.spotify.com/album/1Px3yEgGoNjt5gMfbpZcHr) | 4:15 | 2023-09-22 | 2023-09-23 |
 | [Ana Meen](https://open.spotify.com/track/6rEHVrBJ7tNTd7Acb2x544) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ana Meen](https://open.spotify.com/album/3fZwV1lA54bESHZxdKHhbU) | 4:18 | 2022-03-03 | 2022-06-14 |
@@ -255,6 +256,7 @@
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
 | [Eskendereya](https://open.spotify.com/track/1xLgw7NZmHcFDi7PRe4Wod) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Eskendereya](https://open.spotify.com/album/0gpiCuYzxOpiYMrYADdJup) | 3:37 | 2023-07-28 | 2023-08-10 |
 | [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-02 | 2023-03-11 |
+| [Esmek Eh](https://open.spotify.com/track/3bG2kL6F0M71u4j9Du8lSC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Esmek Eh](https://open.spotify.com/album/5BeEQxslkgF497LOzD8fBU) | 3:10 | 2024-07-17 |  |
 | [Estaghnena](https://open.spotify.com/track/1RlBReXFZDGcDWvVzK4fBM) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Estaghnena](https://open.spotify.com/album/0yZMxNDdp9jK38gt0qTvCc) | 3:17 | 2024-06-13 |  |
 | [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-22 | 2024-07-17 |
 | [ETTIEEL](https://open.spotify.com/track/2V7cMt98OdLnsVzPslqD8M) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [ETTIEEL](https://open.spotify.com/album/1jYqFQeUCu7rPvhyp1jLbn) | 2:47 | 2024-04-25 | 2024-06-28 |

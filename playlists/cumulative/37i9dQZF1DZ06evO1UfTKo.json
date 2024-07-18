@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
+  "description": "This Is Los Tigres Del Norte. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Tigres Del Norte",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Coraz\u00f3n Usado",
       "url": "https://open.spotify.com/track/5oSIi2fyuKKnwIRc3t7RZ0"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 162746,
       "name": "La Jaula De Oro",
       "url": "https://open.spotify.com/track/0Ui4HOFj8qhdh2nm1lJ074"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Mi Buena Suerte",
       "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 188160,
       "name": "Prisi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"

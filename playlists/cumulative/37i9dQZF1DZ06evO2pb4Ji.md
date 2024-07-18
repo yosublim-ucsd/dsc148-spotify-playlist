@@ -2,7 +2,7 @@
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
+> This Is League of Legends\. Los temas esenciales, todos en una lista.
 
 64 songs - 3 hr 39 min
 

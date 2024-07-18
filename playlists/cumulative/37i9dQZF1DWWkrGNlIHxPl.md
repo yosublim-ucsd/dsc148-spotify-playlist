@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-340 songs - 18 hr 43 min
+341 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Busy Body](https://open.spotify.com/track/3jpDQxRLXSMFLcYqGWdSP2) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 2:32 | 2022-07-28 | 2022-10-09 |
 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 | 2023-08-06 |  |
 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 | 2024-04-12 |  |
-| [CALM DOWN](https://open.spotify.com/track/6cCVxAMuRfgCuRzHhATwAu) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Shepard](https://open.spotify.com/artist/7cOAU2gxgUOgRTMxoMWXwM) | [CALM DOWN](https://open.spotify.com/album/1S35vubI5QNZUlmYK6p0Zz) | 1:30 | 2024-01-05 |  |
+| [CALM DOWN](https://open.spotify.com/track/6cCVxAMuRfgCuRzHhATwAu) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Shepard](https://open.spotify.com/artist/7cOAU2gxgUOgRTMxoMWXwM) | [CALM DOWN](https://open.spotify.com/album/1S35vubI5QNZUlmYK6p0Zz) | 1:30 | 2024-01-05 | 2024-07-18 |
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
 | [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 | 2023-06-13 | 2023-09-20 |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-04-09 |
@@ -278,6 +278,7 @@
 | [Sidi Mansour](https://open.spotify.com/track/6sNVx9BBrsA2IzwYSDfLOM) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sidi Mansour](https://open.spotify.com/album/3ZONjiIIQLz72jYob5rhDM) | 4:41 | 2022-06-06 | 2022-06-24 |
 | [Sirens](https://open.spotify.com/track/4Y2UCKOJ7jvvgasA7FJSNE) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [Sirens](https://open.spotify.com/album/7h5gLixz0Kl723RxDr6Fcv) | 2:39 | 2023-09-18 |  |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-12-16 | 2022-03-30 |
+| [So Stupid](https://open.spotify.com/track/2j1tKfploZmluiqyMcciGw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [So Stupid](https://open.spotify.com/album/40K9kUwPgXae7VTlfhyf74) | 2:35 | 2024-07-17 |  |
 | [SOLD](https://open.spotify.com/track/4hMcamMdjiJmZ3thozEqOR) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [SOLD](https://open.spotify.com/album/2FZStBhAxT7X2hJaPsUXDm) | 2:38 | 2022-08-04 | 2023-04-29 |
 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 | 2023-04-07 | 2023-05-27 |
 | [Somewave](https://open.spotify.com/track/5UdK4jJ7qcY8wU4d9kpits) | [Zeyada](https://open.spotify.com/artist/2UJIKiHl019qoazIKbax7D) | [Somewave](https://open.spotify.com/album/6JH0QKxS6ygJqS3zTsoiHk) | 3:01 | 2021-12-16 | 2022-06-07 |

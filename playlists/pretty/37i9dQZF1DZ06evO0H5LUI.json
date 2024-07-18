@@ -1,12 +1,12 @@
 {
-  "description": "This Is Leon Leiden. Los temas esenciales, todos en una lista.",
-  "num_followers": 9945,
+  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
+  "num_followers": 9942,
   "original_name": "This Is Leon Leiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAACVD1DWxmcZKRtiBzYvQ5g+",
+  "snapshot_id": "ZpW4AAAAAADphhl8QZjR15KELgGhfZnd",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed Estoy",
         "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
@@ -215,6 +235,82 @@
       "duration_ms": 211702,
       "name": "Scirocco",
       "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Coraz\u00f3n De Papel",
+      "url": "https://open.spotify.com/track/5SNqzauoA3ZZwZWaEi62aG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 166535,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Mueve",
+        "url": "https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Ya No Se Mueve",
+      "url": "https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 176033,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
     },
     {
       "added_at": null,
@@ -251,82 +347,6 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Se Mueve",
-        "url": "https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Ya No Se Mueve",
-      "url": "https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0REeSaTC1AgGbNdutsa9yu"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 166535,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/0J94ibLoZFu0ShiGn3CkMh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 176033,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Coraz\u00f3n De Papel",
-      "url": "https://open.spotify.com/track/5SNqzauoA3ZZwZWaEi62aG"
     },
     {
       "added_at": null,
@@ -523,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "duration_ms": 195726,
+      "name": "Qu\u00e9 M\u00e1s Da",
+      "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mala Vida",
         "url": "https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM"
       },
@@ -620,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 158743,
-      "name": "DADOS",
-      "url": "https://open.spotify.com/track/3HLPJXlVy6ez2lZeEpuDpB"
+      "duration_ms": 163434,
+      "name": "FLOTA",
+      "url": "https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW"
     },
     {
       "added_at": null,
@@ -639,26 +679,6 @@
       "duration_ms": 173936,
       "name": "Manzana",
       "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheve",
-        "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
     },
     {
       "added_at": null,
@@ -691,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheve",
+        "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 174037,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mp3.",
         "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
@@ -704,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 163434,
-      "name": "FLOTA",
-      "url": "https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW"
+      "duration_ms": 158743,
+      "name": "DADOS",
+      "url": "https://open.spotify.com/track/3HLPJXlVy6ez2lZeEpuDpB"
     },
     {
       "added_at": null,
@@ -727,26 +767,6 @@
       "duration_ms": 181221,
       "name": "ASMR",
       "url": "https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TSUNAMI",
-        "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "TSUNAMI",
-      "url": "https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd"
     },
     {
       "added_at": null,
@@ -775,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estamos Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         },
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 182698,
-      "name": "Estamos Aqu\u00ed",
-      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
+      "duration_ms": 166800,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/5cDMw4KFAlutwrHf2Zf8jd"
     },
     {
       "added_at": null,
@@ -1003,22 +1023,6 @@
       "duration_ms": 141219,
       "name": "Mil Maneras",
       "url": "https://open.spotify.com/track/2MH2Octk42xw891Bilg89D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/51rJeK97OprHwFCGYxtgnX"
     }
   ],
   "unique_name": "This Is Leon Leiden",

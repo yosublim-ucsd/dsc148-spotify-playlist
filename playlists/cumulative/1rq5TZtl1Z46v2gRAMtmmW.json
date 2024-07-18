@@ -2994,10 +2994,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 189816,
       "name": "Kimbara",
       "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "album": {
+        "name": "KY\u014cFUNOHOSHI",
+        "url": "https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224316,
+      "name": "KY\u014cFUNOHOSHI",
+      "url": "https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU"
     },
     {
       "album": {

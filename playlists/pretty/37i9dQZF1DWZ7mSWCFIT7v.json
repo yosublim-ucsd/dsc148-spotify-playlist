@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 226892,
+  "num_followers": 226919,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
-      "added_at": "2024-04-15 22:50:57",
-      "album": {
-        "name": "Other Means",
-        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
-      },
-      "artists": [
-        {
-          "name": "Batu",
-          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Other Means",
-      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
-    },
-    {
       "added_at": "2023-11-23 03:12:41",
       "album": {
         "name": "Candid",
@@ -375,6 +359,22 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
+    },
+    {
+      "added_at": "2024-04-15 22:50:57",
+      "album": {
+        "name": "Other Means",
+        "url": "https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Other Means",
+      "url": "https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -423,6 +423,22 @@
       "duration_ms": 248758,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/3S3gRidA2Fg38gwfHXxeZ3"
+    },
+    {
+      "added_at": "2022-03-30 04:41:43",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2023-03-03 04:14:50",
@@ -479,22 +495,6 @@
       "duration_ms": 471786,
       "name": "A Ghost At Noon",
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
-    },
-    {
-      "added_at": "2022-03-30 04:41:43",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2022-07-06 16:48:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
-      },
-      "artists": [
-        {
-          "name": "Pole",
-          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
-        }
-      ],
-      "duration_ms": 307546,
-      "name": "Tangente",
-      "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
       },
       "artists": [
         {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+          "name": "Pole",
+          "url": "https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6"
         }
       ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+      "duration_ms": 307546,
+      "name": "Tangente",
+      "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -655,6 +639,22 @@
       "duration_ms": 177000,
       "name": "Milliseconds",
       "url": "https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2022-02-25 03:33:17",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
-      "added_at": "2024-03-21 23:28:58",
-      "album": {
-        "name": "Eno (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 343146,
-      "name": "Lighthouse #429",
-      "url": "https://open.spotify.com/track/20MH21qtuV9OFTf3sHXA9F"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Yes",
@@ -863,6 +847,22 @@
       "duration_ms": 455548,
       "name": "Rain 3",
       "url": "https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA"
+    },
+    {
+      "added_at": "2024-03-21 23:28:58",
+      "album": {
+        "name": "Eno (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 343146,
+      "name": "Lighthouse #429",
+      "url": "https://open.spotify.com/track/20MH21qtuV9OFTf3sHXA9F"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Onism",
+        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
+      },
+      "artists": [
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "duration_ms": 198881,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Blinking/Aubades",
         "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
@@ -1069,20 +1085,20 @@
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-03-31 19:28:25",
       "album": {
-        "name": "Onism",
-        "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
+        "name": "Verve EP",
+        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
       },
       "artists": [
         {
-          "name": "Photay",
-          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 198881,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3"
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1125,20 +1141,20 @@
       "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
-      "added_at": "2023-03-31 19:28:25",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Verve EP",
-        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
         }
       ],
-      "duration_ms": 337194,
-      "name": "Opak",
-      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1155,22 +1171,6 @@
       "duration_ms": 210443,
       "name": "Temple",
       "url": "https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
-      },
-      "artists": [
-        {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
-        }
-      ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2022-08-31 03:57:27",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Symbolic Use Of Light",
-        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
-      },
-      "artists": [
-        {
-          "name": "UMFANG",
-          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
-        }
-      ],
-      "duration_ms": 271237,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
-    },
-    {
       "added_at": "2023-08-17 17:21:25",
       "album": {
         "name": "Circuit Current",
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "LEGENDO",
-        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
+        "name": "Symbolic Use Of Light",
+        "url": "https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn"
       },
       "artists": [
         {
-          "name": "Lutto Lento",
-          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
+          "name": "UMFANG",
+          "url": "https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3"
         }
       ],
-      "duration_ms": 272327,
-      "name": "Fern Flowers",
-      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
+      "duration_ms": 271237,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT"
+    },
+    {
+      "added_at": "2023-03-22 17:48:40",
+      "album": {
+        "name": "Los muertos no lloran",
+        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+      },
+      "artists": [
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 340590,
+      "name": "Los muertos no lloran",
+      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
     },
     {
-      "added_at": "2023-03-22 17:48:40",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Los muertos no lloran",
-        "url": "https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG"
+        "name": "LEGENDO",
+        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
       },
       "artists": [
         {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+          "name": "Lutto Lento",
+          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
         }
       ],
-      "duration_ms": 340590,
-      "name": "Los muertos no lloran",
-      "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+      "duration_ms": 272327,
+      "name": "Fern Flowers",
+      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
+      "added_at": "2022-08-24 01:27:39",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+      },
+      "artists": [
+        {
+          "name": "Floatleaf",
+          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
       "added_at": "2023-05-24 01:46:16",
       "album": {
         "name": "Uncanny Otion",
@@ -1371,22 +1387,6 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
-      "added_at": "2022-08-24 01:27:39",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe"
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
       },
       "artists": [
         {
-          "name": "Floatleaf",
-          "url": "https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r"
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2022-01-12 18:40:19",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Ardour (10th Anniversary Edition)",
@@ -1533,22 +1549,6 @@
       "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
       "added_at": "2023-03-03 04:07:38",
       "album": {
         "name": "Was Du Suchst",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA"
     },
     {
-      "added_at": "2022-02-18 05:43:49",
-      "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
-      },
-      "artists": [
-        {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
-        }
-      ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Obit For Sunshade",
@@ -1627,6 +1611,22 @@
       "duration_ms": 404210,
       "name": "sssssmilinggggg",
       "url": "https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs"
+    },
+    {
+      "added_at": "2022-02-18 05:43:49",
+      "album": {
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+      },
+      "artists": [
+        {
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+        }
+      ],
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1665,24 +1665,20 @@
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
     },
     {
-      "added_at": "2022-02-16 03:15:58",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Aural Drift (T.Raumschmiere Remix)",
-        "url": "https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7"
+        "name": "Grial",
+        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
       },
       "artists": [
         {
-          "name": "Martin Merz",
-          "url": "https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb"
-        },
-        {
-          "name": "T.Raumschmiere",
-          "url": "https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA"
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
         }
       ],
-      "duration_ms": 347276,
-      "name": "Aural Drift - T.Raumschmiere Remix",
-      "url": "https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu"
+      "duration_ms": 176195,
+      "name": "NRG Remains",
+      "url": "https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP"
     }
   ],
   "unique_name": "bleeps ^ glitches",

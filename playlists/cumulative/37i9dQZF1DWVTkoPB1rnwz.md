@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVTkoPB1rnwz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVTkoPB1rnwz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVTkoPB1rnwz)
 
-### [Quiet Hours](https://open.spotify.com/playlist/37i9dQZF1DWVTkoPB1rnwz)
+### [quiet hours](https://open.spotify.com/playlist/37i9dQZF1DWVTkoPB1rnwz)
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-355 songs - 20 hr 50 min
+356 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,8 +310,9 @@
 | [tears \(is this even real?\)](https://open.spotify.com/track/6ig6L5YZmiASmRlXmVPMP1) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/32ebyrpYYaR2TQqOzAANwn) | 2:55 | 2021-10-16 | 2024-04-19 |
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2022-09-30 |  |
 | [thank you](https://open.spotify.com/track/1Iz3CgXvBRtvBexnOfEk06) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [thank you](https://open.spotify.com/album/4t88BKiSoKTFiBQpWSurNw) | 1:41 | 2022-01-14 |  |
+| [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-07-17 |  |
 | [The Apiary](https://open.spotify.com/track/1ksUGKzkQfB9FDGfIJPqTG) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 3:03 | 2022-12-21 | 2023-02-16 |
-| [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 | 2021-10-16 |  |
+| [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 | 2021-10-16 | 2024-07-18 |
 | [The Lonely Island of Neopagan Practices](https://open.spotify.com/track/3JsRGgz1mChiwFTuSJ7dev) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Lonely Island of Neopagan Practices](https://open.spotify.com/album/0Mzqji5yhsfLxdt9zd82gR) | 2:45 | 2021-10-16 | 2022-07-29 |
 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 | 2021-10-16 | 2024-04-19 |
 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/2xWuOQh9k5g3vjk4zaeoUy) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/3jSsSaLuFPCA1do6E9j1Cd) | 2:40 | 2021-10-16 | 2022-07-16 |

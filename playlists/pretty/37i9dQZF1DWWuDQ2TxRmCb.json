@@ -1,6 +1,6 @@
 {
   "description": "Best of the modern folk artists! Cover- Raghu Dixit",
-  "num_followers": 78111,
+  "num_followers": 78131,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,26 @@
     {
       "added_at": "2024-07-12 05:42:05",
       "album": {
-        "name": "Jag Baurana",
-        "url": "https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM"
+        "name": "Shakkar",
+        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
       },
       "artists": [
         {
-          "name": "Aabhas - Shreyas",
-          "url": "https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4"
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
         },
         {
-          "name": "Indie Routes",
-          "url": "https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu"
+          "name": "John Paul",
+          "url": "https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
         }
       ],
-      "duration_ms": 352048,
-      "name": "Jag Baurana",
-      "url": "https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT"
+      "duration_ms": 300000,
+      "name": "Priyotoma",
+      "url": "https://open.spotify.com/track/0ZYfRyGRGABm4EPykODGqO"
     }
   ],
   "unique_name": "Folk in India",

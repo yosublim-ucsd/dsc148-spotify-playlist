@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-632 songs - 1 day 12 hr 5 min
+633 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [delicate](https://open.spotify.com/track/2uP7RQaw3jEleyVL4Nl53b) | [cleanse.](https://open.spotify.com/artist/33uoJFpxQzuZLSBe1ts8rz) | [decay](https://open.spotify.com/album/3wBnoGZiw6mGdII6jpUPtX) | 4:01 | 2024-05-31 |  |
 | [delirious](https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [delirious](https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C) | 2:51 | 2023-02-02 | 2023-06-17 |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-09 | 2023-06-03 |
+| [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-17 |  |
 | [Descend](https://open.spotify.com/track/21gzflUH729pjKczveSrHU) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Descend](https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97) | 3:40 | 2024-04-19 | 2024-06-15 |
 | [Destroy the World](https://open.spotify.com/track/3cqCrByCAW5x9RGcrICmYf) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:40 | 2023-01-13 | 2023-05-13 |
 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2022-11-25 | 2023-01-14 |
@@ -271,7 +272,7 @@
 | [Her Favorite Dress](https://open.spotify.com/track/3s36qJjFzPoBhal1yY2lpj) | [Settle](https://open.spotify.com/artist/6XSX0gIHHFN7MG7ppupJbr) | [Her Favorite Dress](https://open.spotify.com/album/1j7T5X2MkqU87bdXRjJkOD) | 4:11 | 2023-06-16 | 2023-08-22 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
 | [hi mute](https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [hi mute](https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD) | 2:44 | 2024-03-01 | 2024-06-22 |
-| [Hide And Seek](https://open.spotify.com/track/3bGsXx1fQpxc0fPCwUQx7I) | [Sleepwalk](https://open.spotify.com/artist/79bG0WSxgj7fnJr9cDqPjL) | [Out Of Focus](https://open.spotify.com/album/1KGLsr9LXysjW7acKHy4X2) | 2:11 | 2024-07-08 |  |
+| [Hide And Seek](https://open.spotify.com/track/3bGsXx1fQpxc0fPCwUQx7I) | [Sleepwalk](https://open.spotify.com/artist/79bG0WSxgj7fnJr9cDqPjL) | [Out Of Focus](https://open.spotify.com/album/1KGLsr9LXysjW7acKHy4X2) | 2:11 | 2024-07-08 | 2024-07-18 |
 | [High In The Clouds](https://open.spotify.com/track/2wfU1QHCNHng11dGKDiOph) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [High In The Clouds](https://open.spotify.com/album/2xNWZ76q9h8ZPPbFJ7gZNf) | 3:46 | 2024-01-12 | 2024-03-23 |
 | [Hiraeth](https://open.spotify.com/track/7J1rx8Kkbuagoi3EYuyEl1) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Hiraeth](https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON) | 3:45 | 2023-09-15 | 2024-01-27 |
 | [Hold On You](https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/2ALvJNxFwqPtzq22hnPp0s) | 3:24 | 2022-12-02 | 2022-12-16 |

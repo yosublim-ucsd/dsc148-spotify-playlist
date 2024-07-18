@@ -1,12 +1,12 @@
 {
-  "description": "This is Lauren Daigle. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "num_followers": 359811,
-  "original_name": "Acesta este Lauren Daigle.",
+  "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
+  "num_followers": 359836,
+  "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAB8A1uQlrAuy+JAGvIEk4c5",
+  "snapshot_id": "ZpW4AAAAAAB7u+thLWY38d/baP9CL5Dy",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On To Me",
         "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
       },
@@ -95,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "First",
-      "url": "https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -123,6 +123,22 @@
       "duration_ms": 215613,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "First",
+      "url": "https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa"
     },
     {
       "added_at": null,
@@ -167,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
       "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 273506,
-      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
     },
     {
       "added_at": null,
@@ -264,9 +264,25 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 148026,
-      "name": "Your Wings",
-      "url": "https://open.spotify.com/track/50xNWlzb3BOyCUgjB2nlv8"
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": null,
@@ -303,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Your Wings",
+      "url": "https://open.spotify.com/track/50xNWlzb3BOyCUgjB2nlv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tremble",
         "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
       },
@@ -315,22 +347,6 @@
       "duration_ms": 299453,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
     },
     {
       "added_at": null,
@@ -371,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2YR7SB90SZhMf9J3HYogKa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Alive: Live from the CentricWorship Retreat",
         "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
       },
@@ -383,22 +415,6 @@
       "duration_ms": 225680,
       "name": "You Have My Surrender (Live)",
       "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 389760,
-      "name": "Turn Your Eyes Upon Jesus",
-      "url": "https://open.spotify.com/track/0ZMOWXDlnlkMGTn4H0u24u"
     },
     {
       "added_at": null,
@@ -575,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "A Place Called Earth",
+      "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
@@ -631,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
       },
       "artists": [
         {
@@ -640,9 +676,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 375026,
-      "name": "Here's My Heart",
-      "url": "https://open.spotify.com/track/1m4hUSuv0IlccTAOOBRumJ"
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
     },
     {
       "added_at": null,
@@ -661,6 +697,6 @@
       "url": "https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo"
     }
   ],
-  "unique_name": "Acesta este Lauren Daigle.",
+  "unique_name": "This Is Lauren Daigle",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq"
 }

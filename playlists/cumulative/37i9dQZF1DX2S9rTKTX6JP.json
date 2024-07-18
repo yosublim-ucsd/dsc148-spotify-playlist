@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 195345,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 211956,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/3kBrf6U9QWh4lZ5wBvtE8e"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 145522,
       "name": "Deadbolt",
       "url": "https://open.spotify.com/track/0NO7LPtpU4nyYoctchHsOr"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 248571,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 178250,
       "name": "It's The End Of The World As We Know It (And I Feel Fine)",
       "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 196691,
       "name": "Just Like Heaven - Live at BBC Maida Vale",
       "url": "https://open.spotify.com/track/6OflYaG0m5BKULGLbC1Adc"
@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 267859,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/59QGjZF7BhSoPZvPQeFnCX"
@@ -4790,7 +4790,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5GYPG4kaMv1nSSQtMca3iM"
@@ -5416,6 +5416,24 @@
       "duration_ms": 188513,
       "name": "Summer in the City",
       "url": "https://open.spotify.com/track/1yCXPOdArdy2kDPUD1WTeQ"
+    },
+    {
+      "album": {
+        "name": "sun to me",
+        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "sun to me",
+      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "album": {

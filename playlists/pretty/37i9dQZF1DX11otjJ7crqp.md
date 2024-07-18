@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Griff
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,344 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,387 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 73 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 |
 | 74 | [Taste for Blood](https://open.spotify.com/track/41ltW0Hdn3S0PehBaTz7Rw) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Taste for Blood](https://open.spotify.com/album/17fd6rhrdDDZCx2TB4pdCD) | 3:06 |
 | 75 | [Cross Your Mind](https://open.spotify.com/track/5E4dFNH0sBnSnIybnKui0S) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Cross Your Mind](https://open.spotify.com/album/2T6k6o12ud6iyjYNNhOSPz) | 2:34 |
-| 76 | [everything but you](https://open.spotify.com/track/62nPgaERLy1L7yIE8u0Xj8) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/4e0jM7ZK4SDd49NDmFC269) | 2:57 |
-| 77 | [Comedown](https://open.spotify.com/track/33JmBA77g0BCoNGh5CzY4X) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Comedown](https://open.spotify.com/album/12KjVdfkbYlSmTyBQ6rXKY) | 2:38 |
-| 78 | [Therapy](https://open.spotify.com/track/0XABI8auwTM81wyVovqNBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Therapy](https://open.spotify.com/album/2F9CbCdyMJ7vjEJyXtxi1z) | 2:56 |
+| 76 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 |
+| 77 | [everything but you](https://open.spotify.com/track/62nPgaERLy1L7yIE8u0Xj8) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/4e0jM7ZK4SDd49NDmFC269) | 2:57 |
+| 78 | [Comedown](https://open.spotify.com/track/33JmBA77g0BCoNGh5CzY4X) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Comedown](https://open.spotify.com/album/12KjVdfkbYlSmTyBQ6rXKY) | 2:38 |
 | 79 | [Jump Rope](https://open.spotify.com/track/2HOn21FfcrL8e2QHWc9e96) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Jump Rope](https://open.spotify.com/album/68mSmcOTx03AiQZH6MPzt3) | 3:06 |
 | 80 | [100 Miles](https://open.spotify.com/track/5tv9gXaA7aCQurMcXfrKlB) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [100 Miles](https://open.spotify.com/album/3p5LPXnOmZayGbU226aPKM) | 3:03 |
 | 81 | [Repeat After Me](https://open.spotify.com/track/1IGyZBgDEPWDwaIgLPZ2X0) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Repeat After Me](https://open.spotify.com/album/5yz17TAa1X8cqARIG93JZN) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Hearts Get Broken](https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Hearts Get Broken](https://open.spotify.com/album/0LEc3UGGhRAy8kluAyeTzA) | 3:06 |
 | 100 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 |
 
-Snapshot ID: `ZpVoFAAAAADZqtNC26LUXHWr1PhyNVXr`
+Snapshot ID: `Zpc/pQAAAADmon9cVSyLojngRj1J/3Zy`

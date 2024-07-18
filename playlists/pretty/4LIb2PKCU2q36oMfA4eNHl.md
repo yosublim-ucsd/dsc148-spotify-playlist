@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,148 likes - 40 songs - 2 hr 34 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 42,147 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 26 | [Bloom](https://open.spotify.com/track/2Lel47yBru9Io5TjTeF17I) | [Genix](https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w), [JVMIE](https://open.spotify.com/artist/2nGYiS8j6qvzqlf0aNxbHi) | [YOU.ME.NOW](https://open.spotify.com/album/32ozStC7KbED7L5ez5en1n) | 4:13 |
 | 27 | [The Last Phone Call](https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Imaginary Friend](https://open.spotify.com/artist/5pw6etTC4sdwI2ADgjVtlb) | [Tides](https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC) | 2:23 |
 | 28 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 |
-| 29 | [A Long Way From Home \- James Grant & Jody Wisternoff Remix](https://open.spotify.com/track/7fOFW4D1eSvYL2qdeHUyuh) | [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI), [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Julie Scott](https://open.spotify.com/artist/6Uf3EeqiOKeabPJ5uuGSS9), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL) | [A Long Way From Home \(The Remixes\)](https://open.spotify.com/album/6Dbaxc0Q0lPJbImolzTz9Q) | 4:25 |
+| 29 | [A Long Way From Home \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/7fOFW4D1eSvYL2qdeHUyuh) | [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI), [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Julie Scott](https://open.spotify.com/artist/6Uf3EeqiOKeabPJ5uuGSS9), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [A Long Way From Home \(The Remixes\)](https://open.spotify.com/album/6Dbaxc0Q0lPJbImolzTz9Q) | 4:25 |
 | 30 | [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 |
 | 31 | [Don't Say \- Talee's Pool Party Mix](https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [Don't Say \(Talee's Pool Party Mix\)](https://open.spotify.com/album/0VkyvhRve3iOjjIChODhAi) | 4:25 |
 | 32 | [Fugue In Twilight \- Instrumental](https://open.spotify.com/track/1svIcIypheKAWvubFYIuiG) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:24 |

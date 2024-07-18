@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: back number \*👉 <a href="https://spice.eplus.jp/articles/330285?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: back number \*👉 <a href="https://spice.eplus.jp/articles/330482?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-7,005 songs - 17 day 22 hr 29 min
+7,007 songs - 17 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2166,6 +2166,7 @@
 | [KYOMEI\(feat.Ivy to Fraudulent Game\)](https://open.spotify.com/track/7rrFaAwjCgNFkjISH56lfj) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x), [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [KYOMEI\(feat.Ivy to Fraudulent Game\)](https://open.spotify.com/album/7m5HdqMg5WvJ3nCIPOr6Ow) | 3:52 | 2023-11-29 | 2023-12-06 |
 | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/2IdPiAdM5pUmUMtzS1UBnJ) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [Kyoutou feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/5xZRKhx7mmHb6SwlY2uPwh) | 2:56 | 2024-04-02 | 2024-04-10 |
 | [Kyusekkin](https://open.spotify.com/track/1ipRUJa972ttvdHrlEbctv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kyusekkin](https://open.spotify.com/album/4OSckx4fTTXI18vBwcZlGr) | 2:55 | 2023-07-12 | 2023-07-19 |
+| [KYŌFUNOHOSHI](https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [KYŌFUNOHOSHI](https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M) | 3:44 | 2024-07-17 |  |
 | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/track/6fFrBnPlSalqXYL7rO6DY5) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [Kyunchi](https://open.spotify.com/artist/6OSypK1O2H0k33zP5HtPtI) | [L.M.S.N feat\. Kyunchi](https://open.spotify.com/album/6osDuDFpLd4XrdXwrHwXL8) | 3:03 | 2023-05-24 | 2023-05-31 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-14 | 2023-03-22 |
 | [La la lie](https://open.spotify.com/track/0mHoojc6jZ08qMvUSvEz8g) | [Ryo Nagano](https://open.spotify.com/artist/1pQVDdL0MKMj353vBQ3BM6) | [La la lie](https://open.spotify.com/album/17PcmDiBW1axhPJdWmMrQl) | 3:10 | 2023-11-28 | 2023-12-06 |
@@ -2943,6 +2944,7 @@
 | [Ooh!](https://open.spotify.com/track/7cjCgykjQmk0WE9Wnq10o7) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [Ooh!](https://open.spotify.com/album/6Haj9wJqrnClrRc8A4kSA7) | 3:14 | 2023-07-05 | 2023-07-12 |
 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 | 2023-11-22 | 2023-11-29 |
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-28 | 2023-12-06 |
+| [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-17 |  |
 | [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-05-31 | 2023-06-07 |
 | [Open The Door, See What You Find](https://open.spotify.com/track/2Kxl1J9SK9uy1zHQk59ifu) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Open The Door, See What You Find](https://open.spotify.com/album/5saFRdEQVjmHLBmW9vCixv) | 4:07 | 2023-05-31 | 2023-06-05 |
 | [Open The Window feat\. JQ from Nulbarich](https://open.spotify.com/track/1TVrB74jpRwvb2PSxm7yJf) | [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ), [JQ](https://open.spotify.com/artist/1ghv26dA3RvlYBaXzlZvJN) | [Open The Window](https://open.spotify.com/album/1UrzTepg8WrgbK6zBbXxiH) | 4:36 | 2023-06-20 | 2023-06-22 |

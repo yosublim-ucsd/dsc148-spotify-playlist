@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 
 > Their time will come\. Eventually\. Probably\. Listen to the music from and inspired by Neon, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,272 likes - 66 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,290 likes - 66 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZS3UUOdld0Q.md) - [plain]
 | 22 | [Never Nunca](https://open.spotify.com/track/26XLRWSaHwZTJgHnrxPbCA) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Mr\. Jukeboxx](https://open.spotify.com/artist/0rTzD0LmYJRCp97EngfAGg) | [Never Nunca](https://open.spotify.com/album/27IBgUAoG8Bc3KHmfLGbRE) | 3:03 |
 | 23 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 |
 | 24 | [Sexo Amor Dinero](https://open.spotify.com/track/2i4W8au3T2ZAyMXn5OEoHA) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 3:31 |
-| 25 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
+| 25 | [Nebuleo \(feat\. DJ Blass\)](https://open.spotify.com/track/1B49GDycK8rmbVqLhFD86z) | [Club16](https://open.spotify.com/artist/1KNEcTlbyVdLjIGLmQZ7ED), [Jota Rosa](https://open.spotify.com/artist/6ck03Zet9TO7ynRuijORDE), [Alvaro Diaz](https://open.spotify.com/artist/3TlC0LTn6XA3JL8WH5V7NW), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH) | [Club16, Jota Rosa Presents Vol\. 2](https://open.spotify.com/album/2wVZ2SzvRStpgyNmXo9s8d) | 2:18 |
 | 26 | [DiaboliK](https://open.spotify.com/track/1a5vynFVWTlCCOsKZ4ehTR) | [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs) | [MuLTIFlOw](https://open.spotify.com/album/58T9N9fdZIPynQ3wfVsSe4) | 2:37 |
 | 27 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 |
 | 28 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 |

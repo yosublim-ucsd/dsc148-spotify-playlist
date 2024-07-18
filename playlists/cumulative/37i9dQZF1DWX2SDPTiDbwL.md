@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-95 songs - 6 hr 27 min
+97 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dust in the Wind](https://open.spotify.com/track/5krgMALvJ9nXdJ5BF5blFN) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/7GWMKie2BiYP0oQ1ScNFGD) | 3:20 | 2024-04-05 |  |
 | [Elenion](https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 4:18 | 2023-09-01 | 2024-04-19 |
 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 | 2024-04-05 |  |
-| [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 | 2024-04-19 |
+| [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 |  |
 | [Evening Embrace](https://open.spotify.com/track/2y3JlvkZk1pO1T8Yhl6uw9) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/7pPwGFAjsWR8F8E1cRuoF4) | 4:25 | 2024-04-05 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2023-09-01 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/7AFWXDnyopsDfGcdkRMtLZ) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/7ApW1Ydp8x4ZcApid1rNMy) | 3:32 | 2024-03-06 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [La Juani](https://open.spotify.com/track/0oulPWX7WIuc7zienNXCCR) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 4:00 | 2023-09-01 | 2024-04-19 |
 | [La Moraima](https://open.spotify.com/track/6JLjGnfzm03NxkmQCQSIyv) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 3:55 | 2024-04-05 |  |
 | [La Moraima](https://open.spotify.com/track/7HyhgyD0eSVk4S40w5V9e1) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Ana Azules](https://open.spotify.com/artist/28uaLPiyViriPdt8bDkhAx), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8) | [Rafa El Tachliela: Flamenco Nuevo](https://open.spotify.com/album/5TIYTblia22KtU92NtAKnm) | 3:55 | 2023-09-01 | 2024-04-19 |
+| [Layla](https://open.spotify.com/track/0mDtRjCnkXPCSA9zI61SxR) | [Elior](https://open.spotify.com/artist/1fD2SIrAayRGtlgt06VU9M) | [Layla](https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT) | 3:04 | 2024-07-18 |  |
 | [Lleva Mi Amor](https://open.spotify.com/track/1kPMYjXR6g36hSb1bxF55e) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Lleva Mi Amor](https://open.spotify.com/album/2wyKPCuOVZGPEcoh1Dxf8Y) | 2:17 | 2023-09-01 |  |
 | [Lluvia de plata](https://open.spotify.com/track/3KxU4j0VwWlPYcVgfYHfbp) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:49 | 2023-09-01 | 2024-04-19 |
 | [Lluvia de plata](https://open.spotify.com/track/27m9KY1k0T2tvrOlvnWKZS) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:52 | 2024-04-05 |  |
@@ -91,6 +92,7 @@
 | [Soleil](https://open.spotify.com/track/0k4Y2TqLUPNJ8euMibKQ4z) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Grupo Macarena: Gypsy Flamenco](https://open.spotify.com/album/6VmYzpmaaEJe66Sy9ZK4qO) | 4:36 | 2023-09-01 | 2024-04-19 |
 | [Soleil](https://open.spotify.com/track/5AhKt78RT4MorT1aNUTY2R) | [Grupo Macarena](https://open.spotify.com/artist/3g1lP3W3lirtFzWyaBfS4f) | [Gypsy Flamenco](https://open.spotify.com/album/4SOJBGpstHpP2BE9CqKmvG) | 4:36 | 2024-04-05 |  |
 | [Soleá](https://open.spotify.com/track/7ET84OBxMtONNtsmsDyifG) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 4:39 | 2024-04-05 |  |
+| [Spanish Nights](https://open.spotify.com/track/65XPPR5GGETPXqwMIBRB1b) | [Young & Rollins](https://open.spotify.com/artist/2uYKLNEOZuLjpZXOGoAlKJ) | [Esperanza](https://open.spotify.com/album/4qrZ5gpHaFYhsqWeaLyFjZ) | 4:57 | 2024-07-18 |  |
 | [Tarantas](https://open.spotify.com/track/3JqVaiG3pA5Rrj1LQzDaR9) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/40NaiYoHAvxeLv0hj5BViC) | 2:33 | 2023-09-01 | 2024-04-19 |
 | [Tarantas](https://open.spotify.com/track/4aPpZdPSokp6H9zMpJvzZA) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Traditional Gypsy Flamenco](https://open.spotify.com/album/4kKheS9UXOnll6Wz1fyyv9) | 2:33 | 2024-04-05 |  |
 | [The Endless Dance](https://open.spotify.com/track/1Kpydr7RXuFVFWbUDJp3sB) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/1b89KybJIh8S51U48wdUjl) | 9:02 | 2023-09-01 | 2024-04-19 |

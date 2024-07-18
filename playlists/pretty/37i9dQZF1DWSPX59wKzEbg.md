@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,172 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,170 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 | 5 | [Do You Hear What I Hear?](https://open.spotify.com/track/7r7AHhuXaO4y7EOYDz2ed4) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI), [City of Prague Orchestra](https://open.spotify.com/artist/7i3gDK9rnzQ1HwnlOoz3PB), [Sally Herbert](https://open.spotify.com/artist/4TtWiCEUhyeiw99Fm4CXbV), [Richard Cottle](https://open.spotify.com/artist/56U8tXKZlZUqiiWEgULxkG), [Shelly Poole](https://open.spotify.com/artist/2t6FY6HyP5mbyTy8lcapAJ) | [Someday at Christmas](https://open.spotify.com/album/3p4yYl4oILHK84ciA5o4XE) | 4:10 |
 | 6 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 |
 | 7 | [O Holy Night \(feat\. Kristin Chenoweth\)](https://open.spotify.com/track/1xJeuKstR2pL6HooY4muox) | [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Musical Gifts from Joshua Bell and Friends](https://open.spotify.com/album/0YOdrzckghjEdWcBvXRLd8) | 3:05 |
-| 8 | [When a Child Is Born](https://open.spotify.com/track/69tL2L2sPoHr9W2LA0yVdm) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [The Christmas Collection](https://open.spotify.com/album/3Hn4INUvIfBYrEeuCLQNq2) | 2:58 |
+| 8 | [When a Child Is Born](https://open.spotify.com/track/69tL2L2sPoHr9W2LA0yVdm) | [Zacar](https://open.spotify.com/artist/4HGIHdROFZSUh70VsKcyoE), [Jay](https://open.spotify.com/artist/5FtUCtiM58XfWegbXeKJJd), [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [The Christmas Collection](https://open.spotify.com/album/3Hn4INUvIfBYrEeuCLQNq2) | 2:58 |
 | 9 | [Carol Of The Bells](https://open.spotify.com/track/2jK9IKYhIxeyeEVAXNPrZr) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [The Pavao Quartet](https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT) | [Winter Magic](https://open.spotify.com/album/23qTWmrII6hI6Wx5Ww8KHT) | 3:00 |
 | 10 | [Santa la noche \(Cantique De Noel\)](https://open.spotify.com/track/2tmDbnWLieDLXHdLKk5m7K) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Edición Especial En Español\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 4:33 |
 | 11 | [Hark The Herald Angels Sing/O Come All Ye Faithful](https://open.spotify.com/track/1QQ8HuR86qd0gzbKcn699W) | [Clay Aiken](https://open.spotify.com/artist/13aBWT8LN4oNWWGFOu96MA) | [Merry Christmas With Love](https://open.spotify.com/album/5w5zxqNrJYFL1y8a8HtuLD) | 4:00 |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6525,
+  "num_followers": 6524,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACZwDPnY73/xXofah8JLnxIECGAbLwX",
+  "snapshot_id": "AACZwhmgTCqz1ktGZ88TohfKjlTFdWzD",
   "tracks": [
     {
       "added_at": "2024-07-16 08:53:37",
@@ -23,6 +23,38 @@
       "duration_ms": 208482,
       "name": "Coast",
       "url": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf"
+    },
+    {
+      "added_at": "2024-07-17 07:44:51",
+      "album": {
+        "name": "SIN MIEDO",
+        "url": "https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp"
+    },
+    {
+      "added_at": "2024-07-17 07:45:13",
+      "album": {
+        "name": "Can U Hear",
+        "url": "https://open.spotify.com/album/5XAtYRF3NKs1ULZLzOgrfB"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        }
+      ],
+      "duration_ms": 209057,
+      "name": "Can U Hear",
+      "url": "https://open.spotify.com/track/4rEia0VIARZo9WnH7MhUO6"
     },
     {
       "added_at": "2024-07-12 06:14:51",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 434034,
+  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "num_followers": 434221,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAACvu+9XKQMwKzWmxQvFGxS7",
+  "snapshot_id": "ZpW4AAAAAAAIfxCUXfJByeLd4299HWrq",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+      "duration_ms": 191213,
+      "name": "Soy Familia, Soy Michoacano (En Vivo)",
+      "url": "https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Soy Familia, Soy Michoacano (En Vivo)",
-      "url": "https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67"
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,

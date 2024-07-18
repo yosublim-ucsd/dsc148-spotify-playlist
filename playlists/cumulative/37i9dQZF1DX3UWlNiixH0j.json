@@ -9507,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "KY\u014cFUNOHOSHI",
+        "url": "https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224316,
+      "name": "KY\u014cFUNOHOSHI",
+      "url": "https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/60gAxd8jeDnGaoPo8Bmed9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Larkin Poe
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,986 likes - 149 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,195 likes - 149 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-600 songs - 2 day 1 hr 1 min
+604 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [\#54 ClariSニューアルバム『Iris』を徹底分析／超豪華！TM NETWORKトリビュート／番組始まって以来の大ハプニング!?](https://open.spotify.com/episode/2by2IStvpJ1VMZ0vRQWw7O) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:42 | 2024-06-07 |  |
 | [\#55 内田真礼デビュー10周年を祝おう＆語ろう／「創傷イノセンス」と「Rising Hope」と10周年の名曲たち](https://open.spotify.com/episode/3oEGl7tgRBX6zB4QMcF7cf) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 45:13 | 2024-07-05 |  |
 | [\#56 この盛り上がりにはワケがある！結束バンド、MyGO!!!!!、トゲナシトゲアリ…アニメ発のガールズバンドを語ろう2024!!](https://open.spotify.com/episode/53P3OEdFsBhif1UEaTWn7y) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:07 | 2024-07-05 |  |
+| [\#57 やっぱりスゴい…「学園アイドルマスター」／延長戦！ガールズバンド×アニメ論／次はこんな“音楽×アニメ”が観たい！](https://open.spotify.com/episode/6pyG4hpwSayfUGhbfk0H6V) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 34:09 | 2024-07-17 |  |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
 | [A Shout Of Triumph](https://open.spotify.com/track/4HBGkqivkaobQRqXZjjtsM) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [A Shout Of Triumph](https://open.spotify.com/album/3U27ACC68WSFvZdjoxQ22F) | 3:52 | 2023-01-24 | 2023-07-12 |
@@ -96,6 +97,7 @@
 | [FEELING AROUND](https://open.spotify.com/track/6JfLAY4IlMsMfT98WPefmy) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [FEELING AROUND](https://open.spotify.com/album/4dHDXdKSqFyx3ljDRzxRxa) | 3:52 | 2022-06-07 | 2022-06-23 |
 | [FEELING AROUND](https://open.spotify.com/track/0PSF03MhGSNg8VKhlF3nZ2) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [見る前に飛べ!](https://open.spotify.com/album/2dTvWh8W4PZwHMZrjXnRb3) | 3:55 | 2023-01-27 | 2023-07-12 |
 | [Fight!!](https://open.spotify.com/track/1iP5hkXzkunOzhWT3jgexc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:35 | 2023-01-29 | 2023-07-12 |
+| [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 | 2024-07-17 |  |
 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 | 2023-07-14 | 2024-01-24 |
 | [FLY HIGH!!](https://open.spotify.com/track/44ljoaRrogXke0S4U8iekW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [FLY HIGH!!](https://open.spotify.com/album/7J4pCjcOIMZAnkz6udz6he) | 4:06 | 2022-06-07 | 2022-06-23 |
 | [Follow Your Fantasy](https://open.spotify.com/track/7aHfVvkPNyu48Bmk2eltsG) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Follow Your Fantasy](https://open.spotify.com/album/7GCnVXf8VcmHLLDqwlaDvi) | 3:57 | 2022-06-07 | 2022-06-23 |
@@ -183,6 +185,7 @@
 | [Love You Tender!](https://open.spotify.com/track/1EE8P5OZGivcXrP6dqzGDj) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Love You Tender!](https://open.spotify.com/album/0teYYt0UReRcl1Dv1rIBaU) | 3:44 | 2023-10-31 | 2024-01-24 |
 | [Lovely Fruit](https://open.spotify.com/track/1zCrBbnWF9pMYdR4nvngRD) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 3:50 | 2022-10-12 | 2023-01-12 |
 | [Lun ga Pikatto Hikattara \-album version\-](https://open.spotify.com/track/561uURkxpWeD2o8auY4rDa) | [Walkure](https://open.spotify.com/artist/4b1IVV9meynYx65WpsxjbT) | [TV Animation "MACROSS DELTA" VOCAL SONGS COLLECTION "Walkure Attack!"](https://open.spotify.com/album/2nQJ2Eyi1uAwWcYXeYx6xP) | 4:26 | 2023-01-27 | 2023-07-12 |
+| [Luna say maybe](https://open.spotify.com/track/0zxyK9Ih5rnN485VY73bUp) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [月村手毬](https://open.spotify.com/artist/1TdCkttAqnqM1TqyjwXqGi) | [Luna say maybe](https://open.spotify.com/album/7t9VsesCOhXdQHqYCAUsgY) | 4:25 | 2024-07-17 |  |
 | [Magic Words](https://open.spotify.com/track/37hsJ4Jz3LmfAq4VDFzprF) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [Fo\(u\)r YuU](https://open.spotify.com/album/1AEqYPpFCn63xMxMA6qhOU) | 4:30 | 2023-01-27 | 2023-07-12 |
 | [MAGICAL DESTROYER](https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [MAGICAL DESTROYER](https://open.spotify.com/album/7LtA97RybPQ1EJA03SQtzV) | 3:47 | 2023-07-14 | 2024-01-24 |
 | [MARIA&JOKER](https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:11 | 2022-10-12 | 2023-01-12 |
@@ -484,6 +487,7 @@
 | [全力!絶対!!カウントダウン!!!](https://open.spotify.com/track/7FUq1cKdjJ1XyP6mHoio7J) | [サニーピース](https://open.spotify.com/artist/1FkWBu03NKQiM8mQxNomGU) | [全力!絶対!!カウントダウン!!!](https://open.spotify.com/album/3KJOjyyE3zpSPCO9UAc4AC) | 4:25 | 2022-06-07 | 2022-06-23 |
 | [全力☆Summer!](https://open.spotify.com/track/53Uy2m8yielFV4bkGBybhZ) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Beyond](https://open.spotify.com/album/7J912LJZvfnljtxFnHHo8f) | 3:53 | 2023-01-29 | 2024-01-24 |
 | [凛](https://open.spotify.com/track/5KeZzt4mImRvIo4TCRQxqm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 4:04 | 2023-01-29 | 2023-07-12 |
+| [初](https://open.spotify.com/track/57FixxAqlbcbQdg9fIG5Ep) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr) | [初](https://open.spotify.com/album/1XXM251lifPbi1DsfMw9yf) | 5:17 | 2024-07-17 |  |
 | [創傷イノセンス](https://open.spotify.com/track/2uXPRnLsbA5MWXUpNaYAUJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [PENKI【通常盤】](https://open.spotify.com/album/1S3RsyQL3xrzs4BYZlu2DZ) | 3:45 | 2024-07-05 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2023-11-28 | 2024-01-24 |
 | [向こう見ずFORWARD](https://open.spotify.com/track/2ow3JER9IvxP49rVgMSAmp) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [TVアニメ「幻想三國誌 天元霊心記」オープニング・テーマ「ENISHI」](https://open.spotify.com/album/75h1b4oejd4wZHPSwu2XdX) | 3:39 | 2022-06-07 | 2022-06-23 |

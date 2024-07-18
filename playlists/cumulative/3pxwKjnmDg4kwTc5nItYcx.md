@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-790 songs - 1 day 18 hr 26 min
+791 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Intuition](https://open.spotify.com/track/3HB6LludJh4pB1YzsVF78J) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Woodes](https://open.spotify.com/artist/0lgc1ljuLwkY1VRtDkFSLK) | [Intuition](https://open.spotify.com/album/30sVsSNtT6Mtu31LvKC2rS) | 4:05 | 2021-07-02 |  |
 | [IRL](https://open.spotify.com/track/2hTm4MljABGm013AzKCxN6) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [IRL](https://open.spotify.com/album/1GoynDFX8zhqqBaM3mFoJo) | 3:18 | 2021-02-12 |  |
 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 | 2022-07-08 |  |
+| [Is It Ever Gonna Make Sense](https://open.spotify.com/track/7FbLFGKk2OBewYOgCa3cbT) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Is It Ever Gonna Make Sense](https://open.spotify.com/album/0osdCYJ8h3oi96HeQnvc2i) | 3:05 | 2024-07-18 |  |
 | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [it's happening again \(feat\. KUČKA\)](https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K) | 3:41 | 2021-07-02 |  |
 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 | 2024-03-15 |  |
 | [It's Not You](https://open.spotify.com/track/5jwT6BU2z55yvsWkopWadR) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:26 | 2021-07-17 |  |

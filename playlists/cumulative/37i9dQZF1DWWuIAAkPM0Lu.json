@@ -5997,6 +5997,24 @@
     },
     {
       "album": {
+        "name": "EGO DEATH",
+        "url": "https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe"
+      },
+      "artists": [
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        }
+      ],
+      "date_added": "2024-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345868,
+      "name": "EGO DEATH",
+      "url": "https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb"
+    },
+    {
+      "album": {
         "name": "Elsker Dig S\u00e5 Meget",
         "url": "https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR"
       },

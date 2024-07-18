@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 352859,
+  "num_followers": 352869,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
       "artists": [
         {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Ni\u00f1a indigo",
-          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 348887,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -67,18 +63,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Landikhan",
+          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
+        },
+        {
+          "name": "Ni\u00f1a indigo",
+          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
         }
       ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+      "duration_ms": 348887,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Recuerdos de Expiaci\u00f3n",
+        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 192039,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "ATO 3: Am\u00e9rica do Sol",
         "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Recuerdos de Expiaci\u00f3n",
-        "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 192039,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -999,26 +999,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Ofelia (Cerrero Dub Mix)",
-        "url": "https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K"
+        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
+        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
       },
       "artists": [
         {
-          "name": "Sexteto Tabala",
-          "url": "https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c"
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
         },
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 241197,
-      "name": "Ofelia - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m"
+      "duration_ms": 291000,
+      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1043,18 +1039,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Vayay\u00f3",
-        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+        "name": "Ofelia (Cerrero Dub Mix)",
+        "url": "https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Sexteto Tabala",
+          "url": "https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Vayay\u00f3",
-      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+      "duration_ms": 241197,
+      "name": "Ofelia - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1075,6 +1079,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Vayay\u00f3",
+        "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Vayay\u00f3",
+      "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Ag\u00fcita del Equilibrio (Remix)",
         "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 287387,
       "name": "Ag\u00fcita del Equilibrio - Remix",
       "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
-        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
-      },
-      "artists": [
-        {
-          "name": "Plu Con Pla",
-          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
     },
     {
       "added_at": "2024-07-12 22:50:04",

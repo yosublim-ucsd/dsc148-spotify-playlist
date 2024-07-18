@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: juan karlos
 
-96 songs - 6 hr 15 min
+99 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-07-02 |  |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 |  |
 | [Back Home To You](https://open.spotify.com/track/7HintleCrmra9Ag5rnMYXJ) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Back Home To You](https://open.spotify.com/album/4BQVamFj786ljykHSBrzog) | 3:43 | 2024-07-12 |  |
+| [Baggages](https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Baggages](https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7) | 3:16 | 2024-07-17 |  |
 | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/track/6JDitV6kw2qY4RSYiFDNG2) | [Gracenote](https://open.spotify.com/artist/4mrrcDjpjUq27YEGwlisgs), [Zel Bautista](https://open.spotify.com/artist/2ezIzAs7jVe4YXTXtdMirw) | [Balang Araw Ay Mapapangiti ft\. Zel Bautista of December Avenue](https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt) | 4:22 | 2024-07-12 |  |
 | [Believing in Magic \- Yakap Mo](https://open.spotify.com/track/5eJxqoLNNLaw4ZFcswEjAR) | [Alexa Ilacad](https://open.spotify.com/artist/623Vaj6cZgsHTyni1r3FTd) | [Believing in Magic \(Yakap Mo\)](https://open.spotify.com/album/1Pz3Matosr3B72myICukGB) | 4:40 | 2024-07-02 | 2024-07-09 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-08 |  |
@@ -41,6 +42,7 @@
 | [Ikot](https://open.spotify.com/track/3u1zzx0i2JTAWID3QniB24) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/180aHzJ4pfhSTmcRk5DRig) | 4:10 | 2024-07-02 |  |
 | [Janice](https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Janice](https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6) | 3:55 | 2024-07-02 |  |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-07-02 |  |
+| [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-17 |  |
 | [Kumusta](https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD) | [Winrich Adarlo](https://open.spotify.com/artist/5qqDnSwcDVRKgyV0UhbfJz) | [Kumusta](https://open.spotify.com/album/1AvywRk8Rwbbcz4Q3t5zVK) | 4:52 | 2024-07-08 |  |
 | [KYGM](https://open.spotify.com/track/02XR8kfVg6AYjfeEEz3g2B) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [KYGM](https://open.spotify.com/album/4fIW5VdhoOr968dtTtvHT6) | 5:37 | 2024-07-02 | 2024-07-09 |
 | [lanamantayo](https://open.spotify.com/track/2W7YhtNKlOluSN4rFjCs3L) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [lanamantayo](https://open.spotify.com/album/2RoMwtu2ESdIt1HYYAStGs) | 3:25 | 2024-07-02 | 2024-07-09 |
@@ -95,6 +97,7 @@
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-07-02 |  |
 | [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 |  |
 | [Tear Gas \(2024\)](https://open.spotify.com/track/1B1AHUhJvqYygjw0VKyilj) | [Tanya Markova](https://open.spotify.com/artist/6ZwnyHAtqKLBYwRhZePddV) | [Tear Gas \(2024\)](https://open.spotify.com/album/5U6kxJVwI5xnyU4Bnoy3WU) | 3:42 | 2024-07-02 | 2024-07-09 |
+| [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 | 2024-07-17 |  |
 | [Things You Said \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Things You Said](https://open.spotify.com/album/5hLHJZoOp7mW4sCTxrc8TI) | 3:54 | 2024-07-02 |  |
 | [This Na Malambing](https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [This Na Malambing](https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T) | 3:50 | 2024-07-02 |  |
 | [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2024-07-02 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Allegra Krieger",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
   "name": "Fresh Finds Folk ",
   "tracks": [
     {
@@ -1980,6 +1980,24 @@
       "duration_ms": 236399,
       "name": "balaclava",
       "url": "https://open.spotify.com/track/73ufb0O9GtK2hZj8xotUHT"
+    },
+    {
+      "album": {
+        "name": "Fool\u2019s Parade",
+        "url": "https://open.spotify.com/album/32SQc8kyN2hbwgokkXfLwQ"
+      },
+      "artists": [
+        {
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Ball And Key",
+      "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
     },
     {
       "album": {
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 200373,
       "name": "Devil on the Dresser",
       "url": "https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek"
@@ -7285,6 +7303,28 @@
     },
     {
       "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/6idAB1U4412JTAFSoZYC3i"
+      },
+      "artists": [
+        {
+          "name": "Katie Malco",
+          "url": "https://open.spotify.com/artist/5t9yM2ABZVQrUXJqa7HTSt"
+        },
+        {
+          "name": "Laura Stevenson",
+          "url": "https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/6rqLYepc5lcpZxvoSlJIiB"
+    },
+    {
+      "album": {
         "name": "Fault Lines",
         "url": "https://open.spotify.com/album/7odRJxbB9XE3zHt009Errk"
       },
@@ -8416,7 +8456,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 171518,
       "name": "girl with a problem",
       "url": "https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4"
@@ -10736,7 +10776,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 159257,
       "name": "I'll Be Alright",
       "url": "https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT"
@@ -10880,7 +10920,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 194625,
       "name": "I'm Tired",
       "url": "https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4"
@@ -11688,6 +11728,24 @@
       "duration_ms": 144000,
       "name": "jane",
       "url": "https://open.spotify.com/track/7jSXAEb7AKi1AZW4tOtFNG"
+    },
+    {
+      "album": {
+        "name": "jane doe",
+        "url": "https://open.spotify.com/album/3z21Bav4umGx2rIaJznTtD"
+      },
+      "artists": [
+        {
+          "name": "Virens",
+          "url": "https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198375,
+      "name": "jane doe",
+      "url": "https://open.spotify.com/track/0cXvxyqgSGgRcIYbvUIre1"
     },
     {
       "album": {
@@ -13160,7 +13218,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 230401,
       "name": "Lose The Gun",
       "url": "https://open.spotify.com/track/4h232GePNDICZKuIo9w27V"
@@ -13726,7 +13784,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 246878,
       "name": "Margot",
       "url": "https://open.spotify.com/track/3xczo2EtOsuwIXsEkNpVew"
@@ -14895,6 +14953,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/186Tj7T6pJb69qNc14rt4F"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180169,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
+    },
+    {
+      "album": {
         "name": "Nail Biter",
         "url": "https://open.spotify.com/album/2WFP5RAUXht1XJkvpdHMCi"
       },
@@ -15072,6 +15148,24 @@
       "duration_ms": 242560,
       "name": "Next Day",
       "url": "https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj"
+    },
+    {
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/4nf9KJEmAxTJqa8q7Bxjh5"
+      },
+      "artists": [
+        {
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148381,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/1p8x7l413oohwSt010ciaE"
     },
     {
       "album": {
@@ -17288,7 +17382,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 188576,
       "name": "Reno",
       "url": "https://open.spotify.com/track/5Q083KrJvYXVXOXAKwLq9V"
@@ -21339,6 +21433,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4oNkFghPD71TQmZd95gErk"
+      },
+      "artists": [
+        {
+          "name": "Beatrix",
+          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Tie Your Shoes",
+      "url": "https://open.spotify.com/track/3948zS8tTq9wjS4p6iV3mP"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/00QwQwpzhtSO9thEZIauEl"
       },
@@ -23510,6 +23622,24 @@
       "duration_ms": 141882,
       "name": "you make life a little better",
       "url": "https://open.spotify.com/track/1aNW9nydMLMKEhTozzZ9pV"
+    },
+    {
+      "album": {
+        "name": "You Must Not Feel the Way I Do, Loser",
+        "url": "https://open.spotify.com/album/1yYa1UBNIoMstm8H4H50k2"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Girls",
+          "url": "https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150120,
+      "name": "you must not feel the way i do",
+      "url": "https://open.spotify.com/track/1NGra7pdhQ8772sqOGtLzL"
     },
     {
       "album": {

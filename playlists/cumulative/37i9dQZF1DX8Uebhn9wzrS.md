@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,997 songs - 3 day 4 hr 4 min
+1,998 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,12 +387,12 @@
 | [Cosmetics](https://open.spotify.com/track/57JRVNAO9gTmmLVIlkqibb) | [Mr Zakky](https://open.spotify.com/artist/7JHrK8hjsA4ndEFOU8hN9O) | [Cosmetics](https://open.spotify.com/album/3iv3djrrxI7UnqO7J2OrVT) | 1:44 | 2022-09-16 | 2024-05-14 |
 | [Costa Calma](https://open.spotify.com/track/24NZxpbfzt63NTDghVS43j) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Costa Calma](https://open.spotify.com/album/2J4NHehoXZvV1fgPNFnL7H) | 2:20 | 2022-05-27 | 2022-11-12 |
 | [Couch Vibes](https://open.spotify.com/track/2xJKFoxhnWsG2vPxqZJxFL) | [Tune in with Chewie](https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS) | [Couch Vibes](https://open.spotify.com/album/2ybbG29HdBzYcwnzcf6xP5) | 2:34 | 2024-03-01 |  |
-| [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 |  |
+| [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 | 2022-11-11 | 2024-07-18 |
 | [Cozy Pillow Whispers](https://open.spotify.com/track/5e6u0cpQHk9JOGsolbcgpQ) | [Mr Sleep](https://open.spotify.com/artist/6VtqApngKv3UlCnSneWdyD) | [Cozy Pillow Whispers](https://open.spotify.com/album/1XcsHA50vlwJaKpSXLnOoz) | 2:04 | 2024-01-12 |  |
 | [Cravings](https://open.spotify.com/track/0iGfk7XZl6YCXEsHNGOuYc) | [HariboY](https://open.spotify.com/artist/1uh7yj65IDzULZWYH0MGk3) | [Cravings](https://open.spotify.com/album/0i2saFNmr3DXFWvwVC72hm) | 1:36 | 2022-11-18 | 2023-09-16 |
 | [Crazy Love](https://open.spotify.com/track/57pur3MoSCX7raelUCpiAK) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Crazy Love](https://open.spotify.com/album/4k72z9GeyqEkRD7jtE6lTI) | 1:48 | 2023-12-08 |  |
 | [Cream](https://open.spotify.com/track/7eQOu4XYBDd1ynA8fcVqaQ) | [BUTTER](https://open.spotify.com/artist/2dsmILbZhqhou4oj1qUDm1) | [Cream](https://open.spotify.com/album/2FVgHaMpWTzSrbumS1S5cc) | 1:36 | 2022-08-19 | 2022-12-17 |
-| [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 | 2022-10-01 | 2024-07-10 |
+| [Create your own](https://open.spotify.com/track/5xqsnPwf5kPC0t6OjMldGK) | [Fog Syndrome](https://open.spotify.com/artist/4NXRqaZArYh3bigTkqLd2G) | [Fog Syndrome](https://open.spotify.com/album/2iHPHfcK0Uixn74qn8SDJa) | 2:04 | 2022-10-01 |  |
 | [creative space](https://open.spotify.com/track/0tEX5NhgBIAMpmENzncJJt) | [Wolf Schranze](https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [creative space](https://open.spotify.com/album/3umdf5xeOH2UbMXJfkOuTx) | 2:06 | 2022-12-23 | 2023-10-20 |
 | [Crescent Moon](https://open.spotify.com/track/2MSDnSQe2Ni6I2pY1V1WSd) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Crescent Moon](https://open.spotify.com/album/5xtLcdd2Mt45EqpUXZwHCU) | 2:04 | 2022-04-15 | 2022-10-01 |
 | [Crickets in the Clouds](https://open.spotify.com/track/5RympJSBDjBLazHFthkhug) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Crickets in the Clouds](https://open.spotify.com/album/2y6zoXDqTJJIphmJqkM0BV) | 4:05 | 2022-04-15 | 2022-07-22 |
@@ -989,7 +989,7 @@
 | [Lofi Love Letters](https://open.spotify.com/track/789uQasgZdah7LSojyotDI) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Lofi Love Letters](https://open.spotify.com/album/2CAnay3Wx9e0o1yrqthFDj) | 2:03 | 2024-01-19 | 2024-04-20 |
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2022-11-11 |  |
 | [London Calling](https://open.spotify.com/track/3Rma06ObNiWcTwDlClo1mB) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [London Calling](https://open.spotify.com/album/4gBDKJ2HdnUqybh3Haqs8m) | 1:34 | 2022-12-16 | 2023-09-16 |
-| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 |  |
+| [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 | 2024-07-18 |
 | [Lonely Boy](https://open.spotify.com/track/7uUHvMv1aCOYWbt2YYCZEJ) | [Hektoor](https://open.spotify.com/artist/3a9L5KQZtwvdJp8rECooRC) | [Lonely Boy](https://open.spotify.com/album/29Tx5FY3iqxgSTK54JwTcS) | 2:36 | 2022-04-15 | 2022-09-02 |
 | [lonely paradise](https://open.spotify.com/track/4PayKAGYOAQY0IgD4Lj7Gd) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [lonely paradise](https://open.spotify.com/album/0TZzs1RY8tom6nAG4TLhNV) | 2:47 | 2024-02-02 |  |
 | [Lonely Ride](https://open.spotify.com/track/1Eye203Jrl7hqNh3Fp0W7B) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Lonely Ride](https://open.spotify.com/album/53Jt4oMPoYd1o68Ptaicfl) | 2:15 | 2022-11-18 | 2023-02-07 |
@@ -1432,6 +1432,7 @@
 | [Rejuvenate](https://open.spotify.com/track/4BEVExjV8CkKaoZezJ3GVU) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Rejuvenate](https://open.spotify.com/album/7mjanGQFxpfcUr0Aw80jMx) | 2:15 | 2022-08-19 | 2022-12-24 |
 | [Remedy](https://open.spotify.com/track/1kXvmBrBtSTB1w0QyP4FpM) | [Matt Louda](https://open.spotify.com/artist/6xEvlu9Brgxw4oW1u6Vwxw) | [Remedy](https://open.spotify.com/album/7M64T08lQLoAZT4QqJYZeI) | 2:14 | 2022-04-15 | 2022-10-29 |
 | [Reminds Me of Me](https://open.spotify.com/track/2qz2QDD9p4P9PfbOZN0ngF) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Reminds Me of Me](https://open.spotify.com/album/6gM2Wpa6XZiRgjs0Adb0Hd) | 2:42 | 2022-10-07 | 2023-03-09 |
+| [Reminisce](https://open.spotify.com/track/3a9FDZH7YfRaTvrfdWnn43) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Reminisce](https://open.spotify.com/album/4lslNVpFJjWTzQcypAooxN) | 2:24 | 2024-07-12 |  |
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 |  |
 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 | 2023-02-13 |  |
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-06-06 | 2023-10-06 |

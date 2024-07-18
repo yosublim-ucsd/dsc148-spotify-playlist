@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=LfsVarsmSCK4pTkRPJbleQ">Linda Sikhakhane</a>
 
-225 songs - 1 day 0 hr 1 min
+226 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A.P's Lament \(tribute to Andre Petersen\)](https://open.spotify.com/track/5YULBb9JigXJ7fR1TVQVBU) | [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [A.P's Lament \(tribute to Andre Petersen\)](https://open.spotify.com/album/3Up73ni4FocnG5OH9eoVAe) | 6:16 | 2023-03-17 | 2024-02-17 |
 | [ABANTU](https://open.spotify.com/track/49tt0RR7huvZTezOjRXpdP) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [INGANEKWANE](https://open.spotify.com/album/2MfkJ9pIDlnoqF8nDZKoYJ) | 5:04 | 2022-04-28 | 2023-03-18 |
 | [Abaphantsi \(Ancestory Suite\): www.kwantunet.com \(a.k.a\. African Continent\)](https://open.spotify.com/track/2mbI2G2Vgpp43ipbVRlOgT) | [Zim Ngqawana](https://open.spotify.com/artist/4qdVIjJlcWfH8Y1l9Rbcpc) | [Zimphonic Suites](https://open.spotify.com/album/3ruFXfVopKqJxMNJQUXUIf) | 7:31 | 2023-11-01 | 2023-11-17 |
+| [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 | 2024-07-17 |  |
 | [African Ontology](https://open.spotify.com/track/56Se3mc2uBst7dLCe3qiwX) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Revision](https://open.spotify.com/album/54kfgK7hTKoAWTSSmZoC3I) | 7:41 | 2022-04-28 | 2024-05-17 |
 | [Airport Terminal](https://open.spotify.com/track/7EYPZaZRPWHFh6k8ltg43c) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and the Politics of Memory](https://open.spotify.com/album/14ZKx2M8Jb8ydk7XQUfmBf) | 5:47 | 2022-04-28 | 2022-10-08 |
 | [Airport Terminal](https://open.spotify.com/track/2jnZIpOYHfgk49nb4qdH1m) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:51 | 2022-04-28 | 2023-03-18 |
@@ -38,7 +39,7 @@
 | [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 | 2024-02-08 |  |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 | 2023-05-09 |
 | [Change](https://open.spotify.com/track/7cahHOmO7sCFEPDHUoxxyU) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Change](https://open.spotify.com/album/0JeO1Z8FsQom8wOrdCO1h5) | 5:01 | 2024-05-10 | 2024-05-17 |
-| [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 |  |
+| [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 | 2024-07-18 |
 | [Chosi](https://open.spotify.com/track/0VXVa4Xzf9DUyEjJ9wOx6j) | [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Chosi](https://open.spotify.com/album/4GWzyQiFsfojuInUn28tFn) | 5:06 | 2022-04-28 | 2023-03-18 |
 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 | 2024-03-21 |  |
 | [Coline's Rose](https://open.spotify.com/track/46jEAx7SjJP7ehdIJ8x4Ed) | [Kyle Shepherd](https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW) | [A portrait of Home](https://open.spotify.com/album/761w2jUHcpl6r6wdhfvMy2) | 5:14 | 2022-04-28 | 2023-07-07 |

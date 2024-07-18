@@ -1,12 +1,12 @@
 {
-  "description": "This is Aidan Bissett. Piesele esen\u021biale \u00eentr-un singur playlist.",
-  "num_followers": 860,
-  "original_name": "Acesta este Aidan Bissett.",
+  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
+  "num_followers": 862,
+  "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAADzmyJZKd8P9QQfh1T6jk+x",
+  "snapshot_id": "ZpW4AAAAAAB2gYV8AIYHKTaD5TG8fmiU",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,22 @@
       "duration_ms": 192393,
       "name": "All That I'm Craving",
       "url": "https://open.spotify.com/track/2O2xeI5k7i1aGJTkQOyNpG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 205553,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
       "added_at": null,
@@ -203,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grocery Store Girl",
+        "url": "https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 163983,
+      "name": "Grocery Store Girl",
+      "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worst Girls Of All Time",
         "url": "https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm"
       },
@@ -215,22 +247,6 @@
       "duration_ms": 173482,
       "name": "Worst Girls of All Time",
       "url": "https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 169732,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
     },
     {
       "added_at": null,
@@ -267,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/70a5Kxi0a0LeWUNOzGzwcb"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 169732,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/3tIuCHOW1namhnP5smJES3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -281,6 +313,6 @@
       "url": "https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol"
     }
   ],
-  "unique_name": "Acesta este Aidan Bissett.",
+  "unique_name": "This Is Aidan Bissett",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02"
 }

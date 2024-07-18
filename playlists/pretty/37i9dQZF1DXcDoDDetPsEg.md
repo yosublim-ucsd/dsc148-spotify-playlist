@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Ice Spice & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,387 likes - 64 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,420 likes - 64 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

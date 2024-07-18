@@ -14226,7 +14226,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 157500,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF"
@@ -14346,6 +14346,24 @@
       "duration_ms": 148000,
       "name": "Summer Daze",
       "url": "https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h"
+    },
+    {
+      "album": {
+        "name": "Summer Moon",
+        "url": "https://open.spotify.com/album/4VXQDT2GLzVjatBJVaACsT"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Summer Moon",
+      "url": "https://open.spotify.com/track/6p57PjYMUPMczkO2VdqrTs"
     },
     {
       "album": {

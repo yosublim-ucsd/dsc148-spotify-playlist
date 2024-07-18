@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,417 songs - 2 day 5 hr 23 min
+1,418 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Jazz On The Rooftop](https://open.spotify.com/track/2IbaMbnKrLhOrKHFRaAesi) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Jazz On The Rooftop](https://open.spotify.com/album/4WpvyjzMbEMdQNhxx2mw21) | 1:54 | 2022-11-11 | 2023-09-29 |
 | [jazz patterns](https://open.spotify.com/track/5RJF9tfEnpKUK75fXG0iM8) | [Codename Chinadoll](https://open.spotify.com/artist/1M7I2GYBClRIiT9B72xUTg) | [jazz patterns](https://open.spotify.com/album/0Mj31E62zRp5dBbaMNVrpV) | 1:42 | 2022-01-27 | 2022-04-22 |
 | [jazzfriends](https://open.spotify.com/track/6MZHm52Y666ah3rKO9LG5Z) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [aerodynamic](https://open.spotify.com/album/7kAsmj6f9OH0gOpbJL2goO) | 1:16 | 2022-09-09 | 2022-11-12 |
-| [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 | 2022-12-16 |  |
+| [Jazzie Evening](https://open.spotify.com/track/0GlPuKRztaukHorDfNbx5Z) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Jazzie Evening](https://open.spotify.com/album/2MQDJcA1HSM54d5qfwa42J) | 2:05 | 2022-12-16 | 2024-07-18 |
 | [Jazzing Around](https://open.spotify.com/track/7lYqr04JdvnVuBtZGeJ11y) | [Chrisse & The Other One](https://open.spotify.com/artist/4akjZ3i0I09kiUhqwJ19pN) | [Jazzing Around](https://open.spotify.com/album/6Bqn4JkgAM3scloG6okwMi) | 2:11 | 2022-10-15 | 2023-09-05 |
 | [Jazzy](https://open.spotify.com/track/7lI4TBcLfevzVzLpBjuloh) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Jazzy](https://open.spotify.com/album/5ClcYdNTl3QfNATJQWcJ1S) | 2:24 | 2022-07-01 | 2022-12-10 |
 | [jazzy day](https://open.spotify.com/track/3nAJcl7mmWnBzRYjpIKgJ4) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR) | [jazzy day](https://open.spotify.com/album/2QrJkHjLrPWo1PmSAkRXWh) | 3:34 | 2022-06-17 | 2022-07-01 |
@@ -904,6 +904,7 @@
 | [One Note Funk](https://open.spotify.com/track/1V6buaeWQxZf2Zutvnu7yx) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:49 | 2022-01-27 | 2022-05-20 |
 | [One Sunny Day](https://open.spotify.com/track/2NbT6GqqH6x3YW0IrKz60t) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Daniel Mayer](https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5) | [Apeirogon](https://open.spotify.com/album/3T9Tz6Bt3HAe9e5hQfR9H7) | 1:54 | 2022-09-09 | 2023-08-04 |
 | [One too many late nights](https://open.spotify.com/track/753Ak5oEfRel8jwvod79vw) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [One too many late nights](https://open.spotify.com/album/1llAw073zzOKIzdYBFi4cR) | 2:11 | 2022-11-25 | 2023-09-05 |
+| [one2three](https://open.spotify.com/track/7zxIRw4TVVsPZbXPhDgDKG) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [one2three](https://open.spotify.com/album/3W4yhuNaKblhgPwcDKlBJV) | 2:24 | 2024-07-12 |  |
 | [Opaque](https://open.spotify.com/track/019kvJu345CZSX6UFS0bMr) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Opaque](https://open.spotify.com/album/3GRTsbl5YIQSvLhEixuFCC) | 1:51 | 2022-07-01 | 2024-07-13 |
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-01-27 | 2023-03-25 |
 | [orange](https://open.spotify.com/track/63WiRg6ECwe4lxToKm2jAB) | [Fuyu](https://open.spotify.com/artist/4p6uSzp3RTnHrfgkZEUj4O), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [orange](https://open.spotify.com/album/7damhWwQeq7hENU91cNAhX) | 1:13 | 2022-10-28 | 2023-09-29 |

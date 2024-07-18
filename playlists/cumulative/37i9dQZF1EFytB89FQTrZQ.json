@@ -5447,6 +5447,24 @@
     },
     {
       "album": {
+        "name": "No Satisfaction",
+        "url": "https://open.spotify.com/album/0LLLmA1WA88IUmZScuhDLu"
+      },
+      "artists": [
+        {
+          "name": "Sam Fan Thomas",
+          "url": "https://open.spotify.com/artist/2JbJuYv3mZFqheYEo0412Y"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321132,
+      "name": "No satisfaction",
+      "url": "https://open.spotify.com/track/4ENR9j84YIzR3na4qvr2DD"
+    },
+    {
+      "album": {
         "name": "Douala",
         "url": "https://open.spotify.com/album/5TMiltCQCPbpP1NJxpREiG"
       },
@@ -5458,7 +5476,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 321120,
       "name": "No satisfaction",
       "url": "https://open.spotify.com/track/6RnhqFsyRuMWNJ1Z9Hrvma"

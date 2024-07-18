@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:3YCKuqpv9nCsIhJ2v8SMix">Elevation Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,411 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,661 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When Wind Meets Fire \(feat\. Chris Brown & Tiffany Hudson\)](https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:10 |
 | 2 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 |
 | 3 | [Let Me See Jesus \- Live](https://open.spotify.com/track/6sigFENDLLKQaMc874J7T3) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Coming Back To The Heart \(Live Collection\)](https://open.spotify.com/album/0hZCaD2xckc6RSZjQHY97E) | 6:21 |
-| 4 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:51 |
+| 4 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:49 |
 | 5 | [As Long As I Have You](https://open.spotify.com/track/3kZZwZqd5azWm0mXlVDL7U) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Trample](https://open.spotify.com/album/56FR1dU3EN2kycqgTJPnZr) | 3:53 |
 | 6 | [Great Is \(feat\. Jenna Barrientes\)](https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jenna Barrientes](https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 5:47 |
 | 7 | [Daily Bread](https://open.spotify.com/track/01XPEwK0kYQOHQEENQ94wZ) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Daily Bread](https://open.spotify.com/album/62eGFqSWE09BYp6lyI2XxG) | 6:25 |

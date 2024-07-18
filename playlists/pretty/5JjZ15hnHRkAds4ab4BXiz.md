@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 398 songs - 1 day 1 hr 39 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 like - 406 songs - 1 day 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -406,5 +406,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 396 | [Tonight You Are Mine](https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Ultraviolet Disguise \(Deluxe Edition\)](https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm) | 3:50 |
 | 397 | [Neon Roses](https://open.spotify.com/track/0s1PsjRpN9v3gveUOM6Iux) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Metaphysical](https://open.spotify.com/album/0oWKnbYnV4rzCcZoo6DWP2) | 3:56 |
 | 398 | [Space Cadet](https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Sweat](https://open.spotify.com/album/3UGEWESDelTk6ppL1SMYM2) | 4:48 |
+| 399 | [Monodrama](https://open.spotify.com/track/6ckTubYkPQPegMg5zfJRjZ) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Monodrama](https://open.spotify.com/album/2OWoXF6XAoTLZsd34ehZuI) | 2:48 |
+| 400 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
+| 401 | [SASFM](https://open.spotify.com/track/3mR7a59x0KsRK00GIXobfd) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [You Gave It Your Best](https://open.spotify.com/album/4y3ZVR9bObdAuD7cVDTet0) | 2:05 |
+| 402 | [It Doesn't Have To Change](https://open.spotify.com/track/02zl70OiiAHt4Ph2mT5tYu) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [It Doesn't Have To Change](https://open.spotify.com/album/3BgBwGQEjIqwxEfrfNnHwU) | 3:21 |
+| 403 | [Angry Lizard Noise](https://open.spotify.com/track/2yCnLYbDzx2rP9pmNRJQaP) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:32 |
+| 404 | [Original Monet \- Demo](https://open.spotify.com/track/4Fq1gRuwSnbHuPFsbpdELV) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Demo EP](https://open.spotify.com/album/030PWSHt39Cg6qF2iYvcT9) | 2:57 |
+| 405 | [cotton eye joe](https://open.spotify.com/track/13vwUuL2l4XoDKUr42ULLt) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [cotton eye joe](https://open.spotify.com/album/1QhH2QjT3n7WaJ5bSysO8L) | 2:50 |
+| 406 | [At a Moment's Notice](https://open.spotify.com/track/79sWENj1DxZlTsdzn57PnU) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [I Don't Make Me](https://open.spotify.com/album/0BMtMOLzV90U3DUWN868WZ) | 3:51 |
 
-Snapshot ID: `AAAGclkbyDi/x+2X1MWjXS28Xf9kpasK`
+Snapshot ID: `AAAGen3CCd5kcHlj/hti5DCfK9iuA1eG`

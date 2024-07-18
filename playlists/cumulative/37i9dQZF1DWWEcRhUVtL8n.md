@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,911 songs - 4 day 4 hr 53 min
+1,912 songs - 4 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 | 2020-10-20 | 2021-05-24 |
 | [IF YOU WANT IT](https://open.spotify.com/track/2ZZ0ITwRqitCvddi2CGfgq) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:07 | 2022-03-18 | 2022-04-20 |
 | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 5:19 | 2020-10-20 | 2022-06-15 |
+| [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-07-12 |  |
 | [Imaginary Friends \- St\. Lucia Remix](https://open.spotify.com/track/2PXbkeD7oyMJwpKd0HoiB6) | [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Imaginary Friends \(St\. Lucia Remix\)](https://open.spotify.com/album/2TNQueYbu3esjJRLaZyiWy) | 4:26 | 2021-02-23 | 2021-05-24 |
 | [Immediately](https://open.spotify.com/track/1J1925GGyVXBlrgyBJ78Po) | [Stay Lunar](https://open.spotify.com/artist/6kqPs71d5mSIQ5XYc4VRpK) | [Immediately](https://open.spotify.com/album/4b936ZtmChocnDB6I5Sg05) | 3:07 | 2021-11-07 | 2021-11-08 |
 | [Imposter Syndrome](https://open.spotify.com/track/15ooUT2BqringLAgnx9n3O) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Imposter Syndrome](https://open.spotify.com/album/7zgIk5sn1wrmDeRfljG25J) | 2:30 | 2023-08-25 | 2023-10-14 |
@@ -958,7 +959,7 @@
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-03-07 | 2021-05-27 |
 | [Kiss Me When I'm Dead](https://open.spotify.com/track/1xc9R2MMnU9KtTWIPFoiJ0) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Kiss Me When I'm Dead](https://open.spotify.com/album/2gishbSfxJCY21C7hUEwyv) | 2:30 | 2021-09-28 | 2021-10-16 |
 | [kissy kissy](https://open.spotify.com/track/4jhcEBwfAl4n6nAG1F4QT3) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 2:26 | 2021-02-19 | 2022-05-21 |
-| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-06 |  |
+| [know that you're not alone](https://open.spotify.com/track/2FdrRql2ltOBghZNvwcNrn) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone](https://open.spotify.com/album/6YHrzZ7O74d7QZg2EkIURl) | 2:56 | 2023-11-06 | 2024-07-18 |
 | [Know You](https://open.spotify.com/track/4O0BeqEIU7KU2l8gQiO1eD) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Know You](https://open.spotify.com/album/6vkyH88dDtIfuhLNYXerEZ) | 3:25 | 2021-02-22 | 2021-02-26 |
 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 | 2021-10-10 | 2021-10-14 |
 | [L.A\. \(‭+1 .818.643.6885‬\)](https://open.spotify.com/track/4JwFYQF1sT86zKTVDlVKaI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [L.A\. \(‭+1.818.643.6885‬\)](https://open.spotify.com/album/5SIAZ7pplBFvm2OTQheI1H) | 2:44 | 2023-07-07 | 2023-08-26 |

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Agoney.",
-  "num_followers": 18234,
+  "num_followers": 18240,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
+        "name": "GINGA",
+        "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
+      },
+      "artists": [
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "nusar3000",
+          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
+        }
+      ],
+      "duration_ms": 157297,
+      "name": "iLUS\u00c3O II",
+      "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
         "name": "Me Gustas Demasiado - Remix",
         "url": "https://open.spotify.com/album/192BQCY2BJGJtpNAuaJLQc"
       },
@@ -479,26 +499,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "GINGA",
-        "url": "https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z"
-      },
-      "artists": [
-        {
-          "name": "Lua de Santana",
-          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
-        },
-        {
-          "name": "nusar3000",
-          "url": "https://open.spotify.com/artist/2Mvgw0Sfyepmz6lgRAooex"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "iLUS\u00c3O II",
-      "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "estonovabien",
         "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 161354,
       "name": "estonovabien",
       "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -531,22 +547,6 @@
       "duration_ms": 190588,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/0kB41opCLgtqDI4llb9s30"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "HETERO",
-        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "HETERO",
-      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 147895,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "HETERO",
+        "url": "https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "HETERO",
+      "url": "https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu"
     },
     {
       "added_at": "2024-07-03 08:00:50",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-03 08:00:50",
       "album": {
-        "name": "Prometo (Edici\u00f3n especial)",
-        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "No vaya a ser",
-      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
-    },
-    {
-      "added_at": "2024-07-03 08:00:50",
-      "album": {
         "name": "Animalitos",
         "url": "https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 225000,
       "name": "Disfraz de tigre",
       "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
+    },
+    {
+      "added_at": "2024-07-03 08:00:50",
+      "album": {
+        "name": "Prometo (Edici\u00f3n especial)",
+        "url": "https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "No vaya a ser",
+      "url": "https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6"
     },
     {
       "added_at": "2024-07-03 08:00:50",

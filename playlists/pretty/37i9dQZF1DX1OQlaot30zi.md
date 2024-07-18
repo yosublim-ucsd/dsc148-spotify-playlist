@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sick Luke, Lazza, Sadturs & KIID, Dani Faiv e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,507 likes - 89 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,511 likes - 89 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

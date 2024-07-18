@@ -1,12 +1,12 @@
 {
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124309,
+  "num_followers": 124319,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAABnjgwP2upEoGNma25HLJZ0",
+  "snapshot_id": "ZpW4AAAAAAAGIfjN9uCDWPPHwF1AnaYO",
   "tracks": [
     {
       "added_at": null,
@@ -879,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despi\u00e9rtate",
-        "url": "https://open.spotify.com/album/4vju9tbEnNaVkY2JpY84mF"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Despi\u00e9rtate",
-      "url": "https://open.spotify.com/track/0fZCK3FqsrWGZPnZhrwkeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/1ji75N7d6k9Btn72mVLWyj"
       },
@@ -979,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 155256,
+      "name": "Japonesa",
+      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESGENERADOS MIXTAPE",
         "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
       },
@@ -995,22 +987,6 @@
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 155256,
-      "name": "Japonesa",
-      "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
     },
     {
       "added_at": null,

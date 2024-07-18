@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de pop te acompa\u00f1an a donde quiera que vayas. ",
-  "num_followers": 227529,
+  "num_followers": 227586,
   "original_name": "Mamivan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zogx2gAAAABH0lMwbA+n0cCt7vrBBE0h",
+  "snapshot_id": "ZphknwAAAAAenWoxFQqhImZhZ2oiU/8P",
   "tracks": [
     {
       "added_at": "2024-07-05 17:48:10",
@@ -27,6 +27,22 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-07-18 00:41:03",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "added_at": "2024-07-05 17:48:10",

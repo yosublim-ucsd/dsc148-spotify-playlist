@@ -4,7 +4,7 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-156 songs - 14 hr 27 min
+157 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-30 |  |
 | [La disquette](https://open.spotify.com/track/0X8OzXCOAGldwWzl7lcd62) | [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR), [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu) | [La disquette](https://open.spotify.com/album/5ixTN6mFe4jAoiAX7WlNJR) | 5:07 | 2022-12-20 |  |
 | [La Perla](https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [La Perla](https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw) | 5:27 | 2022-12-20 |  |
-| [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 | 2022-12-20 |  |
+| [La Piragua](https://open.spotify.com/track/41sfxCghJlbnWnql4QEfl7) | [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Vuelo Nocturno](https://open.spotify.com/album/256r81ENnMGjkDukVfuEUP) | 8:38 | 2022-12-20 | 2024-07-18 |
 | [Labyrinth \(Extended Mix\)](https://open.spotify.com/track/7zo8uef0YiTXTYO6pioVyW) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/16cjfaUqI1TGn9ucJG4Xth) | 6:16 | 2023-11-20 | 2024-04-19 |
 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/2DSixYXsxGkbLYxsrP9ZEe) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/3Uz71ibY4FDCqu6Aux9lWA) | 6:16 | 2022-12-20 | 2023-12-11 |
 | [Labyrinth \- Extended Mix](https://open.spotify.com/track/6wlKmivkywKW0E0eVG50mS) | [Joakim](https://open.spotify.com/artist/5af6HkEomDP7dKLugVmMmk) | [Labyrinth](https://open.spotify.com/album/6UoyUTZR9qfPCHcVlOGu6v) | 6:16 | 2024-03-22 |  |
@@ -162,6 +162,7 @@
 | [Wonky Bassline Disco Banger](https://open.spotify.com/track/2SMQQX11RBFBnTkkZqrDfd) | [Red Rack'Em](https://open.spotify.com/artist/5ZpsIb1MwTyfMmRH3Ma0KG) | [Wonky Bassline Disco Banger](https://open.spotify.com/album/08lPIgUE5JlKwOcKv850Ne) | 8:09 | 2022-12-20 | 2024-03-23 |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/3u1hU4L9HLGBjcj1nQekIv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/3jHf5zZ8d5MQg03YyfTa2I) | 7:02 | 2022-12-20 | 2024-04-19 |
 | [Ya Just Need 2 Believe in Yaself](https://open.spotify.com/track/5PvpHmQ596TTqm5Lysejjh) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [4MYPPL\#1](https://open.spotify.com/album/38gJZWT7HXaPQueW4Z7GeT) | 7:02 | 2024-03-22 |  |
+| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-17 |  |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-12-20 |  |
 | [Étranges nuages \- Yuksek Remix](https://open.spotify.com/track/4m3054ktKm6xGGyNjj8krw) | [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Variations](https://open.spotify.com/album/1LngjPijbdwepfSW3hY0Nj) | 5:09 | 2022-12-20 |  |
 

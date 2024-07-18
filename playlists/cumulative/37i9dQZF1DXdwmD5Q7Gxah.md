@@ -4,7 +4,7 @@
 
 > happy 5 years of lorem\. thank you for listening :\) cover: Clairo
 
-2,886 songs - 6 day 11 hr 49 min
+2,887 songs - 6 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1363,6 +1363,7 @@
 | [Julia](https://open.spotify.com/track/2e3piWu2WMTgdhxa42bcX8) | [Crate](https://open.spotify.com/artist/799oMzox2WLd3vINsW23U7) | [Julia](https://open.spotify.com/album/562ZDTDGWvA5sP3vR2GsJ5) | 5:29 | 2024-05-31 |  |
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2021-03-26 | 2022-02-26 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2019-11-08 | 2020-04-28 |
+| [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-17 |  |
 | [Junior Varsity](https://open.spotify.com/track/6H3vlGfkDO5M2WTDMNbdoI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:12 | 2020-01-10 | 2020-02-20 |
 | [JUST A FRIEND](https://open.spotify.com/track/36LhRqsiN9nh2R2uRw2okl) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs), [Frank Sativa](https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2), [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew) | [JUST A FRIEND](https://open.spotify.com/album/5dvbtgle6QcXWclKh8fDwY) | 2:46 | 2022-06-30 | 2022-07-02 |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2022-05-11 | 2022-06-22 |

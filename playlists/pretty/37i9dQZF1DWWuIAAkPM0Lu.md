@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:03IbEiokQjTDfvdyIYV5D4">ida laurberg</a> x <a href="spotify:artist:5FwWkrkqRy9Qmny3vqxYUe">Tina Dickow</a> 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,734 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,731 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 77 | [Lost In Your Love](https://open.spotify.com/track/6PZRYmqXmtPkV7TAPLVOaW) | [NIIMO](https://open.spotify.com/artist/4gh9sEmLgNymA2kguERsbq), [AVNT:GRD](https://open.spotify.com/artist/4bLWtJy0s6TputHQAeQV6V) | [Lost In Your Love](https://open.spotify.com/album/7354inearIW9cx3IPwFrjc) | 2:40 |
 | 78 | [Say My Name](https://open.spotify.com/track/34YFCDjpJFNYyMYkaKYvTz) | [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [LUMINAE](https://open.spotify.com/artist/4t0nVUXwGsNCLSgkv9dsil), [LALISA \(FR\)](https://open.spotify.com/artist/0e37sviHsNfymG39REzzfm) | [Say My Name](https://open.spotify.com/album/0KdLugcHPnDPf7zUDlwrTc) | 3:27 |
 | 79 | [D.R.A.M.A.](https://open.spotify.com/track/70kAwMiBK6WVZbcZwhNbLS) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3), [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV) | [D.R.A.M.A.](https://open.spotify.com/album/08Qu0ibp3z1HmMZkEwe9A0) | 2:19 |
-| 80 | [Typical](https://open.spotify.com/track/5SPqvJNm4b2HGxhTwi0Res) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [TaliaBle](https://open.spotify.com/artist/6SyQYlLBlRjNg4kNZ80cZw) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 3:51 |
-| 81 | [Dumb](https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Dumb](https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN) | 3:16 |
-| 82 | [Lost In Time](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp) | [Adrian Knows](https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9) | [Lost In Time](https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO) | 2:16 |
-| 83 | [Touch Me](https://open.spotify.com/track/1ZcM1kQONouFUhNgNyEwJF) | [Jack Allenn](https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9) | [Touch Me](https://open.spotify.com/album/2OhwD6BZMAmEYCKI3BDQBl) | 2:35 |
+| 80 | [EGO DEATH](https://open.spotify.com/track/1Tl0wKnSoMgEgpa1jtYbfb) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [EGO DEATH](https://open.spotify.com/album/6GWzfMuwHu8qOlm6aqgbXe) | 5:45 |
+| 81 | [Typical](https://open.spotify.com/track/5SPqvJNm4b2HGxhTwi0Res) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [TaliaBle](https://open.spotify.com/artist/6SyQYlLBlRjNg4kNZ80cZw) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 3:51 |
+| 82 | [Dumb](https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Dumb](https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN) | 3:16 |
+| 83 | [Lost In Time](https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp) | [Adrian Knows](https://open.spotify.com/artist/7tzhTKYUV6uWR4BskFhzB9) | [Lost In Time](https://open.spotify.com/album/7k6BzEe7PQlixQJJbmTKUO) | 2:16 |
+| 84 | [Touch Me](https://open.spotify.com/track/1ZcM1kQONouFUhNgNyEwJF) | [Jack Allenn](https://open.spotify.com/artist/6KLdWyicJrMtXbZzGXbfs9) | [Touch Me](https://open.spotify.com/album/2OhwD6BZMAmEYCKI3BDQBl) | 2:35 |
 
 Snapshot ID: `ZpE7oQAAAAB2LltINkDbd4WkbwZ5xELk`

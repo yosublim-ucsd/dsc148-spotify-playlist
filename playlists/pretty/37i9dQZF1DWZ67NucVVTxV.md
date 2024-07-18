@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,184 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,241 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 13 | [HEHEHE](https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEHEHE](https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5) | 1:53 |
 | 14 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 |
 | 15 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
-| 16 | [No Panic](https://open.spotify.com/track/7qH7p8wCt9GJERou8j4gb7) | [Raymmond](https://open.spotify.com/artist/1WEGRrdwPJkPvJyhwza6Mp), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Panic](https://open.spotify.com/album/6ozRJ7M3r3MSZZI5yCldAP) | 2:30 |
+| 16 | [No Panic](https://open.spotify.com/track/7qH7p8wCt9GJERou8j4gb7) | [Raymmond](https://open.spotify.com/artist/1WEGRrdwPJkPvJyhwza6Mp), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Panic](https://open.spotify.com/album/6ozRJ7M3r3MSZZI5yCldAP) | 2:30 |
 | 17 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 18 | [Knockout](https://open.spotify.com/track/2Txoe8Ba1td570grde1cd4) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:32 |
 | 19 | [Fighting Spirit](https://open.spotify.com/track/7ksDlYtjVV2KwWqS6RIDW8) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Fighting Spirit](https://open.spotify.com/album/31dAnx3TCyHdTNXLOoO25g) | 3:26 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 32 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
 | 33 | [Letter To God](https://open.spotify.com/track/2K6cSdiw0en7cOhEdgNeS3) | [Peeray](https://open.spotify.com/artist/0jhGRljC573bV86q5a16oF) | [Letter To God](https://open.spotify.com/album/6ylQMWLbSVSblqGrVWDCvB) | 2:51 |
 | 34 | [Hustle](https://open.spotify.com/track/2UncVKaFzAm329BmcAhuFl) | [Maxee](https://open.spotify.com/artist/3ysIdQeVG4Gt8Vw6z00Wfj) | [Hustle & Work & Pray](https://open.spotify.com/album/6nJb1sTog0EFLWksreSh9M) | 2:36 |
-| 35 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
+| 35 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 36 | [Big Fish](https://open.spotify.com/track/1eFC4tzMRg8v2nNw6qHVPM) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Big Fish](https://open.spotify.com/album/7nH8tRwm0FDUZnIFIS9q26) | 3:06 |
 | 37 | [1999](https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 2:42 |
 | 38 | [Hallelujah](https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rozzz](https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Hallelujah](https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH) | 3:18 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 64 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 |
 | 65 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 |
 | 66 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 |
-| 67 | [No Pressure](https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Pressure](https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd) | 3:05 |
+| 67 | [No Pressure](https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Pressure](https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd) | 3:05 |
 | 68 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
 | 69 | [Insanity](https://open.spotify.com/track/0R1Z20amcclgAd4WRztJR8) | [Celo](https://open.spotify.com/artist/57jnGVKiJf3uOsUuw7UB5c) | [Insanity](https://open.spotify.com/album/6wCzfiFO1uuGgISGuhHeUR) | 2:37 |
 | 70 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |

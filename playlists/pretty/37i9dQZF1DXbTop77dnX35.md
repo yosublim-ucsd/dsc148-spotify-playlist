@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Rema, Ice Spice, Tay Iwar and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,435 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,534 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 7 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 |
 | 8 | [Pray For Me](https://open.spotify.com/track/65H0lpUE33k4Ma7fl4nF8c) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Pray For Me](https://open.spotify.com/album/6lcaP3rX2rQbT70fXJmRUp) | 10:00 |
 | 9 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 |
-| 10 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [London](https://open.spotify.com/artist/4ZdNtKnlL3IJhkOeJaNz8D) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
+| 10 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [LONDON](https://open.spotify.com/artist/23R03Dek5AxLhxHmgSDLFX) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
 | 11 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 12 | [Spell](https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:08 |
 | 13 | [Conquer](https://open.spotify.com/track/0KJI0836GUL4JT258Y5v4z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Conquer](https://open.spotify.com/album/5qoAudHr7rBpuEH7Z8wlQt) | 3:36 |

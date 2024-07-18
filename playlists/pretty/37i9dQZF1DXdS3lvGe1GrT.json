@@ -1,13 +1,29 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Allegra Krieger",
-  "num_followers": 73710,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
+  "num_followers": 73952,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo4HQAAAAAB7FXFwVV5hKozNx8ndOiLN",
+  "snapshot_id": "Zpfw+AAAAADw+nDPygcOC3E6vam85t6h",
   "tracks": [
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/186Tj7T6pJb69qNc14rt4F"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 180169,
+      "name": "My, My, My",
+      "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
+    },
     {
       "added_at": "2024-07-03 14:20:32",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 204000,
       "name": "call my name",
       "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
+    },
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4oNkFghPD71TQmZd95gErk"
+      },
+      "artists": [
+        {
+          "name": "Beatrix",
+          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Tie Your Shoes",
+      "url": "https://open.spotify.com/track/3948zS8tTq9wjS4p6iV3mP"
+    },
+    {
+      "added_at": "2024-07-17 16:26:54",
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/4nf9KJEmAxTJqa8q7Bxjh5"
+      },
+      "artists": [
+        {
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+        }
+      ],
+      "duration_ms": 148381,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/1p8x7l413oohwSt010ciaE"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -55,6 +103,42 @@
       "duration_ms": 131003,
       "name": "Never Arriving",
       "url": "https://open.spotify.com/track/0lxJSpSLiynTr9TvZrsfEj"
+    },
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "jane doe",
+        "url": "https://open.spotify.com/album/3z21Bav4umGx2rIaJznTtD"
+      },
+      "artists": [
+        {
+          "name": "Virens",
+          "url": "https://open.spotify.com/artist/5tCrFsPMoJ91yC4tnzKmTW"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "jane doe",
+      "url": "https://open.spotify.com/track/0cXvxyqgSGgRcIYbvUIre1"
+    },
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/6idAB1U4412JTAFSoZYC3i"
+      },
+      "artists": [
+        {
+          "name": "Katie Malco",
+          "url": "https://open.spotify.com/artist/5t9yM2ABZVQrUXJqa7HTSt"
+        },
+        {
+          "name": "Laura Stevenson",
+          "url": "https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/6rqLYepc5lcpZxvoSlJIiB"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -121,6 +205,22 @@
       "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
     },
     {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "Fool\u2019s Parade",
+        "url": "https://open.spotify.com/album/32SQc8kyN2hbwgokkXfLwQ"
+      },
+      "artists": [
+        {
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Ball And Key",
+      "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
+    },
+    {
       "added_at": "2024-07-10 04:00:00",
       "album": {
         "name": "Thank God I Have The Songs",
@@ -151,6 +251,22 @@
       "duration_ms": 204306,
       "name": "Maria",
       "url": "https://open.spotify.com/track/5gz0ZEFQcUq8m5Q1clxpp4"
+    },
+    {
+      "added_at": "2024-07-17 16:23:52",
+      "album": {
+        "name": "You Must Not Feel the Way I Do, Loser",
+        "url": "https://open.spotify.com/album/1yYa1UBNIoMstm8H4H50k2"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Girls",
+          "url": "https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7"
+        }
+      ],
+      "duration_ms": 150120,
+      "name": "you must not feel the way i do",
+      "url": "https://open.spotify.com/track/1NGra7pdhQ8772sqOGtLzL"
     },
     {
       "added_at": "2024-07-10 04:00:00",
@@ -491,22 +607,6 @@
       "duration_ms": 206545,
       "name": "Know Why Now",
       "url": "https://open.spotify.com/track/3ZiuuFrCE2BY22zcoM5YOd"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Margot",
-        "url": "https://open.spotify.com/album/04y6tMPVcteO2xVTnfYwUw"
-      },
-      "artists": [
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 246878,
-      "name": "Margot",
-      "url": "https://open.spotify.com/track/3xczo2EtOsuwIXsEkNpVew"
     },
     {
       "added_at": "2024-06-12 16:16:43",
@@ -1295,22 +1395,6 @@
     {
       "added_at": "2024-05-22 16:34:37",
       "album": {
-        "name": "Lose The Gun",
-        "url": "https://open.spotify.com/album/4tIlywYMZGCZANo1fz9ugF"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 230401,
-      "name": "Lose The Gun",
-      "url": "https://open.spotify.com/track/4h232GePNDICZKuIo9w27V"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
       },
@@ -1539,86 +1623,6 @@
       "duration_ms": 244854,
       "name": "Daisy Wildflower",
       "url": "https://open.spotify.com/track/3rbkSC3cM5P0dzmyOME3Ba"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "girl with a problem",
-        "url": "https://open.spotify.com/album/47eQy5ZfIwvTxS7t5B9aFp"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 171518,
-      "name": "girl with a problem",
-      "url": "https://open.spotify.com/track/3XftKOFKKZKMt36MKV7fH4"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "Deep Sleeper",
-        "url": "https://open.spotify.com/album/0ZzHsXQH3iXMEawIaXw4zm"
-      },
-      "artists": [
-        {
-          "name": "Husky",
-          "url": "https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Devil on the Dresser",
-      "url": "https://open.spotify.com/track/5q01RMBLUJkQrHKAoQacek"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "I'm Tired",
-        "url": "https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n"
-      },
-      "artists": [
-        {
-          "name": "My Final Sanctuary",
-          "url": "https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO"
-        }
-      ],
-      "duration_ms": 194625,
-      "name": "I'm Tired",
-      "url": "https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4"
-    },
-    {
-      "added_at": "2024-05-08 14:43:27",
-      "album": {
-        "name": "Reno",
-        "url": "https://open.spotify.com/album/3JGHHexmF6YGRbXXtNKqEG"
-      },
-      "artists": [
-        {
-          "name": "Hank Heaven",
-          "url": "https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf"
-        }
-      ],
-      "duration_ms": 188576,
-      "name": "Reno",
-      "url": "https://open.spotify.com/track/5Q083KrJvYXVXOXAKwLq9V"
-    },
-    {
-      "added_at": "2024-05-08 04:00:00",
-      "album": {
-        "name": "I'll Be Alright",
-        "url": "https://open.spotify.com/album/3aMgaRQFRwK4Y7iSwi4v9i"
-      },
-      "artists": [
-        {
-          "name": "Dominic Wright",
-          "url": "https://open.spotify.com/artist/6JPpKyhX2EmJD1QqKrU9UE"
-        }
-      ],
-      "duration_ms": 159257,
-      "name": "I'll Be Alright",
-      "url": "https://open.spotify.com/track/4eI99hJrQpIJasCMRk75VT"
     },
     {
       "added_at": "2024-05-01 04:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is La Receta. Los temas esenciales, todos en una lista.",
-  "num_followers": 26410,
+  "description": "This is La Receta. The essential tracks, all in one playlist.",
+  "num_followers": 26492,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAB8eG774bb//W/bx6Ei3BJ5",
+  "snapshot_id": "ZpW4AAAAAABall8nnJ2cQFsGxdy5dzPr",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciega X \u00c9l",
-        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 235775,
-      "name": "Ciega X \u00c9l",
-      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Asombrerados",
         "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ciega X \u00c9l",
+        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotos Hot",
-        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Fotos Hot",
-      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El JP (En Vivo)",
         "url": "https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Firme el Sombrero",
         "url": "https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 140341,
       "name": "Bien Firme el Sombrero",
       "url": "https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/27l55K6adgEeUssURt0FnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fotos Hot",
+        "url": "https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Fotos Hot",
+      "url": "https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H"
     },
     {
       "added_at": null,

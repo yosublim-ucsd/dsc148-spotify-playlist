@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Vem?",
-        "url": "https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Vem?",
-      "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 207300,
       "name": "Sally/Hungry Eyes",
       "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Vem?",
+        "url": "https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Vem?",
+      "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Lucy Rider",
         "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 197000,
       "name": "Lucy Rider",
       "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "V\u00e5t cigg",
-        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "V\u00e5t cigg",
-      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 190920,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sommar utan slut",
-        "url": "https://open.spotify.com/album/5BRyqlq7mMnNWE2mHSDxRF"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 183780,
-      "name": "Sommar utan slut",
-      "url": "https://open.spotify.com/track/6VnbltOei0GciP5hgS7hk1"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Sommar utan slut",
+        "url": "https://open.spotify.com/album/5BRyqlq7mMnNWE2mHSDxRF"
+      },
+      "artists": [
+        {
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        }
+      ],
+      "duration_ms": 183780,
+      "name": "Sommar utan slut",
+      "url": "https://open.spotify.com/track/6VnbltOei0GciP5hgS7hk1"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO"
+      },
+      "artists": [
+        {
+          "name": "VAKER",
+          "url": "https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP"
+        }
+      ],
+      "duration_ms": 188075,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "H\u00f6rde en f\u00e5gel (feat. Frida Andersson)",
         "url": "https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 188347,
       "name": "H\u00f6rde en f\u00e5gel (feat. Frida Andersson)",
       "url": "https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO"
-      },
-      "artists": [
-        {
-          "name": "VAKER",
-          "url": "https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP"
-        }
-      ],
-      "duration_ms": 188075,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Vingar",
-        "url": "https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Vingar",
-      "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Vingar",
+        "url": "https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Vingar",
+      "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "D enkla livet",
-        "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "D enkla livet",
-      "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 231346,
       "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "D enkla livet",
+        "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "D enkla livet",
+      "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Dekadens",
-        "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
-      },
-      "artists": [
-        {
-          "name": "Lustans Lakejer",
-          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
-        }
-      ],
-      "duration_ms": 207467,
-      "name": "Dekadens",
-      "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 176776,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Dekadens",
+        "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
+      },
+      "artists": [
+        {
+          "name": "Lustans Lakejer",
+          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
+        }
+      ],
+      "duration_ms": 207467,
+      "name": "Dekadens",
+      "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Dom Sa \u2013 Ett glas till",
         "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 265000,
       "name": "Ett Glas Till",
       "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
     },
     {
       "added_at": "2024-06-27 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 437696,
+  "num_followers": 438142,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "La javanaise",
+        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
+      },
+      "artists": [
+        {
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+        }
+      ],
+      "duration_ms": 121599,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
         "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 219204,
       "name": "Tu t'laissez aller",
       "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "La javanaise",
-        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
-      },
-      "artists": [
-        {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
-        }
-      ],
-      "duration_ms": 121599,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "B Bardot - CD Story",
-        "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
+        "name": "Mon Amie La Rose",
+        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
       },
       "artists": [
         {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
         }
       ],
-      "duration_ms": 196906,
-      "name": "Le soleil",
-      "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
+      "duration_ms": 123078,
+      "name": "Mon Amie La Rose",
+      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+        "name": "B Bardot - CD Story",
+        "url": "https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif"
       },
       "artists": [
         {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
         }
       ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
+      "duration_ms": 196906,
+      "name": "Le soleil",
+      "url": "https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ"
     },
     {
       "added_at": "2024-06-03 11:39:48",

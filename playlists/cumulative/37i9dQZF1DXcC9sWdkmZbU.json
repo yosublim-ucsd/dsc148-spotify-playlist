@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/3Wsumr9ldquwry68IUVECf"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195013,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/70j1VkVMQizMGzLtYWyymS"
+    },
+    {
+      "album": {
         "name": "Worship For Your Family (Yellow)",
         "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
       },
@@ -207,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Choosing Happy",
+        "url": "https://open.spotify.com/album/69VGKnNFJLXm7UGto540Zf"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Choosing Happy - Rock Party Mix",
+      "url": "https://open.spotify.com/track/4tNxEKM0IEirFNnxPQ50oA"
+    },
+    {
+      "album": {
         "name": "Come and See (Psalm 66) [Live]",
         "url": "https://open.spotify.com/album/6UYQR7u1wyVVhcGK04SXeX"
       },
@@ -222,7 +258,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 321741,
       "name": "Come and See (Psalm 66) - Live",
       "url": "https://open.spotify.com/track/42uTQK5mCvVi6Snl6Z3dFR"
@@ -283,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Do Not Fear (Kids Worship Edition)",
+        "url": "https://open.spotify.com/album/4a20tlmhtbo5U4MTzxyd4n"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158166,
+      "name": "Do Not Fear - Kids Worship Edition",
+      "url": "https://open.spotify.com/track/6cYB5DbQPghcNKYVKU8asy"
+    },
+    {
+      "album": {
         "name": "Worship in the Word, Vol. 3 (Live)",
         "url": "https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n"
       },
@@ -320,7 +374,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 207200,
       "name": "Even When",
       "url": "https://open.spotify.com/track/3UbecA1E2TzGHRGsEoK89U"
@@ -363,6 +417,36 @@
     },
     {
       "album": {
+        "name": "Everything - Hymns for Little Hearts",
+        "url": "https://open.spotify.com/album/08yNkH69ff1XXIRrQlykgS"
+      },
+      "artists": [
+        {
+          "name": "The Getty Girls",
+          "url": "https://open.spotify.com/artist/3V65Gy3Luidoo7kBhplU9a"
+        },
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134207,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/61nfJmJlwatT1hCs8wbEpf"
+    },
+    {
+      "album": {
         "name": "Undefeated",
         "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
       },
@@ -396,6 +480,24 @@
       "duration_ms": 292186,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3O1PxSSRd6WbhbEAhnE5JZ"
+    },
+    {
+      "album": {
+        "name": "From the Rising of the Sun (Psalm 113:3-5 ESV)",
+        "url": "https://open.spotify.com/album/07qDLWVDxpo0hjapao2cwW"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173403,
+      "name": "From the Rising of the Sun (Psalm 113:3-5 ESV)",
+      "url": "https://open.spotify.com/track/5m6OS0i0JwQhgawp5cfn97"
     },
     {
       "album": {
@@ -468,7 +570,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 92960,
       "name": "God Makes Messy Things",
       "url": "https://open.spotify.com/track/7ceXmbSuREX1itjzFxCyBS"
@@ -490,7 +592,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 277917,
       "name": "God Of The Impossible",
       "url": "https://open.spotify.com/track/7ikT2DFrI6wZOsSIfYF9wX"
@@ -776,7 +878,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 230266,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL"
@@ -834,6 +936,28 @@
       "duration_ms": 68491,
       "name": "John 3:16",
       "url": "https://open.spotify.com/track/4OzzLRZuqPSIr5fBxD9sfV"
+    },
+    {
+      "album": {
+        "name": "Child Of God",
+        "url": "https://open.spotify.com/album/1s9T5jixLog9YsakZZJNFS"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Gabrielle James",
+          "url": "https://open.spotify.com/artist/2AmVtENys41Ue1GzSu4aCZ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283185,
+      "name": "Joy (What The World Calls Foolish)",
+      "url": "https://open.spotify.com/track/7q2ep30quuMk65efgKraiC"
     },
     {
       "album": {
@@ -924,7 +1048,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 238573,
       "name": "Masterpiece (Ephesians 2:8-10)",
       "url": "https://open.spotify.com/track/5QvDM6ME84IIuvnGSVbntV"
@@ -960,7 +1084,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 224840,
       "name": "More Than Conquerors (Romans 8:37)",
       "url": "https://open.spotify.com/track/7cdTms0LI4pe2PdlguUijm"
@@ -1109,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Philippians 4:13",
+        "url": "https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120978,
+      "name": "Philippians 4:13",
+      "url": "https://open.spotify.com/track/1TltafkWVlwit9fbXPfdx0"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/3hs9EQ2LPzoJydKy9bXN2m"
       },
@@ -1186,6 +1328,24 @@
       "duration_ms": 138000,
       "name": "Rise and Shine Give God the Glory",
       "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
+    },
+    {
+      "album": {
+        "name": "Romans 3:23-24 (English Standard Version)",
+        "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
+      },
+      "artists": [
+        {
+          "name": "The Corner Room",
+          "url": "https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160618,
+      "name": "Romans 3:23-24 (English Standard Version)",
+      "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
     },
     {
       "album": {
@@ -1326,7 +1486,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 192786,
       "name": "The Wages and the Gift (Romans 3:23 & 6:23)",
       "url": "https://open.spotify.com/track/66FICekGoTUgxZtJjJmMaG"
@@ -1506,7 +1666,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 146889,
       "name": "Who Built The Ark?",
       "url": "https://open.spotify.com/track/0fShOGDZo8zR5IbxWzUPIZ"
@@ -1524,7 +1684,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 239040,
       "name": "Who You Say I Am",
       "url": "https://open.spotify.com/track/3jrixwz5amaMkV4CXDmxpV"

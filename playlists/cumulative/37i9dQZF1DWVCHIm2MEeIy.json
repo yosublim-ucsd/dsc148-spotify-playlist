@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 335334,
       "name": "House Anthem",
       "url": "https://open.spotify.com/track/155dl8ITrVUipEUGnJ4SOq"
@@ -4527,6 +4527,24 @@
     },
     {
       "album": {
+        "name": "Lost Control EP",
+        "url": "https://open.spotify.com/album/1YPywDiKG4uzkaTmlAFArC"
+      },
+      "artists": [
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215003,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/3j1wd5HVTtU1osGzblz693"
+    },
+    {
+      "album": {
         "name": "Love Ain't Over (Gerd Janson Remix)",
         "url": "https://open.spotify.com/album/1hdehNKSIbU6MFiyoapqPS"
       },
@@ -4832,7 +4850,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176949,
-      "name": "Milkshake 20 (Alex Wann Remix)",
+      "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
     },
     {

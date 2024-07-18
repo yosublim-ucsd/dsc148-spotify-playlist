@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 血肉果汁機 \(Fresh Juicer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,386 likes - 123 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,388 likes - 123 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 33 | [Kira Kira 亮晶晶](https://open.spotify.com/track/5LQYj54fy1VRMKCeIjn9eL) | [Tay Kexin](https://open.spotify.com/artist/6DoKqXp5G59UVhKTzgv6xe) | [Kira Kira 亮晶晶](https://open.spotify.com/album/1vxduSojRLrJWUEmptT1wl) | 3:26 |
 | 34 | [慢性呼吸](https://open.spotify.com/track/14D3yzWF9YBBSD5kAeH3Cc) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [慢性呼吸](https://open.spotify.com/album/4PqoVFAcJzIkI0yeD5q4E5) | 2:56 |
 | 35 | [底片相機](https://open.spotify.com/track/0OqcqUHY4fGw6sGntH6yyI) | [Kouky](https://open.spotify.com/artist/2coiqz1mzMeNUaEvPc5wya) | [底片相機](https://open.spotify.com/album/3rD6w4ToU38QXrDLeG6iKc) | 2:49 |
-| 36 | [Dark Echoes](https://open.spotify.com/track/3qMjcAuPykFTt204UG9iSL) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [calvin](https://open.spotify.com/artist/3VaRCc9IJnWO9ryLzBE880) | [Dark Echoes](https://open.spotify.com/album/46cGIdRe5ljxqfXYtGzjp7) | 1:31 |
+| 36 | [Dark Echoes](https://open.spotify.com/track/3qMjcAuPykFTt204UG9iSL) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF) | [Dark Echoes](https://open.spotify.com/album/46cGIdRe5ljxqfXYtGzjp7) | 1:31 |
 | 37 | [Why](https://open.spotify.com/track/7uMSwtkDnFky3uqKdr2swd) | [KUAN](https://open.spotify.com/artist/1Ov5jLpZ7WqZ3L2ylZtx7K), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [谜 Love's Enigma](https://open.spotify.com/album/5lE451B4IHeFxe7Qx67R1s) | 3:24 |
 | 38 | [Diamond and Gold](https://open.spotify.com/track/0lrNmJ6pXwRc3PhT7mSiBp) | [痞爺](https://open.spotify.com/artist/73G9tzZhnkWwHWP0rF2jfB) | [Diamond and Gold](https://open.spotify.com/album/0r1Z1ikSio8inQIId85dfE) | 3:38 |
 | 39 | [人間動物園](https://open.spotify.com/track/0MJYZSyKWHFoCjpfyFSHjP) | [Jonsom Lee](https://open.spotify.com/artist/7D922kvb7JKuCWJNrmo72i) | [人間動物園](https://open.spotify.com/album/509bMhqv6Wp6j1GiottHHu) | 4:56 |

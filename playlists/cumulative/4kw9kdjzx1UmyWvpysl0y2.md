@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-773 songs - 1 day 20 hr 25 min
+774 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Open Spaces \- VIP](https://open.spotify.com/track/2uw8ZLH75sPysaON5hjXbd) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces \(VIP\)](https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU) | 3:20 | 2024-07-05 |  |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |
 | [Other Side \- Factor B's In Loving Memory Remix](https://open.spotify.com/track/3QzeTO4Ylxcl8mAqjyUyHq) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Factor B](https://open.spotify.com/artist/4OUavLWUepaSy6MNjkNS3g) | [Other Side \(Factor B's In Loving Memory Remix\)](https://open.spotify.com/album/3ABRbWCzvO0vaHLWflNJpE) | 7:56 | 2022-12-08 | 2023-03-09 |
-| [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 |  |
+| [OUR STARS](https://open.spotify.com/track/5jKmm01l9eMLiQusd6qpKi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [OUR STARS](https://open.spotify.com/album/26T9baKkEEWN03XeiMSvvN) | 2:27 | 2024-04-29 | 2024-07-18 |
 | [Out of Frame](https://open.spotify.com/track/3UBc3PbliCYiVHNeyX4Z5b) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Out of Frame](https://open.spotify.com/album/7vsV0d0imBaf7pCyO6enRa) | 4:32 | 2024-05-06 |  |
 | [Out of the Dark](https://open.spotify.com/track/6IzufCdUFDMtLG2EvHwYFE) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Out of the Dark](https://open.spotify.com/album/2JG5PFilIwO4rggFxYyMg1) | 3:58 | 2022-10-04 | 2022-12-04 |
 | [Outer Space](https://open.spotify.com/track/1KJKFTpQPWpwNxuk9XuXyG) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Outer Space](https://open.spotify.com/album/3OAoOHHNYG0hkSVT7h02d6) | 3:10 | 2024-07-02 |  |
@@ -658,6 +658,7 @@
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |
 | [Talk To You](https://open.spotify.com/track/5sGm4JoUGhd40NYlXMfnPw) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Talk To You](https://open.spotify.com/album/6WgUuJYSA2mYQOCAvVoHZ3) | 4:06 | 2023-04-06 | 2023-06-30 |
 | [Tarantino](https://open.spotify.com/track/5UMs8rciA9omc6JDrWDV8Y) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Half an Orange](https://open.spotify.com/artist/64N3o9z76C2APyfgQV2HMp) | [& Friends](https://open.spotify.com/album/2ISFdlM8xYsp5D2Vndh6Br) | 3:43 | 2022-03-15 | 2022-05-27 |
+| [Tax Evasion](https://open.spotify.com/track/5NiVqcP6gFcPoeIEOtUKlE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Tax Evasion](https://open.spotify.com/album/2ri6axMCVTYBXSH7DFWv33) | 3:34 | 2024-07-17 |  |
 | [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 |  |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |

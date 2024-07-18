@@ -4,11 +4,12 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-105 songs - 5 hr 26 min
+109 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 | 2023-12-15 |  |
+| [A Las Montañas](https://open.spotify.com/track/2Qko902B3IJ8XkKdOGRpU8) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [A Las Montañas](https://open.spotify.com/album/6L4p1vuSkKmF1idvouvSuk) | 2:03 | 2024-07-18 |  |
 | [Adios](https://open.spotify.com/track/1EP8DalFg4OMvwK8QzfHcY) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Adios](https://open.spotify.com/album/31iA73hlTloOrhyFSK6qVl) | 3:24 | 2023-12-15 |  |
 | [Alba](https://open.spotify.com/track/6ZdAV8NlQT0VxSGNiDYPiq) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Alba](https://open.spotify.com/album/6uGJJWjqHEVAXWREA4uISy) | 3:26 | 2023-12-15 |  |
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2023-12-15 |  |
@@ -17,8 +18,11 @@
 | [Andorra](https://open.spotify.com/track/3DUSb184SgmSoaogc936jo) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:34 | 2023-12-15 |  |
 | [Anita](https://open.spotify.com/track/2bFCZbUVSciR3EYIhx3phY) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:06 | 2023-12-15 |  |
 | [Apaixonar](https://open.spotify.com/track/5Ib0qJa6M6DXzjwbZB7CKo) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Apaixonar](https://open.spotify.com/album/03axOJ5rnB6C91PKcnLyWA) | 2:18 | 2023-12-15 |  |
+| [Arequipa](https://open.spotify.com/track/4mFUWVQGq8nwxxJGI0vnry) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Arequipa](https://open.spotify.com/album/03Ih2VbB5wtxXGRKfga0QE) | 2:31 | 2024-07-18 |  |
+| [Bajo El Mismo Cielo](https://open.spotify.com/track/6hluJpykHbHa8hJgRmeXvl) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Bajo El Mismo Cielo](https://open.spotify.com/album/0yCZPuSsHsDR7i9PIwKiJn) | 2:10 | 2024-07-18 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2023-12-15 |  |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2023-12-15 |  |
+| [Bolero B....](https://open.spotify.com/track/21yFHnnU1nzQ8CfHemfFBt) | [MikaSonnin](https://open.spotify.com/artist/0wMWCHIgA51FVViHnnonKQ) | [Bolero B....](https://open.spotify.com/album/0Xg2laQV5vzit9f2Q5E1VS) | 4:05 | 2024-07-18 |  |
 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2023-12-15 |  |
 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 | 2023-12-15 |  |
 | [Bossa Incognito](https://open.spotify.com/track/5Hod2xD7H6NzPL6wLJXsjU) | [Sound Of Melancholy](https://open.spotify.com/artist/2HSEkc1P2xE5wKAP8GOb9H) | [Tales From The Forest](https://open.spotify.com/album/5USSfROSIe1sZ3iEqGfT8s) | 2:24 | 2023-12-15 | 2024-06-25 |

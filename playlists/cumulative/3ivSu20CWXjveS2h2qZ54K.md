@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-835 songs - 1 day 21 hr 45 min
+837 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [CAMERINO](https://open.spotify.com/track/5usn8pS7lO0zfRRDBt0y65) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [CAMERINO](https://open.spotify.com/album/0gbsIdo1o3U5F6swZ0EfbF) | 3:10 | 2024-06-14 | 2024-06-22 |
 | [CamGirl >.< !!!](https://open.spotify.com/track/1YjC6CQDXwFGKUxXbIlYvf) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [CamGirl >.< !!!](https://open.spotify.com/album/53Pgsw3hhBWaiNcloEWovO) | 2:35 | 2024-06-21 | 2024-06-29 |
 | [can u \(maldad especial\)](https://open.spotify.com/track/7o2r38gfrJ3FD2YALDORhn) | [HONIMA](https://open.spotify.com/artist/7dYOT8nhODnbTkUAXuI57E) | [HONIMA](https://open.spotify.com/album/6X7scis7PV15BKokIUB2hA) | 3:09 | 2024-06-28 | 2024-07-13 |
+| [Can U Hear](https://open.spotify.com/track/4rEia0VIARZo9WnH7MhUO6) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8) | [Can U Hear](https://open.spotify.com/album/5XAtYRF3NKs1ULZLzOgrfB) | 3:29 | 2024-07-17 |  |
 | [Can't Be Still](https://open.spotify.com/track/38aNl1TpX3wSrl0yqBhvOX) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Can't Be Still](https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0) | 2:58 | 2024-05-03 | 2024-05-18 |
 | [Can't Come Back](https://open.spotify.com/track/4iB93144GBYUfBuNmIkoCX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Can't Come Back](https://open.spotify.com/album/6J7wuzk1peBKgaohiSCuN6) | 2:34 | 2024-04-26 | 2024-05-10 |
 | [CANDLES](https://open.spotify.com/track/6RjjXvQyvgiPX3t8cm0gck) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 3:32 | 2024-06-28 | 2024-07-13 |
@@ -657,6 +658,7 @@
 | [Sideral](https://open.spotify.com/track/1lOpSzkofC0mTU7Lbluoms) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Hugsound](https://open.spotify.com/artist/3I3DSocG5r4o5kBGOlzNAi) | [Sideral](https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M) | 2:13 | 2024-05-31 | 2024-06-12 |
 | [Siempre](https://open.spotify.com/track/5haM4CUZULlG27QCaJy1Dt) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Qué hago con todo esto](https://open.spotify.com/album/78jjdiZz65TFETnIqK18o2) | 4:02 | 2024-05-10 | 2024-05-18 |
 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 | 2024-05-17 | 2024-05-25 |
+| [SIN MIEDO](https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [SIN MIEDO](https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK) | 2:47 | 2024-07-17 |  |
 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-24 | 2024-06-12 |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-12 |  |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2024-07-13 |

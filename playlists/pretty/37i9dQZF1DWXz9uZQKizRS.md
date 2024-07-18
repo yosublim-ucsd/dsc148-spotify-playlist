@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kwiat Jabłoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,737 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,746 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 7 | [Wolne duchy](https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Wolne duchy \(feat\. Daria Zawiałow, Mrozu & Kacperczyk\)](https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie) | 3:05 |
 | 8 | [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:25 |
 | 9 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 |
-| 10 | [MIASTO AWANTUR](https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP) | [Jędrzej Wise](https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC), [Krzy Krzysztof](https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN) | [MIASTO AWANTUR](https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ) | 3:32 |
+| 10 | [MIASTO AWANTUR](https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP) | [Jędrzej Wise](https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC), [Krzy Krzysztof](https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [MIASTO AWANTUR](https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ) | 3:32 |
 | 11 | [Pod wodą](https://open.spotify.com/track/2D2njkTuNU2sL6qzy1gNhq) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Pod wodą](https://open.spotify.com/album/06R90PYpe53UUVMPLpwWQq) | 2:55 |
 | 12 | [pamiętam](https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [pamiętam](https://open.spotify.com/album/3deHWsaVOQ62u2hyQ2JceC) | 3:09 |
 | 13 | [Czas](https://open.spotify.com/track/3RwrMtLfec1HnAB2oRQWI5) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ) | [Czas](https://open.spotify.com/album/5APOGthH7FWEpefrhoDXLV) | 3:24 |

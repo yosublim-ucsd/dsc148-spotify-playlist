@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "Dusky dolphin",
+        "url": "https://open.spotify.com/album/52wuFm4zjpPgj9XZMV60L8"
+      },
+      "artists": [
+        {
+          "name": "Natsudaidai",
+          "url": "https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180341,
+      "name": "Dusky dolphin",
+      "url": "https://open.spotify.com/track/2TzjEScTjmzu3sDKQVLDfN"
+    },
+    {
+      "album": {
         "name": "D\u30fbT\u30fbF",
         "url": "https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1"
       },
@@ -18913,6 +18931,24 @@
     },
     {
       "album": {
+        "name": "\u3086\u3081\u3068\u8857\u706f",
+        "url": "https://open.spotify.com/album/5ilX0sB6UkHcSXeowxkVKW"
+      },
+      "artists": [
+        {
+          "name": "baboon",
+          "url": "https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "\u3086\u3081\u3068\u8857\u706f",
+      "url": "https://open.spotify.com/track/6u9d67Zgm2M6NCLkFSKaKo"
+    },
+    {
+      "album": {
         "name": "\u3086\u3089\u305b",
         "url": "https://open.spotify.com/album/14w99HaIjaPb7zFEsW2Ys9"
       },
@@ -22062,7 +22098,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 139033,
       "name": "\u30e6\u30a6\u30a6\u30c4\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/7D5dqcUsxrZfhohlbfLqbt"

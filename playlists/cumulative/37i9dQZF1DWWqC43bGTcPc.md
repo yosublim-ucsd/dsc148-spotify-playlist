@@ -4,7 +4,7 @@
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 李榮浩 \(Ronghao Li\)
 
-286 songs - 17 hr 53 min
+287 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [don't stop](https://open.spotify.com/track/3St3yb7eQhn1TQC8qI8c04) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [don't stop](https://open.spotify.com/album/1GiRLk9pLoCegNsPpkapM1) | 2:48 | 2024-04-22 | 2024-05-14 |
 | [dumb af](https://open.spotify.com/track/4dTQ7OmJjdV6YmsqNoVo0A) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [dumb af](https://open.spotify.com/album/4xZkNcLXomLf8pc5eM8z59) | 2:54 | 2024-04-08 | 2024-05-07 |
 | [EDEN feat\. Sabrina 胡恂舞](https://open.spotify.com/track/373Dpde9za64jysTww7guV) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn), [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [EDEN feat\. Sabrina 胡恂舞](https://open.spotify.com/album/7sU0ht1a8vpwtMcrudedFn) | 3:06 | 2024-04-15 | 2024-04-23 |
+| [EEEASY](https://open.spotify.com/track/5P66jWpMGuRtTrJHz2pneh) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [艾志恒Asen](https://open.spotify.com/artist/6r2q02rEyw3DQXDXpNFwpp) | [EEEASY](https://open.spotify.com/album/5rlMaYhSPOoM0gGobykuzm) | 3:00 | 2024-07-17 |  |
 | [Fast car](https://open.spotify.com/track/29Fo1SsDxkWKgWfk3Cp6Yn) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [Fast car](https://open.spotify.com/album/3TESS9fUY3HpvrJiVlxScF) | 1:57 | 2024-05-13 | 2024-05-21 |
 | [Feel Like Drake](https://open.spotify.com/track/0qX64ENa6YYA3x3AGiyDZL) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Feel Like Drake](https://open.spotify.com/album/30bfxSlIlnoepUuKFLBoCR) | 2:24 | 2024-04-29 | 2024-05-07 |
 | [Forever Song](https://open.spotify.com/track/1mLjTk3fkciP9aFs4sD8Oi) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [Forever Song](https://open.spotify.com/album/5iXTrFf55Ics2UnFvINfQk) | 4:52 | 2024-05-06 | 2024-05-14 |
@@ -223,7 +224,7 @@
 | [淘汰](https://open.spotify.com/track/70RpYvdjdXvKjtfROjHkfc) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [淘汰](https://open.spotify.com/album/0dfeb9UBhiEOGkIKV3kfPJ) | 4:13 | 2024-05-06 | 2024-05-14 |
 | [游移在友誼的漩渦](https://open.spotify.com/track/1rFyOB8sVQ2LySW2IRK0P8) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [完全省錢戀愛手冊 （原創劇集原聲帶）](https://open.spotify.com/album/5JI6xvomVfYtUIXRrqgglS) | 3:48 | 2024-04-22 | 2024-04-30 |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-12 | 2024-02-20 |
-| [無垢](https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:29 | 2024-02-19 |  |
+| [無垢](https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:29 | 2024-02-19 | 2024-07-18 |
 | [無夢無望《角頭》原聲帶](https://open.spotify.com/track/6hvmTHcCOokLzbrTnu6K4A) | [Jason Wang](https://open.spotify.com/artist/51ebLrYm2zzhVTz56XR57C) | [無夢無望《角頭》原聲帶](https://open.spotify.com/album/3yiwvkccO5jHF9oz54gEDp) | 4:05 | 2024-06-24 | 2024-07-02 |
 | [狠操俱樂部](https://open.spotify.com/track/5VwHRwTh6zV1kBIW3FApTx) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Multiverse](https://open.spotify.com/artist/0l2z1SB8aaIp8vNhI9i5YL) | [狠操俱樂部](https://open.spotify.com/album/2KkpAHwcFULIdz2MoLZUny) | 3:48 | 2024-06-24 | 2024-07-02 |
 | [猜准](https://open.spotify.com/track/3gBl9bdRw3Iyg5K2XWGHgO) | [乔佳旭](https://open.spotify.com/artist/78YOKa8PG5fj7WR3LHwLnz) | [猜准](https://open.spotify.com/album/5uMbeTiekZgVW1XGtySxID) | 3:42 | 2024-06-24 | 2024-07-02 |

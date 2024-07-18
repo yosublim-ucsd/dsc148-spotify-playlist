@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
@@ -2810,6 +2810,28 @@
       "duration_ms": 331293,
       "name": "Een Vriend Van Mij",
       "url": "https://open.spotify.com/track/4pOO88DFK58M5EZeghPkZv"
+    },
+    {
+      "album": {
+        "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
+        "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
+      "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
     },
     {
       "album": {
@@ -3879,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/092VaXFvXjdiDM3pREBoja"
+      },
+      "artists": [
+        {
+          "name": "Odymel",
+          "url": "https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273698,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/3gRnR33Z7eBeMXYrhPXRIX"
+    },
+    {
+      "album": {
         "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
         "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
@@ -3988,6 +4028,24 @@
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"
+    },
+    {
+      "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
       "album": {
@@ -4976,7 +5034,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -5278,10 +5336,32 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 131428,
       "name": "Jeu De Jambes",
       "url": "https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac"
+    },
+    {
+      "album": {
+        "name": "Jeu De Jambes",
+        "url": "https://open.spotify.com/album/5xQTwahw6idIgUImvZJ7Om"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        },
+        {
+          "name": "Patson",
+          "url": "https://open.spotify.com/artist/1fhKApXTs6yTNnItlQ0Vo0"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Jeu De Jambes",
+      "url": "https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6"
     },
     {
       "album": {
@@ -11084,7 +11164,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 200904,
       "name": "Un Petit",
       "url": "https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9"
@@ -11928,7 +12008,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 177973,
       "name": "x\u00e9non",
       "url": "https://open.spotify.com/track/2QG8AhrFYWa0MrdJRLyPOf"
@@ -12250,7 +12330,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 57746,
       "name": "Your New Morning Alarm",
       "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
@@ -12344,6 +12424,24 @@
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
+    },
+    {
+      "album": {
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/6X4svyBGURhtDWxEtTKkDL"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "\u00c7A VA ALLER",
+      "url": "https://open.spotify.com/track/2PR7vOAqVX7ynISxlwt7GD"
     },
     {
       "album": {

@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 204342,
       "name": "Airstream Dreams",
       "url": "https://open.spotify.com/track/6yWgBTJcCZPQnl67VoPuMy"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 206132,
       "name": "Backwood Proclamation (feat. Charlie Worsham & John Osborne)",
       "url": "https://open.spotify.com/track/3ydmeceqatQtqsR7wwb8ma"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 158146,
       "name": "Bigger in Texas",
       "url": "https://open.spotify.com/track/6SojbrrmgiDO9QjEbe87oW"
@@ -10477,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "Down in Flames",
+        "url": "https://open.spotify.com/album/6sYCFBC9KIEr6vsSW4uBi5"
+      },
+      "artists": [
+        {
+          "name": "Logan Samford",
+          "url": "https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "Down in Flames",
+      "url": "https://open.spotify.com/track/7c3nc7cjniJMl55upiJkNJ"
+    },
+    {
+      "album": {
         "name": "Down In My Hometown",
         "url": "https://open.spotify.com/album/0hviKwh8tbRjMTTAruxBVL"
       },
@@ -14601,6 +14619,24 @@
     },
     {
       "album": {
+        "name": "Gone By Sunrise",
+        "url": "https://open.spotify.com/album/0JquqjNQaGjfWT4dPB4ex9"
+      },
+      "artists": [
+        {
+          "name": "HAYS",
+          "url": "https://open.spotify.com/artist/5X3htdReMDESZ48LXgy33t"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182930,
+      "name": "Gone By Sunrise",
+      "url": "https://open.spotify.com/track/1ZuHQsvDaZJWY5fv4hZ0Hd"
+    },
+    {
+      "album": {
         "name": "Gone Fishin'",
         "url": "https://open.spotify.com/album/479WnlJZ6JvYhCTVFEOv3p"
       },
@@ -15196,6 +15232,28 @@
       "duration_ms": 176141,
       "name": "Goodbye Goodtimes",
       "url": "https://open.spotify.com/track/0jVWbknpWBo886McZgGV2E"
+    },
+    {
+      "album": {
+        "name": "Goodbye You Wanted (feat. Sarah Allison Turner)",
+        "url": "https://open.spotify.com/album/6KgyQVhq78t8LiH7nQk7DM"
+      },
+      "artists": [
+        {
+          "name": "Whelan Stone",
+          "url": "https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW"
+        },
+        {
+          "name": "Sarah Allison Turner",
+          "url": "https://open.spotify.com/artist/6pezgx2tNPMzqDQ7cl8kM8"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Goodbye You Wanted (feat. Sarah Allison Turner)",
+      "url": "https://open.spotify.com/track/6wwgQHM0n4xQUD7duQxMPa"
     },
     {
       "album": {
@@ -16018,6 +16076,24 @@
       "duration_ms": 157133,
       "name": "Happy in This Bar",
       "url": "https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ"
+    },
+    {
+      "album": {
+        "name": "Happy Is?",
+        "url": "https://open.spotify.com/album/3jvEytoehAhmyipwWNb6ZO"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lamb",
+          "url": "https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "Happy Is?",
+      "url": "https://open.spotify.com/track/2zCV5Wq6VnYyUkyTsBOksb"
     },
     {
       "album": {
@@ -17358,6 +17434,24 @@
       "duration_ms": 181570,
       "name": "Hey Oklahoma",
       "url": "https://open.spotify.com/track/14X4KjhQWWBxzynI2NjJij"
+    },
+    {
+      "album": {
+        "name": "Hey There, Cowboy",
+        "url": "https://open.spotify.com/album/20F1ONdx9Csvzukc2PeC8K"
+      },
+      "artists": [
+        {
+          "name": "Moseley",
+          "url": "https://open.spotify.com/artist/7yfNjFcztdIDf7bcr0lCrF"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197062,
+      "name": "Hey There, Cowboy",
+      "url": "https://open.spotify.com/track/3MQfd7hkl4AZNp1mQzYlrp"
     },
     {
       "album": {
@@ -19400,7 +19494,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 169826,
       "name": "I Like Big Trucks",
       "url": "https://open.spotify.com/track/4Br1OPEqim9i6HQXMZMgEI"
@@ -27535,6 +27629,24 @@
     },
     {
       "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
+      },
+      "artists": [
+        {
+          "name": "Chase Heaslip",
+          "url": "https://open.spotify.com/artist/7LahLe2apuPLTIbZxOHASr"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213269,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
+    },
+    {
+      "album": {
         "name": "Never Loved Before",
         "url": "https://open.spotify.com/album/0oPvv4pL9Mtku37z04YgZ9"
       },
@@ -29396,6 +29508,24 @@
       "duration_ms": 169394,
       "name": "Outliving My Love",
       "url": "https://open.spotify.com/track/1Vy4jINQIte4b6MKdvKnWg"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/7KtC5uoAMkFxXGpnZqft9O"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3rpKax1jhfr1TqDsE0ikGR"
     },
     {
       "album": {
@@ -32751,6 +32881,24 @@
     },
     {
       "album": {
+        "name": "Set On You",
+        "url": "https://open.spotify.com/album/4FU39j5ZhSmnWqmouAxg5Z"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183473,
+      "name": "Set On You",
+      "url": "https://open.spotify.com/track/7aloa4zt7hHsPikZVjCFBw"
+    },
+    {
+      "album": {
         "name": "Settle Down",
         "url": "https://open.spotify.com/album/5flhPw6eAKRfm5hgjgLle5"
       },
@@ -33878,7 +34026,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 193922,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/0h11Al6z7bFYORAsEHXQsZ"
@@ -36972,7 +37120,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 216434,
       "name": "Takes Me Back",
       "url": "https://open.spotify.com/track/6H2bgbX44LrPlu7UT3Kmzi"
@@ -37376,6 +37524,24 @@
       "duration_ms": 170000,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/177lOKmEqC9DuZo5zRV00D"
+    },
+    {
+      "album": {
+        "name": "Tennessee Dream",
+        "url": "https://open.spotify.com/album/0OnnkEzIwYLzPRR2CBCgjb"
+      },
+      "artists": [
+        {
+          "name": "Avery Roberson",
+          "url": "https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200183,
+      "name": "Tennessee Dream",
+      "url": "https://open.spotify.com/track/7c8htaKaKI0zVnXRRmU9PP"
     },
     {
       "album": {
@@ -41529,6 +41695,24 @@
     },
     {
       "album": {
+        "name": "West Virginia Sky",
+        "url": "https://open.spotify.com/album/4UkNTDV0vE4TYowCB5OdmA"
+      },
+      "artists": [
+        {
+          "name": "Jett Holden",
+          "url": "https://open.spotify.com/artist/1eO7ccT1B1GDJdWyHpeHjh"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212697,
+      "name": "West Virginia Sky",
+      "url": "https://open.spotify.com/track/4QlvFr49emJdCwkyb4dskC"
+    },
+    {
+      "album": {
         "name": "What Am I Gonna Do?",
         "url": "https://open.spotify.com/album/2mMUo8sqXZvnO8gPWAvJVo"
       },
@@ -41890,6 +42074,24 @@
       "duration_ms": 214775,
       "name": "What Reminds You of Me",
       "url": "https://open.spotify.com/track/22fw34aE1cjm5kzT85kWAM"
+    },
+    {
+      "album": {
+        "name": "What Shoulder",
+        "url": "https://open.spotify.com/album/1EVSIDZfMXWVrtCq7PTSgy"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176962,
+      "name": "What Shoulder",
+      "url": "https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX"
     },
     {
       "album": {
@@ -42408,7 +42610,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 208420,
       "name": "Whether You Love Me or Not",
       "url": "https://open.spotify.com/track/32s0NIIpzep0lQkcIKGyXR"
@@ -44760,6 +44962,24 @@
       "duration_ms": 184128,
       "name": "You're My Hometown",
       "url": "https://open.spotify.com/track/1trwMIE6uAUy5sKxjNGasA"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/1590cyINxfZ6rEvn0g2p8U"
+      },
+      "artists": [
+        {
+          "name": "Brandon Ray",
+          "url": "https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/7enjR0hPGPw1MG8UIEk4kF"
     },
     {
       "album": {

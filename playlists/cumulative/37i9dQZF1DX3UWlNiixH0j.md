@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: トクマルシューゴ \(Shugo Tokumaru\)
 
-1,760 songs - 4 day 13 hr 24 min
+1,761 songs - 4 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [Kosansengen](https://open.spotify.com/track/1U1WUqhSHi35ZCYEtyH9c4) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kosansengen](https://open.spotify.com/album/3fXd87nD0hfPevWspy3w0G) | 3:24 | 2023-12-19 | 2024-01-10 |
 | [Koyoi](https://open.spotify.com/track/6bMl0O4b15tS5wGSAOlelH) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ちぃさな世界](https://open.spotify.com/album/2pMsbFoUCWtbMadTxhZtNe) | 3:47 | 2024-02-01 | 2024-02-07 |
 | [Kujira](https://open.spotify.com/track/5fac8pGg9klKEy4bIV3q06) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 4:59 | 2024-03-07 | 2024-03-13 |
+| [KYŌFUNOHOSHI](https://open.spotify.com/track/3jHAnBxDncqobzs442mnQU) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [KYŌFUNOHOSHI](https://open.spotify.com/album/7KR60jE8QXSItGSLUJJu0M) | 3:44 | 2024-07-16 |  |
 | [La La La](https://open.spotify.com/track/2YRkAZfGJRElab13LXT2d9) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/60gAxd8jeDnGaoPo8Bmed9) | 3:41 | 2023-02-21 | 2023-02-23 |
 | [La La La](https://open.spotify.com/track/5gJcnbp3rVmSVeBHv4bnj6) | [pavilion](https://open.spotify.com/artist/1TSRXSGEbdwPcXwiDDI68w) | [La La La](https://open.spotify.com/album/6iIWSif4tILekmHLb6rMDy) | 3:41 | 2023-02-21 | 2023-03-01 |
 | [La la lie](https://open.spotify.com/track/0mHoojc6jZ08qMvUSvEz8g) | [Ryo Nagano](https://open.spotify.com/artist/1pQVDdL0MKMj353vBQ3BM6) | [La la lie](https://open.spotify.com/album/17PcmDiBW1axhPJdWmMrQl) | 3:10 | 2023-11-29 | 2023-12-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover:   <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,443 likes - 97 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,495 likes - 97 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 80 | [Not Done Yet](https://open.spotify.com/track/6cAObGU0XLTa3HqJ6v9dAH) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not Done Yet](https://open.spotify.com/album/6hdf7tH7T4fww2FI9WhIpR) | 3:16 |
 | 81 | [Welcome To The Gift Of Being Wrong](https://open.spotify.com/track/506jAyKYUhNWOBQhJ5XCyU) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Welcome To The Gift Of Being Wrong](https://open.spotify.com/album/5twv3UtcscG12Nd9HbqBal) | 3:04 |
 | 82 | [When Believers Will Be Leaving](https://open.spotify.com/track/2HwcSDeQYvmhGhFPgwGU5t) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [When Believers Will Be Leaving](https://open.spotify.com/album/2wyzag6fYEbDAA3gqvJCgP) | 3:14 |
-| 83 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:51 |
+| 83 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:49 |
 | 84 | [Worthy Of It All \(Holy Are You Lord\)](https://open.spotify.com/track/4VmGe2XNlJGxNmO0Nv7a4Q) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo), [Kyrie Varieur](https://open.spotify.com/artist/1t2fAzXPJXcejQmDD7pgEq) | [Worthy Of It All \(Holy Are You Lord\)](https://open.spotify.com/album/57hCliChxgXDrTrKzQsLlL) | 7:57 |
 | 85 | [Prayers Filled With Praises](https://open.spotify.com/track/4YpMa38tna40IqTHMzftK1) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises](https://open.spotify.com/album/3W6wKg4QUlAZ6psU6Ejmfn) | 4:07 |
 | 86 | [Nothing Is Better \- Live](https://open.spotify.com/track/0LFjcJsVtmHEVYeXWxQ8De) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Nothing Is Better \(Live\)](https://open.spotify.com/album/4g6qnKdjWzqsK0v1ESSzNY) | 9:56 |

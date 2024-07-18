@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 45252,
+  "num_followers": 45264,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAAo+EmyMIcvLEsjzMrwm2eL",
+  "snapshot_id": "ZpW4AAAAAACK2bHYwL9op12hYZhBdBk0",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
@@ -63,8 +47,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Morning Music: Wake Up Workout",
-        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
+        "name": "Heads Will Roll (A-Trak Remix)",
+        "url": "https://open.spotify.com/album/4IZSrYZHALLavs8TTndGiV"
       },
       "artists": [
         {
@@ -76,9 +60,9 @@
           "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
-      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+      "duration_ms": 383893,
+      "name": "Heads Will Roll - A-Trak Remix",
+      "url": "https://open.spotify.com/track/5bs8OXiOt4BPF2FAnRFP1u"
     },
     {
       "added_at": null,
@@ -115,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Y Control",
-      "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -143,6 +111,22 @@
       "duration_ms": 230213,
       "name": "Sacrilege",
       "url": "https://open.spotify.com/track/2pQZ9g4vaFNXO42kMe8e3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 120080,
+      "name": "Pin",
+      "url": "https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66"
     },
     {
       "added_at": null,
@@ -179,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120080,
-      "name": "Pin",
-      "url": "https://open.spotify.com/track/7AEvyxJS2Eayyr6q5sEU66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -207,6 +175,22 @@
       "duration_ms": 233106,
       "name": "Soft Shock",
       "url": "https://open.spotify.com/track/3fXx53m03IKoS5bRq3Xfq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
     },
     {
       "added_at": null,
@@ -243,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -271,6 +239,22 @@
       "duration_ms": 230346,
       "name": "Hysteric",
       "url": "https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
     },
     {
       "added_at": null,
@@ -307,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -335,6 +303,22 @@
       "duration_ms": 288546,
       "name": "Despair",
       "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "Tick",
+      "url": "https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD"
     },
     {
       "added_at": null,
@@ -371,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "Tick",
-      "url": "https://open.spotify.com/track/2NjbIZpz7YMyo8s0hgheqD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Is EP",
         "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
       },
@@ -399,6 +367,22 @@
       "duration_ms": 233026,
       "name": "Down Boy",
       "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
     },
     {
       "added_at": null,
@@ -435,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 313386,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -483,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
       },
@@ -515,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is Is EP",
         "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
       },
@@ -527,6 +495,22 @@
       "duration_ms": 163933,
       "name": "Kiss, Kiss",
       "url": "https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 109480,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/6LinqKaMUsazZ5NG2H1fyG"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+      "duration_ms": 314493,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/50SlUsduTdMTgpitQtv26O"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 140800,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War Child Presents Heroes Vol. 1",
-        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Sheena Is A Punk Rocker",
-      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 294013,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/0EZELV7AI8v4KF6DErAgge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Child Presents Heroes Vol. 1",
+        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "Sheena Is A Punk Rocker",
+      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "Shame And Fortune",
-      "url": "https://open.spotify.com/track/1eQZHXR9wmz17x38aksm4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190986,
       "name": "Rockers To Swallow",
       "url": "https://open.spotify.com/track/2UiapyNBxFVssobcZVuQuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Shame And Fortune",
+      "url": "https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe"
     },
     {
       "added_at": null,

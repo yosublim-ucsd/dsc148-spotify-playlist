@@ -6873,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Is It Ever Gonna Make Sense",
+        "url": "https://open.spotify.com/album/0osdCYJ8h3oi96HeQnvc2i"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185560,
+      "name": "Is It Ever Gonna Make Sense",
+      "url": "https://open.spotify.com/track/7FbLFGKk2OBewYOgCa3cbT"
+    },
+    {
+      "album": {
         "name": "it's happening again (feat. KU\u010cKA)",
         "url": "https://open.spotify.com/album/5YMys8LacAHczMN0ORX33K"
       },

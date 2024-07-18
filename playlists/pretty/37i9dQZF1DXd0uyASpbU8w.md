@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=\-6c54oSKR9mHh41ok7g5RQ">Rema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,609 likes - 63 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,646 likes - 63 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 30 | [Loose Screws](https://open.spotify.com/track/0ART1fhYf2CPsNDU35MY2H) | [Pixie Whip](https://open.spotify.com/artist/29dQnPAvvIDHL1Gi3CFQVU), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [Loose Screws](https://open.spotify.com/album/6o4cwseY2L2FTA3k3Lnpy8) | 2:51 |
 | 31 | [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 |
 | 32 | [Tshaba Re Fete](https://open.spotify.com/track/6hKHcJAPtgxX5WyxFocQWI) | [Jimmy Maradona](https://open.spotify.com/artist/0KAB9wajGGZViilTCmJieo), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN) | [Tshaba Re Fete](https://open.spotify.com/album/3xPLsjwsqikOTZ9FcT6LWW) | 6:25 |
-| 33 | [Njalo \(feat\. Yumbs\)](https://open.spotify.com/track/3R7pQeunN1YHpIJHcnCuvG) | [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8), [Zwayetoven](https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Njalo \(feat\. Yumbs\)](https://open.spotify.com/album/4eAdcMAyvL3bzBY4OIfZZv) | 4:38 |
+| 33 | [Njalo \(feat\. Yumbs\)](https://open.spotify.com/track/3R7pQeunN1YHpIJHcnCuvG) | [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Zwayetoven](https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Njalo \(feat\. Yumbs\)](https://open.spotify.com/album/4eAdcMAyvL3bzBY4OIfZZv) | 4:38 |
 | 34 | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Slippin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8) | 2:48 |
 | 35 | [Pray For Me](https://open.spotify.com/track/65H0lpUE33k4Ma7fl4nF8c) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Pray For Me](https://open.spotify.com/album/6lcaP3rX2rQbT70fXJmRUp) | 10:00 |
 | 36 | [Hell of a Show](https://open.spotify.com/track/0WnevIEd25dTywBplnFNeY) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hell of a Show](https://open.spotify.com/album/2C5hxtTGObdEG2rZZHVqPn) | 1:47 |

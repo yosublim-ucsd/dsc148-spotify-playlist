@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 57247,
+  "num_followers": 57273,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpRmgAAAAAA3T9H3WivJ9LuQ6WIE3k0+",
+  "snapshot_id": "ZpW4AAAAAADwKO8se7qk7kHHv54dbsqr",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Consejos",
         "url": "https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179258,
       "name": "Los Consejos",
       "url": "https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 142786,
-      "name": "Me Dicen El Coyote",
-      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El General",
         "url": "https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 155306,
       "name": "La Gran Pachanga",
       "url": "https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Me Dicen El Coyote",
+      "url": "https://open.spotify.com/track/7AFtCiPOxhwIDKcH50hLjy"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como una Huella Digital",
         "url": "https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 143880,
       "name": "La Loba del Mar",
       "url": "https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concedeme",
-        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Amargo Dolor",
-      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Basico",
         "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 192946,
       "name": "Alla En El Rancho Grande",
       "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Amargo Dolor",
+      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Culebras",
-        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 161893,
-      "name": "Las Culebras",
-      "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fue Un Placer",
         "url": "https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 267151,
       "name": "Fue Un Placer",
       "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Culebras",
+        "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 161893,
+      "name": "Las Culebras",
+      "url": "https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9"
     }
   ],
   "unique_name": "This Is El Coyote Y Su Banda Tierra Santa",

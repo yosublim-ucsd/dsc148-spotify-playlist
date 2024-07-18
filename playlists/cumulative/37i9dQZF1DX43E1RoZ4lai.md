@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-432 songs - 1 day 14 hr 18 min
+433 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Children Of Flint](https://open.spotify.com/track/2CbTrKGpzbpMex9ar5myCc) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Children Of Flint](https://open.spotify.com/album/2NWNR2Vlz3lIOKfk7BGn7Y) | 6:26 | 2022-02-10 |  |
 | [Chorale](https://open.spotify.com/track/2gz3Z29lju8qyTf0LMuu5v) | [Vijay Iyer Trio](https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM) | [Break Stuff](https://open.spotify.com/album/5PBA6FITIETRwVymaaDquG) | 4:35 | 2022-02-10 | 2022-09-03 |
 | [Christina](https://open.spotify.com/track/4xwtUMVMVMAqrZG7E8Dzto) | [George Colligan](https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol) | [Again With Attitude](https://open.spotify.com/album/0dULk5XH1xkUltnA4N2wa4) | 7:26 | 2022-02-10 | 2022-07-23 |
+| [Colors of the Night](https://open.spotify.com/track/48sTxJ8pHYSDSajYNy24lq) | [Eri Yamamoto](https://open.spotify.com/artist/2PZEu9xMz7t4W1C3NfWA0Z) | [Colors of the Night](https://open.spotify.com/album/27pY3BZILFITViTMUEtRrt) | 18:03 | 2023-09-29 |  |
 | [Combat Breathing](https://open.spotify.com/track/2oaXpRxldp4SZDBy6lw5s2) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Uneasy](https://open.spotify.com/album/1MasELWlBKjqok0ysgHduk) | 7:50 | 2022-02-10 |  |
 | [Compassion](https://open.spotify.com/track/5cO6eb7HJjHSrFTLVj1r85) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Compassion](https://open.spotify.com/album/000d5q0NXOqGJnujInWZBX) | 4:50 | 2024-02-16 |  |
 | [Conception](https://open.spotify.com/track/6KEvzpIWASLeth3AkG5uNg) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 5:25 | 2022-02-10 |  |
@@ -105,7 +106,7 @@
 | [Enneadic](https://open.spotify.com/track/25Fmiy6OrLrjm3NRONUJQ4) | [Santiago Leibson Trio](https://open.spotify.com/artist/1maoRyK1VYvbFqzfx3uJTi), [Matt Pavolka](https://open.spotify.com/artist/6uJyNRUVwrgjKVFMUyG5Vx), [Mark Ferber](https://open.spotify.com/artist/2BrGFbXBIGLSy4lRO8Pf6w) | [Little Pieces](https://open.spotify.com/album/5SpfrWa74NChLFILB14KzK) | 7:25 | 2022-02-10 | 2022-07-29 |
 | [Equipoise](https://open.spotify.com/track/56AqMbBb7WnD5nKg8bXbxr) | [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9) | [Equipoise](https://open.spotify.com/album/6MIYkxA20TqTPGLnXMar2d) | 5:51 | 2022-12-02 |  |
 | [Ereshkigal of the Underworld](https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Secrets of Inanna](https://open.spotify.com/album/1ruDzWzQmOET51GQngt3f0) | 3:01 | 2022-09-23 |  |
-| [Ewige Wiederkunft](https://open.spotify.com/track/5AkCJt1ZoENVwMdRQkntuh) | [Kilian Kemmer](https://open.spotify.com/artist/7BeZqn9SOhdEpPLTI4VZF3), [Masaki Kai](https://open.spotify.com/artist/77xAmIHjNBZcZFXEFDmT30), [Matthias Gmelin](https://open.spotify.com/artist/68VI3j5rxdRsJVQ3CREQui) | [Ewige Wiederkunft](https://open.spotify.com/album/2NdSdGjCVJExrCvdlk8egj) | 3:57 | 2022-02-10 |  |
+| [Ewige Wiederkunft](https://open.spotify.com/track/5AkCJt1ZoENVwMdRQkntuh) | [Kilian Kemmer](https://open.spotify.com/artist/7BeZqn9SOhdEpPLTI4VZF3), [Masaki Kai](https://open.spotify.com/artist/77xAmIHjNBZcZFXEFDmT30), [Matthias Gmelin](https://open.spotify.com/artist/68VI3j5rxdRsJVQ3CREQui) | [Ewige Wiederkunft](https://open.spotify.com/album/2NdSdGjCVJExrCvdlk8egj) | 3:57 | 2022-02-10 | 2024-07-18 |
 | [Ewige Wiederkunft](https://open.spotify.com/track/6oD04GSbvkKJhKftU6THxx) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:57 | 2022-02-10 | 2022-12-01 |
 | [Except For](https://open.spotify.com/track/1lusviXepVGyOaVRWZ6zir) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Except For](https://open.spotify.com/album/6ye7Y2pTMNpCELmDwxRuPA) | 7:01 | 2022-02-10 | 2022-07-12 |
 | [Except For](https://open.spotify.com/track/79sF2WcTynaq58PYWt63WC) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/0ILAAcet8xZuw1h5LBgseA) | 7:01 | 2022-02-10 | 2024-03-26 |

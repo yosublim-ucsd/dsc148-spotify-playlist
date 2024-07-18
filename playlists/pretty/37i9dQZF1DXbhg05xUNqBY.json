@@ -1,6 +1,6 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 350305,
+  "num_followers": 350316,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "I can always find You",
         "url": "https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 222642,
       "name": "In Christ Alone (En J\u00e9sus Seul)",
       "url": "https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "Luke Smallbone",
-          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "God You Are",
         "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Luke Smallbone",
+          "url": "https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
         "name": "Help Is on the Way",
         "url": "https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 220454,
       "name": "Help Is on the Way",
       "url": "https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+    },
+    {
+      "added_at": "2024-06-23 02:52:54",
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2024-06-23 02:52:54",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
       },
       "artists": [
         {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
         }
       ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2024-06-23 02:52:54",
@@ -1007,22 +1023,6 @@
       "duration_ms": 216000,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
-    },
-    {
-      "added_at": "2024-06-23 02:52:54",
-      "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2024-06-23 02:52:54",

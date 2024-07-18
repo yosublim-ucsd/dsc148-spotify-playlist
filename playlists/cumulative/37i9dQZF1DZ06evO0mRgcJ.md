@@ -2,7 +2,7 @@
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This is Los Desvelados\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 43 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 204571,
+  "num_followers": 204636,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,38 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
+      },
+      "artists": [
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        }
+      ],
+      "duration_ms": 255690,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -579,38 +611,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        }
-      ],
-      "duration_ms": 255690,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/0WcU99EEi8NWEHrzkxHugx"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 214814,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/23UNzfTWydjS1PZKCImbMe"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Nha Mos",
         "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 196923,
       "name": "Nha Mos",
       "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Meu Marido",
-        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
+        "name": "Ayah",
+        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
       },
       "artists": [
         {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
         }
       ],
-      "duration_ms": 219218,
-      "name": "Meu Marido",
-      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
+      "duration_ms": 163199,
+      "name": "Ayah",
+      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Ayah",
-        "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
+        "name": "Meu Marido",
+        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
       "artists": [
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         }
       ],
-      "duration_ms": 163199,
-      "name": "Ayah",
-      "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
+      "duration_ms": 219218,
+      "name": "Meu Marido",
+      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "In\u00edcio do Fim",
+        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 191698,
+      "name": "In\u00edcio do Fim",
+      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Menina Mulher",
         "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 200005,
       "name": "Nossas Coisas (feat. Ary)",
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "In\u00edcio do Fim",
-        "url": "https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 191698,
-      "name": "In\u00edcio do Fim",
-      "url": "https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
       },
       "artists": [
         {
@@ -1104,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         },
         {
-          "name": "Paulelson",
-          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1131,6 +1131,26 @@
       "duration_ms": 173844,
       "name": "Boda",
       "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
+      },
+      "artists": [
+        {
+          "name": "Garry",
+          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1199,26 +1219,6 @@
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
-      },
-      "artists": [
-        {
-          "name": "Garry",
-          "url": "https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
       "artists": [
         {
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
         },
         {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
         }
       ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+      "duration_ms": 243750,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/2ma0izMC7acJputUXY0Q7J"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1507,34 +1507,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Grega",
-        "url": "https://open.spotify.com/album/3p7jFAdBLyEFhKM4NVwgHx"
-      },
-      "artists": [
-        {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Bruna Amado",
-          "url": "https://open.spotify.com/artist/5pRlnFpk8M6RZabwNbCCTc"
-        },
-        {
-          "name": "Black Vision",
-          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Grega",
-      "url": "https://open.spotify.com/track/7cY7ufQTW8XJ62Q9KsNVwh"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1579,6 +1551,34 @@
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Grega",
+        "url": "https://open.spotify.com/album/3p7jFAdBLyEFhKM4NVwgHx"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Bruna Amado",
+          "url": "https://open.spotify.com/artist/5pRlnFpk8M6RZabwNbCCTc"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Grega",
+      "url": "https://open.spotify.com/track/7cY7ufQTW8XJ62Q9KsNVwh"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
+        "name": "The Gentleman",
+        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Nha Rainha (feat. Dino D'Santiago)",
+      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
         "name": "Pondodu",
         "url": "https://open.spotify.com/album/51gfGpmvSvZnVwxnnwWHpa"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 203278,
       "name": "Pondodu",
       "url": "https://open.spotify.com/track/0hfdyksAPklSdEcZEeen5q"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "The Gentleman",
-        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Nha Rainha (feat. Dino D'Santiago)",
-      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1767,42 +1767,6 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Pak\u00e9",
-        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "Pak\u00e9",
-      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
-    },
-    {
-      "added_at": "2024-07-11 23:00:00",
-      "album": {
         "name": "Preparado",
         "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
       },
@@ -1827,18 +1791,18 @@
     {
       "added_at": "2024-07-11 23:00:00",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
       },
       "artists": [
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2024-07-11 23:00:00",
@@ -1855,6 +1819,42 @@
       "duration_ms": 210666,
       "name": "Ex",
       "url": "https://open.spotify.com/track/4a1u8QzTx1hjXT6gWV6glB"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Pak\u00e9",
+        "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Pak\u00e9",
+      "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
+    },
+    {
+      "added_at": "2024-07-11 23:00:00",
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
     },
     {
       "added_at": "2024-07-11 23:00:00",

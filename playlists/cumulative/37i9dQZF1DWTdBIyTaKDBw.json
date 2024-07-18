@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "Answer Love",
       "url": "https://open.spotify.com/track/6bdZwWDYlzk7iXa8bWsAXc"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
@@ -4127,6 +4127,28 @@
     },
     {
       "album": {
+        "name": "Stillness in Motion",
+        "url": "https://open.spotify.com/album/1x2Ij0PiGeGJCuja8H2KA7"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Silver Lake",
+      "url": "https://open.spotify.com/track/2d9U8zOWgpvXuogjw1j3e4"
+    },
+    {
+      "album": {
         "name": "INNER CHILD",
         "url": "https://open.spotify.com/album/3RlXW94RoRIrAOLMGxUUTg"
       },
@@ -4370,7 +4392,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-18",
       "duration_ms": 98572,
       "name": "Stars of Mount Fuji",
       "url": "https://open.spotify.com/track/4SVl0hPWCws7ZWTFf8LIwF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,502 likes - 306 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,503 likes - 306 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 219 | [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 |
 | 220 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 |
 | 221 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
-| 222 | [Rush](https://open.spotify.com/track/4auwKIU6xiylngSIMXVEYa) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/6HtKBTMCxQKy9jPnuVd6vl) | 3:59 |
-| 223 | [No Ordinary Love](https://open.spotify.com/track/0WoFqRQVvicGYxcVqQCiNz) | [Urbandub](https://open.spotify.com/artist/18B9mAtwCLjkXGMlBtH1LZ) | [Full Volume](https://open.spotify.com/album/1pzX0UHMKFphae6J0LVDs7) | 5:06 |
+| 222 | [No Ordinary Love](https://open.spotify.com/track/0WoFqRQVvicGYxcVqQCiNz) | [Urbandub](https://open.spotify.com/artist/18B9mAtwCLjkXGMlBtH1LZ) | [Full Volume](https://open.spotify.com/album/1pzX0UHMKFphae6J0LVDs7) | 5:06 |
+| 223 | [Rush](https://open.spotify.com/track/4auwKIU6xiylngSIMXVEYa) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/6HtKBTMCxQKy9jPnuVd6vl) | 3:59 |
 | 224 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/3AxZWZr6cnNrXvQ9A54qoO) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:40 |
 | 225 | [Drum](https://open.spotify.com/track/759Qc9P8jWrRw4huLXWGQS) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:34 |
 | 226 | [Suddenly](https://open.spotify.com/track/7kqrWavqHpsVWNy2iR6yDO) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 3:28 |
@@ -241,8 +241,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 231 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 |
 | 232 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 |
 | 233 | [Touched By You](https://open.spotify.com/track/0OJ0C98JnN0PSJxlZ6VJJT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:18 |
-| 234 | [BAD GIRL](https://open.spotify.com/track/6HQbJqm6M4YvZJd9acfIJm) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Friday Night](https://open.spotify.com/album/2XpP3oRuBudQhXZaNhsxWe) | 5:35 |
-| 235 | [Darkest Hour](https://open.spotify.com/track/6NysRdnw6s1e8v4WfjcdDg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 3:17 |
+| 234 | [Darkest Hour](https://open.spotify.com/track/6NysRdnw6s1e8v4WfjcdDg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP) | 3:17 |
+| 235 | [BAD GIRL](https://open.spotify.com/track/6HQbJqm6M4YvZJd9acfIJm) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Friday Night](https://open.spotify.com/album/2XpP3oRuBudQhXZaNhsxWe) | 5:35 |
 | 236 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
 | 237 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
 | 238 | [Best Day of My Life](https://open.spotify.com/track/4KHhyhMNZRTq6BnDdb9DnZ) | [Piano Dreamers](https://open.spotify.com/artist/4oRyLnxDdIzd2POQfX9Drd) | [Top 20 Hits February 2014](https://open.spotify.com/album/1bf8bQGSkOWBkPg8BGakz2) | 3:02 |
@@ -300,7 +300,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 290 | [Rope](https://open.spotify.com/track/5iHKyxruX4siXfJclKuk9H) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 4:20 |
 | 291 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 |
 | 292 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
-| 293 | [No satisfaction](https://open.spotify.com/track/6RnhqFsyRuMWNJ1Z9Hrvma) | [SamFan Thomas](https://open.spotify.com/artist/3BM1ACFkmIfHTpnJQw687R) | [Douala](https://open.spotify.com/album/5TMiltCQCPbpP1NJxpREiG) | 5:21 |
+| 293 | [No satisfaction](https://open.spotify.com/track/4ENR9j84YIzR3na4qvr2DD) | [Sam Fan Thomas](https://open.spotify.com/artist/2JbJuYv3mZFqheYEo0412Y) | [No Satisfaction](https://open.spotify.com/album/0LLLmA1WA88IUmZScuhDLu) | 5:21 |
 | 294 | [Rope \(Interlude\)](https://open.spotify.com/track/3rzibzQ9vQgJmgckw8Llao) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 0:44 |
 | 295 | [Tonight](https://open.spotify.com/track/0dPs8Le0nC7Eh1SlT4vVuS) | [Dez Nado](https://open.spotify.com/artist/7IeTReW9HcBtdo4FJYjjHl) | [Lpyh Ssnz: The 90s Tape](https://open.spotify.com/album/2RH3FeSYNMVmc5Al6R8kzW) | 4:07 |
 | 296 | [Mine](https://open.spotify.com/track/4QU75MocpRSTXdltSNTnzy) | [Alexander Norman](https://open.spotify.com/artist/5W0RMG8qbEDxyJjQ2TCkMY), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [Mine](https://open.spotify.com/album/5QiOaZ0bMBNsVMq1oJFfbL) | 2:48 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 306 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbW4IgAAAABIblYsIllwPeMCSGbBiyua`
+Snapshot ID: `AbW+AgAAAACpiCaDbKOTtfYmsmxkMXM6`
