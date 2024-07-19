@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-440 songs - 1 day 1 hr 55 min
+441 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Giants](https://open.spotify.com/track/2GP4MPXJD28vtnLMnBZG5c) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Giants](https://open.spotify.com/album/4Na5tW314eMC3jByBUpll4) | 3:49 | 2021-06-22 | 2022-02-07 |
 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2022-07-22 |  |
 | [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2022-11-11 | 2022-11-13 |
-| [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 |  |
+| [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 | 2024-07-19 |
 | [Golden Slumbers \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7uFFGrqfD3KOdG6AgJ7Z7y) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 2:47 | 2021-06-22 | 2022-05-18 |
 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 | 2021-06-22 | 2022-11-13 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2023-07-21 |  |
@@ -222,7 +222,7 @@
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2023-04-28 |  |
 | [Jungle](https://open.spotify.com/track/2sFo4HAjQfBBaV22QRg75a) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Jungle](https://open.spotify.com/album/3weoFCQUyngxOP2Okdrfhc) | 2:40 | 2021-06-22 | 2022-07-29 |
 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 | 2022-07-22 |  |
-| [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-05-17 | 2024-07-13 |
+| [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-05-17 |  |
 | [Kids In Love](https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Kids In Love](https://open.spotify.com/album/1iWMCIOJ18npeRsMZxfDER) | 3:09 | 2021-06-22 | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2022-07-22 | 2024-04-19 |
 | [Kingdom Come](https://open.spotify.com/track/0xqnx4Q4qxAdAnrOAsNXkj) | [Sialia](https://open.spotify.com/artist/4CTyrlD8XGPObRSww1gUiO), [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Kingdome Come](https://open.spotify.com/album/7IDmojESG4CxCMJP9y5I1k) | 3:39 | 2021-06-22 | 2022-05-18 |
@@ -415,12 +415,13 @@
 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 | 2023-05-19 | 2023-05-26 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-06-22 | 2022-05-28 |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2023-07-21 |  |
-| [What You Won't Do for Love](https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [What You Won't Do for Love](https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy) | 3:13 | 2024-06-28 |  |
+| [What You Won't Do for Love](https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [What You Won't Do for Love](https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy) | 3:13 | 2024-06-28 | 2024-07-19 |
 | [What's A Song](https://open.spotify.com/track/19EIuWpVEtyoBGyUVuFg6k) | [Joel Baker](https://open.spotify.com/artist/02Ok0rA4DUmpWuALgD54iY) | [What’s A Song](https://open.spotify.com/album/74mkzHkJU9B7HJ2y5ykCxc) | 3:15 | 2022-07-15 | 2022-07-20 |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2022-07-22 | 2023-12-22 |
 | [When We Were Young](https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:50 | 2022-05-27 | 2022-07-29 |
 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2022-07-22 | 2024-04-19 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2021-06-22 | 2022-05-28 |
+| [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2024-07-19 |  |
 | [Whiskey To My Soul](https://open.spotify.com/track/0I4lY4YaaB9vGf1yzdcgFs) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/4sOkRZGkUaqkHSMRl1oMKm) | 3:45 | 2021-06-22 | 2022-07-29 |
 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 | 2022-11-11 | 2022-11-13 |
 | [Who You Lovin](https://open.spotify.com/track/4cMXF5AmiAoUL8JW0j2l9M) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Who You Lovin / In a Stranger's Arms](https://open.spotify.com/album/5qPyANB87pkul0IYJbJhwD) | 2:58 | 2021-06-22 | 2022-07-29 |

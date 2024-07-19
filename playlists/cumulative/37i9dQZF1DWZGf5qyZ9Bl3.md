@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-128 songs - 4 hr 54 min
+130 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Her](https://open.spotify.com/track/3JSLI0U4O42f0dT5SpgF9A) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Her](https://open.spotify.com/album/2rikYSxPPa4vqpvq7yCx7O) | 2:27 | 2024-07-05 |  |
 | [Highland Sun](https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Highland Sun](https://open.spotify.com/album/1f6wprppVelLkRBfCFlr1S) | 2:01 | 2024-07-05 |  |
 | [Hometown](https://open.spotify.com/track/6iuefeej3QJAFtCDwyHthS) | [Zephyr Deer](https://open.spotify.com/artist/4jqFHYuOvsCgaYiWWy8bGy) | [Hometown](https://open.spotify.com/album/1iAMtj1McRmlNRRQkJCkjc) | 2:34 | 2023-09-22 |  |
+| [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [Anastasia Kai](https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 | 2024-07-19 |  |
 | [How It Goes](https://open.spotify.com/track/1utm3EHfJ6kn1sBHeblnkJ) | [nomōyu](https://open.spotify.com/artist/3awVNU7vA87hTnVAAxqQ7e), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [How It Goes](https://open.spotify.com/album/5jdggOZDC0kw5eI0PDrvFT) | 2:42 | 2023-09-22 |  |
 | [if not now, when](https://open.spotify.com/track/7JcLHusPNkA7MEevw3S4Ax) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [somber september](https://open.spotify.com/album/6Uf1eHQEcwjHsHwGt1jF9U) | 2:33 | 2023-09-22 |  |
 | [If you love me](https://open.spotify.com/track/1cjPd0li1F1s3FAGAa8Odl) | [Perffetio Loggini](https://open.spotify.com/artist/4GGtJ0JeUH0t9xGrrS5zcB) | [If you love me](https://open.spotify.com/album/2cGe0weASMLDLlOdQBbYqL) | 1:58 | 2023-09-22 |  |
@@ -83,12 +84,12 @@
 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 | 2023-12-15 |  |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2023-09-22 |  |
 | [Paris](https://open.spotify.com/track/7dfiqQg1mpguXK7gNwgQle) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Paris](https://open.spotify.com/album/7mT3it3tSO1fk0aA2ooxS2) | 2:35 | 2023-09-22 |  |
-| [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2023-09-22 |  |
+| [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 | 2023-09-22 | 2024-07-19 |
 | [Perfect Tonight](https://open.spotify.com/track/524rHs2pC8DmYZar2qJD7v) | [Rapido\_](https://open.spotify.com/artist/6lOeB8MEOAX0dqRJEFrQV6) | [Perfect Tonight](https://open.spotify.com/album/0qP01fvaJRELe91ZVoxgJR) | 1:32 | 2023-09-22 |  |
 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 | 2023-09-22 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2023-09-22 |  |
 | [Rain on a train](https://open.spotify.com/track/5fwV9gvxDehRq760bJYBst) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Rain on a train](https://open.spotify.com/album/5zlyQWR1roEcOru70HTVkl) | 2:12 | 2023-09-22 | 2023-12-15 |
-| [rainy](https://open.spotify.com/track/3X58SM9ih7hV91Pb26kX2D) | [hazel back](https://open.spotify.com/artist/5oKYxweMHRN5c4aYagA8gl) | [rainy](https://open.spotify.com/album/7AUnwwLdlsLWNA7DcqJgyr) | 2:10 | 2024-06-13 |  |
+| [rainy](https://open.spotify.com/track/3X58SM9ih7hV91Pb26kX2D) | [hazel back](https://open.spotify.com/artist/5oKYxweMHRN5c4aYagA8gl) | [rainy](https://open.spotify.com/album/7AUnwwLdlsLWNA7DcqJgyr) | 2:10 | 2024-06-13 | 2024-07-19 |
 | [rebundance](https://open.spotify.com/track/7KLD4ITn31VoczaKOfSmGE) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [rebundance](https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL) | 1:46 | 2023-09-22 |  |
 | [regn](https://open.spotify.com/track/4ViobejmVUpQS5CHu1T3DU) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [my reverie](https://open.spotify.com/album/2QWcdyMoDsGlTdIkpXbcHG) | 3:14 | 2023-09-22 | 2024-02-02 |
 | [Remember Us](https://open.spotify.com/track/7azNHjz8p1am7uQGVf0Qwh) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Remember Us](https://open.spotify.com/album/4aPbMJpheu9Zigz93qVD5H) | 2:17 | 2023-09-22 | 2024-01-12 |
@@ -109,6 +110,7 @@
 | [Summer Haze](https://open.spotify.com/track/7uscoXbsRGFkDXhPBay6uq) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Summer Haze](https://open.spotify.com/album/4xH8gyM3x1NfQrxab8ip9i) | 2:27 | 2023-09-22 |  |
 | [Sunday Mood](https://open.spotify.com/track/7BkPUaGIWkLuNvsN83xiAp) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sunday Mood](https://open.spotify.com/album/13RtQFl4U2ydQq029emsCe) | 2:24 | 2024-05-13 |  |
 | [Sunset Boulevard](https://open.spotify.com/track/7uNB5da4RZLnfWIE8xIQZk) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Sunset Boulevard](https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb) | 2:15 | 2023-11-17 |  |
+| [Sunset by Your Side](https://open.spotify.com/track/500fXCqsKKP9xB8oRyxqLO) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Sunset by Your Side](https://open.spotify.com/album/5AkK1tmre6SLL47sMwu0v1) | 2:36 | 2024-07-19 |  |
 | [Sunshine](https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Sunshine](https://open.spotify.com/album/5t8Bjlsv1UtsMgfHeH4kbf) | 2:22 | 2023-09-22 |  |
 | [telescape](https://open.spotify.com/track/1x2ddqYnVN1GDJWz4MiL8F) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [telescape](https://open.spotify.com/album/7EUmRwjLF90VFKFbrUVtAW) | 1:56 | 2023-09-22 |  |
 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 | 2023-09-22 |  |

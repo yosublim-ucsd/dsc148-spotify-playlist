@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: White 2115, Mata",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kaz Ba\u0142agane, Oskar83",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131555,
       "name": "ALBO CUZI ALBO ZDRAJCA",
       "url": "https://open.spotify.com/track/6rHmP0R9i5e3eDChD03d2b"
@@ -1731,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "CO TY WIESZ",
+        "url": "https://open.spotify.com/album/5hTCqA1stkMaEb1F6w8Uef"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124897,
+      "name": "CO TY WIESZ",
+      "url": "https://open.spotify.com/track/0s7js2T1FEyn4iz8M7vAxc"
+    },
+    {
+      "album": {
         "name": "COLOSSEUM",
         "url": "https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG"
       },
@@ -2231,6 +2253,50 @@
     },
     {
       "album": {
+        "name": "DESIGNER",
+        "url": "https://open.spotify.com/album/69uWH6Uhd18vQiZTnvhhzo"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "DESIGNER",
+      "url": "https://open.spotify.com/track/6aNDDaLEMAzXkvyxjtnju1"
+    },
+    {
+      "album": {
+        "name": "WIRTUOZ",
+        "url": "https://open.spotify.com/album/1gK5TWRqoEPMmEToOeNJ7n"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Deszcz Pieni\u0119dzy",
+      "url": "https://open.spotify.com/track/1qzlyUhA8eGdgK0JoFrEaY"
+    },
+    {
+      "album": {
         "name": "Adwokat Diabla",
         "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
       },
@@ -2319,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Dusza",
+        "url": "https://open.spotify.com/album/55qNvpXVyJBdtJ1JxAbhAe"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Dusza",
+      "url": "https://open.spotify.com/track/5fYb3lFHcf3iEh6ikl5AzD"
+    },
+    {
+      "album": {
         "name": "Dyskoteka",
         "url": "https://open.spotify.com/album/0Um6oOHfmm82reXcT0IQtd"
       },
@@ -2342,6 +2430,28 @@
       "duration_ms": 140307,
       "name": "Dyskoteka",
       "url": "https://open.spotify.com/track/3B3pbYU8NMXYUXkUWDzI0S"
+    },
+    {
+      "album": {
+        "name": "DZIE\u0143 / NOC",
+        "url": "https://open.spotify.com/album/5X0yClBsNBICm2yH9ICQfI"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138617,
+      "name": "DZIE\u0143 / NOC",
+      "url": "https://open.spotify.com/track/6SoMKQ2UlY7SmGnHoyzv84"
     },
     {
       "album": {
@@ -3090,7 +3200,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162533,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/7dYm5bcpolwVTsmgC28r57"
@@ -3726,7 +3836,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175522,
       "name": "KFC",
       "url": "https://open.spotify.com/track/7xfrO6sUQo6FURPfDjlDA9"
@@ -4629,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Mira\u017c",
+        "url": "https://open.spotify.com/album/0OTqdI89yDb5x3HjAhjwFx"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Mira\u017c",
+      "url": "https://open.spotify.com/track/0R9afu9k8fAfh8KJBGbRfF"
+    },
+    {
+      "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
       },
@@ -4800,6 +4932,28 @@
       "duration_ms": 190408,
       "name": "Mroczna Komnata",
       "url": "https://open.spotify.com/track/1KawCXZXR288yGeQbEgYL4"
+    },
+    {
+      "album": {
+        "name": "Multisport",
+        "url": "https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179571,
+      "name": "Multisport",
+      "url": "https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ"
     },
     {
       "album": {
@@ -5504,7 +5658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 136513,
       "name": "NIEBIESKI DOM",
       "url": "https://open.spotify.com/track/5qpT6hrWLhn8Vtsb12XUih"
@@ -6374,7 +6528,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170935,
       "name": "Polityka Dzielnicy",
       "url": "https://open.spotify.com/track/6TWkRYgLc4u5zoL4bNwH3O"
@@ -8212,7 +8366,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 167410,
       "name": "WCI\u0104\u017b JESTEM CHORY",
       "url": "https://open.spotify.com/track/3aUXmVAY0lwWCTkQydGows"
@@ -8808,7 +8962,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150229,
       "name": "zWaRiOwAnY m\u00d3j \u015bWiAt",
       "url": "https://open.spotify.com/track/1G73kcUBDBdyRcWioljXI6"

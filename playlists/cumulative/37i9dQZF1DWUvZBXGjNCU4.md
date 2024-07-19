@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-333 songs - 15 hr 3 min
+336 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,13 @@
 | [Confianza](https://open.spotify.com/track/0l110LCnGDPOlbiePvONwN) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Confianza](https://open.spotify.com/album/6gKoezS6y9GGDzZFhNKIx9) | 2:11 | 2024-05-10 |  |
 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 | 2022-05-27 | 2024-05-10 |
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 |  |
+| [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
 | [Dallam](https://open.spotify.com/track/6vy89nxZGa7YVKExm62L3U) | [Ringunguinja](https://open.spotify.com/artist/1I2a9L3JSAla2s2DlBQppu) | [Gitar](https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK) | 2:48 | 2022-05-13 | 2023-02-25 |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 |  |
 | [Days](https://open.spotify.com/track/7qXSDdJVmmiu6U0tNsfstK) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Days / Nights](https://open.spotify.com/album/28mDnKkcKf16KSw7nDLoIM) | 2:45 | 2022-05-13 | 2022-06-10 |
 | [Deliver These Words Of Mine](https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [Deliver These Words Of Mine](https://open.spotify.com/album/2ejwvZzkzX6nc9UG2su9As) | 3:08 | 2024-02-02 |  |
 | [Dew](https://open.spotify.com/track/2AgbBeirZsQscZYJuZYO8t) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Dew](https://open.spotify.com/album/1ihmY5wn40fLchhW60Ibjg) | 2:02 | 2022-10-07 |  |
-| [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-05-13 |  |
+| [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-05-13 | 2024-07-19 |
 | [Distances](https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX) | [Between the Dots](https://open.spotify.com/artist/1i1ZRmxu9V91AzofKXp72i) | [Distances](https://open.spotify.com/album/20KF1rWAGlEEiSFVDhKkTL) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Door Of The North](https://open.spotify.com/track/7fYKZFLRRlcBIQ17V1E5qE) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Door Of The North](https://open.spotify.com/album/1gHkkuNVNrRNZsSB0aolOt) | 2:34 | 2023-01-20 |  |
 | [Dreams you couldn't follow](https://open.spotify.com/track/2CyT7LpArgmWWcSdOITJZK) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dreams you couldn't follow](https://open.spotify.com/album/3wP9D613xVXJG7mwm8038z) | 2:34 | 2024-01-12 |  |
@@ -154,6 +155,7 @@
 | [Im Sonnenblumenfeld](https://open.spotify.com/track/3IFZMY6ohZsOgTVcMyL5b8) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 2:55 | 2022-05-13 | 2022-05-27 |
 | [In A Slow Moment](https://open.spotify.com/track/6tHQxrvxKbZAr2E0wEoX87) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [In A Slow Moment](https://open.spotify.com/album/0AJSoKEOFJ7uoaE0tqh8m5) | 2:50 | 2022-05-13 | 2024-04-06 |
 | [In Daisies Lain](https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [In Daisies Lain](https://open.spotify.com/album/48Ry8I2qQ5R6wyMfVQMjwf) | 2:21 | 2022-12-23 | 2023-06-23 |
+| [In Over My Head](https://open.spotify.com/track/67Gpq5M3Eo5v0rLIr9Upse) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [In Over My Head](https://open.spotify.com/album/1oJxvFxbM8zooEZyCnbrSG) | 3:47 | 2024-07-19 |  |
 | [In Quiet Admiration](https://open.spotify.com/track/7gIbaF08zajeFH0JwjTflZ) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [In Quiet Admiration](https://open.spotify.com/album/4bnRFPUL7Gbu5a17uY0FgR) | 2:19 | 2023-10-13 |  |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 |  |
 | [In the Makeup of the Sun \- Instrumental Version](https://open.spotify.com/track/2yyUytDg93W9yK40uENJg6) | [Christian Wannerwall](https://open.spotify.com/artist/4Z3m4U4Qm1b8EFpcws68kh) | [In the Makeup of the Sun \(Instrumental Version\)](https://open.spotify.com/album/1h90KBYEpVefz7oqZbpYFx) | 1:39 | 2022-05-13 | 2022-06-10 |
@@ -285,6 +287,7 @@
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-02-24 |  |
 | [TENNESSEE WHISKY](https://open.spotify.com/track/5lBoLsqUSgMSqGUBNzRcxh) | [El Mar](https://open.spotify.com/artist/4fxnolyScxkPqZc7WVxNEq) | [Tennessee Whisky](https://open.spotify.com/album/5Yo1rUTQvWftDiCJnyshF8) | 6:01 | 2023-04-28 | 2023-06-23 |
 | [The birds of my mind](https://open.spotify.com/track/6vYYZDgA2Lgn49Yurwno61) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [The birds of my mind](https://open.spotify.com/album/6Y7Ko0xoPdV4ytadPvAHUq) | 2:01 | 2024-05-24 |  |
+| [The Chestnut Tree](https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm) | [Amiyah Powell](https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl) | [The Chestnut Tree](https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb) | 3:00 | 2024-07-19 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 | 2024-05-25 |
@@ -308,7 +311,7 @@
 | [Under Taken](https://open.spotify.com/track/1dFl3je4swK3FmYJF12RmK) | [Sisters Of Marks](https://open.spotify.com/artist/58Hsg5UY4DmFIaVODTfVls) | [Sisters Of Marks](https://open.spotify.com/album/5OicysjUS20tN8e6k6dAym) | 2:56 | 2022-05-13 | 2022-06-10 |
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2022-05-13 | 2022-06-10 |
 | [Until Eternity](https://open.spotify.com/track/0Ln2XQp3zJpRsAqDvTJhgA) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Until Eternity](https://open.spotify.com/album/1N1czqs5ixWciPe4b6f8VO) | 2:01 | 2023-01-06 |  |
-| [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-05-13 |  |
+| [Untroubled by a Rainy Day](https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Untroubled by a Rainy Day](https://open.spotify.com/album/7BCgTPmYfV2YhtNsIXcYFR) | 3:03 | 2022-05-13 | 2024-07-19 |
 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 | 2023-02-24 | 2023-09-29 |
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-05-13 | 2023-06-10 |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 |  |

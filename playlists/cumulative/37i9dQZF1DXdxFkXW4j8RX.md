@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: EnSecreto
 
-206 songs - 11 hr 49 min
+207 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Fumando Maria](https://open.spotify.com/track/31fb0ZiCtYYM29LhVNV2VX) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [maginboo](https://open.spotify.com/artist/6Uoz8MU56AED9dg1Db8A6x) | [Fumando Maria](https://open.spotify.com/album/01c5VblvdMkM2A1RQtLvvM) | 3:38 | 2022-01-06 | 2022-03-12 |
 | [Fyah Burning](https://open.spotify.com/track/5qo2QBgpqst3cHZyNSu2YJ) | [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Boombap Monsters](https://open.spotify.com/album/6u7OHw5roQlvYRrDx4tPWL) | 3:09 | 2022-07-15 | 2024-04-19 |
 | [Fyah Burning](https://open.spotify.com/track/6pxe6p0xDp4aolVHj2YPtq) | [Subwoffer](https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm), [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik) | [Fyah Burning](https://open.spotify.com/album/4smLpPASulazjBp7h24g9a) | 3:09 | 2022-01-06 |  |
-| [Fénix](https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Fénix \(Vol.1\)](https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse) | 2:46 | 2022-05-27 |  |
+| [Fénix](https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Fénix \(Vol.1\)](https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse) | 2:46 | 2022-05-27 | 2024-07-19 |
 | [Grizzy Bars](https://open.spotify.com/track/6V5j8J5zyOm9mi9EkKWNy3) | [Gronex](https://open.spotify.com/artist/055fOIKrbtC2UmnVrPfGPb), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Grizzy Bars](https://open.spotify.com/album/20wBttryP3cBIeatZX7coS) | 2:05 | 2022-01-06 | 2023-02-04 |
 | [Hardcore Hdp](https://open.spotify.com/track/6N9WkUJKEJOcNpCXpYod2A) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP) | [Hardcore Hdp](https://open.spotify.com/album/3C66oqJ0VVWOnHHck9dIQD) | 3:24 | 2024-02-16 |  |
 | [Heiki](https://open.spotify.com/track/4uXtZS82CZFe3cIQXdA1CD) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Cool Maze](https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx) | [Heiki](https://open.spotify.com/album/0i0gGC5Io9FEowzqt6KPZr) | 2:29 | 2023-11-24 | 2024-03-09 |
@@ -146,6 +146,7 @@
 | [Perseverancia](https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Perseverancia](https://open.spotify.com/album/5vLJoj4LdKC4MsqXHmYyRj) | 3:16 | 2023-06-30 |  |
 | [Phiesta](https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Phiesta](https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds) | 3:19 | 2022-03-11 |  |
 | [Pirámide](https://open.spotify.com/track/2clbY1AetLbDnE8krCUfm3) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Raymond Daniel](https://open.spotify.com/artist/033jXqXsPX6VM4DNx6F0tB) | [Pirámide](https://open.spotify.com/album/0v7ZTYdFqPFKBOhsJi61vS) | 3:57 | 2022-01-06 | 2023-07-01 |
+| [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 | 2024-07-19 |  |
 | [Por Ti](https://open.spotify.com/track/6FVk1aNEFU33x7PHnsyUJa) | [Fastmove](https://open.spotify.com/artist/5xs5k1uaLdCnesWG7mWY4A), [Exe](https://open.spotify.com/artist/3GmyHz0dg5CbySGx3j9lOd) | [Por Ti](https://open.spotify.com/album/6Wn4s5cL1AAIlLwuhcl7O4) | 3:25 | 2022-01-06 | 2022-03-05 |
 | [Por un Dolar](https://open.spotify.com/track/5DaDnspZuF1SQ7vHMi0DSd) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [Por un Dolar](https://open.spotify.com/album/1eUiyif2eHKt9bFq0whNRj) | 2:45 | 2022-01-06 |  |
 | [Preparao](https://open.spotify.com/track/4JmgbZqnfpQ4pn2OKHgSJb) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Mov Rap and Reggae](https://open.spotify.com/album/5zLdLkfdRJW69cXcnkypml) | 3:33 | 2022-01-06 |  |

@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "I Have A Father (Live)",
+        "url": "https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459430,
+      "name": "I Have A Father - Live",
+      "url": "https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR"
+    },
+    {
+      "album": {
         "name": "I Loved Her First",
         "url": "https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33"
       },

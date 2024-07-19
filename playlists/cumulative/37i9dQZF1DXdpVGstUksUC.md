@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-339 songs - 1 day 8 hr 37 min
+340 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Automatic Fantastic](https://open.spotify.com/track/4KB6xBP5eIlgH2rEhCbGNA) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/4RKRXZ4ez0w6Lr23CMT9YE) | 6:55 | 2021-11-30 | 2022-07-29 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 | 2022-08-26 |  |
+| [Battling Guns](https://open.spotify.com/track/5D7tZUZKZCgS1r0uyensG0) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Battling Guns](https://open.spotify.com/album/55OBjBeDyNMXaaDzG2uuH4) | 4:55 | 2024-07-19 |  |
 | [Beneath the Rose](https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath the Rose](https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL) | 5:34 | 2024-05-10 | 2024-06-12 |
 | [Beneath the Rose](https://open.spotify.com/track/2Wfrylq2ghMGoqaOvVDr6O) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 5:34 | 2023-10-06 | 2024-04-19 |
 | [Beneath the Rose](https://open.spotify.com/track/3bP0OkELWHoDUn3tHvqcfY) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 5:34 | 2023-09-15 | 2023-11-11 |
@@ -328,7 +329,7 @@
 | [Unbroken \(Hotel Baby\)](https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Let Me Down Hard](https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt) | 3:42 | 2021-11-30 | 2022-11-13 |
 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 | 2023-08-11 |  |
 | [Unitive Knowledge of the Godhead](https://open.spotify.com/track/2eOJWFWUNLWIWWRNuhPf5B) | [OM](https://open.spotify.com/artist/4hCgC4FnYZLBgQPUMLOoiI) | [Pilgrimage](https://open.spotify.com/album/3J8fyzTnN9AyIgTD2Xvnw6) | 5:50 | 2021-11-30 | 2022-05-17 |
-| [Up in the Sky](https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe) | 8:12 | 2021-11-30 |  |
+| [Up in the Sky](https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe) | 8:12 | 2021-11-30 | 2024-07-19 |
 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 | 2022-04-28 | 2024-04-19 |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2021-11-30 | 2022-07-29 |
 | [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 | 2022-10-14 | 2023-03-23 |

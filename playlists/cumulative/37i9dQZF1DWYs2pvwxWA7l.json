@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Odeal",
+  "description": "The hottest Afropop records on the planet.  Cover: Bien",
   "name": "Afropop",
   "tracks": [
     {
@@ -3493,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "album": {
         "name": "10 Thirty",
         "url": "https://open.spotify.com/album/0CVD3PZ6dTqFkRcGZp8MD5"
       },
@@ -4967,6 +4985,28 @@
     },
     {
       "album": {
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
+    },
+    {
+      "album": {
         "name": "Kaba",
         "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
       },
@@ -5040,7 +5080,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
@@ -7523,6 +7563,32 @@
     },
     {
       "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "album": {
         "name": "One Side (Remix)",
         "url": "https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj"
       },
@@ -9716,7 +9782,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162603,
       "name": "Soro",
       "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
@@ -10568,7 +10634,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 276000,
       "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Papi)",
       "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
@@ -10678,6 +10744,32 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "Alusa Why Are You Topless? (Deluxe)",
+        "url": "https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW"
+        },
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr"
     },
     {
       "album": {
@@ -11140,7 +11232,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"

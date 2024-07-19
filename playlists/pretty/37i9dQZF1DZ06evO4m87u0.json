@@ -1,12 +1,12 @@
 {
-  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 284926,
+  "description": "This is The Black Keys. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 284962,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADN40cL4beLz0evzjV0eRVW",
+  "snapshot_id": "ZpcJgAAAAAC+g/msRgykLVwu/16f3boW",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 242838,
-      "name": "On The Game",
-      "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
+      "duration_ms": 224044,
+      "name": "This Is Nowhere",
+      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 224044,
-      "name": "This Is Nowhere",
-      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+      "duration_ms": 242838,
+      "name": "On The Game",
+      "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
+      "duration_ms": 154512,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 154512,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK"
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
     },
     {
       "added_at": null,

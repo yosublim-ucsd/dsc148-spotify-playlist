@@ -1,13 +1,85 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: CYRIL &amp; Dean Lewis",
-  "num_followers": 120198,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta x Cedric Gervais",
+  "num_followers": 120200,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdoO9QGcBy+xxzIqhNE63Pjp/xngDv",
+  "snapshot_id": "AAAdqw+f1JB2zY3O38e2fjA5a2CxNTX7",
   "tracks": [
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 189022,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw"
+    },
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/4crL4998au9yLFpCDKPEJK"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3adEmuBPBZR04wFiIE9qHL"
+    },
+    {
+      "added_at": "2024-07-12 16:31:49",
+      "album": {
+        "name": "Hurricane (feat. Leah Guest)",
+        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Hurricane (feat. Leah Guest)",
+      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
+    },
+    {
+      "added_at": "2024-07-12 16:31:49",
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/5bC9YRPcdc3W90DG4aw04n"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
+    },
     {
       "added_at": "2024-07-12 16:31:49",
       "album": {
@@ -45,88 +117,144 @@
       "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
     },
     {
-      "added_at": "2024-07-12 16:31:49",
+      "added_at": "2024-07-19 07:04:09",
       "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/5bC9YRPcdc3W90DG4aw04n"
+        "name": "You Like It Rough (feat. Lee McKing)",
+        "url": "https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km"
       },
       "artists": [
         {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 155742,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/5JzDUd8Iz8ol1f5WhfTJx9"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Hurricane (feat. Leah Guest)",
-        "url": "https://open.spotify.com/album/0AykD0vZXh4qotarIZaein"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         },
         {
-          "name": "Leah Guest",
-          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+          "name": "Lee McKing",
+          "url": "https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Hurricane (feat. Leah Guest)",
-      "url": "https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u"
+      "duration_ms": 156338,
+      "name": "You Like It Rough (feat. Lee McKing)",
+      "url": "https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J"
     },
     {
-      "added_at": "2024-07-12 16:31:49",
+      "added_at": "2024-07-19 07:04:09",
       "album": {
-        "name": "My Baby La La",
-        "url": "https://open.spotify.com/album/16UA5lo1OBlXS6qyufcfLm"
+        "name": "Open Your Eyes (MaRLo Presents V3NOM)",
+        "url": "https://open.spotify.com/album/1TAmbAltC9QNbSZBLAInm2"
       },
       "artists": [
         {
-          "name": "Sjaak",
-          "url": "https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm"
+          "name": "MaRLo",
+          "url": "https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd"
         },
         {
-          "name": "YONII",
-          "url": "https://open.spotify.com/artist/7H3TyvM3dpW78cru0Oaui9"
+          "name": "V3NOM",
+          "url": "https://open.spotify.com/artist/19pZqZK2BJlJkJaSlUK6xH"
         }
       ],
-      "duration_ms": 154545,
-      "name": "My Baby La La",
-      "url": "https://open.spotify.com/track/4AvB7BcWXkdQXefCyIVcrB"
+      "duration_ms": 155200,
+      "name": "Open Your Eyes (MaRLo Presents V3NOM)",
+      "url": "https://open.spotify.com/track/1NdkivrbjmROqu8HaAznl9"
     },
     {
-      "added_at": "2024-07-12 16:31:49",
+      "added_at": "2024-07-19 07:04:09",
       "album": {
-        "name": "ZENLESS",
-        "url": "https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu"
+        "name": "God Is A Code",
+        "url": "https://open.spotify.com/album/7iBzy1wuFN1khSR3LDZfkm"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "ATIKA PATUM",
+          "url": "https://open.spotify.com/artist/3nqueabqtDj7QhkY3VGnio"
+        }
+      ],
+      "duration_ms": 185041,
+      "name": "God Is A Code",
+      "url": "https://open.spotify.com/track/5tZ9Yr3cFpRsx8QMT3KOXh"
+    },
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/0SWT2Yp1noly9h12a3rq1h"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e"
+    },
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Lotus (PAROOKAVILLE Anthem 2024) [Neelix & Sighter Remix]",
+        "url": "https://open.spotify.com/album/2B847W0GDhw3cBhTv08LVr"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        }
+      ],
+      "duration_ms": 318802,
+      "name": "Lotus (PAROOKAVILLE Anthem 2024) [Neelix & Sighter Remix]",
+      "url": "https://open.spotify.com/track/7tptHWyA4KZrAxdEAAevVC"
+    },
+    {
+      "added_at": "2024-07-19 07:04:09",
+      "album": {
+        "name": "Can't Forget You (Club Mix)",
+        "url": "https://open.spotify.com/album/6XVpMSsyujfOkqXVgsLl61"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
           "name": "Lucas & Steve",
           "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "S\u0101n-Z",
-          "url": "https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x"
         }
       ],
-      "duration_ms": 144374,
-      "name": "ZENLESS",
-      "url": "https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH"
+      "duration_ms": 147002,
+      "name": "Can't Forget You (Club Mix)",
+      "url": "https://open.spotify.com/track/5t0poAfhVoI1xR7dbJ1mfW"
     },
     {
       "added_at": "2024-07-12 16:31:49",
@@ -223,130 +351,6 @@
       "duration_ms": 147967,
       "name": "Rock Da House",
       "url": "https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "I'm Too Sexy (Remixes)",
-        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        },
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "I'm Too Sexy (Festival Mix)",
-      "url": "https://open.spotify.com/track/0yNdBmcPrOM7CAhDIxfsSF"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "ZENLESS",
-        "url": "https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        },
-        {
-          "name": "S\u0101n-Z",
-          "url": "https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb"
-        }
-      ],
-      "duration_ms": 144374,
-      "name": "ZENLESS",
-      "url": "https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Lotus (PAROOKAVILLE Anthem 2024) [Creeds Remix]",
-        "url": "https://open.spotify.com/album/3t5gjJAHWEGwl4plVLjgns"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Lotus (PAROOKAVILLE Anthem 2024) - Creeds Remix",
-      "url": "https://open.spotify.com/track/5QvJSbY3lTIag2dgUMazuB"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "I'm Too Sexy (Remixes)",
-        "url": "https://open.spotify.com/album/7Hnh0uxsa3RetJCq7MeHCX"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        },
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        },
-        {
-          "name": "Albert Harvey",
-          "url": "https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "I'm Too Sexy (Albert Harvey Remix)",
-      "url": "https://open.spotify.com/track/6OFQ2DQOpID6yyeIIAHzzq"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Masada - Dabke Drive",
-        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
-      },
-      "artists": [
-        {
-          "name": "OTIOT",
-          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Masada",
-      "url": "https://open.spotify.com/track/6zbEa0mI2k0GpaV5ax3hJC"
-    },
-    {
-      "added_at": "2024-07-12 16:31:49",
-      "album": {
-        "name": "Masada - Dabke Drive",
-        "url": "https://open.spotify.com/album/3xTmjNxtMpek13avgo444Y"
-      },
-      "artists": [
-        {
-          "name": "OTIOT",
-          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
-        }
-      ],
-      "duration_ms": 294285,
-      "name": "Dabke Drive",
-      "url": "https://open.spotify.com/track/01vur63FwKqv3TkMODKmuB"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

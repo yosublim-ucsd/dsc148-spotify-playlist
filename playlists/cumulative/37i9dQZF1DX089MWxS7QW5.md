@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Gist\(지스트\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SUMIN, Slom\(수민, 슬롬\)\)
 
-359 songs - 19 hr 53 min
+360 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 | 2022-07-27 | 2022-12-14 |
 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 | 2023-04-27 | 2023-10-28 |
 | [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2022-07-05 | 2022-12-14 |
+| [WHY, WHY, WHY](https://open.spotify.com/track/0k46RHQDiZrP8eDgY4bd3v) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [MINISERIES 2](https://open.spotify.com/album/63yKhliWjZOJ39UQhXcBhO) | 2:41 | 2024-07-18 |  |
 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 | 2022-07-27 | 2022-12-14 |
 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2023-07-08 |
 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 | 2023-10-16 | 2024-02-23 |

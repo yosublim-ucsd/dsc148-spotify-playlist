@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
@@ -220,10 +220,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "album": {
+        "name": "ANY GIVEN MONDAY III",
+        "url": "https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW"
+      },
+      "artists": [
+        {
+          "name": "LAYCON",
+          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "ADISA OGBON (GOD SENT LAYCON)",
+      "url": "https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD"
     },
     {
       "album": {
@@ -330,7 +348,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 264179,
       "name": "All My Life (Burna Boy Remix)",
       "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134728,
       "name": "Bad Since '97",
       "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Belong to You",
       "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 152558,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP"
@@ -1453,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "Can You Hear Me? (feat. Daiela)",
+        "url": "https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o"
+      },
+      "artists": [
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        },
+        {
+          "name": "Daiela",
+          "url": "https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194688,
+      "name": "Can You Hear Me? (feat. Daiela)",
+      "url": "https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Explain",
         "url": "https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC"
       },
@@ -1490,7 +1530,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM"
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
@@ -1694,7 +1734,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
@@ -1759,6 +1799,28 @@
     },
     {
       "album": {
+        "name": "HitMan (The EP)",
+        "url": "https://open.spotify.com/album/65BcJVA8SkPobP2pZFGF3C"
+      },
+      "artists": [
+        {
+          "name": "BM Casso",
+          "url": "https://open.spotify.com/artist/2v4lbsIH2ZL1nYeYh4dowY"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168504,
+      "name": "Cool Off",
+      "url": "https://open.spotify.com/track/1pg4J5FtqxxBQoPCcwEyQy"
+    },
+    {
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1778,7 +1840,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 229440,
       "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
       "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
@@ -1990,7 +2052,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 181786,
       "name": "Demons & Angels",
       "url": "https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4"
@@ -2068,7 +2130,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 147183,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ"
@@ -2112,7 +2174,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 123333,
       "name": "Different Pattern",
       "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
@@ -2137,6 +2199,32 @@
     },
     {
       "album": {
+        "name": "Divine Pree",
+        "url": "https://open.spotify.com/album/2TaM26f7wHD6rVgsnRDkQt"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159515,
+      "name": "Divine Pree",
+      "url": "https://open.spotify.com/track/1vk777z4n2WWmSENVpCEI7"
+    },
+    {
+      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
       },
@@ -2148,7 +2236,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166000,
       "name": "DND",
       "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
@@ -2184,7 +2272,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
@@ -2206,7 +2294,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
@@ -2324,7 +2412,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174038,
       "name": "DOLLERZ (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
@@ -2360,7 +2448,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3e7FAWKNVUGQJvyUQMZ5EB"
@@ -2580,7 +2668,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 172631,
       "name": "Ebelebe",
       "url": "https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3"
@@ -2598,7 +2686,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 139714,
       "name": "Egberi",
       "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
@@ -2830,7 +2918,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
@@ -2877,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -2896,7 +3002,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -3290,7 +3396,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
@@ -3546,7 +3652,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
@@ -3612,7 +3718,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 172933,
       "name": "I Don't Care (feat. Bella Shmurda & Vector)",
       "url": "https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4"
@@ -3696,7 +3802,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "If They Are Real",
       "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
@@ -3714,7 +3820,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 157808,
       "name": "Ije Nwoke",
       "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
@@ -3952,7 +4058,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
@@ -4174,7 +4280,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177915,
       "name": "Kpe Paso",
       "url": "https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S"
@@ -4196,7 +4302,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 129056,
       "name": "KUBOLOR (feat. Amaarae)",
       "url": "https://open.spotify.com/track/7sFukIJffFFLwnazXIbqP5"
@@ -4329,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "LAST WEEK",
+        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "LAST WEEK",
+      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
+    },
+    {
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -4432,7 +4556,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
@@ -4450,7 +4574,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 123434,
       "name": "LIKE ICE SPICE",
       "url": "https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO"
@@ -4826,7 +4950,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 165851,
       "name": "Money",
       "url": "https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE"
@@ -4978,7 +5102,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
@@ -5018,7 +5142,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 182373,
       "name": "My Way No Be Your Way",
       "url": "https://open.spotify.com/track/6FNFp1ZvhAv5sZm2sMATg9"
@@ -5150,7 +5274,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
@@ -5488,7 +5612,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200176,
       "name": "Normal Day",
       "url": "https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL"
@@ -5554,7 +5678,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188372,
       "name": "NSV",
       "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
@@ -5576,7 +5700,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
@@ -5682,7 +5806,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178347,
       "name": "Oganigwe",
       "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
@@ -5862,7 +5986,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 143408,
       "name": "On Boiz",
       "url": "https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp"
@@ -5954,7 +6078,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Oppress",
       "url": "https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT"
@@ -5976,6 +6100,24 @@
       "duration_ms": 147692,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/4yTwUVvSIjB62K5iQH56hi"
+    },
+    {
+      "album": {
+        "name": "Osimhen",
+        "url": "https://open.spotify.com/album/0qsU8DB7HceYBCzdLbC8Bd"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154416,
+      "name": "Osimhen",
+      "url": "https://open.spotify.com/track/2fYD0mOWlPBjtyVDJx9xI4"
     },
     {
       "album": {
@@ -6114,7 +6256,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
@@ -6536,7 +6678,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
@@ -6636,7 +6778,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
@@ -6754,7 +6896,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131764,
       "name": "Reason (feat. Russ)",
       "url": "https://open.spotify.com/track/6WavyUNdnJk9SRW7ko9ack"
@@ -6834,7 +6976,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146000,
       "name": "ROAD RUNNERS (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
@@ -7138,6 +7280,44 @@
       "duration_ms": 103750,
       "name": "SHINE FOREVER",
       "url": "https://open.spotify.com/track/5GU7NV6PiTRmxWb0Q5D4eH"
+    },
+    {
+      "album": {
+        "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
+        "url": "https://open.spotify.com/album/2ukShFKYrJOb91a6MTOHY1"
+      },
+      "artists": [
+        {
+          "name": "BIG VYBZ",
+          "url": "https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/2cyfzkY6IT0nKHN3s447n8"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        },
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Kabex",
+          "url": "https://open.spotify.com/artist/4qnQPP7La5VmVpnhbYEisU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204216,
+      "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
+      "url": "https://open.spotify.com/track/6nPT4WMAquPU1SSCIeAhqq"
     },
     {
       "album": {
@@ -7504,7 +7684,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 166857,
       "name": "Some Kind Things (feat. PsychoYP & Minz)",
       "url": "https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur"
@@ -7570,7 +7750,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 185411,
       "name": "Soro",
       "url": "https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX"
@@ -7913,6 +8093,28 @@
     },
     {
       "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+    },
+    {
+      "album": {
         "name": "Te Button",
         "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
       },
@@ -7976,6 +8178,24 @@
       "duration_ms": 169463,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh"
+    },
+    {
+      "album": {
+        "name": "Tena",
+        "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Tena",
+      "url": "https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi"
     },
     {
       "album": {
@@ -8372,7 +8592,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
@@ -8656,7 +8876,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
@@ -8960,7 +9180,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 235520,
       "name": "Will Be",
       "url": "https://open.spotify.com/track/3e9rQOdiIk8LP3mFZbzmaS"
@@ -8982,7 +9202,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
@@ -9076,7 +9296,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171089,
       "name": "WOTOWOTO SEASONING (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
@@ -9116,7 +9336,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163685,
       "name": "Wrong Person (with ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"

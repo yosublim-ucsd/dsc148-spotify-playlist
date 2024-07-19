@@ -2,9 +2,9 @@
 
 ### [Türkçe Rock](https://open.spotify.com/playlist/37i9dQZF1DX3RfxtU3KC3j)
 
-> Gitar ve davulu konuşturanlar\. Kapak: Pera
+> Gitar ve davulu konuşturanlar\. Kapak: Yedinci Ev
 
-79 songs - 4 hr 36 min
+85 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ahu Gözlüm](https://open.spotify.com/track/5XKA8HR1B7XDDGKzgwRqII) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Ahu Gözlüm](https://open.spotify.com/album/5DVYAqvVw2E9O4oYxRsYcN) | 3:31 | 2024-07-04 |  |
 | [Ağlama ben ağlarım](https://open.spotify.com/track/0JU2QfhTrgFsVq5yQ4YQlu) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ağlama ben ağlarım](https://open.spotify.com/album/3rgbFg9EMtHdzwrxibL6ha) | 3:11 | 2024-06-28 |  |
 | [AŞK](https://open.spotify.com/track/3mH7s0GWf8dBoaE1BWp652) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [AŞK](https://open.spotify.com/album/6D64xY5V6oi2rPEoTZvf0Z) | 3:34 | 2024-06-28 |  |
-| [Aşk Koydum Adını](https://open.spotify.com/track/3RXxTFXefaVwLXr3sSfikc) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Aşk Koydum Adını](https://open.spotify.com/album/6yRuBLy9CFHEheBA49j3wj) | 3:29 | 2024-06-28 |  |
+| [Aşk Koydum Adını](https://open.spotify.com/track/3RXxTFXefaVwLXr3sSfikc) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Aşk Koydum Adını](https://open.spotify.com/album/6yRuBLy9CFHEheBA49j3wj) | 3:29 | 2024-06-28 | 2024-07-19 |
 | [Aşka Çarem Yok](https://open.spotify.com/track/5GWSVnhx6N0JhmCwpy7Psl) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Aşka Çarem Yok](https://open.spotify.com/album/6zlf0dUxMzZ3Ux1i1QHGq2) | 2:22 | 2024-06-28 |  |
 | [AŞKIN YETER](https://open.spotify.com/track/4YDkwxF2dhSsHoYpJkBJop) | [Athena](https://open.spotify.com/artist/1Hy8tdpH9ygqoohumHZqVl) | [AŞKIN YETER](https://open.spotify.com/album/4Z8B3sKhmd0MLHMzejsUIJ) | 4:02 | 2024-06-28 |  |
 | [B.](https://open.spotify.com/track/64P8LehzuNRGQ5JhswIHNW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [B.](https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki) | 4:47 | 2024-06-28 |  |
@@ -25,11 +25,12 @@
 | [DELİ](https://open.spotify.com/track/6MNo14JU8satRzrCXPLoop) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [DELİ](https://open.spotify.com/album/5FmLvFuIv8OFbFAXhb0Rxv) | 2:22 | 2024-06-28 |  |
 | [Denizaşırı](https://open.spotify.com/track/5XXcl5Fvjoa37WFuzlr3rx) | [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Dünya Tam Karşında](https://open.spotify.com/album/4ce0k7Ts3r5GqNbctjBRVZ) | 3:54 | 2024-06-28 |  |
 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-06-28 |  |
-| [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-28 |  |
-| [Dönmem Ona](https://open.spotify.com/track/0qDqMCfmlenp7J5rqxSe7a) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Dönmem Ona](https://open.spotify.com/album/3UlkVH4hLgdU7woLcs4VBf) | 2:42 | 2024-06-28 |  |
+| [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-28 | 2024-07-19 |
+| [Dönmem Ona](https://open.spotify.com/track/0qDqMCfmlenp7J5rqxSe7a) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Dönmem Ona](https://open.spotify.com/album/3UlkVH4hLgdU7woLcs4VBf) | 2:42 | 2024-06-28 | 2024-07-19 |
 | [Dönüyor Dünya](https://open.spotify.com/track/7pu096e06CJlqTA3sbCdWg) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Dönüyor Dünya](https://open.spotify.com/album/6B6B7k6bdALVbHOXMMBtWZ) | 3:31 | 2024-06-28 | 2024-07-12 |
 | [Düşer O](https://open.spotify.com/track/1Unema2bjnNqsn9jBAHQO4) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Düşer O](https://open.spotify.com/album/0i8dRMz3A8gUMJToxOgBQH) | 3:37 | 2024-06-28 |  |
 | [ESERDİN TENİMDE](https://open.spotify.com/track/3pK21lsBmOGbYKZk6LRDpr) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [ESERDİN TENİMDE](https://open.spotify.com/album/0hwNEUkW4Xs5ngaRoGEGYm) | 2:21 | 2024-06-28 |  |
+| [Farklı Son](https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt) | [13\. Vagon](https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I) | [Farklı Son](https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl) | 2:10 | 2024-07-18 |  |
 | [Gecenin En Güzeli](https://open.spotify.com/track/4siCOv70WIGB1EuMrLyIZO) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Gecenin En Güzeli](https://open.spotify.com/album/5sEPycIdKlDyklOgFPnuem) | 3:55 | 2024-06-28 |  |
 | [Gelme](https://open.spotify.com/track/4nmI7AuuHCSRfKKQMwrSVI) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Gelme](https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd) | 4:13 | 2024-07-11 |  |
 | [Gelme Aklıma](https://open.spotify.com/track/0bv7obkjI5mkQVM3tisQIj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Ölüm Dansı](https://open.spotify.com/album/3BIiOsLIJBsH9UJYFRqfxs) | 3:38 | 2024-06-28 |  |
@@ -38,10 +39,12 @@
 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 | 2024-06-28 |  |
 | [Günü Gelir](https://open.spotify.com/track/1CbzyWVel7o1EX7I2Ir372) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Günü Gelir](https://open.spotify.com/album/2qYc0ORnL9DLjin8pjFzr2) | 2:46 | 2024-06-28 |  |
 | [Güzel Şeyler Var Hayatta](https://open.spotify.com/track/3qzBGn4FE2suwiCO7D0L7S) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Güzel Şeyler Var Hayatta](https://open.spotify.com/album/0zEitsGTiMMvVoq0VvSdJv) | 3:14 | 2024-06-28 | 2024-07-12 |
-| [Halledemedik](https://open.spotify.com/track/6Hmg4U7Vj36yRzo2Ptmqfa) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Halledemedik](https://open.spotify.com/album/3hh8MtdzY8EiNPuc9tYexM) | 4:20 | 2024-06-28 |  |
+| [Halledemedik](https://open.spotify.com/track/6Hmg4U7Vj36yRzo2Ptmqfa) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft), [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [Halledemedik](https://open.spotify.com/album/3hh8MtdzY8EiNPuc9tYexM) | 4:20 | 2024-06-28 | 2024-07-19 |
+| [Hani Nerede?](https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl) | [Meyal](https://open.spotify.com/artist/0w3PlTOI8rZPFSlMG95sBa) | [Hani Nerede?](https://open.spotify.com/album/0721GDLfG8SkkdGdOKN4Iy) | 2:30 | 2024-07-18 |  |
 | [Hep De Yorgun](https://open.spotify.com/track/0ywlnV6QEZneCbbqLev6qL) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [Keşke Herkes](https://open.spotify.com/album/38U7toi0UImOfSe76qxQtE) | 3:05 | 2024-06-28 |  |
 | [Her Şey Sen Kokuyor](https://open.spotify.com/track/61unso6Bp7Hny7oHiYZA3S) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Her Şey Sen Kokuyor](https://open.spotify.com/album/1cmfRNK0K1cnTeLEfNClBC) | 4:19 | 2024-06-28 |  |
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2024-06-28 |  |
+| [İleri](https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp) | [Yaşlı Amca](https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp) | [İleri](https://open.spotify.com/album/7mlUMr8dKwPr6PzCuBvDpA) | 2:56 | 2024-07-18 |  |
 | [İyi Böyle](https://open.spotify.com/track/6bOepoWGi8psgbPDmMq0tF) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Hayali](https://open.spotify.com/album/0mtiJQ5cGF0uZBVw4euHzU) | 4:57 | 2024-06-28 |  |
 | [İçimde Bir Olmaz Var](https://open.spotify.com/track/1Lnw2VA6nXBZLeaUhJLhnJ) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [İçimde Bir Olmaz Var](https://open.spotify.com/album/2jXHuN6jpXkvRY8NZrqFCU) | 3:12 | 2024-07-04 |  |
 | [Kalk Ayağa](https://open.spotify.com/track/38GBhFHE4LtG6a9E3yJwoI) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Kalk Ayağa](https://open.spotify.com/album/75sYa6IBTcmj31qO25kUVr) | 2:39 | 2024-07-11 |  |
@@ -49,6 +52,7 @@
 | [Kibir](https://open.spotify.com/track/6XEHgpBqiWrmVZDCmrOpZ9) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Kibir](https://open.spotify.com/album/3HGINmAbIlGynA3E4sa4BC) | 4:34 | 2024-07-04 |  |
 | [Koca Bir Hataydı \(Seni Tanımak\)](https://open.spotify.com/track/69yMM2HDz1NfT2VXJ2HSGY) | [Parham A.G](https://open.spotify.com/artist/4O3SAIAWxsNuwl5TSxvuYx) | [Daha Anlatacak Çok Şey Var](https://open.spotify.com/album/1g7KnMcmfNQdNgoz8hVkYA) | 3:20 | 2024-06-28 |  |
 | [Kozmos](https://open.spotify.com/track/7yqSLFZ2pNDL91OXpOf41c) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Kozmos](https://open.spotify.com/album/7v6NYYYKRt2zYEUBTTq8MF) | 3:18 | 2024-06-28 |  |
+| [Kuduracaksın](https://open.spotify.com/track/0rUBxHnt6HaW3Gh13TaNNQ) | [Prenslerin Öcü](https://open.spotify.com/artist/1lqrZTifQ9shpyZseCRvc8) | [Kuduracaksın](https://open.spotify.com/album/7G4pt2yd0ny4vJ2sue4E4d) | 3:36 | 2024-07-18 |  |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 | 2024-06-28 |  |
 | [Küs](https://open.spotify.com/track/1BjwltIYnT7iaZXko9BHbf) | [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Küs](https://open.spotify.com/album/2EOgDCDLg7bTsP0FUgV5XE) | 3:10 | 2024-07-04 |  |
 | [Kısa Mesafe](https://open.spotify.com/track/4dnAQt79Fr4q7TVecSb1e7) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/7pRxARASmabm3sMrD8k9Ib) | 2:27 | 2024-06-28 |  |
@@ -59,8 +63,9 @@
 | [Olabilirdik](https://open.spotify.com/track/62rfXEbU2o06c21kYvu4jN) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Olabilirdik](https://open.spotify.com/album/6rlzqJevPRwMcltz4EhNEI) | 3:31 | 2024-06-28 |  |
 | [PİÇ](https://open.spotify.com/track/6mOWYGO4GGTOA5ixHz8S28) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [PİÇ](https://open.spotify.com/album/3FI0Vd5dS1lxf7nTklAAAV) | 3:27 | 2024-06-28 |  |
 | [Razıysan Gel](https://open.spotify.com/track/0YWl5fQhbMl0UZPuew9XdB) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Razıysan Gel](https://open.spotify.com/album/5g1kP0cxSeeHNqWd46Yrze) | 3:57 | 2024-06-28 |  |
+| [Sanrılar Çıldırmış Olmalı \- Live](https://open.spotify.com/track/52MjLPjxtIafUI7SUaAJZ8) | [Görkem Karabudak](https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | ["Topyekün" Live](https://open.spotify.com/album/7sHJfj9KfpT4QV6iPf8HZz) | 6:22 | 2024-07-18 |  |
 | [Sarılmışsın Kendine](https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Sarılmışsın Kendine](https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS) | 3:07 | 2024-07-11 |  |
-| [Sen Benim Başıma Gelen En Güzel Şey](https://open.spotify.com/track/71FCChMWw5JpeSjnrVcKsq) | [Koyu](https://open.spotify.com/artist/2Js3e5F10cX7OgQLr0P071) | [Sen Benim Başıma Gelen En Güzel Şey](https://open.spotify.com/album/1nYfw8wlj1xDvYbimPgu8s) | 3:22 | 2024-06-28 |  |
+| [Sen Benim Başıma Gelen En Güzel Şey](https://open.spotify.com/track/71FCChMWw5JpeSjnrVcKsq) | [Koyu](https://open.spotify.com/artist/2Js3e5F10cX7OgQLr0P071) | [Sen Benim Başıma Gelen En Güzel Şey](https://open.spotify.com/album/1nYfw8wlj1xDvYbimPgu8s) | 3:22 | 2024-06-28 | 2024-07-19 |
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-06-28 |  |
 | [Sen De Vur](https://open.spotify.com/track/0AugK57AdYhs999rbk9G94) | [Eskitilmiş Yaz](https://open.spotify.com/artist/5jqUKWt4bZ92tx05YkDyou) | [Sen De Vur](https://open.spotify.com/album/3zjIJa3gZXAfyeOinsGthE) | 3:37 | 2024-06-28 |  |
 | [Sen ya da Hiç](https://open.spotify.com/track/633Y6jn9RSYF8ivr9QDIYH) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Sen ya da Hiç](https://open.spotify.com/album/35wvdvhXZQoEc9J6OIg3oy) | 3:07 | 2024-06-28 |  |
@@ -79,6 +84,7 @@
 | [Yanında Uyansam](https://open.spotify.com/track/1WiYOf6cDaP1kO6jRlIzuA) | [Kaldı 8](https://open.spotify.com/artist/5G0sEqmrtdGCXbEPCGGmqd) | [Yanında Uyansam](https://open.spotify.com/album/7N2Q13DoGzlFKDtCkjRB7g) | 3:19 | 2024-06-28 |  |
 | [Yarım Kalan](https://open.spotify.com/track/7hsf8ALH2wyFTQ15K88wRv) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18), [Ömer Öz](https://open.spotify.com/artist/3bw3IL3B9fbUsMezrk7tOO) | [Yarım Kalan](https://open.spotify.com/album/6DfrdnkEJ3EaFcZHIooJXl) | 2:58 | 2024-06-28 |  |
 | [Yarısı Yok](https://open.spotify.com/track/4YyqfuvHD2PADGKVTqctxW) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Ölüm Dansı: Kısım 1](https://open.spotify.com/album/4G2d73FCZeQdn3y5Lq1eWH) | 3:14 | 2024-06-28 |  |
+| [Yavaştan Kaçıyorum](https://open.spotify.com/track/6YhnSffFj5HOn7c0HulyyM) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Ufaktan Uzuyorum](https://open.spotify.com/album/24CCQqtyaLCFhHBbkUTUXl) | 3:09 | 2024-07-18 |  |
 | [Yaşayamam Bu Benle](https://open.spotify.com/track/2OC7TDRpQDfWgo9IEBG807) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Yaşayamam Bu Benle](https://open.spotify.com/album/1dxmUVPcMQwPFWLfAP9aRM) | 3:35 | 2024-06-28 |  |
 | [Çilek](https://open.spotify.com/track/3re3q5VMmjZvb0gzQW2Uqs) | [Emre Bulut](https://open.spotify.com/artist/4pD8zrb9qs7AIo9v2a2azF) | [Çilek](https://open.spotify.com/album/6WDpq2TzhRWL7DnxyzeeeE) | 3:09 | 2024-06-28 |  |
 | [Çok Geç Kaldın](https://open.spotify.com/track/7EVqq55PgzK3keIKAb4QO2) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Çok Geç Kaldın](https://open.spotify.com/album/4rhdtRbIHy4JflyyQ8enbZ) | 4:57 | 2024-06-28 |  |
@@ -86,6 +92,6 @@
 | [Ölüm Bizi Bekler](https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Ölüm Bizi Bekler](https://open.spotify.com/album/5qZ8rHGr6EihVN4KV8flfu) | 4:45 | 2024-07-04 |  |
 | [Ömrümün En Güzel Yarısı](https://open.spotify.com/track/4gmBhqrWnmozE2w1znhSPH) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Ömrümün En Güzel Yarısı](https://open.spotify.com/album/42ZwMnkaRdYsnMX3GpP1xG) | 2:56 | 2024-06-28 |  |
 | [Üstü Kalsın](https://open.spotify.com/track/35I2nufa8BdP96DbzpF8xj) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Üstü Kalsın](https://open.spotify.com/album/4wsTLq6zzSDKMv8VadxmME) | 2:25 | 2024-06-28 |  |
-| [Şarkılar Söyle](https://open.spotify.com/track/3JAaYungPHfLfG8KIEmc2Y) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq) | [Şarkılar Söyle](https://open.spotify.com/album/27cJCjJz5O0jzn3GK0n6g6) | 4:03 | 2024-06-28 |  |
+| [Şarkılar Söyle](https://open.spotify.com/track/3JAaYungPHfLfG8KIEmc2Y) | [Ogün Sanlısoy](https://open.spotify.com/artist/6pLClLDuEeB6KdfvPblHSq) | [Şarkılar Söyle](https://open.spotify.com/album/27cJCjJz5O0jzn3GK0n6g6) | 4:03 | 2024-06-28 | 2024-07-19 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

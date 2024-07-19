@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:2LFbgsbEhfilNpQYW7mied\">Shane & Shane</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:3dm6lDgdQh05XDHGhb9XQf\">Leanna Crawford</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202703,
+      "name": "Always Only Jesus - Single Version",
+      "url": "https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH"
+    },
+    {
+      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169118,
       "name": "Be Ready",
       "url": "https://open.spotify.com/track/3THF58ndjL9QZhepppzSSo"
@@ -2342,10 +2360,32 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170854,
       "name": "Grave Robber",
       "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+    },
+    {
+      "album": {
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R"
     },
     {
       "album": {
@@ -2899,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Still Waters",
+        "url": "https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232797,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
+    },
+    {
+      "album": {
         "name": "Honestly, We Just Need Jesus",
         "url": "https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz"
       },
@@ -3040,6 +3098,24 @@
       "duration_ms": 187205,
       "name": "How Far",
       "url": "https://open.spotify.com/track/2hsIHeHeOebx5PRTSHQKrL"
+    },
+    {
+      "album": {
+        "name": "Worldwide Revival (Pt. 1)",
+        "url": "https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192599,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR"
     },
     {
       "album": {
@@ -3448,7 +3524,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194211,
       "name": "If God Wrote A Song",
       "url": "https://open.spotify.com/track/2B3fZRkEZiLR5vqpDxLYTy"
@@ -3810,6 +3886,24 @@
       "duration_ms": 216286,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg"
+    },
+    {
+      "album": {
+        "name": "Just As You Are",
+        "url": "https://open.spotify.com/album/7iXp686U9fTrJWh0J8CikJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191025,
+      "name": "Just As You Are",
+      "url": "https://open.spotify.com/track/3DSvR7L5lAL7aRstFO9xCb"
     },
     {
       "album": {
@@ -5291,6 +5385,24 @@
     },
     {
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/0Kaib6L3q1EUeAbqFBgcap"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/0ZjS6dbLy2DKiGkl8PJ78w"
+    },
+    {
+      "album": {
         "name": "Praise The Lord",
         "url": "https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn"
       },
@@ -6687,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "The Lord's Work",
+        "url": "https://open.spotify.com/album/0UcnB8aCmnyoE9RzedDFfN"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202298,
+      "name": "The Lord's Work",
+      "url": "https://open.spotify.com/track/6xAp8QNvjVOvkOnNYC6ZUC"
+    },
+    {
+      "album": {
         "name": "The Love Of Jesus",
         "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
       },
@@ -6770,7 +6900,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211434,
       "name": "The Unbelievable",
       "url": "https://open.spotify.com/track/4CZuzmQZMpq6VZDeis8Fay"
@@ -6846,6 +6976,28 @@
       "duration_ms": 238134,
       "name": "There Is Freedom",
       "url": "https://open.spotify.com/track/5v9XGYeVeVbuGnYJEaesoh"
+    },
+    {
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290600,
+      "name": "These are the Days (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
     },
     {
       "album": {
@@ -6986,7 +7138,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 225681,
       "name": "To Not Worship You",
       "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
@@ -7240,6 +7392,24 @@
       "duration_ms": 194580,
       "name": "What Are We Waiting For? (The Single)",
       "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
+    },
+    {
+      "album": {
+        "name": "What God Is Gonna Do",
+        "url": "https://open.spotify.com/album/1VARoADcYqrhwnvwQjVj9D"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259552,
+      "name": "What God Is Gonna Do",
+      "url": "https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn"
     },
     {
       "album": {
@@ -7638,7 +7808,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210089,
       "name": "Worldwide Revival",
       "url": "https://open.spotify.com/track/3nQGmb3jjF4OWQIymxx8c2"

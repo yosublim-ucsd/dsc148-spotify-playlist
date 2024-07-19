@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,369 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,394 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 25 | [El Divisorio \- Radio Edit](https://open.spotify.com/track/0RmiIXsRDzmubkekY8z8H0) | [Alidiana Silverkin](https://open.spotify.com/artist/19PdahZWgYm3FYFLTIFHUA) | [Italy Lounge Cafè](https://open.spotify.com/album/7blXYIop6bv2c3x5YB6Tce) | 3:09 |
 | 26 | [I Love You More Than Myself \- Lannka Remix](https://open.spotify.com/track/09eUMwKsrAadkq96GM04BH) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Lannka](https://open.spotify.com/artist/4uJmyKMSQLJhB0gN5CAmSG) | [I Love You More Than Myself](https://open.spotify.com/album/6Q3vt3kJvZaGLm8PfezkFQ) | 7:10 |
 | 27 | [Benjamín Carrión](https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Alterego](https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2) | 2:57 |
-| 28 | [Remedios \- Radio\-Edit](https://open.spotify.com/track/7kjg968TRnMo8133PxwGEd) | [Pizeta](https://open.spotify.com/artist/6eU8OJ3ZbHoMGFmDcSyE75) | [Remedios](https://open.spotify.com/album/4NKNRBIF64TMYCh3pjpZgQ) | 3:05 |
+| 28 | [Remedios \- Radio Edit](https://open.spotify.com/track/7kjg968TRnMo8133PxwGEd) | [Pizeta](https://open.spotify.com/artist/6eU8OJ3ZbHoMGFmDcSyE75) | [Remedios](https://open.spotify.com/album/4NKNRBIF64TMYCh3pjpZgQ) | 3:05 |
 | 29 | [Quiero \- Radio Edit](https://open.spotify.com/track/60MvW5eHV1a7iyQk3Ne2le) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4), [Anissa Damali](https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns), [III](https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2) | [Gager](https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y) | 3:10 |
 | 30 | [Wild Child](https://open.spotify.com/track/1peAdzDTjiouIBWJYwELwM) | [Archil & Leon](https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI) | [Wild Child](https://open.spotify.com/album/6zTlmvoAvxIPvT1WtkKI8m) | 4:09 |
 | 31 | [omoge \- Radio Edit](https://open.spotify.com/track/3ctzSKGGSgsUVGCL42dcq4) | [sway johnson](https://open.spotify.com/artist/5ephYUeIkkNCW2Zs2IYlWV), [Myroe](https://open.spotify.com/artist/30Eb3MWQ1NuT6u3K4UEfVr) | [lagos to manchester \(Deluxe edition\)](https://open.spotify.com/album/6m59Qwe870q40Bfga5eN0w) | 1:20 |

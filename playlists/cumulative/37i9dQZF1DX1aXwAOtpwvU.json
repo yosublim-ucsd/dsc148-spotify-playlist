@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190206,
       "name": "Czuj\u0119, wi\u0119c jestem?",
       "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
@@ -706,6 +706,24 @@
       "duration_ms": 241040,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5"
+    },
+    {
+      "album": {
+        "name": "Instalacja I",
+        "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Dwa Tygodnie",
+      "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
     },
     {
       "album": {
@@ -1494,6 +1512,24 @@
       "duration_ms": 177646,
       "name": "Maria, Maria (Agora Muzyka Live Sessions)",
       "url": "https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD"
+    },
+    {
+      "album": {
+        "name": "MAZZY STAR",
+        "url": "https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "MAZZY STAR",
+      "url": "https://open.spotify.com/track/6X3KI73fpy5JXkfzElB89D"
     },
     {
       "album": {
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192100,
       "name": "Puszczaj",
       "url": "https://open.spotify.com/track/3pGuVG2rKFSKWuqtKahAS1"
@@ -2991,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Upadki i wzloty",
+        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Upadki i wzloty",
+      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
+    },
+    {
+      "album": {
         "name": "Wczoraj",
         "url": "https://open.spotify.com/album/3C5tWyJxsBxnKHmUuyATe6"
       },
@@ -3074,7 +3128,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190967,
       "name": "Wsch\u00f3d",
       "url": "https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x"

@@ -4,7 +4,7 @@
 
 > De beste Alternative, Indie en Rock van nu! Cover: Fontaines D.C.
 
-56 songs - 3 hr 22 min
+60 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Feeling Alright](https://open.spotify.com/track/2ImmcMcg2xlKwKXIzinlKK) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Feeling Alright](https://open.spotify.com/album/4yKCw9bersno18GJdoQDpI) | 3:37 | 2024-06-26 |  |
 | [Fly Like Me](https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Fly Like Me](https://open.spotify.com/album/4JNpgGiRlMT6DYwyVjg1Jb) | 3:02 | 2024-06-26 |  |
 | [For My Mind](https://open.spotify.com/track/2RmHzwcC72loQo73q9pAJP) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 6:02 | 2024-06-26 |  |
+| [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-18 |  |
 | [Hot Love](https://open.spotify.com/track/7oVZRiYQvW2KxELvhwEJ0t) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Corner Cutter](https://open.spotify.com/album/2oVRCSn7HvXRlNN9f7nFtE) | 3:18 | 2024-06-26 |  |
 | [how bad could it be](https://open.spotify.com/track/4Dj8VDoJPIYkryOKrJdI0e) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:08 | 2024-06-26 |  |
 | [Hungry](https://open.spotify.com/track/4fECwnyeUV7tFEwIsMmPBv) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Orange Skyline](https://open.spotify.com/album/1cZw7eM6QA6xt1dWKIjWL6) | 2:50 | 2024-06-26 | 2024-07-12 |
@@ -35,14 +36,17 @@
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-26 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-07-11 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2024-06-26 | 2024-07-12 |
-| [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/4W3lWptVUZBrCarHkiLniA) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 4:06 | 2024-06-26 |  |
-| [Must Have Been New](https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [How To Replace It](https://open.spotify.com/album/0VwdLX4EvZMcaFwd7fWtil) | 3:46 | 2024-06-26 |  |
+| [Money \(Hope Ain’t Gone\)](https://open.spotify.com/track/4W3lWptVUZBrCarHkiLniA) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 4:06 | 2024-06-26 | 2024-07-19 |
+| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-07-18 |  |
+| [Must Have Been New](https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [How To Replace It](https://open.spotify.com/album/0VwdLX4EvZMcaFwd7fWtil) | 3:46 | 2024-06-26 | 2024-07-19 |
+| [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-07-18 |  |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-06-26 |  |
+| [No One Is Innocent](https://open.spotify.com/track/1EKs3esr4su4Ue3giL0Kpx) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Decent Sex](https://open.spotify.com/album/4nZedGZUFguFyyZxZmcrt5) | 2:00 | 2024-07-18 |  |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-06-26 |  |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-06-26 |  |
-| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2024-06-26 |  |
+| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2024-06-26 | 2024-07-19 |
 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 | 2024-07-11 |  |
-| [One More](https://open.spotify.com/track/0fkzqZcxXDBGuYrbP8DHNE) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [In Between Borderlines](https://open.spotify.com/album/027Ba0mbr086Fq8ax1yFR1) | 2:40 | 2024-06-26 |  |
+| [One More](https://open.spotify.com/track/0fkzqZcxXDBGuYrbP8DHNE) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [In Between Borderlines](https://open.spotify.com/album/027Ba0mbr086Fq8ax1yFR1) | 2:40 | 2024-06-26 | 2024-07-19 |
 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 | 2024-06-26 |  |
 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 | 2024-06-26 |  |
 | [Perfect](https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Perfect](https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n) | 2:33 | 2024-06-26 |  |

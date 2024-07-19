@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music\. <br/>Cover: KUCKA
 
-687 songs - 2 day 1 hr 47 min
+688 songs - 2 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2022-12-22 | 2023-02-17 |
 | [Hollow](https://open.spotify.com/track/6vOXXLWbCQGLrVdnHYHWce) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/5AT27ohVd42E695quyMiB1) | 4:36 | 2022-12-08 | 2023-01-06 |
 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 | 2024-04-16 | 2024-04-19 |
-| [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-04-16 |  |
+| [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-04-16 | 2024-07-19 |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-02 | 2023-04-21 |
 | [House Check \- Closet Yi Dub Me Up Remix](https://open.spotify.com/track/4OjAjAgNHsibaCov2OsoUp) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [House Check \(feat\. Big Skeez\) \[Closet Yi Dub Me Up Remix\]](https://open.spotify.com/album/27vbblbuvaFygfBZSyITFW) | 5:47 | 2023-03-02 | 2023-03-31 |
 | [House It Up](https://open.spotify.com/track/0UU5UlRFelAO158QCw83lQ) | [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [House It Up](https://open.spotify.com/album/0d4d4nnLEZARgdCthJG0KJ) | 3:04 | 2022-12-08 | 2023-01-27 |
@@ -442,6 +442,7 @@
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-06 | 2023-10-06 |
 | [Numerical Deviant](https://open.spotify.com/track/5riCAgpEpSfrYmwfHQfTI1) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Numerical Deviant \(Part of Dekmantel Ten: A Decade of Dekmantel Festival \- Selectors\)](https://open.spotify.com/album/1NAQDiilBVtIuAsJGn1UEQ) | 5:05 | 2024-07-11 |  |
 | [o4k](https://open.spotify.com/track/2ypGQxlnHRUJOqJxu9VZLf) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [back to self](https://open.spotify.com/album/5yYN0vbOs2Q2kENkgFR0Sj) | 5:39 | 2023-09-21 | 2023-11-10 |
+| [Obsession](https://open.spotify.com/track/6pbfREdpBbzdDYJrjD84BE) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf), [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Big Beat Manifesto Vol\. IX](https://open.spotify.com/album/1TRIYKdhcgoyVS8RsmIB8r) | 5:39 | 2024-07-18 |  |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-08 | 2023-09-22 |
 | [okay o.k\. ok](https://open.spotify.com/track/0Jt2ewAbUBWbpWqD2TfRN2) | [davey](https://open.spotify.com/artist/7D84vm1nZXH6drPV8L9e6D) | [okay o.k\. ok](https://open.spotify.com/album/54NMCjOftWns4fxTS2tcU3) | 5:18 | 2024-05-30 |  |
 | [oma?](https://open.spotify.com/track/3N807l2uw7XKvyhUY3upQw) | [skinnyandsoft](https://open.spotify.com/artist/0lqAObgcnAd8iRd0DFaq2z) | [showhilla](https://open.spotify.com/album/3lldawWdld12xyFRNLmC0t) | 2:49 | 2024-06-13 |  |

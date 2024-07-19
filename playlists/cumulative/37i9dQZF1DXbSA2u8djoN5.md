@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Mgk666
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Satra B.E.N.Z., Alduts Sherdley
 
-55 songs - 2 hr 38 min
+56 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,12 +49,13 @@
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 |  |
 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 |  |
-| [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 |  |
+| [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [REGELE S\-A ÎNTORS](https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol) | [REGELE S\-A ÎNTORS](https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 |  |
 | [Sper Ca Esti Bine](https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E) | 2:53 | 2024-06-27 |  |
 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 | 2024-06-27 |  |
 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 | 2024-06-27 |  |
+| [TURURU](https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [TURURU](https://open.spotify.com/album/71Md4y07hO846ju9W6MVjK) | 2:19 | 2024-07-18 |  |
 | [Victoria](https://open.spotify.com/track/2TMLnhAtlKRTzU45ag82se) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Cel mai frumos show](https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b) | 2:54 | 2024-06-27 |  |
 | [VIEW](https://open.spotify.com/track/7b2QrCqjeZBKt0bvc5fP0S) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [VIEW](https://open.spotify.com/album/2HSJcRXaC5TaVo3sySevhK) | 2:57 | 2024-06-27 |  |
 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 | 2024-06-27 |  |

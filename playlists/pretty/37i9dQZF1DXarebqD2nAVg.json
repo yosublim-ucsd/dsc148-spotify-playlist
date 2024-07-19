@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 448904,
+  "num_followers": 448952,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Call It A Night",
-        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
-      },
-      "artists": [
-        {
-          "name": "jon pm",
-          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Call It A Night",
-      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "typewriter",
         "url": "https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 123500,
       "name": "typewriter",
       "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Call It A Night",
+        "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
+      },
+      "artists": [
+        {
+          "name": "jon pm",
+          "url": "https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Call It A Night",
+      "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "falling behind",
-        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "falling behind",
-      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "reflections in water",
         "url": "https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 134030,
       "name": "Fonnes",
       "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "falling behind",
+        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "falling behind",
+      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-06-14 04:00:00",

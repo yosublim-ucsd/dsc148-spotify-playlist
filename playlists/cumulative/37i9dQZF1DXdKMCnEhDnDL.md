@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-267 songs - 13 hr 55 min
+268 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Als Geen Ander](https://open.spotify.com/track/1QzzCEcKxcELzdJcHpinQ6) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Geen Ander](https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP) | 3:30 | 2023-02-24 | 2023-06-15 |
 | [Als Ik God Was](https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Als Ik God Was](https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG) | 2:52 | 2024-01-09 | 2024-02-08 |
 | [Als Ik Je Weer Zie](https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Als Ik Je Weer Zie](https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI) | 3:27 | 2023-02-24 |  |
-| [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-24 |  |
+| [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 | 2023-02-24 | 2024-07-19 |
 | [Als Thuis](https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Thuis](https://open.spotify.com/album/31p5uf3ZYI7baJgMyvGz7l) | 2:59 | 2023-04-14 | 2023-09-02 |
 | [Altijd Al Beloofd](https://open.spotify.com/track/33PP2svLoyHP37hG5zChe0) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Altijd Al Beloofd](https://open.spotify.com/album/3y0c9HEcdDwFX29z1iWApy) | 2:46 | 2023-06-14 | 2023-09-29 |
 | [Altijd Onderweg](https://open.spotify.com/track/2510MF3xvG8LgOC1RVxF5U) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Altijd Onderweg](https://open.spotify.com/album/7K7CynIwvLxVkzLCmjxDbJ) | 2:57 | 2023-11-10 | 2024-07-10 |
@@ -141,6 +141,7 @@
 | [Kwijt](https://open.spotify.com/track/6P3cbZ06AN6B5vcF1cyOz1) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:51 | 2024-02-02 | 2024-07-05 |
 | [Kwijt](https://open.spotify.com/track/1dbNg2ougivyUv6f9hQQzU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Kwijt](https://open.spotify.com/album/3HdzIBLsdVX4RTuA4zxumb) | 3:15 | 2023-02-24 | 2023-09-29 |
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2023-02-24 | 2024-02-14 |
+| [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 | 2024-07-18 |  |
 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 | 2023-09-14 | 2024-03-20 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-24 |  |
 | [Layla](https://open.spotify.com/track/6FMSr8c96TqAORZ2HD9X0R) | [Artidox](https://open.spotify.com/artist/4WWh35kZbEtVmBQRT3khnE), [stanasx](https://open.spotify.com/artist/7dtn3jnlYVynQjwtdqtno7), [keremrxd](https://open.spotify.com/artist/7wsx4sDyMTp2HyXw50iJGV) | [Layla](https://open.spotify.com/album/53xBYPf2oUgNsOlw56PdqZ) | 2:45 | 2024-02-02 | 2024-04-19 |

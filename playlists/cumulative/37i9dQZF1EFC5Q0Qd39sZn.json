@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Famous!!",
+        "url": "https://open.spotify.com/album/29Z94JolxoEI6tDEs6hdFA"
+      },
+      "artists": [
+        {
+          "name": "Atom",
+          "url": "https://open.spotify.com/artist/6ouXEmrFaAFtn4yuey2FZP"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Be What You Believe",
+      "url": "https://open.spotify.com/track/6CdJYex2CvK70h0xvO2pUc"
+    },
+    {
+      "album": {
         "name": "Beautiful Scars",
         "url": "https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw"
       },

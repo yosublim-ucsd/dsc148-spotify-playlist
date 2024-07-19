@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more!",
-  "num_followers": 23398,
+  "num_followers": 23397,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAg4ZnfDPJuylydSpjsz6GWjRHtPZsD",
+  "snapshot_id": "AAAg42qWwKK90vAbSnM2hf2ICMdxDwlr",
   "tracks": [
     {
       "added_at": "2024-07-12 04:18:58",
@@ -1639,6 +1639,46 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
+    },
+    {
+      "added_at": "2024-07-19 05:15:42",
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 210931,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
+    },
+    {
+      "added_at": "2024-07-19 05:16:53",
+      "album": {
+        "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+        "url": "https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "PlayThatBoiZay",
+          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 129403,
+      "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

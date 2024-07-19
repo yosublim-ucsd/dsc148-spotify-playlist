@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 438142,
+  "num_followers": 438671,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
-      },
-      "artists": [
-        {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 233960,
       "name": "Samba de mon c\u0153ur qui bat",
       "url": "https://open.spotify.com/track/4zXKbHN9FKRTIirYQdMRqI"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 223880,
       "name": "Que je t'aime",
       "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
-        }
-      ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Little French Songs (Deluxe Version Without Videos)",
         "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 216282,
       "name": "Libert\u00e9",
       "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Paris - I Love You",
-        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Et Guillaume",
-          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Un Homme Et Une Femme",
-      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 146306,
       "name": "Baudelaire",
       "url": "https://open.spotify.com/track/5j9Z3X3FAsyZGEdEptMepT"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Paris - I Love You",
+        "url": "https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Et Guillaume",
+          "url": "https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Un Homme Et Une Femme",
+      "url": "https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
+        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
-        "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Gainsbourg percussions",
-        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 125200,
-      "name": "Ces petits riens",
-      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Mon Amie La Rose",
         "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 123078,
       "name": "Mon Amie La Rose",
       "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Gainsbourg percussions",
+        "url": "https://open.spotify.com/album/1eSbBUNhdkrDtfqVHn3sS1"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 125200,
+      "name": "Ces petits riens",
+      "url": "https://open.spotify.com/track/71HYFVkUfN5ptKggYNJOHF"
     },
     {
       "added_at": "2024-06-03 11:39:48",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk\n",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Indochine",
   "name": "Volume France",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 196177,
       "name": "Aha (it's ok)",
       "url": "https://open.spotify.com/track/25hjwH9ePERli6DDv8x7Kf"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1pGnimBDzP86WP8TX6M0qn"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4e3KUQvGL2RdTEtlhfHz8e"
     },
     {
       "album": {
@@ -726,7 +744,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 300213,
       "name": "Clean Shot",
       "url": "https://open.spotify.com/track/5KTvB4hl3g3BJQYJbG8tmD"
@@ -856,6 +874,24 @@
       "duration_ms": 234000,
       "name": "Constant Rebirth",
       "url": "https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ"
+    },
+    {
+      "album": {
+        "name": "Corrosion",
+        "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
+      },
+      "artists": [
+        {
+          "name": "Vestige",
+          "url": "https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316462,
+      "name": "Corrosion",
+      "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
     },
     {
       "album": {
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179982,
       "name": "Fake Generation",
       "url": "https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9"
@@ -1612,7 +1648,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205506,
       "name": "I'm Picky - Unplugged",
       "url": "https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8"
@@ -2541,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Oublie-Moi",
+        "url": "https://open.spotify.com/album/1MX8g82qAIy1CxxYI2L6O4"
+      },
+      "artists": [
+        {
+          "name": "Silmarils",
+          "url": "https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Oublie-Moi",
+      "url": "https://open.spotify.com/track/0WGptJ1qOflBWrp4xO5vhX"
+    },
+    {
+      "album": {
         "name": "OWL IN OWL",
         "url": "https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7"
       },
@@ -2790,6 +2844,24 @@
       "duration_ms": 202351,
       "name": "Regenerated",
       "url": "https://open.spotify.com/track/1syfjH2Wx6MclvB7YFkUbB"
+    },
+    {
+      "album": {
+        "name": "Shaka Ponk",
+        "url": "https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Resign",
+      "url": "https://open.spotify.com/track/5PNyY0cSYmRednV5H3wROh"
     },
     {
       "album": {
@@ -3752,7 +3824,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218053,
       "name": "There's Nothing After",
       "url": "https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI"

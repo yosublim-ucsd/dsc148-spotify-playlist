@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,493 likes - 120 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,504 likes - 120 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

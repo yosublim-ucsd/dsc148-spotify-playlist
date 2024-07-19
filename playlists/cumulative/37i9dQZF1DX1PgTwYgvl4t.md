@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=f30pYG6KQaiHmVDQayf2lg>Victoria Orenze</a>
 
-68 songs - 7 hr 44 min
+69 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
+| [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 |  |
 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 | 2024-05-09 |  |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2024-05-09 |  |
 | [My Helper \(Atekomi\)](https://open.spotify.com/track/45yd0S5IxTZ6zeq6Avq943) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [My Helper \(Atekomi\)](https://open.spotify.com/album/3OT8IZx4WclzxXmarzqnfl) | 4:35 | 2024-06-28 |  |

@@ -4,7 +4,7 @@
 
 > 8月17日\~18日に開催される<a href="https://spotify\-earlynoise.jp/">RADAR:Early Noise Stage in SUMMER SONIC 2024</a>出演アーティストを特集！
 
-53 songs - 2 hr 51 min
+54 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-05-16 |  |
 | [シニスター](https://open.spotify.com/track/3LQgY2kGn9BYf8E7WIbW6Q) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [シニスター](https://open.spotify.com/album/3en4RwQh65pS5GtV9cZCcn) | 3:38 | 2024-05-16 | 2024-07-10 |
 | [ジャージ](https://open.spotify.com/track/6oSMcbm3LKdqMr1oJH0SqU) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [鯖ノ壱](https://open.spotify.com/album/6Y77alsaXEOMcPRN98sjXp) | 2:35 | 2024-05-16 |  |
+| [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 | 2024-07-19 |  |
 | [ハニートラップ](https://open.spotify.com/track/74CwJftVUW6rfZzjSpUYtL) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ハニートラップ](https://open.spotify.com/album/2nJWHjKuLSpz5mffWM6Ojm) | 3:25 | 2024-07-10 |  |
 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 | 2024-05-16 |  |
 | [ランタン](https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [ランタン](https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe) | 3:26 | 2024-05-16 | 2024-07-10 |
@@ -59,7 +60,7 @@
 | [花瓶](https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:27 | 2024-05-16 |  |
 | [花筏](https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [花筏](https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf) | 4:35 | 2024-07-10 |  |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-16 |  |
-| [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-16 |  |
+| [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-16 | 2024-07-19 |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-10 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

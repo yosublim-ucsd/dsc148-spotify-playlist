@@ -2,9 +2,9 @@
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This Is Luis R Conriquez\. Los temas esenciales, todos en una lista.
+> This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-159 songs - 7 hr 58 min
+160 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2023-01-20 | 2023-01-29 |
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-19 |  |
 | [De Aqui Paya](https://open.spotify.com/track/6U5rCJ8xJmZxNe3fbg1X7Q) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos 2019 Vol\. 2](https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D) | 2:58 | 2022-06-01 | 2024-07-06 |
-| [De Ellas](https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Ellas](https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN) | 3:57 | 2024-04-28 |  |
+| [De Ellas](https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Ellas](https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN) | 3:57 | 2024-04-28 | 2024-07-19 |
 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 | 2023-12-13 |  |
 | [De Mezclilla el Chalecón](https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Mezclilla el Chalecón](https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG) | 2:34 | 2023-12-16 | 2024-01-26 |
 | [De Seattle Hasta San Diego](https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [De Seattle Hasta San Diego](https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f) | 3:22 | 2022-06-01 | 2022-10-13 |
@@ -48,6 +48,7 @@
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-08 |  |
 | [Derecho y Chueco \- Remix](https://open.spotify.com/track/6mqV7n0DqV2Q32lNINvOCp) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alianza Records](https://open.spotify.com/artist/4anqekkqPxN6yzpLYCL7h6) | [Derecho y Chueco \(Remix\)](https://open.spotify.com/album/2onNOIdR3EEqDks8WalBKs) | 2:37 | 2024-04-14 |  |
 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 | 2022-10-17 | 2023-06-24 |
+| [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 | 2024-07-19 |  |
 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 | 2023-03-13 | 2024-01-08 |
 | [El 2](https://open.spotify.com/track/41kC1zrv2t2Tb683qkSUQz) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 3:18 | 2024-03-21 | 2024-04-13 |
 | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/track/2Baeml3Al7Wts8T8rJHNCt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [El 27 o el Perris \(En Vivo\)](https://open.spotify.com/album/46BHSHTKsQezmW3lZoikjI) | 3:50 | 2023-02-25 | 2023-07-03 |

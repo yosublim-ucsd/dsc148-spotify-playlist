@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros y el Chaqueño Palaveccino.
 
-169 songs - 9 hr 24 min
+170 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [Eterno Amor \(En Vivo\)](https://open.spotify.com/track/2uSn8VGgamdhCKDqdasxHQ) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Eterno Amor \(En Vivo\)](https://open.spotify.com/album/6gJiMu8AMgn0ydw4WDDefD) | 4:08 | 2024-04-11 |  |
 | [Febrero Es Carnaval](https://open.spotify.com/track/5sGFvenxnClUZ6cV89v6Gh) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 3:25 | 2022-07-01 | 2023-10-06 |
 | [Febrero Es Carnaval](https://open.spotify.com/track/3P2jmXKi39mCteMPCY8npI) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 3:23 | 2021-12-31 | 2022-07-29 |
+| [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 | 2024-07-19 |  |
 | [Gato del Festival](https://open.spotify.com/track/4KHBPKKzPuPtj5I73AAXpX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Yámana](https://open.spotify.com/artist/54aqhNJ3tynW46SOwMR9hT) | [Gato del Festival](https://open.spotify.com/album/3HLPRr5dA9yuJMlirISWxr) | 2:08 | 2021-12-31 |  |
 | [Hay Amores que Matan](https://open.spotify.com/track/1GFf0SJRyglqz9NmkWmI9c) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/031ofAXQHoOE98pHJhAwNy) | 3:06 | 2023-05-12 | 2024-04-12 |
 | [Hay Amores que Matan](https://open.spotify.com/track/2FPOXYQnJRORQdRxy2nQzz) | [Ricardo Palavecino](https://open.spotify.com/artist/0Fb3MQOrO8SlKdeVtMB75H) | [Coplas Viajeras](https://open.spotify.com/album/4qJQXvSgPdJz3crYm4t0uO) | 3:06 | 2021-12-31 | 2023-05-16 |
-| [Hay Que Esperar](https://open.spotify.com/track/2idxkMAtyKTQ7t4Xuu8W2T) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:39 | 2021-12-31 |  |
+| [Hay Que Esperar](https://open.spotify.com/track/2idxkMAtyKTQ7t4Xuu8W2T) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:39 | 2021-12-31 | 2024-07-19 |
 | [Ilusión de Carnaval](https://open.spotify.com/track/7zm6z0z9F1m57JEGqre5Io) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Ilusión de Carnaval](https://open.spotify.com/album/6a88iIbN8DnXF4cHcdyTx1) | 2:58 | 2021-12-31 | 2024-06-01 |
 | [Juan de la Calle](https://open.spotify.com/track/3DPLr9BavOPisMFAHwsCCJ) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 2:53 | 2021-12-31 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/6jIh1e1KgSF5c7FaK0rmC5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR) | 2:55 | 2022-07-01 | 2023-10-06 |

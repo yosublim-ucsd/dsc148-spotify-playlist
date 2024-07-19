@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring TIM\u00d8.",
+  "description": "Pop on the rise you should know, featuring Ela Taubert.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163770,
       "name": "De Bien a Mal",
       "url": "https://open.spotify.com/track/2TweCNUiC4VVceGtQ5LuTc"
@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "album": {
         "name": "De Mi Para Ti",
         "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
       },
@@ -3766,6 +3784,28 @@
       "duration_ms": 228533,
       "name": "escapar de m\u00ed",
       "url": "https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV"
+    },
+    {
+      "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
     },
     {
       "album": {
@@ -7206,7 +7246,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 189821,
       "name": "Nuestro A\u00f1o",
       "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
@@ -10568,6 +10608,24 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "album": {

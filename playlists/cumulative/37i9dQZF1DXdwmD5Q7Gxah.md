@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> happy 5 years of lorem\. thank you for listening :\) cover: Clairo
+> happy 5 years of lorem\. thank you for listening :\) cover: ROLE MODEL
 
-2,887 songs - 6 day 11 hr 53 min
+2,894 songs - 6 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 | 2021-04-16 | 2021-06-05 |
 | [better](https://open.spotify.com/track/15rVXXprHKchfNG4kLnIqP) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [better](https://open.spotify.com/album/7lMnNy8LhfkEOIhhXMhFs2) | 2:49 | 2022-04-29 | 2022-06-04 |
 | [better for you](https://open.spotify.com/track/7qpdb7GwgedBMJwWiyTgR6) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [better for you](https://open.spotify.com/album/5jZoOcBo5F78LdlVs3Np2M) | 3:18 | 2020-06-25 | 2020-08-20 |
+| [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-19 |  |
 | [Better Off Without](https://open.spotify.com/track/4gxt8XsAnuWAgRR3bCjoVi) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 2:58 | 2022-05-20 | 2022-06-22 |
 | [Better Than I Know Myself](https://open.spotify.com/track/4PawewnYu8lyLk3DX1RCNu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:22 | 2022-06-03 | 2022-06-18 |
 | [Better Than You Found Me](https://open.spotify.com/track/4GTNljZipQMiMorVaaU6sA) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Better Than You Found Me](https://open.spotify.com/album/4BZDpUEyuf9X2w106KXATg) | 2:58 | 2024-03-15 | 2024-05-11 |
@@ -914,6 +915,7 @@
 | [Found!](https://open.spotify.com/track/1FgY491AT8WYmMgZgWLfkz) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Drive Home](https://open.spotify.com/album/6Dj3kYhkZnX3gleTXi1a8r) | 5:05 | 2023-05-26 | 2023-10-03 |
 | [Four Below](https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Four Below](https://open.spotify.com/album/6AONJTIWKcZw9AmDC9sUze) | 2:48 | 2022-12-07 | 2023-01-28 |
 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 | 2019-10-25 | 2020-01-10 |
+| [Frances](https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:52 | 2024-07-19 |  |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-05-15 | 2022-04-09 |
 | [FRANKIE MUNIZ](https://open.spotify.com/track/1E8O2FNVuBRkXdS33iULOV) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [FRANKIE MUNIZ](https://open.spotify.com/album/6uSQN4AgIUSdhU3tjNgg5v) | 3:38 | 2020-09-25 | 2021-01-12 |
 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 | 2024-01-10 | 2024-03-28 |
@@ -968,6 +970,7 @@
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-02 | 2023-04-15 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2021-06-05 | 2021-12-02 |
 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 | 2022-08-08 | 2022-12-24 |
+| [Girls](https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 1:59 | 2024-07-19 |  |
 | [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-20 |  |
 | [Girls Like You](https://open.spotify.com/track/1zN8DmlT9GwQKXwIszMPO3) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Girls Like You](https://open.spotify.com/album/6ZyjGSxG2N0XyVY4XK4nLZ) | 3:18 | 2024-03-08 | 2024-04-27 |
 | [Girls That Play](https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls That Play](https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx) | 3:22 | 2024-01-12 | 2024-02-23 |
@@ -1044,6 +1047,7 @@
 | [Guard Down](https://open.spotify.com/track/4Qx7ThsDRXzhxxAaSPLlI6) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Guard Down](https://open.spotify.com/album/5v6JyuSddGvPBgxxo04ljf) | 3:26 | 2021-02-10 | 2021-03-06 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-09 | 2021-09-25 |
 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 | 2022-04-08 | 2022-05-04 |
+| [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-19 |  |
 | [GUM](https://open.spotify.com/track/7HO5QGBU5COHjt0o7Vz62R) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [GUM](https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU) | 3:33 | 2021-06-24 | 2021-11-13 |
 | [Gum](https://open.spotify.com/track/4LEjWglTBWv0YVZ64CepPO) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:32 | 2022-08-05 | 2023-01-19 |
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-24 | 2023-04-09 |
@@ -1395,6 +1399,7 @@
 | [King of Everything](https://open.spotify.com/track/5IWW129DwGyMVQAbaJz3rS) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 3:14 | 2022-11-21 | 2023-04-15 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2021-04-10 | 2021-07-31 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-08-02 | 2022-09-24 |
+| [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 | 2024-07-19 |  |
 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 | 2020-05-29 | 2021-01-12 |
 | [Kneepads](https://open.spotify.com/track/4nrMhdklAbLUkHRv1H7YkA) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Welcome to the Witching Hour](https://open.spotify.com/album/2gUR7ulwZBk5lmGHkwlhKX) | 2:35 | 2021-03-19 | 2021-11-13 |
 | [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:06 | 2023-11-07 | 2024-01-11 |
@@ -1649,6 +1654,7 @@
 | [Molang](https://open.spotify.com/track/0Mg5oWo54uPg9GBJGHBD8p) | [Payday](https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0) | [P.U.K.E Tapes, Vol\. 1](https://open.spotify.com/album/7BYvwszB1kPrpgn8kLxqvk) | 2:36 | 2020-07-21 | 2020-12-31 |
 | [Molasses](https://open.spotify.com/track/2m6knc5tEfzVYwGY6GlCPm) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:49 | 2021-01-15 | 2021-01-23 |
 | [Molly](https://open.spotify.com/track/5Bxlchum7dWVpR60j6BMrT) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Molly](https://open.spotify.com/album/1I8Nu2RsxFcZBfSfaYrbGt) | 2:41 | 2022-09-30 | 2023-02-15 |
+| [moment](https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [moment](https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv) | 3:36 | 2024-07-19 |  |
 | [moment](https://open.spotify.com/track/2JKIYl8KaAMzOR1dIzEO5f) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4X2vOIggOwcX7BFIH0xqng) | 2:09 | 2020-10-30 | 2020-12-04 |
 | [Moment of Silence](https://open.spotify.com/track/1qE3Yen80w8CRKp9Xe8jgl) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Curses! Pt\. 2](https://open.spotify.com/album/4XsgXbAaIplkV4kHFl4EJ4) | 2:43 | 2022-05-11 | 2022-05-28 |
 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 | 2023-03-17 | 2023-11-11 |
@@ -1715,6 +1721,7 @@
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-12-01 | 2022-01-08 |
 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 | 2023-08-21 | 2023-10-02 |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2023-08-31 | 2023-09-10 |
+| [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-19 |  |
 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 | 2020-03-13 | 2020-12-04 |
 | [Name](https://open.spotify.com/track/5J4TJqdQiivHZBP4ILFViZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Oatmilk](https://open.spotify.com/album/3A4bdCyQQmHncye22gg1lX) | 1:49 | 2020-12-01 | 2021-06-05 |
 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2019-07-30\* | 2020-01-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Nayeon(\ub098\uc5f0))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: KATIE(\ucf00\uc774\ud2f0))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 152910,
       "name": "Best Lover",
       "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230955,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/4gXjJgsJTxHXEFdGHapPsV"
@@ -9692,7 +9692,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -14036,6 +14036,28 @@
       "duration_ms": 170463,
       "name": "Why do u say",
       "url": "https://open.spotify.com/track/4QPdrKoYtWjfQR7gw1bRW8"
+    },
+    {
+      "album": {
+        "name": "MINISERIES 2",
+        "url": "https://open.spotify.com/album/63yKhliWjZOJ39UQhXcBhO"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        },
+        {
+          "name": "Slom",
+          "url": "https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161375,
+      "name": "WHY, WHY, WHY",
+      "url": "https://open.spotify.com/track/0k46RHQDiZrP8eDgY4bd3v"
     },
     {
       "album": {

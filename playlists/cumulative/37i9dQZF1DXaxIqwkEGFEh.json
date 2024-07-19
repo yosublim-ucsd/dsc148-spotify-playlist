@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162162,
       "name": "02.02.99",
       "url": "https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179361,
       "name": "Bang Man",
       "url": "https://open.spotify.com/track/735AY1Wwc1zb6exlKxH0mT"
@@ -5478,7 +5478,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161203,
       "name": "CULTURE VULTURES",
       "url": "https://open.spotify.com/track/74k8SbPPcMk6FGY8Q4es4g"
@@ -10135,6 +10135,24 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/69aI25EOvrvq9PiZX9gzvR"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0U4KZ9WPQYOYUiWzA94FRZ"
+    },
+    {
+      "album": {
         "name": "Head First 2.0",
         "url": "https://open.spotify.com/album/3SU4BfK2p5xYtSqPOLJiPH"
       },
@@ -10154,6 +10172,24 @@
       "duration_ms": 140185,
       "name": "Head First 2.0",
       "url": "https://open.spotify.com/track/69jIbHil65kmWXERMsVIyL"
+    },
+    {
+      "album": {
+        "name": "Head Tapper",
+        "url": "https://open.spotify.com/album/5eMrirWeLNGgyNQ1SyJ9JO"
+      },
+      "artists": [
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "Head Tapper",
+      "url": "https://open.spotify.com/track/7kWDb1buNN3BTY4BSJ091l"
     },
     {
       "album": {
@@ -10408,7 +10444,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144493,
       "name": "HERE COME THEM KILLAS",
       "url": "https://open.spotify.com/track/3RcMaUNVButHp2Jab3UFwN"
@@ -11137,6 +11173,24 @@
     },
     {
       "album": {
+        "name": "Lit Rocket",
+        "url": "https://open.spotify.com/album/0YoxLtSSLEo9pUGvuEwylj"
+      },
+      "artists": [
+        {
+          "name": "OBN Jay",
+          "url": "https://open.spotify.com/artist/1IIDXzVCV16qAYAICsL763"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156562,
+      "name": "Hustling",
+      "url": "https://open.spotify.com/track/4Z94zcVWK1iTfsv3j3vqr3"
+    },
+    {
+      "album": {
         "name": "OH REALLY",
         "url": "https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W"
       },
@@ -11740,7 +11794,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156312,
       "name": "I'm The Type",
       "url": "https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY"
@@ -13380,7 +13434,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153626,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/0FGvtcQ1vrROlG2hjJn5mU"
@@ -16232,7 +16286,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157500,
       "name": "Neph Nem (feat. Ballout & G Herbo)",
       "url": "https://open.spotify.com/track/0IzqRBC2zj2ejfg5EvZ3o9"
@@ -18399,6 +18453,24 @@
     },
     {
       "album": {
+        "name": "Sorry 4 the Leaks, Vol. 2",
+        "url": "https://open.spotify.com/album/108HWfdrLKg2OPlH85F9k5"
+      },
+      "artists": [
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116360,
+      "name": "Paper Bag Boy",
+      "url": "https://open.spotify.com/track/459cnuEbCPkV0YSfpV0joU"
+    },
+    {
+      "album": {
         "name": "The Blue Seasons",
         "url": "https://open.spotify.com/album/0cO3HVsoNAQu21aQcKip2s"
       },
@@ -19086,7 +19158,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 133983,
       "name": "Point Em Out (with DaBaby)",
       "url": "https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf"
@@ -19454,7 +19526,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156336,
       "name": "Psych'n Out",
       "url": "https://open.spotify.com/track/18CncrDoSi9B1qH46Gieml"
@@ -22025,6 +22097,24 @@
     },
     {
       "album": {
+        "name": "Shifter",
+        "url": "https://open.spotify.com/album/2Dn7I0fYrknnyoLjzrA5Cu"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180034,
+      "name": "Shifter",
+      "url": "https://open.spotify.com/track/4AxRMLSbCygXGVeyjGbKJB"
+    },
+    {
+      "album": {
         "name": "Shinin",
         "url": "https://open.spotify.com/album/0OhKofrYgZQvnvHbshzUtP"
       },
@@ -22092,6 +22182,28 @@
       "duration_ms": 229800,
       "name": "Shmunk (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
+    },
+    {
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/0J67VD8T4YXrFFh1MuMBWv"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158238,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW"
     },
     {
       "album": {
@@ -24840,7 +24952,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 189698,
       "name": "The Type (feat. NoCap)",
       "url": "https://open.spotify.com/track/7ebMxBq9SJHAz2iSoYWIgb"
@@ -25146,6 +25258,24 @@
       "duration_ms": 173949,
       "name": "Thug Diary",
       "url": "https://open.spotify.com/track/3uo2apOA3eEhRcsBvwvFHq"
+    },
+    {
+      "album": {
+        "name": "Lit Rocket",
+        "url": "https://open.spotify.com/album/0YoxLtSSLEo9pUGvuEwylj"
+      },
+      "artists": [
+        {
+          "name": "OBN Jay",
+          "url": "https://open.spotify.com/artist/1IIDXzVCV16qAYAICsL763"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Thug Letter",
+      "url": "https://open.spotify.com/track/4iWQTda5CDlF70LoByOR0r"
     },
     {
       "album": {
@@ -26837,6 +26967,28 @@
     },
     {
       "album": {
+        "name": "War Time",
+        "url": "https://open.spotify.com/album/1TbKsZLiAdDgdnNVFDh49h"
+      },
+      "artists": [
+        {
+          "name": "Eldorado Red",
+          "url": "https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc"
+        },
+        {
+          "name": "ShooterGang Kony",
+          "url": "https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160129,
+      "name": "War Time",
+      "url": "https://open.spotify.com/track/71U449BwokARUhsdCW1gCk"
+    },
+    {
+      "album": {
         "name": "War With Whoever",
         "url": "https://open.spotify.com/album/3uRCSQh2cIAxbSm5kkF6vb"
       },
@@ -27198,7 +27350,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 127425,
       "name": "Went Hollywood For A Year",
       "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"

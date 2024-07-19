@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
-  "num_followers": 488206,
+  "num_followers": 488211,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Dos Balas",
-        "url": "https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb"
+        "name": "Pago Por Ver",
+        "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Dos Balas",
-      "url": "https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv"
+      "duration_ms": 182586,
+      "name": "Pago Por Ver",
+      "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -439,18 +435,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Pago Por Ver",
-        "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
+        "name": "Dos Balas",
+        "url": "https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Pago Por Ver",
-      "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
+      "duration_ms": 155409,
+      "name": "Dos Balas",
+      "url": "https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -543,22 +543,18 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Troca",
-        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 147235,
-      "name": "Troca",
-      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -583,18 +579,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
+        "name": "Troca",
+        "url": "https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
+      "duration_ms": 147235,
+      "name": "Troca",
+      "url": "https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "A Mucha Honra",
         "url": "https://open.spotify.com/album/1IbcDpHFX8oKYnipXxeZmG"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 183199,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/0ZreRurYnyBnKtBJs28FIa"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "Choro",
         "url": "https://open.spotify.com/album/6nRdxqQ8YT4mAznMWZ1uAV"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 136250,
       "name": "Choro",
       "url": "https://open.spotify.com/track/1tal0eLU6Wk81aLDKx0tqy"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "LA QUE MANDA",
-      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -1023,6 +1023,22 @@
       "duration_ms": 203573,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Hazme Un Paro",
+      "url": "https://open.spotify.com/track/3YX4gmPBHsT2LytlWMHuAC"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -1103,22 +1119,6 @@
       "duration_ms": 194275,
       "name": "Al No Tenerte",
       "url": "https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Hazme Un Paro",
-      "url": "https://open.spotify.com/track/3YX4gmPBHsT2LytlWMHuAC"
     },
     {
       "added_at": "2024-06-28 20:10:54",

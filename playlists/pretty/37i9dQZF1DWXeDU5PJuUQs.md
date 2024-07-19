@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,264 likes - 64 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,495 likes - 64 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 59 | [Sobreviviendo \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:19 |
 | 60 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 61 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 |
-| 62 | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF) | 3:41 |
-| 63 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 |
+| 62 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 |
+| 63 | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF) | 3:41 |
 | 64 | [Quiero Yo Saber \(Donde Esta El Amor\)](https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:13 |
 
 Snapshot ID: `ZodhsAAAAAAfT71peJad0fwpSxvE8AWS`

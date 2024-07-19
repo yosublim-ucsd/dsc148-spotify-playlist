@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie you should know\. Cover: Abrildefresa
 
-692 songs - 1 day 14 hr 10 min
+694 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [AMOR O PAZ](https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [AMOR O PAZ](https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5) | 4:10 | 2023-02-03 | 2023-05-16 |
 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 | 2021-11-18 | 2022-09-06 |
 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 | 2022-10-27 | 2023-02-18 |
-| [Andrea](https://open.spotify.com/track/5xMhjUFxBKARLrvjq3DpHR) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Andrea](https://open.spotify.com/album/0SptCyCiXbtPJzdAJ6Sw3U) | 2:52 | 2024-05-24 |  |
+| [Andrea](https://open.spotify.com/track/5xMhjUFxBKARLrvjq3DpHR) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Andrea](https://open.spotify.com/album/0SptCyCiXbtPJzdAJ6Sw3U) | 2:52 | 2024-05-24 | 2024-07-19 |
 | [Another](https://open.spotify.com/track/48FXiQqUJeSVd87PfA1Ln2) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Another](https://open.spotify.com/album/7oyIkEO1eeKjj4gyrYmhmO) | 3:48 | 2022-09-06 | 2022-10-28 |
 | [Ansiedad](https://open.spotify.com/track/0p8tyL3rNbptJgICX2ZVL8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ansiedad](https://open.spotify.com/album/7AFYhBkSCHEL0fZs10chz7) | 3:46 | 2021-11-18 | 2022-07-29 |
 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 | 2022-06-29 | 2022-11-25 |
@@ -100,7 +100,7 @@
 | [Cariño](https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d) | [Rudy De Anda](https://open.spotify.com/artist/4zAauwbGLs7vAEzfJEklGF) | [Tender Epoch](https://open.spotify.com/album/5WZSADIfCSEWZdeaiHjQ93) | 4:49 | 2022-01-10 | 2022-07-25 |
 | [cariño](https://open.spotify.com/track/0dQHCW83ZUOSo4n3bxnEfn) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [cariño](https://open.spotify.com/album/4upKb8eibwPX6VEa42g47s) | 3:07 | 2024-03-01 | 2024-04-08 |
 | [Carretera Perdida](https://open.spotify.com/track/0CGGY4EDBd7XETfr6vryY7) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Carretera Perdida](https://open.spotify.com/album/7jDusXwGElIql6OH6uhQ7G) | 3:57 | 2024-04-12 | 2024-06-08 |
-| [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 |  |
+| [Cartagena](https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Cartagena](https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB) | 3:07 | 2024-05-10 | 2024-07-19 |
 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 | 2024-01-19 | 2024-04-13 |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-02-10 | 2023-05-17 |
 | [CELL](https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH) | 2:18 | 2024-01-19 | 2024-04-13 |
@@ -387,6 +387,7 @@
 | [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 | 2023-06-16 | 2024-01-27 |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-03-17 | 2023-07-01 |
 | [Miracle](https://open.spotify.com/track/1qF69E9heZYJO3iBa8kOx1) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/2v08BVmRilhppsPf5OBcER) | 4:20 | 2022-12-16 | 2023-01-07 |
+| [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-07-19 |  |
 | [Mirando al techo \- A COLORS SHOW](https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Mirando al techo \- A COLORS SHOW](https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP) | 3:33 | 2024-05-31 | 2024-07-13 |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-04-07 | 2023-05-12 |
 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 | 2023-07-07 | 2024-04-13 |
@@ -583,6 +584,7 @@
 | [Suerte](https://open.spotify.com/track/4oBFRsX8QASmBHVrxYS5OU) | [Nutopia](https://open.spotify.com/artist/7fbrvNFwDFw8qTdR0dDSfP) | [Suerte](https://open.spotify.com/album/22qRsNNXZ7jR79iAefDGcy) | 2:46 | 2021-11-18 | 2022-07-29 |
 | [Summer Girl](https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:41 | 2021-11-18 | 2022-07-29 |
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-29 | 2022-11-25 |
+| [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 | 2024-07-19 |  |
 | [Sunlight](https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Sunlight](https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh) | 3:23 | 2023-11-17 | 2024-04-13 |
 | [Sunshine](https://open.spotify.com/track/6C7p3BcxCK9aTgAI87o3LW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Sunshine](https://open.spotify.com/album/74sh4vrghtKQ7J2Ws6aZYX) | 3:53 | 2023-03-17 | 2023-04-29 |
 | [Supernova](https://open.spotify.com/track/1tcNSGtEw6tWdZAc7WyF7u) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Supernova](https://open.spotify.com/album/75wGI3rgs4adPBLiFsNodK) | 3:04 | 2024-06-07 |  |

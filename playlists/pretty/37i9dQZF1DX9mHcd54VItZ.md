@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=ZW07j9naQvSBVtAYj728Lw">The Parlotones</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,002 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,037 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stare at the Sun](https://open.spotify.com/track/3x00SKQnXHNLQyJhwEJU5J) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs: E.P\. 1 \- Early Recordings!](https://open.spotify.com/album/1SMJDgWii8jnUoT8XXlLlE) | 3:38 |
+| 1 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 2 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
 | 3 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 4 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 9 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 | 10 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 11 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
-| 12 | [Paaie X](https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Paaie X](https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO) | 3:05 |
+| 12 | [Geen Vrede](https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Geen Vrede](https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h) | 3:47 |
 | 13 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 14 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
-| 15 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
+| 15 | [Gee My Jou Alles](https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Gee My Jou Alles](https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD) | 3:32 |
 | 16 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
 | 17 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 18 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 28 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 29 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 30 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
-| 31 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
-| 32 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 33 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
-| 34 | [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 |
-| 35 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 36 | [Battering Lamb](https://open.spotify.com/track/7vwVsjEnWkCLgQRc6gbFFw) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Battering Lamb](https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw) | 3:24 |
-| 37 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
-| 38 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
-| 39 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
-| 40 | [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 |
-| 41 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 |
-| 42 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
-| 43 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
-| 44 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
-| 45 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
-| 46 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 |
-| 47 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
-| 48 | [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 |
-| 49 | [Knip die Tou](https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Knip die Tou](https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G) | 3:38 |
-| 50 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
+| 31 | [Paaie X](https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Paaie X](https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO) | 3:05 |
+| 32 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
+| 33 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
+| 34 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
+| 35 | [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 |
+| 36 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
+| 37 | [Battering Lamb](https://open.spotify.com/track/7vwVsjEnWkCLgQRc6gbFFw) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Battering Lamb](https://open.spotify.com/album/4qvCXMGH7dfliEGXYvXdaw) | 3:24 |
+| 38 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
+| 39 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
+| 40 | [Stare at the Sun](https://open.spotify.com/track/3x00SKQnXHNLQyJhwEJU5J) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs: E.P\. 1 \- Early Recordings!](https://open.spotify.com/album/1SMJDgWii8jnUoT8XXlLlE) | 3:38 |
+| 41 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
+| 42 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
+| 43 | [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 |
+| 44 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 |
+| 45 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
+| 46 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
+| 47 | [Birthday Card](https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc) | [Tweak](https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS) | [The Romantic Lure of Possum Worship](https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm) | 3:09 |
+| 48 | [Los My](https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp) | [Winterstasie](https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P) | [Klanke Van Die Antieke](https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ) | 3:04 |
+| 49 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 |
+| 50 | [Sindikaat](https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs) | [éF\-éL](https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka) | [Net Om Die Geraas In Te Asem](https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65) | 2:21 |
 
-Snapshot ID: `ZpBV4AAAAACUFzh2/rkSJEp0dUv3FWEj`
+Snapshot ID: `ZpmQYAAAAACEHUpUJF8B/R5hwYB+EjXn`

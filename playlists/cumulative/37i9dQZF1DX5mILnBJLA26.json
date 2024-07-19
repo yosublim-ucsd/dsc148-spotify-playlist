@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=2G6L5xAtSV6aIG5WCPhaYg\">DBN Gogo</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i?si=XCJm0IaATgC1S_RfXjPavQ\">Xduppy</a>, <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=BEtixg6GRfyK8ZejLHnkDQ\">Scotts Maphuma</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 509789,
       "name": "Amalobolo",
       "url": "https://open.spotify.com/track/6SYd9stPpCzbuLAeU3FR9K"
@@ -14410,7 +14410,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 347148,
       "name": "Ka Lekeke (feat. Dj Motee, L4desh & Turnupkiid)",
       "url": "https://open.spotify.com/track/597LY7HnUeb9n6EUFUF8uc"
@@ -14956,6 +14956,44 @@
       "duration_ms": 501283,
       "name": "Khusela (feat. Msaki)",
       "url": "https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir"
+    },
+    {
+      "album": {
+        "name": "Umswenko EP",
+        "url": "https://open.spotify.com/album/0JFib0AeZHivsoern9zfWU"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Pushkin",
+          "url": "https://open.spotify.com/artist/4ayvrIWGJzSwPkachg7vBQ"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412719,
+      "name": "Khuthuzile (feat. DJ Maphorisa, Pushkin & Kabelo Sings)",
+      "url": "https://open.spotify.com/track/6v2F90xvuPxVUsx9d12T2b"
     },
     {
       "album": {
@@ -19003,6 +19041,36 @@
     },
     {
       "album": {
+        "name": "Moyo Ongcwele (feat. Harry Cane)",
+        "url": "https://open.spotify.com/album/5Rv2f9VFwGHJSdMifhe4jk"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Nobuhle",
+          "url": "https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM"
+        },
+        {
+          "name": "Harrycane",
+          "url": "https://open.spotify.com/artist/6umjXXP7Q8i4he6WALLuOf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310775,
+      "name": "Moyo Ongcwele (feat. Harry Cane)",
+      "url": "https://open.spotify.com/track/4Zy1GFdZeuvkMzmsfEzcnW"
+    },
+    {
+      "album": {
         "name": "Mozambique (feat. 10x Guluva, Yung Silly Coon & PILLS)",
         "url": "https://open.spotify.com/album/6jQrJD5qjoxVBBooTpHMEK"
       },
@@ -20250,6 +20318,36 @@
       "duration_ms": 382300,
       "name": "Ngaphakathi",
       "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
+    },
+    {
+      "album": {
+        "name": "Ngathatheka",
+        "url": "https://open.spotify.com/album/0uK2ZWJPQaTDo5DITYXd0n"
+      },
+      "artists": [
+        {
+          "name": "Ntokzin",
+          "url": "https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV"
+        },
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Starr Healer",
+          "url": "https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT"
+        },
+        {
+          "name": "Zar Keys",
+          "url": "https://open.spotify.com/artist/1ZMlSl54k8GU7LmlkO0YKG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430000,
+      "name": "Ngathatheka",
+      "url": "https://open.spotify.com/track/6jqEzYGpQCraOFldzJvnSG"
     },
     {
       "album": {
@@ -24343,6 +24441,32 @@
     },
     {
       "album": {
+        "name": "Shaya Ini Wena",
+        "url": "https://open.spotify.com/album/6GsuZotOXQoYkC1eJQai0O"
+      },
+      "artists": [
+        {
+          "name": "Tycoon",
+          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
+        },
+        {
+          "name": "Malemon",
+          "url": "https://open.spotify.com/artist/6cs1bOgbQNCeY9fxkkUcRq"
+        },
+        {
+          "name": "MDU aka TRP",
+          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385770,
+      "name": "Shaya Ini Wena",
+      "url": "https://open.spotify.com/track/1x7u2zqVQiLOP2qt78R7Jk"
+    },
+    {
+      "album": {
         "name": "Shaya Lento",
         "url": "https://open.spotify.com/album/7fR0pN0MLiNARwSyFFPRwi"
       },
@@ -27724,7 +27848,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 391681,
       "name": "THATHA BAMBA",
       "url": "https://open.spotify.com/track/2AreaGSzIlyWeOncxJGHJM"
@@ -32960,7 +33084,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 365348,
       "name": "Woza Madzala (feat. Ceeka RSA & Al Xapo)",
       "url": "https://open.spotify.com/track/3EFj3mNL6FTSEpW2cIMzr7"

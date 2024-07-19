@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: The Jansen (Indonesia)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: \u5c0f\u672c\u751f\u71c8XSGACHA (Hong Kong)",
   "name": ".ORG",
   "tracks": [
     {
@@ -8217,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
+    },
+    {
+      "album": {
         "name": "Backseat Driver",
         "url": "https://open.spotify.com/album/5Vh3EwjMySkJjUNkRAOxhm"
       },
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211000,
       "name": "Han River Bike Ride",
       "url": "https://open.spotify.com/track/1XX818Dp8iGEjunMsd96zU"
@@ -8430,7 +8448,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 261975,
       "name": "Hanya Ada Kegelapan yang Menunggumu Di Sana",
       "url": "https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x"
@@ -11446,7 +11464,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 214621,
       "name": "Kewpid",
       "url": "https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF"
@@ -15374,7 +15392,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 170578,
       "name": "Oh My God!",
       "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
@@ -20552,7 +20570,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250680,
       "name": "Teenage Years",
       "url": "https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX"
@@ -21328,7 +21346,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 144793,
       "name": "tired",
       "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
@@ -21606,7 +21624,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -21932,7 +21950,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
@@ -25122,7 +25140,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152259,
       "name": "\u306a\u3093\u3066\u306d",
       "url": "https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx"

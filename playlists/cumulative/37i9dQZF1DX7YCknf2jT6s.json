@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Linda Sikhakhane",
+  "description": "New jazz for open minds. Cover: Al Di Meola",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -6281,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Dare to Dream",
+        "url": "https://open.spotify.com/album/1JijzGgPvOfJU0HNA675JZ"
+      },
+      "artists": [
+        {
+          "name": "Ty's Music",
+          "url": "https://open.spotify.com/artist/4cz9uR9ZbiB9GjgFMVO5Ob"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63832,
+      "name": "Dare to Dream",
+      "url": "https://open.spotify.com/track/1bh61fZoW3Hx58shn3W9dx"
+    },
+    {
+      "album": {
         "name": "Dark Moon",
         "url": "https://open.spotify.com/album/1SIZXdEQ2s4sGjSMuOv69w"
       },
@@ -7968,7 +7986,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 269226,
       "name": "Eden",
       "url": "https://open.spotify.com/track/14lPtmQaItu8yyUsmn0kJr"
@@ -11496,7 +11514,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224516,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/1eMFRqbg9X1mZvgvWZzAN6"
@@ -18155,6 +18173,24 @@
     },
     {
       "album": {
+        "name": "I Owe It All To You",
+        "url": "https://open.spotify.com/album/1Nreb21cCjz53r8gPu2Ud3"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/6K8QOMTGa8UqH6iylaR0g2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266060,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/6BrJgJclatdJ0K8adzAhYY"
+    },
+    {
+      "album": {
         "name": "Behind the Tea Chronicles",
         "url": "https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9"
       },
@@ -19776,7 +19812,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 317520,
       "name": "Outubro",
       "url": "https://open.spotify.com/track/0fEIearbFkOnbvKWHA88fA"
@@ -26274,6 +26310,24 @@
       "duration_ms": 209336,
       "name": "Tarkon Tarko",
       "url": "https://open.spotify.com/track/4JOhoXUVaj3NAiF3sFiyqk"
+    },
+    {
+      "album": {
+        "name": "Twentyfour",
+        "url": "https://open.spotify.com/album/4rxCZqnPlfbBxm7GZXvcRq"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439333,
+      "name": "Tears of Hope",
+      "url": "https://open.spotify.com/track/7y9hEUs9t2uE3HnGwyJrsw"
     },
     {
       "album": {

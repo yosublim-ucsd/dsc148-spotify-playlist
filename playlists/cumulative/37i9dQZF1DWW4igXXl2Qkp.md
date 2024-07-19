@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3HzHfusJQBmpNKkTzqqC2N">Baby Osamaa</a>
 
-1,318 songs - 2 day 9 hr 13 min
+1,319 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,6 +905,7 @@
 | [Personal](https://open.spotify.com/track/7C59YwmluaerX18OcxUkhE) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E), [Shaun Sloan](https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy) | [No Skips](https://open.spotify.com/album/2Jyx38tthBkdRBZt4XLKpq) | 3:20 | 2022-11-30 | 2023-01-12 |
 | [Personal Healing](https://open.spotify.com/track/1AnliCzqhA7H7qcDl3Dxcx) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Personal Healing](https://open.spotify.com/album/7m6CPETMbn9xGJCtFGcP0D) | 3:12 | 2022-09-07 | 2022-12-01 |
 | [PERSUADE](https://open.spotify.com/track/20aAh478ePcIoEhTuBx4Th) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [MUG SEASON 1](https://open.spotify.com/album/6xi8py06ADngjcoPVBxpUa) | 2:51 | 2022-10-26 | 2022-12-01 |
+| [petty change](https://open.spotify.com/track/685Em73Ehc0vHo5LdB21v0) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:36 | 2024-07-17 |  |
 | [Piano Riff](https://open.spotify.com/track/3xTNFEFdzWnOHO9lvBSEIv) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR) | [Piano Riff](https://open.spotify.com/album/4e0VBRJlR3l7XQloHB0NA6) | 3:03 | 2022-02-24 | 2022-03-24 |
 | [Pick up the phone](https://open.spotify.com/track/6HvqSEXIi15Gi8FLZrLXyb) | [BCO Blanco](https://open.spotify.com/artist/2DhXXGb4AMSK9XuxIGzcuK) | [Love in LA](https://open.spotify.com/album/5RiDhTb2C7Ux7FZsFLkRik) | 1:29 | 2024-02-28 | 2024-03-28 |
 | [Pimpin Ain't Easy](https://open.spotify.com/track/1ncc9uvlewEqnXiyjqTO15) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Gift Of The Ghetto](https://open.spotify.com/album/3lr8MX7RXraKBsQjxxEDBc) | 2:35 | 2023-02-22 | 2023-04-06 |

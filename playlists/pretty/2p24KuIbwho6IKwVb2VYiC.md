@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: John Summit &amp; Kaskade
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,553 likes - 133 songs - 7 hr 1 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,559 likes - 136 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,5 +141,8 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 131 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 132 | [I Like It \(with Nate Smith\)](https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Like It \(with Nate Smith\)](https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC) | 2:32 |
 | 133 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |
+| 134 | [Fria \- Felix Jaehn Remix](https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fria \(Felix Jaehn Remix\)](https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa) | 2:40 |
+| 135 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 |
+| 136 | [Always](https://open.spotify.com/track/5ILDUxascaZtpGRlaK8CRt) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP), [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [Always](https://open.spotify.com/album/0gqerJxaNmuiQAFMIcOpmp) | 3:00 |
 
-Snapshot ID: `AAAeXRpnCLl+DA6/V/JO9C/zxUFM9mvA`
+Snapshot ID: `AAAeYAup76WnzxnOigTB1DbnTL8J0yg4`

@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Dance With U",
+        "url": "https://open.spotify.com/album/1HAp0pFi7vI0aIsG996Vo9"
+      },
+      "artists": [
+        {
+          "name": "NewEra",
+          "url": "https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118095,
+      "name": "Dance With U",
+      "url": "https://open.spotify.com/track/738jDvFSN21q5Y54TgiFoR"
+    },
+    {
+      "album": {
         "name": "Dancing Alone",
         "url": "https://open.spotify.com/album/12oocPvp0xlJxGYTK58I4M"
       },
@@ -2149,6 +2167,28 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -2722,7 +2762,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 135538,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/65ErFNLwMKFmFHZwWaDzPd"
@@ -5276,7 +5316,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 73846,
       "name": "Wiggle It (feat. Mura Masa & Big Freedia)",
       "url": "https://open.spotify.com/track/2bBphkvCo6Z0xhvnJhpgva"

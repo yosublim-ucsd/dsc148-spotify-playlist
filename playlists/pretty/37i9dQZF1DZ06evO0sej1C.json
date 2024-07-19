@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 39638,
+  "num_followers": 39660,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAA/JUras13r7MVc/7Zj8jeM",
+  "snapshot_id": "ZpcJgAAAAAB4/WTDTfletXGe5q/SlWCM",
   "tracks": [
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 321951,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
       },
@@ -839,22 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Oportunidad",
-        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },
       "artists": [
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        },
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Otra Oportunidad",
-      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
+      "duration_ms": 200000,
+      "name": "Serendipia",
+      "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
     },
     {
       "added_at": null,
@@ -931,30 +955,6 @@
       "duration_ms": 204000,
       "name": "El",
       "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serendipia",
-        "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
-      },
-      "artists": [
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Golden Ganga",
-          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Serendipia",
-      "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
     },
     {
       "added_at": null,

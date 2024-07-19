@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-116 songs - 8 hr 39 min
+117 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 | 2023-08-11 |  |
 | [Telesita](https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Brawlio](https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK), [Natalia Schvartz](https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05) | [Telesita](https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI) | 4:24 | 2024-03-29 |  |
 | [Templo Andino](https://open.spotify.com/track/4XNA7q9YMsl9uhRzhRaczR) | [Orgänica Elemental](https://open.spotify.com/artist/3odwGh76svNukxxuMeCrsD) | [Templo Andino](https://open.spotify.com/album/2wRkWvdTw2CMNDtzKP0iym) | 5:58 | 2023-08-11 |  |
-| [Tepuy \- Original MIx](https://open.spotify.com/track/5PQkG8omxAwUbQiJ7ZXy45) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Intiche](https://open.spotify.com/artist/3YBTIccVS6dNVTYtMxBWli), [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Tepuy](https://open.spotify.com/album/35IAdhkuG1zLf8YdYElLSk) | 4:03 | 2024-03-29 |  |
+| [Tepuy \- Original MIx](https://open.spotify.com/track/5PQkG8omxAwUbQiJ7ZXy45) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Intiche](https://open.spotify.com/artist/3YBTIccVS6dNVTYtMxBWli), [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Tepuy](https://open.spotify.com/album/35IAdhkuG1zLf8YdYElLSk) | 4:03 | 2024-03-29 | 2024-07-19 |
 | [Tierra Natal \- Barzo Remix](https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Tierra Natal \(Barzo Remix\)](https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI) | 3:19 | 2023-08-11 |  |
 | [Tilcara](https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q) | [Apuna](https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g) | [Tilcara](https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg) | 3:26 | 2024-03-29 |  |
 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 | 2024-03-29 |  |
@@ -119,6 +119,7 @@
 | [Unión de los Amantes](https://open.spotify.com/track/2woooyH6Zq3XFRVSWEZMW6) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Camino a la Templanza](https://open.spotify.com/album/6sFos3tp45tLjHLHtgsOww) | 4:23 | 2023-08-11 |  |
 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 | 2023-08-11 |  |
 | [Viajante](https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 3:52 | 2023-08-11 | 2024-04-19 |
+| [Viaje Astral](https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Viaje Astral](https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt) | 4:04 | 2024-07-19 |  |
 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 |  |
 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 | 2023-08-11 |  |
 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 | 2024-03-29 |  |

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-710 songs - 1 day 22 hr 43 min
+713 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [blooming](https://open.spotify.com/track/6An8U3MjTePqA3kdpRKVt1) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [blooming](https://open.spotify.com/album/3pBafqCDpTd30E0j4Xuky6) | 3:26 | 2022-06-24 | 2022-07-04 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-07-28 | 2024-04-19 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-05-09 | 2024-04-19 |
-| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2022-06-03 |  |
+| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2022-06-03 | 2024-07-19 |
 | [Brand new diary](https://open.spotify.com/track/1NDpxm2rXBs9xCuKjcrknw) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary / まほうのかぜ](https://open.spotify.com/album/3amd7Ciz9s1KIksBdoGXZB) | 4:08 | 2022-06-14 | 2022-07-26 |
 | [Break](https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Break](https://open.spotify.com/album/7heQ4Bz4LxGNSln7Z7uoPp) | 4:53 | 2022-06-21 | 2022-07-18 |
 | [Break out](https://open.spotify.com/track/7k4JoDf9XakuFA0S2xb10C) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Break out](https://open.spotify.com/album/6VVWb5rO9rST4OR4tvKml1) | 3:56 | 2022-06-14 | 2022-07-28 |
@@ -524,6 +524,7 @@
 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 | 2024-04-16 | 2024-04-21 |
 | [リテラチュア](https://open.spotify.com/track/1Oc8AYDtd0Hcpz8Ijl4JaT) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [リテラチュア](https://open.spotify.com/album/2PTMl1FagFSWwFFwA98SOP) | 4:00 | 2022-06-03 | 2022-07-09 |
 | [リライズ](https://open.spotify.com/track/1kdDgHIE7BDpGD2qcrFg3s) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Re:RISE \-e.p.\-](https://open.spotify.com/album/4ZiEBXmGMFqTgXAjMRnXrs) | 4:18 | 2022-06-03 | 2022-06-24 |
+| [リヴァーサル](https://open.spotify.com/track/0VoJIaSLuqLoNLcSn378M9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [リヴァーサル](https://open.spotify.com/album/37wkQtmvTJDL8BVg5U0N5Q) | 3:23 | 2024-07-19 |  |
 | [レイメイ](https://open.spotify.com/track/1s0QbmRVJ6AK4ICc44tJtB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dawn](https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK) | 5:15 | 2022-06-14 | 2022-07-07 |
 | [ロメオ](https://open.spotify.com/track/7fINebCzUsbG8KXCUX9kqS) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [榎本虎太朗 \(CV:花江夏樹\)](https://open.spotify.com/artist/5nHNAtcpQxtsqiZe18w7ST), [柴崎健（CV：江口拓也）](https://open.spotify.com/artist/4Fxvg5CZfQxFFtjPfKUZqk) | [ロメオ](https://open.spotify.com/album/79h5Pcn9p34PMYveZxAmyi) | 5:14 | 2022-06-14 | 2022-06-17 |
 | [一目惚れ \-ちはやふる3 ED size ver\-](https://open.spotify.com/track/27QhWLY0pFCM6OxoMy535N) | [バンドハラスメント](https://open.spotify.com/artist/0QkBPYVUO0jWtwf7sCUfjc) | [一目惚れ \-ちはやふる3 ED size ver\-](https://open.spotify.com/album/4r3D3rRZO3deVeatoxUQ2t) | 1:13 | 2022-07-05 | 2022-07-08 |
@@ -593,7 +594,7 @@
 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 | 2023-07-18 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2023-01-03 |  |
 | [新月のダ・カーポ](https://open.spotify.com/track/6ZaqrGOelYVrPCjCC03tit) | [相沢梨紗 \(でんぱ組.inc\)](https://open.spotify.com/artist/2IkoQ3ubR0PfATrbN8Y59G) | [新月のダ・カーポ](https://open.spotify.com/album/35dlpfOCfoWFPyOcOmq8ZK) | 5:00 | 2022-06-03 | 2022-07-25 |
-| [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-14 |  |
+| [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-14 | 2024-07-19 |
 | [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-06-03 | 2022-10-19 |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-07-07 | 2022-08-17 |
 | [星が降るユメ](https://open.spotify.com/track/6SkstxGSlh3lZMTg5ubopQ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [星が降るユメ](https://open.spotify.com/album/7ycmk8CFvnoRH6dCsmmT3U) | 4:10 | 2022-06-14 | 2022-06-16 |
@@ -659,6 +660,7 @@
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 | 2024-04-19 |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2022-06-03 |  |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2024-04-30 | 2024-07-01 |
+| [紫苑の花束を](https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [紫苑の花束を](https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6) | 4:05 | 2024-07-19 |  |
 | [絆](https://open.spotify.com/track/6uKDZszAiHwQFtSjsRRA6D) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [絆](https://open.spotify.com/album/7hvCBa8WqMgHMyAv57mXma) | 5:57 | 2022-06-03 | 2022-06-12 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-07-06 |  |
 | [結証](https://open.spotify.com/track/3KIHXNKBeQCxDtgcyGYaB6) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [結証](https://open.spotify.com/album/51QJaCmcPgLU5tGeMJQu45) | 3:54 | 2022-06-24 | 2022-07-04 |
@@ -674,10 +676,11 @@
 | [色香水](https://open.spotify.com/track/7FpABRyv5TaZz0llkhjPgc) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [色香水](https://open.spotify.com/album/41bkPqLAeTnlUxanW7sNU3) | 4:10 | 2022-06-03 | 2022-10-19 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2024-01-25 |  |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-09-15 |  |
-| [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2022-10-19 |  |
+| [花の塔](https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [花の塔](https://open.spotify.com/album/5N4WUOp0F0eUngAyPXJico) | 4:35 | 2022-10-19 | 2024-07-19 |
 | [花一匁](https://open.spotify.com/track/2dONlcULcXp1AWNLXpz6qH) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [花一匁](https://open.spotify.com/album/3yjUY1Zw3y1tLyEPnpXcCH) | 4:37 | 2022-06-24 | 2022-06-27 |
 | [芽ぐみの雨](https://open.spotify.com/track/4HA1sEBxctHZ2POsElevf4) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [芽ぐみの雨](https://open.spotify.com/album/2JeSedA7zFRa1e6IABKIHk) | 4:41 | 2022-06-03 | 2022-06-21 |
 | [菫](https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:57 | 2022-07-26 | 2022-07-28 |
+| [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-07-19 |  |
 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 | 2022-07-28 | 2024-04-17 |
 | [虹が架かるまでの話](https://open.spotify.com/track/2LYq0NMzKRN7jKsK3NHx0C) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [虹が架かるまでの話](https://open.spotify.com/album/0rPXyKuAw8wNfRKp5NB9vd) | 4:38 | 2022-06-03 | 2022-07-12 |
 | [融雪\(Subscription ver.\)](https://open.spotify.com/track/3gz45K5RitgKwaQiFOIupK) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [融雪\(Subscription ver.\)](https://open.spotify.com/album/1xg60qUanKcfSFPqZcRFjm) | 4:02 | 2022-06-03 | 2022-07-28 |

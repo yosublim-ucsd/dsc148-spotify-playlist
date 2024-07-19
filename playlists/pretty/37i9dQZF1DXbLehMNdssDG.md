@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,855 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,925 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 25 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 |
 | 26 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
 | 27 | [Affirmations for Balance & Being Grounded](https://open.spotify.com/track/2m0fVnbgpjMgWdcoNPFH87) | [Jason Stephenson](https://open.spotify.com/artist/1DbGUgDfEgFlJpUVCdiBxa) | [Affirmations for Balance & Being Grounded](https://open.spotify.com/album/6FvR5yQeGcGlM8QSkjQ0yT) | 21:49 |
-| 28 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 |
-| 29 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |
+| 28 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 |
+| 29 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 |
 | 30 | [Relaxation](https://open.spotify.com/track/7wyBtq2zSt2Ki00yBW0Ob8) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/0U0kxDWCU0yHXHuvIt6Bhp) | 2:16 |
 | 31 | [Devine Minds](https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Devine Minds](https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS) | 3:14 |
 | 32 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 38 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 | 39 | [432 Hz Delta](https://open.spotify.com/track/1N4hq8aaeNpp6f6Q2MPwb4) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Binaural Waves](https://open.spotify.com/album/7ocLgwnXM4M2ugl89K9Rxj) | 2:40 |
 | 40 | [Morning ‘I am’ Affirmations](https://open.spotify.com/track/5djRWx3GupMvfbbBRJORjn) | [Kinder Records](https://open.spotify.com/artist/0PlHsnMe5h7xUJG1kA87Xo) | [Morning Affirmations](https://open.spotify.com/album/3ov2t8Tjj4KuQLiAsG1fl7) | 2:32 |
-| 41 | [432 Hz Foreverness](https://open.spotify.com/track/5r9GeLzmAvxVi8kUrYeIWN) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [432 Hz New Horizon](https://open.spotify.com/album/5rx3l1qJDAajbBzNv2A833) | 3:19 |
-| 42 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
+| 41 | [Night Bells \(432 Hz\)](https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Night Bells \(432 Hz\)](https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr) | 2:55 |
+| 42 | [432 Hz Foreverness](https://open.spotify.com/track/5r9GeLzmAvxVi8kUrYeIWN) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [432 Hz New Horizon](https://open.spotify.com/album/5rx3l1qJDAajbBzNv2A833) | 3:19 |
 | 43 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 44 | [Breathing](https://open.spotify.com/track/1lyx5JqEMGDdRJIwLcBv1D) | [Hontoni](https://open.spotify.com/artist/09HhJFJqYmvCCwQwj47Ci4) | [Breathing](https://open.spotify.com/album/1F8ju3Aa5Hs5HMKFlOspIW) | 2:30 |
 | 45 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |

@@ -1,12 +1,12 @@
 {
   "description": "A new shade of Country. Cover: Johnny Blue Skies",
-  "num_followers": 522124,
+  "num_followers": 522214,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAADYtd5DZLsh3S8DF7IouXpC",
+  "snapshot_id": "ZpnkwAAAAACxPYZYmRI7wy3EiEOKx9JL",
   "tracks": [
     {
       "added_at": "2024-07-12 04:00:00",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe"
+        "name": "Tear Us Apart (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI"
       },
       "artists": [
         {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 177228,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC"
+      "duration_ms": 165384,
+      "name": "Tear Us Apart (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -63,24 +63,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Song While You're Away (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Song While You're Away (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "South of Here",
-        "url": "https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
       "artists": [
         {
@@ -88,9 +72,9 @@
           "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Cars in the Desert",
-      "url": "https://open.spotify.com/track/0EUl8ExEPsPm44z865IYHl"
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -107,6 +91,22 @@
       "duration_ms": 133695,
       "name": "Tequila or Whiskey",
       "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Song While You're Away (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Song While You're Away (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
@@ -163,6 +147,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "American Son",
         "url": "https://open.spotify.com/album/47zGI80MnyO7qSmFwxgvta"
       },
@@ -175,6 +175,22 @@
       "duration_ms": 211546,
       "name": "Scared of the Dark",
       "url": "https://open.spotify.com/track/4JBPgWBmn7HnLn7dxJ50JK"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe"
+      },
+      "artists": [
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "duration_ms": 177228,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -279,6 +295,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 212470,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
       },
@@ -311,22 +343,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 212470,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Norther",
         "url": "https://open.spotify.com/album/3smnnShnaqQxBcvmDqvGPO"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Funnel of Love",
         "url": "https://open.spotify.com/album/3aBd3KzmK8yarhB0eOSbgg"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 143329,
       "name": "Funnel of Love",
       "url": "https://open.spotify.com/track/4oGqIK1jkxV5aRZQCtUBsY"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 184076,
       "name": "Gettin' Rich, Goin' Broke",
       "url": "https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2024-07-12 04:00:00",

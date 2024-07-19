@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Ice Spice, AJ Tracey, Offset & Gunna, Mustard, Eminem, Kendrick Lamar and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Childish Gambino, Ice Spice, AJ Tracey, Offset, Eminem, Kendrick Lamar and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227175,
       "name": "EA (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s"
@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Lets Get On Dey Ass",
+        "url": "https://open.spotify.com/album/1lLaabBqtvYNJnBCWczqiZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Lets Get On Dey Ass",
+      "url": "https://open.spotify.com/track/1SUQlEQUTsxZBU6KTmLh9n"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Go (feat. Aitch)",
         "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
       },
@@ -3046,6 +3064,28 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
+    },
+    {
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
       "album": {
@@ -3486,6 +3526,28 @@
       "duration_ms": 183920,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
+    },
+    {
+      "album": {
+        "name": "Life's A Gamble",
+        "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107494,
+      "name": "Not In The Mood",
+      "url": "https://open.spotify.com/track/05yUHyLy2lgh3MZ4WTmEQL"
     },
     {
       "album": {
@@ -5112,7 +5174,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180250,
       "name": "Swear to God (feat. Future)",
       "url": "https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp"
@@ -5152,10 +5214,36 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227211,
       "name": "TakeDat",
       "url": "https://open.spotify.com/track/6fJCA6KjZLUHb87LV62hVT"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
+      "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
     },
     {
       "album": {
@@ -5178,7 +5266,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156428,
       "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
       "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"

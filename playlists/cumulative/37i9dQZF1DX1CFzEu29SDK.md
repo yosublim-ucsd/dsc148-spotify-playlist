@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-75 songs - 4 hr 56 min
+76 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fearing Love \- Club Mix](https://open.spotify.com/track/2fxUxJf0mVv7SENsdletUc) | [Damiano C](https://open.spotify.com/artist/1megb3uOaIwwINCguucNbY), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP), [Camille Safiya](https://open.spotify.com/artist/0njiJOJRIXjXanWDLd586D) | [Fearing Love](https://open.spotify.com/album/6C40PL4H8Mn4pWadW4ZA6u) | 7:28 | 2023-12-15 |  |
 | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 | 2023-12-15 |  |
 | [Get Hard \(You In The Lobby\)](https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Get Hard \(You In The Lobby\)](https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn) | 2:36 | 2023-12-15 |  |
+| [girl$ \- Layton Giordani Remix](https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [girl$ \(Layton Giordani Remix\)](https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN) | 3:04 | 2024-07-19 |  |
 | [Give Me Anything](https://open.spotify.com/track/4H0klYMkrrII3U6wBX6UuX) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:38 | 2024-07-15 |  |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-16 |  |
 | [Heartbeat \(Dance The Night Away\)](https://open.spotify.com/track/4r9RxOUirxXfipfRlGNp8A) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Heartbeat \(Dance The Night Away\)](https://open.spotify.com/album/02CO58Fe0jl6IHqYb807Nb) | 3:32 | 2023-12-15 | 2024-07-16 |

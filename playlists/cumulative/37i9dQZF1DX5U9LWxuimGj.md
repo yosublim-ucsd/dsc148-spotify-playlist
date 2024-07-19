@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Carin Leon
+> Country music with a Latin flair\. Cover: Ela Taubert
 
-172 songs - 9 hr 29 min
+173 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,5 +180,6 @@
 | [Yo Quiero Amarte \- I Want It All \- Spanish Version](https://open.spotify.com/track/3N6ElyqsYqDd85wWdMd1gX) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Yo Quiero Amarte \(I Want It All \- Spanish Version\)](https://open.spotify.com/album/0R1HKdM5CJp45q9FnwlIm9) | 3:21 | 2022-04-08 | 2024-04-10 |
 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 | 2021-12-10 | 2024-04-10 |
 | [Zapatos Grandes](https://open.spotify.com/track/6mxX1h2SLYjsmPQRMZBb8O) | [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Zapatos Grandes](https://open.spotify.com/album/7eONexMnq2H99kteCv22o5) | 3:31 | 2024-06-17 |  |
+| [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 | 2024-07-19 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

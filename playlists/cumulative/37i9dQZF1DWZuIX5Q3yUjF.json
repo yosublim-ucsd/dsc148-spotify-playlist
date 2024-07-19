@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Tatum Rush",
+  "description": "Il meglio dell'R&B italiano. Cover: AIN\u00c9",
   "name": "anima R&B",
   "tracks": [
     {
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 243789,
       "name": "Ad Occhi Aperti",
       "url": "https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj"
@@ -1714,7 +1714,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181990,
       "name": "CHI FA 'O BENE",
       "url": "https://open.spotify.com/track/3PUGWPPQ0JBbTbY6zCcH2I"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 138214,
       "name": "CROCEROSSINA",
       "url": "https://open.spotify.com/track/6HeS9AFIbqunx80FXp66dP"
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200720,
       "name": "Decidere non so",
       "url": "https://open.spotify.com/track/1pdlPlAQ0oAXLWB2acAxau"
@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192746,
       "name": "La dolce vita",
       "url": "https://open.spotify.com/track/3tBIAcwVNZ2ofEq1IccGOU"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171840,
       "name": "NEW LIFE",
       "url": "https://open.spotify.com/track/2tIJ1fNfZSmk4kjC14FZ9K"
@@ -7225,6 +7225,28 @@
     },
     {
       "album": {
+        "name": "No Me Llames",
+        "url": "https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144025,
+      "name": "No Me Llames",
+      "url": "https://open.spotify.com/track/7qNPXRA4f17HVwrTvSQv54"
+    },
+    {
+      "album": {
         "name": "Noia",
         "url": "https://open.spotify.com/album/559uzFoPZVrroVomDdRjUY"
       },
@@ -7352,7 +7374,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197538,
       "name": "Non Fa + Male",
       "url": "https://open.spotify.com/track/1BQD1WB3r9korPCevvFBrz"
@@ -7806,6 +7828,24 @@
       "duration_ms": 188400,
       "name": "O'tiempo",
       "url": "https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ"
+    },
+    {
+      "album": {
+        "name": "O.G",
+        "url": "https://open.spotify.com/album/5tp7jGT8GxNxLHzTc4urFT"
+      },
+      "artists": [
+        {
+          "name": "Puka Shell's Bling",
+          "url": "https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273956,
+      "name": "O.G",
+      "url": "https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ"
     },
     {
       "album": {
@@ -8860,7 +8900,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205338,
       "name": "Rebus",
       "url": "https://open.spotify.com/track/1daG8jxSHdMlBDFZAarzSC"
@@ -9168,6 +9208,24 @@
       "duration_ms": 160000,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/4EGBfa2ShqPAm6t4djglFj"
+    },
+    {
+      "album": {
+        "name": "Rom'antica",
+        "url": "https://open.spotify.com/album/16cwdZL6EO35vjk74512UP"
+      },
+      "artists": [
+        {
+          "name": "Tekla",
+          "url": "https://open.spotify.com/artist/5OnzvdeLNxjYNpruf2z0Uw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211165,
+      "name": "Rom'antica",
+      "url": "https://open.spotify.com/track/2MUDmWgfJtAma6br0HOqnG"
     },
     {
       "album": {
@@ -10940,7 +10998,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188281,
       "name": "Svenire",
       "url": "https://open.spotify.com/track/5v6cJI6Kk4MYfeJ3FCUj5P"
@@ -11234,6 +11292,24 @@
       "duration_ms": 184629,
       "name": "Traumi",
       "url": "https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc"
+    },
+    {
+      "album": {
+        "name": "troppo presto",
+        "url": "https://open.spotify.com/album/0pAfGcmGCRPOvflSiUbeDx"
+      },
+      "artists": [
+        {
+          "name": "Lil Markiese",
+          "url": "https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "troppo presto",
+      "url": "https://open.spotify.com/track/3VAKgrEdeG9Hyrr2midIgk"
     },
     {
       "album": {

@@ -1669,6 +1669,32 @@
     },
     {
       "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/2gLvq7aRQv8xuPtFHAoV1U"
+      },
+      "artists": [
+        {
+          "name": "Nissa",
+          "url": "https://open.spotify.com/artist/2bqyNDhVFDuK4wZUrZh6xy"
+        },
+        {
+          "name": "Federico Iv\u00e1n",
+          "url": "https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh"
+        },
+        {
+          "name": "QuixSmell",
+          "url": "https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150422,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/65EuqstzD2Eo1JMCklqDFF"
+    },
+    {
+      "album": {
         "name": "Diamante en Bruto",
         "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
       },
@@ -3630,7 +3656,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220551,
       "name": "MI CIUDAD",
       "url": "https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR"

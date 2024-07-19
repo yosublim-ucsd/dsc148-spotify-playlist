@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 59 | [You Fall](https://open.spotify.com/track/0vFrZO3xYina3cgFJ9WxKD) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:35 |
 | 60 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
 | 61 | [Suicide is Murder](https://open.spotify.com/track/3b3gGKj8NbZXr1saznk7tz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:14 |
-| 62 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
-| 63 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
+| 62 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
+| 63 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
 | 64 | [Disappeared](https://open.spotify.com/track/5Qp2RRwtmHEqR0oiCYuMti) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:24 |
 | 65 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
 | 66 | [Crazytown](https://open.spotify.com/track/2sEqiUBNSaOqQ32g7zp6KC) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:21 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AbW+AgAAAAAiDSXBcgSCncKMVzSVCa7T`
+Snapshot ID: `AbXFCwAAAAD0PJR+F2Xv0Kt2RBgYOEU3`

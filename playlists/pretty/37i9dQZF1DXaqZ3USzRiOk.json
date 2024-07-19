@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 190342,
+  "num_followers": 190450,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 114369,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Cruz De Madera",
         "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 181640,
       "name": "Sonora Y Sus Ojos Negros",
       "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 114369,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitazos",
-        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "Me Ca\u00ed De La Nube",
-      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "La Gitanilla",
+      "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -687,18 +687,34 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
+        "name": "15 \u00c9xitazos",
+        "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
         }
       ],
-      "duration_ms": 188773,
-      "name": "La Gitanilla",
-      "url": "https://open.spotify.com/track/12ef6MwgP0rOkJMWCgj9hR"
+      "duration_ms": 169761,
+      "name": "Me Ca\u00ed De La Nube",
+      "url": "https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Rancheras",
-        "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 129400,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Rancheras",
+        "url": "https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -795,22 +811,6 @@
       "duration_ms": 176520,
       "name": "Sin Fortuna",
       "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Casas de Madera",
-      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "La basurita",
-      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 184200,
       "name": "Tu Delirio",
       "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "La basurita",
+      "url": "https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Envidioso",
-        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191996,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/24FPZ021AP83t8OSQHRaAx"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+        "name": "El Envidioso",
+        "url": "https://open.spotify.com/album/0IY2lt6FzBz9PRmw8tWwkw"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+      "duration_ms": 191996,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/3cExeifTyKQSMLLwG70wIo"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1131,6 +1115,22 @@
       "duration_ms": 151591,
       "name": "Dos Gotas De Agua",
       "url": "https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "\u00c9xitos Rancheros",
+        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+      "duration_ms": 216189,
+      "name": "Mejor Me Voy",
+      "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1275,22 +1291,6 @@
       "duration_ms": 167026,
       "name": "Cuatro Meses",
       "url": "https://open.spotify.com/track/16TDGlrQ3h4qpdyOwaRp1i"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "\u00c9xitos Rancheros",
-        "url": "https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG"
-      },
-      "artists": [
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Mejor Me Voy",
-      "url": "https://open.spotify.com/track/7lmqbcwP3LO9fG5UwiMeLE"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
+        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Boh\u00e9mio De Afici\u00f3n",
         "url": "https://open.spotify.com/album/46eHKj2sjHO6Gxmq1ywzI6"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 186131,
       "name": "Me Ca\u00ed De La Nube",
       "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
-        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
-      },
-      "artists": [
-        {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/6lTpm4j7o24t3aQGo3uZLc"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC"
       },
@@ -2067,6 +2051,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/4XawDdKDqVXESh3qsBjxli"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "ALEJANDRO FERNANDEZ",
         "url": "https://open.spotify.com/album/0VgD1Cga3ynlgYavhnysiv"
       },
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Qu\u00e9 Falta Me Hace Mi Padre",
-        "url": "https://open.spotify.com/album/1QToXuBPlAx8xTmowmRJ3d"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Qu\u00e9 Falta Me Hace Mi Padre",
-      "url": "https://open.spotify.com/track/3ppXcGS8BEFHQrRZWTD7R0"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 201560,
       "name": "Desde Hoy - Con Mariachi",
       "url": "https://open.spotify.com/track/3xpcxYUs20mA2qAh0tsx48"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Ya Pa'que",
+        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/6rLlQDuwozeLWJEXZtTxrl"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2147,18 +2147,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Ya Pa'que",
-        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
+        "name": "Qu\u00e9 Falta Me Hace Mi Padre",
+        "url": "https://open.spotify.com/album/1QToXuBPlAx8xTmowmRJ3d"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 134000,
-      "name": "Con Que Me Pagas",
-      "url": "https://open.spotify.com/track/6rLlQDuwozeLWJEXZtTxrl"
+      "duration_ms": 198826,
+      "name": "Qu\u00e9 Falta Me Hace Mi Padre",
+      "url": "https://open.spotify.com/track/3ppXcGS8BEFHQrRZWTD7R0"
     },
     {
       "added_at": "2024-07-11 01:00:12",

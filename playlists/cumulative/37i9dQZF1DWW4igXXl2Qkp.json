@@ -17487,6 +17487,24 @@
     },
     {
       "album": {
+        "name": "ITS NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96026,
+      "name": "petty change",
+      "url": "https://open.spotify.com/track/685Em73Ehc0vHo5LdB21v0"
+    },
+    {
+      "album": {
         "name": "Piano Riff",
         "url": "https://open.spotify.com/album/4e0VBRJlR3l7XQloHB0NA6"
       },

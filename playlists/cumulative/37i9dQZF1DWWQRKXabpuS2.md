@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:حنين حسين
 
-350 songs - 1 day 0 hr 6 min
+351 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Ma Aaraf Qadry](https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5) | [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL) | [Ma Aaraf Qadry](https://open.spotify.com/album/4J95aQ00slYUW70bzAG8Tb) | 3:40 | 2021-12-23 | 2022-02-11 |
 | [Ma Anah Sdood](https://open.spotify.com/track/6IT8O67TCo3OKHaYTD4pKc) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Ma Anah Sdood](https://open.spotify.com/album/332L1H9wptriEuWQ2Zl7Fm) | 3:45 | 2021-12-23 | 2022-02-25 |
 | [Ma Fagadtek](https://open.spotify.com/track/5OS9kPuLlLchB7dwab7jsv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ma Fagadtek](https://open.spotify.com/album/1lUyJAzJODzhayn4dll1QX) | 3:59 | 2023-09-15 | 2024-05-02 |
+| [Ma Qeltelak](https://open.spotify.com/track/2xaE1hGY1KtsShvzZqKyLm) | [Abdallah Al Rowaished](https://open.spotify.com/artist/0CSS4q3XMMetWbMq6CE3FB) | [Ma Qeltelak](https://open.spotify.com/album/0tTkJqBFC2Z4JlXNms7zNr) | 5:48 | 2024-07-18 |  |
 | [Maalem Hanini](https://open.spotify.com/track/6hvVKdAx1d38usGQnah5bw) | [Borhan](https://open.spotify.com/artist/0Cqxw4TpB3KidRUI3IQBgi) | [Maalem Hanini](https://open.spotify.com/album/5KJOZBysIetUuFHf0fbynP) | 3:51 | 2024-05-17 |  |
 | [Maashar Al Oshag](https://open.spotify.com/track/6ICQlcNHmIY6JTf4pTNCkJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Layali Dehrab](https://open.spotify.com/artist/5Jm0HiIbPtXDptk9iWN9uf) | [Maashar AlOshag](https://open.spotify.com/album/4SVOCuVTPM93lStypg1RuG) | 3:32 | 2022-08-22 | 2023-03-15 |
 | [Maey Solef](https://open.spotify.com/track/2w9rtSDzKPD2ONLCG6f39o) | [Nariman](https://open.spotify.com/artist/4PGqbi1DtCzG4itqf4UcSh) | [Maey Solef](https://open.spotify.com/album/129Uvupg3zkSumY6XQuoLv) | 5:47 | 2021-12-23 | 2022-03-12 |
@@ -297,7 +298,7 @@
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-25 | 2024-03-12 |
 | [العمر مره](https://open.spotify.com/track/0Sy22uAj6TAgeMaBYsZoA8) | [Talal Salamah](https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0) | [العمر مره](https://open.spotify.com/album/7iheqelPa0NoHhuNDTbsuf) | 4:56 | 2023-11-23 | 2024-04-19 |
 | [الف شكراً](https://open.spotify.com/track/1ZADeCy8PdRpyWTp4o6UAz) | [مروان الشرعبي](https://open.spotify.com/artist/0y3v5JCTe3Thy9ENaJek3C), [محمد الميسري](https://open.spotify.com/artist/4Nobe2k6jBh5aMirCIlChR) | [الف شكراً](https://open.spotify.com/album/4avdv89BhKv0QIZbxDtWXd) | 3:06 | 2024-02-01 |  |
-| [بح صوتك](https://open.spotify.com/track/3sXJMNSewXpeBn4Kmr8GR4) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 6:33 | 2023-12-15 |  |
+| [بح صوتك](https://open.spotify.com/track/3sXJMNSewXpeBn4Kmr8GR4) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 6:33 | 2023-12-15 | 2024-07-19 |
 | [بديت اطيب](https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [بديت اطيب](https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq) | 4:36 | 2023-02-24 | 2023-09-19 |
 | [تولعت بك](https://open.spotify.com/track/0GUMuiH1nCUrv6Qn3XoSLt) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثالث](https://open.spotify.com/album/0gjd8nLLwr2sHk7lsfBfvL) | 4:59 | 2023-09-12 | 2023-12-15 |
 | [تولعت بك](https://open.spotify.com/track/1idQ7lQep9uQaGoxEDu3Nx) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر 2023](https://open.spotify.com/album/1JacTI0m2p7hVvIta6UVpi) | 4:59 | 2023-12-09 | 2024-04-11 |

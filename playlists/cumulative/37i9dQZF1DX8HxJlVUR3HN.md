@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
+> Les meilleures nouveautés de la scène rock française\. Photo : Indochine
 
-238 songs - 14 hr 32 min
+242 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-18 | 2024-06-07 |
 | [Adversity](https://open.spotify.com/track/4XXfZ11foyE5yjShXnoyTI) | [Deep Merries](https://open.spotify.com/artist/42l0fKzMugV26K0EufdWIP), [Dimi](https://open.spotify.com/artist/4Y7fABCOFVQt0fxmXoASbN) | [Adversity](https://open.spotify.com/album/6MAXpzvmJtpnG3VvUHUBFU) | 3:16 | 2024-05-09 |  |
 | [Aha \(it's ok\)](https://open.spotify.com/track/25hjwH9ePERli6DDv8x7Kf) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Aha \(it's ok\)](https://open.spotify.com/album/17TOyoj109pxs3pjjgLUrH) | 3:16 | 2024-02-08 | 2024-03-29 |
+| [All My Friends](https://open.spotify.com/track/4e3KUQvGL2RdTEtlhfHz8e) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [All My Friends](https://open.spotify.com/album/1pGnimBDzP86WP8TX6M0qn) | 2:55 | 2024-07-18 |  |
 | [All Saints](https://open.spotify.com/track/67PbgSOlVPaxKfbG4QosTC) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [All Saints](https://open.spotify.com/album/6XHyKhBONAA6IH1KTZJHTw) | 4:04 | 2023-10-19 | 2024-03-22 |
 | [Alone](https://open.spotify.com/track/7v80vLTX2QWEdfdafFTj4u) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Alone](https://open.spotify.com/album/6Amqo835TnuSYSnSEqHdx1) | 4:16 | 2024-04-25 | 2024-06-14 |
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-18 | 2024-03-08 |
@@ -47,7 +48,7 @@
 | [Childish World](https://open.spotify.com/track/2T90flkgMSkqHYTbbmE1xv) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [Childish World](https://open.spotify.com/album/7CMKlkjgIYCxvYUPrQEfji) | 3:13 | 2023-11-30 | 2024-03-08 |
 | [Cigarette](https://open.spotify.com/track/01jRRZ8ojker6VwHd75UZF) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Cigarette](https://open.spotify.com/album/3AAGdDB6Q458r3ZvawOjoL) | 5:05 | 2023-11-09 | 2023-11-17 |
 | [City Burns](https://open.spotify.com/track/5rRhmnN2n7HO6j2PFFzdT0) | [Parlor Snakes](https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG) | [City Burns](https://open.spotify.com/album/1tmS3vbx54sknEy8b8Z1Lt) | 4:12 | 2024-02-29 | 2024-04-19 |
-| [Clean Shot](https://open.spotify.com/track/5KTvB4hl3g3BJQYJbG8tmD) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp) | 5:00 | 2024-05-02 |  |
+| [Clean Shot](https://open.spotify.com/track/5KTvB4hl3g3BJQYJbG8tmD) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp) | 5:00 | 2024-05-02 | 2024-07-19 |
 | [Cold Hands](https://open.spotify.com/track/37rLg6sA6pqehjeLdGIWb4) | [Parlor Snakes](https://open.spotify.com/artist/3DZM5nb1bQ95thMQmFaWhG) | [Cut Shadows](https://open.spotify.com/album/3w8EdAk3VSrUhcuRuT64Q3) | 4:33 | 2024-04-18 | 2024-06-07 |
 | [Cold Touch](https://open.spotify.com/track/3g17Pbdm6DOy3LzX4graWq) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Cold Touch](https://open.spotify.com/album/6oHVSL3iyb9gpYKRh2lPHS) | 4:19 | 2023-11-16 | 2024-04-19 |
 | [Cold Water Swim](https://open.spotify.com/track/0sUCO8NGZhMG7IXRZ9IQjr) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Cold Water Swim](https://open.spotify.com/album/0awhRPFIuizXkso3zAiwWb) | 2:51 | 2023-10-19 | 2024-01-19 |
@@ -55,6 +56,7 @@
 | [Come Clean](https://open.spotify.com/track/1yWlUQ9xAfimsKmfq7XvsC) | [SUN](https://open.spotify.com/artist/5EjzvshGaeIYnjdttJF6ZQ) | [Come Clean](https://open.spotify.com/album/1UmP97lm9EXhGd5WgSO5Pt) | 3:23 | 2024-05-16 | 2024-06-21 |
 | [Comfort Zone](https://open.spotify.com/track/4meJcWnZIsYL5CDpamJH0D) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Comfort Zone](https://open.spotify.com/album/3Wm8avMamR1wrfyYtmbrK7) | 3:32 | 2023-11-09 | 2024-02-02 |
 | [Constant Rebirth](https://open.spotify.com/track/7aIOmApDKfraYs1YKlS2YJ) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Constant Rebirth](https://open.spotify.com/album/177ZDDCagLXjwZyglACK5Y) | 3:54 | 2023-11-16 | 2024-01-19 |
+| [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-07-18 |  |
 | [Counting down the Days](https://open.spotify.com/track/0snV7BsW85mM3Y5J0f0rBN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Failed By Choice](https://open.spotify.com/album/4ZpRjNZsXJIPdIcUO757RE) | 4:26 | 2023-09-28 | 2023-11-10 |
 | [Curse](https://open.spotify.com/track/5oDoLOYCpj3yWvdOYPI0j8) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Curse](https://open.spotify.com/album/3prw2GR8dd3xJB9b1jWSx5) | 3:02 | 2024-05-02 |  |
 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 | 2023-09-28 | 2024-06-14 |
@@ -69,7 +71,7 @@
 | [Event Horizon \- Fuzz Edit](https://open.spotify.com/track/4z4xDLd0zqQ7cOmcQypJAI) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon \(Fuzz Edit\)](https://open.spotify.com/album/0qWz6iMRYWxT7qLboAcklq) | 3:29 | 2023-11-23 | 2024-01-12 |
 | [Everybody Dies](https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Everybody Dies](https://open.spotify.com/album/7JVlIzxeoHtMy2LeSQMI9p) | 2:55 | 2024-05-23 |  |
 | [Eyes Don't Lie](https://open.spotify.com/track/2cbb8P8Hk9wcWCvI26GRAw) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [Blind](https://open.spotify.com/album/07zIyAVuxE0K6Kxc4b2DYe) | 4:58 | 2023-09-28 | 2023-12-08 |
-| [Fake Generation](https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Ravage Club](https://open.spotify.com/album/1uPzPtxZjx8ODJnuSSNjOP) | 2:59 | 2024-06-06 |  |
+| [Fake Generation](https://open.spotify.com/track/7spNRbmZcrrfmQ8ou1KmP9) | [Ravage Club](https://open.spotify.com/artist/74RDJyFxXw9okuAnO6zXWm) | [Ravage Club](https://open.spotify.com/album/1uPzPtxZjx8ODJnuSSNjOP) | 2:59 | 2024-06-06 | 2024-07-19 |
 | [Fantasize](https://open.spotify.com/track/0U4fmzqtFTbtrwX7QQooT3) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Fantasize](https://open.spotify.com/album/0QMUUYbfJ1Tu6fuilNyhor) | 2:42 | 2023-09-28 | 2023-11-25 |
 | [Far and Fast](https://open.spotify.com/track/3GmMda5bpuV1TVFTzpstdQ) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Far and Fast](https://open.spotify.com/album/5rwU8EHI6JedYqTxL6brZo) | 3:52 | 2023-11-02 | 2023-12-01 |
 | [Feel the Shine](https://open.spotify.com/track/0QBBOjiKJKavnRED86iGUY) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:01 | 2024-02-15 | 2024-04-26 |
@@ -96,7 +98,7 @@
 | [Hypnotized](https://open.spotify.com/track/17Ig0GeL1BPTh2K9SwwIKZ) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Hypnotized](https://open.spotify.com/album/1X7RILlUXKDyOD1NZBEhwO) | 3:46 | 2023-10-12 | 2023-11-17 |
 | [I Can't Be Yours](https://open.spotify.com/track/2gnq5j1BmHXIMiCYzCDPgh) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [I Can't Be Yours](https://open.spotify.com/album/2GOtx62sD5AQUDUT6JgQ57) | 4:13 | 2024-01-11 | 2024-03-01 |
 | [I Wish Myself To Be Happier](https://open.spotify.com/track/6fqORwQ9eGFYf9U96iXmBh) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [I Wish Myself To Be Happier](https://open.spotify.com/album/2fCy7NJX4jcHE0XLzPOIrr) | 2:15 | 2024-02-29 | 2024-03-15 |
-| [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 | 2024-06-13 |  |
+| [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 | 2024-06-13 | 2024-07-19 |
 | [Ignition](https://open.spotify.com/track/0h3K04iQP75lCuo6eWWgBc) | [The Redshift Empire](https://open.spotify.com/artist/281h6Q0ZjiaowIEl77K000) | [New Horizons](https://open.spotify.com/album/5nTX6Gy6ivhCStwSL2xTu9) | 3:51 | 2023-11-09 | 2024-03-01 |
 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 | 2023-10-05 | 2023-12-08 |
 | [In Stone](https://open.spotify.com/track/5d17zQEKvgoXlCtszxL7it) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Human](https://open.spotify.com/album/07SPetFV41UfQXMpsHj4CO) | 3:34 | 2023-09-28 | 2023-11-10 |
@@ -148,6 +150,7 @@
 | [Om Namah Shivaya](https://open.spotify.com/track/1xhdb1IUjxtRTUm5f2TPLk) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/7cZuHS2e1grx3o3DgDlYau) | 4:40 | 2024-04-25 | 2024-05-03 |
 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 | 2023-09-28 | 2023-12-15 |
 | [One Face And A Hundred Souls](https://open.spotify.com/track/393hKvpbS4ZFJyXX1JKdcy) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [The Great Listener](https://open.spotify.com/album/6QvP6aqsSCCbdYTo6gBikb) | 3:42 | 2024-05-30 |  |
+| [Oublie\-Moi](https://open.spotify.com/track/0WGptJ1qOflBWrp4xO5vhX) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH) | [Oublie\-Moi](https://open.spotify.com/album/1MX8g82qAIy1CxxYI2L6O4) | 3:24 | 2024-07-18 |  |
 | [OWL IN OWL](https://open.spotify.com/track/6YkjlCD3MOYl6YBdBohKdC) | [Duckblockers](https://open.spotify.com/artist/32ddgCA0JOyQIpq42h4tYP) | [OWL IN OWL](https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7) | 3:16 | 2023-11-16 | 2023-12-22 |
 | [Oxygène Pur](https://open.spotify.com/track/1kSz44REfDAljyMl25XnC3) | [Timothée Joly](https://open.spotify.com/artist/6BZC93YSqYoCWYItIVlQya) | [Oxygène Pur](https://open.spotify.com/album/4nAfQi0pIHkOZRzKOIcA21) | 3:30 | 2024-05-30 |  |
 | [Passenger](https://open.spotify.com/track/4p6yyTfYGOGWwNtxVMEHmj) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 4:03 | 2023-09-28 | 2023-10-27 |
@@ -162,6 +165,7 @@
 | [Real Countdown](https://open.spotify.com/track/3UDDYFwQpb073iwaO7oDa4) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Way out West!](https://open.spotify.com/album/3kjpB1Aze30GpLmJtVpdSd) | 4:54 | 2023-09-28 | 2023-10-06 |
 | [Rebounds](https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu) | [YEAHRS](https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd) | [Spiritual Sickness](https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO) | 4:20 | 2024-02-29 | 2024-06-28 |
 | [Regenerated](https://open.spotify.com/track/1syfjH2Wx6MclvB7YFkUbB) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Regenerated](https://open.spotify.com/album/1j3UI9RfjPrA0lAfNFTdqo) | 3:22 | 2023-09-28 | 2023-11-17 |
+| [Resign](https://open.spotify.com/track/5PNyY0cSYmRednV5H3wROh) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Shaka Ponk](https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad) | 3:42 | 2024-07-18 |  |
 | [Riga](https://open.spotify.com/track/3zPqSivFOYX7O8CW42P7vN) | [Robot Orchestra](https://open.spotify.com/artist/5inApTkXoUrypCCPgEXrnp) | [Riga](https://open.spotify.com/album/0x0QW5gmu3dzSKnfFmkEkq) | 3:28 | 2024-01-11 | 2024-01-26 |
 | [Rosie](https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Rosie](https://open.spotify.com/album/6vthyj2qxtKwzuTSZZWJWD) | 2:58 | 2024-04-18 | 2024-06-01 |
 | [Rules Bulls Bells](https://open.spotify.com/track/70RBWtoY36xVfOiRic5toh) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Rules Bulls Bells](https://open.spotify.com/album/2P64XDf3jrkyiMulj0ZHUo) | 3:29 | 2024-01-25 | 2024-03-08 |
@@ -214,7 +218,7 @@
 | [THE OUTSIDER](https://open.spotify.com/track/6uApMCvfHnJVLDG538k5kr) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 7:22 | 2024-04-25 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-23 | 2024-01-12 |
 | [The Undercover Man](https://open.spotify.com/track/1mQmOLp6op4aXMggN800U9) | [Shaker Poisson](https://open.spotify.com/artist/0bZSQ7lf91kvi8h7fioG3A) | [The Undercover Man](https://open.spotify.com/album/59bl4gqVOdo9QNxbMcJiVR) | 3:56 | 2024-04-18 |  |
-| [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 | 2024-02-29 |  |
+| [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 | 2024-02-29 | 2024-07-19 |
 | [Time](https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Time](https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9) | 2:49 | 2023-10-05 | 2024-02-02 |
 | [Tiny Actions \\ Unexpected Results](https://open.spotify.com/track/0VnWBIxITcm9sV4qPZShM3) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Tiny Actions \\ Unexpected Results](https://open.spotify.com/album/547AxZceVBxf3NchgpdFaB) | 5:25 | 2024-02-15 | 2024-04-12 |
 | [To A Mouse](https://open.spotify.com/track/5fLHPjaaylY2pNa25odM5U) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [To A Mouse](https://open.spotify.com/album/0VpFwTHSRXM4gjR2XwNtLK) | 3:22 | 2023-09-28 | 2023-10-20 |

@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 289809,
       "name": "Abasi Isang",
       "url": "https://open.spotify.com/track/5n8Ojo7PxZtMyFAx8BgPaE"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 392146,
       "name": "An Ever Changing View",
       "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 296760,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/06ZtOGU9o24rkc4fCwi88J"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 228523,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
@@ -4672,7 +4672,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 424960,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
@@ -5002,7 +5002,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 237046,
       "name": "In The Fire",
       "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
@@ -5276,6 +5276,24 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "album": {
@@ -6006,7 +6024,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 247102,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
@@ -6112,7 +6130,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
@@ -7660,7 +7678,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 311686,
       "name": "Ode Two",
       "url": "https://open.spotify.com/track/1CoNi5SlHAPZLGHsL57ril"
@@ -8290,7 +8308,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 271826,
       "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "url": "https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W"
@@ -8516,7 +8534,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
@@ -8840,6 +8858,44 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "album": {
+        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
+        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Lula Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324529,
+      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
+      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
     },
     {
       "album": {
@@ -10636,7 +10692,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 340840,
       "name": "The Light (feat. Bahia Dayes)",
       "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
@@ -11072,7 +11128,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
@@ -11224,7 +11280,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 191893,
       "name": "Turquoise Galaxy",
       "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
@@ -11876,7 +11932,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193190,
       "name": "What Do You Do",
       "url": "https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f"
@@ -12244,6 +12300,24 @@
       "duration_ms": 400800,
       "name": "Words Left Unspoken",
       "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
+    },
+    {
+      "album": {
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
     },
     {
       "album": {

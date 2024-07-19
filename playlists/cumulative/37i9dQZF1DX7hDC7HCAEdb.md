@@ -2,9 +2,9 @@
 
 ### [Scotify](https://open.spotify.com/playlist/37i9dQZF1DX7hDC7HCAEdb)
 
-> The best new alternative sounds from Scotland\. Cover: The LaFontaines
+> The best new alternative sounds from Scotland\. Cover: The Joy Hotel
 
-73 songs - 4 hr 7 min
+76 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Million People](https://open.spotify.com/track/5N9nG4ZGVRm4qTIkcrCKV1) | [Neon Waltz](https://open.spotify.com/artist/1HMvS7MZ6mocKBi5iAIwBl) | [A Million People](https://open.spotify.com/album/0dMgwhZ8gI88tPnJhLywFE) | 3:42 | 2024-06-20 |  |
 | [Afterwords](https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Afterwords](https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R) | 4:28 | 2024-06-20 |  |
 | [All The Clouds and Silver Linings](https://open.spotify.com/track/0hWmSHFuTQboBKtLuozMBt) | [The Kundalini Genie](https://open.spotify.com/artist/4HnlwfvTPSe7zKbVZN1J3W) | [False Highs, True Lows](https://open.spotify.com/album/0BjIqsDr3qJhlWVi0UxJtC) | 3:43 | 2024-06-20 |  |
+| [Amber](https://open.spotify.com/track/5RhQGeNZkj3VycL9IBKVxh) | [Wrest](https://open.spotify.com/artist/6unqrJxdXZSNKHPDbluRGx) | [Amber](https://open.spotify.com/album/15IgkGML8QZjVwCoJlIc3Q) | 4:26 | 2024-07-18 |  |
 | [Beautiful View](https://open.spotify.com/track/1L1YNvHGQk5si8wxhABVQz) | [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Beautiful View](https://open.spotify.com/album/20Fa3LrHum284BwcuuVhJj) | 2:55 | 2024-06-20 |  |
 | [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-06-20 |  |
 | [Blue](https://open.spotify.com/track/07ACweeHrzXFo94zr3ApJv) | [Fright Years](https://open.spotify.com/artist/6Cq33l3cnGmtB1MlDWkqH6) | [Blue](https://open.spotify.com/album/4vgRd3oF3AzLDOM1M5rXSh) | 3:55 | 2024-06-20 |  |
@@ -20,8 +21,9 @@
 | [Call You Later](https://open.spotify.com/track/6iGae0HBCkVjssHWeU23K5) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Call You Later](https://open.spotify.com/album/0BjT0EHI4nJD3Rn7DVI67Y) | 3:44 | 2024-06-20 |  |
 | [Cherry Blossom Boy](https://open.spotify.com/track/0GJZQbHpmBgPrEDO8vXkYc) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Cherry Blossom Boy](https://open.spotify.com/album/1OS6etTHNezzook7LqTxrX) | 3:37 | 2024-06-20 |  |
 | [City On Fire](https://open.spotify.com/track/23yYAT8Nt1G6dXnJBolTab) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(10 Year Anniversary Special Edition\)](https://open.spotify.com/album/3gvcOyv8IJfNZUbXjce0JW) | 4:38 | 2024-06-20 |  |
-| [darkroom](https://open.spotify.com/track/4pyVRH0ExZOtrJCxS2e4gM) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [darkroom](https://open.spotify.com/album/1o46mtab2pTJc2EOO7f3KT) | 2:36 | 2024-06-20 |  |
+| [darkroom](https://open.spotify.com/track/4pyVRH0ExZOtrJCxS2e4gM) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [darkroom](https://open.spotify.com/album/1o46mtab2pTJc2EOO7f3KT) | 2:36 | 2024-06-20 | 2024-07-19 |
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-20 |  |
+| [Disconnect](https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Disconnect](https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs) | 3:15 | 2024-07-18 |  |
 | [Do You Think She's Pretty?](https://open.spotify.com/track/4desD03ERFugMtcKzDxDBy) | [PLASTICINE](https://open.spotify.com/artist/2sPWGS1ZbqdUk7ZHcIRV78) | [Do You Think She's Pretty?](https://open.spotify.com/album/5R8uWHj3mPgAc3N1fUwed4) | 4:20 | 2024-06-20 |  |
 | [EMPTY FEELING.](https://open.spotify.com/track/4F1yjXmwU45Eej69dJs2Bd) | [mouse.](https://open.spotify.com/artist/2KddRhT1xqFnWJeAJEPhQX) | [EMPTY FEELING.](https://open.spotify.com/album/78DkibCvvDGG7QHIddCFeX) | 3:18 | 2024-06-20 |  |
 | [Everything](https://open.spotify.com/track/4nrxXuVl1LQdUAn7zNYdSg) | [Skydaddy](https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX) | [Pilot](https://open.spotify.com/album/7kkFHOhqj5safgBxzNDeZI) | 5:18 | 2024-06-20 |  |
@@ -38,12 +40,13 @@
 | [hey dad](https://open.spotify.com/track/3SnNRAi8J5xGzylYH4RPjS) | [Vickie Paxton](https://open.spotify.com/artist/19tyvYKmgXcCBms7Ovomv3) | [hey dad](https://open.spotify.com/album/2JuyAx0ntafCShdyqoQb83) | 4:29 | 2024-06-20 |  |
 | [HOME](https://open.spotify.com/track/71qc8VB5Ub08N19jcXxRPq) | [boy\*](https://open.spotify.com/artist/3ZTz7yET871LD1ExdwaP9o) | [HOME](https://open.spotify.com/album/7qFexZPkKllAr48nFa1o8J) | 2:02 | 2024-06-20 | 2024-07-05 |
 | [Home Run](https://open.spotify.com/track/6tkTu2abcxLnvU1cVQDfJV) | [Finn Brodie](https://open.spotify.com/artist/2Y7hcvXoAGy0PLG2j5kPCX) | [Home Run](https://open.spotify.com/album/7DPkLFKMNNCa66xp7PXb6k) | 4:23 | 2024-06-20 |  |
+| [I Decline](https://open.spotify.com/track/2ry4AdKcZDYhJfacJx3mdI) | [The Joy Hotel](https://open.spotify.com/artist/2QP5fu7d9SH1sat7LJ7ub4) | [Ceremony](https://open.spotify.com/album/5TS19aOraQH5WFzCV5ynl3) | 5:35 | 2024-07-18 |  |
 | [I Look Like A Fool To You](https://open.spotify.com/track/1g4XkTUbz735e6IAR5DQ7q) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [I Look Like A Fool To You](https://open.spotify.com/album/6FscwSoZ0kbDHO7CCsfsIn) | 3:08 | 2024-06-20 |  |
 | [IGNORE THIS](https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [IGNORE THIS](https://open.spotify.com/album/1tI8iV5L67yiKB6g17rma3) | 3:09 | 2024-06-20 |  |
 | [In The Garden](https://open.spotify.com/track/3w5uommxbJCwOA7MrnTJbT) | [Savage Mansion](https://open.spotify.com/artist/7swQwXZqZ0MQmy6hZngZAP) | [In The Garden](https://open.spotify.com/album/3TA8DjVquSxCVxxku6WvHa) | 2:07 | 2024-06-20 |  |
 | [Intruders](https://open.spotify.com/track/31tuzNc0GJtsnEa9zYerIK) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Intruders](https://open.spotify.com/album/4H2Y3xjnRcZc2LUdufQ8o8) | 3:26 | 2024-06-20 |  |
 | [jamcod](https://open.spotify.com/track/1DBRdzUgZrX7WBygQD2GhR) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [jamcod](https://open.spotify.com/album/5vIGXSK8CJfU136cXYtziM) | 3:59 | 2024-06-20 |  |
-| [Just Leave](https://open.spotify.com/track/7ablVqWQgwf5AFuFg3fP70) | [Craig Eddie](https://open.spotify.com/artist/27O6Q2Y9ImQzCqrRLeRcZY) | [Just Leave](https://open.spotify.com/album/5s5CglVsQCwsYWvRMXnJpH) | 3:00 | 2024-06-20 |  |
+| [Just Leave](https://open.spotify.com/track/7ablVqWQgwf5AFuFg3fP70) | [Craig Eddie](https://open.spotify.com/artist/27O6Q2Y9ImQzCqrRLeRcZY) | [Just Leave](https://open.spotify.com/album/5s5CglVsQCwsYWvRMXnJpH) | 3:00 | 2024-06-20 | 2024-07-19 |
 | [jUST tRYING tO rELAX](https://open.spotify.com/track/1aviRHvfIKAi4Ms4TFptWA) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [jUST tRYING tO rELAX](https://open.spotify.com/album/3pLVtJHixqJLWLFZxE4cJw) | 3:27 | 2024-06-20 |  |
 | [Keep Me On The Outside](https://open.spotify.com/track/3eZhbX8zfcVX4ybYEnYAUh) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/34FHhBfDBRnmkkD0c14Rdq) | 2:55 | 2024-06-20 |  |
 | [Left Off](https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Left Off](https://open.spotify.com/album/125ROOxxg7yBtVrSoKAHWV) | 3:32 | 2024-06-20 |  |
@@ -72,7 +75,7 @@
 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 | 2024-06-20 |  |
 | [Spirit Folio](https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [Spirit Folio](https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4) | 4:04 | 2024-06-20 |  |
 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 | 2024-06-20 |  |
-| [TAKE CARE](https://open.spotify.com/track/0FQzUq3f6o5pJNhMJCA7qH) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [firsts.](https://open.spotify.com/album/0RQGsyCOUuEXEMSABUTAkc) | 3:10 | 2024-06-20 |  |
+| [TAKE CARE](https://open.spotify.com/track/0FQzUq3f6o5pJNhMJCA7qH) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [firsts.](https://open.spotify.com/album/0RQGsyCOUuEXEMSABUTAkc) | 3:10 | 2024-06-20 | 2024-07-19 |
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 |  |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |

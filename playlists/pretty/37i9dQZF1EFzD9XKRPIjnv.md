@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 109 | [House](https://open.spotify.com/track/1dqQSYy1Hny4okA5GABysg) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Endless](https://open.spotify.com/album/4cY2oRQAxm4TgstWzhIBWl) | 3:21 |
 | 110 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 111 | [Too High](https://open.spotify.com/track/6K90HAZnW5jrYMqMeI54BJ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Too High](https://open.spotify.com/album/2t4h2ecBsgjoaQ2rRg9RVt) | 3:02 |
-| 112 | [Right Back](https://open.spotify.com/track/0Y4dxwK1dygWxLJcJZADdF) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Right Back](https://open.spotify.com/album/1VrkLeqgalSbnyNXkHsmbM) | 3:14 |
-| 113 | [7 Days](https://open.spotify.com/track/1HRYtqOPBlFtNxoNRcEnkJ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 2:52 |
+| 112 | [7 Days](https://open.spotify.com/track/1HRYtqOPBlFtNxoNRcEnkJ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 2:52 |
+| 113 | [Right Back](https://open.spotify.com/track/0Y4dxwK1dygWxLJcJZADdF) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Right Back](https://open.spotify.com/album/1VrkLeqgalSbnyNXkHsmbM) | 3:14 |
 | 114 | [Thinking Out Loud](https://open.spotify.com/track/4pEzun7X6uBBrFIwfomqn1) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Art Dealer Chic 4](https://open.spotify.com/album/0HjWJuW1StzouaOWndsxt9) | 3:10 |
 | 115 | [Paradigm](https://open.spotify.com/track/3VX9HKHVjgyP0ttPleaRDE) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:24 |
 | 116 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 130 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 131 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AbW+BgAAAABpduCTJlv3JmtrmNiC+kcN`
+Snapshot ID: `AbXFDgAAAADbyF5PyOBiwBjoPBoWFix4`

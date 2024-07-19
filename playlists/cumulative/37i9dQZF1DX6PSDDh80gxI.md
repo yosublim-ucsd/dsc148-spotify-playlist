@@ -2,15 +2,15 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Il meglio dell’indie italiano! Cover: Angelica 💚
+> Il meglio dell’indie italiano! svegliaginevra in cover
 
-66 songs - 3 hr 24 min
+69 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+1](https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:05 | 2024-06-27 |  |
 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 | 2024-06-27 |  |
-| [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 |  |
+| [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Alta marea](https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Alta marea](https://open.spotify.com/album/34xqVY6cGU0SpipmZ8pj3x) | 2:51 | 2024-06-27 |  |
 | [Ammore Pe Na Sera](https://open.spotify.com/track/5DsuqCkFb3V2PNN1qAzHGN) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Ammore Pe Na Sera](https://open.spotify.com/album/01mSfOLM1Wm0eAZWxfg3kD) | 3:30 | 2024-06-27 |  |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 |  |
@@ -25,13 +25,14 @@
 | [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 |  |
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 |  |
 | [Farò Più Rumore Del Ratatata](https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t), [Toomaj](https://open.spotify.com/artist/5mBmrpiMC2lzIWCG0MDOYx) | [Farò Più Rumore Del Ratatata](https://open.spotify.com/album/69SXGkqk4Q5PXr1S2brFPO) | 2:46 | 2024-06-27 |  |
+| [fiori / posto sbagliato](https://open.spotify.com/track/2tkp6VIVfaU57qh1vd7Kqb) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [fiori / posto sbagliato](https://open.spotify.com/album/5mFC0c1KveeilQOdpmP84G) | 2:41 | 2024-07-18 |  |
 | [Flavio](https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [DENTRO](https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV) | 3:02 | 2024-06-27 |  |
 | [Fratello](https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 2:47 | 2024-06-27 |  |
 | [FUORI ROTTA](https://open.spotify.com/track/2GuOuGiBR1hCaf0FBl93Uw) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [FUORI ROTTA](https://open.spotify.com/album/6xKa5iiKwEl8yumheDmbiC) | 3:00 | 2024-06-27 |  |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-06-27 |  |
 | [Giura](https://open.spotify.com/track/2R5t2eZcBd0HTuthZChjSN) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Long Story Short](https://open.spotify.com/album/5AYVsYQIJRgxdDTOGxrVFL) | 3:00 | 2024-06-27 | 2024-07-05 |
 | [GUAGLIONA \(feat\. Lil Jolie\)](https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [GUAGLIONA](https://open.spotify.com/album/6ssZZ0r8YDAFO8NMcLNmMP) | 2:45 | 2024-06-27 |  |
-| [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 |  |
+| [Hiroshima \(feat\. piazzabologna\)](https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [DISCO DEFAULT](https://open.spotify.com/album/0fzEQdXr2Z9r5VvnskQUkz) | 2:55 | 2024-06-27 | 2024-07-19 |
 | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/track/3AvWA6n798ACuSjwYdBL2v) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5) | 3:00 | 2024-06-27 |  |
 | [L'abbraccio](https://open.spotify.com/track/5P7wqfjs3KzLOCLHwJCQcI) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sulle ali del cavallo bianco](https://open.spotify.com/album/5DvLCGUEoP0zSTEI7PuIQq) | 3:37 | 2024-06-27 |  |
 | [l'amore in bocca](https://open.spotify.com/track/6QnX3AZkvOzwQt0fdS6cZT) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [l'amore in bocca](https://open.spotify.com/album/7ITbHXkZPg7XqSrHMAacPF) | 2:52 | 2024-06-27 |  |
@@ -62,10 +63,11 @@
 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 | 2024-06-27 |  |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 |  |
 | [STRANO DESERTO ᨎ \(con Cosmo, Rares\)](https://open.spotify.com/track/1YFhKr5EldFs93ywTtSzLi) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Rareș](https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:31 | 2024-06-27 |  |
+| [Sul più bello](https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Sul più bello](https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx) | 2:56 | 2024-07-18 |  |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 |  |
 | [Terra bruciata](https://open.spotify.com/track/7rY0vHCtgNI37kMY9wIkCg) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:45 | 2024-06-27 |  |
 | [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 |  |
-| [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 | 2024-06-27 |  |
+| [Trasparente](https://open.spotify.com/track/7K51Wblkit2uioRGADynFB) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Trasparente](https://open.spotify.com/album/1do0123ojQgh5q61ie8qoT) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [Tu con me hai chiuso](https://open.spotify.com/track/5EDkL5ZFCbroL36R8ZmPsX) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Tu con me hai chiuso](https://open.spotify.com/album/4S5w44QBiLFDaSbW6gUlPL) | 3:20 | 2024-06-27 |  |
 | [tutta vera](https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [tutta vera](https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5) | 3:19 | 2024-06-27 |  |
 | [Tutti](https://open.spotify.com/track/3G5VUAzCpvaaWEMk9NkHFT) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 4:10 | 2024-06-27 |  |
@@ -73,6 +75,7 @@
 | [Tutto Qui](https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Tutto Qui](https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN) | 3:31 | 2024-06-27 |  |
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 |  |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
+| [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 |  |
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

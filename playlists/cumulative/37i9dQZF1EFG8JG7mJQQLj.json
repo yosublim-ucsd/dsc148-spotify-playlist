@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123281,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
+    },
+    {
+      "album": {
         "name": "Charice",
         "url": "https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg"
       },

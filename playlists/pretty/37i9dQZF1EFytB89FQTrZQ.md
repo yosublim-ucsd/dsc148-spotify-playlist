@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,503 likes - 306 songs - 17 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,505 likes - 306 songs - 17 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 156 | [Overglow](https://open.spotify.com/track/431dLa3HnVrcW6cVdKWe1h) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:32 |
 | 157 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
 | 158 | [Outside](https://open.spotify.com/track/7cjg32GaSbJHsN4Wc26PU0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:38 |
-| 159 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
-| 160 | [Monster](https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Infinite Things](https://open.spotify.com/album/4ynl3QNO1lnfJWqWDJmb1A) | 3:11 |
+| 159 | [Monster](https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Infinite Things](https://open.spotify.com/album/4ynl3QNO1lnfJWqWDJmb1A) | 3:11 |
+| 160 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
 | 161 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
 | 162 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
 | 163 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 196 | [WORRY TOO MUCH \- EDIT](https://open.spotify.com/track/6uuqMnJ49QOfToEqTObu7B) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [S'natra](https://open.spotify.com/artist/6ejpB7JpUhE7XHXAIStcsv), [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:14 |
 | 197 | [Today](https://open.spotify.com/track/0rkOrVDaEZFjYh0s2ncz3l) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:42 |
 | 198 | [Critical](https://open.spotify.com/track/5OzECzDAbZ4BUKenQB11q2) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [From My Sleeve To The World](https://open.spotify.com/album/5B9nB3l4Ge5AOiBz4jEs2o) | 3:14 |
-| 199 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
-| 200 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 |
+| 199 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 |
+| 200 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
 | 201 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
 | 202 | [Heart & Soul](https://open.spotify.com/track/61yTqIK1JeO1V6bwOeTKSb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/6sxWIQBXdPaom8CiG0IMOT) | 2:42 |
 | 203 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
@@ -315,4 +315,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 305 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 306 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbW+AgAAAACpiCaDbKOTtfYmsmxkMXM6`
+Snapshot ID: `AbXFCgAAAACa05lRBfowpt+BGoljBxbe`

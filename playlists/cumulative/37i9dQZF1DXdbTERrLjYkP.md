@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Avery Lynch
+> Discover the next wave of talent writing their own songs\. Cover: Hana Effron
 
-702 songs - 1 day 13 hr 20 min
+703 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 | 2023-04-28 | 2023-08-19 |
 | [8 Hours](https://open.spotify.com/track/33LB1jDEoWLlre9K8dTftW) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [8 Hours](https://open.spotify.com/album/3hxsVO5zA1zQOCItEBlV6x) | 3:23 | 2022-09-30 | 2022-12-24 |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-23 | 2023-11-11 |
+| [A Hollywood Sign](https://open.spotify.com/track/3e5pd6rXyzoM7Rd6e8P4gq) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/5KarE4XDeYR5Yk6A9wFyow) | 3:31 | 2024-07-19 |  |
 | [a little hope never hurt](https://open.spotify.com/track/1qtgowcQwcwESt4x8Sh7n0) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/2kjJqgKrV3igabvoaNnawt) | 2:30 | 2022-09-09 | 2022-11-12 |
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-10-20 |
 | [A Little More](https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [who?](https://open.spotify.com/album/6hJ2X3eSAb9aCeX0isGxl8) | 3:30 | 2022-08-05 | 2022-12-17 |
@@ -372,7 +373,7 @@
 | [Let It Burn](https://open.spotify.com/track/2gipHbAjxMrggRmKEP7Qic) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Let It Burn](https://open.spotify.com/album/7JW7Kt0eVdp5rcOe9dBPfZ) | 2:34 | 2024-04-05 |  |
 | [Let Me](https://open.spotify.com/track/3j8h9Eu2R3JSbJdMQSGbZM) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Let Me](https://open.spotify.com/album/4I9CdA8S8MgpXAtMJ35zdb) | 3:23 | 2022-01-14 | 2022-03-12 |
 | [Let Me Be The One](https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Let Me Be The One](https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj) | 3:37 | 2022-10-28 | 2022-12-03 |
-| [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 | 2024-03-29 |  |
+| [Let's Talk](https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy) | [Hana Effron](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Let's Talk](https://open.spotify.com/album/2nv51HjRu41tXOxsJXk3NO) | 3:53 | 2024-03-29 | 2024-07-19 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2022-01-14 | 2022-03-12 |
 | [letters from god](https://open.spotify.com/track/0kRxV8iHIHqqf1LEpfb2F5) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [imago](https://open.spotify.com/album/6RbKEgraiwLLeSrEdCSje6) | 4:19 | 2022-11-11 | 2022-12-24 |
 | [Liability](https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN) | [Syd Franklin](https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7) | [Liability](https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV) | 4:31 | 2023-01-27 | 2023-05-27 |

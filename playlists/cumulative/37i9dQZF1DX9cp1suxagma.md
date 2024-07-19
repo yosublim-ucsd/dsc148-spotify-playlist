@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Diamante Eléctrico
 
-216 songs - 11 hr 29 min
+217 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2023-02-17 |  |
 | [Bailar Contigo](https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailar Contigo](https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf) | 3:40 | 2023-02-17 |  |
 | [Bajo La Mesa](https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bajo La Mesa](https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0) | 2:37 | 2023-02-17 |  |
+| [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 | 2024-07-19 |  |
 | [Beatriz](https://open.spotify.com/track/5cK1zvYTFLjgEasUpEYoAj) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Amores Prestados \(Pt\. 1\)](https://open.spotify.com/album/3sVsdIw45I4vbjoK5Lowit) | 2:37 | 2023-10-27 | 2023-11-25 |
 | [Bella \- Remix](https://open.spotify.com/track/0SKhd6uBssOAqEvlLuUr3s) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU) | 3:38 | 2024-04-12 | 2024-06-29 |
 | [Bella \- Remix](https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm) | 3:38 | 2023-02-17 | 2024-04-19 |
@@ -70,7 +71,7 @@
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2023-02-17 | 2024-05-17 |
 | [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-11-03 |  |
 | [ENERO](https://open.spotify.com/track/6bhGPHYdiNKUTSl7ASxJ67) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [ENERO](https://open.spotify.com/album/65VDilXxBlKu1DZE94rYsx) | 3:09 | 2023-02-17 | 2023-03-10 |
-| [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-17 |  |
+| [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-17 | 2024-07-19 |
 | [Enredo](https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Enredo](https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6) | 2:40 | 2024-06-28 |  |
 | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/track/57lu7hXebjTcjw8QKvYzuM) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [ERES \(Acto IV: Sálvese quien pueda\)](https://open.spotify.com/album/4MhdAyDEfQTFG3FP1prddY) | 2:56 | 2023-09-08 | 2023-10-07 |
 | [Esperándote](https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Esperándote](https://open.spotify.com/album/1PEgEtk3DMrUxG6Mkco3Zg) | 3:19 | 2023-02-17 |  |

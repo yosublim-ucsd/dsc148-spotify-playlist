@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This week's DEADNOISE.FM curator is Crystal from Initiate
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,818 likes - 52 songs - 2 hr 25 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,817 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

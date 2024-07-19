@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Tinashe",
+  "description": "That's that big energy. Cover: Snakehips & EARTHGANG",
   "name": "Bounce",
   "tracks": [
     {
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155792,
       "name": "AYO (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/0cvaZCETV0MHGNHLixgxgE"
@@ -1562,6 +1562,28 @@
       "duration_ms": 222500,
       "name": "Compare",
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
+    },
+    {
+      "album": {
+        "name": "D-RIDE (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "D-RIDE (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
     },
     {
       "album": {
@@ -2785,6 +2807,32 @@
     },
     {
       "album": {
+        "name": "SNAKEGANG EP Volume 1",
+        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "SNAKEGANG",
+          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158174,
+      "name": "GLIMMER.",
+      "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
+    },
+    {
+      "album": {
         "name": "Go Low",
         "url": "https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X"
       },
@@ -3579,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178981,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
+    {
+      "album": {
         "name": "Keep Dat Nigga (Part 2) (feat. GloRilla, Kali & Big Boss Vette)",
         "url": "https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0"
       },
@@ -3820,7 +3886,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
@@ -5338,7 +5404,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188307,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"

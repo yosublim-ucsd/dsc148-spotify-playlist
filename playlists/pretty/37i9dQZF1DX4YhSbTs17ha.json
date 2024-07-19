@@ -1,13 +1,29 @@
 {
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Christian Nodal en portada.\n",
-  "num_followers": 1696803,
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. RENEE en portada.\n",
+  "num_followers": 1696870,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoeL4AAAAADDu6NzM+Muj7KFSgbCgcdh",
+  "snapshot_id": "Zpm6kAAAAACD3zm3gp7Df/t1r3iSSF8v",
   "tracks": [
+    {
+      "added_at": "2024-07-19 01:00:00",
+      "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
+    },
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {

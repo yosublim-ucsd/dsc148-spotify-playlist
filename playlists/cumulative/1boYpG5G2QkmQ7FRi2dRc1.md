@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,540 songs - 4 day 0 hr 46 min
+1,541 songs - 4 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,6 +1220,7 @@
 | [Slip](https://open.spotify.com/track/3PhH2QuFEDrFXZrcGOGdOC) | [Corey James](https://open.spotify.com/artist/0pICHdgyIVvu5jvDsFu9pD), [Dice Of Nights](https://open.spotify.com/artist/2m97ZmyaSyUjn5Gln8l6VJ) | [Slip n Sisco EP](https://open.spotify.com/album/5iZgIdThTnUB4Tp4tHALZ7) | 3:35 | 2023-09-08 | 2023-09-23 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/2mAAcTJ5ZiEGBqhIrmy2Pq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/2uTvIR4Bp09TvCEBAix1Rf) | 4:08 | 2022-11-18 | 2022-12-03 |
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-11-12 | 2022-11-19 |
+| [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-07-19 |  |
 | [Smoke](https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk) | [Mikey Barreneche](https://open.spotify.com/artist/7qGy8DUTeuBqoyN6gUf3gd) | [Smoke](https://open.spotify.com/album/52Bf1M1i2VhaV7izP9piKg) | 2:57 | 2023-03-31 | 2023-04-29 |
 | [Snakes Crawl \- East Village Mix](https://open.spotify.com/track/2cjgYQF4OqfM8Xgl7vV4No) | [Phil Kieran](https://open.spotify.com/artist/7fVBYlm65H50HLNLAQHBt5), [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Snakes Crawl EP](https://open.spotify.com/album/1hc74ZF3XlNoCN4BBCWHIO) | 4:08 | 2023-04-21 | 2023-12-23 |
 | [Snatch](https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Snatch](https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto) | 4:18 | 2023-04-28 | 2023-05-06 |

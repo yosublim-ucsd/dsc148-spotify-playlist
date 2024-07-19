@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,700 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,732 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 57 | [Mornings and Afternoons](https://open.spotify.com/track/4YlmenydUtibsOpCxzrwEf) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [La Comitiva](https://open.spotify.com/artist/6qfxmAre9eFDUWxAip06yh) | [Mornings and Afternoons](https://open.spotify.com/album/1duiNMdrh9VgXabofunWIF) | 2:48 |
 | 58 | [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 |
 | 59 | [Bloodshed](https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Bloodshed](https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3) | 3:35 |
-| 60 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 |
+| 60 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
 
 Snapshot ID: `ZnSmYAAAAADscEulLiIfseN37FgQzMym`

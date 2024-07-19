@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,811 songs - 6 day 4 hr 48 min
+2,813 songs - 6 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-03-22 | 2022-03-28 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-19 | 2023-09-29 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-04 | 2024-06-19 |
+| [Chihiro](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77) | 2:08 | 2024-07-18 |  |
 | [Child](https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Child \- SM STATION : NCT LAB](https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1) | 3:31 | 2022-03-01 | 2022-03-16 |
 | [Chill Like That](https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf) | 2:58 | 2022-10-21 | 2022-11-16 |
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2022-10-16 | 2022-10-22 |
@@ -863,7 +864,7 @@
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-07 | 2023-03-01 |
 | [Fluxxwave \(Slowed + Reverb\)](https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:41 | 2023-07-26 | 2023-08-02 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-08-02 | 2022-08-04 |
-| [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 | 2024-07-16 |  |
+| [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 | 2024-07-16 | 2024-07-19 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-30 | 2022-09-07 |
 | [Forever Star\(《偷偷藏不住》电视剧插曲\)](https://open.spotify.com/track/4hZUa0IFUOHhvZhK1YwXHu) | [張洢豪](https://open.spotify.com/artist/5kzjeV6bqyVmLPQfx5kfL1) | [《偷偷藏不住》影视原声专辑](https://open.spotify.com/album/0Iu6Uth2kvGcJsEm9enE22) | 3:22 | 2023-07-29 | 2023-08-23 |
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2021-12-27 | 2022-01-07 |
@@ -2061,6 +2062,7 @@
 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 | 2022-04-14 | 2022-06-08 |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2023-07-18 | 2023-08-19 |
 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 | 2024-06-12 | 2024-07-10 |
+| [Red \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Alex Boniello](https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Red \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s) | 3:08 | 2024-07-18 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-03-27 | 2024-07-03 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-30 | 2024-02-21 |
 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 | 2024-01-20 | 2024-03-13 |
@@ -2616,7 +2618,7 @@
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-07-26 | 2022-09-09 |
 | [Viernes 13](https://open.spotify.com/track/0IJoJOVw1hSws1kLH96e7d) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más < :\-\)](https://open.spotify.com/album/7oVXimCOW8ArhedbQGY2Hm) | 3:01 | 2022-05-14 | 2022-05-29 |
 | [Viernes 13](https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más < :\-\)](https://open.spotify.com/album/2dfDDOR5HeFYzCY63IyYBx) | 3:01 | 2023-01-15 | 2023-10-22 |
-| [Vindaloo](https://open.spotify.com/track/0b7j16ybxD7YJFtj8dou8Z) | [Fat Les](https://open.spotify.com/artist/4BHU68IINW0fZNRIvSOir5) | [Vindaloo](https://open.spotify.com/album/4iqN18jvadpLbbYaUYsryW) | 3:41 | 2024-07-15 |  |
+| [Vindaloo](https://open.spotify.com/track/0b7j16ybxD7YJFtj8dou8Z) | [Fat Les](https://open.spotify.com/artist/4BHU68IINW0fZNRIvSOir5) | [Vindaloo](https://open.spotify.com/album/4iqN18jvadpLbbYaUYsryW) | 3:41 | 2024-07-15 | 2024-07-19 |
 | [Violet](https://open.spotify.com/track/3zb9k8UUuKz5tYmKJvNqQA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Violet](https://open.spotify.com/album/6TasXkUMVr3cFnrerHhlVj) | 2:02 | 2022-11-01 | 2022-11-23 |
 | [Virando o Olhinho](https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Virando o Olhinho](https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN) | 2:22 | 2022-07-09 | 2022-08-01 |
 | [Visstick Gooi Die Kanker Kick](https://open.spotify.com/track/7lJ7lEntxkNUrbDN9giLmB) | [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli) | [Visstick Gooi Die Kanker Kick](https://open.spotify.com/album/5Y8spL7Nm1KzcO2rWGe8vy) | 1:52 | 2022-08-09 | 2022-08-17 |

@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Ah ahah",
+        "url": "https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn"
+      },
+      "artists": [
+        {
+          "name": "Fresh La Douille",
+          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159287,
+      "name": "Ah ahah",
+      "url": "https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN"
+    },
+    {
+      "album": {
         "name": "Allez (feat. PLK & Naps)",
         "url": "https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU"
       },
@@ -491,6 +513,28 @@
     },
     {
       "album": {
+        "name": "Coco (feat. Tayc)",
+        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Coco (feat. Tayc)",
+      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
+    },
+    {
+      "album": {
         "name": "Confidences",
         "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
       },
@@ -863,6 +907,24 @@
     },
     {
       "album": {
+        "name": "SOLSAD",
+        "url": "https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Fleurs",
+      "url": "https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO"
+    },
+    {
+      "album": {
         "name": "Mon \u00c2me - Summer Vibes",
         "url": "https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS"
       },
@@ -972,7 +1034,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164520,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/79dH0anaTXgJ6PBMfnp2zA"
@@ -1199,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "La m\u00eame histoire",
+        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132682,
+      "name": "La m\u00eame histoire",
+      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
+    },
+    {
+      "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
       },
@@ -1410,7 +1490,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178475,
       "name": "Ma b\u00e9cane",
       "url": "https://open.spotify.com/track/7iQ14alT39CCTtiakqQe7L"
@@ -1706,6 +1786,24 @@
       "duration_ms": 165813,
       "name": "No lo s\u00e9",
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/43tpQX4crgjbrLQyBohDNE"
+      },
+      "artists": [
+        {
+          "name": "Mecra Officiel",
+          "url": "https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159900,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/1lVM1L7ksstfh9ruUu0ENS"
     },
     {
       "album": {
@@ -2234,7 +2332,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 136183,
       "name": "RAP CONSCIENT",
       "url": "https://open.spotify.com/track/2Hj3OjF1QTf8uqHb5C7ArK"
@@ -2918,7 +3016,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217773,
       "name": "Ti\u00e9 fou",
       "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
@@ -3126,7 +3224,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 143504,
       "name": "Xavi Simons",
       "url": "https://open.spotify.com/track/2wXhGTBd3PcjKid4voF9Hg"

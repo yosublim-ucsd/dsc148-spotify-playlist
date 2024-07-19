@@ -2,15 +2,17 @@
 
 ### [Gegen den Strom](https://open.spotify.com/playlist/37i9dQZF1DX05Mltk4BtiL)
 
-> Nur tote Fische schwimmen mit dem Strom\. Cover: H.i.T.
+> Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-60 songs - 3 hr 3 min
+64 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 | 2024-06-27 |  |
 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 | 2024-06-27 |  |
-| [am erdbeerstrand](https://open.spotify.com/track/5BIIpsBXnIQmrVa66nnUmI) | [Das Paradies](https://open.spotify.com/artist/5wYcbpyGZGlUOiNpbLWZTo) | [sammlung 2 / soft floor](https://open.spotify.com/album/0Z1ngCwNQz24Sj03nuxHPi) | 3:07 | 2024-07-11 |  |
+| [ACHTZEHN](https://open.spotify.com/track/1uJCVzTykSdfzHdMPv9A45) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [ACHTZEHN](https://open.spotify.com/album/3zwaxGqEETqmBNB9EesAQp) | 4:27 | 2024-07-18 |  |
+| [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 | 2024-07-18 |  |
+| [am erdbeerstrand](https://open.spotify.com/track/5BIIpsBXnIQmrVa66nnUmI) | [Das Paradies](https://open.spotify.com/artist/5wYcbpyGZGlUOiNpbLWZTo) | [sammlung 2 / soft floor](https://open.spotify.com/album/0Z1ngCwNQz24Sj03nuxHPi) | 3:07 | 2024-07-11 | 2024-07-19 |
 | [Am Ufer der Zeit](https://open.spotify.com/track/2ojvf5fHFXQfwhuwLx9ycY) | [Die Mausis](https://open.spotify.com/artist/5L1xqF2WFjmYokIBVpnBPD) | [Am Ufer der Zeit](https://open.spotify.com/album/1fbuq5eh3vU7rpABIZAYeq) | 3:22 | 2024-06-27 | 2024-07-05 |
 | [An das Publikum](https://open.spotify.com/track/03h2MUlvSj5dwgI0yCvnBT) | [Robert Stadlober](https://open.spotify.com/artist/2LDPDcEuCo0Zy9TYo2t2BL) | [An das Publikum](https://open.spotify.com/album/1HRrOM0JZH8PthUoLyCnFk) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [BAUM](https://open.spotify.com/track/4fH8xERQuzAh1pfn5ZEQkS) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [BAUM](https://open.spotify.com/album/4JGG9900H46EBP4vR0GYyI) | 3:08 | 2024-06-27 |  |
@@ -32,12 +34,12 @@
 | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/track/3fcIZ7Ia4Rr4DdBlWfjfDh) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Kryptik Joe](https://open.spotify.com/artist/1NmLear8QhZBLkRxsnY1iR), [Rocko Schamoni](https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS) | [I.C.E\. 2 \(feat\. Kryptik Joe and Rocko Schamoni\)](https://open.spotify.com/album/74u87GFTbOrj1PiRtY8Nh1) | 2:46 | 2024-06-27 |  |
 | [Ich brauch ein Bier](https://open.spotify.com/track/0EnYDvdiddeC9Kq7orP4Qt) | [Dagobert](https://open.spotify.com/artist/6ggenA9SmMMwVYsDSOKIqJ) | [Ich brauch ein Bier](https://open.spotify.com/album/01I2xDTg5tQMYUwxzbsfGM) | 2:03 | 2024-07-04 | 2024-07-12 |
 | [Ich geh lieber allein](https://open.spotify.com/track/57DMEgQLbvviLZR1NN0umV) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Ich geh lieber allein](https://open.spotify.com/album/6KDag1zRDVlFblcdPHKLB0) | 2:50 | 2024-07-04 | 2024-07-12 |
-| [Ich seh den Horizont](https://open.spotify.com/track/6tmUcR5KSO26u2DFVsMx5y) | [PeterLicht](https://open.spotify.com/artist/0vr6IcFPFgjLKLUNPDlWmS) | [Ich seh den Horizont](https://open.spotify.com/album/0yNkacrVgCMa8FsU5nlXWD) | 4:34 | 2024-07-11 |  |
+| [Ich seh den Horizont](https://open.spotify.com/track/6tmUcR5KSO26u2DFVsMx5y) | [PeterLicht](https://open.spotify.com/artist/0vr6IcFPFgjLKLUNPDlWmS) | [Ich seh den Horizont](https://open.spotify.com/album/0yNkacrVgCMa8FsU5nlXWD) | 4:34 | 2024-07-11 | 2024-07-19 |
 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 | 2024-06-27 |  |
 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 | 2024-06-27 |  |
 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 | 2024-06-27 |  |
 | [Karussell](https://open.spotify.com/track/30w4Rt68tx8Ea1qPP47AIM) | [STOCKMANN](https://open.spotify.com/artist/4qJ4NLG3pHFfFxOBhQmDzm), [Crystal F](https://open.spotify.com/artist/6oZhc4ONSAMn6RYg6o6VWL), [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Karussell](https://open.spotify.com/album/1jBkxZqTpkUpciIR5CAOEK) | 2:56 | 2024-06-27 |  |
-| [Kiosk](https://open.spotify.com/track/7CEkdB7LQ3aLA630TcsB6h) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD) | [die Band](https://open.spotify.com/album/6zosId9sNr6Os9te1DHmE4) | 3:11 | 2024-06-27 |  |
+| [Kiosk](https://open.spotify.com/track/7CEkdB7LQ3aLA630TcsB6h) | [H.i.T.](https://open.spotify.com/artist/4VQtc1kGvvi5LPbvioiGlD) | [die Band](https://open.spotify.com/album/6zosId9sNr6Os9te1DHmE4) | 3:11 | 2024-06-27 | 2024-07-19 |
 | [König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [König Der Welt](https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6) | 3:28 | 2024-06-27 |  |
 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 | 2024-06-27 |  |
 | [Leon](https://open.spotify.com/track/4hu0vB1JaMHGaV4SJADNZs) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Leon](https://open.spotify.com/album/1vquxy6exp4vtCQnEFNgms) | 3:15 | 2024-06-27 |  |
@@ -50,10 +52,12 @@
 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 | 2024-06-27 | 2024-07-12 |
 | [Moshpit](https://open.spotify.com/track/6QFyquVHheJrzJbuv8tWFY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Moshpit](https://open.spotify.com/album/5WyiLUBm2DaTasNN24WTfY) | 2:01 | 2024-06-27 |  |
 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 | 2024-06-27 |  |
-| [Naja, geht so](https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Naja, geht so](https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM) | 3:07 | 2024-07-11 |  |
+| [Naja, geht so](https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Naja, geht so](https://open.spotify.com/album/65QSLQ96sJG8ylmNrRy3BM) | 3:07 | 2024-07-11 | 2024-07-19 |
+| [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 | 2024-07-18 |  |
 | [Oktober in Europa](https://open.spotify.com/track/3d40QNJhGHHBNRhEHEXxHl) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Oktober in Europa](https://open.spotify.com/album/3kqDDoLz4aPELnW6kl3cf8) | 3:28 | 2024-06-27 |  |
 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 | 2024-06-27 |  |
 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 | 2024-06-27 | 2024-07-07 |
+| [Römerweg](https://open.spotify.com/track/4272Pj5VmTVbPMTMwDd0zo) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Römerweg](https://open.spotify.com/album/7htDhSYgy6jVR2mIzOgpVm) | 3:36 | 2024-07-18 |  |
 | [Santorin](https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Santorin](https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm) | 3:44 | 2024-06-27 |  |
 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 | 2024-06-27 |  |
 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 | 2024-06-27 |  |

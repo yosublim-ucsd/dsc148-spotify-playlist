@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Sebastian Llosa",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Moffa",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253909,
+      "name": "Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M"
+    },
+    {
+      "album": {
         "name": "Sin Sol",
         "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
       },
@@ -3105,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173941,
+      "name": "Bluedream",
+      "url": "https://open.spotify.com/track/4g5hUHqasYwIXvZMuS5GoZ"
+    },
+    {
+      "album": {
         "name": "Dar Vida",
         "url": "https://open.spotify.com/album/3l8KRjMa2S5xPI8FLO9bWv"
       },
@@ -3324,6 +3360,32 @@
       "duration_ms": 145171,
       "name": "CAEN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt"
+    },
+    {
+      "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
     },
     {
       "album": {
@@ -7757,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "escala en Panam\u00e1",
+      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
+    },
+    {
+      "album": {
         "name": "Ese Fui Yo",
         "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
       },
@@ -10076,6 +10156,24 @@
       "duration_ms": 213517,
       "name": "Injusto",
       "url": "https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN"
+    },
+    {
+      "album": {
+        "name": "Intercambio Injusto",
+        "url": "https://open.spotify.com/album/6GFqNV8XbAMPkXZeW81z2Y"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205283,
+      "name": "Intercambio Injusto",
+      "url": "https://open.spotify.com/track/0Jv1VuDC57QUvMEd1CpkNW"
     },
     {
       "album": {
@@ -14153,6 +14251,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
+    },
+    {
+      "album": {
         "name": "tres",
         "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
       },
@@ -16685,6 +16801,32 @@
     },
     {
       "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187050,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -17641,6 +17783,24 @@
     },
     {
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "por la peque\u00f1a Venecia",
+      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
+    },
+    {
+      "album": {
         "name": "Cartel del Caribe",
         "url": "https://open.spotify.com/album/3DRpKRmph7pGOVn08JSiAb"
       },
@@ -17790,6 +17950,24 @@
       "duration_ms": 201202,
       "name": "POR UN AMOR",
       "url": "https://open.spotify.com/track/7kUxcqnZn7UAv0XaSHPkJL"
+    },
+    {
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173165,
+      "name": "Porcelana",
+      "url": "https://open.spotify.com/track/4ne84PbIwW1AKsHGhKMTh8"
     },
     {
       "album": {
@@ -20991,6 +21169,32 @@
     },
     {
       "album": {
+        "name": "Sussy",
+        "url": "https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Sussy",
+      "url": "https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe"
+    },
+    {
+      "album": {
         "name": "Maverick",
         "url": "https://open.spotify.com/album/2pksgG7EddFk0Gvl2S3PsH"
       },
@@ -22323,6 +22527,24 @@
     },
     {
       "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "T\u00fa Na M\u00e1s",
+      "url": "https://open.spotify.com/track/1GJdEBiE933sCQhSKM0PCa"
+    },
+    {
+      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -22604,6 +22826,24 @@
       "duration_ms": 197220,
       "name": "Una Chimba",
       "url": "https://open.spotify.com/track/0OsLmDHMzkyawVJ6brvIqY"
+    },
+    {
+      "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140930,
+      "name": "una ni\u00f1a de Venezuela",
+      "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
     },
     {
       "album": {

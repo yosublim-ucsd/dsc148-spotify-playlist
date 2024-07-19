@@ -1,12 +1,12 @@
 {
-  "description": "This Is N.I.N.A. Los temas esenciales, todos en una lista.",
-  "num_followers": 2829,
+  "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
+  "num_followers": 2830,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABfAbaHXg7R+b+LvYC0xT1+",
+  "snapshot_id": "ZpcJgAAAAADMERfSys9GMe79jHk5PqKX",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
       "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,

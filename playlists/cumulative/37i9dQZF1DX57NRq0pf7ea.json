@@ -1895,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/35l4EIrb4K76NjH2lI3K2x"
+      },
+      "artists": [
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160021,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/4ULCOafYh99FL7iMMEF9cc"
+    },
+    {
+      "album": {
         "name": "Catalina (Remix)",
         "url": "https://open.spotify.com/album/0A2ZoNOn5il12wtkl4P7lk"
       },
@@ -3142,7 +3164,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 195760,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
@@ -4307,6 +4329,28 @@
     },
     {
       "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
+    },
+    {
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -4340,7 +4384,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 168520,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
@@ -4868,6 +4912,28 @@
       "duration_ms": 186346,
       "name": "Gafas Negras",
       "url": "https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe"
+    },
+    {
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "album": {
@@ -6517,6 +6583,24 @@
     },
     {
       "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "album": {
         "name": "La Reina",
         "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
       },
@@ -6982,6 +7066,24 @@
       "duration_ms": 249801,
       "name": "Llueve",
       "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
+    },
+    {
+      "album": {
+        "name": "Lo Caro y Lo Bueno",
+        "url": "https://open.spotify.com/album/0OfQaUoTd5zBiB7J9KdjbX"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "Lo Caro y Lo Bueno",
+      "url": "https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW"
     },
     {
       "album": {
@@ -7526,7 +7628,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172500,
       "name": "MALA",
       "url": "https://open.spotify.com/track/5PbK9N675eK6ZyvezMgbQR"
@@ -8054,7 +8156,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195463,
       "name": "Mela",
       "url": "https://open.spotify.com/track/7qys9lvqqMCxg0dDC9cjQl"
@@ -8386,7 +8488,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
@@ -10158,7 +10260,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172105,
       "name": "Polvo de tu Vida",
       "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
@@ -10492,7 +10594,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
@@ -12208,7 +12310,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 207157,
       "name": "Tacos Gucci",
       "url": "https://open.spotify.com/track/1f9j6LO5166GQoE0CMA5tq"
@@ -12626,7 +12728,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 216440,
       "name": "Torii",
       "url": "https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry"
@@ -12684,7 +12786,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -12874,7 +12976,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186013,
       "name": "Tu Boca",
       "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"

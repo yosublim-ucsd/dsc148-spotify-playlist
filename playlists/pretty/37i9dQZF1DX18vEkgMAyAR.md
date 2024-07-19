@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,232 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,230 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 40 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
 | 41 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 42 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
-| 43 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
-| 44 | [Liars And Fakes \- Tensnake Remix](https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Liars And Fakes \(Tensnake Remix\)](https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S) | 5:29 |
+| 43 | [Liars And Fakes \- Tensnake Remix](https://open.spotify.com/track/09JHqEed5hkhPUBz6gW8AA) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Liars And Fakes \(Tensnake Remix\)](https://open.spotify.com/album/7arIeG0OMONxbIatlukv6S) | 5:29 |
+| 44 | [Rest](https://open.spotify.com/track/5NyWlLNaoz87Tym3lOGOte) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Rest](https://open.spotify.com/album/01XpquB06EvN30tEws20cv) | 4:42 |
 | 45 | [Passionfruit](https://open.spotify.com/track/1HgYlsGP1lWzKp9vM08itv) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Passionfruit](https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA) | 4:04 |
 | 46 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
 | 47 | [Roll On](https://open.spotify.com/track/2npX2eHUadkO7WIALUa66K) | [Dominic and Tom](https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN) | [Roll On](https://open.spotify.com/album/7JwXBJOV5HVONGQGU9JXXy) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > A chill Hip Hop vibe\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,472 likes - 91 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,473 likes - 91 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

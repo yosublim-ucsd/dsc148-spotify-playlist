@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Celeigh Cardinal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,513 likes - 27 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,516 likes - 27 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

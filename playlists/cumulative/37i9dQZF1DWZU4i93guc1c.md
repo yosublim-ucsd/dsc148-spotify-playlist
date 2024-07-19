@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 | 2024-07-18 |
+| [7.62 мм](https://open.spotify.com/track/3tzOlbflkkp35cndRVdGho) | [dity inzheneriv](https://open.spotify.com/artist/3MtohoQqvZFtmRTwzp0xSH) | [7.62 мм](https://open.spotify.com/album/3NCblVp7Ul5wKjHj0fNldl) | 3:15 | 2024-06-27 |  |
 | [Bohun](https://open.spotify.com/track/2XRpoAViyPcNdpcsdwkXi3) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Bohun](https://open.spotify.com/album/5NkvD6R19ar48gZgFAPMx7) | 3:23 | 2024-06-27 |  |
 | [Dobroho ranku](https://open.spotify.com/track/2xfA5qFr0hbd1cXnNhwNUu) | [Zbaraski](https://open.spotify.com/artist/6EOVp4jyP5ovNOhqtJu7Eg) | [Dobroho ranku](https://open.spotify.com/album/47n464V7jEcpdMw4GWREB1) | 2:38 | 2024-07-12 |  |
 | [GLASSS](https://open.spotify.com/track/30SrM2TjL9vyUFt6WqoBj6) | [NAHABA](https://open.spotify.com/artist/04tU9FZKM1yztRPdLV7Wbm) | [GLASSS](https://open.spotify.com/album/42Z92EsFfUt3t50KYWiOBn) | 2:54 | 2024-06-27 |  |
@@ -70,7 +70,7 @@
 | [Пішли на секонд](https://open.spotify.com/track/6ZzQUUZXFgiWJysOwzZpv4) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Пішли на секонд](https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry) | 2:59 | 2024-06-27 | 2024-07-13 |
 | [Самолітом](https://open.spotify.com/track/59ExUSYSyC2VPa1qA7D2BO) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Самолітом](https://open.spotify.com/album/0nmxW9KdCSYjDTpaKuTMlG) | 2:41 | 2024-06-27 |  |
 | [Серед зими](https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Серед зими](https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8) | 3:35 | 2024-06-27 |  |
-| [Серце в сейфі](https://open.spotify.com/track/2OcpUVKiexliVt10iHpO8W) | [ULIANA ROYCE](https://open.spotify.com/artist/4PZcy5sJnOBC85FxlsbzYh) | [Серце в сейфі](https://open.spotify.com/album/2t8pGpu78PppaR4Q7fLsjP) | 2:29 | 2024-06-27 |  |
+| [Серце в сейфі](https://open.spotify.com/track/2OcpUVKiexliVt10iHpO8W) | [ULIANA ROYCE](https://open.spotify.com/artist/4PZcy5sJnOBC85FxlsbzYh) | [Серце в сейфі](https://open.spotify.com/album/2t8pGpu78PppaR4Q7fLsjP) | 2:29 | 2024-06-27 | 2024-07-19 |
 | [сирець](https://open.spotify.com/track/3ndRmk1CsIbsMDOIftIxIf) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [сирець](https://open.spotify.com/album/0YjnRcxiZPSB9Ldb0f1Kxz) | 4:06 | 2024-06-27 |  |
 | [Скрути мене](https://open.spotify.com/track/4ZUIe9dSfMNpYuhjOK86zm) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Скрути мене](https://open.spotify.com/album/7AgI0CGYTttMFp2a0B8PyA) | 2:22 | 2024-06-27 |  |
 | [Слоу моушн](https://open.spotify.com/track/7jo2Jo9WX20nkMmtMoMWCP) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Дощ іде, але сонце світить](https://open.spotify.com/album/0BpYqhHGVLZvXmgj8uw9dB) | 5:11 | 2024-06-27 | 2024-07-06 |

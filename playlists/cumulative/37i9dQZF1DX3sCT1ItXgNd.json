@@ -2910,8 +2910,8 @@
           "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
         },
         {
-          "name": "Violeta H\u00f3dar",
-          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
+          "name": "Violeta",
+          "url": "https://open.spotify.com/artist/5WXnM4FY7KspNLOtbQE9D3"
         }
       ],
       "date_added": "2024-07-15",
@@ -3520,6 +3520,24 @@
       "duration_ms": 172960,
       "name": "Formas de Hablar",
       "url": "https://open.spotify.com/track/6B1ZJ9cQBvSsW2zOUBREkt"
+    },
+    {
+      "album": {
+        "name": "fotomat\u00f3n",
+        "url": "https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149658,
+      "name": "fotomat\u00f3n",
+      "url": "https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa"
     },
     {
       "album": {
@@ -9071,6 +9089,28 @@
     },
     {
       "album": {
+        "name": "Tienes Que Saber",
+        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Tienes Que Saber",
+      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
+    },
+    {
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -10062,6 +10102,24 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "album": {

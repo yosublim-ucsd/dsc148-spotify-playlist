@@ -4,7 +4,7 @@
 
 > the golden era of r&b and hip\-hop\. cover: Ashanti
 
-283 songs - 19 hr 10 min
+284 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 | 2022-05-20 | 2022-08-20 |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-05-06 | 2023-03-11 |
 | [Final Warning \(featuring Aaliyah\) \(feat\. Aaliyah\)](https://open.spotify.com/track/7A2RieWcxM2VOWY25aU4Qj) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 7:24 | 2022-05-06 | 2022-06-25 |
+| [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2024-07-18 |  |
 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 | 2023-01-06 | 2023-02-16 |
 | [Freak Like Me](https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA) | [Adina Howard](https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ) | [Do You Wanna Ride?](https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk) | 4:13 | 2022-11-16 | 2023-06-01 |
 | [Freak Like Me \- Spotify Singles](https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Spotify Singles](https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs) | 3:08 | 2022-09-02 | 2022-11-16 |
@@ -264,7 +265,7 @@
 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 | 2022-06-03 |  |
 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 | 2023-06-29 | 2023-10-06 |
 | [Un\-thinkable \(I'm Ready\)](https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 | 2022-05-06 | 2024-02-23 |
-| [Unfoolish](https://open.spotify.com/track/6dZ6qWl1e9GsMndBG7vqB9) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:14 | 2022-05-06 |  |
+| [Unfoolish](https://open.spotify.com/track/6dZ6qWl1e9GsMndBG7vqB9) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:14 | 2022-05-06 | 2024-07-19 |
 | [Unpredictable](https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY) | 3:35 | 2024-04-19 |  |
 | [Unpredictable](https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI) | 3:35 | 2023-02-07 | 2024-04-19 |
 | [Until The End Of Time \(with Beyoncé\)](https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 5:22 | 2023-06-29 | 2024-01-04 |

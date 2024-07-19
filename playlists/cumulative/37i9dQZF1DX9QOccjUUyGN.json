@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Ah N\u00e3o!",
+        "url": "https://open.spotify.com/album/5ZIlt74nqqXM1cnzpuSizK"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120048,
+      "name": "Ah N\u00e3o!",
+      "url": "https://open.spotify.com/track/2GuEvxtskDVSCeBthZihvq"
+    },
+    {
+      "album": {
         "name": "Ai Calica",
         "url": "https://open.spotify.com/album/0cieg1mjYXu5qzUxsZ6PBn"
       },
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153302,
       "name": "Conduta",
       "url": "https://open.spotify.com/track/5trmONgYJKUxXfGucmV5am"
@@ -3706,7 +3728,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 111500,
       "name": "Corri Dobrado",
       "url": "https://open.spotify.com/track/6XzWOcbEb7LKtxjq5KTiDQ"
@@ -6606,7 +6628,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157064,
       "name": "Flow Rich",
       "url": "https://open.spotify.com/track/5MOYHVzXiNXaURgWxMadWS"
@@ -7958,7 +7980,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 93691,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/18nleMBgPh7tGyLX11pcOB"
@@ -8628,6 +8650,32 @@
       "duration_ms": 188307,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/23xzRN6CzXK9kLavPuyda4"
+    },
+    {
+      "album": {
+        "name": "Mafioso",
+        "url": "https://open.spotify.com/album/1OCG0tloxa1bQpJaKV7Pi2"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Yuri Primo",
+          "url": "https://open.spotify.com/artist/0h05nT9ApNry2PENabj4sl"
+        },
+        {
+          "name": "Kustor",
+          "url": "https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Mafioso",
+      "url": "https://open.spotify.com/track/22XOIijyGcMvNoJ3a2lTH5"
     },
     {
       "album": {
@@ -9398,6 +9446,28 @@
       "duration_ms": 175714,
       "name": "Melhor Vers\u00e3o",
       "url": "https://open.spotify.com/track/3Mk68aXxJOfaJUSN2ZZkHS"
+    },
+    {
+      "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "Melhores Dias",
+      "url": "https://open.spotify.com/track/75zNDGCcRnQ7HgdNK4KRAh"
     },
     {
       "album": {
@@ -10554,6 +10624,40 @@
       "duration_ms": 167564,
       "name": "Neurose",
       "url": "https://open.spotify.com/track/0JOMfBTio9gth3jkg05rkp"
+    },
+    {
+      "album": {
+        "name": "NGM de Fora",
+        "url": "https://open.spotify.com/album/6BYoe5HjRwllZegYuBJ2Ir"
+      },
+      "artists": [
+        {
+          "name": "Ar Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/57W4uiQxtVLKnwQWctG1gB"
+        },
+        {
+          "name": "DuaL021",
+          "url": "https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH"
+        },
+        {
+          "name": "Jotta7",
+          "url": "https://open.spotify.com/artist/58R1ujQvkCqUT4Ljk9CjVf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147479,
+      "name": "NGM De Fora",
+      "url": "https://open.spotify.com/track/51xlYvtiz9zpc5FqvTYQoR"
     },
     {
       "album": {
@@ -11936,7 +12040,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154533,
       "name": "Perfil #94 - Fases",
       "url": "https://open.spotify.com/track/5FTMn4GVhkENcRn6xc86KM"
@@ -15584,7 +15688,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210782,
       "name": "Uma Dose 3",
       "url": "https://open.spotify.com/track/73qxEyG8pSs5bIuPb745xi"
@@ -15961,6 +16065,32 @@
     },
     {
       "album": {
+        "name": "Vibe dos Pr\u00e9dios (Soudlab#2)",
+        "url": "https://open.spotify.com/album/24RPHscwFahORa65Mh6L5P"
+      },
+      "artists": [
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "BG70",
+          "url": "https://open.spotify.com/artist/1zoPugTFUOjfJo2J90ghDw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Vibe dos Pr\u00e9dios (Soudlab#2)",
+      "url": "https://open.spotify.com/track/4tXaOmIOTfruT3l00t9fyQ"
+    },
+    {
+      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -16178,7 +16308,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196779,
       "name": "Vira a Chave",
       "url": "https://open.spotify.com/track/5AMMdq7N2kTSOXACCPNruT"

@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 148732,
+  "num_followers": 148757,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAADVNEhVuBiUFncA2hwKdDyP",
+  "snapshot_id": "ZpnkwAAAAADo/CVXYkfvi1Fl5YiBrVM7",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 177309,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 127350,
       "name": "Short Change Hero - Edit",
       "url": "https://open.spotify.com/track/1IyCXqedk72kIPyCf7sNPh"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Mr. Mechanic Man",
+        "url": "https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm"
+      },
+      "artists": [
+        {
+          "name": "Sheba Potts-Wright",
+          "url": "https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Mr. Mechanic Man",
+      "url": "https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Leaving in 3/4 Time",
+        "url": "https://open.spotify.com/album/7HeySAN5T1fvUCpXitFGLm"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 125825,
+      "name": "Leaving in 3/4 Time",
+      "url": "https://open.spotify.com/track/1wil07vTmtw9SyDq4XuXOn"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -659,22 +707,6 @@
       "duration_ms": 155454,
       "name": "Cold Hard Truth",
       "url": "https://open.spotify.com/track/3qSPTt22YYuzjpM2KIzsbp"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Evil on the Inside",
-        "url": "https://open.spotify.com/album/7wMcL7V8JOdOeMQFTDg9yX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 211638,
-      "name": "Evil on the Inside",
-      "url": "https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1759,22 +1791,6 @@
       "duration_ms": 262693,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Can't Judge a Book By It's Cover",
-        "url": "https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jenner",
-          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
-        }
-      ],
-      "duration_ms": 162821,
-      "name": "Can't Judge a Book By It's Cover",
-      "url": "https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo"
     }
   ],
   "unique_name": "Nu-Blue",

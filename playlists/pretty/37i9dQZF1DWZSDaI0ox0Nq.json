@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19267,
+  "num_followers": 19275,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
         "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
@@ -691,8 +675,24 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Cabeza Negra",
-        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 154006,
-      "name": "Fuga de Ausencias",
-      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -851,8 +851,8 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
       },
       "artists": [
         {
@@ -860,25 +860,9 @@
           "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -895,6 +879,22 @@
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Esa Mujer: Buenos Aires",
-        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
-      },
-      "artists": [
-        {
-          "name": "Marisa V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Madrugada y Soledad",
-      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
         "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
         "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
+        "name": "Esa Mujer: Buenos Aires",
+        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
+      },
+      "artists": [
+        {
+          "name": "Marisa V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Madrugada y Soledad",
+      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
     },
     {
       "added_at": "2024-05-17 14:18:57",

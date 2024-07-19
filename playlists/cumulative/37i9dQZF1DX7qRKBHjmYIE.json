@@ -4032,8 +4032,8 @@
           "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
         },
         {
-          "name": "Violeta H\u00f3dar",
-          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
+          "name": "Violeta",
+          "url": "https://open.spotify.com/artist/5WXnM4FY7KspNLOtbQE9D3"
         }
       ],
       "date_added": "2024-07-12",
@@ -9456,7 +9456,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
@@ -12322,6 +12322,24 @@
       "duration_ms": 232758,
       "name": "SOLA CON LA LUNA",
       "url": "https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201043,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh"
     },
     {
       "album": {

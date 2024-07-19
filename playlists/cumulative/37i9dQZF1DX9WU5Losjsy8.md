@@ -4,7 +4,7 @@
 
 > ist nur einmal im Jahr!
 
-145 songs - 7 hr 23 min
+146 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 | 2024-04-04 |
 | [Bleib in der Schule](https://open.spotify.com/track/14ZdGRgEojosST783o66CX) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB) | [Crackstreet Boys 3 \(Bonus Tracks Version\)](https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK) | 4:25 | 2023-07-14 | 2024-04-19 |
 | [Blockflötenunterricht](https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Pottsau](https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6) | [Blockflötenunterricht](https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8) | 2:35 | 2023-08-10 | 2023-10-22 |
+| [Bock auf Bier](https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Bock auf Bier](https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f) | 2:52 | 2024-07-19 |  |
 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 |  |
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2023-07-14 | 2023-11-04 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce) | 3:02 | 2023-10-20 | 2024-04-19 |
@@ -95,7 +96,7 @@
 | [Lass uns nicht geh'n \- Stereoact Remix](https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA) | [Cat Ballou](https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Lass uns nicht geh'n \(Stereoact Remix\)](https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf) | 2:44 | 2024-01-26 | 2024-04-27 |
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
-| [Links Rechts](https://open.spotify.com/track/4b5PEjV6Aam6Tq83XVN2FJ) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Links Rechts](https://open.spotify.com/album/2m0NWjz7OiXcZHGu5cyiYX) | 2:53 | 2024-06-18 |  |
+| [Links Rechts](https://open.spotify.com/track/4b5PEjV6Aam6Tq83XVN2FJ) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Links Rechts](https://open.spotify.com/album/2m0NWjz7OiXcZHGu5cyiYX) | 2:53 | 2024-06-18 | 2024-07-19 |
 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-04-24 |  |
 | [MALLE BEREIT](https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [MALLE BEREIT](https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH) | 2:49 | 2024-04-24 |  |
 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Cavolo Nero on cover\. Artwork by Thami Nabil
 
-1,758 songs - 5 day 19 hr 21 min
+1,759 songs - 5 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,6 +941,7 @@
 | [Mestizo](https://open.spotify.com/track/7ud8OXTSEOv4719EhEsejN) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [Fathom](https://open.spotify.com/album/7klCSWJBR3WE91bQ0lsxc1) | 5:50 | 2021-01-15 | 2021-03-11 |
 | [Mesures](https://open.spotify.com/track/2jcX7tGzKYcF4TiBKs8beS) | [Simone Provencher](https://open.spotify.com/artist/1irk8yesuKyeCxWRrhbHxw) | [Mesures](https://open.spotify.com/album/0ACL8zjIcFZhl1zLteATQb) | 2:35 | 2021-04-30 | 2021-06-04 |
 | [Metallic](https://open.spotify.com/track/4YJIcpqPeLdZfK5d2I18gV) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 3:14 | 2021-03-20 | 2021-04-15 |
+| [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 | 2024-07-17 |  |
 | [Michi No Eki](https://open.spotify.com/track/1MigTeNm5QI9qEygoppr8k) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Taigen Kawabe](https://open.spotify.com/artist/3YHhs0k1r71mDDjwqYAqm8) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:17 | 2021-07-29 | 2022-01-17 |
 | [Middle Life](https://open.spotify.com/track/0lDFIQ79JSrzEv8WiWuHBJ) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 1:37 | 2021-08-12 | 2022-01-19 |
 | [Migrants](https://open.spotify.com/track/1z0DCBuLsbLo3qw5XzQ52E) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Scenario](https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu) | 4:43 | 2022-04-06 | 2022-06-30 |

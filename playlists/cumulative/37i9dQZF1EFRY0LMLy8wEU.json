@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Every Nation",
+        "url": "https://open.spotify.com/album/1HodNwaYNXdf3Vg1SGTmwK"
+      },
+      "artists": [
+        {
+          "name": "Lindy Conant-Cofer",
+          "url": "https://open.spotify.com/artist/1JfPWFDQ3K09D6LrGdIqbq"
+        },
+        {
+          "name": "The Circuit Riders",
+          "url": "https://open.spotify.com/artist/0xplBp0QIAn9GdSbHUmxFN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285394,
+      "name": "Freight Train (Live)",
+      "url": "https://open.spotify.com/track/4SJVN7SQGFeVPyC9EcaTek"
+    },
+    {
+      "album": {
         "name": "Kyle & Lauren Smith",
         "url": "https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89"
       },

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-274 songs - 16 hr 59 min
+275 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Do You Wanna \(BoogieKnights ReThink\)](https://open.spotify.com/track/6LSXQaauJxBhFv0NGJkOyh) | [Rokwell](https://open.spotify.com/artist/1NOc6Hatk5Jo0dxGxYpj3X), [BoogieKnights](https://open.spotify.com/artist/3wJU7ygNJY0wWWhwZVYnI0) | [Do You Wanna \(BoogieKnights ReThink\)](https://open.spotify.com/album/3P2FzPaQy1NAU1ggwMevY5) | 4:18 | 2023-01-20 |  |
 | [Doing Alright](https://open.spotify.com/track/6Dkbv5OFE86YjmWm9E5gvf) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Doing Alright](https://open.spotify.com/album/37f4CcWznwO2tPTGgplsX2) | 3:03 | 2024-04-26 |  |
 | [Don't Mess With My Man \- Sgt Slick Remix](https://open.spotify.com/track/6U4ek0i45P6tT8NMJYJM3G) | [Zoë Badwi](https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Don't Mess With My Man](https://open.spotify.com/album/1tVpuOjXKACzHnClTC3Uqs) | 2:48 | 2022-10-28 |  |
+| [Don't Stop the Music](https://open.spotify.com/track/3FN9upQKJEZfxCSd34jMN3) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Don't Stop the Music](https://open.spotify.com/album/37btLTfYfICMHtHC6q7smj) | 2:55 | 2024-07-12 |  |
 | [Don’t Kill The Groove](https://open.spotify.com/track/4yOVPMnul0AFigIUX0yZ22) | [The Mamas](https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ), [Loulou LaMotte](https://open.spotify.com/artist/6xEkTJqTsYdjbnj0MJeu3j) | [Don’t Kill The Groove](https://open.spotify.com/album/0PAKxjEAyFRqLj815CVUWU) | 2:55 | 2021-10-22 | 2024-05-03 |
 | [Dreamer](https://open.spotify.com/track/7BVg7i9g2khxnXuSWROE6I) | [Flevans](https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l) | [Dreamer](https://open.spotify.com/album/37s44atpJQNpO442mw2riJ) | 3:52 | 2024-04-12 |  |
 | [Drive](https://open.spotify.com/track/4zR1K26LJZ2ZqDOGtCyZRs) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Amity Isle](https://open.spotify.com/artist/2IfaZ7p5Q60P7VRW4dfHzl) | [Drive](https://open.spotify.com/album/3xaGSGkGREQw3MYRgOZGrd) | 3:31 | 2022-05-20 | 2023-04-09 |

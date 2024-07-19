@@ -9755,6 +9755,24 @@
     },
     {
       "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB"
+    },
+    {
+      "album": {
         "name": "Child - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1"
       },
@@ -17334,7 +17352,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
@@ -41623,6 +41641,32 @@
     },
     {
       "album": {
+        "name": "Red (From \"Descendants: The Rise of Red\")",
+        "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alex Boniello",
+          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "Red - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -53000,7 +53044,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221000,
       "name": "Vindaloo",
       "url": "https://open.spotify.com/track/0b7j16ybxD7YJFtj8dou8Z"

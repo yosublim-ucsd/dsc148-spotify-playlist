@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-453 songs - 1 day 1 hr 14 min
+454 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Addiction](https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM) | [Nina Tonji](https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q), [Jay Adams](https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8), [Ben Molinaro](https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG) | [Don't Try](https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk) | 2:55 | 2022-09-09 | 2023-08-05 |
 | [Again](https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Again](https://open.spotify.com/album/3gpgKKDq1a8E4zTgV7rwjC) | 3:24 | 2021-09-21 | 2022-10-15 |
 | [Ain't Got No Money](https://open.spotify.com/track/3F8xarcB4wgIwEWTGSzBGr) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Ain't Got No Money](https://open.spotify.com/album/0tTquFeE6IQ0kTSy1xKF3k) | 4:16 | 2020-11-13 | 2022-03-21 |
-| [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-05-20 |  |
+| [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 | 2022-05-20 | 2024-07-19 |
 | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [All I Need \(with Mahalia & Ty Dolla $ign\)](https://open.spotify.com/album/4vSD7Y3Ob3H5nhfgWX8OPf) | 4:03 | 2020-11-13 | 2022-03-26 |
 | [All I Wanna Do](https://open.spotify.com/track/1uyxpsLuJAuXL1gOfRsZuw) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [All I Wanna Do](https://open.spotify.com/album/5o5u0j8BHPApaOvALpmLnR) | 3:08 | 2024-02-16 |  |
 | [All Night](https://open.spotify.com/track/4IsjYlNEEsfPQGODzKyYRQ) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [All Night](https://open.spotify.com/album/1c3y5QNQHjn23qQ8t59qtT) | 3:48 | 2023-08-18 |  |
@@ -187,6 +187,7 @@
 | [HELLA BOY CRAZY](https://open.spotify.com/track/6MGXeJPWlv3enSLaIz2egy) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HELLA BOY CRAZY](https://open.spotify.com/album/1qdVwpG3yeKWXT36RhLZ26) | 2:14 | 2024-05-24 |  |
 | [High \(When I’m Low\)](https://open.spotify.com/track/1hCemip7lYfAnPSWRYyf0z) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [High \(When I’m Low\)](https://open.spotify.com/album/4bqPhRP8HDMoA6cO0GhO0W) | 2:48 | 2024-03-01 |  |
 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 | 2021-06-04 | 2022-07-30 |
+| [Highs Get Low](https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Highs Get Low](https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f) | 2:54 | 2024-07-19 |  |
 | [Home Improvement](https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Indigo](https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4) | 1:57 | 2023-06-02 |  |
 | [Honesty \- Cool Company Remix](https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Honesty \(Cool Company Remixes\)](https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN) | 2:55 | 2021-09-21 | 2023-02-18 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-04-01 | 2024-03-30 |

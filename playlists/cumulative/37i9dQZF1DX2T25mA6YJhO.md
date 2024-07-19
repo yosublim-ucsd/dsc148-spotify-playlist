@@ -2,9 +2,9 @@
 
 ### [Rock 2024](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Biznaga.
+> Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-111 songs - 5 hr 54 min
+114 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cardio y caladas](https://open.spotify.com/track/7N32rP2LvQh0IJw9qRmbCe) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Cardio y caladas](https://open.spotify.com/album/5Ovc1AHGFdDn3m03phgIHU) | 2:29 | 2024-06-27 |  |
 | [Cierra la puerta](https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Cierra la puerta](https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh) | 2:37 | 2024-06-27 |  |
 | [Coletero](https://open.spotify.com/track/3OMxSO1x7hdRnn2HVZ4Jvy) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Coletero](https://open.spotify.com/album/06NOGI9fA5ghWBGfRSxjXD) | 2:25 | 2024-06-27 |  |
+| [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 | 2024-07-18 |  |
 | [Cortes](https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Cortes](https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv) | 1:52 | 2024-07-04 |  |
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
@@ -38,7 +39,7 @@
 | [EN EL FESTÍN](https://open.spotify.com/track/1UAc6pOJ6j0Su1SLpXUdMB) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [EN EL FESTÍN](https://open.spotify.com/album/4GmcslgP7KlsZ0loxXfm5G) | 3:31 | 2024-06-27 | 2024-07-05 |
 | [En Forma](https://open.spotify.com/track/0XYCice34pKdrfOPSByAaw) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [En Forma](https://open.spotify.com/album/0fzciua8WczmJgoztuyqjq) | 3:48 | 2024-06-27 |  |
 | [Espíritu Olímpico](https://open.spotify.com/track/6h0YQ6hAfOgpEz32vij8DI) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Espíritu Olímpico](https://open.spotify.com/album/5KhojvYi9mOuTkQQcbuXLh) | 3:19 | 2024-06-27 |  |
-| [Estatua de oro](https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Estatua de oro](https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t) | 2:35 | 2024-06-27 |  |
+| [Estatua de oro](https://open.spotify.com/track/0kxQO0tb7DvVbgA2deL6t7) | [Bum Motion Club](https://open.spotify.com/artist/1CXtxQpopANSqixiP1iXfe) | [Estatua de oro](https://open.spotify.com/album/3lN6tewyEQINzDQ7eGgr7t) | 2:35 | 2024-06-27 | 2024-07-19 |
 | [Fantasma](https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Fantasma](https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl) | 3:12 | 2024-06-27 |  |
 | [FATAL, GRACIAS](https://open.spotify.com/track/074wAQGPvi3hOFzwsA94yE) | [Coolnenas](https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [FATAL, GRACIAS](https://open.spotify.com/album/1xD40JizwIWMrgncSJFlqH) | 2:20 | 2024-06-27 | 2024-07-12 |
 | [Finales Alternativos](https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ) | [Airbag](https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal), [J \(Los Planetas\)](https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l) | [Finales Alternativos](https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj) | 2:24 | 2024-06-27 |  |
@@ -90,12 +91,14 @@
 | [Porno](https://open.spotify.com/track/6VcbzRsGlWf3JKsKSykVaG) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Porno](https://open.spotify.com/album/2DRvZbUal4kRyTkW33jvoD) | 2:46 | 2024-06-27 | 2024-07-04 |
 | [Premonición](https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34) | [Capsula](https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd) | [Premonición](https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu) | 2:45 | 2024-07-04 |  |
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2024-06-27 |  |
+| [Puñales](https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS) | [La Culpa](https://open.spotify.com/artist/677roxlr69mbWMLY6MMGnx) | [Puñales](https://open.spotify.com/album/5rQunDenYk2OKE9Fuzxa0O) | 1:44 | 2024-07-18 |  |
 | [Que arda Madriz](https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Que arda Madriz](https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC) | 3:54 | 2024-06-27 |  |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 |  |
 | [Salgo A La Calle](https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Salgo A La Calle](https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd) | 3:13 | 2024-06-27 |  |
 | [Si No Es Hoy Cuándo Es](https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo) | [Dame Area](https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl) | [Si No Es Hoy Cuándo Es](https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA) | 5:32 | 2024-07-04 |  |
 | [Si Piensas en Mí](https://open.spotify.com/track/1LGZYAqFUZli9lE8ZkAGvp) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Si Piensas En Mí](https://open.spotify.com/album/0UlukI2zr6iWqA76bjhrcQ) | 4:04 | 2024-07-11 |  |
+| [Silla de Mimbre](https://open.spotify.com/track/6ycJdHZMueNIA3ZM1rvBwB) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Silla de Mimbre](https://open.spotify.com/album/00KBXaGYuIZmX4KprFEam8) | 3:36 | 2024-07-18 |  |
 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 | 2024-06-27 |  |
 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 | 2024-06-27 |  |
 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 | 2024-06-27 |  |
@@ -108,14 +111,14 @@
 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 | 2024-06-27 |  |
 | [Tú No Lo Ves](https://open.spotify.com/track/3XmNUtr2R6EbBk3msDxYSN) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Tú No Lo Ves](https://open.spotify.com/album/117oS61cOoLRl1mAUkoiAt) | 4:40 | 2024-06-27 |  |
 | [Tú y Yo y Todos Los Demás](https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ) | [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Tú y Yo y Todos Los Demás](https://open.spotify.com/album/6JzNwePjl9hkA2qOMfjKAe) | 1:59 | 2024-06-27 |  |
-| [Un final ideal](https://open.spotify.com/track/3TXeQIDsMrjHHn7zre2EHZ) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [SVPER](https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC) | [Un final ideal](https://open.spotify.com/album/5Hq8V9QX08DUMGYHfz6ZDu) | 3:06 | 2024-06-27 |  |
+| [Un final ideal](https://open.spotify.com/track/3TXeQIDsMrjHHn7zre2EHZ) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO), [SVPER](https://open.spotify.com/artist/48SnHDE03xWLStx43tMRXC) | [Un final ideal](https://open.spotify.com/album/5Hq8V9QX08DUMGYHfz6ZDu) | 3:06 | 2024-06-27 | 2024-07-19 |
 | [UN PALACIO CON MIS HUESOS](https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [UN PALACIO CON MIS HUESOS](https://open.spotify.com/album/4pThb4Z0Jk5DsgiSqkM6MK) | 3:21 | 2024-06-27 | 2024-07-12 |
 | [Viernes](https://open.spotify.com/track/5VXpWsJuT0MOw0Tb6iNu6O) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Entre todas lo arreglamos](https://open.spotify.com/album/1GrpjkyXqYNV5dZuO2iiSx) | 2:47 | 2024-06-27 |  |
 | [Vino el Amor](https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Esta historia ya no está disponible](https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O) | 2:36 | 2024-06-27 |  |
 | [Vuelta a casa](https://open.spotify.com/track/73PqBVASCSI1uVM94jTymu) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Vuelta a casa](https://open.spotify.com/album/4LT0Mq5MYcTyuo7Sivh0kH) | 3:27 | 2024-06-27 |  |
 | [Vámonos](https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Vámonos](https://open.spotify.com/album/26m3HonKZaNY2mr5dyfpDz) | 4:08 | 2024-06-27 |  |
 | [Y no lo ves](https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Y no lo ves](https://open.spotify.com/album/59pD3E1YOQ2vTDxHAL2v8z) | 2:51 | 2024-06-27 |  |
-| [Ya Sale El Sol](https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [Ya Sale El Sol](https://open.spotify.com/album/1UBkMgr6rZuPvHe0eaH8hq) | 3:10 | 2024-06-27 |  |
+| [Ya Sale El Sol](https://open.spotify.com/track/3CcaAsGasFGp9GkXByLNms) | [Los Bengala](https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW) | [Ya Sale El Sol](https://open.spotify.com/album/1UBkMgr6rZuPvHe0eaH8hq) | 3:10 | 2024-06-27 | 2024-07-19 |
 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 | 2024-07-11 |  |
 | [¿cómo estás?](https://open.spotify.com/track/1NHO4eH5L9fkUaHb68y1t1) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [¿cómo estás?](https://open.spotify.com/album/1KKLtNhUyiP0atBtscOLsn) | 2:53 | 2024-06-27 |  |
 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 | 2024-06-27 |  |

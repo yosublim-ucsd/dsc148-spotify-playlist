@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-484 songs - 23 hr 25 min
+485 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [LAGOS](https://open.spotify.com/track/3xRZgR7wp9CrzhTgUaGqX8) | [Fvreign](https://open.spotify.com/artist/3KEGur3FxPPEw9VZ8jPM8F), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [LAGOS](https://open.spotify.com/album/77xzK52FgaJDWCCaKlCKEN) | 2:44 | 2024-01-12 | 2024-02-03 |
 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 | 2023-03-16 | 2023-09-29 |
 | [LEADER!](https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [LEADER!](https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC) | 2:21 | 2022-09-19 | 2022-11-16 |
-| [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 | 2024-06-28 |  |
+| [Left Right](https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Left Right](https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 | 2023-03-25 |
 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 | 2023-04-20 | 2023-05-12 |
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 | 2023-06-10 |
@@ -380,6 +380,7 @@
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 |  |
 | [RESURRECT](https://open.spotify.com/track/4eovq4Ubecp361Ls97DWdZ) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [RESURRECT](https://open.spotify.com/album/32XrEc7ereRRDCjO0gVb0q) | 2:54 | 2024-04-05 | 2024-04-26 |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-29 | 2024-06-28 |
+| [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
 | [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 | 2024-04-26 |  |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-27 | 2023-02-11 |
 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 | 2023-01-16 | 2023-10-20 |

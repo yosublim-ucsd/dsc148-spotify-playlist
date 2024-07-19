@@ -1463,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "album": {
         "name": "HATE BOYS",
         "url": "https://open.spotify.com/album/6sehw4xcjTqmAXO2ZGTs7p"
       },
@@ -2816,7 +2838,7 @@
       },
       "artists": [
         {
-          "name": "LA GUR\u00da",
+          "name": "LA GURU",
           "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],

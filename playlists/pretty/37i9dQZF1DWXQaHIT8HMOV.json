@@ -1,15 +1,15 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Elijah Kitaka",
-  "num_followers": 3691,
+  "num_followers": 3696,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoc3RAAAAABWIOGvq7gdr49s8qtyO+cR",
+  "snapshot_id": "ZpmsRAAAAAA3PH87A+Q+mtR6ilqU9xW/",
   "tracks": [
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Masavu",
         "url": "https://open.spotify.com/album/1kE9moAXgGGMB53Rxl6TuS"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4vQsuuW1bwV4Zy6YvdyyBG"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Dawa",
         "url": "https://open.spotify.com/album/2sOLzGgRxQ5nH6pz30vVJb"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/31WfPtHHPfL8C67RzlgMRv"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Tompa",
         "url": "https://open.spotify.com/album/1NsrqpQKmh3uWkHV1pt3Q9"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6MopLDu0gQs38srcOJyWqv"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Wakikuba",
         "url": "https://open.spotify.com/album/0WTiRdax3GmbI0EpPgccUq"
@@ -93,7 +93,27 @@
       "url": "https://open.spotify.com/track/4qBvBJ1HcZN4PYJV0Z1pEF"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Ntwaala",
+        "url": "https://open.spotify.com/album/2dtpEFGUed4yX2qJkJLUP9"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Ntwaala",
+      "url": "https://open.spotify.com/track/2UhlCJjpvFuLmoAb5swj8Y"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Shuu (Remix)",
         "url": "https://open.spotify.com/album/0BUSD1SZ5ok8qN8I3zSLjU"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/30hWSRl6bhLdPMlhYrytf6"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Amakoola",
         "url": "https://open.spotify.com/album/2Lof9PjSqCdrXwMkaAXU3m"
@@ -133,7 +153,23 @@
       "url": "https://open.spotify.com/track/6iA3EN2CdELtX79PQe6bv6"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "The One Omwami",
+        "url": "https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Omwami",
+      "url": "https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Onoozina",
         "url": "https://open.spotify.com/album/4YOy8mwEBEM98SbTIfoAG3"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/7CKNfjd9FA3ll9MrF5xEJb"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1"
@@ -173,23 +209,7 @@
       "url": "https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "The One Omwami",
-        "url": "https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj"
-      },
-      "artists": [
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "Omwami",
-      "url": "https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/137fekU8lMNIFK9wv8NYyj"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/37HNXhFT6fkI3Fu1iUHpkZ"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Pepepepe",
         "url": "https://open.spotify.com/album/2Wy6NBtz5cWdiMcpFkVude"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/2sCdsQv4x44paAKor3Yeh9"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/0ztyfTANJx4OTr8O7NsQkP"
@@ -241,7 +261,27 @@
       "url": "https://open.spotify.com/track/24z7VYMP6x4B8GKs6bxTd6"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6QOMmikqhoWYgeo3nxT2XD"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/77ecdnlCJILdoNzRUZiH5T"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "MAD (INFINITY REMIX)",
         "url": "https://open.spotify.com/album/2kEa8JfCMLMjnaPH94L2Da"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/4Yjd8cctVhkhYFgugKv2fp"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Bingabire",
         "url": "https://open.spotify.com/album/2WEVsPvSMmvrdx7EY65U2O"
@@ -297,7 +337,23 @@
       "url": "https://open.spotify.com/track/2p7wI5RiQ57kUeGPAIlxYW"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Co-Driver",
+        "url": "https://open.spotify.com/album/42Zut1b44a5bVEZfmAvVHo"
+      },
+      "artists": [
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "duration_ms": 193069,
+      "name": "Co-Driver",
+      "url": "https://open.spotify.com/track/0DqGxOwrd4D3UzMqkiN0pe"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Growing Pains (Deluxe)",
         "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
@@ -317,67 +373,7 @@
       "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Bailando (Latin Urbano Remix)",
-        "url": "https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 187139,
-      "name": "Bailando - Latin Urbano Remix",
-      "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Whine",
-        "url": "https://open.spotify.com/album/5K24e3yL1z69UyCIg73XBj"
-      },
-      "artists": [
-        {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
-        },
-        {
-          "name": "Weasel",
-          "url": "https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs"
-        }
-      ],
-      "duration_ms": 161175,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/4pTML0pgOyaVCtD1FUUi9A"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "YANSIGALAMU",
-        "url": "https://open.spotify.com/album/6RhjYsjwVD3KLM3nKoCVhs"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        },
-        {
-          "name": "Fik Gaza",
-          "url": "https://open.spotify.com/artist/7Ed62iIwlbzO0MmuBuWv6z"
-        }
-      ],
-      "duration_ms": 164563,
-      "name": "YANSIGALAMU",
-      "url": "https://open.spotify.com/track/20AU478BGEdpmVuTJdqqsn"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Style",
         "url": "https://open.spotify.com/album/1ejJGAXCYrOooZwBsiB9nq"
@@ -397,7 +393,67 @@
       "url": "https://open.spotify.com/track/3jz26JiyTxs2YHaFuPFNkn"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Bailando (Latin Urbano Remix)",
+        "url": "https://open.spotify.com/album/6X8mPyaTmPedCn0oWimxao"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 187139,
+      "name": "Bailando - Latin Urbano Remix",
+      "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/5K24e3yL1z69UyCIg73XBj"
+      },
+      "artists": [
+        {
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Weasel",
+          "url": "https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs"
+        }
+      ],
+      "duration_ms": 161175,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/4pTML0pgOyaVCtD1FUUi9A"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "YANSIGALAMU",
+        "url": "https://open.spotify.com/album/6RhjYsjwVD3KLM3nKoCVhs"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        },
+        {
+          "name": "Fik Gaza",
+          "url": "https://open.spotify.com/artist/7Ed62iIwlbzO0MmuBuWv6z"
+        }
+      ],
+      "duration_ms": 164563,
+      "name": "YANSIGALAMU",
+      "url": "https://open.spotify.com/track/20AU478BGEdpmVuTJdqqsn"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Morphed",
         "url": "https://open.spotify.com/album/3FxaHwvCvsfjHLJ8croNDf"
@@ -413,7 +469,27 @@
       "url": "https://open.spotify.com/track/0xhNGZYyHEbsK5MkiuvRsK"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/4fMw6Zg6WVlmRUlbKeIQaq"
+      },
+      "artists": [
+        {
+          "name": "Pajen",
+          "url": "https://open.spotify.com/artist/69m4piYbSiMGcT00fwGngo"
+        },
+        {
+          "name": "Sensual",
+          "url": "https://open.spotify.com/artist/4RIaZBc9Qy2HMPT41uqTQ4"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/7CUkI1gz6flvMNWU4KOdFi"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Mind Your Business",
         "url": "https://open.spotify.com/album/4c4rNpKzG8uoVIBrvjlrjz"
@@ -429,7 +505,7 @@
       "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Embaga Ya Isma Na\u2019mina",
         "url": "https://open.spotify.com/album/6PKoBd0ZatvAmaYhrP2AHd"
@@ -445,7 +521,7 @@
       "url": "https://open.spotify.com/track/2boSNe9SlveKjsVTSvueHA"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "After 10:30",
         "url": "https://open.spotify.com/album/6KAZHte6Hf1iL1Y6VKwzwZ"
@@ -461,7 +537,7 @@
       "url": "https://open.spotify.com/track/14VxAHYAoIxL6OZAhvUnL5"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/01orUU1eynuw2jDjbtqJCk"
@@ -485,7 +561,7 @@
       "url": "https://open.spotify.com/track/2tFGCKW58iD8WK8J9e3G2I"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Muleleetu",
         "url": "https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D"
@@ -501,7 +577,27 @@
       "url": "https://open.spotify.com/track/15KycmRRSpjaczTTgwowex"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
+      "album": {
+        "name": "Nteesa",
+        "url": "https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Salongo Siraje",
+          "url": "https://open.spotify.com/artist/3eQ4darYNRBrwqfMajhRLd"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "Nteesa",
+      "url": "https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd"
+    },
+    {
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Pleasure Pack (241)",
         "url": "https://open.spotify.com/album/67fcCi35ZS1liV0w75eAK2"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/3hNKoxy3BOUWKNuqVY0G7p"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Wesudiya",
         "url": "https://open.spotify.com/album/19z4YtKy1zu1Chk8bUuUye"
@@ -549,7 +645,7 @@
       "url": "https://open.spotify.com/track/6k856Fpj5VGtxwRdni0kcz"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Kiki Naye",
         "url": "https://open.spotify.com/album/5d30swJn03ZzY5CQIoPU7b"
@@ -573,7 +669,7 @@
       "url": "https://open.spotify.com/track/0oP11acxTwZ0fa5oyEaPZc"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/1ZSLFbAvGTUNECT52W2KCJ"
@@ -597,27 +693,7 @@
       "url": "https://open.spotify.com/track/5aJ7cMRKGlNwe4Mpl7aNot"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Nteesa",
-        "url": "https://open.spotify.com/album/3Uqp5YcoDFG26NlMTT2NnI"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Salongo Siraje",
-          "url": "https://open.spotify.com/artist/3eQ4darYNRBrwqfMajhRLd"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "Nteesa",
-      "url": "https://open.spotify.com/track/5cYU1jOUJuoJIrxXGg8nnd"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Nyambula",
         "url": "https://open.spotify.com/album/2XSkPLzMZnaJQUilLf2THo"
@@ -637,7 +713,7 @@
       "url": "https://open.spotify.com/track/29p4uMNu5rFqqR3eXgQnfy"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Filipa",
         "url": "https://open.spotify.com/album/7m0P0wpQMNZKFtziYkeO6E"
@@ -653,23 +729,7 @@
       "url": "https://open.spotify.com/track/2rjdyaSYYfMAGrQCRB9WqV"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Afuga",
-        "url": "https://open.spotify.com/album/4qVoYoXL7DHnWHRwTPKJMs"
-      },
-      "artists": [
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 173156,
-      "name": "Afuga",
-      "url": "https://open.spotify.com/track/3P0CYp0zKEMcIHelj3p97s"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Take My Love",
         "url": "https://open.spotify.com/album/2Xd544b5tCF8tZGLL53Q4N"
@@ -685,31 +745,7 @@
       "url": "https://open.spotify.com/track/476bgLwtOervN9Rrm8ThpY"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Do You Want to Party",
-        "url": "https://open.spotify.com/album/7jPtTxpFgvCeDJwUfxO0OZ"
-      },
-      "artists": [
-        {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        },
-        {
-          "name": "DJ Chris",
-          "url": "https://open.spotify.com/artist/5kR9F5Fbmx5OY5NNG5Pbzk"
-        },
-        {
-          "name": "Kyvo Bouy",
-          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "Do You Want to Party",
-      "url": "https://open.spotify.com/track/7srUC2ZI9u5srmd6juLAOH"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Kamese",
         "url": "https://open.spotify.com/album/4DmPcjBDA2fKQZyWH6lg1I"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/7wP1e00PvG9EJAkTFYGIIT"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Namulabako",
         "url": "https://open.spotify.com/album/04Z3CMpi3cYj1QvoZ7ilMj"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/2iuL25zyjR69LmdlDzkj34"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Crazy (Mutwe)",
         "url": "https://open.spotify.com/album/4dnmFaGd53nFSvCcQQE0PH"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Buntu Butono",
         "url": "https://open.spotify.com/album/6IM786ebwxU17zlAZLcwal"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/67YI9vKutXxFndWzBfvw8q"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Kukyakala Na Kubwa",
         "url": "https://open.spotify.com/album/2VCSAuTmt8zOUi89AXNgGo"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/6EcnXbxE8u1QZfcNJ2tbxe"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "My Date",
         "url": "https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4"
@@ -833,23 +869,7 @@
       "url": "https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "My Hero",
-        "url": "https://open.spotify.com/album/1bK0u2oDaHIK8mWKDvfK16"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        }
-      ],
-      "duration_ms": 162404,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/1nZzoDuUje5KlTpte9rM1Q"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Bend Ova",
         "url": "https://open.spotify.com/album/6NsGcX3HENASU71GnqMw8k"
@@ -877,7 +897,7 @@
       "url": "https://open.spotify.com/track/6bnxHm59kBn04ciFEZ2lxK"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
@@ -897,7 +917,7 @@
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Akamuli",
         "url": "https://open.spotify.com/album/5NqUwN0zgmV8oz5hVaEaFb"
@@ -917,23 +937,7 @@
       "url": "https://open.spotify.com/track/7LSJCvHCUjmlE56OafIp6k"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
-      "album": {
-        "name": "Let's Music",
-        "url": "https://open.spotify.com/album/3fyDH3PCwQOxqYJW0y1Klw"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        }
-      ],
-      "duration_ms": 182595,
-      "name": "Nsobola",
-      "url": "https://open.spotify.com/track/31ZxmuPnWEgJ6wu95mgf40"
-    },
-    {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Yo Body",
         "url": "https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Thursday",
         "url": "https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ"
@@ -973,7 +977,7 @@
       "url": "https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Tutamire",
         "url": "https://open.spotify.com/album/5F3Ahu2jSh25zW4YGm9qQ1"
@@ -989,7 +993,7 @@
       "url": "https://open.spotify.com/track/63l4eF30bX8vVTcRSuoBIc"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Kyekiliwo",
         "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
@@ -1005,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5n3YEFEO4K5AvHIHkyZCg6"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
@@ -1025,7 +1029,7 @@
       "url": "https://open.spotify.com/track/4FKLDG7TJuMHtaP9sDZOpi"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
@@ -1041,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "SANKOFA",
         "url": "https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC"
@@ -1057,7 +1061,7 @@
       "url": "https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL"
@@ -1073,7 +1077,7 @@
       "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Bwepaba",
         "url": "https://open.spotify.com/album/3KTcQeURSAxN6ubdoh9QKa"
@@ -1093,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5zxBCElTKxOF2FptuZBjDt"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Salary",
         "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
@@ -1113,7 +1117,7 @@
       "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Binkolele",
         "url": "https://open.spotify.com/album/6MfNYhFnajErRuvwzRBC8w"
@@ -1129,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0zDT3yAXoFiBn0gcj91uaJ"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Bedroom Essentials",
         "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
@@ -1149,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
-      "added_at": "2024-07-04 23:59:00",
+      "added_at": "2024-07-18 23:59:00",
       "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"

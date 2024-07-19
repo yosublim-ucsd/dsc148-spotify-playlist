@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-627 songs - 1 day 19 hr 51 min
+628 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Angry Dance](https://open.spotify.com/track/7IAQKxGChgYSSS6hZm6JLf) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:49 | 2022-09-08 |  |
 | [Answer In The Sky](https://open.spotify.com/track/18ZZAnK7fpLVaXsRw9RwT4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:03 | 2022-09-08 |  |
 | [Are We Laughing?](https://open.spotify.com/track/29UqkYV40EPwbJsl41d3A7) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 1:06 | 2023-05-26 |  |
-| [Auld Lang Syne](https://open.spotify.com/track/0MfjH6DpyGrBQZoaWIsv4G) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/69a0N3kvOVpl6cLb5RD5Dg) | 2:34 | 2022-09-08 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/0MfjH6DpyGrBQZoaWIsv4G) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/69a0N3kvOVpl6cLb5RD5Dg) | 2:34 | 2022-09-08 | 2024-07-19 |
+| [Auld Lang Syne](https://open.spotify.com/track/0mZe6fbJ4MTEL2RRdubgZZ) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Christmas Party](https://open.spotify.com/album/3wKrIrZ6rJGclVWOlalysx) | 2:34 | 2024-07-18 |  |
 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 | 2023-06-06 |  |
 | [Back To The Aquarium](https://open.spotify.com/track/0XdP5Xlov5R5tmXN7tBYyL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:53 | 2023-06-02 |  |
 | [Bad Side of the Moon](https://open.spotify.com/track/3cRt9j0q8JaJFfRmmrWz7x) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The First Decade](https://open.spotify.com/album/1mR3blUKlnRUVpohvNS5v5) | 3:11 | 2022-09-08 |  |

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Sarah Suhairi
+> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: FUGŌ
 
-66 songs - 3 hr 29 min
+68 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 |  |
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 |  |
 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 | 2024-06-27 |  |
+| [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 |  |
 | [Easy Girl Easy Boy](https://open.spotify.com/track/16J7AI5bo2CO088Qr8Dw9A) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy Girl Easy Boy](https://open.spotify.com/album/763KgVE9H9LEnNIo2BPIwa) | 3:24 | 2024-06-27 |  |
 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 | 2024-06-27 |  |
 | [Empty Seat](https://open.spotify.com/track/5pauvFrp9fPakXKBuLsO2m) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:49 | 2024-06-27 |  |
@@ -52,6 +53,7 @@
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 |  |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 |  |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 |  |
+| [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-18 |  |
 | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/track/5EJEftAM7FGp3rqzqlGTAj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/album/3ObMniiI2YCYoaNXWhWBYW) | 2:52 | 2024-06-27 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-06-27 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 |  |

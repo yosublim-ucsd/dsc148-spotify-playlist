@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-169 songs - 8 hr 56 min
+170 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Estación Solari / La Mal Peinada / El Curuzucuateño \- En Vivo](https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF) | [El Angel De Las 2 Hileras](https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5) | [Chamamé para las Bailantas \(En Vivo\)](https://open.spotify.com/album/69uqtQKovnsA0EbUkcp9vc) | 7:25 | 2023-06-09 | 2024-04-19 |
 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 | 2021-11-19 | 2024-07-18 |
 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 | 2021-11-19 |  |
+| [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 | 2024-07-19 |  |
 | [Gastando Taco y Suela](https://open.spotify.com/track/1PLxI6MfKHbuGA4F6M0Ph4) | [Azul Carrizo La Dama Del Acordeón](https://open.spotify.com/artist/2DeJ9SnWMsoaImaAeXjmqt), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Gastando Taco y Suela](https://open.spotify.com/album/2QCMPsSHLHeK2NkgsWmuXO) | 2:58 | 2021-11-19 |  |
 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 | 2021-11-19 |  |
 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 | 2021-11-19 |  |
@@ -111,7 +112,7 @@
 | [Lázaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Unión/devuelta a Mi Ranchito/a Cachencho Federal](https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ) | [Los Chamameceros de Federal](https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O) | [La Diferencia](https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O) | 4:58 | 2023-05-05 | 2024-04-19 |
 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 | 2021-11-19 |  |
 | [Meta lonja y chamamé](https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Pastor Luna \- Chamemecero de Ley](https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C) | 2:57 | 2021-11-19 |  |
-| [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 | 2021-11-19 |  |
+| [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 | 2021-11-19 | 2024-07-19 |
 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 | 2021-11-19 |  |
 | [Mi Estrella Perdida](https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Mi Estrella Perdida](https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu) | 4:08 | 2021-11-19 |  |
 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 | 2021-11-19 |  |

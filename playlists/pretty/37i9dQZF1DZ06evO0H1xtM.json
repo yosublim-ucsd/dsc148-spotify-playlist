@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 290843,
+  "num_followers": 291096,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADa+WZcMomFJ9mSoY1Id1WV",
+  "snapshot_id": "ZpcJgAAAAADWQMDup2slJH1oKahhhU3W",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "JPL",
-          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "El Inocente",
-      "url": "https://open.spotify.com/track/1tLbquZ3AZCUWpst5N8T6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Ruina (Version Deluxe)",
         "url": "https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 213440,
       "name": "La Vida Ruina (feat. Ariel Camacho)",
       "url": "https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "El Inocente",
+      "url": "https://open.spotify.com/track/1tLbquZ3AZCUWpst5N8T6S"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Auriel Gaxiola",
-          "url": "https://open.spotify.com/artist/4479erdZDo7A6Q7hoxSTNS"
-        }
-      ],
-      "duration_ms": 167775,
-      "name": "Quieren Ver",
-      "url": "https://open.spotify.com/track/2cJ1grvx1xA2xgJW1Mfg8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Haces Tan Bien",
         "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Auriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4479erdZDo7A6Q7hoxSTNS"
+        }
+      ],
+      "duration_ms": 167775,
+      "name": "Quieren Ver",
+      "url": "https://open.spotify.com/track/2cJ1grvx1xA2xgJW1Mfg8n"
     },
     {
       "added_at": null,

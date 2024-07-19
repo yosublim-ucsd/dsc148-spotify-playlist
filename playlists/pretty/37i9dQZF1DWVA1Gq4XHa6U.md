@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 
 > Taking it way back! Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,714,098 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,714,540 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
+| 1 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
 | 2 | [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 |
 | 3 | [Bitch Please](https://open.spotify.com/track/5Sm1X46tna50RstHZvw072) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [No Limit Top Dogg](https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb) | 3:54 |
 | 4 | [Go DJ](https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter](https://open.spotify.com/album/5POcKy926GgzFHZpGptJac) | 4:41 |
-| 5 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
+| 5 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
 | 6 | [Hit 'Em Up \- Single Version](https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 5:12 |
 | 7 | [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 |
 | 8 | [Regulate](https://open.spotify.com/track/1mFxMJ2UZGFow4sx75vJ6Z) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA1Gq4XHa6U.md) - [plain]
 | 49 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 50 | [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 |
 
-Snapshot ID: `Zod4/QAAAAD06X3K+mBrCoYY25mHuYih`
+Snapshot ID: `ZpmuxAAAAAB3e06KfmSzvTZLXgA2MGkx`

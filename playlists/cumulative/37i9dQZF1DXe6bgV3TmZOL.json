@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "name": "Adrenaline Workout",
+  "name": "Heavy Workout",
   "tracks": [
     {
       "album": {
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217959,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx"
@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Epitaph",
+        "url": "https://open.spotify.com/album/2xCkPvQQX7GcUiwIu495v9"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217025,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
+    },
+    {
+      "album": {
         "name": "Eye of the Storm (Into The Vortex Remix)",
         "url": "https://open.spotify.com/album/2iM1tpyAgGWg9h7eANqNz9"
       },
@@ -3117,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Hands of Sin",
+        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "Hands of Sin",
+      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -3218,7 +3254,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182190,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/632Xl9n1wHgMKoxD07WZHW"
@@ -3598,7 +3634,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
@@ -4016,6 +4052,24 @@
       "duration_ms": 182410,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/5q9odCy98qQpGOifzN5bd4"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu"
     },
     {
       "album": {
@@ -4779,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
         "name": "Nightmares Are Dreams Too",
         "url": "https://open.spotify.com/album/2XfKBvcROTswmgAf86SKUK"
       },
@@ -5000,7 +5072,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204266,
       "name": "ONE OF US",
       "url": "https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9"
@@ -5800,6 +5872,24 @@
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223405,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1"
     },
     {
       "album": {
@@ -6791,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "The Gallow",
+        "url": "https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298347,
+      "name": "The Gallow",
+      "url": "https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH"
+    },
+    {
+      "album": {
         "name": "The Sin and the Sentence",
         "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
@@ -7434,7 +7542,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 263586,
       "name": "Vice Grip",
       "url": "https://open.spotify.com/track/6ImePfz0yslIWLPQ7cQIYA"
@@ -7738,7 +7846,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"

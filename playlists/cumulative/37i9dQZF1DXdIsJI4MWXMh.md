@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-131 songs - 8 hr 57 min
+132 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [El Aguacero](https://open.spotify.com/track/5BnQ8e4HVxTUmcnCn9ktFX) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:35 | 2023-03-03 |  |
 | [El Amante Apasionado](https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS) | [Los Reales del Valle](https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO) | [Éxitos Inolvidables](https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq) | 3:33 | 2023-03-03 |  |
 | [El Buque Con Mas Potencia](https://open.spotify.com/track/0g31ngzmsfUgvAjE1e0nQ4) | [Los Lobos del Sur](https://open.spotify.com/artist/3FCBnIlgoRwCdoWpUN85ck) | [Un Lobo Está Llorando](https://open.spotify.com/album/6Geby7blTCI2vcP1Pm2DGR) | 4:41 | 2023-03-03 | 2024-04-19 |
-| [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 | 2023-10-05 |  |
+| [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 | 2023-10-05 | 2024-07-19 |
 | [El Corrido Del R\-15](https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO) | [La Descendencia Chilena](https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n) | [El Corrido Del R\-15](https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA) | 3:24 | 2023-03-03 |  |
 | [El Hijo Ausente](https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [El Hijo Ausente](https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq) | 2:58 | 2023-10-05 |  |
 | [El Intruso](https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH) | [El Intruso](https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz) | 3:25 | 2023-09-15 |  |
@@ -95,6 +95,7 @@
 | [Michelada](https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Michelada](https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ) | 2:42 | 2023-03-03 |  |
 | [Mil Cantinas](https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:30 | 2023-03-03 |  |
 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 | 2023-03-03 |  |
+| [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 | 2024-06-12 |  |
 | [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2023-03-03 |  |
 | [Mátame a Besos](https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 3:02 | 2023-03-03 |  |
 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [De Padre Desconocido](https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW) | 2:34 | 2023-10-05 |  |

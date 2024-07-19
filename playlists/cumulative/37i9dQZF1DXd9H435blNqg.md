@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-152 songs - 8 hr 24 min
+153 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Don't You Touch The Radio](https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Don't You Touch The Radio](https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R) | 3:39 | 2023-09-08 |  |
 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 | 2022-02-25 |  |
 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-14 |  |
+| [Fetish Eyes](https://open.spotify.com/track/4xkiFc0nHxmmPSqICEXqlQ) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU), [Kyle Nicolaides](https://open.spotify.com/artist/6rXPvIRGCRBuq1trwa6S4x) | [Fetish Eyes](https://open.spotify.com/album/1JIBfMZyz9oVAwy2TFfIes) | 3:48 | 2024-07-19 |  |
 | [Five Dollars](https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP) | 3:08 | 2021-02-12 | 2022-07-29 |
 | [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2021-02-12 | 2023-10-01 |
 | [Fix Your Face](https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:15 | 2021-02-12 | 2023-05-20 |
@@ -155,7 +156,7 @@
 | [Under The Big Top](https://open.spotify.com/track/1pP5BPqBK3Mm7PGywnJxP8) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc) | [Color Where You Are](https://open.spotify.com/album/75r48cAcN4HJeVT7JE6XVN) | 3:47 | 2022-08-31 | 2024-04-19 |
 | [Walls](https://open.spotify.com/track/2Dnr5QCVLG0jPrC7XweC7E) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [True Love Is Dead](https://open.spotify.com/album/3iL3BH10DzqzBhmvxjkKhi) | 3:00 | 2023-04-07 | 2023-12-17 |
 | [Walls](https://open.spotify.com/track/3LMiz4T6wBbuGRRGHBo2yv) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 3:00 | 2023-04-07 | 2024-04-19 |
-| [Walls](https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 3:00 | 2023-04-07 |  |
+| [Walls](https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Walls](https://open.spotify.com/album/0JQSivRdAZw6cCwtdl3f4I) | 3:00 | 2023-04-07 | 2024-07-19 |
 | [Watch Yo Mouf](https://open.spotify.com/track/6VM4509PIwTpt2sKR5XMlR) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/6SVJvFoVij5TG39JhWkoBA) | 2:42 | 2021-02-12 |  |
 | [Watch Yo Mouf](https://open.spotify.com/track/6sJYiMRXLKF2JflTtzKs9U) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Wings and Blue Cheese](https://open.spotify.com/album/5dKt7PvytEEmmXv7mqbuw2) | 2:42 | 2021-02-12 | 2024-04-19 |
 | [Wishing Well](https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Moonshine Blue](https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw) | 2:48 | 2022-08-31 |  |

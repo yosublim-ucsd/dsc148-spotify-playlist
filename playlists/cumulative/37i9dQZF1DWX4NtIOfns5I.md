@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Odie Leigh
 
-289 songs - 16 hr 57 min
+293 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-10-06 | 2024-04-06 |
 | [Never Learned To Dance](https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI) | 3:44 | 2023-10-06 | 2023-11-18 |
 | [Never Learned To Dance](https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG) | 3:44 | 2023-11-10 | 2024-03-16 |
+| [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 | 2024-07-19 |  |
 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 | 2023-12-15 | 2024-03-21 |
 | [No Doubt](https://open.spotify.com/track/3vMtPTyRz8UKXuGXGmqhHM) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [No Doubt](https://open.spotify.com/album/48UbbOD6O9q4Nc95CIalLR) | 3:46 | 2024-01-26 | 2024-04-06 |
 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 | 2023-10-06 |  |
@@ -242,6 +243,7 @@
 | [Sunshine](https://open.spotify.com/track/1v08WocoiKJ2K4Xq9Oi8Oj) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 3:37 | 2023-10-06 | 2024-07-09 |
 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 | 2024-05-17 |  |
 | [Sway](https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-04-13 |
+| [Taste The Dirt](https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Taste The Dirt](https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm) | 2:56 | 2024-07-19 |  |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 | 2023-10-06 | 2023-11-18 |
 | [The Bell Jar](https://open.spotify.com/track/1LUek8Od6zrrcPxhXrkNIz) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [The Bell Jar](https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK) | 2:19 | 2024-04-05 |  |
@@ -257,6 +259,7 @@
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-06 | 2024-06-01 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-19 | 2024-04-27 |
 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 | 2024-02-23 | 2024-04-06 |
+| [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-19 |  |
 | [there they go](https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [there they go](https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF) | 2:13 | 2023-10-20 | 2024-03-16 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-10-06 | 2024-05-25 |
 | [Timeline](https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 5:32 | 2024-05-17 |  |
@@ -289,6 +292,7 @@
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 | 2024-03-13 |
 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 | 2024-04-22 |  |
 | [Willows](https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Willows](https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P) | 3:41 | 2023-10-06 | 2024-01-27 |
+| [Wimbledon White](https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Second Dinner](https://open.spotify.com/album/00RY3jnU6ElMOxJR7AasY7) | 4:07 | 2024-07-19 |  |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-26 | 2024-06-01 |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2023-10-06 | 2023-12-16 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 | 2024-02-17 |

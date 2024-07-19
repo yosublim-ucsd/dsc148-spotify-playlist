@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-229 songs - 13 hr 38 min
+230 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2021-11-24 | 2023-12-15 |
 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 | 2021-11-24 |  |
 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 | 2021-11-24 |  |
-| [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 | 2024-06-03 |  |
+| [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 | 2024-06-03 | 2024-07-19 |
 | [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 | 2022-04-28 | 2023-05-27 |
 | [Soldier On](https://open.spotify.com/track/5ciRElWhvA0LuG2hQi90Ie) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Soldier On](https://open.spotify.com/album/1h86JSDcGsMsWgPFpoZ0Aj) | 3:27 | 2021-11-24 | 2023-04-21 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2021-11-24 | 2023-10-27 |
@@ -190,6 +190,7 @@
 | [State of War \- Acoustic](https://open.spotify.com/track/6SCBrXqS49Cg8FO3sZerw5) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [State of War](https://open.spotify.com/album/6MSFc7cbKx1FJnicqd3VeE) | 2:50 | 2022-11-17 |  |
 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2021-11-24 |  |
 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 | 2021-11-24 | 2023-02-10 |
+| [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 | 2024-07-18 |  |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2021-11-24 |  |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-06-03 | 2024-04-19 |
 | [Surrender](https://open.spotify.com/track/4Y5gx8VuShNmakYGlnrUzD) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/02QDTrIeIhkXSYukXY6p0C) | 3:03 | 2021-11-24 |  |

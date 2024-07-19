@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,586,088 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,586,163 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 68 | [Ball So Hard \- PIERCE Remix](https://open.spotify.com/track/3Xe1gYN2scJOx0R4C289YY) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk), [Stooki Sound](https://open.spotify.com/artist/6ky7h0ow6NQgAnsoN2AB7h), [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Ball So Hard \(PIERCE Remix\)](https://open.spotify.com/album/2TEa0aL1nxqMB4nLRHrbnt) | 2:20 |
 | 69 | [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 |
 | 70 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 |
-| 71 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
-| 72 | [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 |
+| 71 | [with vengeance](https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [with vengeance](https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK) | 3:20 |
+| 72 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
 | 73 | [Okay Okay \(with Eptic and IDK\)](https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:21 |
 | 74 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
-| 75 | [MELLOFIRE](https://open.spotify.com/track/5arp5Yt5acArXKLkgVe2Nq) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [It’s Riddim Time](https://open.spotify.com/album/52MZ9cM7DPDCrJZktsHKF0) | 4:00 |
+| 75 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 
 Snapshot ID: `ZpFlCwAAAADRB6Z2J9/LRJCwohruioft`

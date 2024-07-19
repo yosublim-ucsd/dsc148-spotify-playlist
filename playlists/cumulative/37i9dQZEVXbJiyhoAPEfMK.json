@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
@@ -9998,6 +9998,28 @@
       "duration_ms": 134772,
       "name": "COBAIN",
       "url": "https://open.spotify.com/track/20WdZJAVbKz9728zTCJgD0"
+    },
+    {
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148657,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
       "album": {
@@ -15844,7 +15866,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -21018,7 +21040,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -24318,7 +24340,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -38590,7 +38612,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 98152,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
@@ -50018,7 +50040,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156600,
       "name": "Wenn du mich kennst",
       "url": "https://open.spotify.com/track/7wz5d9hBn3oaJJXb6YdhbS"
@@ -50584,7 +50606,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 149066,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV"

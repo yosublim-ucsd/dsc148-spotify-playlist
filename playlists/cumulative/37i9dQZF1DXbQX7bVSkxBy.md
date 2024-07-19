@@ -2,7 +2,7 @@
 
 ### [Testify](https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy)
 
-> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M?si=N4b3JthLTPyfE9LI5XVktg>Angelique Kidjo</a>
+> Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=jowDOV\-9TNexl93Qvu7pAA>Johnny Drille</a>
 
 295 songs - 1 day 0 hr 25 min
 

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-934 songs - 1 day 12 hr 16 min
+936 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2023-09-08 |  |
 | [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 | 2024-07-12 |
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 | 2024-02-12 |
+| [advanced language](https://open.spotify.com/track/7dJll5i9wNnBRu15GFfinK) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [advanced language](https://open.spotify.com/album/1PfDudxJRdBjR7S47UMBDj) | 2:16 | 2024-07-12 |  |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
 | [Affirmations](https://open.spotify.com/track/0k8Z6E4Jbx11Y9pwPo7BEA) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Affirmations](https://open.spotify.com/album/4rPQSr2OlsePkDkfNKesm9) | 1:52 | 2022-05-20 | 2023-11-17 |
 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 | 2023-10-13 |  |
@@ -238,6 +239,7 @@
 | [Feelin'](https://open.spotify.com/track/3CTAJlaC50aDkUUmZtewWp) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Feelin'](https://open.spotify.com/album/0OiKNfuaINRWoMkEBH8VhT) | 2:23 | 2022-05-13 | 2023-11-17 |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-04-15 | 2022-09-03 |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-04-15 |  |
+| [Flapjack](https://open.spotify.com/track/0NdWscQuRW9hTfZZFhmtG8) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Flapjack](https://open.spotify.com/album/3KBnZadTY4pMrWaKsy55jg) | 2:08 | 2024-07-12 |  |
 | [Flavour](https://open.spotify.com/track/2bYLgnOMydPERsoIxpS9Z1) | [Horscht](https://open.spotify.com/artist/6xUv3alLm8Tv5pOqQAhXfk) | [Flavour](https://open.spotify.com/album/3JCKzZyp6umZDTKO8OWW1z) | 2:39 | 2022-11-11 | 2022-12-10 |
 | [Flavour](https://open.spotify.com/track/4gQBjZwMYUOUorjwSSEO1c) | [Horscht](https://open.spotify.com/artist/6xUv3alLm8Tv5pOqQAhXfk) | [Flavour](https://open.spotify.com/album/29vJCvpUojLc9lZ9axQykG) | 2:39 | 2022-08-19 | 2022-11-20 |
 | [Flight 99 \- Instrumental](https://open.spotify.com/track/2G40GyMdMf9NjvBCWuIVnV) | [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK) | [Flight 99 \(Remixes\)](https://open.spotify.com/album/3cpr9X6tMQzpapGrKpT1tX) | 2:51 | 2022-10-28 | 2022-11-24 |
@@ -517,7 +519,7 @@
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [NI](https://open.spotify.com/track/50lsn0khM1dfoMMSUaTGPy) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [NI](https://open.spotify.com/album/4ViJ12dBADvGUWNkwWy7Ym) | 2:41 | 2022-04-15 |  |
 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 | 2022-06-17 |  |
-| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 |  |
+| [Night In](https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm) | [cpacesh1ps](https://open.spotify.com/artist/4BGrCgl16msxL2wmYB8LN7) | [Night In](https://open.spotify.com/album/4y5D2Bb8a4sdLU4IxWRiR7) | 2:11 | 2022-11-11 | 2024-07-19 |
 | [Night Session](https://open.spotify.com/track/1zDp1QFkvTuqX8tPoljHyM) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Night Session](https://open.spotify.com/album/3JzhW3MaqUrJVLKNJIR3dY) | 2:05 | 2022-05-27 | 2023-09-29 |
 | [night waves](https://open.spotify.com/track/4Ymj9hO8ocX1wkA54kZMaM) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/0YY5a07WEQ4kEhbsNOWiWx) | 1:34 | 2022-11-25 | 2022-12-10 |
 | [night waves](https://open.spotify.com/track/7DvDMIiYaDzzwTtM09pdp3) | [lowfi](https://open.spotify.com/artist/3LvyCet2eyTqt2XGXTkGxo) | [night waves](https://open.spotify.com/album/7MJCRCppqd1CEz04TmeoEu) | 1:34 | 2022-08-12 | 2022-12-04 |
@@ -837,7 +839,7 @@
 | [Time And Space](https://open.spotify.com/track/697TBmclHJQlcG2Ewlu0ln) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/6nMxipAju9t9Rp6mLZ15n3) | 2:46 | 2022-10-28 | 2022-11-24 |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-04-15 | 2022-07-22 |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-01-06 |  |
-| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 |  |
+| [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 | 2024-07-19 |
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |
 | [Toki](https://open.spotify.com/track/0VGrbqWrRR6etQn9EgW6Wv) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 3:30 | 2022-12-09 | 2023-09-22 |
 | [Touch It](https://open.spotify.com/track/2293GzJHceVDK6bJCISEmQ) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Touch It](https://open.spotify.com/album/4SN65gYWILrk3439N1zvdg) | 1:53 | 2022-06-10 | 2022-11-21 |

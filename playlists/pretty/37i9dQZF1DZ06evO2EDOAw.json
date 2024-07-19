@@ -1,13 +1,33 @@
 {
-  "description": "This Is Kierra Sheard. Los temas esenciales, todos en una lista.",
+  "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
   "num_followers": 4453,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADgHcHGqyU2Z0xYLYWMPUBw",
+  "snapshot_id": "ZpcJgAAAAAAviUMneQfndUKpiprmuptj",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 471573,
+      "name": "Your Spirit",
+      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
+    },
     {
       "added_at": null,
       "album": {
@@ -147,58 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "BRL",
-          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
-        }
-      ],
-      "duration_ms": 549106,
-      "name": "Indescribable - Live",
-      "url": "https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 332143,
-      "name": "It Keeps Happening (Live)",
-      "url": "https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 660343,
       "name": "Costly (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/04hwtpBc4Ku1UVAWPCfdlD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 332143,
+      "name": "It Keeps Happening (Live)",
+      "url": "https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL"
     },
     {
       "added_at": null,
@@ -275,26 +259,6 @@
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "BRL",
-          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
-        }
-      ],
-      "duration_ms": 547000,
-      "name": "Free - Live",
-      "url": "https://open.spotify.com/track/0RNPiXc8aLrCbuivYlouzd"
     },
     {
       "added_at": null,
@@ -479,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 238610,
+      "name": "We Need You",
+      "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -503,6 +491,42 @@
       "duration_ms": 281181,
       "name": "I Got You (Always and Forever)",
       "url": "https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 402034,
+      "name": "My Redeemer (Live) (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2"
     },
     {
       "added_at": null,
@@ -547,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 247825,
-      "name": "I Choose You (Live)",
-      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACELAND",
         "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
@@ -595,6 +587,22 @@
       "duration_ms": 264346,
       "name": "Repin My God",
       "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 247825,
+      "name": "I Choose You (Live)",
+      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
     },
     {
       "added_at": null,
@@ -623,26 +631,6 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 402034,
-      "name": "My Redeemer (Live) (feat. Le'Andria Johnson)",
-      "url": "https://open.spotify.com/track/4PTSv8ZP7qStahGRZUw3p2"
     },
     {
       "added_at": null,
@@ -819,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems & Glory (Live)",
-        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 310644,
-      "name": "Come A Little Closer - Live",
-      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heavens Are Telling",
         "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
@@ -859,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
       },
       "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+      "duration_ms": 310644,
+      "name": "Come A Little Closer - Live",
+      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
     },
     {
       "added_at": null,
@@ -891,6 +863,22 @@
       "duration_ms": 307960,
       "name": "All Glory",
       "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
     },
     {
       "added_at": null,
@@ -927,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 75557,
-      "name": "Intro (I Am Free) - Live",
-      "url": "https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -959,6 +931,22 @@
       "duration_ms": 315533,
       "name": "Somehow (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 75557,
+      "name": "Intro (I Am Free) - Live",
+      "url": "https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY"
     },
     {
       "added_at": null,
@@ -999,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 55573,
-      "name": "Interlude - Live",
-      "url": "https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -1039,6 +1011,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 55573,
+      "name": "Interlude - Live",
+      "url": "https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -1055,6 +1043,26 @@
       "duration_ms": 341366,
       "name": "Follow (Live) (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/732kJrVACGEk9wiYJYJh1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 189392,
+      "name": "Better Than I Found It (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

@@ -4,7 +4,7 @@
 
 > From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment.
 
-96 songs - 4 hr 34 min
+97 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [How Far I'll Go \- Orgel Version](https://open.spotify.com/track/6HdakporMT8TEN1oBpCKl1) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM](https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9) | 3:48 | 2024-03-01 |  |
 | [Hush Little Baby](https://open.spotify.com/track/5kX8nmd7BDckyJQfNiORwQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2024-03-01 |  |
 | [Hush, Little Baby](https://open.spotify.com/track/4Rctu4Z1guLTduopKPl1L0) | [Rick Schulman](https://open.spotify.com/artist/5toTIOdBS511bK9fc9eTjY) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:02 | 2024-03-01 |  |
+| [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Pixar](https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O) | 1:46 | 2024-07-19 |  |
 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/1yh793k8lDYfXv3DhHaIXC) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Songs and Story: Tangled](https://open.spotify.com/album/1E8pqXmmxlhn8soDCXabfF) | 3:42 | 2024-03-01 | 2024-06-14 |
 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 | 2024-06-13 |  |
 | [If I Never Knew You \- End Title](https://open.spotify.com/track/3qr68QUa50h7jMELcrjV6b) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 4:13 | 2024-03-01 |  |

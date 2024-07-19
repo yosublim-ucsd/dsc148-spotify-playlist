@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta rockia Suomesta. Kannessa JP Lepp\u00e4luoto.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Juosten kustu",
+        "url": "https://open.spotify.com/album/5WGkS5gW9agrqJ9ZAl2bb1"
+      },
+      "artists": [
+        {
+          "name": "Kirkkovene",
+          "url": "https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f"
+        },
+        {
+          "name": "Juustop\u00e4\u00e4t",
+          "url": "https://open.spotify.com/artist/0s53aChYWmZ3QG83A5QqK8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179814,
+      "name": "Juosten kustu",
+      "url": "https://open.spotify.com/track/6nrIo4KLLc68q5giZ3ZE8P"
+    },
+    {
+      "album": {
         "name": "Just Run",
         "url": "https://open.spotify.com/album/0JcVDuooUL9OvZ8KC9Qbr3"
       },
@@ -748,7 +770,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169973,
       "name": "Lasiprinsessa",
       "url": "https://open.spotify.com/track/51yXdFuq2rEj4jbbP2b39V"
@@ -957,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Oikeeseen suuntaan",
+        "url": "https://open.spotify.com/album/7y4uBqCkuCYP5cdqWw7md3"
+      },
+      "artists": [
+        {
+          "name": "Tunnelbana",
+          "url": "https://open.spotify.com/artist/5bNNuGL4THQqa5FIXs3Mdm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182805,
+      "name": "Oikeeseen suuntaan",
+      "url": "https://open.spotify.com/track/7nFfilDtnkasdtjayFsEo2"
+    },
+    {
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY"
       },
@@ -1087,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Pirulle turpaan",
+        "url": "https://open.spotify.com/album/4TYWP0Gj9YJG3313saJxyp"
+      },
+      "artists": [
+        {
+          "name": "Pate Mustaj\u00e4rvi",
+          "url": "https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214593,
+      "name": "Pirulle turpaan",
+      "url": "https://open.spotify.com/track/5ZTyPmCm2Bq8EH1lHupnsU"
+    },
+    {
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/4ZIrx0VfaPRgYKlJquUUuD"
       },
@@ -1174,6 +1232,24 @@
       "duration_ms": 213355,
       "name": "Ruusu",
       "url": "https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX"
+    },
+    {
+      "album": {
+        "name": "Sadaskuudestoista",
+        "url": "https://open.spotify.com/album/7yLirwMVzUB1N48EDHoL2f"
+      },
+      "artists": [
+        {
+          "name": "Hampaat suussa",
+          "url": "https://open.spotify.com/artist/1JT04ARat8ksflutJlqXXH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147760,
+      "name": "Sadaskuudestoista",
+      "url": "https://open.spotify.com/track/2Wja6XFz1hxUhHtJf5iY7j"
     },
     {
       "album": {
@@ -1322,6 +1398,28 @@
       "duration_ms": 244544,
       "name": "Skorpionin k\u00e4yt\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/7KJ82tKpECjS9YC1Votnhk"
+    },
+    {
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/55oB0Bc2H8yLGK357ARn8h"
+      },
+      "artists": [
+        {
+          "name": "Upotus",
+          "url": "https://open.spotify.com/artist/3qcQS6lXIQJJlbNqzPNyWC"
+        },
+        {
+          "name": "Tapani",
+          "url": "https://open.spotify.com/artist/6rTBfROF1wharmEtJvnEss"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225762,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6clMHx4aA0aoW5Sy1zASFy"
     },
     {
       "album": {
@@ -1628,6 +1726,24 @@
       "duration_ms": 180413,
       "name": "Viimeiseen iltaan",
       "url": "https://open.spotify.com/track/6EQEjhlQW7rd2NWs1hoJa1"
+    },
+    {
+      "album": {
+        "name": "VMP",
+        "url": "https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5"
+      },
+      "artists": [
+        {
+          "name": "Ira",
+          "url": "https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162744,
+      "name": "VMP",
+      "url": "https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI"
     },
     {
       "album": {

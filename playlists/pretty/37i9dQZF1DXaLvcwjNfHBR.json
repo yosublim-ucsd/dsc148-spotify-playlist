@@ -1,12 +1,12 @@
 {
-  "description": "Your new favourite songs! Cover: Jordan Adetunji",
-  "num_followers": 80275,
+  "description": "Your new favourite songs! Cover: Quavo, Lana Del Rey",
+  "num_followers": 80339,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo/lYAAAAAD9zuipcEfwrJz8WsQvjrXg",
+  "snapshot_id": "Zpkf4AAAAACD4AHA+Izh0y3IvnZBMg6z",
   "tracks": [
     {
       "added_at": "2024-07-10 00:40:39",
@@ -27,18 +27,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
+      "duration_ms": 188828,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -61,38 +65,6 @@
       "url": "https://open.spotify.com/track/7zPcWziqLHfKHL6PYQ5CLD"
     },
     {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 225204,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
-    },
-    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "you look like you love me (feat. Riley Green)",
@@ -111,6 +83,38 @@
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/5kJrtkLnvsAZq70QU5PyPd"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 225204,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0oV6f0YDeVTGwdOeba8h89"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -147,6 +151,38 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2024-07-18 14:00:00",
+      "album": {
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/1juBRo49adrKPIJDdOf6zt"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
       },
@@ -159,22 +195,6 @@
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -195,6 +215,38 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -207,26 +259,6 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 188828,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -251,34 +283,18 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2024-07-11 14:00:00",
@@ -299,6 +315,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -315,6 +347,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
@@ -327,58 +375,6 @@
       "duration_ms": 194920,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -415,6 +411,26 @@
       "duration_ms": 179413,
       "name": "High Road (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "The girl, so confusing version with lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "The girl, so confusing version with lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -475,34 +491,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 161757,
-      "name": "Talk talk",
-      "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
-      },
-      "artists": [
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -647,38 +631,18 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
+        "name": "ROOM UNDER THE STAIRS",
+        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "duration_ms": 232380,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -703,6 +667,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "HE KNOWS (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "HE KNOWS (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "NATURAL HABITAT",
-        "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "NATURAL HABITAT",
-      "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "NATURAL HABITAT",
+        "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "NATURAL HABITAT",
+      "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -851,6 +851,26 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -939,6 +959,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Lose My Breath (Feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB"
       },
@@ -955,42 +991,6 @@
       "duration_ms": 166913,
       "name": "Lose My Breath (Feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Hell N Back (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/4diS3O2zXWbIkVjYrzmOKZ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 173697,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
       },
@@ -1035,18 +1051,22 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "Nightshift",
-        "url": "https://open.spotify.com/album/4diS3O2zXWbIkVjYrzmOKZ"
+        "name": "Yeiyo",
+        "url": "https://open.spotify.com/album/1uofULu01xvZJjSH3M1X4d"
       },
       "artists": [
         {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+          "name": "Stallyano",
+          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
+        },
+        {
+          "name": "Mista LT",
+          "url": "https://open.spotify.com/artist/297Nn16JjUcYBY47isCGHR"
         }
       ],
-      "duration_ms": 173697,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/4uTGJvLu4HWSgtqav9j6E1"
+      "duration_ms": 162666,
+      "name": "Yeiyo",
+      "url": "https://open.spotify.com/track/0rSrX3CSJF9EyTcDL9YhLp"
     },
     {
       "added_at": "2024-07-10 00:40:39",
@@ -1107,42 +1127,6 @@
     {
       "added_at": "2024-07-10 00:40:39",
       "album": {
-        "name": "Yeiyo",
-        "url": "https://open.spotify.com/album/1uofULu01xvZJjSH3M1X4d"
-      },
-      "artists": [
-        {
-          "name": "Stallyano",
-          "url": "https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot"
-        },
-        {
-          "name": "Mista LT",
-          "url": "https://open.spotify.com/artist/297Nn16JjUcYBY47isCGHR"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Yeiyo",
-      "url": "https://open.spotify.com/track/0rSrX3CSJF9EyTcDL9YhLp"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 186232,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
-    },
-    {
-      "added_at": "2024-07-10 00:40:39",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "added_at": "2024-07-10 00:40:39",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     }
   ],
   "unique_name": "Breaking Hits",

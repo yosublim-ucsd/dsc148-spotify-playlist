@@ -1,12 +1,12 @@
 {
   "description": "this ones for all my mean girls",
-  "num_followers": 194435,
+  "num_followers": 195050,
   "original_name": "hot girl walk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpK51gAAAAAxOSbEPv+qdlCc8xPLO3Yy",
+  "snapshot_id": "ZpnkwAAAAACWLzVtasNlc7+dRJvgqvY4",
   "tracks": [
     {
       "added_at": "2024-07-13 17:31:02",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
       "added_at": "2024-07-13 17:31:02",
       "album": {
         "name": "Espresso",
@@ -91,22 +107,6 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
-        "name": "Somethin 'Bout Kreay",
-        "url": "https://open.spotify.com/album/3vLsCsD7k1yiuTZysDOM2a"
-      },
-      "artists": [
-        {
-          "name": "Kreayshawn",
-          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Gucci Gucci",
-      "url": "https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -127,34 +127,34 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
         }
       ],
-      "duration_ms": 178579,
-      "name": "B2b",
-      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
-      "added_at": "2024-07-13 17:31:02",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+        "name": "Hot Butter Summertime",
+        "url": "https://open.spotify.com/album/2kZuaZZoUPTOgvhqzbjO52"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+      "duration_ms": 144000,
+      "name": "Hot Butter Summertime",
+      "url": "https://open.spotify.com/track/4KbQ5S6ctUbesoDcMdnSBe"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "PINK LIKE SUKI",
-        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 150169,
-      "name": "PINK LIKE SUKI",
-      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -223,6 +223,22 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -327,26 +327,6 @@
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Outside (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -431,6 +411,26 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Outside (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "B2b",
+      "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -790,31 +790,11 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Side To Side",
-      "url": "https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 189410,
-      "name": "Mean girls",
-      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -851,22 +831,6 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 240254,
-      "name": "BODYGUARD",
-      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -883,6 +847,38 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189410,
+      "name": "Mean girls",
+      "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7"
       },
       "artists": [
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 190440,
-      "name": "break up with your girlfriend, i'm bored",
-      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+      "duration_ms": 226160,
+      "name": "Side To Side",
+      "url": "https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
         "name": "Amala (Deluxe Version)",
         "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
       },
@@ -1131,8 +1147,8 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
@@ -1140,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 274766,
-      "name": "YA YA",
-      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
+    },
+    {
+      "added_at": "2024-07-13 17:31:02",
+      "album": {
         "name": "HE KNOWS (feat. Lil Nas X)",
         "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
       },
@@ -1179,22 +1211,6 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -1239,8 +1255,8 @@
     {
       "added_at": "2024-07-13 17:31:02",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
@@ -1248,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+      "duration_ms": 274766,
+      "name": "YA YA",
+      "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
     },
     {
       "added_at": "2024-07-13 17:31:02",
@@ -1287,22 +1303,6 @@
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
-    },
-    {
-      "added_at": "2024-07-13 17:31:02",
-      "album": {
-        "name": "NANi",
-        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "NANi",
-      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
     }
   ],
   "unique_name": "hot girl walk",

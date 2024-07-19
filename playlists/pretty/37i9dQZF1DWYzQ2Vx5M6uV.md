@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Beéle, Maria Becerra, Joeboy & Humby
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,804 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,840 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 39 | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9) | 3:45 |
 | 40 | [Lento](https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Lento](https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00) | 3:08 |
 | 41 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
-| 42 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
-| 43 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
+| 42 | [Posa](https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [Posa](https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n) | 3:26 |
+| 43 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 |
 | 44 | [Don't Rush \- Remix](https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Don't Rush \(Remix\)](https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db) | 3:21 |
 | 45 | [Parcerita](https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE) | [Parcerita](https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9) | 2:46 |
 | 46 | [Love Language](https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:24 |

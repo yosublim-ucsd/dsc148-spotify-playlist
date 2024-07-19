@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,398 likes - 83 songs - 4 hr 21 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,397 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 81 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 82 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 |
 | 83 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 |
+| 84 | [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 |
+| 85 | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D) | 2:09 |
 
-Snapshot ID: `AAAg4ZnfDPJuylydSpjsz6GWjRHtPZsD`
+Snapshot ID: `AAAg42qWwKK90vAbSnM2hf2ICMdxDwlr`

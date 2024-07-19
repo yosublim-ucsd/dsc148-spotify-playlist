@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2034 (le soleil tombe sur toi)",
+        "url": "https://open.spotify.com/album/0cBU0AZY9we5Pe93uhgwbz"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172700,
+      "name": "2034 (le soleil tombe sur toi)",
+      "url": "https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf"
+    },
+    {
+      "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 112080,
       "name": "La peur est une fleur",
       "url": "https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171321,
       "name": "Lighter Fluid",
       "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
@@ -3062,6 +3080,24 @@
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Normal",
+        "url": "https://open.spotify.com/album/2UQwcCIqEvHfokOVazqo1v"
+      },
+      "artists": [
+        {
+          "name": "We Are Wolves",
+          "url": "https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245336,
+      "name": "S\u00faper Normal",
+      "url": "https://open.spotify.com/track/1mIA0Ch3k9xp3PoGiwhZ9p"
     },
     {
       "album": {

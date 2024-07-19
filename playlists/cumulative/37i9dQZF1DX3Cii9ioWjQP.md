@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Maria Kim\)
+> All about Korean Jazz hits & new \(Cover: Hookuo\(후쿠오\)\)
 
-194 songs - 14 hr 9 min
+196 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,10 @@
 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 | 2022-12-22 |  |
 | [Out of the Blue](https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3) | [DOWOON](https://open.spotify.com/artist/1iKz9HvP5KMYgjky7mNNZs), [Song Heejin](https://open.spotify.com/artist/2G9WVGhJAmHLg4I68dWFTl) | [Out of the Blue](https://open.spotify.com/album/26bCM8vhKNYMdb2uTNG3jt) | 3:16 | 2022-05-03 | 2022-06-21 |
 | [Pai, Moon, Everything](https://open.spotify.com/track/35o3FZ22ftwNTfbAGSflYZ) | [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [Pai, Moon, Everything](https://open.spotify.com/album/3rBbFBtehaeGhceikBkTFk) | 6:50 | 2023-09-20 |  |
+| [Pamera Waltz](https://open.spotify.com/track/50xIhpMuGbJD6ZGVUoRjaO) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 3:26 | 2024-07-19 |  |
 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 | 2022-05-18 | 2023-10-05 |
 | [Paradise](https://open.spotify.com/track/69zIdA5t7hSbg84oBqMGN2) | [Duck Street](https://open.spotify.com/artist/3gwtQID1nUIazz3OOtA3Xj) | [Paradise](https://open.spotify.com/album/0FIfipUXodzW7yXdNZPrZk) | 4:29 | 2023-02-07 |  |
+| [Parasol Violet \(feat\. Jade\)](https://open.spotify.com/track/34K57qXV5vNW7DmCSau8TH) | [Hookuo](https://open.spotify.com/artist/6eBZRX3oKGthcmHWR8mpvf), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Parasol Violet](https://open.spotify.com/album/4er6pRBGJlcvfDsewXfc2D) | 4:13 | 2024-07-19 |  |
 | [Perfume](https://open.spotify.com/track/02xYtlVTLBZXxXIP2kec41) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Perfume](https://open.spotify.com/album/2HwZWaK4Sp3fnrbgfIz5Vq) | 3:12 | 2022-05-03 | 2023-02-08 |
 | [Petrichor \(Nature\)](https://open.spotify.com/track/29vC3hES7e492HvTN2Jw4Y) | [Ham Moon](https://open.spotify.com/artist/0dtGNROSjYX3vMQO0eAKCV) | [Petrichor \(Nature\)](https://open.spotify.com/album/4CGwxkmRPClHlBhiinoLOy) | 4:15 | 2022-11-11 |  |
 | [Pleasant Picnic](https://open.spotify.com/track/0E8wShlzhdYlk6rsjPVp8y) | [Gold Groove](https://open.spotify.com/artist/58wAApDuSJLljGr3IIgdlQ) | [Pleasant Picnic](https://open.spotify.com/album/1baRvDw2Ez8iq02DuFIOJo) | 2:28 | 2022-11-11 | 2023-02-08 |

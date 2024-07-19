@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-14",
-  "description": "From the alternative scene in Ghana. Cover: Y'Akoto",
+  "description": "From the alternative scene in Ghana. Cover: Ayisi",
   "name": "Alt. Ghana",
   "tracks": [
     {
@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Everyday People",
+        "url": "https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH"
+      },
+      "artists": [
+        {
+          "name": "Ayisi",
+          "url": "https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU"
+        },
+        {
+          "name": "Worlasi",
+          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217376,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1"
+    },
+    {
+      "album": {
         "name": "Her Notions Since '97",
         "url": "https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw"
       },
@@ -628,7 +650,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166956,
       "name": "Flex",
       "url": "https://open.spotify.com/track/45m2Q8cga0lcjRyS2cLwe5"
@@ -981,6 +1003,32 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1"
+      },
+      "artists": [
+        {
+          "name": "Kwame O",
+          "url": "https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        },
+        {
+          "name": "Yu K",
+          "url": "https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN"
+    },
+    {
+      "album": {
         "name": "Maame Water",
         "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
       },
@@ -1050,7 +1098,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164205,
       "name": "No Love",
       "url": "https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM"

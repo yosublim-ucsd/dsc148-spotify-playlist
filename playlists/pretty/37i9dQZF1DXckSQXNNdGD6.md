@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Agoney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,240 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,242 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 38 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
 | 39 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
 | 40 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
-| 41 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 |
-| 42 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
-| 43 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
-| 44 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
-| 45 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
-| 46 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 |
+| 41 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 42 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 |
+| 43 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 |
+| 44 | [TODOS LOS DÍAS](https://open.spotify.com/track/2qTIRmguqQTQaeWbDdeH31) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa), [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [TODOS LOS DÍAS](https://open.spotify.com/album/0enhgiXd8aZwycKfwxQszf) | 3:56 |
+| 45 | [invisible](https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [invisible](https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01) | 3:09 |
+| 46 | [HETERO](https://open.spotify.com/track/7e39dVZt37PASe2c1c8Xdu) | [VALENTINO](https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0) | [HETERO](https://open.spotify.com/album/62CiORkFOOAQEa61gYD8aQ) | 2:38 |
 | 47 | [Disfraz de tigre](https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Animalitos](https://open.spotify.com/album/5JBrDB9iD7huWT5y6LCFPC) | 3:45 |
 | 48 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
 | 49 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 |

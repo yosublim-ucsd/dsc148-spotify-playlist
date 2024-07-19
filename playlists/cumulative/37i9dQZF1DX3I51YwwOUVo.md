@@ -2,9 +2,9 @@
 
 ### [Artists To Watch 2024](https://open.spotify.com/playlist/37i9dQZF1DX3I51YwwOUVo)
 
-> Get to know our 2024 Artists to Watch! Cover: BabyDrill
+> Get to know our 2024 Artists to Watch! Cover: Bellakath
 
-92 songs - 5 hr 1 min
+93 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 | 2024-01-10 |  |
 | [Call Me](https://open.spotify.com/track/2wErarH3yGvuJtbBRc1858) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 3:06 | 2024-01-10 |  |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2024-01-10 |  |
+| [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 | 2024-07-19 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-01-10 |  |
 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 | 2024-01-10 |  |
 | [Damn These Forces](https://open.spotify.com/track/7AuNXwgiihfpxY6Y9iSvFs) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 3: The Dying of Self](https://open.spotify.com/album/0HNHiByjs6Qsfkw2XZ0XeC) | 3:30 | 2024-04-19 |  |
@@ -71,7 +72,7 @@
 | [Polaris](https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [1371 KM](https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2) | 3:12 | 2024-01-10 |  |
 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 | 2024-06-28 |  |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2024-01-10 |  |
-| [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2024-01-10 |  |
+| [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 | 2024-01-10 | 2024-07-19 |
 | [Richie \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 | 2024-04-26 |  |
 | [Right Spot](https://open.spotify.com/track/2pgCADpQ8xzPTRt2YwmJue) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Right Spot](https://open.spotify.com/album/2hOXLBMjHBJZNT1WMmwjp0) | 2:50 | 2024-03-29 |  |
 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 | 2024-01-10 |  |

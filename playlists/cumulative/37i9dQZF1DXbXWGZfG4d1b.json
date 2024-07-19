@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "Campo Abierto",
+        "url": "https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "Campo Abierto",
+      "url": "https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV"
+    },
+    {
+      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 149940,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/1kGqlaGvaha8qOMIVO1VIX"
@@ -2843,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "album": {
         "name": "El Canto De Las Ranas",
         "url": "https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm"
       },
@@ -3300,7 +3336,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174871,
       "name": "El Secreto",
       "url": "https://open.spotify.com/track/5cc6jp1oBj9mbAlMPz0pnt"
@@ -4518,7 +4554,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 266625,
       "name": "Hienas",
       "url": "https://open.spotify.com/track/3Fcaiko1BbbviiIrCsSt9c"
@@ -5002,6 +5038,24 @@
       "duration_ms": 173154,
       "name": "La Bruma",
       "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+    },
+    {
+      "album": {
+        "name": "Entre Sombras",
+        "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "La calma del cementerio",
+      "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
     },
     {
       "album": {
@@ -6138,6 +6192,24 @@
       "duration_ms": 164236,
       "name": "Malambo de Acero",
       "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
+    },
+    {
+      "album": {
+        "name": "malas decisiones",
+        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180989,
+      "name": "malas decisiones",
+      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
     },
     {
       "album": {
@@ -10106,7 +10178,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161604,
       "name": "TIEMPO PERFECTO",
       "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"

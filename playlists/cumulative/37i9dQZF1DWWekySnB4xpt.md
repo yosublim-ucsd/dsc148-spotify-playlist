@@ -2,9 +2,9 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Chino & Nacho
+> Representando la cultura con orgullo\. Representing with pride! Cover: Danny Ocean
 
-159 songs - 9 hr 38 min
+160 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [De Sol a Sol](https://open.spotify.com/track/1lnWfKzWMKhBi2ebffe1a2) | [Salserin](https://open.spotify.com/artist/7is4d4FP9QUaV99j5kKDNT) | [Con Mucho Swing](https://open.spotify.com/album/58qFBnsP4nPkf9Kuxixffw) | 4:55 | 2021-12-17 |  |
 | [De Sol A Sol](https://open.spotify.com/track/56Zt2aybXpAHIA4dxxKQxF) | [Salserin](https://open.spotify.com/artist/7is4d4FP9QUaV99j5kKDNT) | [Con Mucho Swing](https://open.spotify.com/album/7z3X0HPL6DJwSfxU1hYRaQ) | 4:57 | 2022-07-01 | 2024-04-19 |
 | [Dime Cuantas Veces](https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Dime Cuantas Veces](https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd) | 3:33 | 2021-12-17 |  |
-| [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:54 | 2022-04-29 |  |
+| [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:54 | 2022-04-29 | 2024-07-19 |
 | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/track/6t6VYuRaisYZLynvLhizsF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5) | [Double Cheese & Bacon \(feat\. Willie DeVille & Veztalone\)](https://open.spotify.com/album/1zZxxzuPxKHMiQypEx54yx) | 4:13 | 2021-12-17 | 2023-11-22 |
 | [Dueño de Nada](https://open.spotify.com/track/4g3KI2lxYGsY7WxQTLnsxm) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Sólo para Mujeres](https://open.spotify.com/album/5RGetLlVCc3QMSBJLQtbEn) | 5:10 | 2022-09-30 | 2022-11-13 |
 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 | 2022-07-01 | 2024-04-19 |
@@ -117,6 +117,7 @@
 | [Persona Ideal](https://open.spotify.com/track/6RgTdJ485ABZ64HkWpEYon) | [Milleniun Hits](https://open.spotify.com/artist/0xbGf3FKLF3P3yzf1hecRY) | [Los Adolescentes](https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas) | 4:42 | 2022-07-01 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-07-01 | 2024-04-19 |
 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 |  |
+| [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 | 2024-07-19 |  |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-04-22 |  |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-02-10 |  |
 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 | 2022-05-19 | 2022-10-01 |

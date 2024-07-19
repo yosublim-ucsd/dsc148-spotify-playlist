@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24070,
+  "num_followers": 24072,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,30 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 160149,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -299,30 +323,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/4bZaL9GsAnNFPJ1y10JIbG"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
-        }
-      ],
-      "duration_ms": 160149,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/3ufGWBFuPdZ2ckUF7hLIL8"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+        "name": "Luc\u00eda",
+        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
         }
       ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+      "duration_ms": 289333,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1611,18 +1611,38 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Luc\u00eda",
-        "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
       },
       "artists": [
         {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru"
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "\u00c1ngel Malo",
+        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
+      },
+      "artists": [
+        {
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
+        },
+        {
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
+        }
+      ],
+      "duration_ms": 214871,
+      "name": "\u00c1ngel Malo",
+      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1647,26 +1667,6 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "\u00c1ngel Malo",
-        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
-        }
-      ],
-      "duration_ms": 214871,
-      "name": "\u00c1ngel Malo",
-      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-05-31 12:45:40",

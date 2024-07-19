@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,010 likes - 45 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,051 likes - 45 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 34 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
 | 35 | [Was müssen das für Bäume sein](https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:18 |
 | 36 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
-| 37 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
-| 38 | [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 |
+| 37 | [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 |
+| 38 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
 | 39 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
 | 40 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
 | 41 | [Sommerzeit](https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommerzeit](https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs) | 2:14 |

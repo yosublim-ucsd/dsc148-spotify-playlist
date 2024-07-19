@@ -1,15 +1,35 @@
 {
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Peso Pluma en portada. ",
-  "num_followers": 5817964,
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Gabito Ballesteros en portada. ",
+  "num_followers": 5819313,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByAAAAAAC1cumyzuYSAT5vGRSwlOZM",
+  "snapshot_id": "ZplYIAAAAADnV0YSn6ycEn0FTmHVxw11",
   "tracks": [
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 179967,
+      "name": "Neta",
+      "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "LA PATRULLA",
         "url": "https://open.spotify.com/album/3alugxsCI4YNroUiTHYqLN"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/4ENmnZWhNTEiJpT25y7F1h"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Volver Al Futuro",
         "url": "https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6"
@@ -89,7 +109,27 @@
       "url": "https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "Tengo Claro",
+        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 191681,
+      "name": "Tengo Claro",
+      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "YCQVM",
         "url": "https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz"
@@ -109,7 +149,7 @@
       "url": "https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
@@ -125,7 +165,7 @@
       "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -141,7 +181,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "TOMMY & PAMELA",
         "url": "https://open.spotify.com/album/4ze3XGO5e61VP9HKtybdzY"
@@ -161,7 +201,7 @@
       "url": "https://open.spotify.com/track/22pksIE0wbdDfMXCb65Qt8"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "\u00d1ero Session 23",
         "url": "https://open.spotify.com/album/6qN493Dqvx508buRITESb6"
@@ -185,7 +225,7 @@
       "url": "https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -217,7 +257,7 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
@@ -237,27 +277,7 @@
       "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Tengo Claro",
-        "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 191681,
-      "name": "Tengo Claro",
-      "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
@@ -297,7 +317,7 @@
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "El Beneficio De La Duda",
         "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA"
@@ -349,7 +369,23 @@
       "url": "https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "MINIMI",
+        "url": "https://open.spotify.com/album/3T2NudFA3qcifGwgzWkQHY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "MINIMI",
+      "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "RELOJ",
         "url": "https://open.spotify.com/album/2imITrBS7zgnx7zqxp28Dp"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/0z2OZDree1TT98ZQsAe0xN"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "LINDA",
         "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Ducati",
         "url": "https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
@@ -457,7 +493,7 @@
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
@@ -477,27 +513,7 @@
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 279275,
-      "name": "UNA CERVEZA",
-      "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
@@ -537,47 +553,7 @@
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 179967,
-      "name": "Neta",
-      "url": "https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "MERCEDES (feat. Oscar Maydon)",
-        "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "MERCEDES (feat. Oscar Maydon)",
-      "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
@@ -597,7 +573,7 @@
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
@@ -617,7 +593,7 @@
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
@@ -641,7 +617,27 @@
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "duration_ms": 172580,
+      "name": "Ni\u00f1a Santa",
+      "url": "https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "SORRY 4 THAT MUCH",
         "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
@@ -657,7 +653,27 @@
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "B de Bellako (Remix)",
         "url": "https://open.spotify.com/album/3H3teYMly8Jvd2jVKsd1R3"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/21cBIFpuYb5IEOm1BltCk3"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "La Guerita",
         "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "OOTD",
         "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
@@ -813,27 +829,7 @@
       "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Ya Te Super\u00e9",
-        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 226476,
-      "name": "Ya Te Super\u00e9",
-      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -873,7 +869,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
@@ -889,7 +885,7 @@
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "SI NO ES CONTIGO",
         "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
@@ -905,27 +901,7 @@
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
-      "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
-    },
-    {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Ride Or Die, Pt. 2",
         "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
@@ -949,7 +925,7 @@
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
@@ -969,7 +945,23 @@
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
-      "added_at": "2024-07-12 00:00:00",
+      "added_at": "2024-07-18 18:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-07-18 18:00:00",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"

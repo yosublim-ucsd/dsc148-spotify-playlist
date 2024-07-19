@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200890,
       "name": "Bedtimes Poems",
       "url": "https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160793,
       "name": "Can You Count The Sheep On The Hill",
       "url": "https://open.spotify.com/track/2SNJjNJhrl6pcEKY9eEDnZ"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145993,
       "name": "I'm Just Happy You Are Here",
       "url": "https://open.spotify.com/track/5THYwLZSyxQmriI7TQiXG7"
@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/08XXYoJQTcO9grlqO1H3Hf"
+      },
+      "artists": [
+        {
+          "name": "Rubin Briggs",
+          "url": "https://open.spotify.com/artist/0WXzVGG7J8nQRMU8RFE4pH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100966,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/49dGyHFqtk18QYnFQBxiA9"
+    },
+    {
+      "album": {
         "name": "Little Dreamer",
         "url": "https://open.spotify.com/album/2hJ4XAJ27gU58YmEFatsgb"
       },
@@ -2566,6 +2584,24 @@
       "duration_ms": 119761,
       "name": "Little Sweet Pea",
       "url": "https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf"
+    },
+    {
+      "album": {
+        "name": "Little Teddy",
+        "url": "https://open.spotify.com/album/6gDjrt6l6tM1Og630RCDfL"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67874,
+      "name": "Little Teddy",
+      "url": "https://open.spotify.com/track/4H9TgNSRWpS3wL0AGPrtCq"
     },
     {
       "album": {
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 115391,
       "name": "Mother's Waltz",
       "url": "https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj"
@@ -3679,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Soothing Dream",
+        "url": "https://open.spotify.com/album/6yimUahVGOMYMu2LduZfQC"
+      },
+      "artists": [
+        {
+          "name": "Paige Rosen",
+          "url": "https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155257,
+      "name": "Soothing Dream",
+      "url": "https://open.spotify.com/track/6Cr6Kekek5G07cl2aOO774"
+    },
+    {
+      "album": {
         "name": "Sov godt trollet mitt",
         "url": "https://open.spotify.com/album/5xO1UYpDwxtRkanELdS61x"
       },
@@ -3874,6 +3928,24 @@
       "duration_ms": 119518,
       "name": "Suo Gan",
       "url": "https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc"
+    },
+    {
+      "album": {
+        "name": "Sweetest of Dreams",
+        "url": "https://open.spotify.com/album/5GXrCBzNN4J4HXhLxNjrIi"
+      },
+      "artists": [
+        {
+          "name": "Lilah Cooke",
+          "url": "https://open.spotify.com/artist/1UjSlpMf1i1ay4X7HhT2dR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88732,
+      "name": "Sweetest of Dreams",
+      "url": "https://open.spotify.com/track/4H6fjjvMB5mPF97u6x1Ehj"
     },
     {
       "album": {
@@ -4644,7 +4716,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 87374,
       "name": "With you",
       "url": "https://open.spotify.com/track/7gWq2hvVljdNaAShh2SbZk"

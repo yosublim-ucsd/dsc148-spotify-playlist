@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: AntsLive",
+  "description": "Discover your new favourite artists from UK&IE. Cover: H33RA",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1802,6 +1802,24 @@
       "duration_ms": 153000,
       "name": "Hotel Amour",
       "url": "https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO"
+    },
+    {
+      "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/7ENhtXgkFWk2PKr88HjoZq"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125855,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/6RXulMH0m6qIupYe00pd2F"
     },
     {
       "album": {

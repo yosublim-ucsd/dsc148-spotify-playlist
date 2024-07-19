@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Lucky Daye",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Blxst",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177479,
       "name": "CH3RRY (with N3WYRKLA)",
       "url": "https://open.spotify.com/track/6xoyoWN5fdxLcq84nKlr57"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156129,
       "name": "Crash",
       "url": "https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 207774,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/6MCNttjmvWPu35S66FdlBO"
@@ -3224,6 +3224,24 @@
       "duration_ms": 209735,
       "name": "Greens",
       "url": "https://open.spotify.com/track/5cZwGcbvwPYxhuPFDgvKVW"
+    },
+    {
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "album": {
@@ -3679,6 +3697,28 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189357,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
+    },
+    {
+      "album": {
         "name": "I Pray",
         "url": "https://open.spotify.com/album/2JYyp7BY110zVZ9F8smP1P"
       },
@@ -4015,6 +4055,32 @@
     },
     {
       "album": {
+        "name": "In The Night (feat. Jorja Smith & Amaarae)",
+        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
+    },
+    {
+      "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
         "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
       },
@@ -4238,7 +4304,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157466,
       "name": "Jokes On Me",
       "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
@@ -6293,6 +6359,32 @@
     },
     {
       "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/2OmFaODKIMmfw4w1UkTaLW"
       },
@@ -6438,6 +6530,28 @@
       "duration_ms": 230328,
       "name": "Our Destination",
       "url": "https://open.spotify.com/track/4bA0WPhGGbbAHNz0DRPg0H"
+    },
+    {
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/0YWyMh3H0q7PR9OA77Ks5a"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        },
+        {
+          "name": "SammyB",
+          "url": "https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232340,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/15VIke18Jg3sR0L27rZbqF"
     },
     {
       "album": {
@@ -6634,7 +6748,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
@@ -6652,7 +6766,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 213360,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
@@ -7240,7 +7354,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
@@ -7380,6 +7494,28 @@
       "duration_ms": 201712,
       "name": "Sapporo Tokyo",
       "url": "https://open.spotify.com/track/5UfEvgUgUUK7bFg3pgG2WT"
+    },
+    {
+      "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "album": {
@@ -8272,6 +8408,24 @@
       "duration_ms": 185560,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH"
+    },
+    {
+      "album": {
+        "name": "Stay Up",
+        "url": "https://open.spotify.com/album/7BUmEsD2ROYMweugY8Oznm"
+      },
+      "artists": [
+        {
+          "name": "Angela Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0LYpHdjPJEKhjh3euGHngh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252170,
+      "name": "Stay Up",
+      "url": "https://open.spotify.com/track/4I11J3L5r4Ef1dV0Z5qqqJ"
     },
     {
       "album": {
@@ -10146,7 +10300,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
@@ -10476,6 +10630,24 @@
       "duration_ms": 264566,
       "name": "\u30d1\u30ce\u30e9\u30de (feat. \u5317\u91cc\u5f70\u4e45)",
       "url": "https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30eb\u30ad\u30fc",
+        "url": "https://open.spotify.com/album/6mtdzxWPju7JZ91ntMwflv"
+      },
+      "artists": [
+        {
+          "name": "Ai Ninomiya",
+          "url": "https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "\u30df\u30eb\u30ad\u30fc",
+      "url": "https://open.spotify.com/track/3dYaC91CRPx33JA8SfVGE7"
     },
     {
       "album": {

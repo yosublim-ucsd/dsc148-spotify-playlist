@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Abrildefresa
+> Todo el sonido indie de Chile\. Foto: Francisco Victoria y AKRIILA.
 
-489 songs - 1 day 5 hr 24 min
+491 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-15 | 2023-01-28 |
 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-01-27 | 2023-07-22 |
-| [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 | 2022-12-09 |  |
+| [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 | 2022-12-09 | 2024-07-19 |
 | [anhelo](https://open.spotify.com/track/2082tbABLulK203QC2AXhB) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [anhelo](https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ) | 4:00 | 2024-06-07 |  |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2024-06-08 |
 | [Apuesto Que el Mundo No Dura](https://open.spotify.com/track/6VDCmJpts1sUhJ7AwB90EZ) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [Apuesto Que el Mundo No Dura](https://open.spotify.com/album/7Euakry7vjtya8RrClYF8s) | 3:03 | 2022-04-15 | 2022-07-28 |
@@ -415,12 +415,13 @@
 | [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 | 2022-08-20 |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-05-26 | 2023-09-30 |
 | [Sólo Vine a Bailar](https://open.spotify.com/track/6FA2rRogpLIOZ0ffho4uPL) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [La Mar](https://open.spotify.com/album/6fLfcUkSJF8aWGQ3p8rfKZ) | 4:09 | 2022-04-15 | 2022-07-28 |
-| [TAMAGOTCHI](https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [TAMAGOTCHI](https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn) | 3:19 | 2023-03-24 |  |
+| [TAMAGOTCHI](https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p) | [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [TAMAGOTCHI](https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn) | 3:19 | 2023-03-24 | 2024-07-19 |
 | [Tan Bien](https://open.spotify.com/track/6rRgQaZo1v4gBRB2wo9Btl) | [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Universando](https://open.spotify.com/album/3StI1ax0T9EllHaRek7pzI) | 3:25 | 2022-04-15 | 2022-07-28 |
 | [Tan en el Aire](https://open.spotify.com/track/4C1cMrk5wEER5Z519lMPnL) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Aire](https://open.spotify.com/album/6Mk01eTfD7pk9v5wmiun5y) | 3:24 | 2022-04-15 | 2022-08-13 |
 | [Tapado en las sábanas](https://open.spotify.com/track/7GVcCKFyaKW21mlEfUPDtG) | [Matías Ávila](https://open.spotify.com/artist/29yxbIzxVyIPcCENpwzSQ5), [Nicolás Carmesí](https://open.spotify.com/artist/3UENNyaKZ4S5pK62GGEfF5) | [Tapado En Las Sábanas](https://open.spotify.com/album/07VEna7M5ugzXRl0h6KSeN) | 4:06 | 2022-04-15 | 2022-07-28 |
 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 | 2022-04-15 |  |
 | [Te puedes ir, amor](https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Te puedes ir, amor](https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt) | 3:09 | 2023-10-12 | 2024-04-27 |
+| [Te quiero tanto](https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Te quiero tanto](https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7) | 3:33 | 2024-07-19 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-04-15 | 2022-12-10 |
 | [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2024-05-08 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 | 2023-01-28 |
@@ -435,6 +436,7 @@
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 |  |
 | [Tinder uwu](https://open.spotify.com/track/6NCbo0bYHyUWJ4cPeyqGss) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Tinder uwu](https://open.spotify.com/album/5TaV1ZaU7baZVhr6jYAqAm) | 3:03 | 2022-04-15 | 2022-12-10 |
 | [Todo lo que puedo darte](https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [LIBRE](https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O) | 3:26 | 2024-01-26 | 2024-06-08 |
+| [todo lo que tu dejaste](https://open.spotify.com/track/1pwlEFFh5DNlfEF1ZM2lC9) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO) | [todo lo que tu dejaste](https://open.spotify.com/album/1N3uySiCMTiA4F9pMOlb0i) | 3:44 | 2024-07-19 |  |
 | [Tormenta](https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Tormenta](https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i) | 2:37 | 2022-05-06 | 2023-11-01 |
 | [Tormenta](https://open.spotify.com/track/6oTQtxgdzrQFRTbGchCNjn) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Al Norte](https://open.spotify.com/album/4JujA1bT5q4BGZXqfsbFQ8) | 2:37 | 2023-12-07 | 2024-04-19 |
 | [tournesol](https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB) | [White MJ](https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT) | [tournesol](https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg) | 3:09 | 2022-04-15 | 2022-12-10 |

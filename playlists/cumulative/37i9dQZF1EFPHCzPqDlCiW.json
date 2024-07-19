@@ -99,6 +99,32 @@
     },
     {
       "album": {
+        "name": "Always Love",
+        "url": "https://open.spotify.com/album/0DCVDrAgMoOfL1ZCGG9lsa"
+      },
+      "artists": [
+        {
+          "name": "Joris Sava",
+          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Kush Kush",
+          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/3esb4GVLQ2uUdVSwIWTwWD"
+    },
+    {
+      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7"
       },

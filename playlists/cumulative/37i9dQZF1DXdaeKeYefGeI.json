@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Alle Tijd (met strijkkwartet)",
+        "url": "https://open.spotify.com/album/598oGC430zLkUlXltaXLgq"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Struijk",
+          "url": "https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192771,
+      "name": "Alle Tijd - met strijkkwartet",
+      "url": "https://open.spotify.com/track/4qMCB0CBcOx3iAVabVgDxm"
+    },
+    {
+      "album": {
         "name": "Mooi En Onverslijtbaar",
         "url": "https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj"
       },
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165114,
       "name": "Ik Doe Het Al",
       "url": "https://open.spotify.com/track/5lwAw6HWkieGDGd0bkIBgu"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200892,
       "name": "Jij voorbij",
       "url": "https://open.spotify.com/track/4VaQVB3zJdMAB7jjCpgzvn"
@@ -2577,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "100 Mooiste Liedjes van Ramses en Liesbeth",
+        "url": "https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR"
+      },
+      "artists": [
+        {
+          "name": "Liesbeth List",
+          "url": "https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Te Veel, Te Vaak",
+      "url": "https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg"
+    },
+    {
+      "album": {
         "name": "Liedjes Uit De Film Rooie Sien (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee"
       },
@@ -2993,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "We Zijn Zo Jong",
+        "url": "https://open.spotify.com/album/3UXzxYxaNa79mgiMXMjLvH"
+      },
+      "artists": [
+        {
+          "name": "Aafke Romeijn",
+          "url": "https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "We Zijn Zo Jong",
+      "url": "https://open.spotify.com/track/2WLeRA7JmcfiNTEmwVPvaR"
+    },
+    {
+      "album": {
         "name": "Wie ben ik (feat. Red Limo Quartet)",
         "url": "https://open.spotify.com/album/0ZS7oHN6GyQfWcu6WHj6xm"
       },
@@ -3062,7 +3116,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 280386,
       "name": "Zij Maakt Het Verschil",
       "url": "https://open.spotify.com/track/4ptF2Hvq7PdsDKXV0o7x2M"

@@ -650,10 +650,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154600,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0MfjH6DpyGrBQZoaWIsv4G"
+    },
+    {
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/3wKrIrZ6rJGclVWOlalysx"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0mZe6fbJ4MTEL2RRdubgZZ"
     },
     {
       "album": {

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 Tears",
+        "url": "https://open.spotify.com/album/1T7zAIe087hHNXgSwo759r"
+      },
+      "artists": [
+        {
+          "name": "Nadinne Dyen",
+          "url": "https://open.spotify.com/artist/2DTC1aP6Vw3BLxxiV5emVv"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393777,
+      "name": "1000 Tears",
+      "url": "https://open.spotify.com/track/7aohdCdwNNde1nX8PEEv5O"
+    },
+    {
+      "album": {
         "name": "2 Roots",
         "url": "https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 228292,
       "name": "Abo Malume - Radio Edit",
       "url": "https://open.spotify.com/track/3I0Z11pUKDvbCcaOQW3oGG"
@@ -277,6 +299,32 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "album": {
         "name": "031 Studio Camp",
         "url": "https://open.spotify.com/album/3tOHGWG9GWuB2KBw6YisEX"
       },
@@ -351,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Amu Bemi (Radio-Edit)",
+        "url": "https://open.spotify.com/album/66WUvJ46B4KLeLRws5K50w"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "James Deron",
+          "url": "https://open.spotify.com/artist/2x3f65NaxvqSMPL1KuWbiB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Amu Bemi - Radio-Edit",
+      "url": "https://open.spotify.com/track/0kl83gVpmpSwqdh9QClSqL"
+    },
+    {
+      "album": {
         "name": "Ancestral Land",
         "url": "https://open.spotify.com/album/4IWO4wpEqJimCtg00wB90u"
       },
@@ -366,7 +436,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 318551,
       "name": "Ancestral Land",
       "url": "https://open.spotify.com/track/2Hg5iCt8Vb57WmFChzslaE"
@@ -490,7 +560,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 239995,
       "name": "AWA - Ralf GUM Vocal Mix Edit",
       "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
@@ -512,7 +582,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170669,
       "name": "Aw\u00e9",
       "url": "https://open.spotify.com/track/004rnp3iKWM3kCknbaqIIT"
@@ -814,7 +884,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234098,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/1BCMXKkENzzr1ofF0iRQtX"
@@ -1198,7 +1268,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203171,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/6B5QaJhvgupOlXTT0IBtZV"
@@ -1320,6 +1390,28 @@
       "duration_ms": 362383,
       "name": "Gijima",
       "url": "https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX"
+    },
+    {
+      "album": {
+        "name": "Go Deeper",
+        "url": "https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189697,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP"
     },
     {
       "album": {
@@ -1898,7 +1990,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 393474,
       "name": "Ithi Nqo",
       "url": "https://open.spotify.com/track/2PLxYRtyKwfIui6PyH2Ijr"
@@ -2356,7 +2448,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211680,
       "name": "Love and Hate - Nandu Remix",
       "url": "https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3"
@@ -2540,7 +2632,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 482070,
       "name": "Mngoma - Dub Piano",
       "url": "https://open.spotify.com/track/6p7gI5KHREb2fOG8yjQGHV"
@@ -2722,7 +2814,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 402000,
       "name": "Nazo - Dr Feel Remix",
       "url": "https://open.spotify.com/track/57UAmRs9eE3hS3dMiGdjRU"
@@ -2988,7 +3080,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 216000,
       "name": "Nwenwela",
       "url": "https://open.spotify.com/track/1YyCmk4ix2BwZRJg4osM2x"
@@ -3102,7 +3194,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215384,
       "name": "Osanisiya",
       "url": "https://open.spotify.com/track/3HnmM3C6ohQxXSSisoUgDW"
@@ -3260,10 +3352,32 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 365000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/15ZvZhkA572y7OoSgGzvqu"
+    },
+    {
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "album": {
@@ -3378,7 +3492,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 327894,
       "name": "Queen - Dan Kye Remix",
       "url": "https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva"
@@ -3434,7 +3548,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 350892,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP"
@@ -3486,7 +3600,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 414615,
       "name": "RINGIA",
       "url": "https://open.spotify.com/track/0FDMIPkwEGWJ9QAcIUoOje"
@@ -3604,6 +3718,32 @@
       "duration_ms": 379672,
       "name": "SARS",
       "url": "https://open.spotify.com/track/4OPdknD1sYcuD1aMBdCoGd"
+    },
+    {
+      "album": {
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
       "album": {
@@ -4072,7 +4212,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250020,
       "name": "The Cure & The Cause - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/0ohdPNEvFGQNaMpeAx7VnL"
@@ -4094,7 +4234,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250406,
       "name": "The Journey - Edit",
       "url": "https://open.spotify.com/track/5YQI5dLNJfPmKCO2bncGF0"
@@ -4230,7 +4370,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 258000,
       "name": "Too Many (Denz The Human Remix)",
       "url": "https://open.spotify.com/track/0g1IKjuqqtZV20BIvRyrwi"
@@ -4745,6 +4885,28 @@
     },
     {
       "album": {
+        "name": "Wachanare",
+        "url": "https://open.spotify.com/album/2CIYHyteYnfRszaeOOk7WV"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6NI",
+          "url": "https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Wachanare",
+      "url": "https://open.spotify.com/track/3unesh2n8SaQlF9MxeNVpR"
+    },
+    {
+      "album": {
         "name": "Wafika",
         "url": "https://open.spotify.com/album/0WVyh2ewn1blioc2CwHbuA"
       },
@@ -4888,6 +5050,32 @@
       "duration_ms": 364441,
       "name": "Who Is Who",
       "url": "https://open.spotify.com/track/3NA3eYz195TPqIkrHZlzqU"
+    },
+    {
+      "album": {
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/2RBgkZRKmQ7uRSkD5GMpqp"
+      },
+      "artists": [
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "L\u016bca Veron",
+          "url": "https://open.spotify.com/artist/0A0R1Lt6uNoJIcz9gigB9f"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256721,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/6nXf7Rr7TEDAg1clF8CNbb"
     },
     {
       "album": {
@@ -5114,7 +5302,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 340500,
       "name": "Yule",
       "url": "https://open.spotify.com/track/3d5jBkwQ78NV4uvWvBFNdq"

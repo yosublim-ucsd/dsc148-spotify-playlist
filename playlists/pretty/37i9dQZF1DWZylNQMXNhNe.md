@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,429 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,419 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 34 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
 | 35 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 | 36 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
-| 37 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
-| 38 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 37 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 38 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
 | 39 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
 | 40 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
 | 41 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |

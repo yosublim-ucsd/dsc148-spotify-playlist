@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205943,
       "name": "Aaj Rang Hai",
       "url": "https://open.spotify.com/track/60qVbVr6wm7yTOoj0s0a9z"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 320000,
       "name": "Dil Leke Mujhe Badnam - Thumri/lounge",
       "url": "https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk"
@@ -5285,6 +5285,28 @@
     },
     {
       "album": {
+        "name": "Sajan More Ghar Aayo",
+        "url": "https://open.spotify.com/album/2di5VXstqggP6QdHJoyH9r"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s"
+        },
+        {
+          "name": "Sanchari Nag",
+          "url": "https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207749,
+      "name": "Sajan More Ghar Aayo",
+      "url": "https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91"
+    },
+    {
+      "album": {
         "name": "Sakal Ban (From \"Heeramandi\") - Single",
         "url": "https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh"
       },
@@ -6138,6 +6160,28 @@
       "duration_ms": 283826,
       "name": "Viraha",
       "url": "https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu"
+    },
+    {
+      "album": {
+        "name": "Yaad Mein Teri",
+        "url": "https://open.spotify.com/album/0AdWPet98IM9MvgluErmmU"
+      },
+      "artists": [
+        {
+          "name": "Neehar Pandit",
+          "url": "https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280804,
+      "name": "Yaad Mein Teri",
+      "url": "https://open.spotify.com/track/1iuo9lZmjtkHGl3CEUnyiq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,244 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,247 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 36 | [It's Only Country](https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:10 |
 | 37 | [Skinny Dippin' \- Remastered 2017](https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:06 |
 | 38 | [When the First Bombs Fell](https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:32 |
-| 39 | ['Cause I'm Country \- Remastered 2017](https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:14 |
-| 40 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
+| 39 | [Electric Rodeo \- Remastered 2017](https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:20 |
+| 40 | ['Cause I'm Country \- Remastered 2017](https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 4:14 |
 | 41 | [Country Crowd \- Remastered 2017](https://open.spotify.com/track/11zQvjFccpnImml13XWNdS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [1959](https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo) | 3:54 |
 | 42 | [Drive On](https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:51 |
-| 43 | [Electric Rodeo \- Remastered 2017](https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:20 |
+| 43 | [Beautiful Noise](https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:24 |
 | 44 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
 | 45 | [Goondiwindi Moon \- Remastered 2017](https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 3:55 |
 | 46 | [Planet Country \- Remastered 2017](https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 50 | [Back in 92](https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:09 |
 | 51 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
 
-Snapshot ID: `ZpW4AAAAAAC8KIuR8Ql2mPGKwUfsumX6`
+Snapshot ID: `ZpcJgAAAAACismw0CTsvRIUiAvZgyCwS`

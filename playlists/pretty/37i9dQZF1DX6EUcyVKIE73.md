@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,629 likes - 63 songs - 17 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,650 likes - 63 songs - 17 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 62 | [Rag Mala in Jogia](https://open.spotify.com/track/1N2VUjymXRYSZO66jlvKTu) | [Ram Narayan](https://open.spotify.com/artist/1PLrw4LgEWD2tFlAfnCWND) | [Rag Shankara & Rag Mala in Jogia](https://open.spotify.com/album/01gMfN05ikXSKLsWZmi2FM) | 31:50 |
 | 63 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
 
-Snapshot ID: `ZoedEAAAAABpCv3XO2ithhBDMMe2ly7T`
+Snapshot ID: `ZpoOFgAAAAA9xxV4unAflESLr3gSDllT`

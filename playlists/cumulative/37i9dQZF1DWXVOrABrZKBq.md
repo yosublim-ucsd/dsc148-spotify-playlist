@@ -2,9 +2,9 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: UZI
+> Le rap francophone est en forme\. Photo: Ninho, Niska
 
-182 songs - 9 hr 22 min
+183 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 | 2023-08-26 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [Ciao](https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciao](https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv) | 3:36 | 2023-03-17 | 2024-03-02 |
+| [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-19 |  |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 | 2024-01-20 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-24 | 2023-06-29 |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-03-03 | 2023-12-16 |
@@ -52,7 +53,7 @@
 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 | 2024-07-12 |  |
 | [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 | 2024-01-19 | 2024-03-30 |
 | [César](https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [César](https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28) | 2:47 | 2023-03-03 | 2023-09-09 |
-| [Danger](https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Fracturé](https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw) | 3:58 | 2024-05-03 |  |
+| [Danger](https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Fracturé](https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw) | 3:58 | 2024-05-03 | 2024-07-19 |
 | [Dans le noir](https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 2:40 | 2023-10-27 |  |
 | [Death Note](https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Death Note](https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4) | 2:47 | 2023-10-13 | 2023-12-09 |
 | [Demain](https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 3:03 | 2023-04-21 | 2024-01-20 |

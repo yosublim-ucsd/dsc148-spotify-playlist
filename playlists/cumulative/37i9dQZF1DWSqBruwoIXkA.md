@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like this\. Cover: Jax
+> heartbreak feels good in a place like this\. Cover: Gracie Abrams
 
-758 songs - 1 day 17 hr 47 min
+760 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [How It Ends](https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [How It Ends](https://open.spotify.com/album/0Vw7DrVmTj4IhV5rae5pKF) | 2:55 | 2024-04-26 | 2024-06-08 |
 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2024-04-26 |
-| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 |  |
+| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 | 2024-07-19 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-03-30 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-28 | 2023-02-24 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-12 |  |
@@ -335,6 +335,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-02-08 | 2022-10-28 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-28 | 2024-04-19 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
+| [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-19 |  |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/3tcbegaaVvEVoK7TDnJEA5) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:22 | 2024-01-19 | 2024-04-27 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2021-12-17 |  |
@@ -695,6 +696,7 @@
 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 | 2023-08-18 |  |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-12-17 | 2022-10-22 |
 | [uptome](https://open.spotify.com/track/40u74BxSHoLiMFJWjlRpXJ) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Róisin Marie](https://open.spotify.com/artist/0PBwPiIoXnUH4lYEolZkMJ) | [uptome](https://open.spotify.com/album/1opuP5al8bspGA9SpD8Cpu) | 3:58 | 2022-03-14 | 2022-04-16 |
+| [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 | 2024-07-19 |  |
 | [used to be pretty](https://open.spotify.com/track/7CcSmXQOev37UcoAeohMpn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [used to be pretty](https://open.spotify.com/album/2mtJKmvi7iaUSUpdSAzhgk) | 2:48 | 2024-05-03 | 2024-07-02 |
 | [Used To It](https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Used To It](https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C) | 2:42 | 2022-12-16 | 2023-03-20 |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-18 | 2023-01-21 |
@@ -742,7 +744,7 @@
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-15 | 2022-08-13 |
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-09-16 | 2022-10-15 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-07-08 |  |
-| [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 |  |
+| [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 | 2024-07-19 |
 | [wish i loved you in the 90s](https://open.spotify.com/track/2wkIdVB8HsWyMur3Q4shlZ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:56 | 2021-12-17 | 2022-12-17 |
 | [Wish I Would](https://open.spotify.com/track/74L8tOCvVdsJWNVdITjCMs) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Wish I Would](https://open.spotify.com/album/40J0A5q18GIfTwPFZ5lDjI) | 3:56 | 2022-01-28 | 2022-02-05 |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 | 2023-05-24 |

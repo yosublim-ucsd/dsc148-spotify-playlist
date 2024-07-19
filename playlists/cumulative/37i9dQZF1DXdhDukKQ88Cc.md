@@ -4,7 +4,7 @@
 
 > den største danske rap lige nu, call <a href="spotify:album:7AmzcJSCXx4xQgZSFs0kov">911</a> 🚨
 
-204 songs - 8 hr 49 min
+205 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 | 2024-02-29 |  |
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
+| [Bellingham Freestyle](https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Bellingham Freestyle](https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7) | 1:24 | 2024-07-18 |  |
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 |  |
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 |  |

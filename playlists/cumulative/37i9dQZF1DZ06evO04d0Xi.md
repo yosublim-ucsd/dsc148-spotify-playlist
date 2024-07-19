@@ -2,16 +2,17 @@
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
+> This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 51 min
+73 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Samaritana](https://open.spotify.com/track/6qxBdvvCDU3mdBcxrMujkq) | [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [A Fé](https://open.spotify.com/album/7mHPBFcGtHMW3O2MvSDDHW) | 4:18 | 2023-07-09 | 2023-12-30 |
 | [A Tua Glória Faz](https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 | 2023-07-09 |  |
 | [Adorai, Adonai](https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:05 | 2023-07-09 |  |
-| [Alguém](https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 3:48 | 2023-07-09 |  |
+| [Alguém](https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 3:48 | 2023-07-09 | 2024-07-19 |
+| [Alguém](https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Alguém](https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3) | 3:49 | 2024-07-19 |  |
 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 4:22 | 2023-07-09 |  |
 | [Amo o Senhor](https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:54 | 2023-07-09 |  |
 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 | 2023-08-20 |  |

@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 37 | [Interlude: Oasis](https://open.spotify.com/track/5vJQ9vMJUE585xcIC5RPW9) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 2:07 |
 | 38 | [Cold World](https://open.spotify.com/track/5srhxtnDZLyPGOca7pSjUw) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:06 |
 | 39 | [Nothing Gets Better Than This \(feat\. Max Schneider\)](https://open.spotify.com/track/1TbhUp7TKMzAVvr3lCEuMi) | [Rags Cast](https://open.spotify.com/artist/5igcQeVmcLCLDM2cj43Tuy), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Rags \(Music From the Original Movie\)](https://open.spotify.com/album/1jXyQ8Yu9hZ54DbX4qg11Z) | 2:33 |
-| 40 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
-| 41 | [OUTRO](https://open.spotify.com/track/182GXrpAdB1XV1mJlSSITn) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 4:41 |
+| 40 | [OUTRO](https://open.spotify.com/track/182GXrpAdB1XV1mJlSSITn) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 4:41 |
+| 41 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
 | 42 | [Tryna](https://open.spotify.com/track/05PU5oE3gopbj1SQtAl6Al) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:18 |
 | 43 | [THE SPIRIT OF MONSTER KODY](https://open.spotify.com/track/1JHKRUy261mWgDVGJfkNgT) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 0:45 |
 | 44 | [Make Me](https://open.spotify.com/track/4ecsYZoUCiwQdSlBM3CVGO) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Make Me \(France Version\)](https://open.spotify.com/album/4owB52H5fyp5KpB6pHiBYE) | 3:38 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 88 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 89 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbW9zAAAAACO/Ux4ZPrkHpXMSO1LN36u`
+Snapshot ID: `AbXFFAAAAACC+ZZ5mIk5TotGTl98jx2U`

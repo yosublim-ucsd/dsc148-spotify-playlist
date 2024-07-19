@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: back number \*👉 <a href="https://spice.eplus.jp/articles/330482?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,547 likes - 87 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,580 likes - 87 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 59 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 |
 | 60 | [Treasure](https://open.spotify.com/track/00b3mBEZAx6JxDVYNFM2va) | [Disry](https://open.spotify.com/artist/5qmW14Dd8YrKRgANRFHuAw), [KIKUMARU](https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [Chase](https://open.spotify.com/album/092HJyOqTCqJzlAgmxPX7L) | 3:54 |
 | 61 | [IPPON](https://open.spotify.com/track/0RpSzkGJNGkmdrbrIgqG4y) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [25 joyboi](https://open.spotify.com/album/5aNPMkDsxcVzRGgcdYxBCv) | 2:30 |
-| 62 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK キム](https://open.spotify.com/artist/09UjEWrV6FvLOej4pWU6Ek) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 |
+| 62 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK Kim](https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 |
 | 63 | [Backwards](https://open.spotify.com/track/49dHHflxczYetUAwiQICFB) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Backwards](https://open.spotify.com/album/0CyXmVSW53QdFPXMOt6CP9) | 4:36 |
 | 64 | [Sugar Sugar](https://open.spotify.com/track/1JwsfoeFzwHPhF7uMt8SD3) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Sugar Sugar](https://open.spotify.com/album/7uJ0PVXSkZtWAczeEtTkET) | 2:58 |
 | 65 | [BBB \- Japanese ver\. \-](https://open.spotify.com/track/3gxK3qULU1oGMBBzbcb94c) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [ON THE VIOLET](https://open.spotify.com/album/3mSt4t8JUxngS6ftaqEdio) | 2:46 |

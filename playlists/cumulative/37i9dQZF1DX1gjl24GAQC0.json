@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover:\bENHYPEN) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover:\bTOMORROW X TOGETHER) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
@@ -3138,6 +3138,24 @@
       "duration_ms": 186106,
       "name": "FANTASIA",
       "url": "https://open.spotify.com/track/59lh6XYTsfhoXXTNU8TUrz"
+    },
+    {
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2Ub5QAeVor8nv2MvmedyJF"
+      },
+      "artists": [
+        {
+          "name": "BANG&JUNG&YOO&MOON",
+          "url": "https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7rJZp1DVysX95a6lX9ThiP"
     },
     {
       "album": {
@@ -4864,7 +4882,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158360,
       "name": "Into You",
       "url": "https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm"
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199919,
       "name": "LO$ER=LO\u2661ER",
       "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
@@ -6518,7 +6536,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221341,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
@@ -7142,6 +7160,24 @@
       "duration_ms": 179986,
       "name": "OoWee",
       "url": "https://open.spotify.com/track/57dLypRhQoRBX9wFt4Ug7c"
+    },
+    {
+      "album": {
+        "name": "Open Always Wins",
+        "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Open Always Wins",
+      "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
     },
     {
       "album": {
@@ -9022,7 +9058,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 191018,
       "name": "SWEAT",
       "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
@@ -9964,6 +10000,24 @@
       "duration_ms": 196773,
       "name": "Wake up",
       "url": "https://open.spotify.com/track/12V9n61s90uQyKh2TzY2I2"
+    },
+    {
+      "album": {
+        "name": "WALK - The 6th Album",
+        "url": "https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-235 songs - 11 hr 49 min
+236 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Stereo Function](https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Stereo Function](https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts) | 3:26 | 2023-08-25 | 2024-04-20 |
 | [Take Control](https://open.spotify.com/track/4rQx0fftZ7fXbL1tU35gNI) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Max Bering](https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV) | [Take Control](https://open.spotify.com/album/7ImthyGtcB9fLAILJYA08I) | 2:22 | 2024-04-26 | 2024-05-11 |
 | [Take Off](https://open.spotify.com/track/62PPEwfCdA9964U7PTAve7) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Ravetech](https://open.spotify.com/album/7sNaDqChAtNzcNyVk7XNGb) | 2:57 | 2023-07-21 | 2023-07-29 |
+| [Take Our Time](https://open.spotify.com/track/5swvKzNqDwOnlF1CwQ6Vbq) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF) | [Take Our Time](https://open.spotify.com/album/7lS34XcMcp2J28zbubcqZU) | 3:37 | 2024-07-18 |  |
 | [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-16 | 2024-03-11 |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 | 2024-05-17 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-06-26 | 2023-07-21 |

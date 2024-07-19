@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Guga entra na zona. ",
+  "description": "CADU entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "album": {
         "name": "Anjos N\u00e3o Falam",
         "url": "https://open.spotify.com/album/0C307IPUvlAySSqmddZENT"
       },
@@ -1018,6 +1044,24 @@
       "duration_ms": 187831,
       "name": "Aproximar",
       "url": "https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM"
+    },
+    {
+      "album": {
+        "name": "Aqui Comigo",
+        "url": "https://open.spotify.com/album/4Hn59yama1JP12NLh1gSH1"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185683,
+      "name": "Aqui Comigo",
+      "url": "https://open.spotify.com/track/3VLwWKNmVfbyV6houYL229"
     },
     {
       "album": {
@@ -1980,7 +2024,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186158,
       "name": "Caos",
       "url": "https://open.spotify.com/track/638acps16sfVIyynQk3eQC"
@@ -2126,6 +2170,24 @@
       "duration_ms": 130966,
       "name": "Casado Com A Vit\u00f3ria",
       "url": "https://open.spotify.com/track/53QlEnbQ27ngYXnGz9s6kb"
+    },
+    {
+      "album": {
+        "name": "Casca De Bala",
+        "url": "https://open.spotify.com/album/79KfyS6JZjeUUvIy89PInE"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123720,
+      "name": "Casca De Bala",
+      "url": "https://open.spotify.com/track/1MbtUfj701gicto1jDbLyo"
     },
     {
       "album": {
@@ -3010,7 +3072,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 141838,
       "name": "DE LADO",
       "url": "https://open.spotify.com/track/0sWL1Vk1xItcJtFf7ZrSF0"
@@ -3040,6 +3102,28 @@
       "duration_ms": 169736,
       "name": "DEADOPPS",
       "url": "https://open.spotify.com/track/4KE7b7hmPjdiCpgPrak4PX"
+    },
+    {
+      "album": {
+        "name": "Sexta Santa",
+        "url": "https://open.spotify.com/album/30Wu1SA2NYEde4wa6PKqjg"
+      },
+      "artists": [
+        {
+          "name": "Tio Edson",
+          "url": "https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2"
+        },
+        {
+          "name": "DJ O'Mix",
+          "url": "https://open.spotify.com/artist/3MS1D2ujrGDHXLnlOBismt"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173707,
+      "name": "Deixa Viver",
+      "url": "https://open.spotify.com/track/0mwoprOrCPlayw9t4YeFPN"
     },
     {
       "album": {
@@ -5344,7 +5428,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152664,
       "name": "Inveja",
       "url": "https://open.spotify.com/track/0IQii4lHVHPkFwh9UbR6Jv"
@@ -6308,7 +6392,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144029,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/5L7leP8iaXPtOLHy4dH2HM"
@@ -7648,7 +7732,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134794,
       "name": "Nova Season",
       "url": "https://open.spotify.com/track/2d9t5MQGqwtGiaA5pSSBPp"
@@ -9493,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "Revolta",
+        "url": "https://open.spotify.com/album/6K7lwsVrHbZudXh17mJPUr"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Revolta",
+      "url": "https://open.spotify.com/track/2cxlnK71uH9fIMgjNshNgT"
+    },
+    {
+      "album": {
         "name": "RGTN",
         "url": "https://open.spotify.com/album/6Mwv6cb12FzgvKWAzk2jSm"
       },
@@ -10260,6 +10362,28 @@
       "duration_ms": 162285,
       "name": "Sincero",
       "url": "https://open.spotify.com/track/5lFPKg1V8SzUfnEcOnAytH"
+    },
+    {
+      "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/5yW8SoL8ZB11UycFrKAcQX"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Ghost Wayne",
+          "url": "https://open.spotify.com/artist/6fm87lblu89jZKJyMoHxxL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235754,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/7xrQQaycQPOgvMGgXNojY1"
     },
     {
       "album": {
@@ -11632,7 +11756,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176000,
       "name": "Vida Ocupada",
       "url": "https://open.spotify.com/track/54ffrYT7tXvAITRiS3ae4Y"

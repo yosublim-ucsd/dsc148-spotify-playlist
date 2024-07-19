@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 136 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 136 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 126 | [supernatural](https://open.spotify.com/track/3noi9RTSfFwoRCxGPR1giy) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [too good to be true](https://open.spotify.com/album/1E6DxaWMpjQx9O5qe0EYP9) | 2:14 |
 | 127 | [lovesick](https://open.spotify.com/track/16DQrEloMIrPB22YCNFj70) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 14](https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD) | 2:20 |
 | 128 | [Fiend](https://open.spotify.com/track/3ADYHqOd7NPIKXOF5TIq6T) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Fiend](https://open.spotify.com/album/0YHMkJaEbn90CPHVowKR4g) | 2:48 |
-| 129 | [Don't Prove Me Wrong](https://open.spotify.com/track/0T3t2dLmJWmUivNFnTfLs6) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Don't Prove Me Wrong](https://open.spotify.com/album/0k1s0w1dX6RU96SBkoV32d) | 3:08 |
-| 130 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
+| 129 | [Wish You Would](https://open.spotify.com/track/6OdhRpSKjX46JcDtaOlYoS) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Wish You Would](https://open.spotify.com/album/1VU8aeR5Av7bGxCZXlHwBe) | 2:24 |
+| 130 | [Don't Prove Me Wrong](https://open.spotify.com/track/0T3t2dLmJWmUivNFnTfLs6) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Don't Prove Me Wrong](https://open.spotify.com/album/0k1s0w1dX6RU96SBkoV32d) | 3:08 |
 | 131 | [Drifting](https://open.spotify.com/track/2j9Pf1DEfRxTJaDRptIRJs) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 2:54 |
 | 132 | [Validation](https://open.spotify.com/track/1I1inSPAYCKKyi8CUk36DG) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Validation](https://open.spotify.com/album/02qo5nqVims1IsSJMjXXXb) | 2:43 |
 | 133 | [WAKEY WAKEY](https://open.spotify.com/track/12cFoRWICaqKwy2yasYFyt) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [WAKEY WAKEY](https://open.spotify.com/album/7Aid3786yNftoMaN1Nm9jZ) | 2:26 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 135 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 136 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbW9zAAAAABUGh+ODQ874ybE5ud0kfgl`
+Snapshot ID: `AbXFEAAAAABo90SzfURTROViVygrV0DG`

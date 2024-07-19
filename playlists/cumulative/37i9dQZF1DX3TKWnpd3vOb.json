@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Kuervos del Sur & Nano Stern.",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Spiral Vortex.",
   "name": "Rock Chileno",
   "tracks": [
     {
@@ -558,6 +558,24 @@
       "duration_ms": 219286,
       "name": "Camino Hacia el Sol",
       "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
+    },
+    {
+      "album": {
+        "name": "Campo Abierto",
+        "url": "https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw"
+      },
+      "artists": [
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "Campo Abierto",
+      "url": "https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV"
     },
     {
       "album": {
@@ -4406,7 +4424,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175305,
       "name": "Somos M\u00e1s",
       "url": "https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ"

@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Anaïs
+> The world's biggest Drum 'n' Bass playlist! Cover: IRAH
 
-715 songs - 1 day 19 hr 43 min
+716 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\)](https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2) | 2:40 | 2024-02-23 |  |
 | [Green Lane](https://open.spotify.com/track/0Km4rKKA88V5GV7whzacYs) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT) | [Green Lane](https://open.spotify.com/album/5Qc6IzOIuODuzSgbx1k0Yj) | 4:31 | 2023-12-27 | 2024-01-05 |
 | [Guilty](https://open.spotify.com/track/4p7HI3GqsOZcXYzIv61XgZ) | [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Guilty / Kanjiru](https://open.spotify.com/album/32Q2ma7pBjdDl6qvJPMFs6) | 4:33 | 2022-04-22 | 2022-05-10 |
+| [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 | 2024-07-18 |  |
 | [Hands In The Air \- VIP](https://open.spotify.com/track/1dun0VY9nR77M758yHdMzS) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [VIP](https://open.spotify.com/album/0fSCtb3g63qTiWCdWZXw9g) | 3:06 | 2023-12-27 | 2024-01-05 |
 | [Hands, Lights, Flames, Phones](https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4) | [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Smile & Wave](https://open.spotify.com/album/2RgBhzyPXj9n1ocwkO0UdF) | 3:21 | 2022-04-08 | 2022-07-12 |
 | [Happiness](https://open.spotify.com/track/1vDtlkPlOIyoufrVf3H4Jg) | [Dazee](https://open.spotify.com/artist/2ogpwBfTq2V6L8yLGEakzH) | [Watch The Bass](https://open.spotify.com/album/6wyu8nwWwwwcNeIGcvZFR7) | 3:44 | 2024-03-08 | 2024-03-09 |
@@ -709,7 +710,7 @@
 | [Wicked](https://open.spotify.com/track/1z2R2oYSbfQQYW4CI4Fh1c) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wicked](https://open.spotify.com/album/08d5NodqOXXHofa4dzkWK9) | 3:16 | 2023-05-26 | 2023-06-17 |
 | [Wicked Man](https://open.spotify.com/track/2wUYAuTYpyImtO7AfCjbT6) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Wicked Man](https://open.spotify.com/album/5izVDkfJltrhQDuDSvwhhQ) | 3:18 | 2023-08-18 | 2024-01-26 |
 | [Wild](https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Wild](https://open.spotify.com/album/6immkKGjqExbs6Q4XjF4Sa) | 2:38 | 2024-03-01 | 2024-06-21 |
-| [Wings \- Nu:Logic Remix; Edit](https://open.spotify.com/track/4h0hgZmhlN3tE1GGLhYnVI) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Wings \(Nu:Logic Remix; Edit\)](https://open.spotify.com/album/3nL0jTQOLnirEaWC5ngDFX) | 3:48 | 2023-12-01 |  |
+| [Wings \- Nu:Logic Remix; Edit](https://open.spotify.com/track/4h0hgZmhlN3tE1GGLhYnVI) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Nu:Logic](https://open.spotify.com/artist/5pL8Q5xbDLEDE6JvYMXX9u), [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Wings \(Nu:Logic Remix; Edit\)](https://open.spotify.com/album/3nL0jTQOLnirEaWC5ngDFX) | 3:48 | 2023-12-01 | 2024-07-19 |
 | [Wordless](https://open.spotify.com/track/1uxu5LvEtoCzhA1PHhP2pr) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Closer](https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ) | 5:46 | 2022-06-30 | 2022-07-05 |
 | [Work It](https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Work It](https://open.spotify.com/album/0f5bJlD8g4R2iQU7Qa6aJk) | 4:01 | 2022-04-22 | 2022-06-26 |
 | [Worlds Apart](https://open.spotify.com/track/6M3D3YpYaLdEGWembNcEzj) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Worlds Apart](https://open.spotify.com/album/4bdgv0ijO9qBA2Ul4YhApJ) | 2:58 | 2024-02-23 |  |

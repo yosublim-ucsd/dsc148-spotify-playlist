@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 219573,
+  "num_followers": 220348,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABP+9wPvRpbdy1S+hlTQAjE",
+  "snapshot_id": "ZpcJgAAAAACIjS0xLMYY1d3VjjH28/Fu",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 182724,
-      "name": "Apple Juice",
-      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 182724,
+      "name": "Apple Juice",
+      "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
     },
     {
       "added_at": null,
@@ -195,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "What More Can I Say",
+      "url": "https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -211,22 +243,6 @@
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "What More Can I Say",
-      "url": "https://open.spotify.com/track/1MmNMaPzI1uZQS20RV88AT"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1.5)",
-        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176225,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -303,6 +303,22 @@
       "duration_ms": 164634,
       "name": "Goodbye's Been Good to You",
       "url": "https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1.5)",
+        "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176225,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
     },
     {
       "added_at": null,
@@ -343,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 144660,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happy People (with Teddy Swims & Jac Ross)",
         "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
       },
@@ -363,22 +395,6 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 144660,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/1EWKlsk5xEsDnejpkPkFVZ"
     },
     {
       "added_at": null,
@@ -519,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -535,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed on Fire (with Ingrid Andress)",
-        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire (with Ingrid Andress)",
-      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep is Exhausting",
         "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
       },
@@ -567,22 +579,6 @@
       "duration_ms": 177930,
       "name": "Someone Who Loved You",
       "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 234090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
     },
     {
       "added_at": null,
@@ -631,6 +627,26 @@
       "duration_ms": 198676,
       "name": "For the Rest of Your Life",
       "url": "https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bed on Fire (with Ingrid Andress)",
+        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire (with Ingrid Andress)",
+      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
     },
     {
       "added_at": null,
@@ -731,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Off",
-        "url": "https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW"
+        "name": "Elephant in the Room (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
       },
       "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 202715,
-      "name": "Night Off",
-      "url": "https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S"
+      "duration_ms": 163672,
+      "name": "Elephant in the Room (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
     },
     {
       "added_at": null,
@@ -763,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephant in the Room (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
+        "name": "Night Off",
+        "url": "https://open.spotify.com/album/4RC8AQINYpJrohzaxq6gSW"
       },
       "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 163672,
-      "name": "Elephant in the Room (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1"
+      "duration_ms": 202715,
+      "name": "Night Off",
+      "url": "https://open.spotify.com/track/1Dyxoge6qSmCddVjspic8S"
     },
     {
       "added_at": null,

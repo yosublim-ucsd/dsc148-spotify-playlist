@@ -1,13 +1,45 @@
 {
-  "description": "Best of South Asian Music. Cover: Diljit Dosanjh",
-  "num_followers": 832222,
+  "description": "Best of South Asian Music. Cover: Darshan Raval",
+  "num_followers": 833902,
   "original_name": "Desi Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoPoLQAAAAAn0SGaU6KpwSktLlteUopi",
+  "snapshot_id": "ZpihjAAAAACiGqUpzUsPaLNSeIXmB9/k",
   "tracks": [
+    {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Jeeja",
+        "url": "https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 181637,
+      "name": "Jeeja",
+      "url": "https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj"
+    },
+    {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
     {
       "added_at": "2024-07-02 11:44:45",
       "album": {
@@ -55,30 +87,26 @@
     {
       "added_at": "2024-07-02 11:44:45",
       "album": {
-        "name": "Piya Piya Calling (feat. The Quick Style)",
-        "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
+        "name": "Blockbuster",
+        "url": "https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8"
       },
       "artists": [
         {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
         },
         {
-          "name": "Kaifi Khalil",
-          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+          "name": "Umair Butt",
+          "url": "https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P"
         },
         {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        },
-        {
-          "name": "The Quick Style",
-          "url": "https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC"
+          "name": "Gharvi Group",
+          "url": "https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82"
         }
       ],
-      "duration_ms": 286122,
-      "name": "Piya Piya Calling (feat. The Quick Style)",
-      "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
+      "duration_ms": 274570,
+      "name": "Blockbuster",
+      "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -153,6 +181,22 @@
       "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"
     },
     {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Jaanam (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/75lhBPvfb1RqeiuRZ6hOHN"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 198035,
+      "name": "Jaanam (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
+    },
+    {
       "added_at": "2024-07-02 11:44:45",
       "album": {
         "name": "Koi Si",
@@ -171,30 +215,6 @@
       "duration_ms": 199998,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/0rY5TEzbVFwphIzMhMh7hX"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "Blockbuster",
-        "url": "https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8"
-      },
-      "artists": [
-        {
-          "name": "Faris Shafi",
-          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
-        },
-        {
-          "name": "Umair Butt",
-          "url": "https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P"
-        },
-        {
-          "name": "Gharvi Group",
-          "url": "https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82"
-        }
-      ],
-      "duration_ms": 274570,
-      "name": "Blockbuster",
-      "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -235,6 +255,30 @@
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
+    },
+    {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Morni",
+        "url": "https://open.spotify.com/album/6jqVCVKCQYx1BbmXg3JwOx"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "Bhumika Sharma",
+          "url": "https://open.spotify.com/artist/5DJp3ARWdQg4ISKhk63OFy"
+        }
+      ],
+      "duration_ms": 161625,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/52L4zA87EinFEoGZ8WPlgE"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -283,6 +327,22 @@
       "duration_ms": 240000,
       "name": "Ve Haaniyaan",
       "url": "https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b"
+    },
+    {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Four Me",
+        "url": "https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 175556,
+      "name": "IDK HOW",
+      "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -367,6 +427,38 @@
       "duration_ms": 200373,
       "name": "Chaleya",
       "url": "https://open.spotify.com/track/3xMHXmedL5Rvfxmiar9Ryv"
+    },
+    {
+      "added_at": "2024-07-18 05:01:00",
+      "album": {
+        "name": "Leta Jaijo Re | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Chotu Khan",
+          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+        },
+        {
+          "name": "Jaipur Kawa Brass Band",
+          "url": "https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 234913,
+      "name": "Leta Jaijo Re | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -811,26 +903,6 @@
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "Turri Jandi",
-        "url": "https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU"
-      },
-      "artists": [
-        {
-          "name": "Shazia Manzoor",
-          "url": "https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S"
-        },
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "Turri Jandi",
-      "url": "https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX"
     },
     {
       "added_at": "2024-07-02 11:44:45",
@@ -1975,26 +2047,6 @@
     {
       "added_at": "2024-07-02 11:44:45",
       "album": {
-        "name": "Chal Chaliye",
-        "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        },
-        {
-          "name": "Farheen Raza Jaffry",
-          "url": "https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc"
-        }
-      ],
-      "duration_ms": 234207,
-      "name": "Chal Chaliye",
-      "url": "https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
         "name": "O Yaara",
         "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
       },
@@ -2011,90 +2063,6 @@
       "duration_ms": 276000,
       "name": "O Yaara",
       "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "Jhol",
-        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
-      },
-      "artists": [
-        {
-          "name": "Maanu",
-          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
-        },
-        {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
-        }
-      ],
-      "duration_ms": 265817,
-      "name": "Jhol",
-      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "BEMATLAB",
-        "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
-      },
-      "artists": [
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        }
-      ],
-      "duration_ms": 199607,
-      "name": "Apna Tu Kehnda",
-      "url": "https://open.spotify.com/track/67uhJboca6cVx4QCdQVvvf"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "Heeramandi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        },
-        {
-          "name": "Kalpana Gandharva",
-          "url": "https://open.spotify.com/artist/5UQgOU6dkEDeqPGoZWr1ax"
-        },
-        {
-          "name": "A M Turaz",
-          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
-        }
-      ],
-      "duration_ms": 251735,
-      "name": "Ek Baar Dekh Lijiye",
-      "url": "https://open.spotify.com/track/7M5iFFOJlvUWpg3A56GVAL"
-    },
-    {
-      "added_at": "2024-07-02 11:44:45",
-      "album": {
-        "name": "Heeramandi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        },
-        {
-          "name": "Shikha Joshi",
-          "url": "https://open.spotify.com/artist/7aiEauo7tSnrEgxTjIQh0E"
-        },
-        {
-          "name": "A M Turaz",
-          "url": "https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Masoom Dil Hai Mera",
-      "url": "https://open.spotify.com/track/4vYFfIDzCUucJlpq6cT1FD"
     }
   ],
   "unique_name": "Desi Hits",

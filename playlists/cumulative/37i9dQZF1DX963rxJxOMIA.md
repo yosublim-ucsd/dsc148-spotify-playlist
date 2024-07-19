@@ -4,7 +4,7 @@
 
 > Fino y elegante, como J Balvin
 
-250 songs - 13 hr 9 min
+251 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hace Tiempo](https://open.spotify.com/track/5PSgIaJp6mjIoO5y8kNkrK) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Hace Tiempo](https://open.spotify.com/album/131BerXzsUmshfyUh9o2Xw) | 3:04 | 2022-09-06 | 2023-06-30 |
 | [Hagale Pues](https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [SOG](https://open.spotify.com/artist/1qca2UDDug7QVMbKYRczd9) | [Hagale Pues](https://open.spotify.com/album/7I5F0zSVcazXWKAG0Pnr2l) | 2:28 | 2023-12-08 |  |
 | [HASTA ABAJO](https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [KrING](https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x) | 3:49 | 2022-10-13 |  |
+| [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-19 |  |
 | [Hasta Luego](https://open.spotify.com/track/0sO1CZLWa4hvNSlOaXReao) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Hasta Luego](https://open.spotify.com/album/6EfqxfjvB5RbNfHCiOc5jh) | 2:27 | 2022-12-23 | 2023-02-17 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-25 | 2023-11-11 |
 | [Hotel](https://open.spotify.com/track/4k11pkNfqJsq7ZX1TbxBeo) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Hotel](https://open.spotify.com/album/1oOYJiGceppR1wxTUEbpbb) | 2:59 | 2022-09-09 | 2022-10-07 |

@@ -4,7 +4,7 @@
 
 > The hottest Pop tracks, all in one playlist! Featuring our rising stars, some pop classics and your favourite artists' favourite artists\. Shop this Summer's Pop Collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-347 songs - 17 hr 57 min
+349 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Dance Alone \- Qing Madi & Nonso Amadi Remix](https://open.spotify.com/track/3hS56srxJHe84zPZcLx8fO) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Dance Alone \(Qing Madi & Nonso Amadi Remix\)](https://open.spotify.com/album/2FjxxvsyNNw6y20KxvxTDa) | 2:46 | 2024-04-19 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-11-06 | 2023-11-25 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-11-06 | 2024-07-10 |
+| [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-19 |  |
 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 | 2023-11-24 | 2024-02-17 |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2024-01-26 |  |
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2023-11-06 | 2024-01-27 |
@@ -105,6 +106,7 @@
 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 | 2023-11-06 | 2024-05-06 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-11-06 |  |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-03-30 | 2024-07-10 |
+| [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-07-19 |  |
 | [FIX THIS](https://open.spotify.com/track/7Fhz2ABtZU5ySkpWQHEAEP) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [FIX THIS](https://open.spotify.com/album/7MszmgosThZcBnoJ8QgWZe) | 2:44 | 2023-11-06 | 2024-05-06 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-11-06 | 2023-11-25 |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-11-06 | 2023-11-25 |

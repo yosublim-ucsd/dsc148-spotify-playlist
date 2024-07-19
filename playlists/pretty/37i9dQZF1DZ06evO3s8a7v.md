@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This Is MYA\. Los temas esenciales, todos en una lista.
+> This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,020 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,046 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 7 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
 | 8 | [MYA LIVE P4: Prisionero](https://open.spotify.com/track/6QOrQAXGNn82dQd5tOCtTA) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [MYA LIVE P4: Prisionero](https://open.spotify.com/album/4TD3spO6LpCNJFl7usMCqG) | 2:57 |
 | 9 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 |
-| 10 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
-| 11 | [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 |
+| 10 | [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 |
+| 11 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
 | 12 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 |
 | 13 | [LUNAR](https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [LUNAR](https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3) | 3:06 |
-| 14 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
-| 15 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
+| 14 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
+| 15 | [Nunca Soltamos](https://open.spotify.com/track/3gxFNiUvyb3F2BJ2EGMRtd) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Nunca Soltamos](https://open.spotify.com/album/6ghHqKuBy0ZgGWeva8XF7E) | 3:18 |
 | 16 | [MAL DE AMOR](https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [MAL DE AMOR](https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk) | 3:41 |
 | 17 | [Lejos \- REMIX](https://open.spotify.com/track/2bIbFssR2q89LZUshe5vTb) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Lejos \(REMIX\)](https://open.spotify.com/album/0BveghjcZHf8rgjpG2Gf3I) | 3:10 |
 | 18 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 50 | [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 |
 | 51 | [Día y Noche](https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Día y Noche](https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm) | 3:15 |
 
-Snapshot ID: `ZpW4AAAAAABYAdznlfP2mLuB9NiYY1eO`
+Snapshot ID: `ZpcJgAAAAACfjahGwwwgOb2/8RbfVQVS`

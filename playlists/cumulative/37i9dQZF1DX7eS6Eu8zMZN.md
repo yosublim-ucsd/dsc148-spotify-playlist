@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-95 songs - 5 hr 41 min
+97 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Filofobia](https://open.spotify.com/track/4AmGJdxDucTNGfqJmIUzno) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Filofobia](https://open.spotify.com/album/5eRPK0NiYLmAnTGt8X8lvP) | 3:02 | 2023-02-24 |  |
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-05-13 |  |
 | [Fotografía \- En Directo](https://open.spotify.com/track/4csQ5jSxzM9NOmqjHhUHBj) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Manual De Viaje A Un Lugar Lejano \(En Directo\)](https://open.spotify.com/album/2ulvRTw9dtLhbHO5msBG2t) | 5:00 | 2021-05-13 |  |
+| [Frágil \- Acústico](https://open.spotify.com/track/790I7HQcQPuAYV3KQighlo) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Frágil \(Acústico\)](https://open.spotify.com/album/5pSWTmKOjHKFAI4DI4OydD) | 2:56 | 2024-07-19 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-05-13 |  |
 | [Hogar](https://open.spotify.com/track/03DmOgo2fx4S5Baa0OzQbP) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Hogar](https://open.spotify.com/album/0kwVjm6F6vGo2Ef1G2mc4Q) | 2:52 | 2023-05-19 |  |
 | [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 |  |
@@ -97,6 +98,7 @@
 | [TAYLOR](https://open.spotify.com/track/0Q4b98WIeJkWDqAeSyYZR4) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [TAYLOR](https://open.spotify.com/album/6VL4p6rD5mnCZ1a8OnPpee) | 3:42 | 2024-07-08 |  |
 | [Temo](https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S) | [Temporada de Girasoles](https://open.spotify.com/artist/3ZZ9qm23N4C9cfHeeb2u6i) | [Temo](https://open.spotify.com/album/4Jvwh8dMjgsSiF40g9NDwo) | 4:30 | 2023-05-19 |  |
 | [Todavía Me Quedan Amigos](https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Todavía Me Quedan Amigos](https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq) | 2:41 | 2023-03-24 |  |
+| [TRAUMADOS](https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 3:35 | 2024-07-19 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |
 | [Veneno Vil](https://open.spotify.com/track/5Tuesi0A7MxD6nU2UoHt00) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Veneno Vil](https://open.spotify.com/album/0DzCTqhV9LpnFSYYNVAgsE) | 3:13 | 2021-05-13 |  |

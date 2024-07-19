@@ -1,12 +1,12 @@
 {
   "description": "The best Dance and EDM tracks right now! Cover: John Summit &amp; Kaskade",
-  "num_followers": 20553,
+  "num_followers": 20559,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAeXRpnCLl+DA6/V/JO9C/zxUFM9mvA",
+  "snapshot_id": "AAAeYAup76WnzxnOigTB1DbnTL8J0yg4",
   "tracks": [
     {
       "added_at": "2024-07-06 12:07:13",
@@ -2687,6 +2687,70 @@
       "duration_ms": 140621,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2024-07-19 04:35:18",
+      "album": {
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
+    },
+    {
+      "added_at": "2024-07-19 04:35:42",
+      "album": {
+        "name": "Find Love Now",
+        "url": "https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Find Love Now",
+      "url": "https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt"
+    },
+    {
+      "added_at": "2024-07-19 05:32:07",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0gqerJxaNmuiQAFMIcOpmp"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        },
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "duration_ms": 180569,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ILDUxascaZtpGRlaK8CRt"
     }
   ],
   "unique_name": "New Dance Hits 2024",

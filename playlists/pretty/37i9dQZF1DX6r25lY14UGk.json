@@ -1,13 +1,101 @@
 {
   "description": "New releases for the kids. Cover: PJ Panda",
-  "num_followers": 26821,
+  "num_followers": 26916,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAABUyQpShEhkVypC7SZxYD7O",
+  "snapshot_id": "ZpnkwAAAAAAA42ibT04TMsr5UALNhuXh",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Let`s Play With Johny! - Kids Songs",
+        "url": "https://open.spotify.com/album/721wLvXG2IKgsLw7fsRadt"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Emotion Alphabet",
+      "url": "https://open.spotify.com/track/7AKBMGW4kzqmrPoKZ9VmXC"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Happy Dance",
+        "url": "https://open.spotify.com/album/1aiEcLirQ6mopiKtCknRyK"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 172194,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/6lSnETtst22oPXfiOyIqef"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Fly Like a Raven",
+        "url": "https://open.spotify.com/album/6QkqzN3mZYdUQWcMQeIodU"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Claudia Zanes",
+          "url": "https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh"
+        },
+        {
+          "name": "Jendog Lonewolf",
+          "url": "https://open.spotify.com/artist/0QosYLdJrmAxbreHIDrczn"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Fly Like a Raven",
+      "url": "https://open.spotify.com/track/7tmF5MugroJze9IvQFd5ID"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Penelope Pig (Ballet Song)",
+        "url": "https://open.spotify.com/album/63tEnT2BRrGMeuBnZ7dnu5"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "duration_ms": 100695,
+      "name": "Penelope Pig (Ballet Song)",
+      "url": "https://open.spotify.com/track/3V8mpLEoHn4MXX1Fm0aSJZ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/73PXgC6tPgIogVVaGwKHTN"
+      },
+      "artists": [
+        {
+          "name": "Bari Koral",
+          "url": "https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ"
+        }
+      ],
+      "duration_ms": 218993,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/0QyUSn4iabTLtPQBvhHp0g"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -23,6 +111,22 @@
       "duration_ms": 155602,
       "name": "The Champs-\u00c8lys\u00e9es",
       "url": "https://open.spotify.com/track/3cAluZJKAPerzPSeiBaHIk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I Love Books",
+        "url": "https://open.spotify.com/album/5Va0PsYkBv6h2dUUeE4Jx8"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "I Love Books",
+      "url": "https://open.spotify.com/track/1dqNgE2K8W3dQeo6vhhWy8"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "Hells Bells",
+      "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1914,6 +1932,24 @@
       "duration_ms": 231510,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/13SKWUEst7c0WohbwPAJJT"
+    },
+    {
+      "album": {
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "I'm a Ramblin' Man",
+      "url": "https://open.spotify.com/track/7FYQ5lnm0aSw5gughyiDkr"
     },
     {
       "album": {

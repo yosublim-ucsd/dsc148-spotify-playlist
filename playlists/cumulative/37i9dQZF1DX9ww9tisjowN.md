@@ -2,9 +2,9 @@
 
 ### [Gacha Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ww9tisjowN)
 
-> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: 『ユイカ』
+> What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: MNNK Bro\. \(Takashi　　　　<br/>Murakami + JP THE WAVY\) ©TM/KK
 
-499 songs - 1 day 4 hr 43 min
+501 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2023-05-09 | 2024-02-16 |
 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 | 2023-05-30 | 2023-07-12 |
 | [Eureka](https://open.spotify.com/track/5N0J0YLHluyIMdrYf8TfE4) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Eureka](https://open.spotify.com/album/5HfCLJOXg3OJJbr6Lz9C67) | 3:45 | 2024-04-04 | 2024-04-19 |
-| [Even If \- Remix](https://open.spotify.com/track/1lCVQlIeyKEZhNFyRnPtRe) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb) | [Even If \(Remix\)](https://open.spotify.com/album/6yZ61GZyKlHGRKCH1uACDX) | 3:45 | 2024-07-04 |  |
+| [Even If \- Remix](https://open.spotify.com/track/1lCVQlIeyKEZhNFyRnPtRe) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb) | [Even If \(Remix\)](https://open.spotify.com/album/6yZ61GZyKlHGRKCH1uACDX) | 3:45 | 2024-07-04 | 2024-07-19 |
 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 | 2023-10-19 | 2023-12-13 |
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-07-19 |  |
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2023-05-09 | 2023-12-08 |
@@ -330,6 +330,7 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-05-09 |  |
 | [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [アルキメデス](https://open.spotify.com/track/6mH5fl309vesqsRz84Bg3f) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [アルキメデス](https://open.spotify.com/album/25as5JyWs3aP6wmYctfN0X) | 2:46 | 2024-05-16 |  |
+| [イイコと妖狐](https://open.spotify.com/track/2MGSgGtpyKTjr7tY0pefZ8) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク7](https://open.spotify.com/album/6SBHOST42KWt5IiDsOkx94) | 3:53 | 2024-07-18 |  |
 | [イガク](https://open.spotify.com/track/6r5PYnGBu1hkQrk3zPkt1I) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [イガク](https://open.spotify.com/album/39ZWZuqNYMhzNsIkHt5tEr) | 2:00 | 2024-04-18 |  |
 | [インヒューマンエンパシー](https://open.spotify.com/track/6ite4gtP02Vfb8NvXxlI1Q) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [永遠市](https://open.spotify.com/album/5STqcXt9yxV4dpDCTB2D62) | 4:50 | 2023-10-24 | 2023-11-03 |
 | [エンパシア](https://open.spotify.com/track/2UBdcJC3Ln67ne7cb7hrR3) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [エンパシア](https://open.spotify.com/album/5e0FBUwr1TNLyA2CyKQQzx) | 4:27 | 2024-01-30 | 2024-02-09 |
@@ -370,7 +371,7 @@
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-20 | 2023-12-08 |
 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-04 |  |
 | [フィナーレ。](https://open.spotify.com/track/2hL8ESlWIwfXPHgPaTYTWk) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [プレロマンス / フィナーレ。](https://open.spotify.com/album/6qDviOzqffV998821vlnWL) | 4:02 | 2024-04-18 |  |
-| [フラットウッズのモンスターみたいに](https://open.spotify.com/track/4ag6ahTK26pedrFCxKF6BA) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt) | [フラットウッズのモンスターみたいに](https://open.spotify.com/album/1xhR4PqQPeU7zQr6RV5ATC) | 3:01 | 2024-05-09 |  |
+| [フラットウッズのモンスターみたいに](https://open.spotify.com/track/4ag6ahTK26pedrFCxKF6BA) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt) | [フラットウッズのモンスターみたいに](https://open.spotify.com/album/1xhR4PqQPeU7zQr6RV5ATC) | 3:01 | 2024-05-09 | 2024-07-19 |
 | [ブライダルドリーム](https://open.spotify.com/track/6gtqm6Hpuyq133BvPG4oBu) | [兎田ぺこら](https://open.spotify.com/artist/4JlcSp9i5LcilRSMqaVimt), [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [ブライダルドリーム](https://open.spotify.com/album/3fkZh6fm03KR3njtLJNG4T) | 3:11 | 2023-12-27 | 2024-04-17 |
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 |  |
 | [ブルーバード](https://open.spotify.com/track/11DLTQBqAjK86RX7T4cGl0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いきものがかり meets](https://open.spotify.com/album/4gyAb8w1c5hUXDLFg4cVPv) | 3:37 | 2024-02-13 | 2024-03-22 |
@@ -436,6 +437,7 @@
 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 | 2024-04-18 |  |
 | [強風オールバック](https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [アルバム１号](https://open.spotify.com/album/3ZA0nIXWZ0wGmCDHp9i77M) | 2:17 | 2024-04-18 |  |
 | [怪獣の花唄](https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:44 | 2024-06-06 | 2024-07-10 |
+| [恋色](https://open.spotify.com/track/62XmbJHgLkBQZOT5SJMGA1) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [こいのうた](https://open.spotify.com/album/4015DFzdg5NzUaR1yT5rcz) | 4:41 | 2024-07-18 |  |
 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 | 2024-04-18 |  |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-05-09 |  |
 | [愛言葉](https://open.spotify.com/track/3EEreM1pyR4PBqfSLSfmOK) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [愛言葉](https://open.spotify.com/album/2zUxTFT7JKSFGmA8NmxmLg) | 3:21 | 2024-05-16 | 2024-05-24 |

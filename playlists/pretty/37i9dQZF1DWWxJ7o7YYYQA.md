@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 
 ### [Spotlight: The Juggernaut](https://open.spotify.com/playlist/37i9dQZF1DWWxJ7o7YYYQA)
 
-> Celebrate the South Asian Heritage Month with a vibrant playlist by The Juggernaut, dedicated to the powerful South Asian women\. Cover: Joy Crookes
+> Celebrate SAHM with a vibrant playlist by The Juggernaut, dedicated to powerful South Asian women\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 35 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 35 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxJ7o7YYYQA.md) - [plain]
 | 34 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 |
 | 35 | [One Way Ticket](https://open.spotify.com/track/6OJ9DW22pUCZWgVRH4QPKI) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Santhosam](https://open.spotify.com/album/2E9hCWA7XVffqJ2nRPxswF) | 2:57 |
 
-Snapshot ID: `ZpgbuAAAAAA+zm+1dHZfX2x6jfbEW2Jw`
+Snapshot ID: `Zpnp3gAAAADIT4ddgXIC1sHQDkS+Qkm9`

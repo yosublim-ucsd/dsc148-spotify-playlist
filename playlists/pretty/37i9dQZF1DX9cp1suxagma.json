@@ -1,12 +1,12 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 119269,
+  "num_followers": 119293,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn6KVAAAAACXVfDiL29ivGzIb9QkDcuz",
+  "snapshot_id": "Zpom2AAAAAAnrRRVmy4yhZ8j0mowo4U4",
   "tracks": [
     {
       "added_at": "2024-06-28 10:03:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-06-28 10:03:00",
       "album": {
-        "name": "Peque\u00f1os Romances",
-        "url": "https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "Enredadera",
-      "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
         "name": "D\u00edas de mierda (Arial 3)",
         "url": "https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78"
       },
@@ -141,20 +125,20 @@
       "url": "https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD"
     },
     {
-      "added_at": "2024-06-28 10:03:00",
+      "added_at": "2024-07-19 08:42:00",
       "album": {
-        "name": "Dosmil16 (Arial 4)",
-        "url": "https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq"
+        "name": "Bareto y Chanel",
+        "url": "https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp"
       },
       "artists": [
         {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
         }
       ],
-      "duration_ms": 183202,
-      "name": "Dosmil16 (Arial 4)",
-      "url": "https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF"
+      "duration_ms": 202880,
+      "name": "Bareto y Chanel",
+      "url": "https://open.spotify.com/track/002nPmx72z53AYh3ysujMM"
     },
     {
       "added_at": "2024-06-28 10:03:00",
@@ -171,6 +155,38 @@
       "duration_ms": 186186,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "Dosmil16 (Arial 4)",
+        "url": "https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 183202,
+      "name": "Dosmil16 (Arial 4)",
+      "url": "https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF"
     },
     {
       "added_at": "2024-06-28 10:03:00",
@@ -263,22 +279,6 @@
       "duration_ms": 160695,
       "name": "Enredo",
       "url": "https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
     },
     {
       "added_at": "2024-06-28 10:03:00",

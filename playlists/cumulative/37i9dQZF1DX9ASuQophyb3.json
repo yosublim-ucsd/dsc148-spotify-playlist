@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Melis Kar",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Amo988",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157139,
       "name": "Atm\u0131yor Nabz\u0131m",
       "url": "https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 206162,
       "name": "Bak\u0131nca G\u00f6r\u00fcn\u00fcyorsun",
       "url": "https://open.spotify.com/track/2GWlSl2wcp4B808K9pYsT9"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "D\u00f6n Bana",
+        "url": "https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw"
+      },
+      "artists": [
+        {
+          "name": "Irmak Ar\u0131c\u0131",
+          "url": "https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "D\u00f6n Bana",
+      "url": "https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA"
+    },
+    {
+      "album": {
         "name": "Elini Ver",
         "url": "https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 201290,
       "name": "Hain",
       "url": "https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj"
@@ -623,6 +641,24 @@
     },
     {
       "album": {
+        "name": "K\u00d6RK\u00dcT\u00dcK",
+        "url": "https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230719,
+      "name": "K\u00d6RK\u00dcT\u00dcK",
+      "url": "https://open.spotify.com/track/6iostOh9TPow9esciyRHSE"
+    },
+    {
+      "album": {
         "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
         "url": "https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG"
       },
@@ -660,6 +696,24 @@
       "duration_ms": 196075,
       "name": "Lan",
       "url": "https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH"
+    },
+    {
+      "album": {
+        "name": "Mele\u011fim",
+        "url": "https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Mele\u011fim",
+      "url": "https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV"
     },
     {
       "album": {
@@ -728,7 +782,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 256777,
       "name": "Numarac\u0131",
       "url": "https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL"
@@ -789,6 +843,46 @@
     },
     {
       "album": {
+        "name": "Senden Hat\u0131ra",
+        "url": "https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD"
+      },
+      "artists": [
+        {
+          "name": "Kerim Araz",
+          "url": "https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb"
+        },
+        {
+          "name": "Sevgim Y\u0131lmaz",
+          "url": "https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "Senden Hat\u0131ra",
+      "url": "https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec"
+    },
+    {
+      "album": {
+        "name": "CEMiyet Beach",
+        "url": "https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej"
+      },
+      "artists": [
+        {
+          "name": "Cem Belevi",
+          "url": "https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140483,
+      "name": "Sesini Duymam Laz\u0131m",
+      "url": "https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ"
+    },
+    {
+      "album": {
         "name": "Seviyore Mi",
         "url": "https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw"
       },
@@ -800,7 +894,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 142874,
       "name": "Seviyore Mi",
       "url": "https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM"
@@ -822,7 +916,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148827,
       "name": "Sor",
       "url": "https://open.spotify.com/track/4K5IIAsu1g5baNEonmTAwu"
@@ -906,6 +1000,24 @@
       "duration_ms": 152067,
       "name": "Yand\u0131m Ate\u015finle",
       "url": "https://open.spotify.com/track/1E2Me5owoioq7ZW6KpkZF6"
+    },
+    {
+      "album": {
+        "name": "Yansam",
+        "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Yansam",
+      "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
     },
     {
       "album": {

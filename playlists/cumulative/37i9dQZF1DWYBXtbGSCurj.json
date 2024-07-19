@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ajuliacosta",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: BIN",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -2659,6 +2659,44 @@
     },
     {
       "album": {
+        "name": "Iambinhu",
+        "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182469,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/3UsrHKcNDILUGoV7zQkZbA"
+    },
+    {
+      "album": {
         "name": "Bagulho Doido (Papatracks #14)",
         "url": "https://open.spotify.com/album/0fDyobbQDSjItxCoOT5396"
       },
@@ -4474,7 +4512,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 137964,
       "name": "Calabasas",
       "url": "https://open.spotify.com/track/3u1cnoPWsikTxYmVeLktZh"
@@ -4504,6 +4542,32 @@
       "duration_ms": 161055,
       "name": "Call me",
       "url": "https://open.spotify.com/track/1AGoUReTLuBe2NCEicxqR7"
+    },
+    {
+      "album": {
+        "name": "Camarim",
+        "url": "https://open.spotify.com/album/4UK9Jk30cEBRsnjRk3GQgm"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Camarim",
+      "url": "https://open.spotify.com/track/08CzlOB0r2a21LVg5L30UT"
     },
     {
       "album": {
@@ -5926,6 +5990,36 @@
       "duration_ms": 264802,
       "name": "Click, Click, Click (feat. Derek, N.A.N.A., Dfideliz, J\u00e9 Santiago, The Boy)",
       "url": "https://open.spotify.com/track/51mUrluXyuMMaqSrKUtMiQ"
+    },
+    {
+      "album": {
+        "name": "Falc\u00e3o do Morro",
+        "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181178,
+      "name": "Clima Frio",
+      "url": "https://open.spotify.com/track/71IIIDtP1vhB8Tfnux7Fjh"
     },
     {
       "album": {
@@ -8922,7 +9016,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166611,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/3tP6kXipQVvUvM8zB0n3Gk"
@@ -10966,6 +11060,36 @@
       "duration_ms": 200005,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/6NYqvbaeS7XgcUse43r20R"
+    },
+    {
+      "album": {
+        "name": "EXPL\u00cdCITO",
+        "url": "https://open.spotify.com/album/0t2KenW1hmQpTHESZFcZoA"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Neconbeat",
+          "url": "https://open.spotify.com/artist/0FbOZwBS2giL3NOXLUoLQu"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "EXPL\u00cdCITO",
+      "url": "https://open.spotify.com/track/44pMN39R6Mz6yaxzlE8WX8"
     },
     {
       "album": {
@@ -13223,6 +13347,36 @@
     },
     {
       "album": {
+        "name": "GOLPE DO TINDER",
+        "url": "https://open.spotify.com/album/2ZEeiYFAgYQ9uJZkt3PRLD"
+      },
+      "artists": [
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219276,
+      "name": "GOLPE DO TINDER",
+      "url": "https://open.spotify.com/track/6sqDpZ3ZAIfMOdz9X99qDD"
+    },
+    {
+      "album": {
         "name": "Gramas",
         "url": "https://open.spotify.com/album/30IvUp5RsfktAjJmg2Avlb"
       },
@@ -14129,6 +14283,32 @@
     },
     {
       "album": {
+        "name": "Mixtape Novset, Vol. 1",
+        "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Inconvencional",
+      "url": "https://open.spotify.com/track/3URgu7EkiNuswUVoXVE4BX"
+    },
+    {
+      "album": {
         "name": "Independente",
         "url": "https://open.spotify.com/album/5FcNiaO3mSVqKO3u2Mktl1"
       },
@@ -14476,7 +14656,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174556,
       "name": "Invis\u00edvel pt.2",
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
@@ -14666,7 +14846,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 81176,
       "name": "Jersey do Jota",
       "url": "https://open.spotify.com/track/0e8WMIlTanCMBunBw9v8zo"
@@ -19026,7 +19206,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217445,
       "name": "MOTIVO",
       "url": "https://open.spotify.com/track/4Tqq3LjwRIxXqrfvur7bm8"
@@ -20494,7 +20674,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 120000,
       "name": "Nois \u00e9 Nois",
       "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
@@ -23109,6 +23289,32 @@
     },
     {
       "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Cassin",
+          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206717,
+      "name": "Percs",
+      "url": "https://open.spotify.com/track/4Ioj7yHEfwsyH2DxHyf9m6"
+    },
+    {
+      "album": {
         "name": "Perdas e Ganhos",
         "url": "https://open.spotify.com/album/0ddFGrL2MQCFilzKT7W8Vp"
       },
@@ -23742,6 +23948,32 @@
       "duration_ms": 164276,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/6TussN1rv7dNIO8jVoz9rU"
+    },
+    {
+      "album": {
+        "name": "PLAQUE",
+        "url": "https://open.spotify.com/album/2iK9eRH3H0KuqsGs6tNAJx"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203674,
+      "name": "PLAQUE",
+      "url": "https://open.spotify.com/track/5XfxNjRbr9oPnpKkzTZ21L"
     },
     {
       "album": {
@@ -25847,6 +26079,24 @@
     },
     {
       "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
+    },
+    {
+      "album": {
         "name": "Rainha da Finesse",
         "url": "https://open.spotify.com/album/2WDkXg8cZKpEMhxJ2yRBfM"
       },
@@ -25858,7 +26108,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166153,
       "name": "Rainha da Finesse",
       "url": "https://open.spotify.com/track/1JgAwzPyaXdaTZrjHSEntY"
@@ -26526,6 +26776,28 @@
       "duration_ms": 169043,
       "name": "Ritmo Do Crime",
       "url": "https://open.spotify.com/track/5yjd0lAp6zahxFdqWeI8qM"
+    },
+    {
+      "album": {
+        "name": "Rivais",
+        "url": "https://open.spotify.com/album/1JQ07ymMHWRIZiM3OUVQdi"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152607,
+      "name": "Rivais",
+      "url": "https://open.spotify.com/track/1e7JH5Fuv4rkMX8Odo0Kpz"
     },
     {
       "album": {
@@ -27866,6 +28138,24 @@
       "duration_ms": 164571,
       "name": "Sereno Da Madrugada",
       "url": "https://open.spotify.com/track/62fp0S6M5cWhghis8kUUXr"
+    },
+    {
+      "album": {
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/2oIOH6l8OnlUrgq9zt20L0"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/1mmLSjtDosfkTD8cU5n9cc"
     },
     {
       "album": {
@@ -30024,7 +30314,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 141999,
       "name": "Te Vi No Baile",
       "url": "https://open.spotify.com/track/3QDpjrz5HPF90eMMwmV8hW"
@@ -30164,7 +30454,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
@@ -31606,7 +31896,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209076,
       "name": "Vacilou, Deu Mole",
       "url": "https://open.spotify.com/track/5Ak58ptg8Bmvxx2cueHj3P"
@@ -32276,7 +32566,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 125760,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"

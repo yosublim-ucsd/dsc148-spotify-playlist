@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 128155,
       "name": "Bank Account",
       "url": "https://open.spotify.com/track/2wwhZI50NiSqVkBovf6HKz"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 99344,
       "name": "CHE ME NE F\u00d3",
       "url": "https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156000,
       "name": "GAS",
       "url": "https://open.spotify.com/track/1vm8Lzx4Hd6vOKF5Q6GCXa"
@@ -3096,6 +3096,32 @@
       "duration_ms": 144041,
       "name": "Leale e Infame",
       "url": "https://open.spotify.com/track/47eglSPfqHvnA4O3L9O5g2"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. Christian Revo)",
+        "url": "https://open.spotify.com/album/2nAjv2gB9U51oIJB0h2yLz"
+      },
+      "artists": [
+        {
+          "name": "Ciro Zero",
+          "url": "https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE"
+        },
+        {
+          "name": "Haxia",
+          "url": "https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx"
+        },
+        {
+          "name": "Christian Revo",
+          "url": "https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "Lonely (feat. Christian Revo)",
+      "url": "https://open.spotify.com/track/51qaHCvkdBGe4hIruc0ucO"
     },
     {
       "album": {
@@ -4342,7 +4368,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159537,
       "name": "NRG",
       "url": "https://open.spotify.com/track/5EygONvQOSAX9zhiuV0kyq"

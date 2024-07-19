@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Casa em Chamas",
+        "url": "https://open.spotify.com/album/7BOKJpTRHKgNfxZ22tWuTg"
+      },
+      "artists": [
+        {
+          "name": "Bratislava",
+          "url": "https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251712,
+      "name": "Casa em Chamas",
+      "url": "https://open.spotify.com/track/7tDN8rGr36XbwKdiQrwstq"
+    },
+    {
+      "album": {
         "name": "caso s\u00e9rio",
         "url": "https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49"
       },
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170745,
       "name": "Madeira Podre",
       "url": "https://open.spotify.com/track/04u6VBGapS47se7G685IZZ"
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208235,
       "name": "NO FUNDO ME IMPORTO",
       "url": "https://open.spotify.com/track/30AQgaI2sH71GQDq1F8xHM"
@@ -7177,6 +7195,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Lob\u00e3o (Deluxe)",
+        "url": "https://open.spotify.com/album/5QqrIMQ4D52VLMP7pYBs2G"
+      },
+      "artists": [
+        {
+          "name": "Lob\u00e3o",
+          "url": "https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Que L\u00edngua Falo Eu",
+      "url": "https://open.spotify.com/track/2kQPQGayBHqN4Vf83fRYiV"
+    },
+    {
+      "album": {
         "name": "Essa Pele Marcada 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ifnWoZvptdA7UhwHr3lcu"
       },
@@ -8196,7 +8232,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185647,
       "name": "S\u00f3 Mais Essa Noite",
       "url": "https://open.spotify.com/track/7KI90ezWkHeTmhQ8qZWb8x"

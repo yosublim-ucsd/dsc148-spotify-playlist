@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels in India\. Cover: Pakshee, Artwork: Isu Kim
 
-1,290 songs - 3 day 2 hr 54 min
+1,291 songs - 3 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Floating](https://open.spotify.com/track/3G5m7fql0Jwi3JN6ynnVvv) | [Parishrut](https://open.spotify.com/artist/4Hd0VhGuqw4ZSgddvbG7JR), [Nitish](https://open.spotify.com/artist/55tcwLWNvRbE8cHxNAKP16) | [Floating](https://open.spotify.com/album/3gjacm9ZANowio3OGeivoK) | 4:35 | 2023-04-19 | 2024-01-11 |
 | [Floating](https://open.spotify.com/track/15ucMcZh5GAGcjHxbH3X9S) | [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Floating](https://open.spotify.com/album/5ODZqLN8RmaQTNskfgHksz) | 2:22 | 2023-08-09 | 2023-11-10 |
 | [Flora's Song](https://open.spotify.com/track/72oGL1kpiXgnbipVlYeWAb) | [Gatha](https://open.spotify.com/artist/010FK25JoVsN1fr5iudnjv), [Anirudh Varma](https://open.spotify.com/artist/5xTBaD2l30cX83451FAlTj), [Shrikant Biswakarma](https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh) | [Flora's Song](https://open.spotify.com/album/7MlApqUlJmf5PZOEfi2Tf4) | 3:35 | 2022-07-06 | 2022-10-27 |
+| [Flow](https://open.spotify.com/track/5V2pcYUJTC7wL6RjV4eKl4) | [Zaee](https://open.spotify.com/artist/2ZX97Jn37J8G1o3CTynG7q) | [Flow](https://open.spotify.com/album/6q492OlZkYWUHGDXvvR9z0) | 5:15 | 2024-07-18 |  |
 | [Follow](https://open.spotify.com/track/6OMe7jkWaQfeFyA615fBwt) | [Evad](https://open.spotify.com/artist/3Iy3TyaYm299ikOzmoY9IM) | [Follow](https://open.spotify.com/album/53GqA96D9FEmbYoT6nMZMg) | 3:30 | 2021-12-01 | 2022-01-13 |
 | [Fool](https://open.spotify.com/track/5O1UrPyKQayGYjOh3Bqk02) | [Emmanuel de Noronha](https://open.spotify.com/artist/3J1hosqEpkb9vErEztPRhy) | [Fool](https://open.spotify.com/album/2VxnsQeLfYSRPwe48roi4W) | 3:54 | 2023-01-11 | 2023-04-06 |
 | [Fool's Gold](https://open.spotify.com/track/4rLIYo4sOLG22eFApqap92) | [Cana Nongkhlaw](https://open.spotify.com/artist/6ufQ7tUpZmW2aaxo8KtdnC) | [Meet Me in Gaḏ\-Šmānê](https://open.spotify.com/album/3Boa6cSmG2o8jK9a3EMVkG) | 3:27 | 2024-01-17 | 2024-02-29 |
@@ -619,7 +620,7 @@
 | [Khushiyo Ke Geet](https://open.spotify.com/track/5Wnp5EwUGhQJjV8RSPqB5T) | [Khushnuma Panchi](https://open.spotify.com/artist/1uJ2OBo04Gtr2cqWCv9wXI), [Funk Central](https://open.spotify.com/artist/50CIqCGCzUFsFuQEC2pe84) | [Khushiyo Ke Geet](https://open.spotify.com/album/7Gq0WEalVZylBnQnJ7YvRy) | 3:05 | 2023-06-07 | 2023-08-31 |
 | [Khwaab](https://open.spotify.com/track/1YJq89N77yQgRvj0G6MrJA) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/2PRCggR93Z1vhDfnN286nd) | 3:51 | 2024-01-10 | 2024-01-25 |
 | [Khwaab](https://open.spotify.com/track/4QtKkUfSG2DBOTkwg4Ljd8) | [Pramod Tripathi](https://open.spotify.com/artist/1IlujbcWuUJGx86NIfLYUB), [Vinod Bhatt](https://open.spotify.com/artist/10gbEnDL62XnxGr7Qg5qdo), [Kritika Swarnkar](https://open.spotify.com/artist/09dW4KNTqEHTq0rLxQi3Mv) | [Khwaab](https://open.spotify.com/album/1GDGBioIBq0haGk4Bv6dZ3) | 3:51 | 2023-11-08 | 2024-01-20 |
-| [Khwaab](https://open.spotify.com/track/5h4CXOs7DtvJtdgjWYQv0r) | [Shishir](https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220) | [Khwaab](https://open.spotify.com/album/2VcAAPhShjliEi7gUZswQf) | 2:09 | 2024-05-08 |  |
+| [Khwaab](https://open.spotify.com/track/5h4CXOs7DtvJtdgjWYQv0r) | [Shishir](https://open.spotify.com/artist/6yVDprBf66s5n9yf2hQ220) | [Khwaab](https://open.spotify.com/album/2VcAAPhShjliEi7gUZswQf) | 2:09 | 2024-05-08 | 2024-07-19 |
 | [Khwaab](https://open.spotify.com/track/7xOogdepAEsl16t7TFSJwA) | [The Lost Symbols](https://open.spotify.com/artist/5ABVMc7CPQJ9RZHoBFuXpa) | [The Diary](https://open.spotify.com/album/7DdCtXE6CQGdDXXbBXoin1) | 4:08 | 2021-12-01 | 2022-01-13 |
 | [Khwaabon](https://open.spotify.com/track/4uP0X4Q6RpUlQpbLwVpZAC) | [Tarunbir Singh](https://open.spotify.com/artist/2wwqslo97YMueTazwgelvF) | [Khwaabon](https://open.spotify.com/album/5yE1nDkkSq6v1ZCBp5C882) | 2:46 | 2022-01-26 | 2022-03-10 |
 | [Khwabeeda](https://open.spotify.com/track/0KYi5TeGogDdCn8vugRrWe) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Kashish Arora](https://open.spotify.com/artist/5yfyHnsMvzX94k918Zxke1) | [Khwabeeda](https://open.spotify.com/album/6Ij85YqSQryryQyWZ94DID) | 3:23 | 2024-04-03 | 2024-05-09 |

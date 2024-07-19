@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Avril Jensen
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,287 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,298 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [nowhere to be found](https://open.spotify.com/track/3kp4slLJYxaKUrQsKJqu8y) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [nowhere to be found](https://open.spotify.com/album/7Md72T44krozhp9I3kk0Vb) | 4:24 |
 | 2 | [Virer nos vies](https://open.spotify.com/track/3xxhsgtji7JHYpcNNJAiF7) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Virer nos vies](https://open.spotify.com/album/4tMZrp8Xm64cRqRtWoqHQh) | 4:50 |
-| 3 | [spooky](https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [spooky](https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz) | 4:40 |
-| 4 | [Quiet Drumming](https://open.spotify.com/track/6cQFcJKmUqUaUbzrUUbZt9) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Quiet Drumming](https://open.spotify.com/album/7ugDyWHsB733De841rzlfp) | 3:05 |
-| 5 | [Son Mad](https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Son Mad](https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG) | 2:07 |
-| 6 | [Depuis Marseille](https://open.spotify.com/track/5zeaJWVCjplq3uLSrcMP1S) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:15 |
-| 7 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
-| 8 | [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 |
-| 9 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
-| 10 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 |
-| 11 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
-| 12 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
-| 13 | [Mile End](https://open.spotify.com/track/7mg1XnDX6ymHC8RDa87sBi) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Mile End](https://open.spotify.com/album/1n01MB9o6KL92Qvk3m3HFS) | 3:13 |
-| 14 | [Poupée russe](https://open.spotify.com/track/3h2CXZ3Ax0kLDbUZTv2mSa) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn), [Corail](https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr) | [Tu me vois comme je suis](https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv) | 2:46 |
-| 15 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 |
-| 16 | [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 |
-| 17 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 |
-| 18 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 |
+| 3 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 |
+| 4 | [C.A.Y.A.](https://open.spotify.com/track/7wjCwar4rj6o6lV2mkJa1C) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [C.A.Y.A.](https://open.spotify.com/album/6qrqhBw1tIGreA43JGQ3P3) | 3:42 |
+| 5 | [La terre](https://open.spotify.com/track/1fZAMXWeyVafyabbEtjRBL) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:21 |
+| 6 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
+| 7 | [spooky](https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [spooky](https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz) | 4:40 |
+| 8 | [Quiet Drumming](https://open.spotify.com/track/6cQFcJKmUqUaUbzrUUbZt9) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Quiet Drumming](https://open.spotify.com/album/7ugDyWHsB733De841rzlfp) | 3:05 |
+| 9 | [Son Mad](https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Son Mad](https://open.spotify.com/album/5ofh151AVkCnjXPaxDPGyG) | 2:07 |
+| 10 | [Depuis Marseille](https://open.spotify.com/track/5zeaJWVCjplq3uLSrcMP1S) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:15 |
+| 11 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 |
+| 12 | [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 |
+| 13 | [Arène](https://open.spotify.com/track/2XM74PW22MJ6vEGruNXHjD) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Arène](https://open.spotify.com/album/3isZboZjEieVd3j5DqYNQp) | 3:05 |
+| 14 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 |
+| 15 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
+| 16 | [Overwhelmed and Unprepared](https://open.spotify.com/track/606sltm751n1JmCxI0UN9s) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Overwhelmed and Unprepared](https://open.spotify.com/album/7HDAhvEuglhFQXLeSZJCjh) | 5:34 |
+| 17 | [Mile End](https://open.spotify.com/track/7mg1XnDX6ymHC8RDa87sBi) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Mile End](https://open.spotify.com/album/1n01MB9o6KL92Qvk3m3HFS) | 3:13 |
+| 18 | [Poupée russe](https://open.spotify.com/track/3h2CXZ3Ax0kLDbUZTv2mSa) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn), [Corail](https://open.spotify.com/artist/6gBH7tdzTkIiWtVw8JCwzr) | [Tu me vois comme je suis](https://open.spotify.com/album/0ENy8em7mPxpasIcTxnuSv) | 2:46 |
 | 19 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 |
 | 20 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 |
 | 21 | [Nausia](https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Nausia](https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB) | 1:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [<3 <\~je\~> 3>](https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK), [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [<3 <\~je\~> 3>](https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb) | 3:03 |
 | 100 | [Vague de Chaleur](https://open.spotify.com/track/7G4ZvyuqsdTGLiEpt9Nu0S) | [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa), [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Vague de Chaleur](https://open.spotify.com/album/15XpnxhRwPCR5wglfnPmtC) | 2:44 |
 
-Snapshot ID: `ZpCqQAAAAACS+P8RjRmO8jRW1zsXEjei`
+Snapshot ID: `ZpnkwAAAAABy3BWwePkwgRkMxZm8RTFK`

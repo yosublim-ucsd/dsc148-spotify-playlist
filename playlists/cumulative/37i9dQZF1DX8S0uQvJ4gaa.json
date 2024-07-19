@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Dasha",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Avery Anna",
   "name": "New Boots",
   "tracks": [
     {
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183477,
       "name": "Arkansas Diamond",
       "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217533,
       "name": "Bat Outta Hell - With a Boat on the Back",
       "url": "https://open.spotify.com/track/1lAMQ8VFcCUhnd8VtL2G9p"
@@ -6227,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Country Classic (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/5unOxlH6I2wlFThxVhjJ3T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175367,
+      "name": "Country Classic (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/58xxG8eWElqDvoDDKFPKNc"
+    },
+    {
+      "album": {
         "name": "Country Does",
         "url": "https://open.spotify.com/album/5pWBnxbb1Y2FdSaFjvrxrE"
       },
@@ -6684,6 +6702,24 @@
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
+    },
+    {
+      "album": {
+        "name": "Cozy",
+        "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217123,
+      "name": "Cozy",
+      "url": "https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY"
     },
     {
       "album": {
@@ -7244,6 +7280,24 @@
       "duration_ms": 167333,
       "name": "Daylight Savings",
       "url": "https://open.spotify.com/track/4MQ3oCdmDXeXizWdYxdPM3"
+    },
+    {
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
     },
     {
       "album": {
@@ -8860,7 +8914,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
@@ -9430,7 +9484,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211688,
       "name": "Everything I Need",
       "url": "https://open.spotify.com/track/4IfMDVhKFMvKENVXbMJAW6"
@@ -9996,7 +10050,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172551,
       "name": "Fiddle in the Band",
       "url": "https://open.spotify.com/track/5hkViySAjn0tMhLocH7ukQ"
@@ -10819,6 +10873,24 @@
     },
     {
       "album": {
+        "name": "Free Like",
+        "url": "https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169114,
+      "name": "Free Like",
+      "url": "https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR"
+    },
+    {
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -11534,7 +11606,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 206773,
       "name": "girl next door",
       "url": "https://open.spotify.com/track/4bd1V7nlKSW0pN2W13pFue"
@@ -12851,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "Goodnight Into Good Morning",
+        "url": "https://open.spotify.com/album/2pcIsFiRHO0PG0rzBQNVyy"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Goodnight Into Good Morning",
+      "url": "https://open.spotify.com/track/5gG9NdRDVie8Ylxe0ZQ5DL"
+    },
+    {
+      "album": {
         "name": "Goodyears",
         "url": "https://open.spotify.com/album/7k6L1nBz2FQIyEnkvEhsSF"
       },
@@ -13592,6 +13682,24 @@
       "duration_ms": 250333,
       "name": "Hard To Stay Mad At",
       "url": "https://open.spotify.com/track/1Y5a2JUuCmmNrjmCe8p0h5"
+    },
+    {
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180621,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
     },
     {
       "album": {
@@ -16858,6 +16966,24 @@
       "duration_ms": 204560,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/31KrrOzf8FgoTJa7djzdol"
+    },
+    {
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
     },
     {
       "album": {
@@ -20269,6 +20395,28 @@
     },
     {
       "album": {
+        "name": "Breakup Over Breakfast",
+        "url": "https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "lose you again (feat. parmalee)",
+      "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0kIZJEvojTW6esQ1whvKAq"
       },
@@ -20971,6 +21119,24 @@
     },
     {
       "album": {
+        "name": "Make It Count / Hillbilly Happy",
+        "url": "https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240453,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77"
+    },
+    {
+      "album": {
         "name": "Make It Look Easy",
         "url": "https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE"
       },
@@ -21310,7 +21476,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172607,
       "name": "Maxed Out",
       "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
@@ -22307,6 +22473,24 @@
     },
     {
       "album": {
+        "name": "Bruce County",
+        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Moonshines",
+      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "album": {
         "name": "Moose Knuckle Shuffle",
         "url": "https://open.spotify.com/album/16AOMoe3bSAHEXVAHagLn2"
       },
@@ -22358,6 +22542,24 @@
       "duration_ms": 154386,
       "name": "More Beer",
       "url": "https://open.spotify.com/track/4NmUNvMjX0LzztKePGtiC2"
+    },
+    {
+      "album": {
+        "name": "More Than A Prayer",
+        "url": "https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164089,
+      "name": "More Than A Prayer",
+      "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
     },
     {
       "album": {
@@ -27942,7 +28144,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178307,
       "name": "Sad Girl Summer",
       "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
@@ -30438,7 +30640,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 300800,
       "name": "Song While You're Away (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
@@ -34122,7 +34324,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186133,
       "name": "Thought You Were",
       "url": "https://open.spotify.com/track/4WZ87h5SBuHRWiRg5wLLr9"
@@ -34476,7 +34678,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"

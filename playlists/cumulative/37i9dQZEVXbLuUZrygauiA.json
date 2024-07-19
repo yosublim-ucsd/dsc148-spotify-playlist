@@ -7581,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Como Arte De Magia",
+        "url": "https://open.spotify.com/album/4Z5Iz5waJOh5cKhTluAcQf"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fugitiva De Mike Miramontes",
+          "url": "https://open.spotify.com/artist/20lftkHSXXaaNVpe3Y2W2J"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212769,
+      "name": "Como Arte De Magia",
+      "url": "https://open.spotify.com/track/0p43aYLdcW7iE50pNrs9x1"
+    },
+    {
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -15756,7 +15774,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
@@ -31438,7 +31456,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232205,
       "name": "RELOJ",
       "url": "https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK"
@@ -37972,7 +37990,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187000,
       "name": "TRR TAC TAC",
       "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
@@ -39386,7 +39404,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176470,
       "name": "Ve y Diles V2 - Remix",
       "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
@@ -40984,7 +41002,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 390545,
       "name": "WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo)",
       "url": "https://open.spotify.com/track/0W2pF7zyj9dwZVK1RoUyjh"

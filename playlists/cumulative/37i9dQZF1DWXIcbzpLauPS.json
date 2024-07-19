@@ -3046,7 +3046,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 223685,
       "name": "Cave",
       "url": "https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o"
@@ -7446,6 +7446,24 @@
       "duration_ms": 176120,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
+    },
+    {
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216834,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv"
     },
     {
       "album": {

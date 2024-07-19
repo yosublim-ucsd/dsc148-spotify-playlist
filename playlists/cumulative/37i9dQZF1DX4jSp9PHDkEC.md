@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-561 songs - 1 day 13 hr 51 min
+562 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 | 2023-01-17 |  |
 | [Fade Into You](https://open.spotify.com/track/2bjdtN4Ju1HcceRI7A7cq2) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Covers](https://open.spotify.com/album/0jwuOY0u0VJ283tDVW8gT1) | 4:44 | 2023-01-17 |  |
 | [Falling Ashes](https://open.spotify.com/track/4EocLlVV582YshaT7aXZxR) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 8:00 | 2023-01-17 | 2024-04-19 |
-| [Falling Ashes](https://open.spotify.com/track/6Zr0mt1HdVUwTEdMwqPXsC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 8:00 | 2023-01-17 | 2024-07-17 |
+| [Falling Ashes](https://open.spotify.com/track/6Zr0mt1HdVUwTEdMwqPXsC) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 8:00 | 2023-01-17 |  |
 | [Feels Like We're Dying](https://open.spotify.com/track/0IvaKmBYBLVcdP0Ft8Dwik) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Far Away](https://open.spotify.com/album/00Yc9nnL6ODCkfqC7iV9lq) | 3:05 | 2023-01-17 |  |
 | [Fell Apart](https://open.spotify.com/track/3hGS9sZkMm1yalQr76gcKd) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Fell Apart](https://open.spotify.com/album/6aUSwIj7mR3Z58gKG7rzHn) | 2:19 | 2023-01-17 |  |
 | [Felt](https://open.spotify.com/track/4ZYMSm3o3AO9U2fUPfrU6f) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Cloth](https://open.spotify.com/album/1wjACzJBtfygdPfQbTAwQi) | 3:58 | 2023-06-27 |  |
@@ -398,7 +398,7 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-01-17 | 2024-04-19 |
 | [Running Up That Hill](https://open.spotify.com/track/0hjIjq7plLZgCmyHRpj042) | [Alih Jey](https://open.spotify.com/artist/5mdcH0FX9YUTUv9PXlxhBa) | [Running Up That Hill](https://open.spotify.com/album/7JT4iABklvGFoSUwGaqzhf) | 4:11 | 2023-01-17 |  |
 | [Running Up That Hill \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 3:56 | 2023-01-17 |  |
-| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 |  |
+| [Rylan](https://open.spotify.com/track/18IyalmZGqUTwvZStMf7A1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/240Gfpkjr06NUT3zBYrwVN) | 3:43 | 2023-01-17 | 2024-07-19 |
 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Safe With Me](https://open.spotify.com/track/6JXNQLqk8iSHgHp4ag7498) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [From Gas to Solid / you are my friend](https://open.spotify.com/album/0jDK15E80QD5ekIOlqdY7h) | 3:17 | 2023-01-17 | 2024-04-19 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-01-25 |  |
@@ -471,6 +471,7 @@
 | [symbol](https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:49 | 2023-01-17 | 2024-04-19 |
 | [Så underbart va livet](https://open.spotify.com/track/71xSjJ6oetHOJGgPQ3w7Hd) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Så underbart va livet](https://open.spotify.com/album/36WeZkOeskn3yg5ZhSflyG) | 2:58 | 2023-01-17 |  |
 | [Take Care](https://open.spotify.com/track/2Ru2ARMNAATgPDL0aSDFCU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Take Care / Free](https://open.spotify.com/album/2nrATXMypuyOxHEljlvdSw) | 3:55 | 2023-01-17 |  |
+| [Taste The Air](https://open.spotify.com/track/5Oz8EVkTWIMHxpPIPsnHki) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:29 | 2024-07-18 |  |
 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 | 2023-01-17 |  |
 | [Text](https://open.spotify.com/track/0EQ49caw3QiM3O9VlK0U8I) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/08Me110eu0eX0hbt3fHGUt) | 5:25 | 2023-01-17 | 2023-09-21 |
 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 | 2023-01-17 | 2024-04-19 |
@@ -490,7 +491,7 @@
 | [The Moon Song \- Film Version](https://open.spotify.com/track/2tr9JHGOa5ZRar7IedAiQc) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 1:50 | 2023-01-17 | 2024-04-19 |
 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 | 2024-02-02 |  |
 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 | 2023-10-23 |  |
-| [The Season \(2019 Remaster\)](https://open.spotify.com/track/7kHEc7NXboTK83qevUsDTT) | [Ela Orleans](https://open.spotify.com/artist/6Dn4zuoJoLzVic5rgUseWq) | [Movies for Ears: An Introduction to Ela Orleans](https://open.spotify.com/album/4QAtYuYiKw26eFt0L3LrE8) | 3:45 | 2023-01-17 |  |
+| [The Season \(2019 Remaster\)](https://open.spotify.com/track/7kHEc7NXboTK83qevUsDTT) | [Ela Orleans](https://open.spotify.com/artist/6Dn4zuoJoLzVic5rgUseWq) | [Movies for Ears: An Introduction to Ela Orleans](https://open.spotify.com/album/4QAtYuYiKw26eFt0L3LrE8) | 3:45 | 2023-01-17 | 2024-07-19 |
 | [The Temporary](https://open.spotify.com/track/5g5dwJD6zwXG81LRdEsnQr) | [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [The Temporary](https://open.spotify.com/album/35DJXdGQltqXFuqVc4t22L) | 3:39 | 2023-01-17 |  |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2023-01-17 |  |
 | [There Are Many Ways To Say I Love You](https://open.spotify.com/track/2ri9tsDyJP6KDbesWMjJet) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [There Are Many Ways To Say I Love You](https://open.spotify.com/album/6dAKhFmWO8tnIAWsYGVN3P) | 2:02 | 2023-01-17 |  |

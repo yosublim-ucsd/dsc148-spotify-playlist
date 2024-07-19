@@ -1,12 +1,12 @@
 {
-  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 63123,
-  "original_name": "This Is Ice Spice",
+  "description": "This Is Ice Spice. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
+  "num_followers": 63226,
+  "original_name": "\u0627\u06cc\u0646 Ice Spice \u0627\u0633\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACHSwmBmvAtR5WP5xob+CmU",
+  "snapshot_id": "ZpcJgAAAAACWrX1jb+0uiknd1LSZ7Gk6",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Ha Mood",
+        "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129360,
+      "name": "In Ha Mood",
+      "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fisherrr (Remix)",
         "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
       },
@@ -231,26 +247,6 @@
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137907,
-      "name": "Pretty Girl (with Rema)",
-      "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
     },
     {
       "added_at": null,
@@ -445,6 +441,6 @@
       "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     }
   ],
-  "unique_name": "This Is Ice Spice",
+  "unique_name": "\u0627\u06cc\u0646 Ice Spice \u0627\u0633\u062a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ckaZO"
 }

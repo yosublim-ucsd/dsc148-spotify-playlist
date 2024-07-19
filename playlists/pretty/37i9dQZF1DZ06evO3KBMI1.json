@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 70946,
+  "num_followers": 70970,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAB6IviW4ul8NCPjVIFKMTXV",
+  "snapshot_id": "ZpcJgAAAAAApcuQt+p/1pTPdJI4OqiqU",
   "tracks": [
     {
       "added_at": null,
@@ -451,18 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "\u6765\u9ce5\u6c5f",
+        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
       "artists": [
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "\u5c71\u7530\u5b5d\u4e4b",
+          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
+        },
+        {
+          "name": "Aiemu",
+          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
         }
       ],
-      "duration_ms": 270173,
-      "name": "\u30af\u30aa\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+      "duration_ms": 219200,
+      "name": "\u6765\u9ce5\u6c5f",
+      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
     },
     {
       "added_at": null,
@@ -499,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6765\u9ce5\u6c5f",
-        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        },
-        {
-          "name": "\u5c71\u7530\u5b5d\u4e4b",
-          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
-        },
-        {
-          "name": "Aiemu",
-          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "\u6765\u9ce5\u6c5f",
-      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
     },
     {
       "added_at": null,

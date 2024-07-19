@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7115,
+  "num_followers": 7118,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADJTjGNF1p4sQqeHCbXXxgw",
+  "snapshot_id": "ZpcJgAAAAACrU3ypkSW1EYw6usYAXKfQ",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 158928,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
+      "duration_ms": 205080,
+      "name": "Brinquito",
+      "url": "https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Brinquito",
-      "url": "https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR"
+      "duration_ms": 158928,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157760,
-      "name": "No Hay Vacante",
-      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
+      "duration_ms": 171003,
+      "name": "Prendido A Un Sentimiento",
+      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 171003,
-      "name": "Prendido A Un Sentimiento",
-      "url": "https://open.spotify.com/track/0yqxtxTyNSvhx4P8klBWw0"
+      "duration_ms": 157760,
+      "name": "No Hay Vacante",
+      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
     },
     {
       "added_at": null,

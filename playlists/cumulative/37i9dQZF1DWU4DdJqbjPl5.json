@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  Tay Iwar and Le Mav",
+  "description": "The smoothest Afro R&B out right now. Cover:  Victony",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182656,
       "name": "All Good",
       "url": "https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5"
@@ -5795,6 +5795,24 @@
     },
     {
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+    },
+    {
+      "album": {
         "name": "Risk (feat. Moliy)",
         "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
       },
@@ -6068,7 +6086,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190344,
       "name": "Sarafina",
       "url": "https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3"
@@ -7800,6 +7818,28 @@
       "duration_ms": 218160,
       "name": "Your Dream",
       "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"
+    },
+    {
+      "album": {
+        "name": "Son of Chike",
+        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167717,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"
     },
     {
       "album": {

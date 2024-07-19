@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "D&C",
+        "url": "https://open.spotify.com/album/7KiywL1LIwTqd1UgVZfMei"
+      },
+      "artists": [
+        {
+          "name": "c0kebaby torii",
+          "url": "https://open.spotify.com/artist/1AFLKdrbGPlFroEDrR17yH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "D&C",
+      "url": "https://open.spotify.com/track/0zTjGbep4yFSFBnWpzgKw9"
+    },
+    {
+      "album": {
         "name": "Dalawa",
         "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
       },
@@ -1146,6 +1164,24 @@
       "duration_ms": 223000,
       "name": "Drunk Instead",
       "url": "https://open.spotify.com/track/1gdps8vCFs6MOk0pJTlf9j"
+    },
+    {
+      "album": {
+        "name": "EL CHAPO",
+        "url": "https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "EL CHAPO",
+      "url": "https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr"
     },
     {
       "album": {
@@ -1890,7 +1926,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187821,
       "name": "Iingatan Kita (feat. Nik Makino)",
       "url": "https://open.spotify.com/track/5EoLhi1fO5bj7CtAHCwoOJ"
@@ -2617,6 +2653,28 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/7oP0RAy1yQcj4HqX6eTOXL"
+      },
+      "artists": [
+        {
+          "name": "Rajondo",
+          "url": "https://open.spotify.com/artist/73jNV0uIKmFFvNK7SQ3RXu"
+        },
+        {
+          "name": "S3AN",
+          "url": "https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0VrigBxBqXXHARYZiunFe0"
+    },
+    {
+      "album": {
         "name": "LIME",
         "url": "https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS"
       },
@@ -2918,7 +2976,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
@@ -4062,7 +4120,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
@@ -4900,7 +4958,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177711,
       "name": "Tied",
       "url": "https://open.spotify.com/track/4w4AciHOoooypyBGTwMqu5"

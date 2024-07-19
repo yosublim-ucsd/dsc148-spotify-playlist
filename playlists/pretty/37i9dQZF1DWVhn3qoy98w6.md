@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Korashe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,203 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,208 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 35 | [Pues no mires!](https://open.spotify.com/track/2cnXAstDfIRYl3e57Bv6Hh) | [Pegaso no Vuela](https://open.spotify.com/artist/60miCJvKpkNkVPwpqkOjNj) | [Pues no mires!](https://open.spotify.com/album/6G4zEvHFo05CIaa3y8hw2X) | 3:01 |
 | 36 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
 | 37 | [El Futuro Es Brillante](https://open.spotify.com/track/5mZ6fTZm2sP40u3RiJSISH) | [Crisanteemos](https://open.spotify.com/artist/5fnsTf0SjdGWD2rQspbyBX) | [El Futuro Es Brillante](https://open.spotify.com/album/2VsmFErUzf97AJiqV4ogmj) | 2:14 |
-| 38 | [Vacaciones Koh Phanghan](https://open.spotify.com/track/6NMqRlCSDtAr2xkE1ae32K) | [Bendiciones Buenas Noches](https://open.spotify.com/artist/31ZQepB9UybmqbzRXxZiN7) | [Vacaciones Koh Phanghan](https://open.spotify.com/album/0KGNhtXVsoe45CMtyXk14A) | 2:13 |
+| 38 | [Vacaciones Koh Phangan](https://open.spotify.com/track/6NMqRlCSDtAr2xkE1ae32K) | [Bendiciones Buenas Noches](https://open.spotify.com/artist/31ZQepB9UybmqbzRXxZiN7) | [Vacaciones Koh Phangan](https://open.spotify.com/album/0KGNhtXVsoe45CMtyXk14A) | 2:13 |
 | 39 | [Cuando Brille El Sol](https://open.spotify.com/track/5lsTpCn03jd7CMqy2p3lCi) | [Danny Mars](https://open.spotify.com/artist/0R4ffd8q1jqEiIM9vyeQDh) | [Cuando Brille El Sol](https://open.spotify.com/album/5IYToHCEGb4xRA14Hv8ocd) | 3:22 |
 | 40 | [PRISA](https://open.spotify.com/track/7zGe0MVp29j9obMKEQr3Sc) | [NEURA](https://open.spotify.com/artist/6rVCgRt8lSRSfx4CLaiKrU) | [22:22](https://open.spotify.com/album/56cePvGRMcDWoHkOgVQmuu) | 3:24 |
 | 41 | [Macho alfa](https://open.spotify.com/track/31ZySeDNyhRnNx2pwfDL0p) | [Crisisgrado](https://open.spotify.com/artist/1k5fxkKGfCf2Eb7rpjMIt6) | [Macho alfa](https://open.spotify.com/album/6yYUKxIKqCXTh6s13Wl9FQ) | 3:36 |

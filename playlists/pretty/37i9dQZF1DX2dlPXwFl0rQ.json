@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Kim Loa\u00edza en portada.",
-  "num_followers": 106378,
+  "num_followers": 106456,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Chamba",
-        "url": "https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 163335,
-      "name": "La Chamba",
-      "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "La Chamba",
+        "url": "https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 163335,
+      "name": "La Chamba",
+      "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "CONCIERTO HUMILDE - IVONNE GALAZ (En Vivo)",
-        "url": "https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Golpes De La Vida - En Vivo",
-      "url": "https://open.spotify.com/track/0uNH4uvqBHZi4g5aw2Dj6G"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Quer\u00eda Que Fueras T\u00fa",
         "url": "https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mala Fe (Live Sessions)",
-        "url": "https://open.spotify.com/album/3amfWdguN5khOTKCaFMd6i"
+        "name": "CONCIERTO HUMILDE - IVONNE GALAZ (En Vivo)",
+        "url": "https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m"
       },
       "artists": [
         {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
         }
       ],
-      "duration_ms": 219146,
-      "name": "Mala Fe - Live Sessions",
-      "url": "https://open.spotify.com/track/3aa9ZRz4HxbFbqDM2Qlt9i"
+      "duration_ms": 218500,
+      "name": "Golpes De La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0uNH4uvqBHZi4g5aw2Dj6G"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mala Fe (Live Sessions)",
+        "url": "https://open.spotify.com/album/3amfWdguN5khOTKCaFMd6i"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Mala Fe - Live Sessions",
+      "url": "https://open.spotify.com/track/3aa9ZRz4HxbFbqDM2Qlt9i"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 215893,
       "name": "Yo No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Las Noches",
+        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 133909,
+      "name": "Las Noches",
+      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1299,38 +1315,6 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1351,18 +1335,34 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Las Noches",
-        "url": "https://open.spotify.com/album/77b67zkABlkeckYY9DYcmZ"
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
         }
       ],
-      "duration_ms": 133909,
-      "name": "Las Noches",
-      "url": "https://open.spotify.com/track/5R4Qx8nAWFbJKudNi6flkB"
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1399,6 +1399,22 @@
       "duration_ms": 154000,
       "name": "Lo Dijiste Todo - En Vivo",
       "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
         }
       ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1515,34 +1531,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
+        "name": "Cherry Mo\u00ebt",
+        "url": "https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B"
       },
       "artists": [
         {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+      "duration_ms": 148951,
+      "name": "Cherry Mo\u00ebt",
+      "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1563,34 +1563,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Cherry Mo\u00ebt",
-        "url": "https://open.spotify.com/album/7eC6nc8QoI2GBtGLYfcR4B"
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 148951,
-      "name": "Cherry Mo\u00ebt",
-      "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Tu \"Nada Que Ver\"",
         "url": "https://open.spotify.com/album/1kb2qHM5RE5fgYloTnvHZR"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 132821,
       "name": "Tu \"Nada Que Ver\"",
       "url": "https://open.spotify.com/track/29ctf3WZfDsoJj56YcxaaK"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "No te quiebres Vidrio (En Vivo)",
+        "url": "https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 223813,
+      "name": "Sin Valor - En Vivo",
+      "url": "https://open.spotify.com/track/3rbvj7ze4RtxgasRobBk9X"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 128686,
+  "num_followers": 128740,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAB823/FVmzbuuOHyMVTkuBQ",
+  "snapshot_id": "ZpcJgAAAAADS9h0B3ECRvTdikErglzQ+",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacrament (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 215240,
       "name": "Descending",
       "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 286906,
-      "name": "The Undertow",
-      "url": "https://open.spotify.com/track/659HIjo4YGCavNiVEgqBtI"
+      "duration_ms": 190533,
+      "name": "Purified",
+      "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
     }
   ],
   "unique_name": "This Is Lamb of God",

@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover:Windwaker
 
-952 songs - 2 day 11 hr 13 min
+953 songs - 2 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 |  |
 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 | 2024-07-12 |  |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
-| [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 |  |
+| [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 | 2024-07-19 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-07-13 | 2022-07-23 |
 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-27 |  |
 | [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-10-27 | 2024-04-19 |
@@ -404,6 +404,7 @@
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-02-11 | 2022-07-23 |
 | [Hangfire](https://open.spotify.com/track/3cYqU2pWI7VvoTX1PeKX94) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Hangfire](https://open.spotify.com/album/2C7Caj4q2ImxfS717oEZYC) | 3:15 | 2022-05-06 | 2023-01-21 |
 | [Hangman](https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Hangman](https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l) | 2:56 | 2022-07-13 | 2022-07-23 |
+| [HAPPY](https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv) | [Tropic Gold](https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP) | [HAPPY](https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6) | 3:36 | 2024-07-12 |  |
 | [Hard To Live \- feat\. David Benites](https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN), [Renesans](https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr) | [Hard To Live \(feat\. David Benites\)](https://open.spotify.com/album/7fD4DbcPl9tL5m8FJEDJfo) | 4:00 | 2024-01-12 |  |
 | [Hate Circuit](https://open.spotify.com/track/1Lgzq8H9gDsesfv4yAMCn7) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Hate Circuit](https://open.spotify.com/album/4OsVDHkWGn0zJrosvqLdJ3) | 4:55 | 2022-07-13 | 2022-07-15 |
 | [Heads Up](https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Heads Up](https://open.spotify.com/album/5kiO6eG6N0MGbzIs0pMwUf) | 2:56 | 2021-12-17 | 2022-04-09 |

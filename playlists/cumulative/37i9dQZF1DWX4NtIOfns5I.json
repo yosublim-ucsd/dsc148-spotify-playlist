@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
       },
@@ -4297,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Taste The Dirt",
+        "url": "https://open.spotify.com/album/5SFkvjzqD5QmOARqp1MIDm"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176931,
+      "name": "Taste The Dirt",
+      "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
+    },
+    {
+      "album": {
         "name": "Tequila or Whiskey",
         "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
       },
@@ -4568,6 +4604,24 @@
       "duration_ms": 282253,
       "name": "The Trek",
       "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+    },
+    {
+      "album": {
+        "name": "the warmth",
+        "url": "https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270934,
+      "name": "the warmth",
+      "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
     },
     {
       "album": {
@@ -5160,6 +5214,24 @@
       "duration_ms": 221571,
       "name": "Willows",
       "url": "https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A"
+    },
+    {
+      "album": {
+        "name": "Second Dinner",
+        "url": "https://open.spotify.com/album/00RY3jnU6ElMOxJR7AasY7"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247814,
+      "name": "Wimbledon White",
+      "url": "https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq"
     },
     {
       "album": {

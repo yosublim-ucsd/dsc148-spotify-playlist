@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Paula Biskup",
+  "description": "nasze brzmienie \u2728 Cover: Julia Po\u015bnik",
   "name": "gen z ",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155121,
       "name": "Adoruje",
       "url": "https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148153,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi"
@@ -186,6 +186,24 @@
       "duration_ms": 160142,
       "name": "Bez szans",
       "url": "https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk"
+    },
+    {
+      "album": {
+        "name": "Beze mnie",
+        "url": "https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147970,
+      "name": "Beze mnie",
+      "url": "https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f"
     },
     {
       "album": {
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181547,
       "name": "B\u0142\u0119kitny",
       "url": "https://open.spotify.com/track/4jW0731ILmf1ajLq0liBVb"
@@ -366,10 +384,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144600,
       "name": "ch\u0142opcy",
       "url": "https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4"
+    },
+    {
+      "album": {
+        "name": "Clean girl era",
+        "url": "https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE"
+      },
+      "artists": [
+        {
+          "name": "Klaudia",
+          "url": "https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "Clean girl era",
+      "url": "https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B"
     },
     {
       "album": {
@@ -490,6 +526,24 @@
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
+    },
+    {
+      "album": {
+        "name": "Instalacja I",
+        "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Dwa Tygodnie",
+      "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
     },
     {
       "album": {
@@ -747,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Jak si\u0119 trzymasz?",
+        "url": "https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153642,
+      "name": "Jak si\u0119 trzymasz?",
+      "url": "https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3"
+    },
+    {
+      "album": {
         "name": "jutro b\u0119dzie furtk\u0105",
         "url": "https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES"
       },
@@ -866,7 +938,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170322,
       "name": "Kolejny Marzec",
       "url": "https://open.spotify.com/track/5GWUjRd631GZnTXftVudEJ"
@@ -906,6 +978,24 @@
       "duration_ms": 208000,
       "name": "Ko\u0142o mnie",
       "url": "https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR"
+    },
+    {
+      "album": {
+        "name": "Kr\u00f3lowa i Kr\u00f3l",
+        "url": "https://open.spotify.com/album/48gfoj9ZDGraMyTKJHLCzD"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "Kr\u00f3lowa i Kr\u00f3l",
+      "url": "https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr"
     },
     {
       "album": {
@@ -1000,7 +1090,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176030,
       "name": "Mam Gorszy Dzie\u0144",
       "url": "https://open.spotify.com/track/1KAE9P6fQawIUNOyrgeFAG"
@@ -1026,6 +1116,24 @@
       "duration_ms": 178961,
       "name": "Mama",
       "url": "https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc"
+    },
+    {
+      "album": {
+        "name": "MAZZY STAR",
+        "url": "https://open.spotify.com/album/3EXUZm3KoRRZBccd8kyuno"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "MAZZY STAR",
+      "url": "https://open.spotify.com/track/6X3KI73fpy5JXkfzElB89D"
     },
     {
       "album": {
@@ -1200,7 +1308,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174705,
       "name": "Najd\u0142u\u017cszy Dzie\u0144 w Tym Roku",
       "url": "https://open.spotify.com/track/2p9Lo0e233bxNmbeJMA9Ey"
@@ -1320,7 +1428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163460,
       "name": "Nie ze mn\u0105",
       "url": "https://open.spotify.com/track/6faAGWMBcX76s25R8QxDwf"
@@ -1345,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "NIE ZNASZ JEJ (Acoustic)",
+        "url": "https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "NIE ZNASZ JEJ - Acoustic",
+      "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
+    },
+    {
+      "album": {
         "name": "Niebezpiecznie mi",
         "url": "https://open.spotify.com/album/4kC9nmSSW6BlPKI06bD23F"
       },
@@ -1356,7 +1482,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 256000,
       "name": "Niebezpiecznie mi",
       "url": "https://open.spotify.com/track/5xi57gTzYxZ7LuSR5FglaT"
@@ -1791,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Skarbie",
+        "url": "https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "Skarbie",
+      "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
+    },
+    {
+      "album": {
         "name": "STOP!!",
         "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
       },
@@ -1827,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Szach i mat",
+        "url": "https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160561,
+      "name": "Szach i mat",
+      "url": "https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV"
+    },
+    {
+      "album": {
         "name": "Szcz\u0119\u015bliwa Wina",
         "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
       },
@@ -1856,10 +2018,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217536,
       "name": "Sztorm",
       "url": "https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ"
+    },
+    {
+      "album": {
+        "name": "Tak widz\u0119 nas (za 20 lat)",
+        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Tak widz\u0119 nas (za 20 lat)",
+      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
     },
     {
       "album": {
@@ -1896,7 +2076,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171453,
       "name": "Tch\u00f3rz",
       "url": "https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh"
@@ -1954,6 +2134,24 @@
       "duration_ms": 118899,
       "name": "Tylko na moment",
       "url": "https://open.spotify.com/track/1EjWpkR2JATl6hgQyOPwsO"
+    },
+    {
+      "album": {
+        "name": "Upadki i wzloty",
+        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Upadki i wzloty",
+      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
     },
     {
       "album": {
@@ -2159,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "zero dwa",
+        "url": "https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv"
+      },
+      "artists": [
+        {
+          "name": "pik pik",
+          "url": "https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY"
+        },
+        {
+          "name": "Marianna Matyja",
+          "url": "https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248828,
+      "name": "zero dwa",
+      "url": "https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA"
+    },
+    {
+      "album": {
         "name": "zimny dzie\u0144",
         "url": "https://open.spotify.com/album/5hX0TIgitm0kVNwgLOrL6x"
       },
@@ -2170,7 +2390,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177818,
       "name": "zimny dzie\u0144",
       "url": "https://open.spotify.com/track/2pEaRv3Qbc1UzuJF0pMJfU"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: NIJJAR",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Prem Dhillon",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 128666,
       "name": "8500",
       "url": "https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7"
@@ -1901,6 +1901,32 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150816,
+      "name": "CREDENTIALS",
+      "url": "https://open.spotify.com/track/5Iv2d84UF1HkkkPGmI1Dvf"
+    },
+    {
+      "album": {
         "name": "Da Boyz",
         "url": "https://open.spotify.com/album/1fT7lCZ3sfwNWDe6nSXKrD"
       },
@@ -2068,6 +2094,32 @@
       "duration_ms": 175483,
       "name": "Darshan",
       "url": "https://open.spotify.com/track/2RBjJILwiZVMNngEJPY4xx"
+    },
+    {
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155953,
+      "name": "DASS JATTA",
+      "url": "https://open.spotify.com/track/7040CjemGFRjCvVzVEwa6R"
     },
     {
       "album": {
@@ -2452,7 +2504,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 136774,
       "name": "East West",
       "url": "https://open.spotify.com/track/0ixZI5oa9PYpRxu8h1F8tS"
@@ -4720,7 +4772,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202285,
       "name": "Kami Peshi",
       "url": "https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK"
@@ -6114,7 +6166,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222163,
       "name": "No Fucx Given",
       "url": "https://open.spotify.com/track/1d5Ov723H4HOGLxqR4YGI3"
@@ -6982,6 +7034,28 @@
       "duration_ms": 147433,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/2ffcSt4PuNL0OFCCXF3yUi"
+    },
+    {
+      "album": {
+        "name": "BREAKING THROUGH",
+        "url": "https://open.spotify.com/album/3HJg9Q7qns6Ww8ucPlX2pM"
+      },
+      "artists": [
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146742,
+      "name": "Rollie",
+      "url": "https://open.spotify.com/track/0saDGGBSayvyvRZzTNnFH5"
     },
     {
       "album": {
@@ -7971,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/47YygO6MjnSuTHMtjwgTq8"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/3eaGXw6pkICedCu6Cboru7"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/35i1684oJSMw8QeaWbe0fC"
       },
@@ -8354,7 +8446,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193031,
       "name": "Tryna",
       "url": "https://open.spotify.com/track/07MVHWeQ4Tl1IpHp6gnMvd"
@@ -8669,6 +8761,28 @@
     },
     {
       "album": {
+        "name": "Wake Up Call",
+        "url": "https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Gill Madhipuriya",
+          "url": "https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225319,
+      "name": "Wake Up Call",
+      "url": "https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7"
+    },
+    {
+      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/3kGwZQ8qm6h9UJkzUszAI8"
       },
@@ -8768,7 +8882,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145714,
       "name": "We Different",
       "url": "https://open.spotify.com/track/0NUFlsE6MRFRc0qJs2ljPB"
@@ -9036,6 +9150,24 @@
       "duration_ms": 161739,
       "name": "Whose Like Me?",
       "url": "https://open.spotify.com/track/5lll5binzbUZayl3Mejxah"
+    },
+    {
+      "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/7IeZKQU7qIA2tB8E5ZeYuy"
+      },
+      "artists": [
+        {
+          "name": "Deep Singh",
+          "url": "https://open.spotify.com/artist/33bwEJnCqMs0HR2TLqeD9i"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232207,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/0fbUmoAjzKTOY96pBh6j5b"
     },
     {
       "album": {

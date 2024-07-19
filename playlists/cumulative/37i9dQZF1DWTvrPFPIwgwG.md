@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
 
-209 songs - 17 hr 41 min
+210 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Entra no Fogo](https://open.spotify.com/track/2b7TmLYYCG505jb3lCt7Rx) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Tarcísio Galldino](https://open.spotify.com/artist/6niwEMdTSjiZU4qSWeWxhU), [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Entra no Fogo](https://open.spotify.com/album/69Vu7Fi13FBhoIxIUWELUR) | 3:50 | 2023-08-04 | 2023-08-19 |
 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 | 2022-09-09 | 2022-12-24 |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2022-09-09 | 2024-04-19 |
-| [Escritor](https://open.spotify.com/track/2QPX1gpC92egbfmzafcews) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/213nER0CqSexF70yAhNSrQ) | 4:49 | 2023-12-22 |  |
+| [Escritor](https://open.spotify.com/track/2QPX1gpC92egbfmzafcews) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/213nER0CqSexF70yAhNSrQ) | 4:49 | 2023-12-22 | 2024-07-19 |
 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 | 2023-04-21 |  |
 | [Estou de Pé](https://open.spotify.com/track/74n8diqoZCaOrE4cPjH7bv) | [Virginia Arruda](https://open.spotify.com/artist/5RUMApncGMcAxDhgg7akQa), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Estou de Pé](https://open.spotify.com/album/5zjKOh7uyhzm5KmWIwoFFK) | 3:59 | 2023-05-05 | 2023-05-13 |
 | [Estou Entrando em Ação](https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Estou Entrando em Ação](https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR) | 3:55 | 2023-10-20 |  |
@@ -95,6 +95,7 @@
 | [Grande](https://open.spotify.com/track/6uDf8TrXboC8PccWi3yBVs) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Grande](https://open.spotify.com/album/63H3tYsb3b3PffcXmYFnLI) | 4:13 | 2022-10-15 | 2023-01-14 |
 | [Hoje é Vida](https://open.spotify.com/track/3lUX2uBmpCepp0QTdeFTAG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Hoje é Vida](https://open.spotify.com/album/3j9FyWqK7nEfCv7AjPz40D) | 4:10 | 2023-02-25 | 2023-03-25 |
 | [Honra e Majestade](https://open.spotify.com/track/3c3WGvlLkuyiGasRYtpmcb) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Honra e Majestade](https://open.spotify.com/album/1w9UfJt9RVidusHkONwScP) | 4:24 | 2023-08-18 | 2023-09-09 |
+| [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 | 2024-07-19 |  |
 | [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 | 2022-09-09 |  |
 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 | 2022-09-09 | 2023-10-07 |
 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/45cx88GPBhNOCBILzmaqlG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/2PNKFZgtc4rveEuXYYMIDj) | 4:56 | 2023-10-06 | 2023-11-04 |

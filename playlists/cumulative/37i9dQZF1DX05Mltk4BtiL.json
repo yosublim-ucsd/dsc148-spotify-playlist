@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nur tote Fische schwimmen mit dem Strom. Cover: H.i.T.",
+  "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
   "name": "Gegen den Strom",
   "tracks": [
     {
@@ -41,6 +41,42 @@
     },
     {
       "album": {
+        "name": "ACHTZEHN",
+        "url": "https://open.spotify.com/album/3zwaxGqEETqmBNB9EesAQp"
+      },
+      "artists": [
+        {
+          "name": "Die Nerven",
+          "url": "https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "ACHTZEHN",
+      "url": "https://open.spotify.com/track/1uJCVzTykSdfzHdMPv9A45"
+    },
+    {
+      "album": {
+        "name": "All meine Angst",
+        "url": "https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk"
+      },
+      "artists": [
+        {
+          "name": "vian",
+          "url": "https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137826,
+      "name": "All meine Angst",
+      "url": "https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l"
+    },
+    {
+      "album": {
         "name": "sammlung 2 / soft floor",
         "url": "https://open.spotify.com/album/0Z1ngCwNQz24Sj03nuxHPi"
       },
@@ -52,7 +88,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187833,
       "name": "am erdbeerstrand",
       "url": "https://open.spotify.com/track/5BIIpsBXnIQmrVa66nnUmI"
@@ -476,7 +512,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 274306,
       "name": "Ich seh den Horizont",
       "url": "https://open.spotify.com/track/6tmUcR5KSO26u2DFVsMx5y"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 191047,
       "name": "Kiosk",
       "url": "https://open.spotify.com/track/7CEkdB7LQ3aLA630TcsB6h"
@@ -808,10 +844,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187501,
       "name": "Naja, geht so",
       "url": "https://open.spotify.com/track/0zCcadCOSGHjomAlAun1mQ"
+    },
+    {
+      "album": {
+        "name": "Nazis erschiessen",
+        "url": "https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171926,
+      "name": "Nazis erschiessen",
+      "url": "https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130"
     },
     {
       "album": {
@@ -870,6 +924,24 @@
       "duration_ms": 219946,
       "name": "Pirdutu cori",
       "url": "https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8"
+    },
+    {
+      "album": {
+        "name": "R\u00f6merweg",
+        "url": "https://open.spotify.com/album/7htDhSYgy6jVR2mIzOgpVm"
+      },
+      "artists": [
+        {
+          "name": "SIND",
+          "url": "https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216275,
+      "name": "R\u00f6merweg",
+      "url": "https://open.spotify.com/track/4272Pj5VmTVbPMTMwDd0zo"
     },
     {
       "album": {

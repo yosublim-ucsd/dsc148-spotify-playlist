@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Seba Alfaro.",
-  "num_followers": 25572,
+  "num_followers": 25578,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,38 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "PENAS",
+        "url": "https://open.spotify.com/album/3kegSKPC7gclmtLeGYnwLT"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        },
+        {
+          "name": "China Zorrilla",
+          "url": "https://open.spotify.com/artist/2aSahoP3FxlVsa6vkLm95t"
+        },
+        {
+          "name": "Emiliano Y El Zurdo",
+          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
+        },
+        {
+          "name": "El Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
+        },
+        {
+          "name": "La Guardia Vieja",
+          "url": "https://open.spotify.com/artist/4OpXDwLjNG3oxz4uo9KfaG"
+        }
+      ],
+      "duration_ms": 226543,
+      "name": "PENAS",
+      "url": "https://open.spotify.com/track/63joaviht0iheSEokFFzgV"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Nace una Madre",
         "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
       },
@@ -871,38 +903,6 @@
       "duration_ms": 198653,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "PENAS",
-        "url": "https://open.spotify.com/album/3kegSKPC7gclmtLeGYnwLT"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        },
-        {
-          "name": "China Zorrilla",
-          "url": "https://open.spotify.com/artist/2aSahoP3FxlVsa6vkLm95t"
-        },
-        {
-          "name": "Emiliano Y El Zurdo",
-          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
-        },
-        {
-          "name": "El Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
-        },
-        {
-          "name": "La Guardia Vieja",
-          "url": "https://open.spotify.com/artist/4OpXDwLjNG3oxz4uo9KfaG"
-        }
-      ],
-      "duration_ms": 226543,
-      "name": "PENAS",
-      "url": "https://open.spotify.com/track/63joaviht0iheSEokFFzgV"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "LIBRE",
-        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 206803,
-      "name": "Todo lo que puedo darte",
-      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Los Ancestros",
-        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Los Ancestros",
-      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "OTRX",
         "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Los Ancestros",
+        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Los Ancestros",
+      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Ojos De Fuego",
         "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
       },
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "As\u00ed Sea",
-        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 216766,
-      "name": "As\u00ed Sea",
-      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 185431,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "As\u00ed Sea",
+        "url": "https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 216766,
+      "name": "As\u00ed Sea",
+      "url": "https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Volc\u00e1n",
-        "url": "https://open.spotify.com/album/0n0iQz8aCLM6Xod7ApHddr"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Ya no sigo esperando por ti",
         "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Canta a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/0n0iQz8aCLM6Xod7ApHddr"
       },
       "artists": [
         {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Paloma quiero contarte",
-      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
+      "duration_ms": 184062,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "Esperarte",
         "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 205266,
       "name": "Esperarte",
       "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Podr\u00eda Ser",
         "url": "https://open.spotify.com/album/1VXacXfFyc0IrqBPHaC76V"
       },
@@ -1579,30 +1579,6 @@
       "duration_ms": 206458,
       "name": "Podr\u00eda Ser",
       "url": "https://open.spotify.com/track/71zKKPiAt3saVxhaMAwvdf"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Me Late",
-        "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
-      },
-      "artists": [
-        {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        },
-        {
-          "name": "Camil\u00fa",
-          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
-        },
-        {
-          "name": "La Mare",
-          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
-        }
-      ],
-      "duration_ms": 206737,
-      "name": "Me Late",
-      "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1635,6 +1611,30 @@
       "duration_ms": 282114,
       "name": "Tonada de Luna Llena",
       "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Me Late",
+        "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
+      },
+      "artists": [
+        {
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "La Mare",
+          "url": "https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja"
+        }
+      ],
+      "duration_ms": 206737,
+      "name": "Me Late",
+      "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
-      },
-      "artists": [
-        {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
-        }
-      ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/76csASXSjCjWAFGT0p4BUS"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 178139,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0OXWX6Ftyyi5XTrF4ddd1k"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1811,6 +1811,26 @@
       "duration_ms": 205899,
       "name": "Uruguay",
       "url": "https://open.spotify.com/track/08dK54u6Fx2tJH9fq6iTBA"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1855,26 +1875,6 @@
       "duration_ms": 242892,
       "name": "Viaje Interior",
       "url": "https://open.spotify.com/track/7JGSQWcyyA8jSlU6EPbV0q"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
-        }
-      ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2024-07-12 03:00:00",

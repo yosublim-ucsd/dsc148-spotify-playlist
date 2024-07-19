@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
@@ -9629,6 +9629,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30f4\u30a1\u30fc\u30b5\u30eb",
+        "url": "https://open.spotify.com/album/37wkQtmvTJDL8BVg5U0N5Q"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "\u30ea\u30f4\u30a1\u30fc\u30b5\u30eb",
+      "url": "https://open.spotify.com/track/0VoJIaSLuqLoNLcSn378M9"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK"
       },
@@ -10902,7 +10920,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 269000,
       "name": "\u660e\u3051\u661f",
       "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
@@ -12087,6 +12105,24 @@
     },
     {
       "album": {
+        "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245019,
+      "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc"
+    },
+    {
+      "album": {
         "name": "\u7d46",
         "url": "https://open.spotify.com/album/7hvCBa8WqMgHMyAv57mXma"
       },
@@ -12376,7 +12412,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 275614,
       "name": "\u82b1\u306e\u5854",
       "url": "https://open.spotify.com/track/1yt4wO7dKCwsfjch8SN9aU"
@@ -12434,6 +12470,24 @@
       "duration_ms": 237760,
       "name": "\u83eb",
       "url": "https://open.spotify.com/track/6AGNrkx4zIxmr9mhtps0J6"
+    },
+    {
+      "album": {
+        "name": "\u857e",
+        "url": "https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193012,
+      "name": "\u857e",
+      "url": "https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI"
     },
     {
       "album": {

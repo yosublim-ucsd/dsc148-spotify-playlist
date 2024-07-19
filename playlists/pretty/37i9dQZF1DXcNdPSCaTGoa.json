@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW?si=Mz0GoCLoQ7-LwD95Qaea4A\">AKA's</a> phenomenal \"LEVELS\".",
-  "num_followers": 63804,
+  "num_followers": 63857,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 262826,
       "name": "Mambotjie (feat. 2Shot)",
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2024-06-28 06:57:16",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-06-28 06:57:16",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
+    },
+    {
+      "added_at": "2024-06-28 06:57:16",
+      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 317760,
       "name": "Sana Luma (Thats The Way Love Is)",
       "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
-    },
-    {
-      "added_at": "2024-06-28 06:57:16",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2024-06-28 06:57:16",

@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
@@ -2374,6 +2374,24 @@
       "duration_ms": 178800,
       "name": "Divine Mascis",
       "url": "https://open.spotify.com/track/721ryYSmfV8wNzOCroPdCQ"
+    },
+    {
+      "album": {
+        "name": "Do Angels Sing Like Rain?",
+        "url": "https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306197,
+      "name": "Do Angels Sing Like Rain?",
+      "url": "https://open.spotify.com/track/0u3s6lOQUPphFLrDCuLZU4"
     },
     {
       "album": {
@@ -5297,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/55jmCHsBbMM9zU77upSurX"
+      },
+      "artists": [
+        {
+          "name": "Bluemore",
+          "url": "https://open.spotify.com/artist/75dtyO5RVT24cMXih0hui6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264705,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5NeA8xmTZ7dEScvk5cc50c"
+    },
+    {
+      "album": {
         "name": "Let It Rain",
         "url": "https://open.spotify.com/album/411K9uONbXWDxo9aEgEyE0"
       },
@@ -5662,7 +5698,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176495,
       "name": "LOVE U ANYWAY",
       "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
@@ -7093,6 +7129,28 @@
     },
     {
       "album": {
+        "name": "Paralyzed (feat. Attack Attack!)",
+        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212310,
+      "name": "Paralyzed (feat. Attack Attack!)",
+      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne"
       },
@@ -8118,7 +8176,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 300100,
       "name": "Shark-Shark",
       "url": "https://open.spotify.com/track/7rZk0wXj9bWeozbcTmBhaJ"

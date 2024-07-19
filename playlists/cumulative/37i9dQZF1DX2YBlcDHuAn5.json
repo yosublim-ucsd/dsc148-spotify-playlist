@@ -949,6 +949,28 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        },
+        {
+          "name": "Sophia",
+          "url": "https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214186,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
+    },
+    {
+      "album": {
         "name": "Country Coming Down",
         "url": "https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR"
       },
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 288544,
       "name": "I Wish You Were Still Here",
       "url": "https://open.spotify.com/track/2vhyQgkYXAftqcJXd4wEz3"
@@ -1188,6 +1210,24 @@
       "duration_ms": 229386,
       "name": "I'll Wait Till You're Really Gone",
       "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/2Ppz3Hw0YEXsKuC5PCisjT"
+      },
+      "artists": [
+        {
+          "name": "Jana Mila",
+          "url": "https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/3ff9CeRsa0eIyVqHwcmUSi"
     },
     {
       "album": {
@@ -1466,7 +1506,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 262286,
       "name": "Love to See You Cry",
       "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
@@ -1578,6 +1618,24 @@
       "duration_ms": 336904,
       "name": "Nighttime Walk",
       "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+    },
+    {
+      "album": {
+        "name": "Nothing Can Hurt Me Today",
+        "url": "https://open.spotify.com/album/1u2dRTYzBBiuPszo2LZfV2"
+      },
+      "artists": [
+        {
+          "name": "Nomden",
+          "url": "https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Nothing Can Hurt Me Today",
+      "url": "https://open.spotify.com/track/3SaDPZcQByxcTCRVP5dwiE"
     },
     {
       "album": {

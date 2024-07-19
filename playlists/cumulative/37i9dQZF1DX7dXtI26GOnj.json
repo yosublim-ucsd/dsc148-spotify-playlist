@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "AFRO",
+        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "AFRO",
+      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
+    },
+    {
+      "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/7gq692anKJLGw10g8WUhCv"
       },
@@ -1119,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2tnZnrvRjcaRsdc2JTGKY6"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137131,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
+    },
+    {
+      "album": {
         "name": "Borracho",
         "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
       },
@@ -1504,7 +1544,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
@@ -2565,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Revisarte el Celular 2",
         "url": "https://open.spotify.com/album/1YdMNhKyN76nBdY1K8CeG5"
       },
@@ -2920,6 +2978,28 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
     },
     {
       "album": {
@@ -3598,7 +3678,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 151653,
       "name": "GTA.mp3",
       "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
@@ -3756,7 +3836,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -4586,7 +4666,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174044,
       "name": "LLYLM",
       "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
@@ -7195,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
+    {
+      "album": {
         "name": "SALVAJE",
         "url": "https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L"
       },
@@ -8402,7 +8500,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192746,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"

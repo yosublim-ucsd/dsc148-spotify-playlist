@@ -4,7 +4,7 @@
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-215 songs - 10 hr 47 min
+216 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/5kX8nmd7BDckyJQfNiORwQ) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:23 | 2022-04-15 |  |
 | [Hush Little Baby/Rock\-A\-Bye Baby \- Instrumental](https://open.spotify.com/track/41jXeGNqW4ogirMy8IJzzN) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:28 | 2022-04-15 |  |
 | [Hush, Little Baby](https://open.spotify.com/track/4Rctu4Z1guLTduopKPl1L0) | [Rick Schulman](https://open.spotify.com/artist/5toTIOdBS511bK9fc9eTjY) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:02 | 2022-05-23 |  |
+| [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Pixar](https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O) | 1:46 | 2024-07-19 |  |
 | [I See the Light](https://open.spotify.com/track/3Su94JQMs4BUAAldxFsWmY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 3:53 | 2022-04-15 |  |
 | [I Won't Say I'm in Love](https://open.spotify.com/track/2isQvtKEghXrIznabDgbyI) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 2:44 | 2022-04-15 |  |
 | [I'm A Star \- Orgel Version](https://open.spotify.com/track/3NC8FeVNia8lmjhbdGNo5L) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM Vol\. 2](https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn) | 4:04 | 2024-03-19 |  |

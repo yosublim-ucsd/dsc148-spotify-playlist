@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 662625,
+  "num_followers": 662727,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABIcQEpy2MBSEUN1IEMxLnT",
+  "snapshot_id": "ZpcJgAAAAACXgIBnhKuguovSdbi72XQm",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,30 @@
       "duration_ms": 342680,
       "name": "Like a Prayer",
       "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "added_at": null,
@@ -499,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
-      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": null,
@@ -535,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
       "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+      "duration_ms": 223773,
+      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
+      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
     },
     {
       "added_at": null,
@@ -611,6 +635,26 @@
       "duration_ms": 289560,
       "name": "Vogue - Edit",
       "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
+        }
+      ],
+      "duration_ms": 84560,
+      "name": "Your Little Body's Slowly Breaking Down",
+      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
     },
     {
       "added_at": null,
@@ -695,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Living For Love",
-      "url": "https://open.spotify.com/track/5AMuHsWAaGAZHX4p1KZWwc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -723,6 +751,26 @@
       "duration_ms": 335733,
       "name": "Don't Cry for Me Argentina",
       "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     },
     {
       "added_at": null,
@@ -763,46 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Bitch I'm Madonna",
-      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Jonathan Pryce",
-          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
-        }
-      ],
-      "duration_ms": 84560,
-      "name": "Your Little Body's Slowly Breaking Down",
-      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MDNA",
         "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
       },
@@ -835,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Madame X (Deluxe)",
+        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 298164,
+      "name": "Medell\u00edn (with Maluma)",
+      "url": "https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -847,26 +875,6 @@
       "duration_ms": 279480,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Madame X (Deluxe)",
-        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 245706,
-      "name": "Faz Gostoso (feat. Anitta)",
-      "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
     },
     {
       "added_at": null,
@@ -907,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Madame X (Deluxe)",
+        "url": "https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 245706,
+      "name": "Faz Gostoso (feat. Anitta)",
+      "url": "https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Life",
         "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
       },
@@ -919,22 +947,6 @@
       "duration_ms": 216026,
       "name": "Love Profusion",
       "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2tySjBBWqam7oaBUZ26oNL"
     }
   ],
   "unique_name": "This Is Madonna",

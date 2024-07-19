@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 219237,
+  "num_followers": 219532,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 322306,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 285626,
       "name": "Perfect Moment",
       "url": "https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Surrender (feat. Boney James)",
+      "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
         "name": "Chill Factor",
         "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
@@ -363,26 +383,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Butler",
-          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
-        },
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Surrender (feat. Boney James)",
-      "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
       },
@@ -395,26 +395,6 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Find Someone Like You",
-        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wall",
-          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
-        },
-        {
-          "name": "Umbaji",
-          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -447,6 +427,26 @@
       "duration_ms": 303106,
       "name": "Ocean Way",
       "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Find Someone Like You",
+        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+        },
+        {
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Grinnell Street",
-        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 235696,
-      "name": "Grinnell Street",
-      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Love's Melody",
         "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 320733,
       "name": "Midnight At The Oasis",
       "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Grinnell Street",
+        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 235696,
+      "name": "Grinnell Street",
+      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Next Journey",
-        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
-      },
-      "artists": [
-        {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Next Journey",
-      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Playin' Favorites",
         "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
+        "name": "Next Journey",
+        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
+      },
+      "artists": [
+        {
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Next Journey",
+      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
         "name": "Paks",
         "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 168888,
       "name": "Paks",
       "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -735,6 +719,22 @@
       "duration_ms": 255160,
       "name": "Can't Stop Now",
       "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 291226,
+      "name": "Miss Bane",
+      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 216144,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Miss Bane",
-      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -895,38 +895,6 @@
       "duration_ms": 279040,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Third Wish",
-        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Third Wish",
-      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -951,6 +919,38 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Third Wish",
+        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Third Wish",
+      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
         "name": "Divine Morning",
         "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 213813,
       "name": "Divine Morning",
       "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Big Dume",
-        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Big Dume",
-      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 280866,
       "name": "Lover For Life",
       "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+      },
+      "artists": [
+        {
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+        }
+      ],
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Jumpin' Off",
-        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+        "name": "Urban Knights III",
+        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 325800,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+      "duration_ms": 242333,
+      "name": "You're The One For Me",
+      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1135,18 +1135,34 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Urban Knights III",
-        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 242333,
-      "name": "You're The One For Me",
-      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 329346,
+      "name": "Rozil",
+      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 329346,
-      "name": "Rozil",
-      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 227328,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Little Tokyo",
+        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Little Tokyo",
+      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1255,22 +1271,6 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Little Tokyo",
-        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Little Tokyo",
-      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
         "name": "In The Moment",
         "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 305026,
       "name": "A Short Walk From Home",
       "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
-        "name": "Club 1600",
-        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
-      },
-      "artists": [
-        {
-          "name": "Club 1600",
-          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Club 1600",
+        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Club 1600",
+          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 283000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1471,6 +1455,22 @@
       "duration_ms": 245933,
       "name": "Kimi Trick",
       "url": "https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "High Pines",
-        "url": "https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2"
-      },
-      "artists": [
-        {
-          "name": "LYXOc",
-          "url": "https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc"
-        }
-      ],
-      "duration_ms": 187951,
-      "name": "High Pines",
-      "url": "https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI"
-    },
-    {
-      "added_at": "2024-07-09 07:41:36",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 213946,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy"
+    },
+    {
+      "added_at": "2024-07-09 07:41:36",
+      "album": {
+        "name": "High Pines",
+        "url": "https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2"
+      },
+      "artists": [
+        {
+          "name": "LYXOc",
+          "url": "https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "High Pines",
+      "url": "https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI"
     },
     {
       "added_at": "2024-07-09 07:41:36",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2024-07-09 07:41:36",
       "album": {
-        "name": "It's On Tonight",
-        "url": "https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK"
+        "name": "Paddock Club",
+        "url": "https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
         },
         {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
-      "duration_ms": 339826,
-      "name": "Secret Affair",
-      "url": "https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN"
+      "duration_ms": 172500,
+      "name": "Paddock Club",
+      "url": "https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

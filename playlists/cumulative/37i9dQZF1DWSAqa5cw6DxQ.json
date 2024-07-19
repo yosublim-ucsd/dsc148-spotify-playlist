@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Clear your mind with soothing new age guitar.",
+  "description": "Clear your mind with soothing acoustic guitar.",
   "name": "Meditative Guitar",
   "tracks": [
     {
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Cultivating Stillness",
+        "url": "https://open.spotify.com/album/2eyQMIw9DxLgA5w2DW5XSL"
+      },
+      "artists": [
+        {
+          "name": "Pale Blue",
+          "url": "https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218018,
+      "name": "Cultivating Stillness",
+      "url": "https://open.spotify.com/track/6aZri6iDNcBKWXaw2aI4Cg"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6"
       },
@@ -1071,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/6VeJTPvH1U28Ne2MCK3q1L"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z"
+    },
+    {
+      "album": {
         "name": "Green Hills",
         "url": "https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP"
       },
@@ -1431,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Lose The Distraction",
+        "url": "https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD"
+      },
+      "artists": [
+        {
+          "name": "Distant Waves",
+          "url": "https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235776,
+      "name": "Lose The Distraction",
+      "url": "https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3"
+    },
+    {
+      "album": {
         "name": "Lost in the Clouds",
         "url": "https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y"
       },
@@ -1662,6 +1716,24 @@
       "duration_ms": 149377,
       "name": "mise-en-sc\u00e8ne",
       "url": "https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR"
+    },
+    {
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/1RSr4sd0GB242jW8SBVsKU"
+      },
+      "artists": [
+        {
+          "name": "Treter",
+          "url": "https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188028,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/2SpM41iWJMke0PSIOJaT2M"
     },
     {
       "album": {
@@ -1935,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Peaceful sleep",
+        "url": "https://open.spotify.com/album/6pIQMrj2AlmRnyKKfZklGw"
+      },
+      "artists": [
+        {
+          "name": "Samaneh Awad",
+          "url": "https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166025,
+      "name": "Peaceful sleep",
+      "url": "https://open.spotify.com/track/3bIqCk16VWZqDiubS3ah4Q"
+    },
+    {
+      "album": {
         "name": "Pendulum Crystal",
         "url": "https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla"
       },
@@ -2112,7 +2202,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169374,
       "name": "Remember Rain",
       "url": "https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A"
@@ -2130,7 +2220,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157458,
       "name": "Remote Places",
       "url": "https://open.spotify.com/track/7pUg1QenmwMXo5APv9NyE9"

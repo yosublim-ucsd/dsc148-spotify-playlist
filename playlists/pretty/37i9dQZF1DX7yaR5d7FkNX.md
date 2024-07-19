@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > ✨❤️🌹Para Rocanlovers en compañía de Technicolor Fabrics y Hello Seahorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,775 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,805 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

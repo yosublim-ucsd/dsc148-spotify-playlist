@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr?si=m8EM04C6T528tOXGfY6K-A\">Aidan Kade</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=2ilDMY2wR1mUg7PLZ05-Qg\">FATMAN</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "6es",
+        "url": "https://open.spotify.com/album/3j6wnSTKq6sAqLZ63pRIB8"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "6es",
+      "url": "https://open.spotify.com/track/0WXQJ5tlDigcQdHaPadeVU"
+    },
+    {
+      "album": {
         "name": "= Liefde",
         "url": "https://open.spotify.com/album/6N9D2MKfxMaxkQ6X01Ya3t"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210827,
       "name": "Aan 'n Stukkie Biltong",
       "url": "https://open.spotify.com/track/1j02cUt4Fb9Fel2lgicwbn"
@@ -540,9 +558,9 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-26",
+      "date_removed": null,
       "duration_ms": 240489,
-      "name": "Alleen",
+      "name": "Alleen (Remastered 2024)",
       "url": "https://open.spotify.com/track/08hdKoKg7ymwslkNzKTuC1"
     },
     {
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157356,
       "name": "Converse",
       "url": "https://open.spotify.com/track/2pJ03ZzcJs9dVl3bUbWbDC"
@@ -5625,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "Fluit Fluit",
+        "url": "https://open.spotify.com/album/58UjZ2vSoLn70HdR9oTQWc"
+      },
+      "artists": [
+        {
+          "name": "Jan-Mattys",
+          "url": "https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Fluit Fluit",
+      "url": "https://open.spotify.com/track/1XKSzBpnwfvZ0cPwICYXdR"
+    },
+    {
+      "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
@@ -5770,6 +5806,24 @@
       "duration_ms": 268005,
       "name": "Gee Dit Nou",
       "url": "https://open.spotify.com/track/0Nw5t44NEImj4JuXy5mjx0"
+    },
+    {
+      "album": {
+        "name": "Geen Vrede",
+        "url": "https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h"
+      },
+      "artists": [
+        {
+          "name": "Elsje du Toit",
+          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227766,
+      "name": "Geen Vrede",
+      "url": "https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo"
     },
     {
       "album": {
@@ -5968,6 +6022,24 @@
       "duration_ms": 208998,
       "name": "Glo",
       "url": "https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ"
+    },
+    {
+      "album": {
+        "name": "God se Gunsteling",
+        "url": "https://open.spotify.com/album/0iT5tOmkCYElxRBaIfKN8w"
+      },
+      "artists": [
+        {
+          "name": "Soms n Fantasie",
+          "url": "https://open.spotify.com/artist/1pXDy88BmrTN6mgIleWXe5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148015,
+      "name": "God se Gunsteling",
+      "url": "https://open.spotify.com/track/3wiwwkVqTrWvogAXZ4Jtou"
     },
     {
       "album": {
@@ -8065,6 +8137,24 @@
     },
     {
       "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "album": {
         "name": "Joune",
         "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
       },
@@ -8546,6 +8636,24 @@
       "duration_ms": 178734,
       "name": "Katools",
       "url": "https://open.spotify.com/track/65KoBppdhH9mNVqGzHqyRS"
+    },
+    {
+      "album": {
+        "name": "Katrientjie Katryn",
+        "url": "https://open.spotify.com/album/2WoDSMaGJJg3HfEma64Oe6"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269651,
+      "name": "Katrientjie Katryn",
+      "url": "https://open.spotify.com/track/4LoJ3FXtI4tWncjFSQRHH5"
     },
     {
       "album": {
@@ -9070,7 +9178,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222231,
       "name": "Koebaai aan my Hart",
       "url": "https://open.spotify.com/track/2rbsZ5fHjq81NpqWIPNMKj"
@@ -12286,7 +12394,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168970,
       "name": "Nie perfek nie",
       "url": "https://open.spotify.com/track/3lejvS3Qxg00HGlrd2d3Ob"
@@ -12402,7 +12510,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 167284,
       "name": "NMMSN",
       "url": "https://open.spotify.com/track/0P1lzZgTjASHsDYd4mKob9"
@@ -13282,6 +13390,24 @@
       "duration_ms": 178313,
       "name": "Oom Boetie S\u00ea Dit is \u0149 Meermin",
       "url": "https://open.spotify.com/track/45JMoOk5VQBHilVOmsSnXv"
+    },
+    {
+      "album": {
+        "name": "Oom Olifant",
+        "url": "https://open.spotify.com/album/2FtIctMfKxwFkrc0QfuqJV"
+      },
+      "artists": [
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230938,
+      "name": "Oom Olifant",
+      "url": "https://open.spotify.com/track/1ZN1EFaPbn7pKC6hn6WzfB"
     },
     {
       "album": {
@@ -17249,6 +17375,24 @@
     },
     {
       "album": {
+        "name": "Tot Tyd My Red",
+        "url": "https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234530,
+      "name": "Tot Tyd My Red",
+      "url": "https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk"
+    },
+    {
+      "album": {
         "name": "Transkei",
         "url": "https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm"
       },
@@ -18792,6 +18936,24 @@
       "duration_ms": 271826,
       "name": "Vry",
       "url": "https://open.spotify.com/track/2eWXGQdNAjWugn5YcXw5gU"
+    },
+    {
+      "album": {
+        "name": "VRY WIL ONS WEES",
+        "url": "https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo"
+      },
+      "artists": [
+        {
+          "name": "Jonah",
+          "url": "https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "VRY WIL ONS WEES",
+      "url": "https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY"
     },
     {
       "album": {

@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1BY5nBH8o0jS8QMr9EshCW"
+      },
+      "artists": [
+        {
+          "name": "Eon Weaver",
+          "url": "https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/4iOmGQQbhV8tunBS1y5yqT"
+    },
+    {
+      "album": {
         "name": "Tantra Drums",
         "url": "https://open.spotify.com/album/3ryPNMqfISbRxlAlrSuWb4"
       },
@@ -450,7 +468,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 281418,
       "name": "Egyptian Drums - Belly Dance",
       "url": "https://open.spotify.com/track/5spA168Sm4p8Xo4Vzo6cgV"
@@ -750,7 +768,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156795,
       "name": "Hollow Sphere",
       "url": "https://open.spotify.com/track/2QucioZmCDIoiteQwueRoQ"
@@ -945,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Lam Vibration",
+        "url": "https://open.spotify.com/album/0PNbcu3I16RScv0tSFh3ee"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151893,
+      "name": "Lam Vibration",
+      "url": "https://open.spotify.com/track/4sPUIital6e6OrxlKUTOgI"
+    },
+    {
+      "album": {
         "name": "Sonic Blue - Ambient Hang Music",
         "url": "https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5"
       },
@@ -1032,6 +1068,24 @@
       "duration_ms": 237122,
       "name": "Matin",
       "url": "https://open.spotify.com/track/6Pb1BFXQDLryvNw7KHSSxI"
+    },
+    {
+      "album": {
+        "name": "Meadow at Dawn",
+        "url": "https://open.spotify.com/album/6BZsYYiFe1uvqa3bumRoGR"
+      },
+      "artists": [
+        {
+          "name": "Eon Weaver",
+          "url": "https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Meadow at Dawn",
+      "url": "https://open.spotify.com/track/1w1OGgbQNq3rZLjYCL354s"
     },
     {
       "album": {
@@ -1328,6 +1382,24 @@
       "duration_ms": 282000,
       "name": "Powerfull Ra",
       "url": "https://open.spotify.com/track/0Ddy6MDY9iivXKPCX4EvDV"
+    },
+    {
+      "album": {
+        "name": "Puddles",
+        "url": "https://open.spotify.com/album/2t29gQrwKhC4ugQHGelet2"
+      },
+      "artists": [
+        {
+          "name": "Misted Minds",
+          "url": "https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Puddles",
+      "url": "https://open.spotify.com/track/1LSdqUTKdIyeOz8dARVOe9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 488721,
+  "num_followers": 488707,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 196224,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Do It Better (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 170045,
       "name": "Do It Better (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 196224,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK"
     },
     {
       "added_at": "2024-07-01 12:57:40",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
       },
@@ -1175,30 +1199,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/1JREEnrYGc7Df2GZt2am3v"
       },
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-07-01 12:57:40",
       "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
-    },
-    {
-      "added_at": "2024-07-01 12:57:40",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2024-07-01 12:57:40",
+      "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J"
     },
     {
       "added_at": "2024-07-01 12:57:40",

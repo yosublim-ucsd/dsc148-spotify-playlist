@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: salute",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Overmono",
   "name": "Altar JP",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226103,
       "name": "Babies",
       "url": "https://open.spotify.com/track/6Frcn5tjm500xmb3wCbKUx"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 254165,
       "name": "Blue Bird feat. Maika Loubt\u00e9 (Shinichi Osawa Remix)",
       "url": "https://open.spotify.com/track/0GbgR4OseI6D4nFr5HmXkW"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197910,
       "name": "Carry Your Name",
       "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
@@ -2014,6 +2014,24 @@
       "duration_ms": 162445,
       "name": "Cash",
       "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
+    },
+    {
+      "album": {
+        "name": "Casi O",
+        "url": "https://open.spotify.com/album/2g2iyYCMoBxfNOgmPYhwYb"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316615,
+      "name": "Casi O",
+      "url": "https://open.spotify.com/track/6DC9YYWou0fJha6MHhEXRl"
     },
     {
       "album": {
@@ -2273,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "CLASSIC THEME",
+        "url": "https://open.spotify.com/album/7HSmOjWAyiYmxsepO0pGdj"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364718,
+      "name": "CLASSIC THEME",
+      "url": "https://open.spotify.com/track/6FlIvNPC3qqjYs0CETp5YQ"
+    },
+    {
+      "album": {
         "name": "Click it!",
         "url": "https://open.spotify.com/album/0dZw8sETXvIJhQ9KtVmcVv"
       },
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194375,
       "name": "Conclusion",
       "url": "https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q"
@@ -3088,7 +3124,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 261176,
       "name": "Deepest Downtown",
       "url": "https://open.spotify.com/track/5UVCyNbXWh9UL6rlVIQnrP"
@@ -3545,6 +3581,36 @@
     },
     {
       "album": {
+        "name": "Don't Look Down (The Remixes)",
+        "url": "https://open.spotify.com/album/05iFeExSG1Ne2kD8hv8TMj"
+      },
+      "artists": [
+        {
+          "name": "Loota",
+          "url": "https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Double Clapperz",
+          "url": "https://open.spotify.com/artist/7tMpkHHGx888nBtdiDZ1Ql"
+        },
+        {
+          "name": "Big Animal Theory",
+          "url": "https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Don\u2019t Look Down - Double Clapperz & Big Animal Theory Remix",
+      "url": "https://open.spotify.com/track/3i1ZskLzDkvZdrXqwtwedX"
+    },
+    {
+      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/0NmrTfW2IqmZHflEEmX3gE"
       },
@@ -3658,6 +3724,28 @@
       "duration_ms": 147707,
       "name": "Drip Sweat (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223904,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2"
     },
     {
       "album": {
@@ -3862,6 +3950,28 @@
       "duration_ms": 216796,
       "name": "Ecstasy (Over & Over)",
       "url": "https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN"
+    },
+    {
+      "album": {
+        "name": "El Enamorao",
+        "url": "https://open.spotify.com/album/2Jj38P9dQHypdGOSaghKbf"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171403,
+      "name": "El Enamorao",
+      "url": "https://open.spotify.com/track/6F8SC3vTPi9Jh0ftYErL06"
     },
     {
       "album": {
@@ -5072,7 +5182,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/1bQVcgCiYPVqoYEc4JVJli"
@@ -5449,6 +5559,28 @@
     },
     {
       "album": {
+        "name": "Gem Lingo (ovr now)",
+        "url": "https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "Gem Lingo (ovr now)",
+      "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -5638,6 +5770,32 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "album": {
+        "name": "SNAKEGANG EP Volume 1",
+        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "SNAKEGANG",
+          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158174,
+      "name": "GLIMMER.",
+      "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
     },
     {
       "album": {
@@ -6114,7 +6272,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220007,
       "name": "Hide & Seek - Radio Mix",
       "url": "https://open.spotify.com/track/58l8zvfOGXK6hcK4BfOSmQ"
@@ -6878,7 +7036,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152679,
       "name": "If U Like Me - Edit",
       "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
@@ -9334,7 +9492,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
@@ -9614,6 +9772,24 @@
       "duration_ms": 205555,
       "name": "My Crew (feat. Flowdan)",
       "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
+    },
+    {
+      "album": {
+        "name": "Tanzanite EP",
+        "url": "https://open.spotify.com/album/5uAvwvOIcP7rWTzIWJhuxb"
+      },
+      "artists": [
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366204,
+      "name": "M\u2019bira",
+      "url": "https://open.spotify.com/track/4YbqO5hMlfDb4O7xtQYztL"
     },
     {
       "album": {
@@ -9965,6 +10141,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1ES331p0jHfsSykO8bsOmT"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348815,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2gRvo8CD3AhT3OoQ4Nx6ww"
+    },
+    {
+      "album": {
         "name": "Not As I",
         "url": "https://open.spotify.com/album/5wKDKY4fRArDdjibQgVANr"
       },
@@ -10060,6 +10254,28 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "album": {
+        "name": "Big Beat Manifesto Vol. IX",
+        "url": "https://open.spotify.com/album/1TRIYKdhcgoyVS8RsmIB8r"
+      },
+      "artists": [
+        {
+          "name": "Mayurashka",
+          "url": "https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf"
+        },
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339024,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6pbfREdpBbzdDYJrjD84BE"
     },
     {
       "album": {
@@ -10228,6 +10444,28 @@
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
+        "name": "One Thousand Waves",
+        "url": "https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "One Thousand Waves",
+      "url": "https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs"
     },
     {
       "album": {
@@ -11473,6 +11711,24 @@
     },
     {
       "album": {
+        "name": "Remember (Night Version)",
+        "url": "https://open.spotify.com/album/2MD65t9uHULvALbkyUgh13"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230004,
+      "name": "Remember - Night Version",
+      "url": "https://open.spotify.com/track/3yjdqDv0DVMryzP5pGnAdf"
+    },
+    {
+      "album": {
         "name": "Renda",
         "url": "https://open.spotify.com/album/2NRAXgIyuIyKLF3RPM7Qay"
       },
@@ -11784,6 +12040,24 @@
       "duration_ms": 217361,
       "name": "S Mobile",
       "url": "https://open.spotify.com/track/1MTfoBu9Iykc2ILePbWMR6"
+    },
+    {
+      "album": {
+        "name": "Sacred Iridescent Mirror (The Pledge) [Remixes]",
+        "url": "https://open.spotify.com/album/5KfaL7XXcnXAy4jKKYHCA2"
+      },
+      "artists": [
+        {
+          "name": "Jeff Mills",
+          "url": "https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315852,
+      "name": "Sacred Iridescent Mirror (The Pledge) - Undue Influence Mix",
+      "url": "https://open.spotify.com/track/2GYeXtmGcoyRdGYRKhhB7C"
     },
     {
       "album": {
@@ -12202,7 +12476,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194900,
       "name": "Shadows Pt. 3",
       "url": "https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD"
@@ -12290,6 +12564,32 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "Shimokitazawa",
+        "url": "https://open.spotify.com/album/3Tnk0ASjaXFF7KEZLFcy1E"
+      },
+      "artists": [
+        {
+          "name": "ONJUICY",
+          "url": "https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD"
+        },
+        {
+          "name": "nonomi",
+          "url": "https://open.spotify.com/artist/2onuupZLvWkcNaBBQPQX4O"
+        },
+        {
+          "name": "AKOSIA",
+          "url": "https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "Shimokitazawa",
+      "url": "https://open.spotify.com/track/6F3jsIBWDNr81wJaTEGJlK"
     },
     {
       "album": {
@@ -13106,7 +13406,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
@@ -13168,7 +13468,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 282600,
       "name": "Sun/Shade",
       "url": "https://open.spotify.com/track/0V2gIvf9zT4RzOnxYYQ7RA"
@@ -13426,7 +13726,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 298051,
       "name": "Tanzanite",
       "url": "https://open.spotify.com/track/1fgzoxderUvyuqqmo3ErYC"
@@ -15547,6 +15847,24 @@
     },
     {
       "album": {
+        "name": "What!?",
+        "url": "https://open.spotify.com/album/5QKcL9EI1T6aXgrMDtqaUv"
+      },
+      "artists": [
+        {
+          "name": "Jun Kamoda",
+          "url": "https://open.spotify.com/artist/2HPkBQMPtdjBbZkAeKTpLm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340909,
+      "name": "What!?",
+      "url": "https://open.spotify.com/track/3JWXtAlTwyFHAzRnvK7pSQ"
+    },
+    {
+      "album": {
         "name": "When Love Comes Around",
         "url": "https://open.spotify.com/album/4VJr97k8WorqpMTSdsxkjt"
       },
@@ -15754,7 +16072,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179624,
       "name": "wrkhall",
       "url": "https://open.spotify.com/track/7DcTgke7w8WuxIsXG0d1Od"

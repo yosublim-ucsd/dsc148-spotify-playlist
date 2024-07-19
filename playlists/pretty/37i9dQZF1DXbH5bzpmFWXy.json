@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Adriel Favela, Tito Double P, Juanchito en portada.",
-  "num_followers": 169186,
+  "num_followers": 169207,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
+      "duration_ms": 212861,
+      "name": "LA CHERRY",
+      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -547,22 +543,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "LA CHERRY",
-      "url": "https://open.spotify.com/track/2a8yglXvNw07OWu4lO2ByG"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 225480,
       "name": "GAVIL\u00c1N II",
       "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "ALVRGZO",
-        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "ALVRGZO",
-      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 198709,
       "name": "San Pedro",
       "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "ALVRGZO",
+        "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "ALVRGZO",
+      "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "ALV (Remix)",
         "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Gimme A Second",
-        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
       },
       "artists": [
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 173067,
-      "name": "Gimme A Second",
-      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
+      "duration_ms": 211904,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1127,22 +1107,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "LA 701",
-        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 164482,
-      "name": "LA 701",
-      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1167,6 +1147,26 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Koenigsegg",
-        "url": "https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65"
-      },
-      "artists": [
-        {
-          "name": "Brian Santin",
-          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186459,
-      "name": "Koenigsegg",
-      "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "La Caravana",
         "url": "https://open.spotify.com/album/0i9rS0UsC865Lk7kF2u9Bk"
       },
@@ -1547,22 +1527,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+        "name": "Koenigsegg",
+        "url": "https://open.spotify.com/album/2BCfKhmwimc5a0lhdRZN65"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+          "name": "Brian Santin",
+          "url": "https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx"
         },
         {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+      "duration_ms": 186459,
+      "name": "Koenigsegg",
+      "url": "https://open.spotify.com/track/3jZ24Jd8i5FNpePjYQy4ck"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1583,6 +1563,26 @@
       "duration_ms": 126300,
       "name": "Flore$",
       "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "La Baliniza",
+        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 106033,
+      "name": "La Baliniza",
+      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "UN SHOT",
         "url": "https://open.spotify.com/album/2jvXp1bCPloqmYullNXsye"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 202328,
       "name": "UN SHOT",
       "url": "https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "La Baliniza",
-        "url": "https://open.spotify.com/album/41P1oKDYfOHh5SaD9hPEmZ"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 106033,
-      "name": "La Baliniza",
-      "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Ching\u00f3n",
-        "url": "https://open.spotify.com/album/1oBeipMw9iwfMObRJv0s7J"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 226056,
-      "name": "Qu\u00e9 Ching\u00f3n",
-      "url": "https://open.spotify.com/track/6ZR45fP3eYsWcFFL0xEWoo"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Oye Cantinero",
         "url": "https://open.spotify.com/album/2HamJoEKIwTtCasZaQLiZx"
       },
@@ -1883,22 +1867,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "Es Mi Gusto",
-      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "2pa2 (Remix)",
         "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
       },
@@ -1919,6 +1887,54 @@
       "duration_ms": 214218,
       "name": "2pa2 (Remix)",
       "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Ching\u00f3n",
+        "url": "https://open.spotify.com/album/1oBeipMw9iwfMObRJv0s7J"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 226056,
+      "name": "Qu\u00e9 Ching\u00f3n",
+      "url": "https://open.spotify.com/track/6ZR45fP3eYsWcFFL0xEWoo"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 215132,
+      "name": "Es Mi Gusto",
+      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1955,22 +1971,6 @@
       "duration_ms": 126160,
       "name": "VIDA DE FAMOSO",
       "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-07-12 06:00:00",

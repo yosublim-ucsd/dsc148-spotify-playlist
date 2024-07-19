@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,327 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,114 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
 | 2 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 |
-| 3 | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 |
+| 3 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 |
 | 4 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 |
-| 5 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 |
+| 5 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 |
 | 6 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
-| 7 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 |
-| 8 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 7 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 8 | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 |
 | 9 | [Drippy](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Drippy](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 3:15 |
 | 10 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 11 | [Husn Irani \(From "Wild Wild Punjab"\)](https://open.spotify.com/track/1dtofX1SWzBue957rVJCim) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Happy Bains](https://open.spotify.com/artist/1YjsXzLXBx89tdTE22Bech) | [Husn Irani \(From "Wild Wild Punjab"\)](https://open.spotify.com/album/0Kfr6Ds5SreBfbLVhBl85h) | 2:59 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 |
 | 101 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
 
-Snapshot ID: `ZpX/FgAAAAB6MU1AhJZf5yK0aXWDuie5`
+Snapshot ID: `ZpoF1QAAAACvacLxAoJi9+FUyBU1OmvG`

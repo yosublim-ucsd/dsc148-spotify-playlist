@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "anhhhh",
+        "url": "https://open.spotify.com/album/6Tcg57GwuCQGWn7VhNvimZ"
+      },
+      "artists": [
+        {
+          "name": "Darlene",
+          "url": "https://open.spotify.com/artist/6HK18oNDj94UxuMdZRBzt2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "anhhhh",
+      "url": "https://open.spotify.com/track/4cxlXm4pr2mUANS1MGM4BR"
+    },
+    {
+      "album": {
         "name": "Anniverse",
         "url": "https://open.spotify.com/album/16E5aldZmJZYnCej4uf8kU"
       },
@@ -2864,6 +2882,28 @@
       "duration_ms": 180010,
       "name": "biet iu 1 nguoi",
       "url": "https://open.spotify.com/track/1g81KcA7tjoHug3WE9GhC5"
+    },
+    {
+      "album": {
+        "name": "BING CHILLING T\u00ccNH Y\u00caU",
+        "url": "https://open.spotify.com/album/4noxSNBEOHjnhSX5Wu1gUi"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/1Y0gKRCGK65KjhRU4CeDAn"
+        },
+        {
+          "name": "Hannie",
+          "url": "https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BING CHILLING T\u00ccNH Y\u00caU",
+      "url": "https://open.spotify.com/track/3tMMcCENIhDsTqXxK21Ewk"
     },
     {
       "album": {
@@ -4312,7 +4352,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208764,
       "name": "B\u1edbt C\u00f4ng K\u00edck \u0110i",
       "url": "https://open.spotify.com/track/0psxWB8Vj0O5Mod4HBzdzI"
@@ -6502,7 +6542,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181818,
       "name": "Ch\u1edd",
       "url": "https://open.spotify.com/track/1fniKXg00U0NFbxG0sLie2"
@@ -9814,10 +9854,6 @@
       },
       "artists": [
         {
-          "name": "\u0110\u1eb7ng Tu\u1ea5n V\u0169",
-          "url": "https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB"
-        },
-        {
           "name": "Uyenn",
           "url": "https://open.spotify.com/artist/14Hk06CVNkpu9cvTvUQivi"
         }
@@ -10868,7 +10904,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 237548,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3yltwdZq5Q5fwImzdLwp80"
@@ -12313,6 +12349,28 @@
     },
     {
       "album": {
+        "name": "love folder",
+        "url": "https://open.spotify.com/album/1I5zypo4MkoYF5aOjLvVfr"
+      },
+      "artists": [
+        {
+          "name": "iMAZE",
+          "url": "https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU"
+        },
+        {
+          "name": "lilstar",
+          "url": "https://open.spotify.com/artist/3QJdmqK5zQDhskKbeDME1s"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192432,
+      "name": "hay la minh thu yeu",
+      "url": "https://open.spotify.com/track/78aBGUUMYxMljHuHDRJIQd"
+    },
+    {
+      "album": {
         "name": "Hay L\u00e0 Em Gi\u1ea3 V\u1edd Th\u01b0\u01a1ng Anh \u0110i",
         "url": "https://open.spotify.com/album/008Nq0KZybbkOanFyiEvr0"
       },
@@ -12382,7 +12440,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188735,
       "name": "Hell No",
       "url": "https://open.spotify.com/track/4bZXtXtvj4CPvuorekvkBg"
@@ -15031,6 +15089,28 @@
     },
     {
       "album": {
+        "name": "Ko Say Ko V\u1ec1",
+        "url": "https://open.spotify.com/album/2yZuBURCnZMQObdyao95Iv"
+      },
+      "artists": [
+        {
+          "name": "Mai Phuong",
+          "url": "https://open.spotify.com/artist/5kWXs7szgtSXJ2100bG0DK"
+        },
+        {
+          "name": "Th\u00e1i S\u01a1n Beatbox",
+          "url": "https://open.spotify.com/artist/1N8SoolThBO0E3T8Acdu1K"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Ko Say Ko V\u1ec1",
+      "url": "https://open.spotify.com/track/04rzBSF6kyIolGh8TrA7qQ"
+    },
+    {
+      "album": {
         "name": "Ko s\u1ebfn",
         "url": "https://open.spotify.com/album/2dB8MvIvcMl6eu70EUk8vu"
       },
@@ -15732,7 +15812,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 256000,
       "name": "Li\u1ec1u Thu\u1ed1c",
       "url": "https://open.spotify.com/track/7JhLzH7oYHvCAxBXBp6GTZ"
@@ -17757,6 +17837,28 @@
     },
     {
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5YVItsqIeWahmGOnOei1nO"
+      },
+      "artists": [
+        {
+          "name": "Hustlang HBo",
+          "url": "https://open.spotify.com/artist/2itstf0djeNx1XIZ69k0go"
+        },
+        {
+          "name": "Hustlang Ralph",
+          "url": "https://open.spotify.com/artist/0WdZ6omDCSh31FJSy4CDGw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187812,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/6Jqpj2ZEj8MgunS0A9H3oF"
+    },
+    {
+      "album": {
         "name": "MUOITRENMUOI (10 Tr\u00ean 10)",
         "url": "https://open.spotify.com/album/70v8VN67hYK9FWz0k3eMnG"
       },
@@ -18573,6 +18675,28 @@
     },
     {
       "album": {
+        "name": "M\u01b0a H\u00e8 Th\u00e1ng B\u1ea3y",
+        "url": "https://open.spotify.com/album/1NZYEWNJmA8Lzjdkzlp8Mz"
+      },
+      "artists": [
+        {
+          "name": "T\u1ecdi",
+          "url": "https://open.spotify.com/artist/1aVkG16ZfTc5XJ9qP7ti7i"
+        },
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "M\u01b0a H\u00e8 Th\u00e1ng B\u1ea3y",
+      "url": "https://open.spotify.com/track/6tB3FtsJqgjL3EVK64UlG1"
+    },
+    {
+      "album": {
         "name": "M\u01b0\u1eddi T\u00e1m",
         "url": "https://open.spotify.com/album/6FkQ6GDk0acgrIVlJsFTu7"
       },
@@ -18858,7 +18982,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 264723,
       "name": "m\u1ed9t b\u00e0i nh\u1ea1c nh\u1ea3y",
       "url": "https://open.spotify.com/track/4Xdczz6aqIdLjrHroeoSUj"
@@ -28718,7 +28842,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203443,
       "name": "T\u00e0 L\u0103ng",
       "url": "https://open.spotify.com/track/0yMZUbhJg5OdEv4SCAfWq9"
@@ -32192,6 +32316,24 @@
       "duration_ms": 169600,
       "name": "Xink",
       "url": "https://open.spotify.com/track/24RAmn1bTmhTCsoOuCpAvF"
+    },
+    {
+      "album": {
+        "name": "Xoa K\u00ednh",
+        "url": "https://open.spotify.com/album/6T3NWMbGg4twQZEoL9VoR1"
+      },
+      "artists": [
+        {
+          "name": "Lil Tank",
+          "url": "https://open.spotify.com/artist/3GbeWpr0dLTCVo2szJ1I2a"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124133,
+      "name": "Xoa K\u00ednh",
+      "url": "https://open.spotify.com/track/5wLVQIHahx67AGs1XaAu5I"
     },
     {
       "album": {

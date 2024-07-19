@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125904,
+  "num_followers": 125896,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASt7xXw0hrw0TK37IDtcVApb9ybMbS",
+  "snapshot_id": "AAASuBlUSyiBsN9QAN1HUIez0jYlrxd0",
   "tracks": [
+    {
+      "added_at": "2024-07-18 14:24:50",
+      "album": {
+        "name": "What If I Stay",
+        "url": "https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4"
+      },
+      "artists": [
+        {
+          "name": "OVSKY",
+          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
+        }
+      ],
+      "duration_ms": 148656,
+      "name": "What If I Stay",
+      "url": "https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT"
+    },
     {
       "added_at": "2024-07-17 13:40:47",
       "album": {

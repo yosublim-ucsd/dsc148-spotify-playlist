@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 8 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 9 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 10 | [Tuka Tuka](https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Tuka Tuka](https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW) | 3:16 |
-| 11 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [MIRELA](https://open.spotify.com/artist/7poijwJbRfkRYLxylOdbJE) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
+| 11 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 | 12 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 |
 | 13 | [Къртиш](https://open.spotify.com/track/53ScG8sq3K6H9hN2aLCuwY) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Къртиш](https://open.spotify.com/album/0cBJUo5WptGrAar8JYzidh) | 3:27 |
 | 14 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ток по тялото](https://open.spotify.com/track/4LK3G3bxhj1OYcOdOvXmXp) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:05 |
 | 50 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 
-Snapshot ID: `LissmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lizb2AAAAAAAAAAAAAAAAAAAAAAAAGVu`

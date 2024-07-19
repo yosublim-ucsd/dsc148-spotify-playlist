@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: <a href="spotify:artist:0pjLiK5qb4Zr0PWRNkdd2o">Gatiher Vocal Band</a>
 
-150 songs - 9 hr 30 min
+151 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [God's Great](https://open.spotify.com/track/3puMAV6xXfHP818Vev0lIE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/75pbu099NctdUv2WkxdK1Y) | 3:51 | 2021-08-13 | 2024-07-04 |
 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 | 2021-08-13 | 2024-04-19 |
 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 | 2024-07-04 |  |
-| [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2024-07-04 |  |
+| [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2024-07-04 | 2024-07-19 |
 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 | 2024-07-04 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2024-07-04 |  |
 | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/track/2jU3vCrlb4hirmjq8DnAjn) | [Lee Park Worship](https://open.spotify.com/artist/2gqep75ws6SMcHFl45cghA), [Shane Dunlap](https://open.spotify.com/artist/4bp86PmlkB4udKMBveIOlX), [Todd Smith](https://open.spotify.com/artist/3ByH7rh6XDnP76d5Traoxy) | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/album/3BsifoJiIJfv12TfDxSjkA) | 3:42 | 2024-07-04 |  |
@@ -137,6 +137,7 @@
 | [The Sweetest Song I Know](https://open.spotify.com/track/5OuXpTv1X257gEgpRaNJTw) | [Goodman Revival](https://open.spotify.com/artist/7nUU95SpOmso0foaXXAomb) | [Songs In The Key Of Happy](https://open.spotify.com/album/2eFX9dzSqrRVOxvImS2KPQ) | 3:13 | 2021-08-13 | 2024-07-04 |
 | [There Is A Love](https://open.spotify.com/track/0Gqo3QNcrrkCXPXPTSfMN3) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/6NcCjEtZ6wakLRRKC1Kp57) | 2:51 | 2021-08-13 | 2024-04-19 |
 | [There Is A Love](https://open.spotify.com/track/5WWpf8gDtQ3gxFGLvNugz4) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/1UVoAj6uNcI387Fd4679ct) | 2:51 | 2021-08-13 | 2024-07-04 |
+| [There's A Hole in the Heart](https://open.spotify.com/track/4mHjtYE0c51pFxHkgVJeRH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [There's A Hole in the Heart](https://open.spotify.com/album/1BxJsXl0vw15BRmbNFQdf6) | 3:21 | 2024-07-19 |  |
 | [Thinking 'Bout Home \- Live](https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Thinking 'Bout Home \(Live\)](https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940) | 4:05 | 2021-08-13 | 2024-07-04 |
 | [This Storm](https://open.spotify.com/track/4LC1Ykr1vVF1mDshUoVHIf) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [This Storm \(Single\)](https://open.spotify.com/album/4mqWPtWLNt05DoJRj8Wzss) | 3:18 | 2021-08-13 | 2024-07-04 |
 | [Uncommon Praise](https://open.spotify.com/track/30ppa6BZZxeaGltm4DFE2h) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Ready for Revival](https://open.spotify.com/album/0jBDe3gmQ1xQiVRRUdESGH) | 3:25 | 2021-08-13 | 2024-07-04 |

@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Karmen
+> Le meilleur du rap français version cloud\. Photo : USKY
 
-411 songs - 20 hr 10 min
+413 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Infecté](https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [Nephtys](https://open.spotify.com/album/2jplcSiO6721Ep6E9usYyq) | 2:30 | 2022-08-25 | 2023-05-05 |
 | [Inside](https://open.spotify.com/track/6w4TWairwhLKZoz72sfhwP) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [Inside](https://open.spotify.com/album/2DLmf3Sa2M7A7FjUrMOrok) | 3:08 | 2024-01-11 | 2024-03-08 |
 | [Intermission](https://open.spotify.com/track/3jb2r0BwMc52cmZS0prJYl) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Intermission](https://open.spotify.com/album/4zpYg3FdMlf1SHMhHluEKt) | 2:37 | 2023-06-15 | 2023-11-17 |
+| [Itachi](https://open.spotify.com/track/1kfzYfhmlpLp2I0512rb1t) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Anhédonie](https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE) | 2:34 | 2024-07-18 |  |
 | [J'arrête](https://open.spotify.com/track/4DBqYAG3eXWFulEs7FR8WN) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Stratos](https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL) | 2:47 | 2023-02-23 | 2023-03-18 |
 | [J'arrête](https://open.spotify.com/track/6F1VlTSE6FltQA471aYdKK) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Stratos](https://open.spotify.com/album/0qwxx9ouUc5kGmMWHglDpq) | 2:47 | 2023-03-16 | 2023-04-07 |
 | [J'connais](https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-02 | 2024-01-14 |
@@ -250,7 +251,7 @@
 | [MARK LANDERS](https://open.spotify.com/track/0Ob5R4MJD5L4AfCke7cJVE) | [Lazer MMZ](https://open.spotify.com/artist/5Ae1qozZeLofVqeQjJswoD) | [MARK LANDERS](https://open.spotify.com/album/5LQIFAhrEQseK0St28dQ9z) | 3:03 | 2023-01-12 | 2023-04-07 |
 | [Maudit](https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Maudit](https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV) | 3:49 | 2022-11-03 | 2023-01-13 |
 | [mayday](https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [SOUS L'AVERSE](https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ) | 2:19 | 2023-11-23 | 2024-01-12 |
-| [MBK](https://open.spotify.com/track/7DX6YyPd39LPiWQMlSaFdg) | [zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [Birthday Saison](https://open.spotify.com/album/2BNuUlEpbte2Jl9YFcvQym) | 2:46 | 2024-05-30 |  |
+| [MBK](https://open.spotify.com/track/7DX6YyPd39LPiWQMlSaFdg) | [zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU) | [Birthday Saison](https://open.spotify.com/album/2BNuUlEpbte2Jl9YFcvQym) | 2:46 | 2024-05-30 | 2024-07-19 |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |
 | [MEILLEUR](https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b) | 3:03 | 2023-10-12 | 2023-11-30 |
 | [MEILLEUR](https://open.spotify.com/track/5atKLIetNSwYT8mYdVRWQO) | [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [HUMAIN](https://open.spotify.com/album/7JZT9iNvgUcdmiju0ps1z9) | 3:03 | 2023-11-23 | 2023-12-15 |
@@ -291,6 +292,7 @@
 | [Ourania](https://open.spotify.com/track/3R2TEuQmEUXif4gETqwOD3) | [Lil Purpx](https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28) | [Ourania](https://open.spotify.com/album/14o8g32hVrEWoylbITiDTW) | 2:53 | 2024-06-06 |  |
 | [Para](https://open.spotify.com/track/32wwxrB9l4hEj2KeW6fR4l) | [VERSIONBETA7](https://open.spotify.com/artist/2YvuJOwUvNHDJQAOApnBBR) | [Erreurs](https://open.spotify.com/album/18zqFhr6pzfcvQmKnPcvMc) | 2:39 | 2024-02-08 | 2024-04-26 |
 | [PARADIS](https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [PARADIS](https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2) | 2:58 | 2022-10-27 | 2022-12-24 |
+| [PARADIS](https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx) | [JaySoCold](https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F) | [BODY THERAPY](https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF) | 2:34 | 2024-07-18 |  |
 | [Paradis Bleu](https://open.spotify.com/track/6d2q14a2wY6HUeLApYLdoo) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Paradis Bleu](https://open.spotify.com/album/2KDfg8dRxwo3Y6506NqCtZ) | 3:17 | 2022-12-08 | 2023-04-07 |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 | 2022-12-16 |
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 | 2023-05-19 |
@@ -415,7 +417,7 @@
 | [Âmes perdues](https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3) | [joysad](https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z) | [Transparent](https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm) | 3:12 | 2022-10-20 | 2023-03-03 |
 | [Ça donne pas envie](https://open.spotify.com/track/0NqUKviaU5ACy1QO1SzE5g) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Le plus beau des monstres](https://open.spotify.com/album/6U7iOnlnzNjQN7GwoI5un6) | 2:48 | 2024-05-30 | 2024-07-12 |
 | [Ça fait longtemps](https://open.spotify.com/track/41yHBw1H6W4Ny5lmiiAG7V) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH), [Yanso](https://open.spotify.com/artist/1mAdVbvz1w6v9I5iGxRtnE) | [Ça fait longtemps](https://open.spotify.com/album/2LmWQYHjovtF1vneboqvAp) | 3:12 | 2022-12-01 | 2023-01-06 |
-| [Écran Bleu](https://open.spotify.com/track/3K4ojcg6t3rWDYjBPUz2JN) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g), [Hydro4k](https://open.spotify.com/artist/3JXT88zBTpEukxlyZyCXZ5) | [Tundra XP](https://open.spotify.com/album/3nnzVt6Vp09PtJm0dajwkt) | 2:45 | 2024-06-13 |  |
+| [Écran Bleu](https://open.spotify.com/track/3K4ojcg6t3rWDYjBPUz2JN) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g), [Hydro4k](https://open.spotify.com/artist/3JXT88zBTpEukxlyZyCXZ5) | [Tundra XP](https://open.spotify.com/album/3nnzVt6Vp09PtJm0dajwkt) | 2:45 | 2024-06-13 | 2024-07-19 |
 | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/track/5Qcl3FNCGGClPX9wz7pE7D) | [BOUB'Z](https://open.spotify.com/artist/1QMdau3cUloTZtR7JXpBLH) | [Élastique \(Freestyle BDLB \#1\)](https://open.spotify.com/album/3mIen5WzBCIijfMqMgoxnX) | 2:08 | 2023-01-26 | 2023-03-18 |
 | [Émotion](https://open.spotify.com/track/5hFImCo7K3URs5Gn9kj7QU) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [MIEL](https://open.spotify.com/album/4dWovRp9R5G9mXcO5ooSi7) | 2:48 | 2023-12-28 | 2024-04-12 |
 | [ÉTÉ HIVER](https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [VAGALAME](https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P) | 2:39 | 2023-03-23 | 2023-11-17 |

@@ -6542,10 +6542,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244506,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/3rxTCj1eLJi9BK8ULnVTzQ"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/3CeQN6CgUOswVOQ9Q6TYsa"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/5VN7DSFKLc1TjMvUOAPMAa"
     },
     {
       "album": {

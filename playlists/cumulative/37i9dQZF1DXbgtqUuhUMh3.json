@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 198147,
       "name": "B3eed",
       "url": "https://open.spotify.com/track/5OggynuvjzOkXkwZJxWfD1"
@@ -8308,6 +8308,24 @@
       "duration_ms": 378600,
       "name": "Shouf",
       "url": "https://open.spotify.com/track/4WH8T2gsUwPkQvLvXWPdbr"
+    },
+    {
+      "album": {
+        "name": "Shu Ma Sar",
+        "url": "https://open.spotify.com/album/4suLQSCtkjso7Xru16G4Ga"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165474,
+      "name": "Shu Ma Sar",
+      "url": "https://open.spotify.com/track/3AhojhL75hKdm5lvsx40pp"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Christian Nodal en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. RENEE en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -6878,6 +6878,24 @@
       "duration_ms": 197274,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
     },
     {
       "album": {

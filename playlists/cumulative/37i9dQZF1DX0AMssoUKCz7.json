@@ -820,7 +820,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160053,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1bA2ZK7CFxEMnyn1dWP2jp"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160200,
       "name": "Belong - Deepend Edit",
       "url": "https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa"
@@ -1280,6 +1280,28 @@
       "duration_ms": 236000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+    },
+    {
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "album": {
@@ -1430,7 +1452,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj"
@@ -1708,7 +1730,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212459,
       "name": "California Dreamin - Radio Edit",
       "url": "https://open.spotify.com/track/0M3bL9NQrBKSgMJjPpEIOy"
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169538,
       "name": "Chucks",
       "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
@@ -2941,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5qrXvGyywOO0ylsieMArFf"
+      },
+      "artists": [
+        {
+          "name": "Benedict Ammann",
+          "url": "https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4sICBh45pA6i7yCohseEvm"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7tHxsXY9ysu7QRSqSCF1KM"
       },
@@ -3236,7 +3276,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184589,
       "name": "Endless Summer - Deepend Remix",
       "url": "https://open.spotify.com/track/7JyQN2bRjJnyJdVyB2evUA"
@@ -4686,7 +4726,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 160555,
       "name": "Happy Ever After",
       "url": "https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo"
@@ -5444,7 +5484,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 160658,
       "name": "Home to You",
       "url": "https://open.spotify.com/track/2E68BgIXWdBymrDdW0H4ux"
@@ -5532,7 +5572,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 147857,
       "name": "Hours & Hours",
       "url": "https://open.spotify.com/track/16Iy9fFm9R5OEbrE3p6H1L"
@@ -6178,7 +6218,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166451,
       "name": "Ibiza Sky",
       "url": "https://open.spotify.com/track/6TLKDxEM5wllCAxwln9MiT"
@@ -6634,7 +6674,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 378360,
       "name": "Jubel - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT"
@@ -6656,7 +6696,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 238048,
       "name": "Just Know It - Felix Cartal's Sunset Remix",
       "url": "https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX"
@@ -7178,7 +7218,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2jfNbQZ8VqVhPvOtXOrmon"
@@ -7204,7 +7244,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146129,
       "name": "Lift",
       "url": "https://open.spotify.com/track/1zANAYogydAh5DBNIVswie"
@@ -7806,7 +7846,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
@@ -7850,7 +7890,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155163,
       "name": "Love Without You",
       "url": "https://open.spotify.com/track/045Ypi9GAXI0BnlBtu6Jet"
@@ -9018,7 +9058,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
@@ -9470,7 +9510,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131886,
       "name": "Ocean Love",
       "url": "https://open.spotify.com/track/7z0FZXAedmPFsQhY1WnExz"
@@ -10052,7 +10092,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/0t0BoLdXb5VO3WelCxQoty"
@@ -11542,7 +11582,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 158888,
       "name": "See You Again (Feat. \u00c6J)",
       "url": "https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J"
@@ -11896,7 +11936,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226120,
       "name": "So Good to Me - Radio Edit",
       "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
@@ -12122,7 +12162,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244720,
       "name": "Starboy - Kygo Remix",
       "url": "https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3"
@@ -12334,6 +12374,24 @@
       "duration_ms": 210160,
       "name": "Strong",
       "url": "https://open.spotify.com/track/4UFRpETVnwicalnBKyt5GB"
+    },
+    {
+      "album": {
+        "name": "Stuck In The Rain",
+        "url": "https://open.spotify.com/album/7ab7Ci7GlsYDHYwFlPzdEA"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169486,
+      "name": "Stuck In The Rain",
+      "url": "https://open.spotify.com/track/2j0YDL3RiEs5QLaJnWl3TT"
     },
     {
       "album": {
@@ -13704,7 +13762,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 240000,
       "name": "Tired - Kygo Remix",
       "url": "https://open.spotify.com/track/3t0J8vI9StQD8KIBkT2Cp5"
@@ -14118,7 +14176,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 168058,
       "name": "Valuable Souls",
       "url": "https://open.spotify.com/track/5wp5Ag7JJndEzE87EgSd5n"
@@ -14268,6 +14326,28 @@
       "duration_ms": 201250,
       "name": "Walk Thru Fire",
       "url": "https://open.spotify.com/track/06OxW7hDm2hr6P2uh8WNuE"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/79rM1OVbpQvs0RrmCzbnwk"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Life of Kai",
+          "url": "https://open.spotify.com/artist/0U3WBWEyw85dVEwCyvMXwB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/6rLUqI3MUMGdaSYM6rfhbB"
     },
     {
       "album": {
@@ -15342,7 +15422,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 130909,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/6XakZY8dpvFsecV1qJ4DLL"
@@ -15412,7 +15492,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7"

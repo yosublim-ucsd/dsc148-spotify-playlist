@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,120 songs - 4 day 18 hr 11 min
+2,121 songs - 4 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-11-08 | 2023-02-13 |
 | [Apaga El Cel](https://open.spotify.com/track/6yRe5Fl3lqAh759vb23eHi) | [Filtramusic](https://open.spotify.com/artist/1qdcmBIfUbb8QjPr23Hu7R) | [Apaga El Cel](https://open.spotify.com/album/3QVVMwJ4u57XM31gfxClmG) | 1:35 | 2024-05-14 | 2024-05-18 |
 | [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-06-04 | 2024-06-23 |
+| [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-18 |  |
 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 | 2024-06-04 | 2024-06-07 |
 | [Aprovechame \(Cris Mj \- ia\) IAVERSO \#1](https://open.spotify.com/track/0RGJntz0mZMZ3R8EODpP5g) | [Shelbyboy](https://open.spotify.com/artist/3YRHwwzZFs4kEw6kPgJ8zI) | [Aprovechame \(Cris Mj \- ia\) IAVERSO \#1](https://open.spotify.com/album/601kUgYSKK1ySoEAtYe03S) | 2:01 | 2023-11-15 | 2023-12-21 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-16 | 2023-05-24 |
@@ -921,7 +922,7 @@
 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-18 | 2023-05-27 |
 | [Kraazy](https://open.spotify.com/track/3s2Qd1rsWqbvOoxpFTRp8D) | [Likybo](https://open.spotify.com/artist/16Nc36xAtNyQ7BMBcDsaLv) | [Million Dollar Mindset](https://open.spotify.com/album/1CIQcaDbehOjBHdZfGgBcM) | 2:31 | 2023-08-29 | 2023-09-27 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-10 | 2022-10-05 |
-| [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 | 2024-06-30 |  |
+| [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 | 2024-06-30 | 2024-07-19 |
 | [KÁRMIKA](https://open.spotify.com/track/3mFNc5EQn30irR983Wg9OD) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:56 | 2023-03-21 | 2023-03-25 |
 | [L'italiano](https://open.spotify.com/track/2S7RApTsKT0CtYojYq2cKz) | [Toto Cutugno](https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ) | [L'Italiano](https://open.spotify.com/album/5LkInsAkNvLWqwJwcyrJ8y) | 3:56 | 2023-12-09 | 2023-12-22 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-29 | 2022-12-28 |

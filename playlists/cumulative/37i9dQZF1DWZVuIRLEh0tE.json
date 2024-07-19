@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "3 X 1",
+        "url": "https://open.spotify.com/album/70Lh6yhlFrIPCb4T5B74Vf"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311770,
+      "name": "3 X 1",
+      "url": "https://open.spotify.com/track/7lBnqp8VXTtvC1nSsIO1nb"
+    },
+    {
+      "album": {
         "name": "3730",
         "url": "https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t"
       },
@@ -1198,7 +1220,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172380,
       "name": "Booty",
       "url": "https://open.spotify.com/track/4n7shzi1RlhwogB0rPFwM3"
@@ -1426,6 +1448,28 @@
       "duration_ms": 166250,
       "name": "Careta",
       "url": "https://open.spotify.com/track/52z7Y1LWdq0XUlRkzSF3Na"
+    },
+    {
+      "album": {
+        "name": "Caretu",
+        "url": "https://open.spotify.com/album/4IqENBiD4QFLRqzMs7VLSe"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Mo El 28",
+          "url": "https://open.spotify.com/artist/7A0JW8yMQHeSD85f0bZvPu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Caretu",
+      "url": "https://open.spotify.com/track/0qGVGmlwgTSZtoUXr1TM3i"
     },
     {
       "album": {
@@ -3600,6 +3644,28 @@
       "duration_ms": 192000,
       "name": "En Que Tu Ta Tu No Ta En Nah - En Vivo",
       "url": "https://open.spotify.com/track/72blRbRNl6ZEem3twjMj6m"
+    },
+    {
+      "album": {
+        "name": "Enchulao",
+        "url": "https://open.spotify.com/album/48P7aRcuvQSXAtwdnzhwK8"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        },
+        {
+          "name": "Hasly",
+          "url": "https://open.spotify.com/artist/3CGQDCqSnBMwYxoZQxQJHV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210170,
+      "name": "Enchulao",
+      "url": "https://open.spotify.com/track/66hbvQhKgCeI0oYE3diZiN"
     },
     {
       "album": {
@@ -6053,6 +6119,24 @@
     },
     {
       "album": {
+        "name": "Mi Chico",
+        "url": "https://open.spotify.com/album/54lAVXBkFU7de4mBBWYhu5"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194387,
+      "name": "Mi Chico",
+      "url": "https://open.spotify.com/track/3EOzK14fWquSyJ5gOH2vl1"
+    },
+    {
+      "album": {
         "name": "Mi Ciudad",
         "url": "https://open.spotify.com/album/76GBieZ9ccFvySoAUhJCer"
       },
@@ -6224,7 +6308,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 167925,
       "name": "Mi viejo",
       "url": "https://open.spotify.com/track/70LqAql8VnWe57CwDjHsqd"
@@ -6406,7 +6490,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 79285,
       "name": "Mil Cotorras por Segundo - Live",
       "url": "https://open.spotify.com/track/6OKcajd7UGn2PrpeLKXNlE"
@@ -9206,7 +9290,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210050,
       "name": "Tengo La 23",
       "url": "https://open.spotify.com/track/60ME8mllhZAU7p1IYYNfXH"
@@ -9472,7 +9556,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 133375,
       "name": "tokicha",
       "url": "https://open.spotify.com/track/21xcyIsljrbLjv9FbW6kCi"
@@ -9538,7 +9622,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185568,
       "name": "Tranquilo - Remix",
       "url": "https://open.spotify.com/track/2Ont9PWeHm97QNrVwnvVt1"
@@ -9722,6 +9806,32 @@
       "duration_ms": 145646,
       "name": "Un Chin",
       "url": "https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI"
+    },
+    {
+      "album": {
+        "name": "Un Dato",
+        "url": "https://open.spotify.com/album/2xYQ5KDoq1Dctuy4d7mzre"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "Findy RD",
+          "url": "https://open.spotify.com/artist/2CnGNUq5lcAhNvdeb2HtWI"
+        },
+        {
+          "name": "Rey Henrii",
+          "url": "https://open.spotify.com/artist/2YPwU6sI8opMU7rlpaUSlF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Un Dato",
+      "url": "https://open.spotify.com/track/7Ms17wvMbuIgyBYpJFYWAx"
     },
     {
       "album": {
@@ -10124,6 +10234,24 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "album": {
+        "name": "Yo Enfocado",
+        "url": "https://open.spotify.com/album/1NwXale8SgifEbslKgf0Xn"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Yo Enfocado",
+      "url": "https://open.spotify.com/track/3Oi5p52ULUtCgeAsbIBRJg"
     },
     {
       "album": {

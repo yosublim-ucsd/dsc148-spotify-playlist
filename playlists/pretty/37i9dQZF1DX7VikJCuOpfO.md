@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,734 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,775 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 76 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
 | 77 | [Llevarte al Cielo](https://open.spotify.com/track/7uroGjm5aXah7MKmyquq7U) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [ANTOLOGÍA 20 AÑOS](https://open.spotify.com/album/1mK4q3n72WfjVVAzCKpZV9) | 4:08 |
 | 78 | [X Personas Como Tú](https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I), [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS) | [X Personas Como Tú](https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s) | 2:53 |
-| 79 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
-| 80 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
+| 79 | [Dejémoslo Así](https://open.spotify.com/track/2bku6uSoRemC75vR4JoePF) | [Frank Di](https://open.spotify.com/artist/02jlCjqIOJytCyQyr0FGWP), [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Dejémoslo Así](https://open.spotify.com/album/3mNYNFOwyvPHyMTycASoO6) | 3:00 |
+| 80 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
 | 81 | [Diabla](https://open.spotify.com/track/0iTafmNe563xhFprjGSZyA) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Diabla](https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu) | 3:03 |
 | 82 | [Fumo Y Bebo](https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Pablo Ocampo](https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK) | [Fumo Y Bebo](https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC) | 2:28 |
 | 83 | [Duele Estar Vivo](https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Valió La Pena Con Mariachi](https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW) | 3:46 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 93 | [Tres Veces Te Engañe](https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz) | [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Tres Veces Te Engañe](https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw) | 3:35 |
 | 94 | [Morí](https://open.spotify.com/track/0d0dsknspK8uxPWTGXuOBH) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:46 |
 | 95 | [Con Tu Recuerdo](https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Con Tu Recuerdo](https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc) | 2:57 |
-| 96 | [No Te Me Dobles Corazón](https://open.spotify.com/track/7hbOsAEUy4MszpW5mBP27Y) | [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK), [Mariachi Los Galleros De Danny Rey](https://open.spotify.com/artist/4rzEVBVdNGYvfekg3QbysF) | [No Te Me Dobles Corazón](https://open.spotify.com/album/4UmFyxWqwWpozJkhcNFc0R) | 3:36 |
-| 97 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
+| 96 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
+| 97 | [No Te Me Dobles Corazón](https://open.spotify.com/track/7hbOsAEUy4MszpW5mBP27Y) | [Meño Segovia](https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK), [Mariachi Los Galleros De Danny Rey](https://open.spotify.com/artist/4rzEVBVdNGYvfekg3QbysF) | [No Te Me Dobles Corazón](https://open.spotify.com/album/4UmFyxWqwWpozJkhcNFc0R) | 3:36 |
 | 98 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 99 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 | 100 | [Niña Bonita](https://open.spotify.com/track/0c25Xv2LEYmRoAqmKUB9VA) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:04 |

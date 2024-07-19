@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 137952,
+  "num_followers": 138013,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
         "name": "Ra\u00fal",
         "url": "https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "added_at": "2024-07-16 15:07:12",
@@ -1739,34 +1739,22 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         }
       ],
-      "duration_ms": 176969,
-      "name": "Posturado e Calmo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/5Goi3tmKtsXhqm875FBGbD"
+      "duration_ms": 119053,
+      "name": "7 Meiota - Ao Vivo",
+      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
     },
     {
       "added_at": "2024-07-16 15:07:12",
@@ -1795,26 +1783,6 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        }
-      ],
-      "duration_ms": 119053,
-      "name": "7 Meiota - Ao Vivo",
-      "url": "https://open.spotify.com/track/32whZrE200YsYOquZAcM1P"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
         "name": "MIDNIGHT CALLS",
         "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
       },
@@ -1831,6 +1799,62 @@
       "duration_ms": 251923,
       "name": "30 Dias",
       "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
+        "name": "O Retorno de Jedi",
+        "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        }
+      ],
+      "duration_ms": 170655,
+      "name": "O Retorno de Jedi",
+      "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Posturado e Calmo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/5Goi3tmKtsXhqm875FBGbD"
     },
     {
       "added_at": "2024-07-16 15:07:12",
@@ -1891,58 +1915,6 @@
       "duration_ms": 203294,
       "name": "Jardim das Flores",
       "url": "https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
-        "name": "O Retorno de Jedi",
-        "url": "https://open.spotify.com/album/0BTjFs3Pbs2QwHktnSbBWL"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        }
-      ],
-      "duration_ms": 170655,
-      "name": "O Retorno de Jedi",
-      "url": "https://open.spotify.com/track/1OCtpTqJdhOrn00sJYnWSt"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
-        "name": "IRRASTRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Mudan\u00e7a de Quadro",
-      "url": "https://open.spotify.com/track/4rY8jnMuIxLkhQGPz4qnP4"
     },
     {
       "added_at": "2024-07-16 15:07:12",
@@ -2071,6 +2043,34 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
+        "name": "IRRASTRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Mudan\u00e7a de Quadro",
+      "url": "https://open.spotify.com/track/4rY8jnMuIxLkhQGPz4qnP4"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/6JOx2S6RtfukBnIaxCUpUy"
       },
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
-        "name": "Love And Choppa",
-        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 140855,
-      "name": "Love And Choppa",
-      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/1HnkY3D40gemQBmZ9azWX2"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
+        "name": "Love And Choppa",
+        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 140855,
+      "name": "Love And Choppa",
+      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
     },
     {
       "added_at": "2024-07-16 15:07:12",
@@ -2263,6 +2263,42 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
+    },
+    {
+      "added_at": "2024-07-16 15:07:12",
+      "album": {
         "name": "Assault (Angra)",
         "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
       },
@@ -2307,26 +2343,6 @@
     {
       "added_at": "2024-07-16 15:07:12",
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-07-16 15:07:12",
-      "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
     },
     {
       "added_at": "2024-07-16 15:07:12",

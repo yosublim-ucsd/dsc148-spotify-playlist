@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Sunset Rollercoaster \(落日飛車\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: BRADD
 
-227 songs - 13 hr 55 min
+228 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Margarita](https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Margarita](https://open.spotify.com/album/14QSWeqDCKgesoarHCKntL) | 3:36 | 2024-01-25 |  |
 | [May flowers](https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [May flowers](https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD) | 3:12 | 2024-05-16 |  |
 | [Maybe Maybe](https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Maybe Maybe](https://open.spotify.com/album/4Zkkd7RLPCMbs8U2RU2TWY) | 3:32 | 2024-02-29 | 2024-03-15 |
+| [Meet in the Middle](https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Meet in the Middle](https://open.spotify.com/album/748Lp7MOcqqJhYHtcApkBm) | 4:38 | 2024-07-18 |  |
 | [Merry Go Round](https://open.spotify.com/track/41312k36is0WtJUS5S3RTb) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Crystal Tea](https://open.spotify.com/artist/3tLTzUmenYSz1FS9ijEUuX) | [Merry Go Round](https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG) | 3:05 | 2024-01-25 |  |
 | [Millions of Years Apart](https://open.spotify.com/track/7mvgC2RSdiHDILsyFEAmjG) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:36 | 2024-02-29 |  |
 | [Moon](https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Moon](https://open.spotify.com/album/436lTIgKHUJdevC1IwFcZa) | 5:35 | 2024-05-30 | 2024-07-05 |
@@ -115,7 +116,7 @@
 | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/track/1sPe0BW8Ob7lZ1lTY5M44V) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Paradise \(電影《我的天堂城市》主題曲\)](https://open.spotify.com/album/6SYatLOX94QtaZtiCVjseA) | 3:45 | 2024-01-25 | 2024-03-01 |
 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 | 2024-06-30 |  |
 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-03-28 | 2024-04-26 |
-| [Pretty Girl Supremacy](https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pretty Girl Supremacy](https://open.spotify.com/album/0mrxfukjQPVdpQMfUmVUpF) | 2:45 | 2024-06-30 |  |
+| [Pretty Girl Supremacy](https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Pretty Girl Supremacy](https://open.spotify.com/album/0mrxfukjQPVdpQMfUmVUpF) | 2:45 | 2024-06-30 | 2024-07-19 |
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r) | [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Race of Faith \(ft\. YELLOW黃宣\)](https://open.spotify.com/album/3iddxJeDMT2wCg08x8kRpZ) | 3:50 | 2024-01-25 |  |
 | [Real World](https://open.spotify.com/track/230yOdZnpGaoeOtE6JEXoy) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Real World](https://open.spotify.com/album/4FFBtcgedztmXGbnpe79Gh) | 4:19 | 2024-01-25 |  |

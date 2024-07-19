@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-144 songs - 10 hr 58 min
+145 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 | 2021-05-04 |  |
 | [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 | 2021-05-04 | 2024-04-19 |
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |
-| [Shimmy Tiger](https://open.spotify.com/track/3GVaH55Ht7d04QGkoLOZfl) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Shimmy Tiger](https://open.spotify.com/album/1FbxQdbUSMY0p1dI7RyMJ1) | 6:27 | 2024-06-21 |  |
+| [Shimmy Tiger](https://open.spotify.com/track/3GVaH55Ht7d04QGkoLOZfl) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Shimmy Tiger](https://open.spotify.com/album/1FbxQdbUSMY0p1dI7RyMJ1) | 6:27 | 2024-06-21 | 2024-07-19 |
 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 | 2023-07-21 |  |
 | [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 |  |
 | [Slam](https://open.spotify.com/track/2z54PSmczfteELFLbzo52H) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/5egVrnO8AjlG56mdm1GEtg) | 4:37 | 2021-05-04 | 2024-04-19 |
@@ -136,6 +136,7 @@
 | [The Roaring Twenties](https://open.spotify.com/track/59WxaLSXFGTh2WzNdPivDf) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [Ebb & Flow](https://open.spotify.com/album/5vcC3uWAui0WNr3P1HWhUx) | 4:58 | 2022-04-08 | 2024-04-19 |
 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 | 2022-04-08 |  |
 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 | 2021-05-04 | 2024-01-05 |
+| [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 | 2024-07-19 |  |
 | [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 | 2022-11-11 |  |
 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 | 2021-05-04 |  |
 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 | 2021-05-04 | 2024-04-19 |

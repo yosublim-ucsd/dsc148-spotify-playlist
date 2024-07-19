@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-482 songs - 1 day 9 hr 38 min
+483 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Nyan\-Nyan\-Nyan! feat.さきぴょ](https://open.spotify.com/track/7uOpdKAH0WTIHXiSZAFzuT) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [uno](https://open.spotify.com/artist/5v5ud2uHRi6waqeNUyhlWq), [Sakipyo](https://open.spotify.com/artist/6kRTxLU10kXZ1EdG7HCHg7) | [KAKATTEKOYEAH 2!!!!!](https://open.spotify.com/album/2Bsb8E5H1F7qtoMXkT1eDE) | 4:12 | 2019-01-29 |  |
 | [Oh Oh Oh Sexy Vampire \- Sixtroke Remix](https://open.spotify.com/track/12LgatkK83u3tBZ2tAqdsD) | [Disko Warp](https://open.spotify.com/artist/74inHHm78CyQJ7RsS9FKrk), [Fright Ranger](https://open.spotify.com/artist/20vl9kEmzYO2cOD8SqBYZe), [Sixtroke](https://open.spotify.com/artist/2Eq4afaFinkSIauebJGvIL) | [Oh Oh Oh Sexy Vampire \(Sixtroke Remix\)](https://open.spotify.com/album/6JdDW955ev2PRCgoMN8gQX) | 4:11 | 2020-01-11 |  |
 | [Okay!](https://open.spotify.com/track/0i5n3dsKgPOvYJEXTf0Snx) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Okay!](https://open.spotify.com/album/07LlV93L95IcHrrs4LvEVJ) | 2:57 | 2021-11-26 |  |
+| [OMG!!](https://open.spotify.com/track/7CfT8SqCcyJExv6EP63qUe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [OMG!!](https://open.spotify.com/album/6sWViqAhegqAnCDuXWzpUR) | 2:51 | 2024-07-19 |  |
 | [On Fire](https://open.spotify.com/track/0jsnvy3tgcH890NHz1HtE5) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:46 | 2021-08-13 |  |
 | [Oneindigheid](https://open.spotify.com/track/7uFNi3sxAOYorYv3RFoz40) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [Notebook Records 2018 Year Selection](https://open.spotify.com/album/0bl5sctu6cKdbOESKAMfqQ) | 4:40 | 2019-06-01 |  |
 | [oNgAku orx013](https://open.spotify.com/track/66RmKjTaAHPYbjg1qCzCMM) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [SPEED BALL Z](https://open.spotify.com/album/20mkWirfhkBCVsvNnMn5DC) | 5:53 | 2019-03-03 |  |

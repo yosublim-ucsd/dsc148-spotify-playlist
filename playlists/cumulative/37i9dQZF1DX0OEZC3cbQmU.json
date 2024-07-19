@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
+    },
+    {
+      "album": {
         "name": "Algo Novo (feat. Lukas Agustinho) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh"
       },
@@ -170,7 +188,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 285098,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
@@ -997,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
+    },
+    {
+      "album": {
         "name": "Fuma\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vbxSLyfnhIGgnrxmTZcbz"
       },
@@ -1136,7 +1172,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 669421,
       "name": "Jesus em Tua Presen\u00e7a // Ao \u00danico // Eu Navegarei - Ao Vivo",
       "url": "https://open.spotify.com/track/3FL7T4DvAFmnVNpnnvZqNb"
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 390386,
       "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
       "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
@@ -1830,7 +1866,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 552564,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
@@ -1874,6 +1910,46 @@
       "duration_ms": 314154,
       "name": "Sua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Preciso Fluir",
+        "url": "https://open.spotify.com/album/29psPIsM6xaWoaeFPyZMyv"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134690,
+      "name": "S\u00f3 Preciso Fluir",
+      "url": "https://open.spotify.com/track/18ytgY9K5NoTMq03PmwRjq"
+    },
+    {
+      "album": {
+        "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+        "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518306,
+      "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
+      "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
     },
     {
       "album": {
@@ -2078,6 +2154,32 @@
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
+    },
+    {
+      "album": {
+        "name": "Un\u00e7\u00e3o Pelo Ar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "SOM DO C\u00c9U",
+          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
+        },
+        {
+          "name": "N\u00edvea Izabella",
+          "url": "https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641142,
+      "name": "Un\u00e7\u00e3o Pelo Ar - Ao Vivo",
+      "url": "https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E"
     },
     {
       "album": {

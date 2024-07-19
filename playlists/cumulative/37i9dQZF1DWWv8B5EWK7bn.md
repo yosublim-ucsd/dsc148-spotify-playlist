@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-409 songs - 1 day 5 hr 8 min
+410 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Sunset Dreams](https://open.spotify.com/track/03W4UGst7Ugynx4OLJGlwn) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/120nAPsuLm0jxpTnlmbHEr) | 4:27 | 2021-10-06 | 2022-09-21 |
 | [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2022-01-11 | 2022-06-30 |
 | [Sus Dog](https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 4:36 | 2023-08-15 |  |
+| [Taste The Air \- Julia Holter Mix](https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:23 | 2024-07-18 |  |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2023-01-20 | 2023-06-08 |
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-13 | 2024-01-04 |
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-08-14 |
@@ -368,7 +369,7 @@
 | [This Is A Life](https://open.spotify.com/track/3heI6X1jFBgdQrLcWOmZ1O) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [This Is A Life \(From the Original Motion Picture "Everything Everywhere All at Once"\)](https://open.spotify.com/album/7smqQ6jqhvC0hOmlNyKwhR) | 2:41 | 2022-03-11 | 2022-08-04 |
 | [Thumbtack](https://open.spotify.com/track/67WuAkWNUHZqV8FOgDrz7R) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Thumbtack](https://open.spotify.com/album/2K0ahxdNDQsVhCxkr9hDVg) | 2:10 | 2023-12-20 | 2024-04-16 |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-06 | 2022-09-07 |
-| [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 |  |
+| [Tintagel](https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Tintagel](https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs) | 3:48 | 2022-02-09 | 2024-07-19 |
 | [Tintagel](https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 3:48 | 2022-02-09 | 2024-04-19 |
 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 | 2022-08-03 | 2023-01-04 |
 | [Track X](https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Track X](https://open.spotify.com/album/1to5nlqVrZzV3X5iJ8qf7t) | 4:44 | 2021-10-06 | 2022-07-30 |

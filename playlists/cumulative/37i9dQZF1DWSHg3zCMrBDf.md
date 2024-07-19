@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: King Promise
+> The hottest tracks in Ghana\. Cover: King Paluuta
 
-292 songs - 14 hr 58 min
+294 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 | 2022-11-18 | 2023-08-04 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 | 2023-11-14 |
 | [Inna Song \(Gin & Lime\)](https://open.spotify.com/track/44E17AubfoMCwJOQduEx3C) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 4:05 | 2021-02-22 | 2023-05-27 |
-| [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2023-05-26 |  |
+| [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2023-05-26 | 2024-07-19 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-09-27 | 2023-11-14 |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-07-25 | 2023-09-28 |
 | [Jah Guide](https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:04 | 2024-04-03 |  |
@@ -143,6 +143,7 @@
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2023-03-24 | 2023-05-27 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-28 | 2023-02-24 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-02-23 | 2023-05-27 |
+| [June July](https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [June July + Pharasee](https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG) | 3:40 | 2024-07-19 |  |
 | [Kaba](https://open.spotify.com/track/0JxMcsYDw5m5fSunh11kqj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/7DsT04iHohIn3H4abcSZjH) | 2:51 | 2022-07-28 | 2023-05-27 |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-07-28 | 2022-12-25 |
 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 | 2023-09-27 | 2024-04-04 |
@@ -167,8 +168,9 @@
 | [LONELY ROAD](https://open.spotify.com/track/5P7d1cYRk786etl1Jbwpk5) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/5mQyfbXSujRUaxTaQBZw4T) | 3:00 | 2023-11-29 | 2024-04-19 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-07-07 | 2023-05-27 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-14 |  |
+| [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 | 2024-07-19 |  |
 | [Mansa Musa Money](https://open.spotify.com/track/4xGjWTkQdg7llPVSTdmF2F) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [MAALI](https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N) | 4:17 | 2023-03-30 | 2023-04-21 |
-| [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-11-13 |  |
+| [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-11-13 | 2024-07-19 |
 | [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2022-10-13 | 2023-09-28 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 | 2024-05-24 |
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-09-27 | 2024-05-15 |

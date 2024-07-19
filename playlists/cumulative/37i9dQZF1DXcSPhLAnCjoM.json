@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Adieu\" de J\u00e9r\u00e9my Frerot est le Grand Hit de la semaine.",
+  "description": "\"Summer Body\" d'Helena est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 181388,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180908,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178360,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz"
@@ -2797,6 +2797,24 @@
     },
     {
       "album": {
+        "name": "Sommet",
+        "url": "https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147619,
+      "name": "Sommet",
+      "url": "https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk"
+    },
+    {
+      "album": {
         "name": "Stigmate (Radio Edit)",
         "url": "https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf"
       },
@@ -2941,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Trop t\u00f4t",
+        "url": "https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171053,
+      "name": "Trop t\u00f4t",
+      "url": "https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc"
+    },
+    {
+      "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
       },
@@ -2952,7 +2988,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177880,
       "name": "urgences 911",
       "url": "https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa"

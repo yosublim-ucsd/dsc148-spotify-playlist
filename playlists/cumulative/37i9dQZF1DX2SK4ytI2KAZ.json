@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218025,
       "name": "Adderall",
       "url": "https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 165067,
       "name": "Another Man's Jeans",
       "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "Brighter Day",
       "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224640,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 184768,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246333,
       "name": "Dancing On Glass",
       "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182840,
       "name": "Daphne Blue",
       "url": "https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170640,
       "name": "Everybody Knows I'm High",
       "url": "https://open.spotify.com/track/7a0rz1HgCmWb5SwugYEibo"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 167370,
       "name": "Flagstaff",
       "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227373,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi"
@@ -3452,6 +3452,24 @@
       "duration_ms": 169760,
       "name": "Good",
       "url": "https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd"
+    },
+    {
+      "album": {
+        "name": "Good Books",
+        "url": "https://open.spotify.com/album/29EyF9Puu6EeefvjUDZULV"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Good Books",
+      "url": "https://open.spotify.com/track/6mBADN7pcPwKacv3DAAavh"
     },
     {
       "album": {
@@ -3666,7 +3684,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 170340,
       "name": "Happy Customers",
       "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
@@ -5152,7 +5170,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220051,
       "name": "Level of Concern",
       "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
@@ -5206,7 +5224,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 233463,
       "name": "Light On",
       "url": "https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1"
@@ -5936,7 +5954,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-26",
+      "date_removed": null,
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
@@ -6332,7 +6350,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
@@ -6528,7 +6546,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 206640,
       "name": "Nobody (feat. dodie)",
       "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
@@ -7932,7 +7950,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 192654,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"
@@ -7950,7 +7968,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188680,
       "name": "run!",
       "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
@@ -8008,6 +8026,24 @@
       "duration_ms": 227240,
       "name": "Rust to Gold",
       "url": "https://open.spotify.com/track/7aBxbf4wZexBS97uVQD4iT"
+    },
+    {
+      "album": {
+        "name": "Sad In Carolina",
+        "url": "https://open.spotify.com/album/4Cb1b3JuX6IAMY9uUq1vfl"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190552,
+      "name": "Sad In Carolina",
+      "url": "https://open.spotify.com/track/477WW3uWDlPpMYR0ahASPh"
     },
     {
       "album": {
@@ -8318,7 +8354,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
@@ -8570,7 +8606,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 121880,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
@@ -8888,7 +8924,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 165130,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
@@ -9184,7 +9220,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 171272,
       "name": "Sure Enough",
       "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
@@ -9328,7 +9364,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
@@ -9462,6 +9498,28 @@
       "duration_ms": 188257,
       "name": "Tell Me Tell Me",
       "url": "https://open.spotify.com/track/3n0y72mRws8IZPQA0QkKEK"
+    },
+    {
+      "album": {
+        "name": "Thank You for Leaving",
+        "url": "https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197985,
+      "name": "Thank You for Leaving",
+      "url": "https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6"
     },
     {
       "album": {
@@ -9794,6 +9852,24 @@
       "duration_ms": 271441,
       "name": "Thunder Clatter",
       "url": "https://open.spotify.com/track/6JugKFXssO9L2tN8omeTPt"
+    },
+    {
+      "album": {
+        "name": "tidal wave",
+        "url": "https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "tidal wave",
+      "url": "https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf"
     },
     {
       "album": {
@@ -10916,7 +10992,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
@@ -11000,7 +11076,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"

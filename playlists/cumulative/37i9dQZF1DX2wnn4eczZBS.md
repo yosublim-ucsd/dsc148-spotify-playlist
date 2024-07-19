@@ -2,9 +2,9 @@
 
 ### [indiepuntnl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: Eefje de Visser
+> indie & indiepop in het Nederlands\. Cover: Mula B
 
-57 songs - 2 hr 58 min
+61 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 |  |
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 |  |
 | [Dokter Phil](https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00) | [Ratel](https://open.spotify.com/artist/1qpgdHDd1l4SgW6VHKmijd) | [Dokter Phil](https://open.spotify.com/album/0aqDfhsbJSCYBPJiS4YHNO) | 3:25 | 2024-06-26 |  |
+| [Dus Ik Ga](https://open.spotify.com/track/6GbtsakP9ZMR6w7ok2cTUT) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Dus Ik Ga](https://open.spotify.com/album/55Q2gr5Rhu9ucEFiONmPgP) | 3:19 | 2024-07-19 |  |
 | [Femboy](https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU) | [Stippenlift](https://open.spotify.com/artist/0YR2zBCixKxGg5go4LvjA9) | [Femboy](https://open.spotify.com/album/1qzm7lB5pNO6ZFPiIRQ3Mp) | 2:59 | 2024-06-26 |  |
 | [Geen Steek Veranderd](https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [puntpuntpunt](https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM) | 3:25 | 2024-06-26 |  |
 | [Geest Van Het Zuiden](https://open.spotify.com/track/3aY93NRQyDNARcblm0javK) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Of Het Terugkomt](https://open.spotify.com/album/1YRPxfopR6ICS1ZUIDAmSV) | 3:13 | 2024-06-26 |  |
 | [Geluk Ontelbaar](https://open.spotify.com/track/1pO0uHgZRf8UXuxVeEGmkb) | [Bud Kolk](https://open.spotify.com/artist/1euiaKy1PkptZMZzs8BF9j) | [Geluk Ontelbaar](https://open.spotify.com/album/3G44X64cFD4jhmClRRt9fH) | 2:48 | 2024-07-05 |  |
-| [Glijpanter](https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Glijpanter](https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O) | 3:39 | 2024-06-26 |  |
+| [Glijpanter](https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Glijpanter](https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O) | 3:39 | 2024-06-26 | 2024-07-19 |
 | [Gloeien](https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Gloeien](https://open.spotify.com/album/72LoblAQvzkBIeGgg4Wb5y) | 3:58 | 2024-06-26 |  |
 | [Goed Te Doen](https://open.spotify.com/track/2vwrImhVOVhdzgl25rEVE8) | [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm) | [Geen Signaal](https://open.spotify.com/album/41XR32hBMfew3oH550j09D) | 3:09 | 2024-06-26 |  |
 | [Hou ik te weinig van mezelf](https://open.spotify.com/track/2j5vAHjU1JBBqihW6z56TS) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Hou ik te weinig van mezelf](https://open.spotify.com/album/34RXbvn4DMPXqm1cm6Lli0) | 2:24 | 2024-06-26 |  |
@@ -32,8 +33,10 @@
 | [Interessant](https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Interessant](https://open.spotify.com/album/05KQqX6QcSxntWgHpfYG6d) | 2:16 | 2024-06-26 |  |
 | [Karma](https://open.spotify.com/track/6hI6zAfJPnjHHBMsbHfMDU) | [Clean Pete](https://open.spotify.com/artist/2dAA5CkO4PeMVmOXxrsl38) | [Karma](https://open.spotify.com/album/6XDpKxCJKw7yBN8lhjZW2h) | 3:25 | 2024-06-26 |  |
 | [Kechseizoen](https://open.spotify.com/track/1XPCEPVwWCNKcXQ3uElIXC) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Kechseizoen](https://open.spotify.com/album/3Yxb8mvbNLePJ2GPCxKLkA) | 2:29 | 2024-06-26 |  |
-| [Kijk me aan als je met me vrijt](https://open.spotify.com/track/1be5nDVqn24PE8cbhtqc61) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Eeuwig Voor Een Tijdje](https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g) | 2:41 | 2024-06-26 |  |
+| [Kijk me aan als je met me vrijt](https://open.spotify.com/track/1be5nDVqn24PE8cbhtqc61) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Eeuwig Voor Een Tijdje](https://open.spotify.com/album/1WYFO1LEcm6BatRKJApR2g) | 2:41 | 2024-06-26 | 2024-07-19 |
 | [KIJK NAAR M'N NAAM](https://open.spotify.com/track/6MyIwypcSrNwZYGPPRCUPO) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [KIJK NAAR M'N NAAM](https://open.spotify.com/album/3lUb5MgtePsBVwgMnkWLaT) | 2:28 | 2024-06-26 |  |
+| [Love Dames](https://open.spotify.com/track/0KChwotHeMkZomXUpOTqs5) | [Bruin Jackson](https://open.spotify.com/artist/4EJv3g9E8EPNOTogUqBDoe), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Love Dames](https://open.spotify.com/album/3GoPsLI4xQS4cU7VO9NSJN) | 2:32 | 2024-07-19 |  |
+| [Madeliefje](https://open.spotify.com/track/3A2dIRZrzkQp4GeYOJADpr) | [Jan.O & De Overige Bandleden](https://open.spotify.com/artist/6QbHdqdozdcEdCE3DHeyeV) | [Madeliefje](https://open.spotify.com/album/2wrtfGKVHTLvS8Rb2OHhLa) | 2:33 | 2024-07-19 |  |
 | [masker](https://open.spotify.com/track/2nP2m6DarEheNK0oTU95Iw) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ik ben soms bang in het donker](https://open.spotify.com/album/2lWHBuyE13th6358dardao) | 3:09 | 2024-06-26 |  |
 | [MASQUERADE](https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MASQUERADE](https://open.spotify.com/album/0VFnIiRSSQgULtV8kZPEcr) | 2:48 | 2024-07-05 |  |
 | [Meneer de Tijd](https://open.spotify.com/track/0TccteiGTooJVCSwuD0t6x) | [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Meneer de Tijd](https://open.spotify.com/album/4xmBBbbst60Q106LfQvKMS) | 2:21 | 2024-06-26 | 2024-07-06 |
@@ -45,6 +48,7 @@
 | [Odysseus](https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [Odysseus](https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ) | 3:26 | 2024-06-26 |  |
 | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/track/58eFsIty3d3vyNRmM9q9T7) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Oog om Oog \(feat\. Spinvis\)](https://open.spotify.com/album/5x5WE4VmjdXv7kLI1HIdOG) | 4:22 | 2024-06-26 |  |
 | [Perfect voor een Ander](https://open.spotify.com/track/7g5D5cjHsmhb9yE1w43EB8) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Perfect voor een Ander](https://open.spotify.com/album/5xoTPUULJamW9d0p05zTMX) | 2:51 | 2024-07-05 |  |
+| [Rat Race](https://open.spotify.com/track/4wUawYEd2U6U3niFCZWQcJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Rat Race](https://open.spotify.com/album/4JKpM1p2xwC6h9neD83b6I) | 2:33 | 2024-07-19 |  |
 | [S.O.S.](https://open.spotify.com/track/1Z9B1h99qrDLM2Mg8A2X2y) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [S.O.S.](https://open.spotify.com/album/0cuOUJAcoggXuV88PzqUKn) | 2:58 | 2024-06-26 |  |
 | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/track/1EQRtIpGXYAba7dz5ukrdd) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Sexy Genoeg \(feat\. MEROL\)](https://open.spotify.com/album/1DiAV9MiIWkWodHdqElI9M) | 4:07 | 2024-07-05 |  |
 | [Spijt](https://open.spotify.com/track/4Ny674v1zFuFdrRU01hh5I) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Spijt](https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE) | 3:04 | 2024-06-26 |  |
@@ -58,9 +62,9 @@
 | [Vluchten](https://open.spotify.com/track/45KPvfvpbCmluDSS1Q8G8Q) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Vluchten](https://open.spotify.com/album/6AQ7NbJsj0KxzPBSNGGcFl) | 3:09 | 2024-06-26 |  |
 | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/track/6bOIf6PY3dHknq5RzWxSbe) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [We Doen Er Allemaal Aan Mee](https://open.spotify.com/album/6pu4TsYK4brCRRwTWkiN4z) | 2:51 | 2024-06-26 |  |
 | [We Hebben De Tijd](https://open.spotify.com/track/6YbyOC4jqn7P9bsIJWdVSq) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 2:32 | 2024-06-26 |  |
-| [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 |  |
+| [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 |  |
-| [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-06-26 |  |
+| [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-06-26 | 2024-07-19 |
 | [Zachte Landing](https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Zachte Landing](https://open.spotify.com/album/3sDk5V1SdMtYnOpwUrruq4) | 3:23 | 2024-06-26 |  |
 | [Zonder Iets Te Doen](https://open.spotify.com/track/3seONUa4YlZIsPcIJvkxkE) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Atmosfeer](https://open.spotify.com/album/4FLFr07DNpeBUHj9Aj2CV4) | 3:05 | 2024-06-26 |  |
 | [Zonder Liedjes](https://open.spotify.com/track/11eXLYhb5zZT7S54E9xC3b) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/2K7gv2r8UMcEbp88ytO12o) | 3:00 | 2024-06-26 |  |

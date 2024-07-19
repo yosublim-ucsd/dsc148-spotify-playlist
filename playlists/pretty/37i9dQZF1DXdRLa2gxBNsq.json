@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Manolo Kabezabolo.",
-  "num_followers": 105313,
+  "num_followers": 105349,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Inadaptados",
         "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 158946,
       "name": "Enemigo Publico",
       "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
-      },
-      "artists": [
-        {
-          "name": "Pota en la Sopa",
-          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
-        },
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Coraz\u00f3n ardiendo",
         "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 181360,
       "name": "Coraz\u00f3n ardiendo",
       "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG"
+      },
+      "artists": [
+        {
+          "name": "Pota en la Sopa",
+          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "S\u00edganle compadres",
-        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
-      },
-      "artists": [
-        {
-          "name": "Kojon Prieto y los Huajolotes",
-          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
-        }
-      ],
-      "duration_ms": 155533,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Spiz Amarillo",
         "url": "https://open.spotify.com/album/1FBI4i2Iod7eFGY8s2ffmV"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 159999,
       "name": "Spiz Amarillo",
       "url": "https://open.spotify.com/track/5jqlOpp22pdsCK2bHJCK4G"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "S\u00edganle compadres",
+        "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
+      },
+      "artists": [
+        {
+          "name": "Kojon Prieto y los Huajolotes",
+          "url": "https://open.spotify.com/artist/7JQaCBrVLPIjr2mZq2hx5h"
+        }
+      ],
+      "duration_ms": 155533,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 170585,
       "name": "Vieja Guardia",
       "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "El Dolor",
-        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
       },
       "artists": [
         {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
         }
       ],
-      "duration_ms": 240971,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
+        "name": "El Dolor",
+        "url": "https://open.spotify.com/album/5lRFiSidcGCGoNY3y3pFnM"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 240971,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/1e3R1i0tkAIV1yRg677CtK"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 151134,
       "name": "Humanos",
       "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-07-12 10:37:20",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-12 10:37:20",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2024-07-12 10:37:20",
-      "album": {
         "name": "Lev\u00e1ntate",
         "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 232307,
       "name": "Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
+    },
+    {
+      "added_at": "2024-07-12 10:37:20",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2024-07-12 10:37:20",

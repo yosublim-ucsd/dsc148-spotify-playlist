@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Jowell & Randy, Cultura Prof\u00e9tica",
+  "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Los Cafres",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 227265,
       "name": "Como Un Volc\u00e1n",
       "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 251944,
       "name": "El Reguero",
       "url": "https://open.spotify.com/track/35VWHt3SgBDDp2eRdirS2T"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 255744,
       "name": "Hasta Que Me Olvides",
       "url": "https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157043,
       "name": "High",
       "url": "https://open.spotify.com/track/3s5LZuF7WGMigtXaA3iY6p"
@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 286714,
       "name": "High",
       "url": "https://open.spotify.com/track/2vg16RThWkdrrohdk4wq25"
@@ -3010,7 +3010,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 316440,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/4lvnCzIL9RTUOkgriZ0qBN"
@@ -3632,6 +3632,28 @@
       "duration_ms": 310344,
       "name": "LEGENDS",
       "url": "https://open.spotify.com/track/1Stfpri3EjoPHMHFMWmDfB"
+    },
+    {
+      "album": {
+        "name": "Leggae Kid",
+        "url": "https://open.spotify.com/album/6PRcdRmS9I0C7LN6EeG1a2"
+      },
+      "artists": [
+        {
+          "name": "Jah Fabio",
+          "url": "https://open.spotify.com/artist/6cMEIQyZxsgtbzzvMmozuc"
+        },
+        {
+          "name": "Warrior King",
+          "url": "https://open.spotify.com/artist/3P6IiqvaPyeePMtZA1mJwc"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174185,
+      "name": "Leggae Kid",
+      "url": "https://open.spotify.com/track/6SjhtaOLRhhvTUL04GdTvW"
     },
     {
       "album": {
@@ -6372,7 +6394,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 280975,
       "name": "Suena a Reggae (Suena a Reggae), Vol. 6",
       "url": "https://open.spotify.com/track/3fSBJlTmKgrVrDgBwQU9HY"

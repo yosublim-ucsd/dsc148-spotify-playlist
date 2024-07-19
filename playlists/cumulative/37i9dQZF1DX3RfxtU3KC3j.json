@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Pera\n",
+  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Yedinci Ev\n",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209650,
       "name": "A\u015fk Koydum Ad\u0131n\u0131",
       "url": "https://open.spotify.com/track/3RXxTFXefaVwLXr3sSfikc"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166216,
       "name": "Duydu\u011fum En G\u00fczel \u015eark\u0131s\u0131n",
       "url": "https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162139,
       "name": "D\u00f6nmem Ona",
       "url": "https://open.spotify.com/track/0qDqMCfmlenp7J5rqxSe7a"
@@ -402,6 +402,24 @@
       "duration_ms": 141851,
       "name": "ESERD\u0130N TEN\u0130MDE",
       "url": "https://open.spotify.com/track/3pK21lsBmOGbYKZk6LRDpr"
+    },
+    {
+      "album": {
+        "name": "Farkl\u0131 Son",
+        "url": "https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl"
+      },
+      "artists": [
+        {
+          "name": "13. Vagon",
+          "url": "https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130298,
+      "name": "Farkl\u0131 Son",
+      "url": "https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt"
     },
     {
       "album": {
@@ -568,10 +586,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 260868,
       "name": "Halledemedik",
       "url": "https://open.spotify.com/track/6Hmg4U7Vj36yRzo2Ptmqfa"
+    },
+    {
+      "album": {
+        "name": "Hani Nerede?",
+        "url": "https://open.spotify.com/album/0721GDLfG8SkkdGdOKN4Iy"
+      },
+      "artists": [
+        {
+          "name": "Meyal",
+          "url": "https://open.spotify.com/artist/0w3PlTOI8rZPFSlMG95sBa"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hani Nerede?",
+      "url": "https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl"
     },
     {
       "album": {
@@ -626,6 +662,24 @@
       "duration_ms": 227143,
       "name": "\u0130kimizden Biri",
       "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
+    },
+    {
+      "album": {
+        "name": "\u0130leri",
+        "url": "https://open.spotify.com/album/7mlUMr8dKwPr6PzCuBvDpA"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015fl\u0131 Amca",
+          "url": "https://open.spotify.com/artist/4Vr0nv4nM4aqWfj76zDTTp"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176564,
+      "name": "\u0130leri",
+      "url": "https://open.spotify.com/track/1dsVlDr3aHdYYsH3XWBOIp"
     },
     {
       "album": {
@@ -752,6 +806,24 @@
       "duration_ms": 198977,
       "name": "Kozmos",
       "url": "https://open.spotify.com/track/7yqSLFZ2pNDL91OXpOf41c"
+    },
+    {
+      "album": {
+        "name": "Kuduracaks\u0131n",
+        "url": "https://open.spotify.com/album/7G4pt2yd0ny4vJ2sue4E4d"
+      },
+      "artists": [
+        {
+          "name": "Prenslerin \u00d6c\u00fc",
+          "url": "https://open.spotify.com/artist/1lqrZTifQ9shpyZseCRvc8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216859,
+      "name": "Kuduracaks\u0131n",
+      "url": "https://open.spotify.com/track/0rUBxHnt6HaW3Gh13TaNNQ"
     },
     {
       "album": {
@@ -939,6 +1011,28 @@
     },
     {
       "album": {
+        "name": "\"Topyek\u00fcn\" Live",
+        "url": "https://open.spotify.com/album/7sHJfj9KfpT4QV6iPf8HZz"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6rkem Karabudak",
+          "url": "https://open.spotify.com/artist/1oAAtiC1OuS6dxE1DIkUUp"
+        },
+        {
+          "name": "Da Poet",
+          "url": "https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382625,
+      "name": "Sanr\u0131lar \u00c7\u0131ld\u0131rm\u0131\u015f Olmal\u0131 - Live",
+      "url": "https://open.spotify.com/track/52MjLPjxtIafUI7SUaAJZ8"
+    },
+    {
+      "album": {
         "name": "Sar\u0131lm\u0131\u015fs\u0131n Kendine",
         "url": "https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS"
       },
@@ -968,7 +1062,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202164,
       "name": "Sen Benim Ba\u015f\u0131ma Gelen En G\u00fczel \u015eey",
       "url": "https://open.spotify.com/track/71FCChMWw5JpeSjnrVcKsq"
@@ -1319,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Ufaktan Uzuyorum",
+        "url": "https://open.spotify.com/album/24CCQqtyaLCFhHBbkUTUXl"
+      },
+      "artists": [
+        {
+          "name": "Yedinci Ev",
+          "url": "https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189474,
+      "name": "Yava\u015ftan Ka\u00e7\u0131yorum",
+      "url": "https://open.spotify.com/track/6YhnSffFj5HOn7c0HulyyM"
+    },
+    {
+      "album": {
         "name": "Ya\u015fayamam Bu Benle",
         "url": "https://open.spotify.com/album/1dxmUVPcMQwPFWLfAP9aRM"
       },
@@ -1460,7 +1572,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 243041,
       "name": "\u015eark\u0131lar S\u00f6yle",
       "url": "https://open.spotify.com/track/3JAaYungPHfLfG8KIEmc2Y"

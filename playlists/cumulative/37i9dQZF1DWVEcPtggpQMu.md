@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX?si=1Kv0k2jFRGW0VyIp6q\_tHg">Yung Tyran</a>
+> Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=4AdLCG8PTQS58TRe5EHweA">K.Keed</a>
 
-784 songs - 1 day 18 hr 13 min
+785 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [PROBLEMZ](https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8) | [Dj Clen](https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Frank Casino](https://open.spotify.com/artist/7MF9LuUK0sWH8WXBoiPMNy), [Loatinover Pounds](https://open.spotify.com/artist/7c3N4lOnDqTJiSK1bQoGXh) | [V I R A L.](https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG) | 4:23 | 2023-07-20 | 2024-04-05 |
 | [Promised Land](https://open.spotify.com/track/7yLQ5VHxQBoxTODZLMQzaU) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Promised Land](https://open.spotify.com/album/3SnuqY9ZFDqLOPZQU1h70g) | 3:37 | 2022-02-24 | 2022-03-18 |
 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 | 2023-09-07 | 2024-04-26 |
-| [pull up \(feat\. Beau Nox\)](https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [pull up](https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I) | 2:32 | 2024-06-27 |  |
+| [pull up](https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [pull up](https://open.spotify.com/album/4Ewyr64Uz4ZBxqlkgPAr0I) | 2:32 | 2024-06-27 |  |
 | [Purple Heart Smoke Enough](https://open.spotify.com/track/6z9fdl7VvtCTTEGwHe5TRF) | [$till Finesse](https://open.spotify.com/artist/6FeLkA08OwkGuBvEdeWqIA) | [Purple Heart Smoke Enough](https://open.spotify.com/album/4yiaycWEfmNGdlbH4odSD0) | 2:05 | 2022-07-08 | 2022-07-29 |
 | [Purple Palm Trees](https://open.spotify.com/track/5mVlqgCFNNOeXsRuMltdNQ) | [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Purple Palm Trees](https://open.spotify.com/album/0rymWzprErLF6URdCN8vS9) | 3:32 | 2022-09-22 | 2022-12-13 |
 | [Pushing P](https://open.spotify.com/track/5YN5YDgT6sJIumBvC1XeKH) | [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36) | [Pushing P](https://open.spotify.com/album/4VnwZL3yfe1GkZIxpWTZpL) | 1:25 | 2022-12-12 | 2022-12-16 |
@@ -781,6 +781,7 @@
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-13 | 2023-09-30 |
 | [Yah!! \(Okay\)](https://open.spotify.com/track/3S0EFsWNa1bDsZEZz25pYq) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Yah!! \(Okay\)](https://open.spotify.com/album/2o0WeJjUHLkk4SFebG2end) | 2:08 | 2024-03-07 | 2024-05-10 |
 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 | 2022-12-12 | 2023-03-10 |
+| [Year 24](https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Year 24](https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3) | 3:16 | 2024-07-18 |  |
 | [Yesssir](https://open.spotify.com/track/4QubV2az3pY4MlaTAg47PQ) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [Yesssir](https://open.spotify.com/album/4JtmTP0yRjusbBYdMciB56) | 3:13 | 2021-09-02 | 2022-07-29 |
 | [Yesssir](https://open.spotify.com/track/61nqSeeR48OHlOsM93F7hC) | [Yung Tyran](https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX), [Die Mondez](https://open.spotify.com/artist/2ceT1FZTvlzjxBGZcjgTh2) | [Look What It's Come To](https://open.spotify.com/album/3slW5G9dQIubZnlHMq7DVH) | 3:13 | 2023-02-01 | 2023-05-27 |
 | [Yiz'apha](https://open.spotify.com/track/54CJUvVd3PsBUyCiqzWL2e) | [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0) | [Yiz'apha](https://open.spotify.com/album/0xJg3XIKp6Punh0hUVFssu) | 2:49 | 2022-07-08 | 2022-09-16 |

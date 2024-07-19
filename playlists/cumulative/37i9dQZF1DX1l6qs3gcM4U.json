@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211230,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/16Aiw4tQzSZhrt9P2qKKNR"
@@ -652,6 +652,24 @@
       "duration_ms": 179525,
       "name": "Babe",
       "url": "https://open.spotify.com/track/0yRWRVOjrrAvxOQ9ykRjM5"
+    },
+    {
+      "album": {
+        "name": "REI DO KUYUYU",
+        "url": "https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203411,
+      "name": "BABETE",
+      "url": "https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h"
     },
     {
       "album": {
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205181,
       "name": "Nha beb\u00e9",
       "url": "https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7"
@@ -5804,6 +5822,28 @@
       "duration_ms": 237570,
       "name": "Ref\u00fagio",
       "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "album": {
+        "name": "Regresso",
+        "url": "https://open.spotify.com/album/486W9HSnl6hgmcHkgb0GJn"
+      },
+      "artists": [
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        },
+        {
+          "name": "Paulo Flores",
+          "url": "https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188832,
+      "name": "Regresso",
+      "url": "https://open.spotify.com/track/1xBcCVkBBzEjZ7RBXd4QTN"
     },
     {
       "album": {

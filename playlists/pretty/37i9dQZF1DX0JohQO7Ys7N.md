@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Kethan
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,527 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,570 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 |
-| 2 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 |
-| 3 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
-| 4 | [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:49 |
-| 5 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
+| 2 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
+| 3 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
+| 4 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 |
+| 5 | [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:49 |
 | 6 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
 | 7 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 |
 | 8 | [Take It](https://open.spotify.com/track/60BmYE0G5451D7LwIqO7md) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Take It](https://open.spotify.com/album/3WF1FIQKr2vlPcxoPc6zgn) | 2:30 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 52 | [Niambie](https://open.spotify.com/track/12QXwJTH3XlsNXG7nKbxil) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:38 |
 | 53 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 |
 | 54 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 |
-| 55 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 |
-| 56 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 |
-| 57 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 |
-| 58 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 |
+| 55 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 |
+| 56 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 |
+| 57 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 |
+| 58 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 |
 | 59 | [Memory Lane](https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Memory Lane](https://open.spotify.com/album/6nii6T6T0MseXxmH0NjCCW) | 3:26 |
 | 60 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 |
 
-Snapshot ID: `ZpDHZgAAAADq69bPaxBg/HV3Q1cYsprH`
+Snapshot ID: `ZpmsRAAAAABuNuN1Xfh7fCW0/4mdNEpI`

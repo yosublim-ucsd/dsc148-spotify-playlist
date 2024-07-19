@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "Bonus Track",
+        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
+    },
+    {
+      "album": {
         "name": "Torbellino",
         "url": "https://open.spotify.com/album/17iZYgtqUiYhuZz0FMPacF"
       },

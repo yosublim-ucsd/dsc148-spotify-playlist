@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "album": {
         "name": "Girls in the Hood",
         "url": "https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc"
       },
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187840,
       "name": "Gucci Gucci",
       "url": "https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK"
@@ -2178,6 +2196,24 @@
       "duration_ms": 199906,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/6RcQOut9fWL6FSqeIr5M1r"
+    },
+    {
+      "album": {
+        "name": "Hot Butter Summertime",
+        "url": "https://open.spotify.com/album/2kZuaZZoUPTOgvhqzbjO52"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hot Butter Summertime",
+      "url": "https://open.spotify.com/track/4KbQ5S6ctUbesoDcMdnSBe"
     },
     {
       "album": {
@@ -3256,7 +3292,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154991,
       "name": "NANi",
       "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"

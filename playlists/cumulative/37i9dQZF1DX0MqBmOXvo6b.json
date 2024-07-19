@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Moment",
+        "url": "https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149183,
+      "name": "Beautiful Moment",
+      "url": "https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN"
+    },
+    {
+      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
@@ -7649,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "Replenish",
+        "url": "https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Replenish",
+      "url": "https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp"
+    },
+    {
+      "album": {
         "name": "Harmonism I",
         "url": "https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm"
       },
@@ -10588,7 +10624,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172874,
       "name": "Tulips In Spring",
       "url": "https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl"
@@ -11686,7 +11722,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186711,
       "name": "Yellow Man",
       "url": "https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81"

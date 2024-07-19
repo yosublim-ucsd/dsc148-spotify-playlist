@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-362 songs - 23 hr 4 min
+363 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 | 2023-12-30 |  |
 | [Utopia](https://open.spotify.com/track/6jqRMsjU5Aoxf7phpqu2YT) | [Relaxing Mindfulness Meditation Relaxation Maestro](https://open.spotify.com/artist/1rpfZOYHHEVUgvQ7D575F9) | [Zen Meditation 101 \- Tibetan Healing Music with Nature Sounds for Yoga Poses, Reiki, Qi Gong, Tai Chi, Inner Peace & Relaxation, Chakra Balancing](https://open.spotify.com/album/3gqPrJov5KKj0fqu66yr1w) | 4:07 | 2023-12-30 |  |
 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 | 2023-12-30 |  |
-| [Volcano](https://open.spotify.com/track/3rxTCj1eLJi9BK8ULnVTzQ) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Volcano](https://open.spotify.com/album/5wmItckZHykA0C6PqXi4Nb) | 4:04 | 2023-12-30 |  |
+| [Volcano](https://open.spotify.com/track/3rxTCj1eLJi9BK8ULnVTzQ) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Volcano](https://open.spotify.com/album/5wmItckZHykA0C6PqXi4Nb) | 4:04 | 2023-12-30 | 2024-07-19 |
+| [Volcano](https://open.spotify.com/track/5VN7DSFKLc1TjMvUOAPMAa) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Volcano](https://open.spotify.com/album/3CeQN6CgUOswVOQ9Q6TYsa) | 4:04 | 2024-07-18 |  |
 | [Voodoo](https://open.spotify.com/track/135SEcW19xWXM3WghwdUBa) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:10 | 2023-12-30 |  |
 | [Waiting for you](https://open.spotify.com/track/4X0Ud6znFzgWcS6bLwWAOe) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg) | [Waiting \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2x682cgqLMcAOliQqtkE72) | 3:25 | 2023-12-30 |  |
 | [Waiting To Die](https://open.spotify.com/track/5GOijxEW8K8l69SRLCctix) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:41 | 2023-12-30 |  |

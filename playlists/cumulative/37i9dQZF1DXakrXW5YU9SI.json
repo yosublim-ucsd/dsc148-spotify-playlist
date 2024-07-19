@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161194,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224594,
       "name": "BIA\u0141Y BEZ",
       "url": "https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp"
@@ -326,6 +326,24 @@
       "duration_ms": 186763,
       "name": "boys, bugs and men",
       "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
+    },
+    {
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "album": {
@@ -568,7 +586,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 238443,
       "name": "Dobrostan",
       "url": "https://open.spotify.com/track/2ksIbitQAwxvnQYGTgsfO1"
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237535,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -854,6 +890,28 @@
       "duration_ms": 155213,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
+    },
+    {
+      "album": {
+        "name": "Le bois br\u00fble",
+        "url": "https://open.spotify.com/album/5xMtoetMCz6QQvEPSZV5Q7"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        },
+        {
+          "name": "BEMY",
+          "url": "https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244612,
+      "name": "Le bois br\u00fble",
+      "url": "https://open.spotify.com/track/3j5yLii9A2RXboXDxddsZE"
     },
     {
       "album": {
@@ -976,7 +1034,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 216320,
       "name": "my",
       "url": "https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY"
@@ -1099,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Od kiedy jeste\u015b",
+        "url": "https://open.spotify.com/album/5tEKJkeIlU6xbnwnwpQHqo"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182137,
+      "name": "Od kiedy jeste\u015b",
+      "url": "https://open.spotify.com/track/06WAHlXnCIn6DkelXwtUOd"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/6XNZZuRxJMwpgrBqgPAgoN"
       },
@@ -1132,6 +1208,24 @@
       "duration_ms": 185552,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+    },
+    {
+      "album": {
+        "name": "pami\u0119tam",
+        "url": "https://open.spotify.com/album/3deHWsaVOQ62u2hyQ2JceC"
+      },
+      "artists": [
+        {
+          "name": "ja\u015b&ma\u0142gosia",
+          "url": "https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "pami\u0119tam",
+      "url": "https://open.spotify.com/track/5m4uTLWkLzT5fCX6yW1rTz"
     },
     {
       "album": {
@@ -1200,7 +1294,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175383,
       "name": "Pod wod\u0105",
       "url": "https://open.spotify.com/track/2D2njkTuNU2sL6qzy1gNhq"
@@ -1218,7 +1312,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146086,
       "name": "Poszukam",
       "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
@@ -1402,7 +1496,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 142011,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/7LBq9YOFtOoSeGFtlrxHEN"
@@ -1492,7 +1586,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195093,
       "name": "Tam s\u0142o\u0144ce, gdzie my",
       "url": "https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8"
@@ -1622,6 +1716,24 @@
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "album": {
+        "name": "Upadki i wzloty",
+        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Upadki i wzloty",
+      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
     },
     {
       "album": {

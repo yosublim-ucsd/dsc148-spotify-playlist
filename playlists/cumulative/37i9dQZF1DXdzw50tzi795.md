@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: fellow fellow
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: \(VICTOR\) PROXIE
 
-89 songs - 5 hr 51 min
+91 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-02-25 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-01-26 |  |
 | [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 | 2024-02-16 |
-| [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 |  |
+| [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 | 2024-07-19 |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-01-26 |  |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-26 |  |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2024-01-26 | 2024-02-01 |
@@ -53,6 +53,7 @@
 | [บรรยากาศ](https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [บรรยากาศ \- Single](https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT) | 4:35 | 2024-01-26 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-01-26 |  |
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-05-30 |  |
+| [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-07-18 |  |
 | [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2024-01-26 | 2024-03-28 |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-01-26 |  |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-26 | 2024-07-03 |
@@ -68,7 +69,7 @@
 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 | 2024-01-26 |  |
 | [วาสนาผู้ใด](https://open.spotify.com/track/1atD9QMSoZjgKiUKKopZBW) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/3pcJIZiaDMxH8hvTig1v99) | 3:15 | 2024-01-26 | 2024-04-19 |
 | [วาสนาผู้ใด](https://open.spotify.com/track/3skwZnq1wGOaBvniFLZjGo) | [Parkmalody](https://open.spotify.com/artist/6qb55pF0q2KS3v4M1Vd0yE) | [วาสนาผู้ใด](https://open.spotify.com/album/21KFJc9i08LxmFt1zP74vo) | 3:15 | 2024-04-18 | 2024-06-01 |
-| [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-03-27 |  |
+| [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-03-27 | 2024-07-19 |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 |  |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2024-01-26 | 2024-04-12 |
 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 | 2024-01-26 | 2024-03-28 |
@@ -83,6 +84,7 @@
 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 | 2024-01-26 |  |
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-01-26 |  |
 | [เมร่อน](https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv) | [Juepak](https://open.spotify.com/artist/4hyjpRJFaQcXR63Wfpjd3D), [จ๊ะ นงผณี](https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE), [GUNNER](https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv) | [เมร่อน](https://open.spotify.com/album/1tDF30Fp2KCtoI2Ag4GX9Y) | 2:43 | 2024-04-11 | 2024-06-01 |
+| [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-18 |  |
 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 | 2024-03-14 | 2024-05-07 |
 | [เส้นบางๆ](https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq) | [Indigo](https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w) | [เส้นบางๆ](https://open.spotify.com/album/02FsmwYV0AlSX79gNlcnmV) | 4:31 | 2024-01-26 | 2024-06-01 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-06 |  |

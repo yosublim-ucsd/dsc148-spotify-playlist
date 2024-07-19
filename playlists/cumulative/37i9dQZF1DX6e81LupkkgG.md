@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-299 songs - 17 hr 5 min
+301 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-11-24 | 2024-06-01 |
 | [Avalanche](https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Avalanche](https://open.spotify.com/album/1SoeCpLaSPZBJ5o4PDSHVy) | 3:47 | 2022-02-18 | 2022-04-06 |
 | [Azul](https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Azul](https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu) | 3:27 | 2024-03-08 | 2024-07-09 |
+| [BabyBaby](https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [BabyBaby](https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c) | 3:26 | 2024-07-19 |  |
 | [Be Here Now](https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Be Here Now](https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu) | 3:39 | 2022-02-18 | 2022-04-09 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-03-08 |  |
 | [Bed I Made](https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 3:00 | 2022-02-18 | 2022-07-29 |
@@ -58,7 +59,7 @@
 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 | 2022-06-03 | 2022-06-25 |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2022-02-18 | 2022-07-29 |
 | [Crocodiles](https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 4:00 | 2022-07-22 | 2023-03-11 |
-| [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2022-02-18 |  |
+| [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 | 2022-02-18 | 2024-07-19 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-10-28 | 2024-04-26 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-17 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-22 | 2024-06-13 |
@@ -77,6 +78,7 @@
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-04 | 2022-04-29 |
 | [Emily](https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Emily](https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo) | 3:21 | 2022-02-18 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-04-02 |  |
+| [Even Bossa If I Have To](https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Even Bossa If I Have To](https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ) | 2:31 | 2024-07-19 |  |
 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 | 2023-04-07 |  |
 | [EVERYDAY](https://open.spotify.com/track/4KNIWyhvOB0MrMEtxWkcN2) | [Julia Svacinna](https://open.spotify.com/artist/4OJZRqsMCFV8EAgoqL5AEE) | [EVERYDAY](https://open.spotify.com/album/5nd1xFh4o9yg7F80osBWVW) | 2:39 | 2022-03-16 | 2022-04-29 |
 | [Factor In](https://open.spotify.com/track/1jSsZv7ln3hhPhSoFTkV2R) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Factor In](https://open.spotify.com/album/0YMEgUXRjLiiEb2EYeRwni) | 3:27 | 2022-02-18 | 2022-10-13 |
@@ -216,7 +218,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-30 |  |
 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 | 2023-11-10 |  |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2022-10-07 |  |
-| [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/track/7pBvW8GDTlkqOf4my2tXR5) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/album/0gEdWHAW0CwDhJpGM0Q2VN) | 2:34 | 2024-07-12 |  |
+| [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/track/7pBvW8GDTlkqOf4my2tXR5) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Saudade Dura \(Ao Vivo\)](https://open.spotify.com/album/0gEdWHAW0CwDhJpGM0Q2VN) | 2:34 | 2024-07-12 | 2024-07-19 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-19 |  |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2022-02-18 | 2023-02-12 |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 | 2023-01-15 |

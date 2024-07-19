@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,912 songs - 4 day 4 hr 56 min
+1,914 songs - 4 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2021-08-06 | 2022-04-14 |
 | [Cocaine](https://open.spotify.com/track/0uoOJJYcnnLAFWajwNNAbL) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Cocaine](https://open.spotify.com/album/0K4jbnUPEuBr8JhWJuqdZ9) | 3:45 | 2023-02-10 | 2023-07-14 |
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-21 |  |
-| [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2023-09-26 |  |
+| [Coffee](https://open.spotify.com/track/6GdUMm5xMw9hJckIc0qsGb) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:25 | 2023-09-26 | 2024-07-19 |
 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 | 2022-07-22 | 2023-07-01 |
 | [Cold Charlie](https://open.spotify.com/track/3MGvORkRndr4qpEUroQ5mj) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:32 | 2022-06-01 | 2022-06-15 |
 | [Cold Shoulder](https://open.spotify.com/track/7lXB9BhHWe8E6OULBB5xew) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Cold Shoulder](https://open.spotify.com/album/4ZAigFYps8HNP9OUcrtpyQ) | 2:55 | 2020-11-10 | 2021-01-26 |
@@ -376,7 +376,7 @@
 | [could you love me while i hate myself](https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 1:00 | 2022-11-07 | 2022-12-10 |
 | [Coulda Been A Phone Call](https://open.spotify.com/track/4zzAg9A6pye8TqdvLvuBuh) | [Zeke Finn](https://open.spotify.com/artist/6NN2RYVrasbgm0qtgGSWXg), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Coulda Been A Phone Call](https://open.spotify.com/album/40TXBLG0IJVNKeTdpWQ0Rv) | 2:58 | 2022-04-15 | 2022-04-29 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq) | 2:39 | 2023-02-10 | 2023-03-03 |
-| [Counting Sheep](https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:59 | 2024-07-12 |  |
+| [Counting Sheep](https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:59 | 2024-07-12 | 2024-07-19 |
 | [Cowboy](https://open.spotify.com/track/3Zq52I2dhRokrKJW88yQPe) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Highway](https://open.spotify.com/album/0HBa1OFWRAcDhpZ1CrodtB) | 3:26 | 2022-06-17 | 2022-08-06 |
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-14 | 2023-07-22 |
 | [CR78](https://open.spotify.com/track/2MNaVbR5QaxYQ7Cr2qHXRq) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [CR78](https://open.spotify.com/album/0Aqt3CV2oh172Ut6ZhqEDh) | 2:51 | 2021-05-05 | 2021-11-30 |
@@ -1394,6 +1394,7 @@
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-10-05 | 2022-07-11 |
 | [Red Line](https://open.spotify.com/track/0DmOSVppmdwRGDOFHGW8E7) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Red Line](https://open.spotify.com/album/4meUIm5N6qjEEaJaQb7IiE) | 3:28 | 2020-10-16 | 2021-01-15 |
 | [Red Reflections](https://open.spotify.com/track/2hbteqW3HYlKI2Cz5PP7AA) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Red Reflections](https://open.spotify.com/album/3j3oEHgQTn4SFPmOAsBR7p) | 3:37 | 2020-11-03 | 2021-02-26 |
+| [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-07-19 |  |
 | [Reds](https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Reds](https://open.spotify.com/album/2jcuBrVLACrRdXtvzRjrnm) | 2:58 | 2020-11-10 | 2021-01-15 |
 | [Reinvent](https://open.spotify.com/track/2vjo6HuhOURw0wXsb0EVCa) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Reinvent](https://open.spotify.com/album/0DopL7jM6rl5x0bPgNGaG0) | 4:03 | 2020-10-13\* | 2022-04-14 |
 | [Remember November / Bitcrush\*Yr\*Life](https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 3:08 | 2021-12-03 | 2022-04-05 |
@@ -1489,6 +1490,7 @@
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2022-12-10 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-22 |  |
 | [should i get my ears pierced?](https://open.spotify.com/track/3F86hfA7Afrya4LTKckWKM) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [should i get my ears pierced?](https://open.spotify.com/album/7DNALWifdczn56CQ0IrAa9) | 2:31 | 2021-10-11 | 2021-10-14 |
+| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 |  |
 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-04-19 | 2024-06-08 |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2023-07-21 | 2023-09-30 |
 | [sickk](https://open.spotify.com/track/5Zay7XJG5kKZjobCGshwMo) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [sickk](https://open.spotify.com/album/76Rm4JtfarLiNj0BG06Ch3) | 4:05 | 2022-04-01 | 2022-06-10 |

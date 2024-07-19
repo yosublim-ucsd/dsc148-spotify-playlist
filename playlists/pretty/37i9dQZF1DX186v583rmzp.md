@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,681,706 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,683,423 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 34 | [1st of Tha Month](https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [E\. 1999 Eternal](https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9) | 5:14 |
 | 35 | [It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 3:22 |
 | 36 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
-| 37 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 38 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 |
+| 37 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 |
+| 38 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 39 | [Fuck Wit Dre Day \(And Everybody's Celebratin'\)](https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:51 |
 | 40 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 41 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 95 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |
 | 96 | [Step into a World \(Rapture's Delight\)](https://open.spotify.com/track/5xXL4i9L2ZbKBtENNh8fWY) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [I Got Next](https://open.spotify.com/album/6g9rKb1kKlh0M0mS34kCSS) | 4:49 |
 | 97 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
-| 98 | [Back That Azz Up](https://open.spotify.com/track/525yPO8r5J6kLostDxm3XK) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Greatest Hits](https://open.spotify.com/album/0UlugUB43h0SKODTgJDc35) | 4:25 |
-| 99 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
+| 98 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
+| 99 | [Back That Azz Up](https://open.spotify.com/track/525yPO8r5J6kLostDxm3XK) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [Greatest Hits](https://open.spotify.com/album/0UlugUB43h0SKODTgJDc35) | 4:25 |
 | 100 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/5PbFD3AIyunz5HxocduA9e) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:02 |
 
 Snapshot ID: `Zn6M9QAAAABilL36fkGg+fkjAAiHGDLP`

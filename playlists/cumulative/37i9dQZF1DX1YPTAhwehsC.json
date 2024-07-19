@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145606,
       "name": "40s N 9s",
       "url": "https://open.spotify.com/track/6icXDa9jG9metPsIJOZshJ"
@@ -1240,6 +1240,32 @@
       "duration_ms": 220408,
       "name": "Another One Of Me (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4hGmQboiou09EwhcTWa0H6"
+    },
+    {
+      "album": {
+        "name": "SMOKE & MIRRORS",
+        "url": "https://open.spotify.com/album/40Ilz3ncBAQlbTHNJk7kP6"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "ANTEBELLUM (feat. Che Noir)",
+      "url": "https://open.spotify.com/track/5KRTpq2FNdnhOUyvUNdUJB"
     },
     {
       "album": {
@@ -7679,6 +7705,28 @@
     },
     {
       "album": {
+        "name": "Friendly",
+        "url": "https://open.spotify.com/album/1DyMr2lzHwRu3n9Z6CILeK"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159903,
+      "name": "Friendly",
+      "url": "https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN"
+    },
+    {
+      "album": {
         "name": "OKANLAWON",
         "url": "https://open.spotify.com/album/77MRZ5gx5jmAoWoR8BOx6n"
       },
@@ -12510,7 +12558,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 122482,
       "name": "MADONNA & RIHANNA",
       "url": "https://open.spotify.com/track/704qSGogleVeb46KLsMl2e"
@@ -19338,7 +19386,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 112941,
       "name": "SLIDE ON ME",
       "url": "https://open.spotify.com/track/6kvtSj5dcMhRERhyTghT2J"
@@ -20238,6 +20286,28 @@
       "duration_ms": 157560,
       "name": "Sucka Free",
       "url": "https://open.spotify.com/track/4hB6fEzYSvamHVQtUQXNoK"
+    },
+    {
+      "album": {
+        "name": "Summer '24",
+        "url": "https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118700,
+      "name": "Summer '24",
+      "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
     },
     {
       "album": {

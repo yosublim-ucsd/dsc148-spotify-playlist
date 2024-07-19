@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 5 hr 32 min
+115 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,5 +122,6 @@
 | [Unbelievable](https://open.spotify.com/track/1LHfEkVMR0Yj20C8lWdgpA) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Unbelievable](https://open.spotify.com/album/5jJMdQiPyWPh8RznQyioyu) | 3:09 | 2024-06-13 |  |
 | [Ur so Cute](https://open.spotify.com/track/1Ek0cobqdxtZeFyszepTly) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Ur so Cute](https://open.spotify.com/album/34YQYSGf7GOqUi5ROHSQa8) | 2:10 | 2024-06-13 |  |
 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:27 | 2024-06-13 |  |
+| [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 | 2024-07-18 |  |
 
 \*This playlist was first scraped on 2024-06-14. Prior content cannot be recovered.

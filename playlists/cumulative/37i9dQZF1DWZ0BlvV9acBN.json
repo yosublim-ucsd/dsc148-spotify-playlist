@@ -350,7 +350,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 245462,
       "name": "ATEU",
       "url": "https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/1hrU8It6Ax3MJjqsxA1cqG"
@@ -1814,6 +1814,24 @@
       "duration_ms": 254762,
       "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
       "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
+    },
+    {
+      "album": {
+        "name": "Kleber Lucas ao vivo no Teatro Rival, Pt.1 (AO VIVO)",
+        "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309425,
+      "name": "NOVA CRIATURA (AO VIVO)",
+      "url": "https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w"
     },
     {
       "album": {
@@ -2706,6 +2724,28 @@
       "duration_ms": 290232,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
+    },
+    {
+      "album": {
+        "name": "Tele Visione of Reality",
+        "url": "https://open.spotify.com/album/2Ex7NLDr23eR5XLRZ6RoQA"
+      },
+      "artists": [
+        {
+          "name": "Allos",
+          "url": "https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295401,
+      "name": "Tele Visione of Reality",
+      "url": "https://open.spotify.com/track/32rRKhFT3AyOAZiuWjmoch"
     },
     {
       "album": {

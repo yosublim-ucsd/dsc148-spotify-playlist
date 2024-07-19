@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-246 songs - 21 hr 33 min
+247 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Kissing You In My Dreams](https://open.spotify.com/track/6R5v6ai4LwMHzlBFXG7zwb) | [YERO](https://open.spotify.com/artist/27qToNEWuPtqwuLDdO7O0F) | [Stolen Dreams & Loves at Night](https://open.spotify.com/album/1ZbihIzqPXkSaaCilopZZE) | 2:07 | 2023-12-08 |  |
 | [Knud, The Storm](https://open.spotify.com/track/3ETNUor97PlUMlDz2Tzo6D) | [AAVA](https://open.spotify.com/artist/2ECU46fzhybPUitpp31KjM) | [AAVA](https://open.spotify.com/album/3OwrvmPDdZqXJyjN2mqU2N) | 6:47 | 2022-09-02 | 2023-08-26 |
 | [Komma Hem](https://open.spotify.com/track/6fpFP1SiA0gkMA2GoBI6lL) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 3:30 | 2023-11-10 |  |
+| [Komorebi](https://open.spotify.com/track/5LBugAn5ltB09dIdRNvLyE) | [AINON](https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT) | [Komorebi](https://open.spotify.com/album/0J9uCu0MLS0OcqTVGy0KAy) | 4:22 | 2024-07-18 |  |
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 | 2024-04-27 |
 | [Laertes in Love](https://open.spotify.com/track/5hcRpnSIeVdAmc7REWOrYX) | [D.O.P.A.](https://open.spotify.com/artist/1uGwYyqQ8YZ8xzkVmQh3Sb), [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [Laertes in Love](https://open.spotify.com/album/4DELUxC0I8jc1UExZtGIc2) | 5:39 | 2024-03-15 |  |
 | [Lester the Jester](https://open.spotify.com/track/2XxZiXSdjToe4op5r6Kmce) | [Laurell & Sun Dog](https://open.spotify.com/artist/5FxliWBKK2HlKBxOwfU79s) | [Lester the Jester](https://open.spotify.com/album/236Ar5nslcai0M3psMBCQr) | 3:43 | 2023-10-26 | 2024-04-27 |

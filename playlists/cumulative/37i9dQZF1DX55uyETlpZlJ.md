@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-363 songs - 19 hr 41 min
+364 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 | 2023-11-20 | 2024-05-14 |
 | [Olave Manasiga](https://open.spotify.com/track/3IACS9yiWikZUQRt4usjaQ) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Olave Manasiga](https://open.spotify.com/album/0jHmdudtk8RXjuFGnVk2fX) | 4:10 | 2023-09-20 | 2024-04-05 |
 | [Omme Nee Nanage](https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf) | [Swaroop Ramesh](https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Omme Nee Nanage](https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp) | 5:17 | 2023-07-24 | 2024-02-01 |
-| [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 | 2024-02-21 |  |
+| [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 | 2024-02-21 | 2024-07-19 |
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
 | [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 |  |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 |  |
@@ -361,6 +361,7 @@
 | [Vadiraj](https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu) | [Dj Megharaj SN](https://open.spotify.com/artist/5NC5Fp8Cbb8LIiLp6Opyks) | [Vadiraj](https://open.spotify.com/album/0ZBl9ueUQnYRh8JnR8eqbD) | 2:21 | 2023-04-03 | 2023-11-30 |
 | [Veera](https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk) | [Nandan Srinivas](https://open.spotify.com/artist/2pTa1LU0eRBmROXhsvxttY), [Darshan Shinde](https://open.spotify.com/artist/4TxpjVvYrrI5Py1kCOIzig), [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [D Cube](https://open.spotify.com/artist/0mCdRXMN2ozZonPnI6EtFj), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sharath Prakash](https://open.spotify.com/artist/26tMtsrM32yHe469h2LLof) | [Veera](https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6) | 3:40 | 2023-08-11 | 2023-09-07 |
 | [Vivekalaya](https://open.spotify.com/track/6zRJheIz77q5J6EaaZkRez) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS) | [Vivekalaya](https://open.spotify.com/album/2ldFEqS0GEIQd89LTbiCcj) | 3:00 | 2024-02-01 | 2024-06-26 |
+| [Vone Vone](https://open.spotify.com/track/0bs8ek0Ua5gjoaGc9Rkgjg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Vone Vone](https://open.spotify.com/album/7fZeTyWiRoqj4dRcUx6rwm) | 1:53 | 2024-07-18 |  |
 | [We Love You Appu](https://open.spotify.com/track/4rN0TpRauE4g3cGsGmzrtm) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [We Love You Appu \- Single](https://open.spotify.com/album/2ixJIpff1eIVyy1yvqRF7L) | 3:23 | 2023-03-15 | 2023-11-30 |
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 | 2024-02-01 |

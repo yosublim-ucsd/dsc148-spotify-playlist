@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: DOE",
-  "num_followers": 58335,
+  "num_followers": 58337,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
+    },
+    {
+      "added_at": "2024-07-02 21:16:44",
+      "album": {
         "name": "Streetwise",
         "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 126620,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ"
-    },
-    {
-      "added_at": "2024-07-02 21:16:44",
-      "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
     },
     {
       "added_at": "2024-07-02 21:16:44",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-07-02 21:16:44",
       "album": {
+        "name": "Self Doubt",
+        "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
+      },
+      "artists": [
+        {
+          "name": "Ava Maybee",
+          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Self Doubt",
+      "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
+    },
+    {
+      "added_at": "2024-07-02 21:16:44",
+      "album": {
         "name": "Delphinium Blue",
         "url": "https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 217893,
       "name": "Delphinium Blue",
       "url": "https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR"
-    },
-    {
-      "added_at": "2024-07-02 21:16:44",
-      "album": {
-        "name": "Leroy",
-        "url": "https://open.spotify.com/album/3n2wFuTMkPQxWVHlZyJ7Ts"
-      },
-      "artists": [
-        {
-          "name": "Tigirlily Gold",
-          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
-        }
-      ],
-      "duration_ms": 207607,
-      "name": "Leroy",
-      "url": "https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq"
     },
     {
       "added_at": "2024-07-02 21:16:44",

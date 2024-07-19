@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Boulevard",
+        "url": "https://open.spotify.com/album/586kRfNguCVs8P0HleKlAb"
+      },
+      "artists": [
+        {
+          "name": "Jasper Nyx",
+          "url": "https://open.spotify.com/artist/4b39Yz8NnbF7QNjVSsPLch"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171780,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/27yXUWKrNGFJcQeo50OBNq"
+    },
+    {
+      "album": {
         "name": "brats",
         "url": "https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15"
       },
@@ -2526,6 +2544,28 @@
       "duration_ms": 162534,
       "name": "For My Lady",
       "url": "https://open.spotify.com/track/6xGgMpySXg8CfzxapgyBXF"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7vgniLk1WI79GTUvxzrnmL"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Florent Garcia",
+          "url": "https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172919,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2zLEAJKKFHpRnzQ3XVsmOB"
     },
     {
       "album": {
@@ -4336,7 +4376,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 139230,
       "name": "License To Chill",
       "url": "https://open.spotify.com/track/4CbhVp50fIwZlInji609vC"
@@ -4970,6 +5010,24 @@
       "duration_ms": 146331,
       "name": "Matal\u00ed",
       "url": "https://open.spotify.com/track/26trHnnPcMZIFpG9BJdsbw"
+    },
+    {
+      "album": {
+        "name": "Maui Midnight",
+        "url": "https://open.spotify.com/album/0Qi2WNmlR7BRDqgFnmMTFZ"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Maui Midnight",
+      "url": "https://open.spotify.com/track/5RhzrTGuWdN9BwLrsQNK8I"
     },
     {
       "album": {
@@ -6292,7 +6350,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156000,
       "name": "Poetico",
       "url": "https://open.spotify.com/track/3WOVGisKBJAaab268pcVSw"
@@ -6989,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "See You, Space Cowboy",
+        "url": "https://open.spotify.com/album/5cYKSdW2gvvEIGkkvALVdh"
+      },
+      "artists": [
+        {
+          "name": "404flipp",
+          "url": "https://open.spotify.com/artist/0JAoyodhQGwikUsJp8FKNV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147108,
+      "name": "See You, Space Cowboy",
+      "url": "https://open.spotify.com/track/3wH8G4TzAVS6YyBhlUX6Se"
+    },
+    {
+      "album": {
         "name": "Selected",
         "url": "https://open.spotify.com/album/6q0y2RlQ7wRpvz0B2LJXDW"
       },
@@ -7564,6 +7640,28 @@
       "duration_ms": 116470,
       "name": "Summer",
       "url": "https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA"
+    },
+    {
+      "album": {
+        "name": "Summer Breezy",
+        "url": "https://open.spotify.com/album/1xdFMgpgVmz0nKTGof8KYZ"
+      },
+      "artists": [
+        {
+          "name": "Kid Tar\u00f4",
+          "url": "https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT"
+        },
+        {
+          "name": "Shukgotbeats",
+          "url": "https://open.spotify.com/artist/0oBWeMhga3kR0K01mEnxZO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Summer Breezy",
+      "url": "https://open.spotify.com/track/3wOtHLlNcxt9zIcJkwFq42"
     },
     {
       "album": {

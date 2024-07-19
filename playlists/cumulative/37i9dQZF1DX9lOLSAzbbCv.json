@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0425\u0456\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0435\u043f\u0443. \u041d\u0430 \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u0446i: alyona alyona",
+  "description": "\u0425\u0456\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0440\u0435\u043f\u0443. \u041d\u0430 \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u0446i: 100\u043b\u0438\u0446\u044f",
   "name": "\u0420\u0435\u043f \u0445\u0456\u0442\u0438",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183600,
       "name": "\u0417\u0430\u0431\u0443\u0434\u044c",
       "url": "https://open.spotify.com/track/1EbhCxkMF4t5h4tvAsGonO"
@@ -442,6 +442,24 @@
       "duration_ms": 159360,
       "name": "\u041a\u0430\u0440\u0442\u044c\u0454",
       "url": "https://open.spotify.com/track/4iQGxj4nDaya5SldXPoE2J"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+        "url": "https://open.spotify.com/album/2pJYccrBAselPtceYjkMTV"
+      },
+      "artists": [
+        {
+          "name": "Santorin",
+          "url": "https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+      "url": "https://open.spotify.com/track/5LPlcH8OmCCJWMlexUo4mC"
     },
     {
       "album": {
@@ -608,7 +626,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144642,
       "name": "\u041d\u0435 \u0448\u0443\u043a\u0430\u0432",
       "url": "https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C"
@@ -1022,6 +1040,28 @@
       "duration_ms": 147574,
       "name": "\u0427\u0443\u0442\u0442\u0454\u0432\u043e \u0439 \u0437\u0432\u043e\u0440\u0443\u0448\u043b\u0438\u0432\u043e",
       "url": "https://open.spotify.com/track/69d7LFyrraty4buwYsXeGf"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0435\u043f\u043e\u0447\u0435 \u0434\u043e\u0449",
+        "url": "https://open.spotify.com/album/4TpzNla4P92I6TW3VSnmX9"
+      },
+      "artists": [
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        },
+        {
+          "name": "Balsam",
+          "url": "https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "\u0428\u0435\u043f\u043e\u0447\u0435 \u0434\u043e\u0449",
+      "url": "https://open.spotify.com/track/0r8QbYyEx9qvzccnPDyYSX"
     },
     {
       "album": {

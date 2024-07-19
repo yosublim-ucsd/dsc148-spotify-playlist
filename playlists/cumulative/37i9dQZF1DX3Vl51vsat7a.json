@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Million Heartbreak Songs",
+        "url": "https://open.spotify.com/album/1DYm43u5XQfymDy9WuKBBj"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237853,
+      "name": "A Million Heartbreak Songs",
+      "url": "https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI"
+    },
+    {
+      "album": {
         "name": "A$AP & Rihanna",
         "url": "https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 167899,
       "name": "Abendkleider und Nadelstreifen",
       "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
+    },
+    {
+      "album": {
+        "name": "abgelenkt",
+        "url": "https://open.spotify.com/album/2vWOXWon4lctKoApAK69XY"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159286,
+      "name": "abgelenkt",
+      "url": "https://open.spotify.com/track/34znHuzr2NqkHURUtPCmEE"
     },
     {
       "album": {
@@ -2143,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Haus am Meer",
+        "url": "https://open.spotify.com/album/1iVc7dFKvehP3OmTpMihjm"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137204,
+      "name": "Haus am Meer",
+      "url": "https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh"
+    },
+    {
+      "album": {
         "name": "Haus am See",
         "url": "https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe"
       },
@@ -2296,6 +2350,24 @@
       "duration_ms": 163649,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ"
+    },
+    {
+      "album": {
+        "name": "I Hate You (So Much)",
+        "url": "https://open.spotify.com/album/5qR3QHS5XHa2IA4i6ujUNi"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178934,
+      "name": "I Hate You (So Much)",
+      "url": "https://open.spotify.com/track/4jOscqspgP24yNJ0jhOFRN"
     },
     {
       "album": {
@@ -3070,7 +3142,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185238,
       "name": "Lucky Dancer",
       "url": "https://open.spotify.com/track/3CuHNwe5re2CcjlmX6MmN1"
@@ -3118,6 +3190,24 @@
       "duration_ms": 235413,
       "name": "Mach kaputt",
       "url": "https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh"
+    },
+    {
+      "album": {
+        "name": "Major Love",
+        "url": "https://open.spotify.com/album/70EaDCxfBUAk0WCnIbiQJ5"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Major Love",
+      "url": "https://open.spotify.com/track/31pvTbaEbnoP9iQBdKycYq"
     },
     {
       "album": {
@@ -3356,7 +3446,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 248687,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l"
@@ -3518,7 +3608,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171313,
       "name": "Never Never",
       "url": "https://open.spotify.com/track/2P1pnhmmFON3lW4rzkjCm5"
@@ -3602,7 +3692,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 149799,
       "name": "nicht nachmachen!!",
       "url": "https://open.spotify.com/track/3gro2tfkybWGoK9MflVLWs"
@@ -5612,7 +5702,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150084,
       "name": "Wenn du gehst",
       "url": "https://open.spotify.com/track/7mDjp1foA6p4us9QZj8s8f"

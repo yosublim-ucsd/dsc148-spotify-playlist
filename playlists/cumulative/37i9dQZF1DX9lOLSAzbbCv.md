@@ -2,9 +2,9 @@
 
 ### [Реп хіти](https://open.spotify.com/playlist/37i9dQZF1DX9lOLSAzbbCv)
 
-> Хіти українського репу\. На обкладинцi: alyona alyona
+> Хіти українського репу\. На обкладинцi: 100лиця
 
-54 songs - 2 hr 27 min
+56 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,11 @@
 | [До світанку](https://open.spotify.com/track/1bxlTXzCuefTibPtYIjPXS) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [До світанку](https://open.spotify.com/album/55p8NSKLxqSlS7ptkU64yZ) | 2:23 | 2024-06-27 |  |
 | [журба](https://open.spotify.com/track/7H3iTpY8sYZySgvlga4FSm) | [jockii druce](https://open.spotify.com/artist/4CDqcsxDc670sXyEMhVt94), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [trashhouttttttt](https://open.spotify.com/album/57ifk9AiFeBeY5u1BXkmGt) | 2:56 | 2024-06-27 |  |
 | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/track/4IXr5Feku5VAryvp1QFEpB) | [Мюслі UA](https://open.spotify.com/artist/2QlTrbyPWbGWNmeDCp7QNR), [MISHA SCORPION](https://open.spotify.com/artist/7qUUu0SIH6JhGNSM1QwJsE) | [ЗА ТЕРИКОНАМИ](https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj) | 2:50 | 2024-06-27 |  |
-| [Забудь](https://open.spotify.com/track/1EbhCxkMF4t5h4tvAsGonO) | [ХАС](https://open.spotify.com/artist/2fqqZipMJWN5aYcOtzFnH4) | [Забудь](https://open.spotify.com/album/0OQuqGEnZKCG8jmRAsfK1p) | 3:03 | 2024-06-27 |  |
+| [Забудь](https://open.spotify.com/track/1EbhCxkMF4t5h4tvAsGonO) | [ХАС](https://open.spotify.com/artist/2fqqZipMJWN5aYcOtzFnH4) | [Забудь](https://open.spotify.com/album/0OQuqGEnZKCG8jmRAsfK1p) | 3:03 | 2024-06-27 | 2024-07-19 |
 | [ЗАГЛОХ](https://open.spotify.com/track/4ASeRZheeHg7e2F9Bc0q7q) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЗАГЛОХ](https://open.spotify.com/album/6GffWAJfrbcaSY6cSi9Soa) | 2:53 | 2024-06-27 |  |
 | [Зникай](https://open.spotify.com/track/30WMXb2SdCxlsycRXPZ9W0) | [MBY](https://open.spotify.com/artist/3AXXysK0eGG8CmbmJINr5R), [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Зникай](https://open.spotify.com/album/6dgWA0JgCHFYU4zHq2YNHO) | 3:15 | 2024-07-11 |  |
 | [Картьє](https://open.spotify.com/track/4iQGxj4nDaya5SldXPoE2J) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7) | [Картьє](https://open.spotify.com/album/1dW9T5bVbDnxmsQunaazlt) | 2:39 | 2024-06-27 |  |
+| [Карусель](https://open.spotify.com/track/5LPlcH8OmCCJWMlexUo4mC) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [Карусель](https://open.spotify.com/album/2pJYccrBAselPtceYjkMTV) | 1:54 | 2024-07-18 |  |
 | [Листопад](https://open.spotify.com/track/2ARYmVaJa8i7DTczEhuqAk) | [VERLOKA](https://open.spotify.com/artist/0tckoUCOIgx8MOe4mIOvUc), [HOLLY](https://open.spotify.com/artist/3EJ1bX5tskfrkykBaVzxD6) | [Листопад](https://open.spotify.com/album/5Ydo9v0cXTvcbrGMT5ZIQy) | 2:02 | 2024-06-27 | 2024-07-12 |
 | [Люблю тебе](https://open.spotify.com/track/5DWMGBTBYnY4o2wcpoRJwX) | [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Люблю тебе](https://open.spotify.com/album/42bCXXykxLhAJAsj9j7CSE) | 2:09 | 2024-06-27 |  |
 | [Любов, як осінь](https://open.spotify.com/track/6tGMRSkR0nXPQc4SsIP2Uq) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Любов, як осінь](https://open.spotify.com/album/3EMob24jECMo4UwlCWmEzi) | 2:12 | 2024-06-27 |  |
@@ -38,7 +39,7 @@
 | [Мій дім](https://open.spotify.com/track/2B9toPBL4ZxY5xeK8h8RBS) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Мій дім](https://open.spotify.com/album/60AdWdumInAzUUCayul6BV) | 2:41 | 2024-06-27 |  |
 | [На даху](https://open.spotify.com/track/6AvzIrBCctDINlsy16lQR3) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [На даху](https://open.spotify.com/album/3FlXdW43VRAn8ww99fNCly) | 2:34 | 2024-06-27 |  |
 | [Не втратимо зв'язок](https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Не втратимо зв'язок](https://open.spotify.com/album/67H8Ds24jGQTAfqzdc3xpX) | 2:28 | 2024-06-27 |  |
-| [Не шукав](https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Не шукав](https://open.spotify.com/album/7HZTGXwTX6if5XIJo0NY24) | 2:24 | 2024-06-27 |  |
+| [Не шукав](https://open.spotify.com/track/2e93o8SV4u4oqbZlLKIU7C) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Не шукав](https://open.spotify.com/album/7HZTGXwTX6if5XIJo0NY24) | 2:24 | 2024-06-27 | 2024-07-19 |
 | [Небо хилиться](https://open.spotify.com/track/2YxL4H5c4NCPm19E28OPSt) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Небо хилиться](https://open.spotify.com/album/6SoyCHcNPVDIPpojssKObm) | 2:37 | 2024-06-27 |  |
 | [Немає значення](https://open.spotify.com/track/1m1RQgVEuog9wotWDnfkzk) | [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Немає значення](https://open.spotify.com/album/0jcEPlA9VZvuOYCe5vWvBr) | 2:21 | 2024-07-11 |  |
 | [Ніч](https://open.spotify.com/track/3nhlx8g6GES3TB1XrsNb98) | [Фир](https://open.spotify.com/artist/38XfwCl7tynQxVzNoqYzIY) | [Ніч](https://open.spotify.com/album/00mmFonnmrR8yBsQIsKsl2) | 3:02 | 2024-06-27 |  |
@@ -60,6 +61,7 @@
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-06-27 |  |
 | [Чекаю на ніч](https://open.spotify.com/track/6uwvm0ZMHCMVxE9XPU6UA5) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Чекаю на ніч](https://open.spotify.com/album/4IQuXEYq1dRFFhPunJRCS6) | 1:58 | 2024-06-27 |  |
 | [Чуттєво й зворушливо](https://open.spotify.com/track/69d7LFyrraty4buwYsXeGf) | [VovaZiLvova](https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH), [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Чуттєво й зворушливо](https://open.spotify.com/album/3CLJUopbto0GE7LitWF5wr) | 2:27 | 2024-06-27 |  |
+| [Шепоче дощ](https://open.spotify.com/track/0r8QbYyEx9qvzccnPDyYSX) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3) | [Шепоче дощ](https://open.spotify.com/album/4TpzNla4P92I6TW3VSnmX9) | 2:31 | 2024-07-18 |  |
 | [Шукали вчора](https://open.spotify.com/track/6LWU2SReUMAZ4XixabuZqp) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C) | [Недовготривалі відносини](https://open.spotify.com/album/1Y74eDClvLKpzJgVSbovLS) | 2:48 | 2024-06-27 |  |
 | [Як ти там](https://open.spotify.com/track/2xGRKA8PKaiXF1ixWcsUds) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn) | [Як ти там](https://open.spotify.com/album/4NSkMH1eoZPg14tAjdSyF6) | 3:25 | 2024-06-27 |  |
 

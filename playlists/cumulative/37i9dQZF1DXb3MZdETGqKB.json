@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162821,
       "name": "Can't Judge a Book By It's Cover",
       "url": "https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211638,
       "name": "Evil on the Inside",
       "url": "https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP"
@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Leaving in 3/4 Time",
+        "url": "https://open.spotify.com/album/7HeySAN5T1fvUCpXitFGLm"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125825,
+      "name": "Leaving in 3/4 Time",
+      "url": "https://open.spotify.com/track/1wil07vTmtw9SyDq4XuXOn"
+    },
+    {
+      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -3136,6 +3154,42 @@
       "duration_ms": 203653,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/1vC2eGIjumzgYknFrKl3Vg"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177309,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e"
+    },
+    {
+      "album": {
+        "name": "Mr. Mechanic Man",
+        "url": "https://open.spotify.com/album/1gm77KuKLDfyPzBy3UgAvm"
+      },
+      "artists": [
+        {
+          "name": "Sheba Potts-Wright",
+          "url": "https://open.spotify.com/artist/0YhLEuRkRqKV3cXBsSb0Ty"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Mr. Mechanic Man",
+      "url": "https://open.spotify.com/track/0x5Jhx9pmRvqYdEDpnegfq"
     },
     {
       "album": {

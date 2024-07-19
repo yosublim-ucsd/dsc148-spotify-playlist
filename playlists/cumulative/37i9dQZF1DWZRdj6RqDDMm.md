@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH?si=0lJgMD1sS\_mVVF1J\_3ofwg>CalledOut Music
 
-301 songs - 17 hr 59 min
+304 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 | 2023-10-20 |  |
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-27 | 2024-01-26 |
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-11-03 |  |
+| [Count My Blessings](https://open.spotify.com/track/43ZHlCWp1TAA1dyMxNh28L) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Count My Blessings](https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX) | 2:42 | 2024-07-19 |  |
 | [Count on You](https://open.spotify.com/track/67CHUHAttbVOwCPZYUwdRI) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Count on You](https://open.spotify.com/album/4mBkalkSQAjI0CI6U0l3ac) | 2:41 | 2023-10-20 | 2024-01-26 |
 | [cycles\(i repent\)](https://open.spotify.com/track/1XFMmjJOQV8LLWaqfUlj3l) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [cycles\(i repent\)](https://open.spotify.com/album/3NefjhlxHaIjSS5kKwSLfK) | 3:00 | 2024-03-15 | 2024-05-03 |
 | [Daily](https://open.spotify.com/track/5YsZ6puRY8wkX3eUbDuS6F) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy), [Password](https://open.spotify.com/artist/6mkNFFIPEN2lCvBNkGW2nI) | [Daily](https://open.spotify.com/album/6IpjR5OfbNxldDqRjNSalZ) | 2:58 | 2023-10-20 | 2024-01-26 |
@@ -252,6 +253,7 @@
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 |  |
 | [Thank You Jesus](https://open.spotify.com/track/0uoBSJ7IiLNG9kMe5ZLYgU) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Thank You Jesus](https://open.spotify.com/album/6BUkztkXrNhuVU3szVy2o6) | 3:26 | 2023-10-20 | 2024-01-26 |
 | [Thank You Lord](https://open.spotify.com/track/3b7hoD6OLI8GrbbFBzTAes) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ) | [Thank You Lord](https://open.spotify.com/album/5XTB6jZUx1kvv33gsxFhym) | 2:12 | 2024-01-05 | 2024-02-02 |
+| [The Life](https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [The Life](https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb) | 2:45 | 2024-07-19 |  |
 | [The Light](https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Kingdom Mission](https://open.spotify.com/album/46hmWwofq4WLReMxBz5Ynw) | 1:37 | 2024-01-05 | 2024-02-02 |
 | [The One \- Remix](https://open.spotify.com/track/2Ne0ovpMlUx6wVm6tzAu9E) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe), [Isaac Geralds](https://open.spotify.com/artist/0koRhDQ7F7dsjljcuU05PX) | [The One \(Remix\)](https://open.spotify.com/album/4otZyK17QTH5WdPW7DyyoU) | 3:06 | 2023-10-20 | 2024-01-26 |
 | [The Prayer \(Spontaneous Worship\)](https://open.spotify.com/track/0hExKHoFhWpagUyoKRDBZ0) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [The Prayer \(Spontaneous Worship\)](https://open.spotify.com/album/3Ce2BubG9bdtiaPmpCS1ap) | 5:45 | 2024-04-19 |  |
@@ -292,6 +294,7 @@
 | [What's on your mind?](https://open.spotify.com/track/3AvnVkCpr9Ux8xQxtUpRqn) | [Shadrach SBS](https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb) | [What's on your mind?](https://open.spotify.com/album/1ybEUj5exmZpufSJztvapl) | 1:32 | 2024-05-03 | 2024-07-05 |
 | [What's up](https://open.spotify.com/track/26g3lvoV0OsDqhSdharPMX) | [Naem](https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [What's up](https://open.spotify.com/album/2Fb6bo9CDTUpaWc57ttVJa) | 2:50 | 2024-01-19 | 2024-02-17 |
 | [Where I For Dey](https://open.spotify.com/track/1qIE2ogrZtES8erjkrKYqt) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Where I For Dey](https://open.spotify.com/album/0hsksKMIUQgofLyKMn7hSk) | 3:17 | 2024-07-05 |  |
+| [Winner Man](https://open.spotify.com/track/2c1aZb77xpWfNMZ3FserB1) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Aeno](https://open.spotify.com/artist/4uUqQm31KnYXSZ1bjNmMlh), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Winner Man](https://open.spotify.com/album/7j5NP7QTwtkyPMq86gMC01) | 2:26 | 2024-07-19 |  |
 | [Wonder](https://open.spotify.com/track/5YfRrfnLf0rvsYlE7q1Jbf) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Wonder](https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe) | 3:16 | 2023-11-17 | 2024-01-26 |
 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 | 2024-06-14 |  |
 | [Work It Out](https://open.spotify.com/track/5pol8d0lIHv6664Ow4l9XE) | [Chané](https://open.spotify.com/artist/2prZqMnNuyFYxrjIMIUkPE), [Julanie J](https://open.spotify.com/artist/5FWjsO7SEyEQj4pTFUGsUD) | [Work It Out](https://open.spotify.com/album/74aAyivHbswbVLoqBBwpOV) | 3:04 | 2023-10-20 | 2024-01-19 |

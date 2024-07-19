@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-934 songs - 2 day 6 hr 56 min
+935 songs - 2 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-29 | 2024-01-04 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-07 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-24 | 2022-05-07 |
+| [Hey Hey OK!](https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Hey Hey OK!](https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m) | 3:17 | 2024-07-18 |  |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-04-30 | 2024-06-01 |
 | [Hold My Hand](https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 3:45 | 2022-06-20 | 2022-06-24 |
 | [Hold On](https://open.spotify.com/track/1nahzW3kfMuwReTka28tH5) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:50 | 2021-03-27\* | 2021-05-23 |
@@ -623,7 +624,7 @@
 | [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 | 2023-01-12 |
 | [一路向北](https://open.spotify.com/track/31RIphTQ9y4zStkH5xRWgW) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 4:54 | 2023-05-15 | 2023-05-17 |
 | [七里香](https://open.spotify.com/track/3kwqNLXvsjSrIXbVsRBj8q) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 4:55 | 2023-05-08 | 2023-05-19 |
-| [七點半鐘的陽光](https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 4:11 | 2024-03-13 |  |
+| [七點半鐘的陽光](https://open.spotify.com/track/7Hgtq72EtYE65iuAyIb5tY) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 4:11 | 2024-03-13 | 2024-07-19 |
 | [三個字](https://open.spotify.com/track/524AUGUhR1F8SRiumM4T5e) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [三個字](https://open.spotify.com/album/4caS8RrS6eIRCPi5JTsFQG) | 3:46 | 2021-11-10 | 2022-02-16 |
 | [三生有幸](https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [TO WHOM IT MAY CONCERN](https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF) | 3:37 | 2024-07-07 |  |
 | [三生有幸](https://open.spotify.com/track/5GnB3Nz0WfhOZK50PtAcma) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [三生有幸](https://open.spotify.com/album/0GNN3DUnDHMoKiPEwykUfc) | 3:37 | 2024-02-24 | 2024-07-08 |
@@ -915,7 +916,7 @@
 | [隔離](https://open.spotify.com/track/1i5DjVNfPxqMelMdjfI0WR) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:34 | 2021-05-16 | 2021-07-10 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/4xL01OuFjqizPDclF8gDpl) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [隔離 \(Studio Live Duet\)](https://open.spotify.com/album/3I3I0AHGrv1daEtREWB1VA) | 4:08 | 2021-03-27\* | 2021-05-16 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2021-05-16 | 2022-09-29 |
-| [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 | 2023-04-21 | 2024-07-18 |
+| [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 | 2023-04-21 |  |
 | [離不開](https://open.spotify.com/track/0wqkdSzqQZDUJXOB6Etp7l) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [離不開](https://open.spotify.com/album/5axFyXeQt3bZCaelmy2N94) | 5:15 | 2021-06-10 | 2021-08-07 |
 | [離別的規矩](https://open.spotify.com/track/5tHHZJbJgs6zQmvqewePEf) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [離別的規矩](https://open.spotify.com/album/4zmlpzipP0VIn0YQyfUknJ) | 4:42 | 2022-04-21 | 2022-08-22 |
 | [難道喜歡處女座](https://open.spotify.com/track/0LfPjfqhyyeWk9Pl20hIM5) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [難道喜歡處女座](https://open.spotify.com/album/2VSiJACIKYn9aXe3cUikwX) | 3:09 | 2021-08-24 | 2021-12-05 |
@@ -930,7 +931,7 @@
 | [青春告別式](https://open.spotify.com/track/2mMgDVazhRjNoOweYMP1pz) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [青春告別式](https://open.spotify.com/album/0JQBICqyFVPL861mwgC8at) | 4:16 | 2024-01-01 | 2024-07-11 |
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay](https://open.spotify.com/artist/3AemIC066y8n3TetXWkVoE), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2021-05-30 | 2021-08-26 |
 | [靜靜](https://open.spotify.com/track/5rvJ9lvGq8hWhkCQEcer1x) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [靜靜](https://open.spotify.com/album/3TieX8iyJgg5spPuiUF3Qo) | 3:50 | 2022-08-06 | 2022-08-08 |
-| [風的形狀](https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [風的形狀](https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2) | 3:26 | 2021-07-25 |  |
+| [風的形狀](https://open.spotify.com/track/7iQdInUqIpVdatCooLZC3A) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [風的形狀](https://open.spotify.com/album/6izq53hfBehpRw4IlM9lT2) | 3:26 | 2021-07-25 | 2024-07-19 |
 | [風繼續吹](https://open.spotify.com/track/5RLv04XXxe0Nc4W7DTBJGT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [風繼續吹](https://open.spotify.com/album/5wqxExrvXYQquHfwD9UtWu) | 5:08 | 2021-04-03 | 2023-04-05 |
 | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d) | 5:08 | 2022-08-18 | 2023-12-24 |
 | [風靈物語](https://open.spotify.com/track/1SqvBGCkvXVFDAQf2ZJa02) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [風靈物語](https://open.spotify.com/album/6TYkKQdnTNnw5E1OQWZZ1m) | 4:09 | 2021-07-23 | 2021-07-24 |

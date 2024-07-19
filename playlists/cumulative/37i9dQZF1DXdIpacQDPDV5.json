@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: John Summit",
+  "description": "The best of today's dance hits. Cover: deadmau5",
   "name": "mint Canada",
   "tracks": [
     {
@@ -1301,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0gqerJxaNmuiQAFMIcOpmp"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        },
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180569,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ILDUxascaZtpGRlaK8CRt"
+    },
+    {
+      "album": {
         "name": "Always Will Be There",
         "url": "https://open.spotify.com/album/5rvfKGB13nwPauwaqmvDWe"
       },
@@ -2242,7 +2264,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
@@ -2658,6 +2680,28 @@
       "duration_ms": 180480,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/7bHXtJzt0TNV0S4TLqG5G6"
+    },
+    {
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
       "album": {
@@ -6366,7 +6410,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179612,
       "name": "EDGE - 2024 Version",
       "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
@@ -9316,7 +9360,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183075,
       "name": "Gravity (feat. Tyler Shaw)",
       "url": "https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS"
@@ -10119,6 +10163,24 @@
     },
     {
       "album": {
+        "name": "Hey Homie",
+        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189874,
+      "name": "Hey Homie",
+      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
+    },
+    {
+      "album": {
         "name": "Hide Your Love",
         "url": "https://open.spotify.com/album/3rq9hc2SXpUxiWzNTHmXJO"
       },
@@ -10610,7 +10672,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
@@ -10768,6 +10830,28 @@
       "duration_ms": 169218,
       "name": "How Do I Say Goodbye (feat. Delaney Jane)",
       "url": "https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
       "album": {
@@ -11002,6 +11086,36 @@
       "duration_ms": 207568,
       "name": "Hypnotic (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
+    },
+    {
+      "album": {
+        "name": "I Adore You",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
       "album": {
@@ -15384,7 +15498,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202746,
       "name": "MAGIC (feat. babyidontlikeyou)",
       "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
@@ -16490,7 +16604,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148135,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB"
@@ -16559,7 +16673,7 @@
     },
     {
       "album": {
-        "name": "My City",
+        "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
       "artists": [
@@ -16570,13 +16684,17 @@
         {
           "name": "Prophecy",
           "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
         }
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151874,
-      "name": "My City",
+      "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
     },
     {
@@ -17344,7 +17462,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 245538,
       "name": "Not Even Love",
       "url": "https://open.spotify.com/track/65s9dLrylbHp60IYIcUZEz"
@@ -22007,6 +22125,24 @@
     },
     {
       "album": {
+        "name": "some ep",
+        "url": "https://open.spotify.com/album/5OPRF4o1pypBIdGbKtAbCN"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427538,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/3sXl6kTbIhhPZ3mrho4woG"
+    },
+    {
+      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -22813,6 +22949,28 @@
     },
     {
       "album": {
+        "name": "Smile (feat. Carolina Liar)",
+        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Smile (feat. Carolina Liar)",
+      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
+    },
+    {
+      "album": {
         "name": "So Much In Love",
         "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
       },
@@ -23066,6 +23224,28 @@
       "duration_ms": 229213,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn"
+    },
+    {
+      "album": {
+        "name": "somewhere i never know",
+        "url": "https://open.spotify.com/album/6wGCqXtQyHBZyNTE0bxLvi"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "TWINNS",
+          "url": "https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "somewhere i never know",
+      "url": "https://open.spotify.com/track/3bXFlVhSzkolyOC0qZWHtX"
     },
     {
       "album": {
@@ -24232,6 +24412,28 @@
       "duration_ms": 180480,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/70UlGPMsr7TqIZaMqIdWxq"
+    },
+    {
+      "album": {
+        "name": "take my time",
+        "url": "https://open.spotify.com/album/5nGncYBQfhjH1DU2HhUoUB"
+      },
+      "artists": [
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        },
+        {
+          "name": "Julian Roy",
+          "url": "https://open.spotify.com/artist/1Zbi0T0AtDavS3jT2LHbDV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "take my time",
+      "url": "https://open.spotify.com/track/0FGuaUntFJcCjrwa3b1xsf"
     },
     {
       "album": {
@@ -25614,7 +25816,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182423,
       "name": "Throw Some Ass",
       "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
@@ -26000,7 +26202,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232000,
       "name": "Torture",
       "url": "https://open.spotify.com/track/5eo1iLxmJK3D4SXdDxY0Xr"
@@ -27001,6 +27203,24 @@
     },
     {
       "album": {
+        "name": "waiting4u",
+        "url": "https://open.spotify.com/album/5aZ37s3WgR13isMncPBJi5"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229862,
+      "name": "waiting4u",
+      "url": "https://open.spotify.com/track/6VyOvf5oFhv5xZJuUaSN1Z"
+    },
+    {
+      "album": {
         "name": "Warmth (feat. Jono Dorr)",
         "url": "https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr"
       },
@@ -27374,7 +27594,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"

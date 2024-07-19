@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,717 likes - 100 songs - 5 hr 14 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,717 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
-| 2 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
-| 3 | [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [fucking highschool people](https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H) | 3:45 |
-| 4 | [beine spüren \- Paul Seul remix](https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [beine spüren \(Paul Seul remix\)](https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W) | 4:15 |
-| 5 | [Illusion](https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Illusion](https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ) | 4:19 |
-| 6 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 |
-| 7 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 |
+| 1 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
+| 2 | [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [fucking highschool people](https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H) | 3:45 |
+| 3 | [beine spüren \- Paul Seul remix](https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [beine spüren \(Paul Seul remix\)](https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W) | 4:15 |
+| 4 | [Illusion](https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Illusion](https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ) | 4:19 |
+| 5 | [Heatstroke](https://open.spotify.com/track/6i2E8aGMDCLYVhX2LI0YwH) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Heatstroke](https://open.spotify.com/album/7CqdojwzqTaoYu74bVwfmQ) | 2:46 |
+| 6 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 |
+| 7 | [If i wan te d to o o o ^o.](https://open.spotify.com/track/7F304lzCnu9T9Uehlmg0WM) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Mietzee](https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1) | 2:03 |
 | 8 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 |
 | 9 | [OMG](https://open.spotify.com/track/6PqwDTrBeCkRnfTvLsqIQT) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [OMG](https://open.spotify.com/album/2mtrMjRecF7rZAsmpoMvp8) | 2:48 |
 | 10 | [F4](https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p) | [DRES](https://open.spotify.com/artist/1K3KCADbeW2AS24pKJQgmd) | [F4](https://open.spotify.com/album/47Icm6joonV34P7WTH0lIf) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 99 | [FOREVER](https://open.spotify.com/track/6LLsYNT3q36780QZwUGZ8q) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Exodus](https://open.spotify.com/album/2ZiukKDfRim3Ejy1Cx5nLd) | 4:23 |
 | 100 | [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 |
 
-Snapshot ID: `AAAaU/T8Q/G07GQmAtpjXPyxcPPmf56O`
+Snapshot ID: `AAAaV8+oxCv9wg1zn2dP45Cxs+ZwpXQp`

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 18199,
+  "num_followers": 18213,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Ain't It Funny ft. Meek Mill",
-      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Ain't It Funny ft. Meek Mill",
+      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
     },
     {
       "added_at": "2022-10-01 20:31:11",

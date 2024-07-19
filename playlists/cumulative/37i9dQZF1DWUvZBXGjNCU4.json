@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Daily Rituals",
+        "url": "https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reiger",
+          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Daily Rituals",
+      "url": "https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB"
+    },
+    {
+      "album": {
         "name": "Gitar",
         "url": "https://open.spotify.com/album/3x7DCTbKzZhja9ELXtRzDK"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197407,
       "name": "Diguil",
       "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
@@ -2638,6 +2656,24 @@
       "duration_ms": 141515,
       "name": "In Daisies Lain",
       "url": "https://open.spotify.com/track/5cfyGiPqoeKsIGgnmj6Hvq"
+    },
+    {
+      "album": {
+        "name": "In Over My Head",
+        "url": "https://open.spotify.com/album/1oJxvFxbM8zooEZyCnbrSG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oakfield",
+          "url": "https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227204,
+      "name": "In Over My Head",
+      "url": "https://open.spotify.com/track/67Gpq5M3Eo5v0rLIr9Upse"
     },
     {
       "album": {
@@ -4999,6 +5035,24 @@
     },
     {
       "album": {
+        "name": "The Chestnut Tree",
+        "url": "https://open.spotify.com/album/387VLvqLtqd0l4UCdZi3gb"
+      },
+      "artists": [
+        {
+          "name": "Amiyah Powell",
+          "url": "https://open.spotify.com/artist/53TEChEItRKMjajyHzEQxl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180868,
+      "name": "The Chestnut Tree",
+      "url": "https://open.spotify.com/track/7EoQmzT2wFOCanGluMeHpm"
+    },
+    {
+      "album": {
         "name": "The Dust Settles",
         "url": "https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh"
       },
@@ -5424,7 +5478,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183406,
       "name": "Untroubled by a Rainy Day",
       "url": "https://open.spotify.com/track/6v3HIQUCauIZNQZMo0MExg"

@@ -4,7 +4,7 @@
 
 > in deep on better days
 
-305 songs - 18 hr 24 min
+306 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 | 2023-09-22 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2024-05-11 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-20 | 2024-04-19 |
+| [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-06-21 | 2024-02-01 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 |  |
 | [Drink The River](https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg) | 3:35 | 2023-05-05 | 2023-08-21 |
@@ -80,7 +81,7 @@
 | [Drinking Alone](https://open.spotify.com/track/042ZqMOi0jTvj3YcvP9aap) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 3:10 | 2024-05-10 |  |
 | [Drowning](https://open.spotify.com/track/2mxn3WDopcpvCMEwz4DFFH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:02 | 2023-10-14 | 2023-12-09 |
 | [Drowning](https://open.spotify.com/track/5dXBit91O3HQg6jonJbqaQ) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Drowning](https://open.spotify.com/album/0sHHqhHLztj8XsZfZAJvnw) | 3:02 | 2023-03-24 |  |
-| [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2023-02-24 |  |
+| [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 | 2023-02-24 | 2024-07-19 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2023-02-24 | 2023-06-22 |
 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 | 2023-06-21 | 2023-12-09 |
 | [Eastern Kentucky](https://open.spotify.com/track/3KHv9f9K6pZRSv61z4SaRu) | [Davisson Brothers Band](https://open.spotify.com/artist/6RpyMVMX7C09kLgABdwJ1d) | [Eastern Kentucky](https://open.spotify.com/album/4fbqrkjymL0LAtCAFxq7Wd) | 3:34 | 2023-03-24 | 2023-05-02 |

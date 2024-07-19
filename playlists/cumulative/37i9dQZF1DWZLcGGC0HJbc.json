@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB"
+      },
+      "artists": [
+        {
+          "name": "Maida Rose",
+          "url": "https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU"
+    },
+    {
+      "album": {
         "name": "April May July",
         "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 255666,
       "name": "For an Evening",
       "url": "https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199646,
       "name": "I Don't Believe in Loss",
       "url": "https://open.spotify.com/track/2aoY4HdLifNtBstsyNt0Cg"
@@ -402,6 +420,24 @@
       "duration_ms": 197684,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu"
+    },
+    {
+      "album": {
+        "name": "it takes a long time to feel free",
+        "url": "https://open.spotify.com/album/6NyDZz7SJAGHJp6W0roRPP"
+      },
+      "artists": [
+        {
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "it takes a long time to feel free",
+      "url": "https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo"
     },
     {
       "album": {
@@ -488,10 +524,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 269786,
       "name": "Lullabye For Losers",
       "url": "https://open.spotify.com/track/7GGwiBcQbfTWnYx2ZK3Byk"
+    },
+    {
+      "album": {
+        "name": "Mountainsong",
+        "url": "https://open.spotify.com/album/1WZ9xo6JWHuk9r9lM0Bz9J"
+      },
+      "artists": [
+        {
+          "name": "Catbug",
+          "url": "https://open.spotify.com/artist/1JaN6kQQwn2LiP0VBH8Zpj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380013,
+      "name": "Mountainsong",
+      "url": "https://open.spotify.com/track/03ErdYcB9JbUBZCRYdVrg9"
     },
     {
       "album": {
@@ -528,6 +582,24 @@
       "duration_ms": 141600,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/5TS7Hcbrjz8JTAgUFIsqoC"
+    },
+    {
+      "album": {
+        "name": "My Old Friend John",
+        "url": "https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320016,
+      "name": "My Old Friend John",
+      "url": "https://open.spotify.com/track/4WicE9BeiHpqRjivqzNf2J"
     },
     {
       "album": {
@@ -650,7 +722,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 87042,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3YdAWLU8Vty02nMjo0QIHU"

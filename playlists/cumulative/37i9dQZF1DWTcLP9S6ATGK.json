@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Suara Kayu",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Shakira Jasmine",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -336,6 +336,46 @@
       "duration_ms": 232494,
       "name": "Cap Cip Cup",
       "url": "https://open.spotify.com/track/0xIV3W0W9LjlbNHcFMNWJt"
+    },
+    {
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/4wKzFrvVhKDxUBkd2XEj1d"
+      },
+      "artists": [
+        {
+          "name": "Five Minutes",
+          "url": "https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253980,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/6MidLW447aO1XCYHirArxz"
+    },
+    {
+      "album": {
+        "name": "Cinta Tak Biasa",
+        "url": "https://open.spotify.com/album/3nwy6IEwPrKoCv98pWgEcu"
+      },
+      "artists": [
+        {
+          "name": "ST12",
+          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
+        },
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "Cinta Tak Biasa",
+      "url": "https://open.spotify.com/track/2jpYZkmNLKk2TtrQAORu1o"
     },
     {
       "album": {
@@ -1483,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Muslihat (Muslihat Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai"
+      },
+      "artists": [
+        {
+          "name": "Tata Janeeta",
+          "url": "https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293880,
+      "name": "Muslihat - Muslihat Original Soundtrack",
+      "url": "https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97"
+    },
+    {
+      "album": {
         "name": "Pada Akhirnya",
         "url": "https://open.spotify.com/album/7eE0Br39S9GL6R91ATl83G"
       },
@@ -1606,6 +1664,28 @@
       "duration_ms": 302579,
       "name": "Pergi Secepat Ini",
       "url": "https://open.spotify.com/track/6yBsvbgwdvoHdpYX8OB87X"
+    },
+    {
+      "album": {
+        "name": "Pertanda Cinta",
+        "url": "https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd"
+      },
+      "artists": [
+        {
+          "name": "Dani Kurama",
+          "url": "https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe"
+        },
+        {
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "Pertanda Cinta",
+      "url": "https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L"
     },
     {
       "album": {
@@ -2122,6 +2202,24 @@
       "duration_ms": 254189,
       "name": "Tersemogakan",
       "url": "https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA"
+    },
+    {
+      "album": {
+        "name": "Tolak Ukur",
+        "url": "https://open.spotify.com/album/2itP4ZroM7SAonfToHunso"
+      },
+      "artists": [
+        {
+          "name": "Mitty Zasia",
+          "url": "https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Tolak Ukur",
+      "url": "https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-427 songs - 1 day 4 hr 4 min
+428 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [一刻都不離去](https://open.spotify.com/track/0uAh1eBw2slAOSzcza7JYn) | [鄭以琦](https://open.spotify.com/artist/0fK1M3YgbZLpFBOCGZOPGb) | [一刻都不離去](https://open.spotify.com/album/5DSmNDS4wvlg6Gze5pIdj7) | 3:32 | 2024-06-27 | 2024-07-05 |
 | [一年後的故事](https://open.spotify.com/track/0Cr52aceiNO1ssiC3v1PMx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Present](https://open.spotify.com/album/4K9vimMcfuuVIK9aMVIQKr) | 4:22 | 2022-06-02 | 2022-07-08 |
 | [一樣美麗 \- 粉紅絲帶宣導活動主題曲](https://open.spotify.com/track/5VuI9PEbkwU2wMD5GAKQLf) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [一樣美麗 \(粉紅絲帶宣導活動主題曲\)](https://open.spotify.com/album/6D3GLw6b90dCBafPcM7SVH) | 4:36 | 2022-06-10 |  |
+| [一片海](https://open.spotify.com/track/01f3jEWKOTpZYhFzjW626r) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [一片海](https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM) | 4:47 | 2024-07-18 |  |
 | [一種說法\(Acoustic Ver.\) \[《模仿犯》插曲\]](https://open.spotify.com/track/30UaTs7vrVAyMOsstUO00T) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [模仿犯 主題歌曲原聲帶](https://open.spotify.com/album/6HwTDKJtSSb2kcZEo2FgIZ) | 3:31 | 2023-03-30 | 2023-04-14 |
 | [一起去看海](https://open.spotify.com/track/42hygMxpIhX0DFTFKq0E19) | [若恒](https://open.spotify.com/artist/7Bkl50hOMYEX2AqapoRaW0), [娜塢悟吉納 Naau E'ucna](https://open.spotify.com/artist/3RcVxIc3dJo93GQRn16WI2) | [一起去看海](https://open.spotify.com/album/6HtiHQeYikSXsmlExwGDcq) | 3:44 | 2024-01-04 | 2024-01-12 |
 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 | 2024-05-30 | 2024-06-28 |
@@ -106,7 +107,7 @@
 | [你不应该离开我\(不插电版\)](https://open.spotify.com/track/4b3OFRqf4IcxIyJ4xKDHpq) | [YKEY](https://open.spotify.com/artist/3elVUbEnotEJZxxARFtbno) | [你不应该离开我\(不插电版\)](https://open.spotify.com/album/4xn3lDSr0nO7tfT5SIHI7M) | 2:51 | 2023-03-16 | 2023-03-31 |
 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-08-18 | 2024-03-29 |
 | [你教會我的事](https://open.spotify.com/track/5qOii2BZ1rxAuWJi4L5jxk) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [你教會我的事](https://open.spotify.com/album/4d6j6BEkdIC8uLB83XPpZY) | 4:15 | 2022-12-15 | 2022-12-24 |
-| [你是治癒我的光](https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [你是治癒我的光](https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl) | 2:51 | 2024-07-11 |  |
+| [你是治癒我的光](https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [你是治癒我的光](https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl) | 2:51 | 2024-07-11 | 2024-07-19 |
 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-10-17 | 2023-02-06 |
 | [你有什麼愧疚](https://open.spotify.com/track/6rRheAW16agCpkGuYzG0aa) | [蘇有朋](https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd) | [你有什麼愧疚](https://open.spotify.com/album/2ANCDLoyt12Md9z0uqgm5U) | 5:12 | 2024-06-13 | 2024-06-21 |
 | [你有多傻 \- 對唱版, 戲劇《關於未知的我們》插曲](https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4) | [邱宇辰](https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss), [黃宏軒](https://open.spotify.com/artist/69Q87aRfFaYH8FzVbBmsur) | [你有多傻 \(對唱版, 戲劇《關於未知的我們》插曲\)](https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn) | 3:43 | 2024-03-14 | 2024-07-12 |
@@ -123,7 +124,7 @@
 | [偶爾墜落](https://open.spotify.com/track/75Oa1Cs5lz0p0Kcu3t5kgk) | [安柏兒](https://open.spotify.com/artist/011Ngr53zecMBKVVE6Esgn) | [偶爾墜落](https://open.spotify.com/album/44X8FjH0jJ8H3oWjIrdtTo) | 2:56 | 2023-04-27 | 2023-05-12 |
 | [光圈](https://open.spotify.com/track/5uixm2byd4jkWwQTBWd48a) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [光圈](https://open.spotify.com/album/3ptv0yjuNNCjhV3VnMDkqG) | 3:31 | 2023-09-28 | 2023-10-13 |
 | [光的房子](https://open.spotify.com/track/5FMryUJWbYVkhA9OyZgMea) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [光的房子](https://open.spotify.com/album/6CSfM5sOZW546QQvyyhM9k) | 4:10 | 2023-05-04 | 2023-05-19 |
-| [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 | 2022-10-20 | 2024-07-16 |
+| [其實你並沒那麼孤單](https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [小時候的我們](https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm) | 3:04 | 2022-10-20 |  |
 | [再一次擁有](https://open.spotify.com/track/447anYXT2ONrCfw3PlXLWV) | [龔詩嘉](https://open.spotify.com/artist/3YJXJABOwuadyp7MPN9wbi) | [好, 詩嘉](https://open.spotify.com/album/5QRIErMZ7QOWs6sy937gR3) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [再見我講](https://open.spotify.com/track/3lLQxUFSWmjHwShvIFEIwA) | [洪浩竣 Anson](https://open.spotify.com/artist/2CfGVBMPqLbHilWUaWxzJk) | [安身](https://open.spotify.com/album/0f7QIa96ACvp6OR1e70TeZ) | 4:36 | 2023-11-23 | 2023-12-12 |
 | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 | 2023-09-14 | 2023-12-02 |
@@ -166,7 +167,7 @@
 | [多餘的問候](https://open.spotify.com/track/03nEkIuxBvj20jCtt6b4Qo) | [吳容瑋](https://open.spotify.com/artist/4V4I2AAfpvcoGu4lC8yQ8n) | [多餘的問候](https://open.spotify.com/album/4z0BGyUtJXZIH3wf8uWABG) | 4:32 | 2023-04-27 | 2023-05-12 |
 | [夜晚的光明](https://open.spotify.com/track/5yt4lWYsV1GONU6t5UmiFz) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [Re:小花盛開的回音](https://open.spotify.com/album/3BbGGSFo9vHGhRzoAjGBHq) | 3:31 | 2022-06-30 | 2022-07-11 |
 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 | 2023-05-18 |  |
-| [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 | 2023-03-16 |  |
+| [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 | 2023-03-16 | 2024-07-19 |
 | [天亮之前 \- 《八尺門的辯護人》片尾曲](https://open.spotify.com/track/0MfeaAYeIivg8PwLsCl7KN) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [《八尺門的辯護人》主題曲原聲帶](https://open.spotify.com/album/29GUehP1C75V485aAC0dUO) | 4:05 | 2023-07-13 | 2024-01-19 |
 | [天堂與泥土](https://open.spotify.com/track/0I1YidoarFCsbkHu8ZkfrN) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 3:54 | 2023-12-01 | 2024-06-28 |
 | [天氣預報](https://open.spotify.com/track/4lvtoxQj42W8DxR9JHqxR3) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 4:59 | 2023-05-18 | 2023-06-26 |

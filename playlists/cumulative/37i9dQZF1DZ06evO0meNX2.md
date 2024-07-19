@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado\. The essential tracks, all in one playlist.
+> This Is Codiciado\. Los temas esenciales, todos en una lista.
 
 33 songs - 1 hr 52 min
 
@@ -29,7 +29,7 @@
 | [Golpes De La Vida](https://open.spotify.com/track/7xMBcbpr1KAlychUtk7W72) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:43 | 2024-01-29 |  |
 | [Habemus Conciliación \- En Vivo](https://open.spotify.com/track/5y6qnBp0SEzLifLr99DF5K) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Habemus Conciliación \(En Vivo\)](https://open.spotify.com/album/3kRHNXeqTgVaY1q5IPvOen) | 3:43 | 2024-01-29 |  |
 | [Hablen](https://open.spotify.com/track/5ObjJjnx9w8cHwqpGlLIUB) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:43 | 2024-01-29 |  |
-| [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 | 2024-01-29 |  |
+| [La Que Se Fue](https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [La Que Se Fue](https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP) | 4:27 | 2024-01-29 | 2024-07-19 |
 | [Los Hermanos](https://open.spotify.com/track/3ZAWnRZ9STLvBSBxoheC9H) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d) | 3:37 | 2024-01-29 |  |
 | [Mexican Flan](https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:58 | 2024-01-29 |  |
 | [Nos Gusta La Fiesta](https://open.spotify.com/track/7aGZvbB9GoChhZ02CdfLA3) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Nos Gusta La Fiesta](https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK) | 3:58 | 2024-01-29 |  |

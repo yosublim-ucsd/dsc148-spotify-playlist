@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Elsa y Elmar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,717 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,719 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 22 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 |
 | 23 | [entre las piernas](https://open.spotify.com/track/4f2r4lwi75qoFAPFNAhOE9) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 3:31 |
 | 24 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 |
-| 25 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURÚ](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 |
+| 25 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 |
 | 26 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 | 27 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 28 | [Afterparty](https://open.spotify.com/track/1Z4AaDqWYtvrXQIYiDrpzC) | [Flavia Laos](https://open.spotify.com/artist/203iZ5SoM2K2vMnlqwJTnt), [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Afterparty](https://open.spotify.com/album/5PjxyxtoA9kUHKbNZcDZK0) | 3:25 |

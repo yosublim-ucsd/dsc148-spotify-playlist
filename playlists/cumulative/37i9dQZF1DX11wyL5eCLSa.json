@@ -2097,6 +2097,28 @@
     },
     {
       "album": {
+        "name": "Discos Vac\u00edas",
+        "url": "https://open.spotify.com/album/0zpvthj85rAO6eSjKa9rFQ"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "LOS CUBATAS",
+          "url": "https://open.spotify.com/artist/7eoNELRjjconqEphiOWOo6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145674,
+      "name": "Discos Vac\u00edas",
+      "url": "https://open.spotify.com/track/19S7OFOw8NDiT2iaWD4YPz"
+    },
+    {
+      "album": {
         "name": "Giallo",
         "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
       },
@@ -4151,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Lagrimas de Sal",
+        "url": "https://open.spotify.com/album/3nPRQOSD4ix6l3zMSExdEr"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197685,
+      "name": "Lagrimas de Sal",
+      "url": "https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME"
+    },
+    {
+      "album": {
         "name": "Last\u00edmame",
         "url": "https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h"
       },
@@ -4349,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Lo Lamento",
+        "url": "https://open.spotify.com/album/6hL4z4irsQampoG2aniRK8"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181761,
+      "name": "Lo Lamento",
+      "url": "https://open.spotify.com/track/5Qnn5bQvjBVki9MSybe9Jg"
+    },
+    {
+      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL"
       },
@@ -4432,7 +4490,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218175,
       "name": "Los Imanes",
       "url": "https://open.spotify.com/track/1GuQa6m4AQZbGRK38iOC4D"
@@ -6170,7 +6228,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250636,
       "name": "N\u00e1ufrago",
       "url": "https://open.spotify.com/track/2tDP8CLX7r9DhSYwGhVkRs"
@@ -6720,7 +6778,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
@@ -7210,6 +7268,28 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "album": {
+        "name": "Rep\u00fablica Zombie",
+        "url": "https://open.spotify.com/album/7MJn4sLrnIR2xbAIfiiGEs"
+      },
+      "artists": [
+        {
+          "name": "Resorte",
+          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
+        },
+        {
+          "name": "Zyanya",
+          "url": "https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231744,
+      "name": "Si hoy me voy",
+      "url": "https://open.spotify.com/track/3ttjJywxE8w8I7RvZUzMDr"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Boza, Elena Rose",
-  "num_followers": 116758,
+  "num_followers": 116812,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAB2HbdtiClQKXtE7QUj+uiA",
+  "snapshot_id": "ZpoA4AAAAABU4E3OKoLGCt/m2KRlbvXe",
   "tracks": [
     {
       "added_at": "2024-05-31 04:00:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Perreo Pa\u2019 Llevar",
+        "url": "https://open.spotify.com/album/7cnyDIDKpP0P6MfGi4W58Y"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Perreo Pa\u2019 Llevar",
+      "url": "https://open.spotify.com/track/1fYjwanHbxFTcSzMuRTptH"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La Ruta",
@@ -213,28 +229,20 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Sin Control",
-        "url": "https://open.spotify.com/album/42yS1yxA98DH2VzudGryIv"
+        "name": "LLEVATELO TO'",
+        "url": "https://open.spotify.com/album/7uPv6GfZOdr3PZ46qgrMMf"
       },
       "artists": [
         {
-          "name": "El Tiex",
-          "url": "https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9"
-        },
-        {
-          "name": "El Zeta",
-          "url": "https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk"
-        },
-        {
-          "name": "MUZIKPRADO",
-          "url": "https://open.spotify.com/artist/4GNRZtrMt85FtoX8aC2PgI"
+          "name": "Lil Willy Shawty",
+          "url": "https://open.spotify.com/artist/7FvUw5QIl3Xqc66VTBWyNU"
         }
       ],
-      "duration_ms": 191559,
-      "name": "Sin Control",
-      "url": "https://open.spotify.com/track/7raKGuDlOukzGKlj6rvzOm"
+      "duration_ms": 153920,
+      "name": "LLEVATELO TO'",
+      "url": "https://open.spotify.com/track/5oiKBJppZ2rPKNP6i93jzC"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -271,30 +279,6 @@
       "duration_ms": 157767,
       "name": "Party En Mi Casa",
       "url": "https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/5NQa9IvvcR1Z7i21TD40me"
-      },
-      "artists": [
-        {
-          "name": "EL BEWI",
-          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
-        },
-        {
-          "name": "DJ Crime Music",
-          "url": "https://open.spotify.com/artist/1rj5wyNO85buMx9gkG0z61"
-        },
-        {
-          "name": "Pty Audio",
-          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
-        }
-      ],
-      "duration_ms": 160835,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/7JSVNEUSl7eRPNFxUle5hM"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -351,6 +335,26 @@
       "duration_ms": 138653,
       "name": "Tu Buay",
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/2umzSFJb2qVDO3Iew7fRkN"
+      },
+      "artists": [
+        {
+          "name": "Chamaco",
+          "url": "https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 211983,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -851,34 +855,6 @@
       "duration_ms": 396000,
       "name": "Kink! - Remix 2",
       "url": "https://open.spotify.com/track/19XmDkfPUQYhYIZ09xfkzx"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "G5",
-        "url": "https://open.spotify.com/album/3MDKxvcUcNcJGFdrRfQaYT"
-      },
-      "artists": [
-        {
-          "name": "Italian Somali",
-          "url": "https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        },
-        {
-          "name": "Andiex",
-          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
-        },
-        {
-          "name": "Bin$ho",
-          "url": "https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ"
-        }
-      ],
-      "duration_ms": 308427,
-      "name": "G5",
-      "url": "https://open.spotify.com/track/1gTSCN2lv4MCpqZ64M1qjo"
     },
     {
       "added_at": "2024-02-02 05:00:00",

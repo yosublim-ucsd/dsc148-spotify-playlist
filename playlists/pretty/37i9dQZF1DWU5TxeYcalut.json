@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 161123,
+  "num_followers": 161152,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Ouro Negro",
-        "url": "https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK"
-      },
-      "artists": [
-        {
-          "name": "Moacir Santos",
-          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Coisa N\u00ba 10",
-      "url": "https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
         "url": "https://open.spotify.com/album/2XQb3gFbkP7pRVZzMPbhCg"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 201500,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/3vV7kdVX0gbNHwxgnQjTfF"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Ouro Negro",
+        "url": "https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK"
+      },
+      "artists": [
+        {
+          "name": "Moacir Santos",
+          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Coisa N\u00ba 10",
+      "url": "https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
-        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Neves",
-          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
-        },
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Lamento de um Perplexo",
-      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Doralice",
         "url": "https://open.spotify.com/album/0xXz4ehuh3vm7NDqPucrjY"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 148506,
       "name": "Doralice - Live at Copenhagen Jazzhouse, 2001.",
       "url": "https://open.spotify.com/track/65YeHWDxAqeK1KcanRj2hH"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
+        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Neves",
+          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
+        },
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Lamento de um Perplexo",
+      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
-      },
-      "artists": [
-        {
-          "name": "Hermeto Pascoal",
-          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
-        }
-      ],
-      "duration_ms": 328437,
-      "name": "Pixitotinha",
-      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "A Ma\u00e7\u00e3",
         "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 225184,
       "name": "Porto Rio",
       "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        }
+      ],
+      "duration_ms": 328437,
+      "name": "Pixitotinha",
+      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -987,34 +987,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Afinidades",
-        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
-      },
-      "artists": [
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        },
-        {
-          "name": "Mauricio Einhorn",
-          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
-        },
-        {
-          "name": "Bruno Cardozo",
-          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
-        },
-        {
-          "name": "Cuca Teixeira",
-          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
-        }
-      ],
-      "duration_ms": 343211,
-      "name": "Burlesque",
-      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Pro Carnaval Voltar",
         "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
@@ -1039,6 +1011,34 @@
       "duration_ms": 481925,
       "name": "Pro Carnaval Voltar",
       "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Afinidades",
+        "url": "https://open.spotify.com/album/0C1dlpqgzru6jeE0ds2kXA"
+      },
+      "artists": [
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        },
+        {
+          "name": "Mauricio Einhorn",
+          "url": "https://open.spotify.com/artist/0u4Cmv7waxYlCcsd9msylI"
+        },
+        {
+          "name": "Bruno Cardozo",
+          "url": "https://open.spotify.com/artist/03cuE8ROjC7uQD28RbQ1Un"
+        },
+        {
+          "name": "Cuca Teixeira",
+          "url": "https://open.spotify.com/artist/4jYt1eIZIPqbxi7cgovekM"
+        }
+      ],
+      "duration_ms": 343211,
+      "name": "Burlesque",
+      "url": "https://open.spotify.com/track/78qBElIUs1KFRlKXIaizMb"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Maldonado Quintet",
-          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
-        }
-      ],
-      "duration_ms": 270012,
-      "name": "With Ernesto",
-      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 266226,
       "name": "Novidade",
       "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maldonado Quintet",
+          "url": "https://open.spotify.com/artist/5UgTMuuGDGG2TOCmMIPzzy"
+        }
+      ],
+      "duration_ms": 270012,
+      "name": "With Ernesto",
+      "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1199,22 +1199,6 @@
       "duration_ms": 271656,
       "name": "Canto de Aruanda",
       "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
-        "name": "Pimenta - Tributo a Elis Regina",
-        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Malta",
-          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "Fascina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1267,6 +1251,22 @@
       "duration_ms": 202026,
       "name": "Costa da Mina",
       "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Pimenta - Tributo a Elis Regina",
+        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+      },
+      "artists": [
+        {
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
         "name": "Kurukere",
         "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 352329,
       "name": "Kurukere",
       "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
-        {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Domingo 27/09",
-        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
-      },
-      "artists": [
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Edu Ribeiro Trio",
-          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
-        }
-      ],
-      "duration_ms": 502746,
-      "name": "Domingo 27/09",
-      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Fugindo do Sete",
         "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Domingo 27/09",
+        "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
+      },
+      "artists": [
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Edu Ribeiro Trio",
+          "url": "https://open.spotify.com/artist/6QNvvDRH7pvXLT6P9BbrYp"
+        }
+      ],
+      "duration_ms": 502746,
+      "name": "Domingo 27/09",
+      "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
     },
     {
       "added_at": "2024-07-12 23:48:42",

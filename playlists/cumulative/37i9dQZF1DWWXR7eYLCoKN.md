@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-150 songs - 8 hr 48 min
+151 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 | 2023-04-28 |  |
 | [Alquimias](https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Urucungo](https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p) | 5:11 | 2023-11-10 |  |
 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 | 2023-04-28 |  |
+| [Amor Segredo](https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp) | [Nilze Carvalho](https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH) | [Amor Segredo](https://open.spotify.com/album/22VSxm6dbigc3jK1EimMJh) | 4:18 | 2024-07-19 |  |
 | [Andança](https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 3:43 | 2023-04-28 |  |
 | [Aprendi a Ser Feliz](https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Saravá, Paz e Bem](https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z) | 3:43 | 2023-04-28 |  |
 | [Aquarela](https://open.spotify.com/track/43xNkQNoTEzwmbRtrUlKq1) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/1euIjDzEYPFCuEHT2XJSp3) | 3:23 | 2024-01-19 | 2024-04-19 |
@@ -119,7 +120,7 @@
 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 | 2023-04-28 |  |
 | [Samba De Um Minuto](https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Belo E Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ) | 4:33 | 2024-01-19 |  |
 | [Samba de um Minuto](https://open.spotify.com/track/3HLUpp7deS78Y3LE7xRbpw) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Que Belo Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/5q8JrwUqI6GcvxsDH6seKu) | 4:33 | 2023-04-28 | 2024-04-19 |
-| [Samba E Amor](https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 3:19 | 2023-04-28 |  |
+| [Samba E Amor](https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 3:19 | 2023-04-28 | 2024-07-19 |
 | [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 | 2023-04-28 |  |
 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 | 2023-07-28 |  |
 | [Samba Teresa](https://open.spotify.com/track/5RMVWN6PTVptYaVE7kE6QN) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry), [Clara Coral](https://open.spotify.com/artist/5vBtTV3EdmAiUxpw3tDEEz) | [Samba Teresa](https://open.spotify.com/album/6G39y3eaasUT4iJSer4Hvx) | 3:13 | 2023-04-28 | 2024-04-19 |

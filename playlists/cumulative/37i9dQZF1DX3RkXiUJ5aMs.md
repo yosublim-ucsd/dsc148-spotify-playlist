@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-90 songs - 6 hr 3 min
+91 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2qyih496IOcMiU1FHoHFNd) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [The Ultimate Playlist \- The Early Years](https://open.spotify.com/album/2Ql4Kpm9oX0ReygLvCpLrR) | 3:19 | 2021-06-18 |  |
 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 | 2021-06-18 |  |
 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2021-06-18 |  |
+| [I Have A Father \- Live](https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [I Have A Father \(Live\)](https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF) | 7:39 | 2024-07-17 |  |
 | [I Loved Her First](https://open.spotify.com/track/0fZq48okuWkpAgjsWogAJ4) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/6TrguRnEqy2RL8mB1n3Z33) | 3:32 | 2021-06-18 |  |
 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 | 2022-06-10 | 2023-12-25 |
 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 | 2022-06-10 | 2024-04-19 |

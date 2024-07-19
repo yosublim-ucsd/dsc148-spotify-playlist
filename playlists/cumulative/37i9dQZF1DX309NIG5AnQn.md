@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 MUGRE
+> rock alternativo argentino\. <br/>📷 Tigre Ulli
 
-222 songs - 12 hr 38 min
+224 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [DOSMILUNO](https://open.spotify.com/track/2enGfhz9AAN3i2ixcNv7ay) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [DOSMILUNO](https://open.spotify.com/album/6uoua1Avho6zNGkzBXYQHP) | 4:08 | 2024-07-12 | 2024-07-16 |
 | [Dulces Sueños, y Hasta Siempre !](https://open.spotify.com/track/2cbKcRgL0jBJ2BGIAJyOSX) | [electro reno](https://open.spotify.com/artist/3ch5YUSBJld17z6WfbKVXq), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Un Pie en la Tumba](https://open.spotify.com/album/6IHjEeDPQX1nBU45c6DLYt) | 1:37 | 2022-03-25 | 2023-03-25 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-03-25 | 2023-03-25 |
+| [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 | 2024-07-19 |  |
 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 | 2022-03-25 | 2023-03-25 |
 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 | 2023-06-30 |  |
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
@@ -119,7 +120,8 @@
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 |  |
 | [Invisible](https://open.spotify.com/track/4KH1jzECxhbmwF60qh2un7) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [CLASE B](https://open.spotify.com/album/1jI8Ey2uycaiqlDy71xysm) | 3:12 | 2023-10-13 |  |
 | [Jalls](https://open.spotify.com/track/3LkuzuyI9d5deRWN55qvH4) | [Picnic Al Costado Del Camino](https://open.spotify.com/artist/5xCEgRCcF7ZfMaB14ygI1S) | [Primer Día](https://open.spotify.com/album/1MoyLjBwF2ebR8SsItDFtU) | 3:15 | 2024-05-16 |  |
-| [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 |  |
+| [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 | 2024-07-19 |
+| [La calma del cementerio](https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [Entre Sombras](https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q) | 3:40 | 2024-07-19 |  |
 | [La Flecha Envenenada](https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [La Flecha Envenenada](https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx) | 4:08 | 2023-04-07 | 2023-05-13 |
 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 | 2023-05-12 | 2023-06-05 |
 | [La Luz](https://open.spotify.com/track/6htVnNXldV7pX7hiyAdXwr) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 2:35 | 2023-06-02 | 2023-08-05 |

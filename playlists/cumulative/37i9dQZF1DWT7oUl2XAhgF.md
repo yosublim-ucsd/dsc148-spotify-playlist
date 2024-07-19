@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-434 songs - 1 day 2 hr 19 min
+436 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Always](https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu) | 2:35 | 2022-04-22 | 2023-09-30 |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
 | [Atlas](https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:47 | 2021-07-09 | 2022-07-30 |
-| [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 |  |
+| [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2024-07-19 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-10 | 2024-04-19 |
 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 | 2023-02-03 |  |
 | [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 | 2024-05-31 |  |
@@ -112,6 +112,7 @@
 | [first, last and always](https://open.spotify.com/track/4yR51vo6LmS17yGoN6Xyre) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [first, last and always](https://open.spotify.com/album/3Ez9IEN1H4hxwomUthlwaj) | 3:26 | 2023-07-28 |  |
 | [Float](https://open.spotify.com/track/2r3r7fxm0wRScSrZ34CbIy) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/2vO9jJeWEJ4NN65qzE5EHn) | 4:00 | 2023-02-10 | 2024-04-19 |
 | [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-02-03 | 2024-06-01 |
+| [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 | 2024-07-19 |  |
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-16 | 2023-02-18 |
 | [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [ROME](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 | 2024-03-08 |  |
 | [Forever Young](https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Dylan McDonald](https://open.spotify.com/artist/6N45Hme7I09LsLQSf62Fzf), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [Forever Young](https://open.spotify.com/album/0n7OYKGvADJxCOHeos5MlR) | 4:52 | 2024-05-31 |  |
@@ -258,6 +259,7 @@
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2024-04-06 |
 | [My Oh My](https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [My Oh My](https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq) | 3:29 | 2023-06-02 | 2024-06-01 |
 | [Mystical and Paranoid](https://open.spotify.com/track/4d77W326jSVAmDrHlPG4bu) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Mystical and Paranoid](https://open.spotify.com/album/2cbbT7XzhQLBM19Pfhiv0z) | 3:44 | 2022-10-28 | 2022-11-12 |
+| [Need Something More](https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Need Something More](https://open.spotify.com/album/0BxdoTON95wiyg4ZD0ae8s) | 2:51 | 2024-07-19 |  |
 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 | 2022-04-22 | 2023-11-11 |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2021-12-03 | 2022-11-13 |
 | [No Longer Mine](https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [No Longer Mine](https://open.spotify.com/album/6alneeeLcSYWZyu293RloI) | 2:44 | 2024-05-03 | 2024-05-25 |
@@ -346,7 +348,7 @@
 | [So Into You](https://open.spotify.com/track/6oniXQflpASPhX2YsxdqCJ) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z) | [Son Of A Beach](https://open.spotify.com/album/2CjQdKNaJxSVEV3vlbQ0fp) | 4:01 | 2022-06-24 | 2023-03-18 |
 | [So Tired](https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [So Tired](https://open.spotify.com/album/1nQr0MQwmFR8yjL7uyLx90) | 3:21 | 2023-11-10 | 2024-02-15 |
 | [Solution](https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Solution](https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb) | 3:40 | 2022-09-23 | 2022-10-08 |
-| [Somebody Please](https://open.spotify.com/track/7rMjPAJAibm5Ks6CxhewCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Somebody Please](https://open.spotify.com/album/1oWbGMwVqGsTIW0xk5gIRq) | 3:10 | 2024-06-21 |  |
+| [Somebody Please](https://open.spotify.com/track/7rMjPAJAibm5Ks6CxhewCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Somebody Please](https://open.spotify.com/album/1oWbGMwVqGsTIW0xk5gIRq) | 3:10 | 2024-06-21 | 2024-07-19 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Soul to Blessed Soul](https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf) | 5:35 | 2022-01-07 | 2023-04-30 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/6DM57XfNV5YH6zjv6xlSQ3) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [I Need a Job..\. So I Can Buy More Auto\-Tune](https://open.spotify.com/album/63dzRXGEgarXDceMVjOFPu) | 5:35 | 2022-01-14 | 2023-07-08 |
 | [Spaceships](https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Saturday Night](https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK) | 3:48 | 2023-10-06 |  |

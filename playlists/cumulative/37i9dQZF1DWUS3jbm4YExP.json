@@ -4379,6 +4379,32 @@
     },
     {
       "album": {
+        "name": "Flash Solaire",
+        "url": "https://open.spotify.com/album/4NpjgUQeUuS53qL3lQ9ayW"
+      },
+      "artists": [
+        {
+          "name": "Parbleu",
+          "url": "https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo"
+        },
+        {
+          "name": "Arp Frique",
+          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
+        },
+        {
+          "name": "Marissa Nyamekye",
+          "url": "https://open.spotify.com/artist/1CnZzVzkshVxUcV0eRjD9m"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Flash Solaire",
+      "url": "https://open.spotify.com/track/5pxXNfEe0O6z1wcI2vCP9l"
+    },
+    {
+      "album": {
         "name": "Flexi with the Disco-tech",
         "url": "https://open.spotify.com/album/1NhA5tCIXSHI3bpN4YSO6k"
       },
@@ -6322,7 +6348,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
@@ -11162,7 +11188,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 269696,
       "name": "Smells Like You",
       "url": "https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6"
@@ -13400,7 +13426,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152769,
       "name": "Water Tanks",
       "url": "https://open.spotify.com/track/26O7Zdco6Q7lapBL6btPML"

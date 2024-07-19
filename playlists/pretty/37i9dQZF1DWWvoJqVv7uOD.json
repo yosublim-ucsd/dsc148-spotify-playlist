@@ -1,28 +1,36 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: OneRepublic",
-  "num_followers": 439579,
+  "num_followers": 439674,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAAvOxDQnMwOyPOgWZbqs5YY",
+  "snapshot_id": "ZpnkwAAAAADjR57BRe3vJLwcDcT83njj",
   "tracks": [
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
+      "duration_ms": 203689,
+      "name": "Up All Night (with The Lumineers & Noah Kahan)",
+      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -41,6 +49,26 @@
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "cut! (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 128164,
+      "name": "cut! (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "The Great American Bar Scene",
@@ -55,6 +83,22 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -73,20 +117,20 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Tears For Fun",
-      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -221,24 +265,20 @@
       "url": "https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "cut! (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 128164,
-      "name": "cut! (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
+      "duration_ms": 196363,
+      "name": "Tears For Fun",
+      "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -401,6 +441,22 @@
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
+    },
+    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Scared To Start",
@@ -449,22 +505,6 @@
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "ver2igo vol. 2",
-        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196456,
-      "name": "Pillow In My Arms",
-      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Before You Leave Me",
@@ -511,6 +551,22 @@
       "duration_ms": 182000,
       "name": "How?",
       "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 203343,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -929,38 +985,6 @@
       "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/456nxcaYCzETLiEnfwvMID"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Our Way",
@@ -1125,26 +1149,6 @@
       "url": "https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Give You Love (feat. Jason Derulo)",
-        "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 174125,
-      "name": "Give You Love (feat. Jason Derulo)",
-      "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Treehouse",
@@ -1179,6 +1183,22 @@
       "duration_ms": 224869,
       "name": "One On The Way",
       "url": "https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sweet Oblivion",
+        "url": "https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 135198,
+      "name": "Sweet Oblivion",
+      "url": "https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1247,22 +1267,6 @@
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Victory (With Choir And Strings)",
-        "url": "https://open.spotify.com/album/5GuOPJC3u1bOduMaiYg534"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7hFiSpPEyu7lFHxy4nJOmo"
     },
     {
       "added_at": "2023-12-01 17:56:37",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-114 songs - 5 hr 26 min
+115 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [scs](https://open.spotify.com/track/12DobhGFGfjMKrziqgRl5T) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [scs](https://open.spotify.com/album/1P2mDmojDqS8CDDn6pOM7o) | 3:06 | 2024-04-29 |  |
 | [SCS](https://open.spotify.com/track/5XX8i1pvt6kbekzJ0an7id) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:52 | 2024-04-29 |  |
 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 | 2024-04-29 |  |
+| [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 | 2024-07-18 |  |
 | [Soliloquio \(feat\. Vale LP\)](https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:01 | 2024-06-10 |  |
 | [sonic interlude](https://open.spotify.com/track/7GzqVB2D2VYev0Q99IpeXK) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 1:17 | 2024-04-29 |  |
 | [Spacca](https://open.spotify.com/track/69rScwKrFucVdwIhViiAav) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:41 | 2024-04-29 |  |

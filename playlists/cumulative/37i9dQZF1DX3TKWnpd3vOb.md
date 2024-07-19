@@ -2,9 +2,9 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: Kuervos del Sur & Nano Stern.
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Spiral Vortex.
 
-293 songs - 18 hr 33 min
+294 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 | 2023-06-02 |  |
 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 | 2022-04-08 |  |
 | [Camino Hacia el Sol](https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs) | [Club Calaca](https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA) | [Camino Hacia el Sol](https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG) | 3:39 | 2022-04-08 | 2023-03-03 |
+| [Campo Abierto](https://open.spotify.com/track/4cZJDFO0Peu5pgKQkgiWUV) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Campo Abierto](https://open.spotify.com/album/4DxRmRpxRZwWr2fL8WJgcw) | 3:41 | 2024-07-19 |  |
 | [Cara y Corazón](https://open.spotify.com/track/1QtiUJ9Qn7DLoMeUDNrYl7) | [La Transa](https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2), [Tomás Maldonado](https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p) | [Cara y Corazón](https://open.spotify.com/album/7LcU95BCXuQftctl8xIo5C) | 3:51 | 2022-04-08 | 2023-03-03 |
 | [Carne \- En Vivo](https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En vivo\)](https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p) | 5:59 | 2022-04-08 |  |
 | [Casi un Mapa](https://open.spotify.com/track/3Yt94WoBxDEgv0i7ff3NZ4) | [Solteronas en Escabeche](https://open.spotify.com/artist/3tOPlz1THJhkPfNJJyDomL), [Portius](https://open.spotify.com/artist/11DIDrM3b6VRzAL3pigGFz) | [Casi un Mapa](https://open.spotify.com/album/6DGtKRp36nEaiBaLh7TUxz) | 3:51 | 2022-04-08 | 2022-07-27 |
@@ -245,7 +246,7 @@
 | [Solo Humanos](https://open.spotify.com/track/7fpw9e5SwHgS0EZqz9qoE4) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [Solo Humanos](https://open.spotify.com/album/5UxyHRIZnHbOeQNYNBFvVe) | 3:44 | 2022-04-08 | 2023-03-03 |
 | [Sombras](https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Sombras](https://open.spotify.com/album/489Zh5KhMDcsJsbmiUlSIe) | 3:53 | 2022-04-08 | 2023-03-03 |
 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 | 2023-08-11 |  |
-| [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 |  |
+| [Somos Más](https://open.spotify.com/track/5JmVYyk9IQIsYqlNm6XpQQ) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Somos Más](https://open.spotify.com/album/5SdKXgGkKl6BdDYyzhOPKa) | 2:55 | 2022-04-08 | 2024-07-19 |
 | [Son Puros Caballos](https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Hipertenso](https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o) | 2:44 | 2022-04-08 |  |
 | [Soy](https://open.spotify.com/track/5aS9VmUxCXdG8NkmtivEOi) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Volver](https://open.spotify.com/album/7vDEFYg7ptetrcB5C3l9tj) | 3:29 | 2022-04-08 | 2023-03-03 |
 | [Submundo](https://open.spotify.com/track/1YFPkXaOs8lfBpc4fl1x64) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Submundo](https://open.spotify.com/album/2uoCgDKiQa8hQI7hmFdkya) | 3:21 | 2022-04-08 | 2022-07-21 |

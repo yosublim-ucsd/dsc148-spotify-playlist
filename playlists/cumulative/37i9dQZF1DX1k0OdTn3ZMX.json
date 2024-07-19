@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Magnolia Park.",
+  "description": "n\u00fc-metal revival is happening here and now with Windwaker.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 240304,
       "name": "Black Star",
       "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 256825,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/3rr9GJ6muRNyo2zWOEeiTk"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm"
       },
@@ -1202,6 +1220,24 @@
       "duration_ms": 192748,
       "name": "Hellstar",
       "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+    },
+    {
+      "album": {
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
     },
     {
       "album": {
@@ -1321,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Jelly",
+        "url": "https://open.spotify.com/album/4jQchA4qZLbHFnfIq8sUyI"
+      },
+      "artists": [
+        {
+          "name": "Thousand Thoughts",
+          "url": "https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117748,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/5vx0e8wqX8wODZrCiJQsrZ"
+    },
+    {
+      "album": {
         "name": "John",
         "url": "https://open.spotify.com/album/4wNEoTLKONCgk8Ahdieo6I"
       },
@@ -1332,10 +1386,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236649,
       "name": "John",
       "url": "https://open.spotify.com/track/1ygGepA71OGb6xNaEEZY1C"
+    },
+    {
+      "album": {
+        "name": "JOYKILLER",
+        "url": "https://open.spotify.com/album/0bsOXVkWaEKzuCk6WxN8Rn"
+      },
+      "artists": [
+        {
+          "name": "Parti!",
+          "url": "https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178342,
+      "name": "JOYKILLER",
+      "url": "https://open.spotify.com/track/4x5CQ8DdRQFAJSq5lfXwuh"
     },
     {
       "album": {
@@ -1951,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Prepackaged",
+        "url": "https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "Prepackaged",
+      "url": "https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2"
+    },
+    {
+      "album": {
         "name": "Psychopath (feat. Joe Bad)",
         "url": "https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ"
       },
@@ -1966,7 +2056,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199586,
       "name": "Psychopath (feat. Joe Bad)",
       "url": "https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR"
@@ -2728,7 +2818,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165343,
       "name": "UCOPIA",
       "url": "https://open.spotify.com/track/4Ht1HxpypndhtASlprsIkC"

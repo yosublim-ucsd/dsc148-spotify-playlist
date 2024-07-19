@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,738 likes - 41 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,747 likes - 41 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 40 | [Tonight, I'm Going to Wash the Hippy](https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 5:47 |
 | 41 | [Thrones](https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis \(Bonus Tracks\)](https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT) | 4:15 |
 
-Snapshot ID: `ZpW4AAAAAABljRYCaWgL0wKAlojSQQWZ`
+Snapshot ID: `ZpcJgAAAAAB8hedWUiIsXcw6cYxRKEN/`

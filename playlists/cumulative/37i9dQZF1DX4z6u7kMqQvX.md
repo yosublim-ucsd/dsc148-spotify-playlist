@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-499 songs - 1 day 4 hr 12 min
+500 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 | 2022-01-28 |  |
 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 | 2024-03-27 |  |
 | [Encuentro](https://open.spotify.com/track/3DQrtmXV78aZYdyHgt9ZWI) | [Yalung Tang](https://open.spotify.com/artist/44UGtpVvDidX2nmD3bc8Rb) | [Encuentro](https://open.spotify.com/album/51YzGcwLHAd8yjDyJb0M5W) | 3:15 | 2022-04-01 | 2022-04-12 |
+| [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 | 2024-07-19 |  |
 | [Enterrarte](https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sexo Con Modelos](https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx) | 3:27 | 2022-01-28 | 2023-03-03 |
 | [Entra En Mi Vida](https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Entra En Mi Vida](https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa) | 3:38 | 2022-01-28 | 2023-03-03 |
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2022-01-07 | 2022-07-20 |
@@ -463,7 +464,7 @@
 | [Tu Cabeza](https://open.spotify.com/track/24ZePEqPyCvc2jT2TwLUWA) | [Bleckance](https://open.spotify.com/artist/7g3enk0PeZO2E1vqtVn6UD) | [Tu Cabeza](https://open.spotify.com/album/0o20muf7fSEktMPvoDCPp9) | 2:07 | 2022-04-01 | 2022-07-16 |
 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 | 2022-04-01 | 2022-04-16 |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2022-01-07 | 2023-03-03 |
-| [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 | 2022-01-28 |  |
+| [Tu Recuerdo](https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Tu Recuerdo](https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6) | 3:53 | 2022-01-28 | 2024-07-19 |
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-03-13 | 2023-09-22 |
 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 | 2022-01-07 |  |
 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 | 2022-05-09 |  |

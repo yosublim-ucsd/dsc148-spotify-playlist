@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-402 songs - 23 hr 29 min
+403 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Paloma \(feat\. Anitta\)](https://open.spotify.com/track/0HFkCSXRTUHCYJ148PdD0v) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paloma \(feat\. Anitta\)](https://open.spotify.com/album/5Fbm6ol0DhVbsBeRsr2fYw) | 2:21 | 2022-05-05 | 2022-07-29 |
 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 | 2024-03-27 | 2024-06-02 |
 | [Pensare Male \(con Elodie\)](https://open.spotify.com/track/0vUhEAJIaTGqBJfDsOZoNt) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Pensare Male \(con Elodie\)](https://open.spotify.com/album/4K8RcA1mnKbJqOUwdvY1iQ) | 3:29 | 2022-05-05 | 2022-07-28 |
+| [Per dimenticare](https://open.spotify.com/track/6lrlFMu06aGPDH0phlCnct) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Sotto una pioggia di parole](https://open.spotify.com/album/2hym5VSeKDVm7TP2eAvVKr) | 3:31 | 2024-05-22 |  |
 | [Per sentirmi vivo](https://open.spotify.com/track/20v9X8TV0AgwNGFT71OX3w) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Io sono Fasma](https://open.spotify.com/album/2Abr7wXyapnBuCMHYw4QMM) | 2:57 | 2022-05-05 | 2022-07-25 |
 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 | 2022-05-05 | 2022-07-29 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-05-05 | 2023-08-19 |
@@ -357,7 +358,7 @@
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2024-01-30 | 2024-03-28 |
 | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW) | 3:30 | 2024-01-30 |  |
 | [Ti raggiungerò](https://open.spotify.com/track/3Ks12KDKwrT1anFMW0tevG) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [Ti raggiungerò](https://open.spotify.com/album/2Llm7n46UG6egltcs19BMY) | 2:44 | 2022-05-05 | 2022-07-29 |
-| [Ti volevo dedicare \(feat\. J\-AX & Boomdabash\)](https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Libertà](https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg) | 3:28 | 2022-05-05 |  |
+| [Ti volevo dedicare \(feat\. J\-AX & Boomdabash\)](https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Libertà](https://open.spotify.com/album/57L1NgMlfxscOxHhmfLjqg) | 3:28 | 2022-05-05 | 2024-07-19 |
 | [Tikibombom](https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Magmamemoria MMXX \(Deluxe Edition\)](https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr) | 3:23 | 2022-05-05 | 2022-07-28 |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2024-03-27 |  |
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 4:05 | 2024-01-30 | 2024-03-28 |

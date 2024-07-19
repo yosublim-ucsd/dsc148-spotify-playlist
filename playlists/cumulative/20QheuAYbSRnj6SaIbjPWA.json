@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "Everything In Its Right Place",
+      "url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8"
+    },
+    {
+      "album": {
         "name": "In A Time Lapse",
         "url": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG"
       },

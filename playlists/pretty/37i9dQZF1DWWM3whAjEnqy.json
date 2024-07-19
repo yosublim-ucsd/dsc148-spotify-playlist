@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43434,
+  "num_followers": 43440,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Simply Paradise",
         "url": "https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Everything Is Easy",
+        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 197663,
+      "name": "Everything Is Easy",
+      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Angus & Julia Stone (Deluxe)",
         "url": "https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Everything Is Easy",
-        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Everything Is Easy",
-      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "HOPE Campaign Tribute Album 2010",
-        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Sponge Cake",
         "url": "https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 248590,
       "name": "Be About You",
       "url": "https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Gossip",
         "url": "https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 203920,
       "name": "Leaps And Bounds",
       "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "LO LA RU",
-        "url": "https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E"
+        "name": "As You Go",
+        "url": "https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 212173,
-      "name": "God Forgot",
-      "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
+      "duration_ms": 180533,
+      "name": "As You Go",
+      "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
     }
   ],
   "unique_name": "Coast to Coast",

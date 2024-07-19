@@ -4,7 +4,7 @@
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-55 songs - 2 hr 54 min
+56 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Fine \- Acoustic](https://open.spotify.com/track/5XhnDZdU1oIrbbGR9p5zin) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [First Of All \(Acoustic\)](https://open.spotify.com/album/7C3XJPyTLi1edptS5bNE1x) | 4:09 | 2024-02-16 |  |
 | [Flight Alerts \- Stripped](https://open.spotify.com/track/0KximhGn0QxpaBuDP5qLyR) | [Ukairo](https://open.spotify.com/artist/0GOMjP8OTfdLxxR4W8djOA) | [Flight Alerts](https://open.spotify.com/album/2pPPMJVM2EXGSuFTd4tPNF) | 4:35 | 2024-02-16 |  |
 | [Fold \(Acoustic\)](https://open.spotify.com/track/6486yIkkiV42CXf9BiEtoM) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:36 | 2024-02-16 |  |
-| [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 |  |
+| [Ghetto Gospel \- Acoustic Version](https://open.spotify.com/track/0hTt48VRKAOZVNoNyvX8co) | [Shun Breezy](https://open.spotify.com/artist/3BBfTY6VjAtcWyN2Ux3wC6) | [Ghetto Gospel \(Acoustic Version\)](https://open.spotify.com/album/4ZUuhzqrl4fQQT6Q7h24Ly) | 3:47 | 2024-02-16 | 2024-07-19 |
 | [GoodSin \- Acoustic](https://open.spotify.com/track/6hKRozJksKQrLTOu5Fo6wX) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [GoodSin \(Acoustic\)](https://open.spotify.com/album/3m61tjwaJsthMob8WkrrZY) | 2:19 | 2024-02-16 |  |
 | [I Wish \(feat\. Libianca\) \- Acoustic](https://open.spotify.com/track/4PFWe1UG9f3RFbjVH9644c) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\) \[Acoustic\]](https://open.spotify.com/album/3b8hJAjZ4RJpyqFf3F8ls5) | 3:44 | 2024-02-16 |  |
 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 | 2024-02-16 |  |
@@ -34,6 +34,7 @@
 | [Kuliko Jana \- Acapella version](https://open.spotify.com/track/38Jnks0lBpHT8pfdGQsLI4) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [RedFourth Chorus](https://open.spotify.com/artist/4yPKgjg5Mz0GEqaT387cRd) | [Kuliko Jana \(Acapella version\)](https://open.spotify.com/album/2fB9vC3cFeko0ZCSyJzBkX) | 5:10 | 2024-02-16 |  |
 | [Last Last Mashup](https://open.spotify.com/track/2EjFHEvXusf4IL2f5XGBeZ) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW), [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze) | [Last Last Mashup](https://open.spotify.com/album/3uFuyvGogCxtUNZgCf32S9) | 2:22 | 2024-02-16 |  |
 | [Legalize \(Acoustic\)](https://open.spotify.com/track/1U4PkTVS92UKPalWeiDa7z) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize \(Acoustic\)](https://open.spotify.com/album/79HVnTC5lntDM2MjgDeIug) | 2:26 | 2024-02-16 |  |
+| [Let it be](https://open.spotify.com/track/4scQQdvqjzCtOcxVs8r8Ia) | [Victoria Gichora](https://open.spotify.com/artist/29bVNgK0J0XNLcYqi1xsG0) | [Let it be](https://open.spotify.com/album/6rz8CVtzWCV2rAfQDSHWDq) | 3:01 | 2024-07-18 |  |
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-02-16 |  |
 | [Lonely At The Top \- Acoustic](https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top EP](https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN) | 2:40 | 2024-02-16 |  |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-16 |  |

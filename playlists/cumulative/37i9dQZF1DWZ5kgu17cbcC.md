@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-101 songs - 4 hr 47 min
+103 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Pretty Vacant](https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:18 | 2024-01-05 | 2024-07-03 |
 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 | 2024-01-05 |  |
 | [Protect Ya Neck](https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]](https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV) | 4:51 | 2024-01-05 | 2024-07-03 |
+| [Return to Sender](https://open.spotify.com/track/71Z7P3GdkgS5HcRWcQnCGz) | [Daniel Rojas](https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR) | [Hit\-Monkey \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/1XBUl7nB5Cpcxd9eNlAWC6) | 2:32 | 2024-07-19 |  |
 | [Running Elizabeth](https://open.spotify.com/track/4mj1ZCx7F939G1C3RhAYDL) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 1:14 | 2024-01-05 |  |
 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 | 2024-01-05 |  |
 | [Shinobi](https://open.spotify.com/track/4sBk1dJrDrxT2xjRyGJTWU) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 3:20 | 2024-02-23 |  |
@@ -93,6 +94,7 @@
 | [The King's Man](https://open.spotify.com/track/7c83RE46yaPpADloOKnpJr) | [Matthew Margeson](https://open.spotify.com/artist/0XoDro3xyUJ9BEf5FlSECi), [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [The King's Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61iloqr9hJ3NxXxvm7h30A) | 4:16 | 2024-01-05 |  |
 | [The Lake](https://open.spotify.com/track/25mKTG9WMdLZJUawG8kAid) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [The Princess \(Original Soundtrack\)](https://open.spotify.com/album/5WQyFBDknDhKvvgFdwamNK) | 1:26 | 2024-01-05 |  |
 | [The Manster \(Dr\. Hunkenstein's Theme\) \- From "Welcome to Chippendales"](https://open.spotify.com/track/1SFYHgTx12lAYO3y2uiSkZ) | [Welcome to Chippendales \- Cast](https://open.spotify.com/artist/0qYqSxY801i0KGlXAY0RmI) | [The Manster \(Dr\. Hunkenstein's Theme\) \[From "Welcome to Chippendales"\]](https://open.spotify.com/album/67bQEV7F5NukLXQu7qDksg) | 3:22 | 2024-01-05 |  |
+| [The Midnight Order](https://open.spotify.com/track/4KexGFHUw4CJygbt4VjRt4) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL) | [Sasha Reid and the Midnight Order \(Original Soundtrack\)](https://open.spotify.com/album/3m9vYfKHIvZ01Z7m0wQfjN) | 0:53 | 2024-07-19 |  |
 | [The Other Black Girl \(Main Title Soundtrack Version\)](https://open.spotify.com/track/6BOTlXihQUxlBWI6TuUGhZ) | [EmmoLei Sankofa](https://open.spotify.com/artist/2NSHsfKY7ldsfhtTdkV9id) | [The Other Black Girl \(Original Soundtrack\)](https://open.spotify.com/album/6RDhVFGlWLBF60fOIvgWd8) | 1:02 | 2024-01-05 |  |
 | [The Pull of Death](https://open.spotify.com/track/1fU41Vj9BRZRfTeBt2MEt7) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 3:38 | 2024-02-23 |  |
 | [The Way \(Faraway Downs Theme\) \- From "Faraway Downs"](https://open.spotify.com/track/7ffAS0WDXtx7GQ2rjTvcoI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [The Way \(Faraway Downs Theme\) \[From "Faraway Downs"\]](https://open.spotify.com/album/755yHPrtRKmlnSF8wKazgc) | 2:27 | 2024-01-05 |  |

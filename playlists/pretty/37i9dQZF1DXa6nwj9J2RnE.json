@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAAB9cF2SdUHx/7sAdMIz6ADP",
+  "snapshot_id": "ZpoI5wAAAADlsHXhhvYZdyy0IyeWOrZK",
   "tracks": [
     {
       "added_at": "2024-07-11 22:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "het mag ook eens stil zijn",
         "url": "https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 152044,
       "name": "het mag ook eens stil zijn",
       "url": "https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Glimlach",
+        "url": "https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 147589,
+      "name": "Glimlach",
+      "url": "https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -111,6 +111,70 @@
       "duration_ms": 160902,
       "name": "Scherpe Knuffels",
       "url": "https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Who Sees",
+        "url": "https://open.spotify.com/album/6GUZ4D4qd2XmNw6JQXpC1V"
+      },
+      "artists": [
+        {
+          "name": "Karel",
+          "url": "https://open.spotify.com/artist/71466X2rWKpkslUhAghZck"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Who Sees",
+      "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz"
+      },
+      "artists": [
+        {
+          "name": "Lilian Hak",
+          "url": "https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Heilig",
+        "url": "https://open.spotify.com/album/6zGVciLVEfYWzPK24jgerH"
+      },
+      "artists": [
+        {
+          "name": "Bob uit Zuid",
+          "url": "https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Waarom Groot",
+      "url": "https://open.spotify.com/track/51HKork5xatPaqGjyxQ2Bt"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -171,18 +235,18 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Glimlach",
-        "url": "https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w"
+        "name": "In Mijn Ritme",
+        "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
       },
       "artists": [
         {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
         }
       ],
-      "duration_ms": 147589,
-      "name": "Glimlach",
-      "url": "https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1"
+      "duration_ms": 200777,
+      "name": "In Mijn Ritme",
+      "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -203,6 +267,22 @@
       "duration_ms": 192034,
       "name": "MENSEN (ZOALS WIJ)",
       "url": "https://open.spotify.com/track/70kKaMHh92fiWfElpJSMLj"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM"
+      },
+      "artists": [
+        {
+          "name": "Sammie Sedano",
+          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -243,22 +323,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/0loodexikCgWDHbTLqNyZM"
-      },
-      "artists": [
-        {
-          "name": "Sammie Sedano",
-          "url": "https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/70T7J9cUIvTuoB4K82zsPf"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "mensenkind",
         "url": "https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM"
       },
@@ -271,22 +335,6 @@
       "duration_ms": 144444,
       "name": "wolken",
       "url": "https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Who Sees",
-        "url": "https://open.spotify.com/album/6GUZ4D4qd2XmNw6JQXpC1V"
-      },
-      "artists": [
-        {
-          "name": "Karel",
-          "url": "https://open.spotify.com/artist/71466X2rWKpkslUhAghZck"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Who Sees",
-      "url": "https://open.spotify.com/track/4BTCelgKznFzvPM4Nz93Sz"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -307,38 +355,6 @@
       "duration_ms": 160856,
       "name": "We Komen Van Ver",
       "url": "https://open.spotify.com/track/0QjKb4z3dZK6a3unYnki1C"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/04LCjxpQJP69yCB5ZPMHvz"
-      },
-      "artists": [
-        {
-          "name": "Lilian Hak",
-          "url": "https://open.spotify.com/artist/3h5PRBvE4jKVjXZq1cqMqH"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/0iLvu7hCQfd5gt5pdd3hj2"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Heilig",
-        "url": "https://open.spotify.com/album/6zGVciLVEfYWzPK24jgerH"
-      },
-      "artists": [
-        {
-          "name": "Bob uit Zuid",
-          "url": "https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Waarom Groot",
-      "url": "https://open.spotify.com/track/51HKork5xatPaqGjyxQ2Bt"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "In Mijn Ritme",
-        "url": "https://open.spotify.com/album/53zn3XqI41ya1dosLPr2Ky"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 200777,
-      "name": "In Mijn Ritme",
-      "url": "https://open.spotify.com/track/4NypvDwmgKjZ9UYFQ7mxIW"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "round and round",
         "url": "https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c"
       },
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Narco X Styn, Vol. 1",
-        "url": "https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l"
-      },
-      "artists": [
-        {
-          "name": "Narco Polo",
-          "url": "https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW"
-        },
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
-        }
-      ],
-      "duration_ms": 103783,
-      "name": "Een Vak Apart",
-      "url": "https://open.spotify.com/track/0HYQ5ecpzJjrF7ikjH86My"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 257618,
       "name": "Lila",
       "url": "https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Narco X Styn, Vol. 1",
+        "url": "https://open.spotify.com/album/4gI8wrYyoWCFbUBwkYbJ1l"
+      },
+      "artists": [
+        {
+          "name": "Narco Polo",
+          "url": "https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW"
+        },
+        {
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+        }
+      ],
+      "duration_ms": 103783,
+      "name": "Een Vak Apart",
+      "url": "https://open.spotify.com/track/0HYQ5ecpzJjrF7ikjH86My"
     }
   ],
   "unique_name": "karakter.",

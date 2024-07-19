@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 51152,
+  "num_followers": 51167,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Wise Up",
-        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 227495,
-      "name": "Wise Up",
-      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "Wise Up",
+        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 227495,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1619,6 +1619,46 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "De La Soul is Dead",
+        "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "Vinia Mojica",
+          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
+        }
+      ],
+      "duration_ms": 242006,
+      "name": "A Roller Skating Jam Named \"Saturdays\"",
+      "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -1647,30 +1687,6 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
-        "name": "De La Soul is Dead",
-        "url": "https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        },
-        {
-          "name": "Vinia Mojica",
-          "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
-        }
-      ],
-      "duration_ms": 242006,
-      "name": "A Roller Skating Jam Named \"Saturdays\"",
-      "url": "https://open.spotify.com/track/1ihXWWbKNIrb7S7ERA6Qcb"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 149470,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Denial",
         "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
       },
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Magic 2",
-        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 232017,
-      "name": "Office Hours (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "[BUMP] Pick Me Up",
         "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 157777,
       "name": "[Admire Her] (with Gunna)",
       "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
       "added_at": "2024-07-12 03:01:00",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2024-07-12 03:01:00",
       "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 163205,
-      "name": "Miss My Dawgs (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
-    },
-    {
-      "added_at": "2024-07-12 03:01:00",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "added_at": "2024-07-12 03:01:00",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 163205,
+      "name": "Miss My Dawgs (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/5fCBPjWjqaa0vuRO0ZRWPC"
     },
     {
       "added_at": "2024-07-12 03:01:00",

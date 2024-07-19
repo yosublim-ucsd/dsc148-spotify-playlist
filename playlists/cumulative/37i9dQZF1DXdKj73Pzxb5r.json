@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "11505",
+        "url": "https://open.spotify.com/album/5OcrYfOzbof9ZCOdBxs4MN"
+      },
+      "artists": [
+        {
+          "name": "Takotsubo",
+          "url": "https://open.spotify.com/artist/6q0bEgkuuJdmIFJqImoGMh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233739,
+      "name": "9",
+      "url": "https://open.spotify.com/track/7CC1RwP4NZ4fjfO6NlUNss"
+    },
+    {
+      "album": {
         "name": "Adegan Pembuka",
         "url": "https://open.spotify.com/album/0lEmPmFryqrBXkAfY846JI"
       },
@@ -38,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220500,
       "name": "Adore",
       "url": "https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44"
@@ -226,6 +244,28 @@
       "duration_ms": 253023,
       "name": "Cerah",
       "url": "https://open.spotify.com/track/0i0Yv9X7PiYQ2koVWruJ6K"
+    },
+    {
+      "album": {
+        "name": "Change of Heart (Alt. Version)",
+        "url": "https://open.spotify.com/album/6lSnVgdSmHCMP42Pgljraf"
+      },
+      "artists": [
+        {
+          "name": "Astera",
+          "url": "https://open.spotify.com/artist/4JnHEguLziouTWp1brStli"
+        },
+        {
+          "name": "Riri",
+          "url": "https://open.spotify.com/artist/5NfMRqmaaPFaYqtVhxKksY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261967,
+      "name": "Change of Heart - Alt. Version",
+      "url": "https://open.spotify.com/track/6FL4oxoGhJ0GSvhmzZpBDA"
     },
     {
       "album": {
@@ -480,7 +520,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 265943,
       "name": "Dont You Forget About Me",
       "url": "https://open.spotify.com/track/1RXPiPo2mhZOdcxcOflPzL"
@@ -628,6 +668,28 @@
       "duration_ms": 64285,
       "name": "Fermeture",
       "url": "https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF"
+    },
+    {
+      "album": {
+        "name": "Forkman In The Soup World",
+        "url": "https://open.spotify.com/album/1vwXmFFUwB8IbrsVuOBOz9"
+      },
+      "artists": [
+        {
+          "name": "Beranda Rumah",
+          "url": "https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf"
+        },
+        {
+          "name": "Mr. & Mrs. Muffins",
+          "url": "https://open.spotify.com/artist/4HPHtlE9XsmCcQNSkuqShU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230969,
+      "name": "Forkman In The Soup World",
+      "url": "https://open.spotify.com/track/5tIEw3b8Ht8saJ4wz3Ya5d"
     },
     {
       "album": {
@@ -848,6 +910,28 @@
       "duration_ms": 264362,
       "name": "How Could You Still Love Me",
       "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
+    },
+    {
+      "album": {
+        "name": "I Would Never...",
+        "url": "https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb"
+      },
+      "artists": [
+        {
+          "name": "Drizzly.",
+          "url": "https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU"
+        },
+        {
+          "name": "Mocca",
+          "url": "https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202981,
+      "name": "I Would Never...",
+      "url": "https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X"
     },
     {
       "album": {
@@ -1104,6 +1188,24 @@
       "duration_ms": 208878,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1drOwW01nQm3HRZ7yDVP5i"
+    },
+    {
+      "album": {
+        "name": "Lost Consciousness, Pt\u200b.\u200b2",
+        "url": "https://open.spotify.com/album/5ADuz65F3CITmNYen4Bx9v"
+      },
+      "artists": [
+        {
+          "name": "re:NAN",
+          "url": "https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6RJIX0DfN4TAhxZCf8v8rE"
     },
     {
       "album": {
@@ -1626,7 +1728,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 303000,
       "name": "Salah",
       "url": "https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP"
@@ -1760,6 +1862,42 @@
       "duration_ms": 178217,
       "name": "Siapa yang Salah",
       "url": "https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH"
+    },
+    {
+      "album": {
+        "name": "SKRD (SAD KISSES, RECKLESS DREAMS)",
+        "url": "https://open.spotify.com/album/2RxGItaz6P4JVx900w0kh8"
+      },
+      "artists": [
+        {
+          "name": "XANDEGA",
+          "url": "https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "SKRD (SAD KISSES, RECKLESS DREAMS)",
+      "url": "https://open.spotify.com/track/6lKVc8qLoE1Xm6OtKc8IGI"
+    },
+    {
+      "album": {
+        "name": "Slippery",
+        "url": "https://open.spotify.com/album/420j8oB94KH2s8007O1NNU"
+      },
+      "artists": [
+        {
+          "name": "Matahara",
+          "url": "https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204101,
+      "name": "Slippery",
+      "url": "https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i"
     },
     {
       "album": {
@@ -2046,6 +2184,24 @@
       "duration_ms": 285745,
       "name": "Ujung Andromeda",
       "url": "https://open.spotify.com/track/6dbYpkS5dhnoJcu5mhWko0"
+    },
+    {
+      "album": {
+        "name": "Untuk Bunga",
+        "url": "https://open.spotify.com/album/2VtEtHxewo8Az3Pr8xruI7"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Untuk Bunga",
+      "url": "https://open.spotify.com/track/1HGzVBvwUSlvE3JzVjUPaO"
     },
     {
       "album": {

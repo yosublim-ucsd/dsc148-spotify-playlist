@@ -6535,6 +6535,24 @@
     },
     {
       "album": {
+        "name": "ultimanotte",
+        "url": "https://open.spotify.com/album/7ANd7y44U4BzpO6gBEz0kz"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187982,
+      "name": "ultimanotte",
+      "url": "https://open.spotify.com/track/1FEwhXtB28yOzfH0UrHoWb"
+    },
+    {
+      "album": {
         "name": "ULTRANCE",
         "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
       },

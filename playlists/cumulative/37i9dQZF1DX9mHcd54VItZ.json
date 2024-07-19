@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=ZW07j9naQvSBVtAYj728Lw\">The Parlotones</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw\">Jo Black</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
@@ -2946,6 +2946,42 @@
       "duration_ms": 224476,
       "name": "Garden of the Snake",
       "url": "https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG"
+    },
+    {
+      "album": {
+        "name": "Gee My Jou Alles",
+        "url": "https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212617,
+      "name": "Gee My Jou Alles",
+      "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
+    },
+    {
+      "album": {
+        "name": "Geen Vrede",
+        "url": "https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h"
+      },
+      "artists": [
+        {
+          "name": "Elsje du Toit",
+          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227766,
+      "name": "Geen Vrede",
+      "url": "https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo"
     },
     {
       "album": {
@@ -4057,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "album": {
         "name": "Joune",
         "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
       },
@@ -4270,7 +4324,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218096,
       "name": "Knip die Tou",
       "url": "https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl"
@@ -5688,7 +5742,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196213,
       "name": "Ooaa",
       "url": "https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8"

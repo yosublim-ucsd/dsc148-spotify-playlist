@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9756,
+  "num_followers": 9768,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABc6B6BMl+92227dCgaH4kQ",
+  "snapshot_id": "ZpcJgAAAAAB/YTWVYx3NwhwZP9Yp5OCx",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WWE: The Music - A New Day, Vol. 10",
-        "url": "https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
       "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 271353,
-      "name": "Just Close Your Eyes (Christian)",
-      "url": "https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu"
+      "duration_ms": 223808,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+        "name": "WWE: The Music - A New Day, Vol. 10",
+        "url": "https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT"
       },
       "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223808,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
+      "duration_ms": 271353,
+      "name": "Just Close Your Eyes (Christian)",
+      "url": "https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Dive Right In",
-      "url": "https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG"
+      "duration_ms": 201666,
+      "name": "Razorblades",
+      "url": "https://open.spotify.com/track/0hpD9ZtCq7ukiaM3pK7RMG"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
+      "duration_ms": 209480,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/7lB6JUMr99cuU1EfSl8yC6"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223668,
-      "name": "Taste the Poison",
-      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
+      "duration_ms": 252826,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 192680,
-      "name": "Five Against the World",
-      "url": "https://open.spotify.com/track/1c6XA7JzctIQHsUmKwfRFi"
+      "duration_ms": 223668,
+      "name": "Taste the Poison",
+      "url": "https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d"
     },
     {
       "added_at": null,

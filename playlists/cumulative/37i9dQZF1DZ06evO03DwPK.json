@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "This is Bruno Mars. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
   "name": "This Is Bruno Mars",
   "tracks": [
     {
@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "777",
       "url": "https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244493,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 228300,
       "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
       "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"

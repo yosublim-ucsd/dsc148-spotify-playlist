@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,045 likes - 218 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,050 likes - 218 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 167 | [Last Words](https://open.spotify.com/track/5jl4mrAV1rEm384440ZAib) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:47 |
 | 168 | [Stare](https://open.spotify.com/track/7bvumLayTpnyN2fimH5xig) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:18 |
 | 169 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
-| 170 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
-| 171 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
+| 170 | [Two Left Feet](https://open.spotify.com/track/379QoKTkUc3F6ExpDZBl3m) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 2:30 |
+| 171 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
 | 172 | [Justified \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/7q1wxV2QkDLBzFF0ULN0fh) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:24 |
 | 173 | [Loneliness](https://open.spotify.com/track/36C8pBTFMofLEikkkQWRd0) | [Karise Eden](https://open.spotify.com/artist/0dJwWgFktKXVoomwZGmUV8) | [Things I've Done](https://open.spotify.com/album/4WNiIAQqHRgCeLhulhId0r) | 3:50 |
 | 174 | [Stupid Crazy](https://open.spotify.com/track/4w9s8Ci6Sn8nuW8tWs9lOU) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:15 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 217 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 218 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbW+BAAAAAAww7kU4B5tiZS3fBA6GOv5`
+Snapshot ID: `AbXFDAAAAADVMpbVAq+NnYE7TAXyRVCp`

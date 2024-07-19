@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggis Devaki
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Dreane
 
 222 songs - 14 hr 18 min
 

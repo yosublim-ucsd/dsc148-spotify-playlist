@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Eleni Foureira
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Ellize
 
-61 songs - 3 hr 17 min
+65 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Kornaro \- Remix](https://open.spotify.com/track/527rcJEpvVxbOZ7PEWFHUP) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf) | [Kornaro \(Remix\)](https://open.spotify.com/album/6IEHylAyKOxHdWAeFEcTS3) | 3:36 | 2024-07-11 |  |
 | [Krypsou](https://open.spotify.com/track/7kvlJ0hzUxHUvy6XdNn2g3) | [Jenny Georgiadi](https://open.spotify.com/artist/7CiW0X8FYCQOhskclPFkxo), [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Krypsou](https://open.spotify.com/album/5HAzznEHA6Lga7u075Pju3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 | 2024-07-04 |  |
-| [LALALALA](https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 2:52 | 2024-06-27 |  |
+| [LALALALA](https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 2:52 | 2024-06-27 | 2024-07-19 |
+| [LALALALA \- Remix](https://open.spotify.com/track/7i1PClgbxW5GQCIxFuS9eW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [LALALALA \(Remix\)](https://open.spotify.com/album/57OtUZC55GBD6G7c3JQY3P) | 2:44 | 2024-07-18 |  |
 | [LOCO](https://open.spotify.com/track/74EtbjC2q4S5bRvYIfowWY) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [LOCO](https://open.spotify.com/album/28URYDcEbC2mTOfVJm4zt5) | 2:20 | 2024-06-27 | 2024-07-12 |
 | [Magemena](https://open.spotify.com/track/5u2OwdIvRinY1CZ3zpfC4P) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Klavdia](https://open.spotify.com/album/7KnctWI2GTw7eCCEBvNmvC) | 2:53 | 2024-06-27 |  |
 | [MAGKAS](https://open.spotify.com/track/4vatCFAoERGB9m7wskYQNS) | [Daphne Lawrence](https://open.spotify.com/artist/2OJeL3ypFFDQfHb5oWiW6s) | [MAGKAS](https://open.spotify.com/album/7J3FKSVw8tiWLmKTZTdKs3) | 2:34 | 2024-06-27 |  |
@@ -45,8 +46,10 @@
 | [Misi Kardia](https://open.spotify.com/track/4uJ0CGPSVrGvJQOIxxOA9C) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Misi Kardia](https://open.spotify.com/album/27vjoREultOZefvf0GwvHD) | 3:58 | 2024-06-27 |  |
 | [Monadiki](https://open.spotify.com/track/1fmfblkNCFnGoarXOduqLb) | [Konstantinos Nazis](https://open.spotify.com/artist/1ou8OtMKGI4xKvD0OHiP8X), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Monadiki](https://open.spotify.com/album/4WDKc0NZEWEcaE3mJz4ja9) | 2:24 | 2024-06-27 | 2024-07-12 |
 | [Monaxiki Kardia](https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Monaxiki Kardia](https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC) | 2:32 | 2024-06-27 |  |
-| [Mykonos](https://open.spotify.com/track/3hVdZlwpU35m5vtPxmv7OI) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Mykonos](https://open.spotify.com/album/1WhXSHBpgNQkfVFzmqJaH1) | 2:13 | 2024-06-27 |  |
+| [Mykonos](https://open.spotify.com/track/3hVdZlwpU35m5vtPxmv7OI) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Mykonos](https://open.spotify.com/album/1WhXSHBpgNQkfVFzmqJaH1) | 2:13 | 2024-06-27 | 2024-07-19 |
+| [Mykonos \- Afro House Remix](https://open.spotify.com/track/6ojWvKOZz9V2dESo6KBotL) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Michael Tsaousopoulos](https://open.spotify.com/artist/5PqeqrwrU93NISsOPbYPHN) | [Mykonos \(Afro House Remix\)](https://open.spotify.com/album/3TPCyqLmLEa1i1ANxmHGpd) | 2:28 | 2024-07-18 |  |
 | [Noumero 1](https://open.spotify.com/track/6ItU0GpYf2VkEmVZNdJ9o4) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Noumero 1](https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq) | 2:33 | 2024-06-27 | 2024-07-12 |
+| [Oute Ligo](https://open.spotify.com/track/70p1lyvyuFmWtX2ia1SxJJ) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Oute Ligo](https://open.spotify.com/album/2eNJFF5e7TT1ZVnxZIB6EB) | 2:33 | 2024-07-18 |  |
 | [OXI \- 2024 Edition](https://open.spotify.com/track/22ZJ6ckRr5G0EaMt5gwwUC) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [OXI \(2024 Edition\)](https://open.spotify.com/album/7FWNkIXb1Am6oXzs82cH3X) | 3:45 | 2024-06-27 |  |
 | [Panselinos](https://open.spotify.com/track/230Aews21zrVVeaebAndZG) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Panselinos](https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32) | 2:51 | 2024-06-27 |  |
 | [Party](https://open.spotify.com/track/3E5i4Ys2tHx1WxjvCaVu4K) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Party](https://open.spotify.com/album/6e2lLFF8WN5gjiRJUku0Kf) | 3:19 | 2024-07-04 |  |
@@ -57,7 +60,7 @@
 | [S' Agapao Giati](https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [S' Agapao Giati](https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa) | 3:48 | 2024-06-27 |  |
 | [S' Agapisa Apo Tin Proti Stigmi](https://open.spotify.com/track/5lww7Vxi4xqmRbI57gfyI6) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [S' Agapisa Apo Tin Proti Stigmi](https://open.spotify.com/album/47z3WT3HjiN9WZEHfpBwbW) | 3:30 | 2024-06-27 |  |
 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 | 2024-06-27 |  |
-| [STIN IYIA MAS](https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 3:20 | 2024-06-27 |  |
+| [STIN IYIA MAS](https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 3:20 | 2024-06-27 | 2024-07-19 |
 | [Taxidi](https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB) | [Marina Spanou](https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz) | [Mia Kaseta Gia Ton Dromo](https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg) | 4:52 | 2024-06-27 |  |
 | [Ti Matia](https://open.spotify.com/track/1RvfwM7v9NVFAOiuMxVUUI) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Ti Matia](https://open.spotify.com/album/1V99OWo1goj1y53XjIXrCG) | 3:01 | 2024-06-27 |  |
 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 | 2024-06-27 |  |
@@ -67,7 +70,8 @@
 | [we were](https://open.spotify.com/track/6aMfkyugXzPTmvuuVFuPf8) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [we were](https://open.spotify.com/album/6ckbiSTuokLPCIBlm7dxRL) | 2:58 | 2024-07-04 |  |
 | [XANA](https://open.spotify.com/track/70WlqksyNuh668wCoKD7zn) | [DJ PaCo](https://open.spotify.com/artist/6YxjAAOm4MVd55JQM8ijbG), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [XANA](https://open.spotify.com/album/6Bcx9bdDTMszmgSPcbeKzT) | 2:45 | 2024-06-27 |  |
 | [XRONOS](https://open.spotify.com/track/0pj5UEo8SZSHlKkmKxURWo) | [ZAF](https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO) | [TRUE LOVE STORY: Part 1](https://open.spotify.com/album/3EKby9F8OQyOKPZihUiFO5) | 3:11 | 2024-06-27 |  |
-| [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 | 2024-06-27 |  |
+| [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 | 2024-06-27 | 2024-07-19 |
+| [Xrysopsara \- Display & Tony Fragment Remix](https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28), [Tony Fragment](https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj) | [Xrysopsara \(Display & Tony Fragment Remix\)](https://open.spotify.com/album/3arKOWYRyVlDbX8Z4nJBOM) | 3:34 | 2024-07-18 |  |
 | [Yperfainomeno](https://open.spotify.com/track/2Yqy3VMmglyH7rn4EfXKPq) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [Yperfainomeno](https://open.spotify.com/album/3yF1BVK5VErdnm9m7Be9fD) | 2:47 | 2024-06-27 | 2024-07-05 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

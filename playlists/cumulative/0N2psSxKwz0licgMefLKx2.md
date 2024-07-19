@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll
+> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Julia Michaels &amp; Josh Ross
 
-201 songs - 10 hr 51 min
+202 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Use Me](https://open.spotify.com/track/1070IKrlb7FspThi7xAuYv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 3:46 | 2024-06-17 |  |
 | [Vegas](https://open.spotify.com/track/393ebh7Tq3q45yH68lxuyH) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Vegas](https://open.spotify.com/album/4AVMZ91ayoRmwH9NcJEFkh) | 3:02 | 2024-03-15 | 2024-04-13 |
 | [Walking Man](https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Walking Man](https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK) | 3:15 | 2023-11-03 | 2024-01-27 |
+| [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-19 |  |
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-11-03 | 2024-02-24 |
 | [we don't fight anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [we don't fight anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 | 2023-11-03 |  |
 | [Weekend You](https://open.spotify.com/track/3doTRdHX25BdvMQxJ3Jgvm) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Weekend You](https://open.spotify.com/album/65tUUz5Eaz4kPtq3StWWNq) | 3:37 | 2023-11-03 | 2024-02-24 |

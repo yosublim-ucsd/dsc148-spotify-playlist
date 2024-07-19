@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-386 songs - 1 day 0 hr 13 min
+387 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 |  |
 | [Dark Roses \(Live From Sunset Sound\)](https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Wreckage, Vol\. 2 \(Live\)](https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6) | 3:30 | 2022-09-30 | 2023-03-11 |
 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 | 2024-02-16 |  |
+| [Days of Mellow](https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Days of Mellow](https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu) | 2:34 | 2024-07-19 |  |
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 | 2024-02-10 |
 | [Devil That You Know](https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0) | [Emma Elena Grace](https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc) | [Devil That You Know](https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4) | 3:18 | 2024-06-28 |  |
@@ -142,7 +143,7 @@
 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 | 2022-01-28 | 2023-02-25 |
 | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back \(feat\. Robert Randolph, Tony Coleman\)](https://open.spotify.com/album/6v7PWbwEKiBFAPcijUpRVe) | 4:33 | 2021-12-17 | 2022-07-28 |
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-01 | 2022-12-16 |
-| [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 | 2024-05-24 |  |
+| [Hole](https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Hole](https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk) | 3:53 | 2024-05-24 | 2024-07-19 |
 | [Holy River](https://open.spotify.com/track/6SedHpk26DGo0uvpL0gyYL) | [Effie Zilch](https://open.spotify.com/artist/1NGw8cxn84OJjOEFLXlJJN) | [Trinity, Vol.2](https://open.spotify.com/album/6Ud7zLdNrSmHIyXX2pyT4V) | 3:07 | 2022-09-09 | 2022-09-17 |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-01-28 | 2024-04-19 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-01-28 |  |

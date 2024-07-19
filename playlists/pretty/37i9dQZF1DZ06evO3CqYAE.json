@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 9896,
+  "num_followers": 9914,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACqYG7PtymbRGzy2owIPUdk",
+  "snapshot_id": "ZpcJgAAAAACSx6VOAqt0oDUzM3nvHSmk",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Belongs To Jesus",
-        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Power Belongs To Jesus",
-      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond me (Live at Yalic, Abuja)",
         "url": "https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 598230,
       "name": "Beyond me - Live at Yalic, Abuja",
       "url": "https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Belongs To Jesus",
+        "url": "https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Power Belongs To Jesus",
+      "url": "https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO"
     },
     {
       "added_at": null,

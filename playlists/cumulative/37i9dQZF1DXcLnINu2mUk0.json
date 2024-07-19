@@ -761,6 +761,32 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prodigio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "album": {
         "name": "Antes e Depois",
         "url": "https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb"
       },
@@ -5550,7 +5576,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205862,
       "name": "IN\u00cdCIO",
       "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
@@ -8239,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+    },
+    {
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/2g5xGxyYo9RnLPvcm2nyI0"
       },
@@ -10886,7 +10930,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215969,
       "name": "S\u00d3 MAIS UMA VEZ",
       "url": "https://open.spotify.com/track/4Mqu73Obe19D1UGNX16ad0"

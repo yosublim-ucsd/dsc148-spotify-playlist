@@ -2,7 +2,7 @@
 
 ### [This Is Matt Maher](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0F9kBy)
 
-> This Is Matt Maher\. Los temas esenciales, todos en una lista.
+> This is Matt Maher\. The essential tracks, all in one playlist.
 
 85 songs - 6 hr 15 min
 
@@ -40,7 +40,7 @@
 | [Firelight](https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:14 | 2022-09-14 | 2022-10-13 |
 | [Flesh And Bone](https://open.spotify.com/track/6ZY1RmNRqBosEHmgQP5I8B) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 6:05 | 2022-09-14 | 2022-10-08 |
 | [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 | 2023-12-13 | 2024-03-14 |
-| [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2023-12-13 |  |
+| [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2023-12-13 | 2024-07-19 |
 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 | 2022-09-14 |  |
 | [Hold Us Together](https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:27 | 2022-09-14 |  |
 | [Holy, Holy, Holy \(God With Us\)](https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Jesus, Firm Foundation: Hymns of Worship](https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi) | 4:15 | 2022-09-14 |  |
@@ -80,7 +80,7 @@
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5) | 3:23 | 2022-09-14 |  |
 | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Lord's Prayer \(It's Yours\)](https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw) | 3:45 | 2023-06-03 | 2023-07-02 |
 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 | 2022-09-14 | 2023-12-14 |
-| [The Stories I Tell Myself](https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:53 | 2024-05-12 | 2024-05-27 |
+| [The Stories I Tell Myself](https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:53 | 2024-05-12 |  |
 | [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 | 2023-04-22 |  |
 | [The Way You Love Me](https://open.spotify.com/track/5tJ4nghSBgH06CCqQzE1hd) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Way You Love Me](https://open.spotify.com/album/3qaxWqwTnFxw6VxGilFJbJ) | 3:18 | 2022-10-09 | 2023-03-08 |
 | [Those Who Have Not Seen](https://open.spotify.com/track/6Ge2tZZ5GmsLKqKqAqczdS) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Those Who Have Not Seen](https://open.spotify.com/album/11dLtoHSJtWc3GCujubl5I) | 4:46 | 2023-05-24 | 2023-12-14 |

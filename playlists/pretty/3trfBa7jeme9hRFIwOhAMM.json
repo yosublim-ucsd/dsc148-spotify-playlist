@@ -1,13 +1,33 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4328,
+  "num_followers": 4327,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "AAAHhy0GIcYFgFrav3ykQBsuFcM42ovX",
+  "snapshot_id": "AAAHixehWcKxS0UPSq0no8Xvu7QAY545",
   "tracks": [
+    {
+      "added_at": "2024-07-18 22:10:27",
+      "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/7lS34XcMcp2J28zbubcqZU"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        },
+        {
+          "name": "Lefris",
+          "url": "https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/5swvKzNqDwOnlF1CwQ6Vbq"
+    },
     {
       "added_at": "2024-07-17 12:50:10",
       "album": {
@@ -495,6 +515,22 @@
     {
       "added_at": "2024-07-17 12:50:10",
       "album": {
+        "name": "Gibberish",
+        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "Gibberish",
+      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
+    },
+    {
+      "added_at": "2024-07-17 12:50:10",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
       },
@@ -743,22 +779,6 @@
       "duration_ms": 175969,
       "name": "Bassline Rumble",
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2024-07-17 12:50:10",
-      "album": {
-        "name": "Gibberish",
-        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

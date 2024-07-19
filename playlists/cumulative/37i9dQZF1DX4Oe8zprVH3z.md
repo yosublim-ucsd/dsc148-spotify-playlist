@@ -4,7 +4,7 @@
 
 > Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-123 songs - 6 hr 8 min
+127 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Clearing the Mind \(by the Brook\)](https://open.spotify.com/track/2KsUFpS96R2jGGz2XPhItB) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Chakra Healing Crystal Bowls](https://open.spotify.com/album/05JU1kP1IlHuw8EDtzNzb5) | 2:56 | 2022-12-12 |  |
 | [Cloudy Afternoon \- Sound Bath](https://open.spotify.com/track/13rc9WSSFdjyAMrd7CJ7Ji) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Cloudy Afternoon](https://open.spotify.com/album/5gVXsMZiYgnP6eDfDhFems) | 3:15 | 2024-01-25 |  |
 | [Constructive Tone \(Sound Bath\)](https://open.spotify.com/track/2M30AD3AOOuTGDYQqXYIZO) | [Tibetanian](https://open.spotify.com/artist/2w4slIer7XY7fDEehJLONJ) | [Tibetan Bowls](https://open.spotify.com/album/5BFMmN1aL37Zd8NMZWqSzs) | 2:38 | 2022-12-12 | 2024-06-04 |
-| [Cosmic Coast \- Sound Bath](https://open.spotify.com/track/3BK83oOyJEybXoddbqdyFe) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 3:11 | 2024-01-25 |  |
+| [Cosmic Coast \- Sound Bath](https://open.spotify.com/track/3BK83oOyJEybXoddbqdyFe) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Cosmic Coast](https://open.spotify.com/album/42l5s9ZsiWufkXrPX7Pvwx) | 3:11 | 2024-01-25 | 2024-07-19 |
 | [Crystal Bowl \- Meditation \- Rivers & Creeks](https://open.spotify.com/track/538On8xhz3KwNPpEBMeSko) | [Lou Hempel](https://open.spotify.com/artist/2B6mc2Q8UU7Y7WAtZXi7Jj) | [Meditation Crystal Bowls \(Rivers & Creeks\)](https://open.spotify.com/album/7sYKxI77L3mabnemRy6X00) | 2:22 | 2022-12-12 | 2024-01-26 |
 | [Crystal Bowl 340 Hz \(Soundbath \- Nature noise\)](https://open.spotify.com/track/6LKhzu6cNQhMyoe3TOVxR8) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Crystal Bowl Chakras](https://open.spotify.com/album/03bi3Pw2YKjAzFNAY0lbaM) | 2:20 | 2023-04-06 |  |
 | [Crystal Healing](https://open.spotify.com/track/6SmrMgr29JRgaQT8V8Z2l0) | [Free Floaticity](https://open.spotify.com/artist/3E6TFl4kLJ3KG3oQJ4OdKh) | [Crystal Healing](https://open.spotify.com/album/7m0z59Tcmyw4onj9yZgmFw) | 2:54 | 2022-12-12 |  |
@@ -46,6 +46,7 @@
 | [Free Floating](https://open.spotify.com/track/5DHpl94sdHixUL1vP1LzV0) | [Matt Mohandas](https://open.spotify.com/artist/4mawCcl8p3ukw3dbWRoIIG) | [Sunlight Healing](https://open.spotify.com/album/0CenJpIPLs5rGjogAsTSjF) | 3:10 | 2022-12-12 | 2024-06-04 |
 | [Garden bliss](https://open.spotify.com/track/0JQ0ojZNoM84rrPhteK0al) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Garden bliss](https://open.spotify.com/album/23Sqgz9agHEmrOCRvTlOSs) | 2:24 | 2022-12-12 | 2024-06-04 |
 | [Gratitude](https://open.spotify.com/track/5l41CkujFnEtsOy9SpEn2K) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Gratitude](https://open.spotify.com/album/7rusm2up4CcpsCKdWgN7ji) | 2:46 | 2023-10-16 | 2023-10-27 |
+| [Greenwood Stillness](https://open.spotify.com/track/1eHhx0ZRKlWOKXutgmNalp) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Greenwood Stillness](https://open.spotify.com/album/313Jlp6aE5MdoAmx06Qz3l) | 2:48 | 2024-07-18 |  |
 | [Hand Pan Dream in the rain](https://open.spotify.com/track/4PxgYKF0q6ER8JOWCa8X1h) | [Oxyplüs](https://open.spotify.com/artist/4XQOiWoXNYk8Gtf7At9rwH) | [Hand Pan Dream in the rain](https://open.spotify.com/album/3ejjNQ3pBXU1C3hN1S8tLp) | 2:18 | 2022-12-12 | 2023-01-14 |
 | [Handpan Rain](https://open.spotify.com/track/5XDltyzAT7IkZeGu0lAKUf) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 2:50 | 2022-12-12 | 2024-03-21 |
 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 | 2022-12-12 | 2024-06-04 |
@@ -93,6 +94,7 @@
 | [Refreshing Thoughts \- River](https://open.spotify.com/track/5gMX6SqIftxYDqvuzsMGvM) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Soundbath Exploration](https://open.spotify.com/album/2zu28p3ggoO0kvYjlqP2SZ) | 3:08 | 2023-03-03 | 2024-03-21 |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-01-13 |  |
 | [River of Dreams](https://open.spotify.com/track/7tL0NVhXlW8W68chWCruDN) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [River of Dreams](https://open.spotify.com/album/0u0sZil12h9RsQc23XSvam) | 2:59 | 2023-04-26 |  |
+| [Rivulet](https://open.spotify.com/track/7N3gFqom4gQibubvY9xPnp) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Rivulet](https://open.spotify.com/album/4TePuHBHJXgCWykYg5kg2U) | 2:48 | 2024-07-18 |  |
 | [Running Free](https://open.spotify.com/track/2pUhkafNDhFHwP4uycR9MB) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Running Free](https://open.spotify.com/album/7co1n8ie9nanALqP3qnOIo) | 2:48 | 2023-08-02 |  |
 | [Sacral Chakra \- Rivers & Creeks](https://open.spotify.com/track/5eFmrcIIFUPJoXVN5SXjHl) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Crystal Bowls for Meditation \(Rivers & Creeks\)](https://open.spotify.com/album/13uzcrAviSel5HR9vCRKiP) | 3:04 | 2022-12-12 | 2023-09-02 |
 | [Sanctuary](https://open.spotify.com/track/7D1q0ED0J2pbRysoJW8VNj) | [Bowlus Sanctus](https://open.spotify.com/artist/3ku1Kd09REbs9hRV04wnBM) | [Sanctuary](https://open.spotify.com/album/2FyEV9PBuXaPCrAM3PBXTS) | 2:53 | 2022-12-12 | 2024-01-26 |
@@ -108,6 +110,7 @@
 | [Sound of Sarvastivada \(Sound Bath\)](https://open.spotify.com/track/5WnYwONaiD9U262drLfcLv) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Zen Gaya](https://open.spotify.com/album/2jGEItbwzeGSiVvU9lfKnf) | 2:34 | 2022-12-12 |  |
 | [Soundbath \- Pad](https://open.spotify.com/track/128kpvDRsmJKqlqQyCBFGk) | [Dakpa Nepali](https://open.spotify.com/artist/6ehZfyyber5F5KyAUtlYob) | [Soundbath \- Crystal Bowls](https://open.spotify.com/album/6tY4heyR4sEJAX5Hp3ih8P) | 2:55 | 2023-08-02 |  |
 | [Soundbath Levitation \- River](https://open.spotify.com/track/09BHcX0egsFWJmcYpXvsCQ) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Soundbath Levitation](https://open.spotify.com/album/03YIzslxVnY4T3GKRRnfiY) | 2:56 | 2023-04-06 | 2024-03-21 |
+| [Star Glow \- Sound Bath](https://open.spotify.com/track/07cHVteRnvQIQNangcPGiD) | [Nature Neighbors](https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z) | [Star Glow](https://open.spotify.com/album/39qQbJETU3maMQictwsU5G) | 2:33 | 2024-07-18 |  |
 | [Starry Night](https://open.spotify.com/track/0VfBUuUgvUfkpxujoNyHuv) | [Siyotanka](https://open.spotify.com/artist/6z7aFfuglPapY8jOgkpuH6) | [Starry Night](https://open.spotify.com/album/3dwR4XJPm8u2mWTohgbBgo) | 5:12 | 2023-02-13 | 2024-01-26 |
 | [Stillness](https://open.spotify.com/track/08Gpe8g0L8fI7gkLipbusB) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Stillness](https://open.spotify.com/album/35pEhP9EXlnw7BGGkdDlPM) | 3:04 | 2023-10-13 |  |
 | [Sunset By The Lake](https://open.spotify.com/track/5vYNTH3EV54AizNS1DyrAh) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Sunset By The Lake](https://open.spotify.com/album/3kuF2vn6OWgCmjHvO8FnSe) | 2:38 | 2023-10-26 |  |
@@ -118,6 +121,7 @@
 | [The Source](https://open.spotify.com/track/69dyjWjzidXTs5ZfqrGG3Q) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [The Source](https://open.spotify.com/album/7yZ7HGhnGWTHuXk8zJngrL) | 2:44 | 2024-01-25 |  |
 | [The Space In Between](https://open.spotify.com/track/5TRumijCc8Z0FiuCtBQkiT) | [Onassis Hernandez](https://open.spotify.com/artist/05pNPJ1TZmBUJobBpDxZt9) | [The Space In Between](https://open.spotify.com/album/4h1AiHMwsXQB8owiD6U3WZ) | 5:31 | 2023-10-13 | 2024-06-04 |
 | [Tibetan Bowl Healing](https://open.spotify.com/track/3I6EM6JA53GPfF3tfJ8fHN) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 3:40 | 2022-12-12 |  |
+| [Tibetan Bowls of Calm](https://open.spotify.com/track/23IQ3fGOas3RIXbhsXtn3h) | [Kayce Laine](https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb) | [Tibetan Bowls of Calm](https://open.spotify.com/album/61p46CrEzLNmBMdNaePhFL) | 3:31 | 2024-07-18 |  |
 | [Tibetan Chanting Bowls](https://open.spotify.com/track/198iy8AUqQgxdyaUGqMnfF) | [Ameliorate](https://open.spotify.com/artist/0tnDP3F11QVq1xIQ8jqrSm) | [Healing](https://open.spotify.com/album/53vkXb29Sbjw5d1r2lOx1M) | 3:01 | 2022-12-12 | 2023-09-02 |
 | [Tibetan Dream Bowl \(Sound Bath\)](https://open.spotify.com/track/6MAKAdCImfQAy0GGm0L2vO) | [Shakti Kaur](https://open.spotify.com/artist/38wLc5Qs3tOzu6PKDRh4yl) | [Tibetan Sounds](https://open.spotify.com/album/6jgRoqzzYUEDklsQZhcZfB) | 3:08 | 2022-12-12 | 2023-09-02 |
 | [Tibetan Meditation Sound \(Sound Bath\)](https://open.spotify.com/track/5w9QsXkeT7nJ0kv3adurH6) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/1RkIzOVRLMe6VJezRD32c6) | 3:26 | 2022-12-12 | 2024-01-26 |

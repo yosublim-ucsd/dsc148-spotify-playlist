@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179807,
       "name": "Emberly Path",
       "url": "https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj"
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Forest Pond",
+        "url": "https://open.spotify.com/album/1cZL0pIvI6Pbzg6cmbwCf6"
+      },
+      "artists": [
+        {
+          "name": "Tonal Topographies",
+          "url": "https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Forest Pond",
+      "url": "https://open.spotify.com/track/3yGEOh62paIxJCQHdzKM57"
+    },
+    {
+      "album": {
         "name": "Forest Retreat",
         "url": "https://open.spotify.com/album/6bAVs5tz1Egkv8hD5RV3zT"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186375,
       "name": "In Early Autumn",
       "url": "https://open.spotify.com/track/5JqHpCJecMueZXSzgCPzQp"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172814,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/2qdP9OsPTkqBVSpKyBlh62"
@@ -1412,6 +1430,24 @@
       "duration_ms": 205500,
       "name": "Lost in the Clouds (Sound Bath)",
       "url": "https://open.spotify.com/track/2uyqItZyU24m0CAtqud0Qk"
+    },
+    {
+      "album": {
+        "name": "Circadian Wanderer",
+        "url": "https://open.spotify.com/album/0Xd2U5Kvwo9e1tT3peqXLC"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "Luscious Dreams (alongside Forest Birds)",
+      "url": "https://open.spotify.com/track/34Ws4Yvy6rBMSrIKpGFJ8N"
     },
     {
       "album": {
@@ -1667,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Nature Alone",
+        "url": "https://open.spotify.com/album/6oUrqNBRn37W3mCmH4EBzm"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Nature Alone",
+      "url": "https://open.spotify.com/track/6j0ej8mW9Y96iUky0cerwv"
+    },
+    {
+      "album": {
         "name": "Nature's Drone 432Hz",
         "url": "https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA"
       },
@@ -1862,6 +1916,24 @@
       "duration_ms": 278881,
       "name": "Paterson's Curse",
       "url": "https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/0prnd9TrNxnOI0mIte7Z5K"
+      },
+      "artists": [
+        {
+          "name": "Mitsu Wan",
+          "url": "https://open.spotify.com/artist/08gv4NQ1u2u0NP5Lg1EMZ2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166961,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/17tA00gTfxh9wySixKMLQA"
     },
     {
       "album": {
@@ -2518,6 +2590,24 @@
       "duration_ms": 139225,
       "name": "Theias (Nature Sounds)",
       "url": "https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND"
+    },
+    {
+      "album": {
+        "name": "Theta Forest Bath 114-118 Hz",
+        "url": "https://open.spotify.com/album/0AdLH1Ufjw4OcGYqn8vnd9"
+      },
+      "artists": [
+        {
+          "name": "Sienna Meadows",
+          "url": "https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Theta Forest Bath 114-118 Hz",
+      "url": "https://open.spotify.com/track/45y0L5NIzj9jot9exjjXvw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: SunSquabi
 
-204 songs - 19 hr 4 min
+205 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Burning the Hardwood Floor \(Live\)](https://open.spotify.com/track/1zgPMQXv5YtUUn5GA3njWj) | [Airshow](https://open.spotify.com/artist/2USLUiPGlv1amJy3gUszGw) | [Live 02.05.22 \(High Cotton Brewing Company \- Memphis, TN\)](https://open.spotify.com/album/068pAkEPmPbbaSTCfN8tef) | 8:49 | 2022-09-16 |  |
 | [Can't Cut the Mustard](https://open.spotify.com/track/7BUnS98zgtwP45KSpT3C61) | [Big Shrimp](https://open.spotify.com/artist/5KEqTbaf2sEinU5lkQpFkr) | [Baked Shrimp](https://open.spotify.com/album/54drhsF5JtrFOcaxlCshsa) | 3:46 | 2024-01-12 |  |
 | [Catz in Zeh Haus](https://open.spotify.com/track/1F0bzXvfc7p53oBLQGhO5v) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9), [Sauerkräut](https://open.spotify.com/artist/0dFUzAxzW46Mc4H4iHccEH) | [Catz in Zeh Haus](https://open.spotify.com/album/0HRZazuAQGSJiMfN3j5bD9) | 3:12 | 2024-06-28 |  |
-| [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 |  |
+| [Chapanga](https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Cycles](https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y) | 5:41 | 2022-06-23 | 2024-07-19 |
 | [Checkin' Out](https://open.spotify.com/track/7nMaNXGmnMW4Xr9MokbWAS) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Checkin' Out](https://open.spotify.com/album/7iwG1bDdGhmbiD5GHqDGCx) | 3:52 | 2024-03-29 | 2024-04-27 |
 | [Chop Suey](https://open.spotify.com/track/52D0hGXHrME17EQhCtYPn6) | [Baked Shrimp](https://open.spotify.com/artist/42xD9vzGvjNWAOwBa8eFk1) | [Chop Suey](https://open.spotify.com/album/7LZCNMm7U6K6NqX3P4ypQm) | 6:39 | 2023-06-30 | 2024-01-13 |
 | [Cloudburst](https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Cloudburst](https://open.spotify.com/album/2C9CLWDwGcYV0eQoPGxKZJ) | 3:39 | 2024-03-08 |  |
@@ -121,6 +121,7 @@
 | [Love Time](https://open.spotify.com/track/0zhxUyymPXhibLS5KSBIHa) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Love Time](https://open.spotify.com/album/3xHihhKLWryCfeGtWeN8VD) | 4:19 | 2024-03-01 |  |
 | [Madman's Eyes](https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Madman's Eyes](https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf) | 4:48 | 2023-01-27 | 2023-05-20 |
 | [Make That Booty Clap \(Must Be Jelly\)](https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN) | [Taylor Scott Band](https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe) | [Sorry, Kids](https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp) | 4:19 | 2024-04-19 |  |
+| [Manipulation](https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd) | [Ian Nussdorfer](https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz), [The Badlands](https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs) | [Manipulation](https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ) | 5:50 | 2024-07-19 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 |  |
 | [Mister Funky Daddy](https://open.spotify.com/track/0ZShF0uFfkoQThIySmDd5l) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Mister Funky Daddy](https://open.spotify.com/album/1n3DXIyRmvuv5RQ7G4EhdF) | 2:29 | 2024-04-26 | 2024-06-01 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 | 2024-05-04 |

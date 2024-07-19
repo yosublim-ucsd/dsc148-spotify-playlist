@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 184068,
+  "num_followers": 184095,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACOqC4zUCOPYfIFTAwnWYwq",
+  "snapshot_id": "ZpcJgAAAAACKo1iaM1gLXpqJ7z52k2Gy",
   "tracks": [
     {
       "added_at": null,
@@ -43,42 +43,6 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": null,
@@ -179,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "jetsonmade",
-          "url": "https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF"
-        }
-      ],
-      "duration_ms": 125302,
-      "name": "I WANNA SEE SOME ASS (feat. jetsonmade)",
-      "url": "https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -215,6 +159,30 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Giving Me Advice",
+        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 242453,
+      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
+      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
       "added_at": null,
@@ -244,37 +212,17 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Way Out (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/57VeLYXrvNxe8Vs18K2M9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Giving Me Advice",
-        "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 242453,
-      "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
-      "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+      "duration_ms": 177190,
+      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
     },
     {
       "added_at": null,
@@ -288,49 +236,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 177190,
-      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+      "duration_ms": 126217,
+      "name": "Like A Blade Of Grass",
+      "url": "https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9"
     },
     {
       "added_at": null,
@@ -367,6 +275,26 @@
       "duration_ms": 220760,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 153360,
+      "name": "Route 66 (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
     },
     {
       "added_at": null,
@@ -659,18 +587,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
       },
       "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 149333,
-      "name": "KNACK FOR IT",
-      "url": "https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK"
+      "duration_ms": 253568,
+      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     },
     {
       "added_at": null,
@@ -691,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
       "artists": [
         {
@@ -700,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 194526,
-      "name": "State Fair",
-      "url": "https://open.spotify.com/track/0PyJRNmJvJJ5OmffwQf5we"
+      "duration_ms": 149333,
+      "name": "KNACK FOR IT",
+      "url": "https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK"
     },
     {
       "added_at": null,
@@ -719,6 +659,22 @@
       "duration_ms": 144443,
       "name": "SMELLS LIKE INCENSE",
       "url": "https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "State Fair",
+      "url": "https://open.spotify.com/track/0PyJRNmJvJJ5OmffwQf5we"
     },
     {
       "added_at": null,
@@ -743,42 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 147260,
-      "name": "HEAVY HITTER",
-      "url": "https://open.spotify.com/track/7zJld1LpGmLsPt8IGOc0KL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "Poison (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Florida Jit",
         "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
       },
@@ -799,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 178968,
-      "name": "OUT FRONT",
-      "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gazebo",
         "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
       },
@@ -827,6 +731,26 @@
       "duration_ms": 186840,
       "name": "Eastern Parkway",
       "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 222642,
+      "name": "Poison (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1hs54MGy1J69I52GvzsrbB"
     },
     {
       "added_at": null,
@@ -871,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gazebo",
+        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/2cz09aOkKUMx0cBAeIs4cw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
@@ -891,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Dark Knight",
-      "url": "https://open.spotify.com/track/2cz09aOkKUMx0cBAeIs4cw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Balancing Act",
         "url": "https://open.spotify.com/album/7q3ff38RxgNN0HbG5WNDWF"
       },
@@ -923,6 +847,94 @@
       "duration_ms": 152727,
       "name": "Time",
       "url": "https://open.spotify.com/track/2u1reDAcQvETi2bder48nX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158014,
+      "name": "BIG CHILLIN",
+      "url": "https://open.spotify.com/track/2zQAmeVTYjr4oDBR9r6LAG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/43AGBhHRrGgfREdD1yDzm6"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 185856,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4t6PoAHfGZ1cV90DiObtWx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        }
+      ],
+      "duration_ms": 203612,
+      "name": "DRIP DROP (feat. Cyhi The Prynce)",
+      "url": "https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madden NFL 22 Soundtrack",
+        "url": "https://open.spotify.com/album/42WcUIaTj6ggCHj6bNelpB"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 323319,
+      "name": "Ball Is Life (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5KWwD9LzZa6ruNYGNqAqoN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lovin On Me (Instrumental)",
+        "url": "https://open.spotify.com/album/7o0S42nu4xUwwM6o2lqe5Q"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me - Instrumental",
+      "url": "https://open.spotify.com/track/0AMWZMb5guGCjJpeC4TTJE"
     }
   ],
   "unique_name": "This Is Jack Harlow",

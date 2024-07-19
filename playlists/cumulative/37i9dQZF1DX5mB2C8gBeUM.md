@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Kassi Ashton
 
-470 songs - 23 hr 23 min
+472 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-05-13 | 2023-08-02 |
 | [She Ain't](https://open.spotify.com/track/6me4kri7ccTesxEQzRMRXa) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [She Ain't](https://open.spotify.com/album/2REjfGJcn53lxTZI2VlJpS) | 2:50 | 2021-12-10 | 2022-02-26 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-10 |  |
+| [SHOOT THE LOCK](https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SHOOT THE LOCK](https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP) | 2:41 | 2024-07-19 |  |
 | [Short Hills Rd](https://open.spotify.com/track/1BZ5Odd4Y7qYuQ6Yv3wxee) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Short Hills Rd](https://open.spotify.com/album/61UHUB64YbzfBarOkW5M2u) | 3:14 | 2022-06-10 |  |
 | [Short Hills Rd](https://open.spotify.com/track/4Tz2IuV1BvvvYrdIlcNLST) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Hungover High](https://open.spotify.com/album/5vwpBehIqllJQB4xMrQV0W) | 3:14 | 2022-10-14 | 2023-09-26 |
 | [Short Hills Rd](https://open.spotify.com/track/76CbImfYH2XW0Cqg46NHk7) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Three Year Stint](https://open.spotify.com/album/7ho20BOMXgibthds40B1pn) | 3:14 | 2023-09-22 | 2024-04-19 |
@@ -373,6 +374,7 @@
 | [Small Town On It \(feat\. Chris Lane & Scotty McCreery\)](https://open.spotify.com/track/2QiFOU38C8ZysPm688FBML) | [HIXTAPE](https://open.spotify.com/artist/4SbuhLih8eWLmqFzzmM3AK), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Small Town On It \(feat\. Chris Lane & Scotty McCreery\)](https://open.spotify.com/album/24J2ktZsR0B0rOqsyCeGH6) | 2:56 | 2021-12-10 | 2022-01-08 |
 | [SMALL TOWN STATE OF MIND](https://open.spotify.com/track/3RFWukwb1wfvfdMs1nxCpu) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [SMALL TOWN STATE OF MIND](https://open.spotify.com/album/1gUdZq24aNQxWBnemJm505) | 2:40 | 2021-12-10 | 2022-07-29 |
 | [SMALL TOWN STATE OF MIND](https://open.spotify.com/track/5Niq20xLM1pt53ijI6qTmK) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:40 | 2022-07-22 | 2023-02-02 |
+| [Smoke](https://open.spotify.com/track/2QaKqCBZzBossC940glm6N) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Smoke](https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev) | 2:27 | 2024-07-19 |  |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-02-25 | 2024-04-13 |
 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 | 2021-12-10 | 2022-10-27 |
 | [Something I'll Never Get Back](https://open.spotify.com/track/7JhkoQ5QEhOTrx7Gedt7id) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:08 | 2022-10-21 | 2023-05-04 |

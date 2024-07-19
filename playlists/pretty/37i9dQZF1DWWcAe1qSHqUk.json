@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 59661,
+  "num_followers": 59664,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "How I Wish",
-        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "How I Wish",
-      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
-    },
-    {
-      "added_at": "2024-07-08 02:49:20",
-      "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2024-07-08 02:49:20",
+      "album": {
+        "name": "How I Wish",
+        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "How I Wish",
+      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+    },
+    {
+      "added_at": "2024-07-08 02:49:20",
+      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2024-07-08 02:49:20",
-      "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
-      },
-      "artists": [
-        {
-          "name": "Nnenna Freelon",
-          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
-        }
-      ],
-      "duration_ms": 361253,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
       "artists": [
         {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
         }
       ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+      "duration_ms": 361253,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2024-07-08 02:49:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-08 02:49:20",
       "album": {
-        "name": "Carr Toons",
-        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Carr",
-          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Scotch and Soda",
-      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
-    },
-    {
-      "added_at": "2024-07-08 02:49:20",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 357013,
       "name": "What Are You Doing The Rest Of Your Life",
       "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+    },
+    {
+      "added_at": "2024-07-08 02:49:20",
+      "album": {
+        "name": "Carr Toons",
+        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Carr",
+          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Scotch and Soda",
+      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
     },
     {
       "added_at": "2024-07-08 02:49:20",

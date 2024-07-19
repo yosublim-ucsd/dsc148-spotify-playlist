@@ -17651,6 +17651,28 @@
     },
     {
       "album": {
+        "name": "Hardy Boys",
+        "url": "https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "Mexico Edit",
+      "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
+    },
+    {
+      "album": {
         "name": "Yasuragi Land",
         "url": "https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc"
       },

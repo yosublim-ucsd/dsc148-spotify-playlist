@@ -1,12 +1,12 @@
 {
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M?si=N4b3JthLTPyfE9LI5XVktg>Angelique Kidjo</a>",
-  "num_followers": 30477,
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=jowDOV-9TNexl93Qvu7pAA>Johnny Drille</a>",
+  "num_followers": 30507,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAAAyTowWwN0B5axrfn0MzEMK",
+  "snapshot_id": "ZpmvFAAAAACVatMXCKm9zCcVs12fs5r0",
   "tracks": [
     {
       "added_at": "2023-12-29 00:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-29 00:01:00",
       "album": {
+        "name": "For the Love of God",
+        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 228134,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "For the Love of God",
-        "url": "https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 228134,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7"
     },
     {
       "added_at": "2024-04-05 00:01:00",

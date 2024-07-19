@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Alouette",
+        "url": "https://open.spotify.com/album/1uOjj1c2PTFhgH7bQqzSxu"
+      },
+      "artists": [
+        {
+          "name": "Maya Carr",
+          "url": "https://open.spotify.com/artist/3moYZmkLXJhSnDFiLuqAyw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91537,
+      "name": "Alouette",
+      "url": "https://open.spotify.com/track/0OcM9nChIc69m1WxmuPath"
+    },
+    {
+      "album": {
         "name": "Alphabet song",
         "url": "https://open.spotify.com/album/6SGCFva4mZk0yvwJGWslxu"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 100048,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/4A5uk71KVLvImQcMPkDLzz"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 97000,
       "name": "Dear teddy",
       "url": "https://open.spotify.com/track/4McgjQHfTD9NkXCOOKhIcn"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 120250,
       "name": "Goodnight teddy",
       "url": "https://open.spotify.com/track/6V8QIFMkCe3HhMa1Y5I7zc"
@@ -3242,6 +3260,24 @@
       "duration_ms": 112173,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/6565orqQeMgqXT9om9MxKE"
+    },
+    {
+      "album": {
+        "name": "Hush Little Baby",
+        "url": "https://open.spotify.com/album/05HVLjKsZJn4xMkHnRtq3J"
+      },
+      "artists": [
+        {
+          "name": "Aya Poole",
+          "url": "https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82410,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/48bTsAUyyhpBn0YlPR3EB9"
     },
     {
       "album": {
@@ -3947,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Kiss Goodnight My Love",
+        "url": "https://open.spotify.com/album/08Uw4aGQms7QaAsIzlnwv0"
+      },
+      "artists": [
+        {
+          "name": "Coby Carr",
+          "url": "https://open.spotify.com/artist/5UoHb7itTIsmL4OgsBybqa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94209,
+      "name": "Kiss Goodnight My Love",
+      "url": "https://open.spotify.com/track/0rN9KBnUB0gGoWrbGH83GB"
+    },
+    {
+      "album": {
         "name": "Kling och klang",
         "url": "https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe"
       },
@@ -4217,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/08XXYoJQTcO9grlqO1H3Hf"
+      },
+      "artists": [
+        {
+          "name": "Rubin Briggs",
+          "url": "https://open.spotify.com/artist/0WXzVGG7J8nQRMU8RFE4pH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100966,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/49dGyHFqtk18QYnFQBxiA9"
+    },
+    {
+      "album": {
         "name": "Little Dreamer",
         "url": "https://open.spotify.com/album/5iKnGiHq3aLZ2kxUNZ0ddK"
       },
@@ -4340,6 +4412,24 @@
       "duration_ms": 119761,
       "name": "Little Sweet Pea",
       "url": "https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf"
+    },
+    {
+      "album": {
+        "name": "Little Teddy",
+        "url": "https://open.spotify.com/album/6gDjrt6l6tM1Og630RCDfL"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67874,
+      "name": "Little Teddy",
+      "url": "https://open.spotify.com/track/4H9TgNSRWpS3wL0AGPrtCq"
     },
     {
       "album": {
@@ -7187,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "Sweetest of Dreams",
+        "url": "https://open.spotify.com/album/5GXrCBzNN4J4HXhLxNjrIi"
+      },
+      "artists": [
+        {
+          "name": "Lilah Cooke",
+          "url": "https://open.spotify.com/artist/1UjSlpMf1i1ay4X7HhT2dR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88732,
+      "name": "Sweetest of Dreams",
+      "url": "https://open.spotify.com/track/4H6fjjvMB5mPF97u6x1Ehj"
+    },
+    {
+      "album": {
         "name": "Swing Low, Sweet Chariot",
         "url": "https://open.spotify.com/album/7g3YIYhWzOPxuUCldvXiRp"
       },
@@ -7540,7 +7648,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159925,
       "name": "The Stars in Your Eyes",
       "url": "https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk"
@@ -8606,6 +8714,24 @@
       "duration_ms": 122750,
       "name": "When You're Close",
       "url": "https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2"
+    },
+    {
+      "album": {
+        "name": "While I Sleep",
+        "url": "https://open.spotify.com/album/13zLJYwseg0Ee680sKFCi0"
+      },
+      "artists": [
+        {
+          "name": "Joen Brahe",
+          "url": "https://open.spotify.com/artist/2gtqUlH6q4j2Pc7uVQsaoV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95964,
+      "name": "While I Sleep",
+      "url": "https://open.spotify.com/track/1rYmWELviQxlDWEbDtdSbE"
     },
     {
       "album": {

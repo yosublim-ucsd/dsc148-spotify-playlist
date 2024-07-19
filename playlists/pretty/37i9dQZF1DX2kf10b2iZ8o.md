@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,151 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,150 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 56 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 |
 | 57 | [MIRROR of TRUTH](https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM GROWING SIGN@L 17](https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY) | 3:44 |
 | 58 | [PROOF OF ONESELF](https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:20 |
-| 59 | [Delicious Delivery](https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO) | [Café Parade](https://open.spotify.com/artist/1PaypLC7a22JmHy4IHEKUh) | [THE IDOLM@STER SideM NEW STAGE EPISODE：04 Café Parade](https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA) | 4:07 |
-| 60 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 |
+| 59 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 |
+| 60 | [Delicious Delivery](https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO) | [Café Parade](https://open.spotify.com/artist/1PaypLC7a22JmHy4IHEKUh) | [THE IDOLM@STER SideM NEW STAGE EPISODE：04 Café Parade](https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA) | 4:07 |
 | 61 | [Cherish BOUQUET](https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U) | [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 3:58 |
 | 62 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
 | 63 | [Eternal Fantasia](https://open.spotify.com/track/4gojkZt9thXg4o2wGEF5zq) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:36 |

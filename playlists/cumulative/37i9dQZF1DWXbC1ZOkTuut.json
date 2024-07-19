@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: El Mimiso Luis Antonio L\u00f3pez",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Ivan Cornejo",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -3681,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216568,
+      "name": "Herida Abierta",
+      "url": "https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK"
+    },
+    {
+      "album": {
         "name": "Hice (En Vivo)",
         "url": "https://open.spotify.com/album/7BlYGsZDeFu64x851JTSX2"
       },
@@ -5702,6 +5720,24 @@
       "duration_ms": 189273,
       "name": "Mira Qui\u00e9n Lo Dice",
       "url": "https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
     },
     {
       "album": {
@@ -9408,6 +9444,24 @@
       "duration_ms": 200558,
       "name": "Volviste",
       "url": "https://open.spotify.com/track/7LxxXsIcWd3HtSCTWtTPuF"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162248,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/60fniRXixufxR4HCYjOyp6"
     },
     {
       "album": {

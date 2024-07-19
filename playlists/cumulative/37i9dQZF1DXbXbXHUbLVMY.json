@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210453,
       "name": "555",
       "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188571,
       "name": "Birken",
       "url": "https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144303,
       "name": "Broren min",
       "url": "https://open.spotify.com/track/1HnhHMHs8KJEQozeyxQMWo"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 151207,
       "name": "CHICANO",
       "url": "https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ"
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Faller",
+        "url": "https://open.spotify.com/album/7vXhgwKBcYtvSbMlG2yRqn"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/52rYBxmWsmouJrq4rpbHQJ"
+    },
+    {
+      "album": {
         "name": "Falt Ut",
         "url": "https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg"
       },
@@ -1404,6 +1422,24 @@
       "duration_ms": 122644,
       "name": "Fiende p\u00e5 hotell",
       "url": "https://open.spotify.com/track/0JwLtBGMgeLQTRMaCUpgIv"
+    },
+    {
+      "album": {
+        "name": "Fin & Bad",
+        "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121383,
+      "name": "Fin & Bad",
+      "url": "https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj"
     },
     {
       "album": {
@@ -2106,7 +2142,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150040,
       "name": "Konstn\u00e4rer",
       "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 164812,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
@@ -2535,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Medell\u00edn",
+        "url": "https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Medell\u00edn",
+      "url": "https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe"
+    },
+    {
+      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -2699,6 +2753,28 @@
     },
     {
       "album": {
+        "name": "Natalie",
+        "url": "https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz"
+      },
+      "artists": [
+        {
+          "name": "06 Boys",
+          "url": "https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN"
+        },
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179325,
+      "name": "Natalie",
+      "url": "https://open.spotify.com/track/1HczbnV2hEtOz8FvMI3rW6"
+    },
+    {
+      "album": {
         "name": "ALT DET HER FOR HVA?",
         "url": "https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3"
       },
@@ -2860,7 +2936,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163702,
       "name": "Over mitt lik (feat. Molly Hammar)",
       "url": "https://open.spotify.com/track/4pLqnwo69V4h5QCAoECGGa"
@@ -3165,6 +3241,32 @@
     },
     {
       "album": {
+        "name": "SAHBI",
+        "url": "https://open.spotify.com/album/4rJgeIJrPR81atptFEp9fD"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154793,
+      "name": "SAHBI",
+      "url": "https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO"
+    },
+    {
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
       },
@@ -3216,7 +3318,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172968,
       "name": "SANKTHANSAFTEN",
       "url": "https://open.spotify.com/track/2kgS5WzqebpfHLpKeJe3RL"
@@ -3430,7 +3532,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179488,
       "name": "Slipp",
       "url": "https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ"
@@ -3998,7 +4100,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131250,
       "name": "Ville Dyr",
       "url": "https://open.spotify.com/track/6bdcLY8p5bhQEzrhSPerO5"
@@ -4176,6 +4278,28 @@
       "duration_ms": 116500,
       "name": "Zinah",
       "url": "https://open.spotify.com/track/25kFpLab2GF9W6IyByEubT"
+    },
+    {
+      "album": {
+        "name": "\u00c4nnu en dag",
+        "url": "https://open.spotify.com/album/31WMGaw85a6KcbQq0Ngp31"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "\u00c4nnu en dag",
+      "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"
     },
     {
       "album": {

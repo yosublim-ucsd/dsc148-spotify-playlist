@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,628 likes - 368 songs - 16 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,662 likes - 368 songs - 16 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,7 +266,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 256 | [You Belong with Me](https://open.spotify.com/track/7mc2MGyGc7qECC3vXhkbpg) | [Sam Smyers](https://open.spotify.com/artist/7JIRtB4hn75Md3nPGzeRIL), [JMRA](https://open.spotify.com/artist/0x3CjvGZpyqzsJEQlM4u4b), [Jr Stit](https://open.spotify.com/artist/1sNV30IxwL2qIKcZgx7fvj), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [You Belong with Me](https://open.spotify.com/album/6lBUbMVXSTev7aXwkmU46u) | 3:08 |
 | 257 | [Take My Breath](https://open.spotify.com/track/0UJA2GHTt3zxT9woRhGM9n) | [Yusuf Alev](https://open.spotify.com/artist/14E6R9xyo9QwdEvMgIsihe), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Take My Breath](https://open.spotify.com/album/0cQNa53iisnr9F8UBrxNbu) | 2:14 |
 | 258 | [Moving on Up](https://open.spotify.com/track/7vSHUdaZydLhlTWJBM6HhR) | [Idetto](https://open.spotify.com/artist/1KfEELJWhaiw5NeP3jAztZ), [Devinity](https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai), [Astrid Nicole](https://open.spotify.com/artist/4yOeugCIv5um9zG3vVwS1B) | [Moving on Up](https://open.spotify.com/album/5IosNy9yb2Lh0b3NU3czCq) | 2:30 |
-| 259 | [Survivor](https://open.spotify.com/track/5spdcS6enZ9tQrsIbUbD1R) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Survivor](https://open.spotify.com/album/16VGcAg1bLUWoyFyA4F4Jj) | 2:07 |
+| 259 | [Survivor](https://open.spotify.com/track/5spdcS6enZ9tQrsIbUbD1R) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [Snnr](https://open.spotify.com/artist/07C1XBLmxv6QkdQSDW1aXc) | [Survivor](https://open.spotify.com/album/16VGcAg1bLUWoyFyA4F4Jj) | 2:07 |
 | 260 | [What's Up?](https://open.spotify.com/track/0QK4cKWv02vVr4RystlKqh) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [waybackwhen](https://open.spotify.com/artist/0i2sQGppNt0uHHqgTia7kv) | [What's Up?](https://open.spotify.com/album/6kxF377xLn2jOxqhvUeEA1) | 2:48 |
 | 261 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 |
 | 262 | [Hotel California](https://open.spotify.com/track/56FOP0LLQzpsNmtoCAA1z8) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Hotel California](https://open.spotify.com/album/5JPCvzDf80cAPSvHkPBRdM) | 2:14 |

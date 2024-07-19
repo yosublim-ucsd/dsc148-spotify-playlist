@@ -1,12 +1,12 @@
 {
   "description": "did your boots start working?",
-  "num_followers": 12091,
+  "num_followers": 12172,
   "original_name": "Line Dance \ud83e\udd20",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoLCxgAAAAArhO3Ig8d4kt+8ZrKovnmO",
+  "snapshot_id": "ZpnkwAAAAAA55rwMDGxy9axrAsQRdyTk",
   "tracks": [
     {
       "added_at": "2024-07-01 14:52:54",
@@ -251,6 +251,26 @@
       "duration_ms": 280973,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/7DOtIhTTpPZyjvbO509hSC"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Boots Don't (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 148274,
+      "name": "Boots Don't (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
     },
     {
       "added_at": "2024-07-01 14:52:54",
@@ -715,22 +735,6 @@
       "duration_ms": 216800,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
-    },
-    {
-      "added_at": "2024-07-01 14:52:54",
-      "album": {
-        "name": "Step One",
-        "url": "https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq"
-      },
-      "artists": [
-        {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "5, 6, 7, 8",
-      "url": "https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy"
     },
     {
       "added_at": "2024-07-01 14:52:54",

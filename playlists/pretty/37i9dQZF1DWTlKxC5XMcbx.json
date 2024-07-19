@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61705,
+  "num_followers": 61703,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 442226,
       "name": "Strange Meadow Lark",
       "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
+        "name": "Bob Acri",
+        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+      },
+      "artists": [
+        {
+          "name": "Bob Acri",
+          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sleep Away",
+      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
-        "name": "Bob Acri",
-        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
-      },
-      "artists": [
-        {
-          "name": "Bob Acri",
-          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sleep Away",
-      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
+        "name": "Timelines",
+        "url": "https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY"
+      },
+      "artists": [
+        {
+          "name": "Howard Alden",
+          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
+        },
+        {
+          "name": "Helmut Nieberle",
+          "url": "https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "When It's Sleepy Time Down South",
+      "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
+    },
+    {
+      "added_at": "2024-07-15 01:57:11",
+      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 267142,
       "name": "And Suddenly There Was Love",
       "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
-    },
-    {
-      "added_at": "2024-07-15 01:57:11",
-      "album": {
-        "name": "Timelines",
-        "url": "https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY"
-      },
-      "artists": [
-        {
-          "name": "Howard Alden",
-          "url": "https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR"
-        },
-        {
-          "name": "Helmut Nieberle",
-          "url": "https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "When It's Sleepy Time Down South",
-      "url": "https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "Tranquillo II",
-        "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "PianoBasso",
-          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
-      "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -1143,18 +1139,22 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+        "name": "Tranquillo II",
+        "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
       "artists": [
         {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "PianoBasso",
+          "url": "https://open.spotify.com/artist/0lFzJ6s1Rip3L1KbqTDmP7"
         }
       ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+      "duration_ms": 212640,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
+      "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
     },
     {
       "added_at": "2024-07-15 01:57:11",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-15 01:57:11",
       "album": {
-        "name": "One Quiet Night",
-        "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK"
+        "name": "Fading Love",
+        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Burt Mitchell",
+          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
         }
       ],
-      "duration_ms": 301880,
-      "name": "One Quiet Night",
-      "url": "https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO"
+      "duration_ms": 280750,
+      "name": "Fading Love",
+      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

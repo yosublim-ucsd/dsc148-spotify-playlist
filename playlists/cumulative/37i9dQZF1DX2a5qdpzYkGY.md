@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-275 songs - 22 hr 24 min
+277 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2022-02-18 |  |
 | [Balcony for Two](https://open.spotify.com/track/00vFePaYyKucBGejABJAqK) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Balcony for Two](https://open.spotify.com/album/02NXbzaCS69jnP4OrcJpFa) | 2:59 | 2021-10-06 | 2022-07-29 |
 | [Balcony for Two](https://open.spotify.com/track/4uHzk0yedHAbFQhd32gvSJ) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [The Forgotten Edge](https://open.spotify.com/album/5lcXZjNubYS7GEJOxRn9Xo) | 2:59 | 2021-10-06 | 2024-04-19 |
+| [be a](https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 8:03 | 2024-07-19 |  |
 | [Beside April](https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Beside April](https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP) | 5:13 | 2021-10-06 | 2024-06-20 |
 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 | 2021-10-06 | 2024-04-19 |
 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 | 2021-10-06 |  |
@@ -74,7 +75,7 @@
 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 | 2022-03-16 |  |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
 | [Dry Fantasy](https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [As The Love Continues](https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm) | 5:10 | 2021-10-06 | 2024-04-19 |
-| [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 | 2022-02-18 |  |
+| [Earth's Orbit](https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza) | [Adam Saunders](https://open.spotify.com/artist/26EJOdtsKzoO67yCn7kdAU), [Mark Stephen Cousins](https://open.spotify.com/artist/4Tcr21ghQ8bsvYRc41GqIF), [Mark Cousins](https://open.spotify.com/artist/532Rq5aGExIRlG4QDwOQlx) | [Docutrax, Vol\. 2: Serious Incidents](https://open.spotify.com/album/5FkAhhLYin1Ktwfc3WYHG1) | 2:32 | 2022-02-18 | 2024-07-19 |
 | [Eidolon Pt\. 2](https://open.spotify.com/track/39fldPRgSrtGSfAf4yeo1A) | [Tetragon Project](https://open.spotify.com/artist/5lIyp3kLe5wR6gyYLujs5z) | [Oracles](https://open.spotify.com/album/6sWTa9kCbqrqjUn92dKNLB) | 2:27 | 2023-03-03 | 2023-05-13 |
 | [EIS O HOMEM](https://open.spotify.com/track/684bq3L70SYnS4W7nJDEtF) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [EIS O HOMEM](https://open.spotify.com/album/59Jgu2vo7q0qw4o93oU8wC) | 3:36 | 2023-05-16 | 2023-10-11 |
 | [El Momento](https://open.spotify.com/track/3yPaM6eae7ce5lOKxMfjVz) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/3bTbxFk7SO0ERWPVFBM5zE) | 3:19 | 2022-03-03 | 2024-04-19 |
@@ -161,6 +162,7 @@
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 |  |
 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 | 2024-04-12 |  |
 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 | 2022-09-03 |  |
+| [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 | 2024-07-19 |  |
 | [Midnight Horizon](https://open.spotify.com/track/4hqNowuBTkYH2muy6DRV3P) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Tectonic](https://open.spotify.com/album/2RfoaoO9okjl9V7JBmLbAx) | 3:33 | 2021-10-06 | 2024-01-05 |
 | [Midnight Horizon](https://open.spotify.com/track/5cfK17MedUMS1ElYVFa3Uv) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Midnight Horizon](https://open.spotify.com/album/4ENJxCNlfPvz3iBQpRIa35) | 3:33 | 2021-10-06 | 2022-07-29 |
 | [Midnight Radio Track 1](https://open.spotify.com/track/6shFSMxTjCAK20k5N3LeRA) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Midnight Radio](https://open.spotify.com/album/6l8mnq08KVmXmsaIKSBCuX) | 22:33 | 2022-09-03 | 2023-04-13 |
@@ -282,6 +284,6 @@
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 | 2024-02-02 |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2021-10-06 | 2022-08-04 |
 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 | 2021-10-06 |  |
-| [Сaleidoscópio](https://open.spotify.com/track/2UgfkEkswqRd5utZHJQImI) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Atlântico](https://open.spotify.com/album/6QkPq5Kq4T5g5OGBgI7ImR) | 7:53 | 2024-04-23 |  |
+| [Сaleidoscópio](https://open.spotify.com/track/2UgfkEkswqRd5utZHJQImI) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Atlântico](https://open.spotify.com/album/6QkPq5Kq4T5g5OGBgI7ImR) | 7:53 | 2024-04-23 | 2024-07-19 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

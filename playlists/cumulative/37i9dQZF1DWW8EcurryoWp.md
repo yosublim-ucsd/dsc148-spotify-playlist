@@ -2,21 +2,22 @@
 
 ### [Alternative Ireland](https://open.spotify.com/playlist/37i9dQZF1DWW8EcurryoWp)
 
-> The best new Irish alternative sounds\. Cover: Annie\-Dog
+> The best new Irish alternative sounds\. Cover: chameleon
 
-75 songs - 4 hr 27 min
+78 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-12 |  |
 | [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 |  |
+| [All The Days](https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [All The Days](https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1) | 4:34 | 2024-07-18 |  |
 | [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 |  |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-06-20 |  |
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-06-20 |  |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-20 |  |
 | [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 |  |
 | [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 |  |
-| [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 | 2024-06-20 |  |
+| [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 | 2024-06-20 | 2024-07-19 |
 | [Bad Machine](https://open.spotify.com/track/23ICIRdFlz7XTWc3fz8Kuq) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Bad Machine](https://open.spotify.com/album/20tBlGSdefnG0bzav4JByv) | 3:28 | 2024-06-20 | 2024-07-05 |
 | [Baked Cheesecake](https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Berlin](https://open.spotify.com/album/7dLIT8Z8tQOguvIlYTfqpv) | 3:58 | 2024-06-20 | 2024-07-13 |
 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 | 2024-06-20 | 2024-07-13 |
@@ -37,8 +38,9 @@
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2024-06-20 |  |
 | [Haunted](https://open.spotify.com/track/38NEzzR2y74D41NvB09VBn) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Haunted](https://open.spotify.com/album/6qnp9qiW7lBpM2mTUGtIOr) | 3:32 | 2024-06-20 |  |
 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2024-06-20 |  |
+| [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-07-18 |  |
 | [I Never Knew You Well](https://open.spotify.com/track/584EHgjZawSuATtQfBiatd) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [I Never Knew You Well](https://open.spotify.com/album/0oHMTATKEwfYUkgJJVsxmv) | 4:29 | 2024-06-20 |  |
-| [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2024-06-20 |  |
+| [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2024-06-20 | 2024-07-19 |
 | [If I'm Honest](https://open.spotify.com/track/2h4BzF4qLauHjl10V1y0Xy) | [of all living things](https://open.spotify.com/artist/3pNytGB05MU3Rb5yCVs9yl) | [If I'm Honest](https://open.spotify.com/album/7jfek22365V5tQCUrpntc3) | 3:01 | 2024-06-20 |  |
 | [Ingrid Bergman](https://open.spotify.com/track/14BOO0aHNAlSHBA2qZbHer) | [All of Eden](https://open.spotify.com/artist/35SCef5OjAjpX89gpHuMRO) | [Ingrid Bergman](https://open.spotify.com/album/4xoqOw1eTKcjVnqu9M4HXd) | 4:03 | 2024-06-20 |  |
 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 | 2024-06-20 |  |
@@ -67,10 +69,11 @@
 | [Silhouette](https://open.spotify.com/track/5g2JVsaZlr5Vhe3wqbJQd7) | [Foot Squeaker](https://open.spotify.com/artist/7vbXZIWC7kACoWGGTd9d8b) | [Silhouette](https://open.spotify.com/album/6wLkIAi4DhpWlAHtz8Diqt) | 3:18 | 2024-06-20 |  |
 | [Sleeping with Ghosts](https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Sleeping with Ghosts](https://open.spotify.com/album/1Ta8PhMDJSAaslDscjexWg) | 4:22 | 2024-06-20 |  |
 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 | 2024-06-20 |  |
+| [Stereo Games](https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Stereo Games](https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP) | 2:31 | 2024-07-18 |  |
 | [Suffer](https://open.spotify.com/track/06C3FmOECOes9MhxKvT7US) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:31 | 2024-06-20 |  |
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2024-06-20 |  |
 | [switching tongues](https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [switching tongues](https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8) | 2:29 | 2024-06-20 |  |
-| [Talk To](https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv) | [Sheerbuzz](https://open.spotify.com/artist/66Jf8kE6FvL3FiLHD0lWTY) | [Talk To](https://open.spotify.com/album/3CNF54cH33278EJcku3gXI) | 4:31 | 2024-06-20 |  |
+| [Talk To](https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv) | [Sheerbuzz](https://open.spotify.com/artist/66Jf8kE6FvL3FiLHD0lWTY) | [Talk To](https://open.spotify.com/album/3CNF54cH33278EJcku3gXI) | 4:31 | 2024-06-20 | 2024-07-19 |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-20 |  |
 | [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 |  |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 |  |

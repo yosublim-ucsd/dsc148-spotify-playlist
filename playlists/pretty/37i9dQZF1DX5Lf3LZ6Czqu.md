@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,436 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,505 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
-| 2 | [Shimmy Tiger](https://open.spotify.com/track/3GVaH55Ht7d04QGkoLOZfl) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Shimmy Tiger](https://open.spotify.com/album/1FbxQdbUSMY0p1dI7RyMJ1) | 6:27 |
+| 2 | [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 |
 | 3 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 |
 | 4 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 |
 | 5 | [The Boy From Beckenham](https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [The Boy From Beckenham](https://open.spotify.com/album/66kcU4aFyNz43AK71YbRBT) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `ZnT6wAAAAAD0c719yBvG4DycO2U5/O1K`
+Snapshot ID: `ZpnkwAAAAABuw3uWmV2StnxPGGGgEOtb`

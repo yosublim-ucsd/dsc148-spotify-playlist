@@ -26160,7 +26160,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -48180,7 +48180,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 143994,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/4zop1FQ0ukwsBtXv4zrv5X"
@@ -52161,6 +52161,24 @@
     },
     {
       "album": {
+        "name": "Unsweetened Lemonade",
+        "url": "https://open.spotify.com/album/3UbWzPaJoAEJTYR9G4jrpJ"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Unsweetened Lemonade",
+      "url": "https://open.spotify.com/track/0tNJfotis0Aw9gPGKCoq0V"
+    },
+    {
+      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -55124,7 +55142,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161052,
       "name": "WHISKEY WHISKEY (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7hRLuo4QnzCsjICXUOhTE6"

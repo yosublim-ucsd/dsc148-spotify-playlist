@@ -4,10 +4,11 @@
 
 > Discover new Punjabi artists! Cover: Jaby
 
-53 songs - 2 hr 32 min
+55 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [.45](https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs) | [Jagg](https://open.spotify.com/artist/3E6TYBOXc2CTqTKz7WOyC5) | [.45](https://open.spotify.com/album/2B1vtyORBPboQwicgZ7FRU) | 2:38 | 2024-07-18 |  |
 | [Aadatan](https://open.spotify.com/track/0VKgIuXoAXsLGv5dwMq5jN) | [Prince Jadon](https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5) | [Aadatan](https://open.spotify.com/album/58HGDWL4l1rlGr4CQQwP8j) | 3:21 | 2024-07-03 | 2024-07-17 |
 | [About You](https://open.spotify.com/track/5a2OkIZNf6ysvZKZsmIOxR) | [Rav X](https://open.spotify.com/artist/3zaV35echKlPH5F2dlinCq), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [About You](https://open.spotify.com/album/5ezBLlR4DRjRc3APXkeKQX) | 2:28 | 2024-07-03 |  |
 | [Affection](https://open.spotify.com/track/32g6xM4Lcn1edwMYP7nZZ9) | [Addy Saini](https://open.spotify.com/artist/4MxwauFt9SzunfDKNkuCM8) | [Affection](https://open.spotify.com/album/0rPy3BIr7pDIeQDYl8ao1i) | 1:10 | 2024-07-03 |  |
@@ -28,9 +29,10 @@
 | [Feels](https://open.spotify.com/track/1qlpg9yjuSPL5TG9oVC0FN) | [INSAAN](https://open.spotify.com/artist/5Lq5t22etD9OPflf7IJbXs), [Crmxl](https://open.spotify.com/artist/3smYVKoONOJM0YoUF2Q0M9) | [Feels](https://open.spotify.com/album/5E07IDVhdIaLd3h68nJ11x) | 2:28 | 2024-07-03 |  |
 | [Gaddiyan](https://open.spotify.com/track/1hB6kLVnDXqL2XJEsSj2b8) | [Preet Sukh](https://open.spotify.com/artist/17gMznd5zN6OhjvnnX0CLa) | [Gaddiyan](https://open.spotify.com/album/37Plp46cfXasRIGta76cGn) | 2:42 | 2024-07-03 |  |
 | [Gal Sun](https://open.spotify.com/track/1O9S8NLFyzvWMwZmaNnafd) | [Aakanksha Sharma](https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw), [Krishna Patel](https://open.spotify.com/artist/4uHCrfkZ7hRDkQujuVpQx3) | [Gal Sun](https://open.spotify.com/album/3Co9vTPO7X7MM2bcV0ETZJ) | 3:40 | 2024-07-03 |  |
+| [Garari](https://open.spotify.com/track/4RrTO3ODMrBtIaCQ11PvlI) | [Classico](https://open.spotify.com/artist/25kIBZH9WbVulh53I9mwZD), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Garari](https://open.spotify.com/album/6RQH3a6isO8O0VziXIr1wJ) | 2:42 | 2024-07-18 |  |
 | [Giftaan](https://open.spotify.com/track/28oAiyevDuOXVgJ6NY7HoG) | [Sanj V](https://open.spotify.com/artist/7MaN8aWhx4Q2JKIZ7YSp8k), [Sham Balkar](https://open.spotify.com/artist/1Ej0yyqGmnh1avt05gbhdQ) | [Giftaan](https://open.spotify.com/album/4hASaIDbkI4nTqkYPmFhMV) | 3:01 | 2024-07-03 |  |
 | [Hasrat](https://open.spotify.com/track/1fpooY2ysygMUZSeK8rxSB) | [Yuvraj Tung](https://open.spotify.com/artist/7yqoq4MWdw2ZNyAKDqH0fE) | [Hasrat](https://open.spotify.com/album/0OLHeuf28IBn95ewH8142S) | 3:18 | 2024-07-03 |  |
-| [Hulaare](https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hulaare](https://open.spotify.com/album/5eKSNifZknKkVZKffxu2PE) | 2:36 | 2024-07-03 |  |
+| [Hulaare](https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hulaare](https://open.spotify.com/album/5eKSNifZknKkVZKffxu2PE) | 2:36 | 2024-07-03 | 2024-07-19 |
 | [jhalli](https://open.spotify.com/track/18xguOX3YQp1LRbIIdwxzQ) | [sanchita hazra](https://open.spotify.com/artist/7kQxY11CfIU7tzwmS2pEFJ) | [jhalli](https://open.spotify.com/album/2PBbttiVQ9ZkhDKLV6cKo1) | 4:47 | 2024-07-03 |  |
 | [Jhanjar](https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz) | [Sharry Yaar](https://open.spotify.com/artist/1q6j6sNGitnQBdNSkHjJKC) | [Jhanjar](https://open.spotify.com/album/4Skg7Wl0ItzsGUMPDVxAVN) | 2:20 | 2024-07-03 |  |
 | [Kudrat Wargi 2](https://open.spotify.com/track/5oaPrC2dy6tNgLyMzYoIzH) | [Dhaliwal](https://open.spotify.com/artist/3j20rwZXFF139vFc4tt8Rp), [JayB Singh](https://open.spotify.com/artist/4vUKfkjBUKZ1tzoHG89X8b) | [Kudrat Wargi 2](https://open.spotify.com/album/5ycrHpUReGnNRdBTWqIiu5) | 3:34 | 2024-07-03 |  |

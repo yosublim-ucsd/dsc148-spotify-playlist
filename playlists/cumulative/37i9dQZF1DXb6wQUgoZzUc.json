@@ -242,7 +242,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
@@ -1977,6 +1977,32 @@
     },
     {
       "album": {
+        "name": "Cuando Ella Me Vio",
+        "url": "https://open.spotify.com/album/3jn1hNcyLTMItoHWfQ6ry2"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Cuando Ella Me Vio",
+      "url": "https://open.spotify.com/track/1KRkJH7aHACngrupLMkP7F"
+    },
+    {
+      "album": {
         "name": "Cuanto Quieres",
         "url": "https://open.spotify.com/album/6uywOpoOam8zLawTZtWQHJ"
       },
@@ -2287,6 +2313,36 @@
     },
     {
       "album": {
+        "name": "Desnudate - Remix",
+        "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
+      },
+      "artists": [
+        {
+          "name": "Big Metra",
+          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243999,
+      "name": "Desnudate - Remix",
+      "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
+    },
+    {
+      "album": {
         "name": "Despues De Las 12",
         "url": "https://open.spotify.com/album/16nZKNqRMKoxn5ukqBoaKW"
       },
@@ -2518,7 +2574,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177285,
       "name": "Echando Pata Rmx",
       "url": "https://open.spotify.com/track/4kfhXUNuqaoxaM3vfIHZEd"
@@ -3874,6 +3930,28 @@
       "duration_ms": 279832,
       "name": "Inocentes",
       "url": "https://open.spotify.com/track/7BErD9UIVpUr07RXsX8YyX"
+    },
+    {
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Inspector",
+      "url": "https://open.spotify.com/track/4d6rUOQs2lBoVWh88CgZYI"
     },
     {
       "album": {
@@ -5752,7 +5830,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221333,
       "name": "MODO CHUCKY",
       "url": "https://open.spotify.com/track/03IaxUMw8nzGCwMwTERjyY"

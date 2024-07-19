@@ -2,9 +2,9 @@
 
 ### [New Rock Music](https://open.spotify.com/playlist/0rsqS3HgjHgpjcvfZX8OmF)
 
-> The best and latest rock and alternative\. Cover: HARDY
+> The best and latest rock and alternative\. Cover: Japandroids
 
-180 songs - 10 hr 32 min
+181 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-05-17 | 2024-06-29 |
 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-06-01 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-11-03 |  |
+| [Chicago](https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1) | 3:58 | 2024-07-19 |  |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-03-15 | 2024-04-20 |
 | [Come Out](https://open.spotify.com/track/4FZYzPLOHh90osvljS7ueD) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Come Out](https://open.spotify.com/album/3FnK7zoEHC8QWtedhmTnJw) | 3:03 | 2024-01-26 | 2024-07-13 |
 | [Connecting](https://open.spotify.com/track/1FFO1ljkHXcYSqALUA8JrI) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [Connecting](https://open.spotify.com/album/5j72g77DDbeDQa10Kbn9HW) | 3:42 | 2024-05-31 |  |

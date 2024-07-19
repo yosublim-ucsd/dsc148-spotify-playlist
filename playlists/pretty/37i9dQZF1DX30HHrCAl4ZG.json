@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Current Joys",
-  "num_followers": 834250,
+  "description": "Explore all things indie rock right now. Featuring music from Dr. Dog",
+  "num_followers": 834255,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAABu6zUwfHYCG+czT5JuH8VN",
+  "snapshot_id": "ZpnkwAAAAAA0TzM2g04bsM3chMGZRkOR",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dr. Dog",
+        "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270927,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -23,6 +55,134 @@
       "duration_ms": 203494,
       "name": "California Rain",
       "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/6DFszQmYpg49aPOcL3O0rU"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/4QL7eo4hZ7ZTk4mcbPZG4N"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Nothing Happens (5th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Bad Remake",
+      "url": "https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 144599,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Today's Iconoclast",
+        "url": "https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "Today\u2019s Iconoclast",
+      "url": "https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -57,36 +217,36 @@
       "url": "https://open.spotify.com/track/4oYnD8T0DQKbwXzsXbGC0Z"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+        "name": "TV Car Chase",
+        "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
         }
       ],
-      "duration_ms": 170383,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+      "duration_ms": 284848,
+      "name": "TV Car Chase",
+      "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt"
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
       },
       "artists": [
         {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
         }
       ],
-      "duration_ms": 144599,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH"
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -105,6 +265,22 @@
       "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
     },
     {
+      "added_at": "2024-06-14 15:44:21",
+      "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Breaking By",
+      "url": "https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "She's Leaving You",
@@ -121,20 +297,20 @@
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "TV Car Chase",
-        "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
       "artists": [
         {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
         }
       ],
-      "duration_ms": 284848,
-      "name": "TV Car Chase",
-      "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
+      "duration_ms": 198295,
+      "name": "Alesis",
+      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -183,22 +359,6 @@
       "duration_ms": 209213,
       "name": "Big Black Hearse",
       "url": "https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf"
-    },
-    {
-      "added_at": "2024-06-14 15:44:21",
-      "album": {
-        "name": "The Sweater Club",
-        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Breaking By",
-      "url": "https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -309,22 +469,6 @@
       "url": "https://open.spotify.com/track/1YPfklH2nYKL8W8Hg7pwhk"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Alesis",
-      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "I Got Cracked",
@@ -389,22 +533,6 @@
       "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/1lNCRuJXcpk5NPtHQWPF7f"
-      },
-      "artists": [
-        {
-          "name": "Horse Jumper of Love",
-          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/3pLNigogHJEzbFqldwdwPK"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Streetwise",
@@ -419,6 +547,22 @@
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Scream from New York, NY",
+        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Scream from New York, NY",
+      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -563,22 +707,6 @@
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Scream from New York, NY",
-        "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
-      },
-      "artists": [
-        {
-          "name": "Been Stellar",
-          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Scream from New York, NY",
-      "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -897,6 +1025,22 @@
       "url": "https://open.spotify.com/track/4CSI3i12ju7A4RfW3DhD0I"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "grey europe",
@@ -995,22 +1139,6 @@
       "duration_ms": 259131,
       "name": "Lucy Takes a Picture",
       "url": "https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Swell blue",
-        "url": "https://open.spotify.com/album/7sFOT66j6WXgZqn1Yh2OIr"
-      },
-      "artists": [
-        {
-          "name": "60 juno",
-          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
-        }
-      ],
-      "duration_ms": 181504,
-      "name": "Swell blue",
-      "url": "https://open.spotify.com/track/1eNqSVl5fEn6l9I9w0JBFJ"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1279,26 +1407,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "HONEYMOONERS",
-        "url": "https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Valley Boy",
-          "url": "https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD"
-        }
-      ],
-      "duration_ms": 237068,
-      "name": "How's My Honey?",
-      "url": "https://open.spotify.com/track/0FjzyqG0hQdDTlH39U6aOT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Found a Job",
         "url": "https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7"
       },
@@ -1343,22 +1451,6 @@
       "duration_ms": 162291,
       "name": "My Fun",
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Everything At Once",
-        "url": "https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Everything At Once",
-      "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1425,22 +1517,6 @@
       "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Big Swimmer",
@@ -1455,42 +1531,6 @@
       "duration_ms": 202048,
       "name": "New York, Let's Do Nothing",
       "url": "https://open.spotify.com/track/2A4aclW67hD53GFWXSg1mh"
-    },
-    {
-      "added_at": "2024-04-19 04:02:35",
-      "album": {
-        "name": "Why is everyone a DJ?",
-        "url": "https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 148353,
-      "name": "Why is everyone a DJ?",
-      "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"
-    },
-    {
-      "added_at": "2024-04-19 04:02:35",
-      "album": {
-        "name": "I Wanna Be There",
-        "url": "https://open.spotify.com/album/1WGweDVmiqhd84jdjORVh5"
-      },
-      "artists": [
-        {
-          "name": "Evangeline",
-          "url": "https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ"
-        },
-        {
-          "name": "Max Shrager",
-          "url": "https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "I Wanna Be There",
-      "url": "https://open.spotify.com/track/33odLHXBUeIkfv9Y8kUVrE"
     },
     {
       "added_at": "2024-04-22 22:30:20",
@@ -1557,38 +1597,6 @@
       "url": "https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 138506,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "A LA SALA",
@@ -1635,22 +1643,6 @@
       "duration_ms": 261293,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 170701,
-      "name": "He Loves Me Yeah!",
-      "url": "https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa"
     }
   ],
   "unique_name": "Today's Indie Rock",

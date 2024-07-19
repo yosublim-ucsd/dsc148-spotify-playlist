@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,199 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,203 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 29 | [Rodeo Clown](https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 2](https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK) | 3:13 |
 | 30 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 31 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 |
-| 32 | [Make It A Good One](https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:25 |
-| 33 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
+| 32 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
+| 33 | [Make It A Good One](https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:25 |
 | 34 | [Ain't A Road Too Long](https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Providence Canyon](https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj) | 3:41 |
 | 35 | [Hey Cowgirl](https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Hey Cowgirl](https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD) | 3:20 |
 | 36 | [American Scandal](https://open.spotify.com/track/5ktple5iUVzyQ6SJ8Z8xTK) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 4:02 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 75 | [The Luckier You Get](https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [The Luckier You Get](https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP) | 3:01 |
 | 76 | [God Speed](https://open.spotify.com/track/2NkPawxG0L9hSrB1wU2D3z) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/3YYZIztXVAGgWTnoNsK1XA) | 4:13 |
 | 77 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
-| 78 | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr) | 3:44 |
-| 79 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 |
-| 80 | [Before That Final Bell](https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Call the Captain](https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi) | 3:42 |
+| 78 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/24rXTPooQ6LoF0o3djEdYj) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0sqerD9BSgS3tuD7tEPD3M) | 4:40 |
+| 79 | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr) | 3:44 |
+| 80 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 |
 
 Snapshot ID: `ZgGsBwAAAABZ7/Ex5TGWDl9l7m/fzTCn`

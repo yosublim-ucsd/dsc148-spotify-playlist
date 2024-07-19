@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 52250,
+  "num_followers": 52290,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2024-07-05 17:19:49",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2024-07-05 17:19:49",
-      "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2024-07-05 17:19:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "The Story So Far...",
-        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
-    },
-    {
-      "added_at": "2024-07-05 17:19:49",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
         }
       ],
-      "duration_ms": 189266,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
+      "duration_ms": 269400,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     },
     {
       "added_at": "2024-07-05 17:19:49",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+    },
+    {
+      "added_at": "2024-07-05 17:19:49",
+      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
       },
       "artists": [
         {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+      "duration_ms": 189266,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
     },
     {
       "added_at": "2024-07-05 17:19:49",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
-    },
-    {
-      "added_at": "2024-07-05 17:19:49",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "Historias de amor y otras mierdas",
-        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
       "artists": [
         {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
         }
       ],
-      "duration_ms": 185925,
-      "name": "Me Va A Castigar El Se\u00f1or",
-      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2024-07-05 17:19:49",
@@ -1519,6 +1503,22 @@
       "duration_ms": 183725,
       "name": "The One And Only",
       "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
+    },
+    {
+      "added_at": "2024-07-05 17:19:49",
+      "album": {
+        "name": "Historias de amor y otras mierdas",
+        "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
+      },
+      "artists": [
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 185925,
+      "name": "Me Va A Castigar El Se\u00f1or",
+      "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
     },
     {
       "added_at": "2024-07-05 17:19:49",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-07-05 17:19:49",
       "album": {
-        "name": "Que te vaya bien.",
-        "url": "https://open.spotify.com/album/7nR7VVKK2Gn5PkVATme9me"
+        "name": "No\u010dn\u00ed pt\u00e1ci",
+        "url": "https://open.spotify.com/album/23jNX9AOg5j9mQNwktCgcM"
       },
       "artists": [
         {
-          "name": "Las Mambas Mx",
-          "url": "https://open.spotify.com/artist/23FvBjVt8fJRWNrVi6Oz0G"
+          "name": "Sto zv\u00ed\u0159at",
+          "url": "https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Que te vaya bien.",
-      "url": "https://open.spotify.com/track/3vcTLRnxpSd5uan3vBlpIp"
+      "duration_ms": 209626,
+      "name": "Noc je je\u0161t\u011b mlad\u00e1",
+      "url": "https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2"
     }
   ],
   "unique_name": "Ska Around The Globe",

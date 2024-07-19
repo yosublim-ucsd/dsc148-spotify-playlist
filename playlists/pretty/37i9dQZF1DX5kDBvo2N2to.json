@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59200,
+  "num_followers": 59205,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -575,6 +575,30 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        },
+        {
+          "name": "Dean Andrew",
+          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "I'll Come Your Way",
         "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
       },
@@ -619,30 +643,6 @@
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Can't Forget",
-        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Javan",
-          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
-        },
-        {
-          "name": "Rivio",
-          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
-        },
-        {
-          "name": "Dean Andrew",
-          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Can't Forget",
-      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Days Like These",
-        "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
-      },
-      "artists": [
-        {
-          "name": "Then Argus",
-          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
-        }
-      ],
-      "duration_ms": 140031,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "HON SA",
         "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "\u00bfKan Du H\u00f6ra Det?",
-        "url": "https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay"
+        "name": "Days Like These",
+        "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Then Argus",
+          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
         }
       ],
-      "duration_ms": 231351,
-      "name": "D\u00e4r Jag Fann Dig Sist",
-      "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
+      "duration_ms": 140031,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -859,6 +843,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "\u00bfKan Du H\u00f6ra Det?",
+        "url": "https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "D\u00e4r Jag Fann Dig Sist",
+      "url": "https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Empty the Bags",
+        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Empty the Bags",
+      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Babymoma",
         "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
       },
@@ -907,6 +923,22 @@
       "duration_ms": 172000,
       "name": "Babymoma",
       "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Som En Sol",
+        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
+      },
+      "artists": [
+        {
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Som En Sol",
+      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -927,22 +959,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Empty the Bags",
-        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Empty the Bags",
-      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "My Hands In The Water",
         "url": "https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 276746,
       "name": "My Hands In The Water",
       "url": "https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Som En Sol",
-        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
-      },
-      "artists": [
-        {
-          "name": "Toxe",
-          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Som En Sol",
-      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
-      },
-      "artists": [
-        {
-          "name": "Julia Logan",
-          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Waterworks",
         "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "C-60",
-        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
         }
       ],
-      "duration_ms": 3600000,
-      "name": "C-60",
-      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
+      "duration_ms": 218666,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1167,6 +1151,22 @@
       "duration_ms": 225050,
       "name": "FR\u00c4KNAR",
       "url": "https://open.spotify.com/track/5SUzt46A6j4bPmBFgoAxf7"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "C-60",
+        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 3600000,
+      "name": "C-60",
+      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
+        "name": "Snow In The Summer",
+        "url": "https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Buchaus",
+          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Snow In The Summer",
+      "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
         "name": "Closer To You",
         "url": "https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 395240,
       "name": "Ord som l\u00e4mnats kvar",
       "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
-        "name": "Snow In The Summer",
-        "url": "https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Buchaus",
-          "url": "https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Snow In The Summer",
-      "url": "https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "GALAXER",
-        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
+        "name": "Big Nose",
+        "url": "https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz"
       },
       "artists": [
         {
-          "name": "IRMELI",
-          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
+          "name": "Frey",
+          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
         }
       ],
-      "duration_ms": 189546,
-      "name": "GALAXER",
-      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
+      "duration_ms": 217586,
+      "name": "Big Nose",
+      "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Big Nose",
-        "url": "https://open.spotify.com/album/244WbaXCLVuZkRfUvLz2Sz"
+        "name": "GALAXER",
+        "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
       },
       "artists": [
         {
-          "name": "Frey",
-          "url": "https://open.spotify.com/artist/7rf5nN7CXclpCw7k7ah3yK"
+          "name": "IRMELI",
+          "url": "https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv"
         }
       ],
-      "duration_ms": 217586,
-      "name": "Big Nose",
-      "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
+      "duration_ms": 189546,
+      "name": "GALAXER",
+      "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Jag dr\u00f6mmer mig fri",
-        "url": "https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Rasch",
-          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
-        }
-      ],
-      "duration_ms": 191740,
-      "name": "Jag dr\u00f6mmer mig fri",
-      "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Born a Riot",
         "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Jag dr\u00f6mmer mig fri",
+        "url": "https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
+        }
+      ],
+      "duration_ms": 191740,
+      "name": "Jag dr\u00f6mmer mig fri",
+      "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
     },
     {
       "added_at": "2024-06-28 14:04:42",

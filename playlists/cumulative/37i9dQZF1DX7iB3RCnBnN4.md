@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Natasha Bedingfield
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: Fleetwood Mac
 
 742 songs - 1 day 21 hr 1 min
 

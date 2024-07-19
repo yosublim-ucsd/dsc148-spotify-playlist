@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bring Me The Horizon on top of today's best Metal playlist.",
+  "description": "Lamb of God on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163141,
       "name": "Always Watching You",
       "url": "https://open.spotify.com/track/5P5U8XOT8tpqJqycfDWVSW"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 260820,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/4g4byRNvlCBXrycixNFNcx"
@@ -2842,6 +2842,32 @@
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
+    },
+    {
+      "album": {
+        "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
+        "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        },
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        },
+        {
+          "name": "Lucas Woodland",
+          "url": "https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321735,
+      "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
+      "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
     },
     {
       "album": {
@@ -4994,7 +5020,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226733,
       "name": "Hands Of The Zodiac",
       "url": "https://open.spotify.com/track/1imbms7oGHY3y4lWJX54TM"
@@ -5512,6 +5538,24 @@
       "duration_ms": 286000,
       "name": "I Am Damnation",
       "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
+    },
+    {
+      "album": {
+        "name": "I Am Dog Now",
+        "url": "https://open.spotify.com/album/4A3gdWUjByvSGaT7z2DwvK"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233035,
+      "name": "I Am Dog Now",
+      "url": "https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD"
     },
     {
       "album": {
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu"
@@ -6356,6 +6400,28 @@
       "duration_ms": 254691,
       "name": "Kr\u00f8terveg Te Helvete - Single Version",
       "url": "https://open.spotify.com/track/5NOYRMBd512A6qmwTug8SL"
+    },
+    {
+      "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "album": {
@@ -6778,7 +6844,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192733,
       "name": "MAGNETIC",
       "url": "https://open.spotify.com/track/73mrvMAAKWrgbT894Aevf7"
@@ -8112,6 +8178,28 @@
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
+    },
+    {
+      "album": {
+        "name": "Paralyzed (feat. Attack Attack!)",
+        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212310,
+      "name": "Paralyzed (feat. Attack Attack!)",
+      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
     },
     {
       "album": {
@@ -9724,7 +9812,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
@@ -10537,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "HYPERVIOLENCE",
+        "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tabula Rasa",
+      "url": "https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y"
+    },
+    {
+      "album": {
         "name": "Take Shape (feat. Billy Corgan)",
         "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
       },
@@ -10967,6 +11073,28 @@
     },
     {
       "album": {
+        "name": "Incarnation",
+        "url": "https://open.spotify.com/album/7tbIYPZtSjE02oMgCiJuoK"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190487,
+      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+      "url": "https://open.spotify.com/track/2KKH6FyUo1h6Cj2AEtukjR"
+    },
+    {
+      "album": {
         "name": "The Flowering",
         "url": "https://open.spotify.com/album/0k4ADzUDIVFkMBxV17xoi3"
       },
@@ -11014,7 +11142,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 298347,
       "name": "The Gallow",
       "url": "https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH"
@@ -11796,6 +11924,24 @@
       "duration_ms": 202908,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200023,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
     },
     {
       "album": {

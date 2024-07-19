@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-06",
+      "date_removed": null,
       "duration_ms": 106666,
       "name": "Divine steps",
       "url": "https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV"
@@ -9150,7 +9150,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 116902,
       "name": "Good vs Easy",
       "url": "https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx"
@@ -10752,7 +10752,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 108007,
       "name": "Ice Mountain",
       "url": "https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw"
@@ -23836,6 +23836,24 @@
       "duration_ms": 144545,
       "name": "That Soft Touch",
       "url": "https://open.spotify.com/track/4WlUSXIpr4Y0j1q1xd2auf"
+    },
+    {
+      "album": {
+        "name": "that's real good",
+        "url": "https://open.spotify.com/album/5bxL9J0CrlNHLzdMREul56"
+      },
+      "artists": [
+        {
+          "name": "lofi potato",
+          "url": "https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "that's real good",
+      "url": "https://open.spotify.com/track/37qHh2U8yPm3SdbTCJxCBh"
     },
     {
       "album": {

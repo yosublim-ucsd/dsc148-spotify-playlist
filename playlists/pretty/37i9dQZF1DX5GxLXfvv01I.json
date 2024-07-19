@@ -1,6 +1,6 @@
 {
   "description": "Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio. Watch now on Netflix.",
-  "num_followers": 12676,
+  "num_followers": 12677,
   "original_name": "Wendell & Wild Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -434,6 +434,10 @@
         {
           "name": "Ngozi Family",
           "url": "https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3"
+        },
+        {
+          "name": "Paul Ngozi",
+          "url": "https://open.spotify.com/artist/0yIAVJQZARmrPX30gG4Vfk"
         }
       ],
       "duration_ms": 283705,

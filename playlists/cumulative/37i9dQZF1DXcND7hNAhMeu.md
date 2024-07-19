@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Böyleyken Böyle
+> Geleceğin seslerini dinle! Kapak: Ege Can Sal
 
 50 songs - 2 hr 23 min
 

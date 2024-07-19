@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andromache, Giorgos Livanis",
   "name": "Laika tou Simera",
   "tracks": [
+    {
+      "album": {
+        "name": "100-0",
+        "url": "https://open.spotify.com/album/6DK0omqa0yZHzfiEcgaKrp"
+      },
+      "artists": [
+        {
+          "name": "Christos Cholidis",
+          "url": "https://open.spotify.com/artist/5FkkhJ6aAg3uG4n68Nvia2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204914,
+      "name": "100-0",
+      "url": "https://open.spotify.com/track/3kHAFKhphL6kPq5VLPQqFK"
+    },
     {
       "album": {
         "name": "24 Ores",
@@ -172,7 +190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 245925,
       "name": "Aspromavro",
       "url": "https://open.spotify.com/track/7xN62pSQUKRrYr2ofWt1WD"
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163548,
       "name": "Ay Ay (Magissa)",
       "url": "https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc"
@@ -288,7 +306,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174686,
       "name": "Eho Stenahoria",
       "url": "https://open.spotify.com/track/4ceu7l4EJWUWD2qjlTJUEH"
@@ -515,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Krifos Paradisos",
+        "url": "https://open.spotify.com/album/0z33CdgdN4fJQnD31uxoFu"
+      },
+      "artists": [
+        {
+          "name": "Kostas Karafotis",
+          "url": "https://open.spotify.com/artist/4Opkz5FwG4ENtwM7o09KNu"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202576,
+      "name": "Krifos Paradisos",
+      "url": "https://open.spotify.com/track/0TFPLCfaXZ0DVYGpa4psV9"
+    },
+    {
+      "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
       },
@@ -562,7 +598,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 213250,
       "name": "Mia Thessaloniki",
       "url": "https://open.spotify.com/track/1IhgepZQpejpPqcO2hGgW6"
@@ -616,7 +652,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 243333,
       "name": "Nostalgia - Tha Me Kratas",
       "url": "https://open.spotify.com/track/5uYGDYvm7807MIfqVECIxS"
@@ -692,7 +728,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 189996,
       "name": "Odos Tsimiski",
       "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Manuel Turizo",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Rauw Alejandro",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -4377,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Ser",
         "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
       },
@@ -5286,6 +5304,28 @@
       "duration_ms": 232786,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
+    },
+    {
+      "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
     },
     {
       "album": {
@@ -12897,6 +12937,24 @@
     },
     {
       "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+    },
+    {
+      "album": {
         "name": "Salgo a Bailar",
         "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
       },
@@ -14280,6 +14338,28 @@
       "duration_ms": 196233,
       "name": "Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/6c8jkAgbVk44B8SwRi8vQs"
+    },
+    {
+      "album": {
+        "name": "Tienes Que Saber",
+        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180563,
+      "name": "Tienes Que Saber",
+      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
     },
     {
       "album": {

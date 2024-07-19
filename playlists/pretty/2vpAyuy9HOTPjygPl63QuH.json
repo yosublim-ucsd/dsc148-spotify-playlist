@@ -1,13 +1,37 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 10861,
+  "num_followers": 10880,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAi23zAttxufJkRAQoPkW2dNCg5GpTw",
+  "snapshot_id": "AAAi3xmAK+yT6jfGueknSrj7C7FR1K1c",
   "tracks": [
+    {
+      "added_at": "2024-07-18 23:01:54",
+      "album": {
+        "name": "Get Loose (feat. LexBlaze)",
+        "url": "https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "duration_ms": 149956,
+      "name": "Get Loose (feat. LexBlaze)",
+      "url": "https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH"
+    },
     {
       "added_at": "2024-07-12 16:23:45",
       "album": {

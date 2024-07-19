@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,273 likes - 29 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,280 likes - 29 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 3 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 |
 | 4 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 |
 | 5 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 |
-| 6 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
-| 7 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
+| 6 | [Reggaeton Champagne](https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:39 |
+| 7 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
 | 8 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
 | 9 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 10 | [YO LO SOÑÉ](https://open.spotify.com/track/68qjM8nSoUj8YQOJuu6hZ8) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 2:55 |

@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153973,
       "name": "Bhoop",
       "url": "https://open.spotify.com/track/5VUFIDfke3h6uPVCiFKXDW"
@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Dhoop Ki Chhaya",
+        "url": "https://open.spotify.com/album/6suhkX5lbqhV3ol8kTOius"
+      },
+      "artists": [
+        {
+          "name": "Rura Gazdar",
+          "url": "https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Dhoop Ki Chhaya",
+      "url": "https://open.spotify.com/track/2SYQtdGm5JTUkR9NCCTNtD"
+    },
+    {
+      "album": {
         "name": "Dil Se Dhundho",
         "url": "https://open.spotify.com/album/68v7KghBf3Eyni2bNpUjMm"
       },
@@ -586,6 +604,28 @@
       "duration_ms": 404999,
       "name": "Harmonious",
       "url": "https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8"
+      },
+      "artists": [
+        {
+          "name": "Inner Soundscape",
+          "url": "https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce"
+        },
+        {
+          "name": "Jonas Sj\u00f6blom",
+          "url": "https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b"
     },
     {
       "album": {
@@ -1140,7 +1180,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 392066,
       "name": "Raag Shuddh Sarang-Alap",
       "url": "https://open.spotify.com/track/5m7bVAjnN5tjcbcjBmDi7X"
@@ -1158,7 +1198,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 553280,
       "name": "Raga - Brindavani",
       "url": "https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo"
@@ -1479,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Journey",
+        "url": "https://open.spotify.com/album/1wuH6jrN9Eug9dfVfzDAdr"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144067,
+      "name": "Spiritual Journey",
+      "url": "https://open.spotify.com/track/60FBGb6CI6aLdjUcyglBgc"
+    },
+    {
+      "album": {
         "name": "Sublime Echoes",
         "url": "https://open.spotify.com/album/6NBUk1TNjJN5dyITHeeiUX"
       },
@@ -1544,7 +1602,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 588062,
       "name": "Sweet Lotus",
       "url": "https://open.spotify.com/track/7HENRfW91cNww67XjwAowU"

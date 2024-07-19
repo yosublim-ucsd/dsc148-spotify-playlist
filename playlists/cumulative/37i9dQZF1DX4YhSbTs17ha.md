@@ -2,9 +2,9 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Las canciones de pop más exitosas en México\. Christian Nodal en portada.
+> Las canciones de pop más exitosas en México\. RENEE en portada.
 
-526 songs - 1 day 4 hr 16 min
+527 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 | 2024-03-15 | 2024-04-13 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-01-10 | 2023-03-11 |
 | [Ojalá](https://open.spotify.com/track/2ThpWJnD1rJchQ6CSFT19z) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Ojalá](https://open.spotify.com/album/3chBDiP97QKgFLAlVszXm1) | 3:17 | 2024-07-05 |  |
+| [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-08-02 | 2023-09-09 |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-06-15 | 2022-08-27 |
 | [Ojos Marrones \- Con Sebastián Yatra](https://open.spotify.com/track/2GQclWZHwE4fMdqShvOPWU) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ojos Marrones \(Con Sebastián Yatra\)](https://open.spotify.com/album/6KY4FnsrJZWQNjMw0zgDgd) | 3:18 | 2022-08-26 |  |

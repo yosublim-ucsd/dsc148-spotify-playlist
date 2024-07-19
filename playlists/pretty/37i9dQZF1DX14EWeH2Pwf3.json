@@ -1,195 +1,15 @@
 {
-  "description": "Capo Plaza in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
-  "num_followers": 957456,
+  "description": "AVA, Mida & VillaBanks in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "num_followers": 957696,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpTWkwAAAAD/VzewyesrvKZOlIOCwxmP",
+  "snapshot_id": "ZpmQnAAAAAA0YJq5WDgii7o5pDInkuWn",
   "tracks": [
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "EXIT (feat. Lazza & Duki)",
-        "url": "https://open.spotify.com/album/5IGhUKQOzbpKQpGywL7pnV"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 207967,
-      "name": "EXIT (feat. Lazza & Duki)",
-      "url": "https://open.spotify.com/track/1VRJ2mhJ3qjUiAdMKs1H8O"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "GHETTO LOVE (feat. CLARA)",
-        "url": "https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "CLARA",
-          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
-        }
-      ],
-      "duration_ms": 144724,
-      "name": "GHETTO LOVE (feat. CLARA)",
-      "url": "https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "ICON",
-      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        },
-        {
-          "name": "Dat Boi Dee",
-          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "EPISODIO D'AMORE",
-      "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "EL PIBE DE ORO",
-        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Poison Beatz",
-          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "EL PIBE DE ORO",
-      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "SESSO E SAMBA (feat. Gaia)",
-        "url": "https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
-        }
-      ],
-      "duration_ms": 167263,
-      "name": "SESSO E SAMBA (feat. Gaia)",
-      "url": "https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -209,26 +29,10 @@
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
       },
       "artists": [
         {
@@ -236,40 +40,16 @@
           "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         },
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 151515,
-      "name": "Soldi Arrotolati (feat. ANNA)",
-      "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "L'Angelo del Male",
-        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Higashi",
-          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Madame (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3J0cZ53BkzP4yhtOh0y02o"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "BACIO DI GIUDA (feat. Mida & VillaBanks)",
         "url": "https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt"
@@ -293,7 +73,63 @@
       "url": "https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "EL PIBE DE ORO",
+        "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "EL PIBE DE ORO",
+      "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/0AxRJk8LTx7w4xQWw9NIFF"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
@@ -313,7 +149,179 @@
       "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "L'Angelo del Male",
+        "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Higashi",
+          "url": "https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Madame (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3J0cZ53BkzP4yhtOh0y02o"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Soldi Arrotolati (feat. ANNA)",
+      "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "GHETTO LOVE (feat. CLARA)",
+        "url": "https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "duration_ms": 144724,
+      "name": "GHETTO LOVE (feat. CLARA)",
+      "url": "https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "EPISODIO D'AMORE",
+      "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "EXIT (feat. Lazza & Duki)",
+        "url": "https://open.spotify.com/album/5IGhUKQOzbpKQpGywL7pnV"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 207967,
+      "name": "EXIT (feat. Lazza & Duki)",
+      "url": "https://open.spotify.com/track/1VRJ2mhJ3qjUiAdMKs1H8O"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Bad Boy (feat. Shiva, Capo Plaza)",
+        "url": "https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd"
+      },
+      "artists": [
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        }
+      ],
+      "duration_ms": 160591,
+      "name": "Bad Boy (feat. Shiva, Capo Plaza)",
+      "url": "https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "BBE (feat. Lazza)",
         "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
@@ -333,7 +341,47 @@
       "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "SESSO E SAMBA (feat. Gaia)",
+        "url": "https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "duration_ms": 167263,
+      "name": "SESSO E SAMBA (feat. Gaia)",
+      "url": "https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 198145,
+      "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu"
@@ -369,7 +417,7 @@
       "url": "https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -397,7 +445,7 @@
       "url": "https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Acqua Passata",
         "url": "https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT"
@@ -413,23 +461,7 @@
       "url": "https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "I CAN FLY",
-        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "I CAN FLY",
-      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -449,7 +481,7 @@
       "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Leanin'",
         "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
@@ -465,27 +497,7 @@
       "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "SOS (feat. Don Pero)",
-        "url": "https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD"
-      },
-      "artists": [
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        },
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "SOS (feat. Don Pero)",
-      "url": "https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
@@ -509,7 +521,7 @@
       "url": "https://open.spotify.com/track/2HIv4bKTCULRZ2eZIkVB3N"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -533,7 +545,59 @@
       "url": "https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "NO REGULAR MUSIC (Deluxe)",
+        "url": "https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "duration_ms": 278802,
+      "name": "1234 POSSE (feat. Faneto, Artie 5ive, Digital Astro, Niky Savage, Lito, Low-Red, Kid Yugi, RRARI DAL TACCO)",
+      "url": "https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG"
@@ -549,7 +613,195 @@
       "url": "https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "I CAN FLY",
+        "url": "https://open.spotify.com/album/2SbroeWsALG42AtivCsCnu"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "I CAN FLY",
+      "url": "https://open.spotify.com/track/2Y3gIiYfcphPCPNYuQDMph"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "SOS (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/6ua3Ey0s26gMEu3lQ7lssD"
+      },
+      "artists": [
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "SOS (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/60ioEgP8cdoC5OrxlKAjn5"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "NO REGULAR MUSIC (Deluxe)",
+        "url": "https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe"
+      },
+      "artists": [
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "WEEKEND (feat. Ghali, Artie 5ive)",
+      "url": "https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Adrenalina (feat. BLANCO, Marracash)",
+        "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Adrenalina (feat. BLANCO, Marracash)",
+      "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Di Rho",
+        "url": "https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Di Rho",
+      "url": "https://open.spotify.com/track/6nqaUnBfwjzuA7UDWS8OQN"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 164177,
+      "name": "Ancora Qua (feat. Tedua)",
+      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "\u00c8 LA (LOVE)",
+        "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 147199,
+      "name": "ZITELLA",
+      "url": "https://open.spotify.com/track/3cXaWGIX2oryZrOmBX7WB9"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
+      "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -581,159 +833,27 @@
       "url": "https://open.spotify.com/track/5eV8XfvbR9bsFqG1jvvNmw"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
       "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "NO REGULAR MUSIC (Deluxe)",
-        "url": "https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe"
-      },
-      "artists": [
-        {
-          "name": "Sadturs",
-          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
-        },
-        {
-          "name": "KIID",
-          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "WEEKEND (feat. Ghali, Artie 5ive)",
-      "url": "https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "Adrenalina (feat. BLANCO, Marracash)",
-        "url": "https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Adrenalina (feat. BLANCO, Marracash)",
-      "url": "https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "Di Rho",
-        "url": "https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Di Rho",
-      "url": "https://open.spotify.com/track/6nqaUnBfwjzuA7UDWS8OQN"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
         {
           "name": "Tedua",
           "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 164177,
-      "name": "Ancora Qua (feat. Tedua)",
-      "url": "https://open.spotify.com/track/30TvIcbkoDh6j7hhKjs4Jg"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "\u00c8 LA (LOVE)",
-        "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         },
         {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 147199,
-      "name": "ZITELLA",
-      "url": "https://open.spotify.com/track/3cXaWGIX2oryZrOmBX7WB9"
+      "duration_ms": 147366,
+      "name": "Al Limite (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
-      "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
@@ -761,27 +881,7 @@
       "url": "https://open.spotify.com/track/53AWZCqbx6kIPsVgSNYn92"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "La Divina Commedia (Deluxe)",
-        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 147366,
-      "name": "Al Limite (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "WIFEY (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6"
@@ -801,7 +901,7 @@
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "L'Angelo del Male",
         "url": "https://open.spotify.com/album/6hv38luXAPIi4ieI63KfFb"
@@ -829,7 +929,7 @@
       "url": "https://open.spotify.com/track/5r9wBfbbK4JcZUEAGFg6su"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Ti Ricordi Di Noi",
         "url": "https://open.spotify.com/album/4DZFZYTzKCj2K958jhITg8"
@@ -845,7 +945,7 @@
       "url": "https://open.spotify.com/track/1K8m7FNx5MxRUTTVLjNN4C"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "CUORI SPEZZATI",
         "url": "https://open.spotify.com/album/5GWvi5nrEzRBunptW3Yv6K"
@@ -861,7 +961,7 @@
       "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "\u00c8 LA (LOVE)",
         "url": "https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt"
@@ -885,7 +985,7 @@
       "url": "https://open.spotify.com/track/3QPlXypNboN7q32K1IuQ9v"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -901,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL"
@@ -917,7 +1017,7 @@
       "url": "https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
@@ -941,7 +1041,7 @@
       "url": "https://open.spotify.com/track/644oTknCDmxS3O8ZQWqt3Q"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Ultimo Piano B",
         "url": "https://open.spotify.com/album/5s8Zzj3egy0VRQWCuzF2rE"
@@ -961,7 +1061,7 @@
       "url": "https://open.spotify.com/track/03W8TlLIcHNDTdvhOc4TkY"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "REPLAY (feat. Yung Snapp, MV Killa, Vale Lambo, Lele Blade)",
         "url": "https://open.spotify.com/album/19xqnKvk2U4tRVKJ7d70yY"
@@ -993,31 +1093,7 @@
       "url": "https://open.spotify.com/track/1GQbYcdWWEmC9bV7BRfSQQ"
     },
     {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "Banda Kawasaki",
-        "url": "https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t"
-      },
-      "artists": [
-        {
-          "name": "Achille Lauro",
-          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 191682,
-      "name": "Banda Kawasaki",
-      "url": "https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
+      "added_at": "2024-07-18 22:01:00",
       "album": {
         "name": "Marijuana (feat. Rhove)",
         "url": "https://open.spotify.com/album/2fvZ7msnb3QjrIUoB2xZGB"
@@ -1035,54 +1111,6 @@
       "duration_ms": 174600,
       "name": "Marijuana (feat. Rhove)",
       "url": "https://open.spotify.com/track/6zBoYvUKa47DRGXGGAziJk"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
-        "url": "https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U"
-      },
-      "artists": [
-        {
-          "name": "Elmatadormc7",
-          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Andry The Hitmaker",
-          "url": "https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "Vaniglia (feat. VillaBanks, Boro & Andry The Hitmaker)",
-      "url": "https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr"
-    },
-    {
-      "added_at": "2024-07-15 07:58:11",
-      "album": {
-        "name": "3SOME (feat. VillaBanks)",
-        "url": "https://open.spotify.com/album/1YIIGgWV5CCDfAC7FaHy0u"
-      },
-      "artists": [
-        {
-          "name": "Rosa Chemical",
-          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 122076,
-      "name": "3SOME (feat. VillaBanks)",
-      "url": "https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB"
     }
   ],
   "unique_name": "Plus Ultra",

@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: LiL CaKe
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Roze Oficial
 
-543 songs - 1 day 2 hr 53 min
+544 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 | 2021-12-23 |  |
 | [Bronceado \- Remix](https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Bronceado \(Remix\)](https://open.spotify.com/album/5h6GCVe6hkOkaG12TVrzr2) | 2:36 | 2023-12-15 | 2024-06-25 |
 | [Bubalú](https://open.spotify.com/track/3hjbhI7IdDEaCrhDBVegXs) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Bubalú](https://open.spotify.com/album/0TxEycpNvMn4HvRPqHnXGn) | 2:29 | 2022-02-04 | 2022-07-07 |
-| [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 | 2024-05-17 |  |
+| [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 | 2024-05-17 | 2024-07-19 |
 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 | 2021-12-23 |  |
 | [Bésame](https://open.spotify.com/track/3EwVVCR1edumeTl8iXI947) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Bésame](https://open.spotify.com/album/4AnpTVLKyfjO4vxfjGedpJ) | 2:37 | 2022-01-28 | 2022-04-18 |
 | [Bésame \- Remix](https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Bésame \(Remix\)](https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX) | 3:09 | 2021-12-23 | 2023-11-25 |
@@ -388,6 +388,7 @@
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2021-12-23 | 2022-07-29 |
 | [Que Rico Baila](https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Que Rico Baila](https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp) | 2:58 | 2021-12-23 | 2024-06-15 |
 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 | 2024-01-14 |
+| [Quedamos solo amigos](https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Quedamos solo amigos](https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj) | 2:40 | 2024-07-19 |  |
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-03 |
 | [Quiere Volver](https://open.spotify.com/track/44fA5XdSQrJa9ah8YI6a57) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [Quiere Volver](https://open.spotify.com/album/03bIhPXPEvVlGgOfDY4EZ2) | 2:19 | 2024-03-29 | 2024-04-06 |
 | [Quiero Bailar Contigo](https://open.spotify.com/track/6iMdVc09zQpf02uoR6iV4Y) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Quiero Bailar Contigo](https://open.spotify.com/album/33DLlIsjIEMMUwHIZ4eIJW) | 2:05 | 2022-11-11 | 2022-11-19 |

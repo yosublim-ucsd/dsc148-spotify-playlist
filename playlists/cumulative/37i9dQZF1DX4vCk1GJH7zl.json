@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Cidade Sumiu",
+        "url": "https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ"
+      },
+      "artists": [
+        {
+          "name": "Cadu Pereira",
+          "url": "https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177458,
+      "name": "A Cidade Sumiu",
+      "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
+    },
+    {
+      "album": {
         "name": "DAVI",
         "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196212,
       "name": "Camale\u00e3o",
       "url": "https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
@@ -1188,6 +1206,24 @@
       "duration_ms": 212297,
       "name": "Invis\u00edvel",
       "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
+    },
+    {
+      "album": {
+        "name": "Jovem Senhor",
+        "url": "https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh"
+      },
+      "artists": [
+        {
+          "name": "Banda de UM",
+          "url": "https://open.spotify.com/artist/1144o8ABGaronlide0iQeq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK"
     },
     {
       "album": {

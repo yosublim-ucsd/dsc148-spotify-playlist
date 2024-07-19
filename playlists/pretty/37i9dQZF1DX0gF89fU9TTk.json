@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 133561,
+  "num_followers": 133616,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Delight (Live)",
-        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 250011,
-      "name": "Delight - Live",
-      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 185217,
       "name": "Never Have I Ever",
       "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Delight (Live)",
+        "url": "https://open.spotify.com/album/48xxySi0XEuNzVJlWym9F4"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 250011,
+      "name": "Delight - Live",
+      "url": "https://open.spotify.com/track/0WK6J7a3CMql3y82IYQdba"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 238666,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -495,6 +495,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/7C6RvwbU3xyKvppyqobHPB"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/7IX2INwc2LcwAEAHd7gvNQ"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 211960,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4bWIOGHOtUP2RGFulZLFCo"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/7C6RvwbU3xyKvppyqobHPB"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "FREE",
-      "url": "https://open.spotify.com/track/7IX2INwc2LcwAEAHd7gvNQ"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Found in You",
-        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
-      },
-      "artists": [
-        {
-          "name": "Royal Company",
-          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
-        }
-      ],
-      "duration_ms": 194335,
-      "name": "Found in You",
-      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 186000,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Found in You",
+        "url": "https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S"
+      },
+      "artists": [
+        {
+          "name": "Royal Company",
+          "url": "https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t"
+        }
+      ],
+      "duration_ms": 194335,
+      "name": "Found in You",
+      "url": "https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "I Am Alive",
+        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+      },
+      "artists": [
+        {
+          "name": "SL Worship",
+          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "I Am Alive",
+      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Brighter (Live)",
         "url": "https://open.spotify.com/album/5xplj2rt2dXTDWrvXCCPN5"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "I Am Alive",
-        "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
+        "name": "Paradigms (Live)",
+        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
       },
       "artists": [
         {
-          "name": "SL Worship",
-          "url": "https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP"
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
         }
       ],
-      "duration_ms": 228506,
-      "name": "I Am Alive",
-      "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+      "duration_ms": 200687,
+      "name": "Heaven Calling - Live",
+      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1219,22 +1235,6 @@
       "duration_ms": 230120,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/0kjoiNSuEYu5OkT1iawIvn"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Paradigms (Live)",
-        "url": "https://open.spotify.com/album/4mCc0FErkyqMK5zlwq2eGi"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 200687,
-      "name": "Heaven Calling - Live",
-      "url": "https://open.spotify.com/track/3QhgScxJj3sdi3otErjQrU"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 111339,
       "name": "BAD GUY (DG)",
       "url": "https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g"
@@ -1013,6 +1013,32 @@
     },
     {
       "album": {
+        "name": "Jai Veeru",
+        "url": "https://open.spotify.com/album/2JJqakAGViUmTgkxNhQ4Xg"
+      },
+      "artists": [
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        },
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Haramzada",
+      "url": "https://open.spotify.com/track/0OoiVEI8YENqBjW3KsBSXn"
+    },
+    {
+      "album": {
         "name": "PRAA",
         "url": "https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis"
       },
@@ -1196,6 +1222,28 @@
       "duration_ms": 181212,
       "name": "Illuminaughty (From \"Bajao\")",
       "url": "https://open.spotify.com/track/1meDneuv818z2sRDMbI72N"
+    },
+    {
+      "album": {
+        "name": "IMMORALS",
+        "url": "https://open.spotify.com/album/0zvBLdhThhfuhZ6mhPldcL"
+      },
+      "artists": [
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        },
+        {
+          "name": "XTACY",
+          "url": "https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166748,
+      "name": "IMMORALS",
+      "url": "https://open.spotify.com/track/08l2EihRm3z5I6cO39yM5D"
     },
     {
       "album": {
@@ -1558,7 +1606,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 122842,
       "name": "Kon Hai Tu",
       "url": "https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu"

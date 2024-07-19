@@ -17026,7 +17026,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212306,
       "name": "Sesame",
       "url": "https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM"
@@ -27344,6 +27344,24 @@
       "duration_ms": 195450,
       "name": "\u6551\u4e16\u4e3b",
       "url": "https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq"
+    },
+    {
+      "album": {
+        "name": "pearls",
+        "url": "https://open.spotify.com/album/4haAuahFiydhTUrvZ1Y4eN"
+      },
+      "artists": [
+        {
+          "name": "synju",
+          "url": "https://open.spotify.com/artist/2Wb6ObEXGJeVIL4JkOmRtE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "\u65b9\u9014",
+      "url": "https://open.spotify.com/track/4sNpYawPOHBaU2YwbSf2ii"
     },
     {
       "album": {

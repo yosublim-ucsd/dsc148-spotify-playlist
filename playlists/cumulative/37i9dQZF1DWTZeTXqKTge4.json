@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/1k7givc0662M7BReqqkAGx"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        },
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150898,
+      "name": "40",
+      "url": "https://open.spotify.com/track/6MJSvI0HaZC2W5JIZg9w50"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/1LppY42rL5Y6LmNJ0evHez"
       },
@@ -5492,7 +5514,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169411,
       "name": "Gotham",
       "url": "https://open.spotify.com/track/2w6WOGnMCwg4R2kXPAOpcD"
@@ -6060,6 +6082,24 @@
       "duration_ms": 203080,
       "name": "Ice",
       "url": "https://open.spotify.com/track/5tGZXgLK1nPDF6U8Velfl3"
+    },
+    {
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/62FKXmAjKmJnMeg7GaSfWi"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/1TL0xU4txhsLwKAFl29N5Z"
     },
     {
       "album": {
@@ -7450,7 +7490,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172303,
       "name": "Liens de sang",
       "url": "https://open.spotify.com/track/31SWi3hoe6mC7hxQ4mK8eV"
@@ -7534,6 +7574,28 @@
       "duration_ms": 156766,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/545IggvcFgJ9hBYWdVYVdZ"
+    },
+    {
+      "album": {
+        "name": "Loyaut\u00e9",
+        "url": "https://open.spotify.com/album/2cmNwVH9VNp3mggrrmCEiJ"
+      },
+      "artists": [
+        {
+          "name": "Zach Scott",
+          "url": "https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw"
+        },
+        {
+          "name": "MikeZup",
+          "url": "https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Loyaut\u00e9",
+      "url": "https://open.spotify.com/track/69T9LCG5yBYd9WeRBsdMwR"
     },
     {
       "album": {
@@ -8198,7 +8260,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150857,
       "name": "Moi Qu'on Regarde",
       "url": "https://open.spotify.com/track/17EdUU3rXnRKBl629gSiBy"
@@ -8238,6 +8300,24 @@
       "duration_ms": 195852,
       "name": "Moiti\u00e9 plein",
       "url": "https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao"
+    },
+    {
+      "album": {
+        "name": "Mon barbier",
+        "url": "https://open.spotify.com/album/6k5pHlGIzqimz199lXjrx1"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186719,
+      "name": "Mon barbier",
+      "url": "https://open.spotify.com/track/4RgTeFUhjfpx1jdWkykmUY"
     },
     {
       "album": {
@@ -9084,7 +9164,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 118517,
       "name": "NRNTB_XC40",
       "url": "https://open.spotify.com/track/2irF6A4W7Dqv4jObPXFHdw"

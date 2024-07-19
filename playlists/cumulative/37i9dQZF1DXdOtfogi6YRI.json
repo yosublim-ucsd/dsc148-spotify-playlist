@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: FERBI, Mokebe, Ohgotmi",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: 3BRAT, Bruno",
   "name": "alt rap",
   "tracks": [
     {
@@ -238,6 +238,32 @@
       "duration_ms": 136046,
       "name": "Bagno",
       "url": "https://open.spotify.com/track/2SkOPVJztkHlwvsXbLBk3x"
+    },
+    {
+      "album": {
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+      },
+      "artists": [
+        {
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "album": {
@@ -955,6 +981,32 @@
     },
     {
       "album": {
+        "name": "GRUUVSTEP",
+        "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
+      },
+      "artists": [
+        {
+          "name": "Mac Sch",
+          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
+        },
+        {
+          "name": "Kulwi",
+          "url": "https://open.spotify.com/artist/48TsEAtxUre4q6weuOYCmN"
+        },
+        {
+          "name": "Ajzeja",
+          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "GRUUVSTEP",
+      "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
+    },
+    {
+      "album": {
         "name": "11minut",
         "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
       },
@@ -1014,7 +1066,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 155758,
       "name": "Jak by\u0142em ma\u0142y",
       "url": "https://open.spotify.com/track/6FBUZtEehhE7RBrJ97f8aB"
@@ -1140,7 +1192,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153269,
       "name": "KIMOSABE",
       "url": "https://open.spotify.com/track/23ygfu9GpjYeF0wHX1LMq9"
@@ -1334,7 +1386,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205019,
       "name": "Life Ground",
       "url": "https://open.spotify.com/track/0EJqyKlRLQ7JQD40NrtmvL"
@@ -1352,7 +1404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 228496,
       "name": "Lot nad kuku\u0142czym gniazdem",
       "url": "https://open.spotify.com/track/4p8tLf1FDYoAznLPd537Lm"
@@ -1540,7 +1592,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 207800,
       "name": "Napraw mnie",
       "url": "https://open.spotify.com/track/4ho9H9m4r2mh12Df93n5wu"
@@ -1674,7 +1726,7 @@
           "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
         },
         {
-          "name": "Kwiatek Haze",
+          "name": "HAZE1",
           "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
         }
       ],
@@ -1684,6 +1736,24 @@
       "duration_ms": 146823,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
+    },
+    {
+      "album": {
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/1HIklkzTiOrjEbqgOpTGfP"
     },
     {
       "album": {
@@ -1702,7 +1772,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197791,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2JbsNDUsq2Tt7A2d79uMhF"
@@ -1740,7 +1810,7 @@
       },
       "artists": [
         {
-          "name": "Kwiatek Haze",
+          "name": "HAZE1",
           "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
         },
         {
@@ -1828,6 +1898,32 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
+    },
+    {
+      "album": {
+        "name": "ad hoc",
+        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
+      },
+      "artists": [
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        },
+        {
+          "name": "Memfiz",
+          "url": "https://open.spotify.com/artist/498DCpjnWn1Ck3M7Cs9AOe"
+        },
+        {
+          "name": "DJ Te",
+          "url": "https://open.spotify.com/artist/4Y7PxPGTVqa0NcR5XKZEQo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182615,
+      "name": "Przebi\u015bniegi",
+      "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
     },
     {
       "album": {
@@ -1986,7 +2082,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158000,
       "name": "SCiB 2000",
       "url": "https://open.spotify.com/track/0kaWozl2PIaY3JHBi57VRc"
@@ -2160,6 +2256,48 @@
       "duration_ms": 139380,
       "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
       "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
+    },
+    {
+      "album": {
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
+      },
+      "artists": [
+        {
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "album": {
@@ -2344,10 +2482,40 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174545,
       "name": "Twoja wina",
       "url": "https://open.spotify.com/track/3tJOYIBurN4dwUaFU2e8ai"
+    },
+    {
+      "album": {
+        "name": "ad hoc",
+        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
+      },
+      "artists": [
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        },
+        {
+          "name": "Joanna Duda",
+          "url": "https://open.spotify.com/artist/2SN1Vy1T3LDjgsgKkiTkgU"
+        },
+        {
+          "name": "Jakub Jan Bryndal",
+          "url": "https://open.spotify.com/artist/5aZnt2OoRIvauleYkWcUAF"
+        },
+        {
+          "name": "DJ Chmielix",
+          "url": "https://open.spotify.com/artist/4o9IM2QFVRk686aua9sion"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161094,
+      "name": "Tygrysy Europy",
+      "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
     },
     {
       "album": {
@@ -2436,6 +2604,24 @@
       "duration_ms": 178823,
       "name": "Wehiku\u0142 czasu",
       "url": "https://open.spotify.com/track/6o8VV8GinVBXPt8H84WRPu"
+    },
+    {
+      "album": {
+        "name": "zamieniaj si\u0119 w s\u0142uch, kiedy zamieniam si\u0119 w sampel",
+        "url": "https://open.spotify.com/album/4oKHdzwkwCtflykT5qjvLm"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217178,
+      "name": "wejd\u017amina\u0142eb",
+      "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"
     },
     {
       "album": {
@@ -2652,6 +2838,24 @@
       "duration_ms": 136888,
       "name": "Zobacz",
       "url": "https://open.spotify.com/track/07BdmTcSqR18rYI4kAlhUv"
+    },
+    {
+      "album": {
+        "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+        "url": "https://open.spotify.com/album/4eC0RhinrhV5v3HY1KRpzD"
+      },
+      "artists": [
+        {
+          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143214,
+      "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+      "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"
     },
     {
       "album": {

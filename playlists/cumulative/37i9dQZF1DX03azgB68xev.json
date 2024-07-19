@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Your music. Your faith. Your life. This is Pop for life!  Cover: <a href=\"spotify:artist:40LHVA5BTQp9RxHOQ9JPYj\">Lauren Daigle</a>",
+  "description": "Your music. Your faith. Your life. This is Pop for life!  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
   "name": "Pop for Life",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179306,
       "name": "All Around The World",
       "url": "https://open.spotify.com/track/3YzPsc7jZ28H2Rc59kI3T9"
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Every Hallelujah",
+        "url": "https://open.spotify.com/album/0oMgd1Wxy6Otaq4CRQI6SK"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "Every Hallelujah",
+      "url": "https://open.spotify.com/track/73TrY0EavVk7zdf5kDAHSz"
+    },
+    {
+      "album": {
         "name": "EVERY LITTLE THING",
         "url": "https://open.spotify.com/album/2MnnGRRWDUjSyvLq0bQLef"
       },
@@ -1848,6 +1866,24 @@
       "duration_ms": 203840,
       "name": "Everything",
       "url": "https://open.spotify.com/track/51Y8oZILZn2aHycr7chx5g"
+    },
+    {
+      "album": {
+        "name": "Everything Good",
+        "url": "https://open.spotify.com/album/7n8Jjq1Xo4RET1zhUIvmVx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199244,
+      "name": "Everything Good",
+      "url": "https://open.spotify.com/track/2JC8kvVB7Ai0ze8wnM9WjE"
     },
     {
       "album": {
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
@@ -2326,7 +2362,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
@@ -3175,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Highs Get Low",
+        "url": "https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Highs Get Low",
+      "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
+    },
+    {
+      "album": {
         "name": "Hills & Horizons",
         "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
@@ -3514,7 +3568,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211931,
       "name": "I'm Not Lucky, I'm Blessed",
       "url": "https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP"
@@ -3964,7 +4018,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 243509,
       "name": "Keep In Step - Live",
       "url": "https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2"
@@ -4062,7 +4116,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
@@ -4674,7 +4728,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226800,
       "name": "Middle of the Fire",
       "url": "https://open.spotify.com/track/41K61HWF3VclSmet8TPG8T"
@@ -5468,6 +5522,24 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/6EkIUiWQSjDnBpA5pOgzxD"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Phillips",
+          "url": "https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204263,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm"
     },
     {
       "album": {
@@ -6415,6 +6487,24 @@
     },
     {
       "album": {
+        "name": "SPEED DIAL",
+        "url": "https://open.spotify.com/album/1P761vQQBLqIvJp5SWhMy6"
+      },
+      "artists": [
+        {
+          "name": "Nissim Black",
+          "url": "https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "SPEED DIAL",
+      "url": "https://open.spotify.com/track/0olodLskiHNM1J9iEOV2vf"
+    },
+    {
+      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -6462,7 +6552,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
@@ -6750,7 +6840,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc"
@@ -7774,7 +7864,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159879,
       "name": "Won't Rain Anymore",
       "url": "https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz"

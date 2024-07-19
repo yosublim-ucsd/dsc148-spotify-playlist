@@ -1,15 +1,35 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Andr\u00e9 Hazes & Mart Hoogkamer",
-  "num_followers": 146206,
+  "num_followers": 146238,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAABg0Q1DWGZ7O/ZJE5tMrv84",
+  "snapshot_id": "ZpmQYAAAAADEQzYBUcAtBkM4im63G7uc",
   "tracks": [
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Zij Begrijpt Het",
+        "url": "https://open.spotify.com/album/1nUC9zziMNcQBg4pu1pVv5"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 169904,
+      "name": "Zij Begrijpt Het",
+      "url": "https://open.spotify.com/track/6rk8aJ7P3O7OhdQQ0ce29e"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Zij Is Van Mij",
         "url": "https://open.spotify.com/album/42ySQUp33CT7jH0XTOVYPh"
@@ -29,23 +49,7 @@
       "url": "https://open.spotify.com/track/5ElK7HPvWfRYOzz6F6ICId"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Maandag",
-        "url": "https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW"
-      },
-      "artists": [
-        {
-          "name": "Sander Kwarten",
-          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
-        }
-      ],
-      "duration_ms": 164435,
-      "name": "Maandag",
-      "url": "https://open.spotify.com/track/1ZmCl5Ip9moo86hdqufgU0"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
@@ -73,23 +77,55 @@
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Op E\u00e9n Been",
-        "url": "https://open.spotify.com/album/5HDZXiHUQJvIyOQbQbBhvq"
+        "name": "Met Het Vliegtuig Naar Spanje",
+        "url": "https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk"
       },
       "artists": [
         {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
         }
       ],
-      "duration_ms": 156249,
-      "name": "Op E\u00e9n Been",
-      "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+      "duration_ms": 166533,
+      "name": "Met Het Vliegtuig Naar Spanje",
+      "url": "https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Maandag",
+        "url": "https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW"
+      },
+      "artists": [
+        {
+          "name": "Sander Kwarten",
+          "url": "https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn"
+        }
+      ],
+      "duration_ms": 164435,
+      "name": "Maandag",
+      "url": "https://open.spotify.com/track/1ZmCl5Ip9moo86hdqufgU0"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Vraag Me Niets",
+        "url": "https://open.spotify.com/album/4t8JfD3aZl8yapJs5JjWT0"
+      },
+      "artists": [
+        {
+          "name": "Niels Korsuize",
+          "url": "https://open.spotify.com/artist/3skXwmIMhcloZklvWrOYRy"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Vraag Me Niets",
+      "url": "https://open.spotify.com/track/2Ed0Hh28X8zPYSszIK90sS"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Limbo (feat. Lange Frans)",
         "url": "https://open.spotify.com/album/59zlubTTdweZ1nD8oxuKx6"
@@ -109,7 +145,23 @@
       "url": "https://open.spotify.com/track/6k0nST5Ww3yvZhQWBJquH0"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Op E\u00e9n Been",
+        "url": "https://open.spotify.com/album/5HDZXiHUQJvIyOQbQbBhvq"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 156249,
+      "name": "Op E\u00e9n Been",
+      "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Weg Uit De Sleur",
         "url": "https://open.spotify.com/album/0I2hNthmZ2FkYIVOucbX4x"
@@ -125,7 +177,7 @@
       "url": "https://open.spotify.com/track/6qexkjWsYMNlRdhv2ybFXR"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
@@ -145,7 +197,7 @@
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Omlaag",
         "url": "https://open.spotify.com/album/7m6wSatLYjCrxJRLJM2rrU"
@@ -165,7 +217,7 @@
       "url": "https://open.spotify.com/track/5P2eKhzmRDE9NKLG6Nx6od"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Kleine Vogel",
         "url": "https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Het Lijkt Hier Wel Ibiza",
         "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
@@ -201,55 +253,7 @@
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
-      "album": {
-        "name": "Hoe Ik Leven Moet",
-        "url": "https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11"
-      },
-      "artists": [
-        {
-          "name": "Jan van Est",
-          "url": "https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE"
-        }
-      ],
-      "duration_ms": 178571,
-      "name": "Hoe Ik Leven Moet",
-      "url": "https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Oh Wat Ben Je Mooi",
-        "url": "https://open.spotify.com/album/0r8cS5aNOCuNIG7q0FGfWU"
-      },
-      "artists": [
-        {
-          "name": "Tim Schalkx",
-          "url": "https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG"
-        }
-      ],
-      "duration_ms": 163478,
-      "name": "Oh Wat Ben Je Mooi",
-      "url": "https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Ik Wil Dat Jij Nu Bij Me Blijft (Zomerversie)",
-        "url": "https://open.spotify.com/album/1m3Yo92RI4jUB4Jrl3r3KH"
-      },
-      "artists": [
-        {
-          "name": "Danny Froger",
-          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
-        }
-      ],
-      "duration_ms": 153515,
-      "name": "Ik Wil Dat Jij Nu Bij Me Blijft - Zomerversie",
-      "url": "https://open.spotify.com/track/210aEGqeO7rfVOc3sE0C1k"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Langer Blijven",
         "url": "https://open.spotify.com/album/7GnO6ko8jq8yImhb6KWD9C"
@@ -265,7 +269,7 @@
       "url": "https://open.spotify.com/track/5xoiIIIbiAJ7uoXqDRB5Zy"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Ik Slaap In De Kroeg",
         "url": "https://open.spotify.com/album/6IxtRIGc7QskgH0O6o2EoT"
@@ -285,7 +289,75 @@
       "url": "https://open.spotify.com/track/5RYECSo6TvaqRBJNFhaP9z"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Hoe Ik Leven Moet",
+        "url": "https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11"
+      },
+      "artists": [
+        {
+          "name": "Jan van Est",
+          "url": "https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE"
+        }
+      ],
+      "duration_ms": 178571,
+      "name": "Hoe Ik Leven Moet",
+      "url": "https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Oh Wat Ben Je Mooi",
+        "url": "https://open.spotify.com/album/0r8cS5aNOCuNIG7q0FGfWU"
+      },
+      "artists": [
+        {
+          "name": "Tim Schalkx",
+          "url": "https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "Oh Wat Ben Je Mooi",
+      "url": "https://open.spotify.com/track/24KzyCCMtR33nQzJFwSa3K"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Ik Wil Dat Jij Nu Bij Me Blijft (Zomerversie)",
+        "url": "https://open.spotify.com/album/1m3Yo92RI4jUB4Jrl3r3KH"
+      },
+      "artists": [
+        {
+          "name": "Danny Froger",
+          "url": "https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy"
+        }
+      ],
+      "duration_ms": 153515,
+      "name": "Ik Wil Dat Jij Nu Bij Me Blijft - Zomerversie",
+      "url": "https://open.spotify.com/track/210aEGqeO7rfVOc3sE0C1k"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Suavemente, Dans Met Mij",
+        "url": "https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M"
+      },
+      "artists": [
+        {
+          "name": "Gerard Palts",
+          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
+        },
+        {
+          "name": "Trafassi",
+          "url": "https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Suavemente, Dans Met Mij",
+      "url": "https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Engelengezang",
         "url": "https://open.spotify.com/album/4DrqmEKNUHc0Sz8BIVspX6"
@@ -305,7 +377,7 @@
       "url": "https://open.spotify.com/track/0DL5ZiYdN0I4xpJ1yJfvC4"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "C'est la vie",
         "url": "https://open.spotify.com/album/45DfHxGvEE0ZO7T1FZ8Zre"
@@ -321,7 +393,7 @@
       "url": "https://open.spotify.com/track/5dojpFA2YtBwfHmInyb333"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Zeg het mij maar nog \u2019n keer",
         "url": "https://open.spotify.com/album/34NBo0H8vVYsVor6GNSePa"
@@ -337,7 +409,7 @@
       "url": "https://open.spotify.com/track/7mcqvTcLp90yQexNaX0BzT"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Muchos Licores",
         "url": "https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ"
@@ -353,7 +425,7 @@
       "url": "https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Voel Voel Voel",
         "url": "https://open.spotify.com/album/0dGdbc1Ua6BwzLZkSllywO"
@@ -369,7 +441,7 @@
       "url": "https://open.spotify.com/track/2erib8JNK3cb4PiYk1cHvo"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Alleen Voor Jou",
         "url": "https://open.spotify.com/album/06wadVvM0mzgu4dSvClxy1"
@@ -385,7 +457,7 @@
       "url": "https://open.spotify.com/track/6EdPaa3SnUuHRPZz1gsunZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Que Sera Sera",
         "url": "https://open.spotify.com/album/3s7qJcee0OnLeeZrKD3907"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/40gYeIhatKeszARNvMAGvX"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Verliefd, Verloofd, Getrouwd",
         "url": "https://open.spotify.com/album/4qT3cXHAkPO56wxdHjlkWn"
@@ -417,7 +489,7 @@
       "url": "https://open.spotify.com/track/5SuMvsdeGAXZGvwUaqGlRX"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Dans Met Mij",
         "url": "https://open.spotify.com/album/5aTf3iSwUnP7IQrs3xC7Bp"
@@ -433,7 +505,7 @@
       "url": "https://open.spotify.com/track/1n9VwFbmlEx7cBpWSr5VOY"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Zie Ik Jou Weer Morgen?",
         "url": "https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo"
@@ -453,7 +525,7 @@
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
     },
     {
-      "added_at": "2024-06-20 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Oya L\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/5NSb8B6nSK9C6LbXFVF29G"
@@ -469,7 +541,7 @@
       "url": "https://open.spotify.com/track/02PkufbhBgxhNO5Su1Z7Qu"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Heerlijke Vakantie",
         "url": "https://open.spotify.com/album/5bLmNRX9mb9D5gurA7Abmn"
@@ -485,7 +557,7 @@
       "url": "https://open.spotify.com/track/2fTLEmV2cAzHgBdyrfKcpx"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/7rE6SLNWzMIeBKuitiBe1n"
@@ -505,7 +577,7 @@
       "url": "https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Tranen Zijn Niet Alleen Om Te Huilen",
         "url": "https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI"
@@ -521,7 +593,7 @@
       "url": "https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Jij Laat Mijn Hart Steeds Sneller Slaan",
         "url": "https://open.spotify.com/album/5Jwqd5X23MVGiHkYjKbVnP"
@@ -545,7 +617,7 @@
       "url": "https://open.spotify.com/track/0nSfM1h9qfZcDLXom4doM0"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Blijf Nog Even Open",
         "url": "https://open.spotify.com/album/1917AO9yTHNS06uTepMmVW"
@@ -561,7 +633,7 @@
       "url": "https://open.spotify.com/track/6SCRUa7JgPJsipP9HaWUKF"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Als Ik Haar Zie (Zomerversie)",
         "url": "https://open.spotify.com/album/03v15MvqtUJ2I6m14UmzoN"
@@ -577,7 +649,7 @@
       "url": "https://open.spotify.com/track/0bBWFCsBCroVJplIOKCiqZ"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Frans Thuis",
         "url": "https://open.spotify.com/album/5OR7PPsLA2E4exXadxkVNV"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/2Hd5d3K74UMj0GGcrIousD"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Insta Live",
         "url": "https://open.spotify.com/album/4bgZfovTAw0aoHNykiFPP6"
@@ -609,7 +681,23 @@
       "url": "https://open.spotify.com/track/7sfwT3gehKU9LmdWw6iZGd"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Oh Wat Een Leven",
+        "url": "https://open.spotify.com/album/09DI306j3DL9rIOZqaoDpu"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "Oh Wat Een Leven",
+      "url": "https://open.spotify.com/track/3gdUWJ3TfuxtsJJ3DOYa6T"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Doe mij 'n rondje",
         "url": "https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq"
@@ -625,7 +713,7 @@
       "url": "https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Flamingo (Jij Bent Het Voor Mij)",
         "url": "https://open.spotify.com/album/0EfaQbxpGrpG4Cu0UxKA7y"
@@ -641,7 +729,7 @@
       "url": "https://open.spotify.com/track/2x5y65TCqOrDFiuDs7Kk7D"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Jij en Ik",
         "url": "https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp"
@@ -661,7 +749,7 @@
       "url": "https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Voel je dan niet",
         "url": "https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk"
@@ -677,7 +765,7 @@
       "url": "https://open.spotify.com/track/3ZKoKdBxP6vDbXh0D2rR6U"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Buona Sera",
         "url": "https://open.spotify.com/album/0ERM7CbBalsGGF9fdAw0dy"
@@ -697,7 +785,7 @@
       "url": "https://open.spotify.com/track/2m5T7Fn0PyGZpxZYa0jEnC"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Laat De Zon In Je Hart",
         "url": "https://open.spotify.com/album/3DkAKboOUcy1mJjRru7WWk"
@@ -713,7 +801,7 @@
       "url": "https://open.spotify.com/track/6ZUQHg1ehekmE6C0eETvSv"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Ik Zal Geen Traan Meer Om Je Laten",
         "url": "https://open.spotify.com/album/5AM6T3qtxVhdkBGJbz9YCa"
@@ -729,7 +817,7 @@
       "url": "https://open.spotify.com/track/0IG9KSc2YJLOfg0NzKpFZR"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Op Een Dag (Gaan We Allemaal Naar De Hemel)",
         "url": "https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/40a6NAAIlG33ZmKdI1JSxO"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Allemaal Naar Rhodos",
         "url": "https://open.spotify.com/album/3cPh6IbUR6yLVCwTrU6eOR"
@@ -765,7 +853,23 @@
       "url": "https://open.spotify.com/track/6svays9BgKtZDe9PCgyJWm"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Jij en Ik met Z'n Twee",
+        "url": "https://open.spotify.com/album/5jLjAsfGPHT6XeVPNSAD2E"
+      },
+      "artists": [
+        {
+          "name": "Kobus Engels",
+          "url": "https://open.spotify.com/artist/31ceTfWruX9GVw1VjR30ke"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "Jij en Ik met Z'n Twee",
+      "url": "https://open.spotify.com/track/6XvkdaXGluguBki0kBkXAK"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Vier Het Leven",
         "url": "https://open.spotify.com/album/4yTIeSkw9df9ZRKGC4NBhM"
@@ -781,7 +885,7 @@
       "url": "https://open.spotify.com/track/6TgUcs28NmopMhBT9gZMPn"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Schaam Je Voor Je Tranen Niet",
         "url": "https://open.spotify.com/album/2GGEHhgUhPQVupVNjfD1FH"
@@ -797,7 +901,7 @@
       "url": "https://open.spotify.com/track/09cswrDjJqKzNxomjftD5S"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "De Liefde Die Leeft (Stumblin' In Remix)",
         "url": "https://open.spotify.com/album/40flGd5I9axFmh22OnNemq"
@@ -813,7 +917,7 @@
       "url": "https://open.spotify.com/track/2rgRnoUQ29DM53zXE2RB0E"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Blijf Bij Mij",
         "url": "https://open.spotify.com/album/3pipl4FxxkmuTJdZYYlwI8"
@@ -829,7 +933,7 @@
       "url": "https://open.spotify.com/track/4a3k5MpyuTYfAWiZknc0bj"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Belastingdienst",
         "url": "https://open.spotify.com/album/4asaZtSte5QC25HF3atLZW"
@@ -845,7 +949,7 @@
       "url": "https://open.spotify.com/track/1UEbFfE5yDVsdu71GsjXFZ"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Paradijs",
         "url": "https://open.spotify.com/album/0kee02X9PL2hkCo50lcXh7"
@@ -861,7 +965,7 @@
       "url": "https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "De Hele Wereld Mag Het Weten",
         "url": "https://open.spotify.com/album/4o4mKMlOAXMpuIFisFGZBk"
@@ -877,7 +981,7 @@
       "url": "https://open.spotify.com/track/5gV2rLuE0JOnE5WltYwCgg"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Wie Drinkt Er E\u00e9n Met Mij",
         "url": "https://open.spotify.com/album/6j55S7ubEWvU7ZEYswvgtT"
@@ -893,7 +997,7 @@
       "url": "https://open.spotify.com/track/0LUAP7kEI120NQc2TrAiKD"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Nog Eentje Dan",
         "url": "https://open.spotify.com/album/7rrQwNORGZNCHw2ouJ7ziL"
@@ -913,7 +1017,7 @@
       "url": "https://open.spotify.com/track/6JTAqOPbPFClT6iVGFzai3"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Tot Aan De Morgen",
         "url": "https://open.spotify.com/album/1GyGAa4Pdhvyqs3tCnTENG"
@@ -929,7 +1033,7 @@
       "url": "https://open.spotify.com/track/38DKhsqtqPXgUTBKN65wTy"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Wachten Op Jou",
         "url": "https://open.spotify.com/album/62OiJpWTS1sNc9k5P4BICk"
@@ -945,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Jongen Van De Straat",
         "url": "https://open.spotify.com/album/2glUKNxODHxUaYjSyMoGup"
@@ -961,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5w0CdVXAYKS4n5ZvnR0okE"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Vergeef Me",
         "url": "https://open.spotify.com/album/5D2U4wDovo9O3j57QOjQVD"
@@ -977,7 +1081,7 @@
       "url": "https://open.spotify.com/track/27737JQ5rhBTJyYGLQZkBs"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Ik Pluk Een Ster",
         "url": "https://open.spotify.com/album/0PbztfMQhKRjRwW4AHWxf8"
@@ -993,23 +1097,7 @@
       "url": "https://open.spotify.com/track/6IL9WqozMq9AZnj0v8jEAY"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Hou me vast",
-        "url": "https://open.spotify.com/album/7jVSueTIpVROWGqkyAa0gU"
-      },
-      "artists": [
-        {
-          "name": "Quincy",
-          "url": "https://open.spotify.com/artist/4fRfbdOrNz7rMisq8Ff78c"
-        }
-      ],
-      "duration_ms": 216758,
-      "name": "Hou me vast",
-      "url": "https://open.spotify.com/track/1W6FvzWv11decQuYPkHPyB"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Zeg me wie",
         "url": "https://open.spotify.com/album/3cXzMiXcEKr1LUlkcMbZZB"
@@ -1025,23 +1113,7 @@
       "url": "https://open.spotify.com/track/1GkaioqxI6kq8MGhvM40vJ"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Mama Maria",
-        "url": "https://open.spotify.com/album/42CariIauGPeywBsQAHQcm"
-      },
-      "artists": [
-        {
-          "name": "Zanger Alex",
-          "url": "https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO"
-        }
-      ],
-      "duration_ms": 173203,
-      "name": "Mama Maria",
-      "url": "https://open.spotify.com/track/2A5QPm7ALhM9qyJsV3pDNd"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Oh Ja Ja Ja (Zon In Mijn Hart)",
         "url": "https://open.spotify.com/album/1P7IqW4XgFZMFRML1aDvai"
@@ -1057,7 +1129,7 @@
       "url": "https://open.spotify.com/track/06CuCa8iOFYqcENCrRGRKG"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Schrijf me nooit geen mooie brieven meer",
         "url": "https://open.spotify.com/album/40Gx37215lnWIcXg5PWqwd"
@@ -1073,7 +1145,7 @@
       "url": "https://open.spotify.com/track/474JpNSf3P7fdqD1jGAOJ1"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Jij bent voor mij die ene",
         "url": "https://open.spotify.com/album/1rU0GTweRlbje8CWPOPfF8"
@@ -1089,23 +1161,7 @@
       "url": "https://open.spotify.com/track/4SAJHWcspotBnGBakSbwJy"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Alles (2024)",
-        "url": "https://open.spotify.com/album/4BiKnQ8hCUbhwwVb1dwfJw"
-      },
-      "artists": [
-        {
-          "name": "Brian Voet",
-          "url": "https://open.spotify.com/artist/496ePbA0wDbVqE4K5My3WI"
-        }
-      ],
-      "duration_ms": 207478,
-      "name": "Alles (2024)",
-      "url": "https://open.spotify.com/track/32ieVO09cVCTNoGOvr6b9p"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Drink Het Leven",
         "url": "https://open.spotify.com/album/5IVmOIuXyOhjnvSIZzSnZF"
@@ -1121,23 +1177,7 @@
       "url": "https://open.spotify.com/track/1tF2QPGA5j4yaLdpHJAuro"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Nooit Meer Zonder Jou",
-        "url": "https://open.spotify.com/album/2FG4uNNehYXh00eVinSTLS"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 186958,
-      "name": "Nooit Meer Zonder Jou",
-      "url": "https://open.spotify.com/track/33ZGotIbM6RUc4BQJ5Fzfq"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Stapelgek Op Jou",
         "url": "https://open.spotify.com/album/7c9rzkiEHY8QLShd4J92ry"
@@ -1153,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2HlBFknY6RmzzAcJOd7U1c"
     },
     {
-      "added_at": "2024-06-13 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Alles Met Jou",
         "url": "https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe"
@@ -1167,42 +1207,6 @@
       "duration_ms": 160035,
       "name": "Alles Met Jou",
       "url": "https://open.spotify.com/track/4jXjI1kipE0EJvnNTMfnMn"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Where Is The Love",
-        "url": "https://open.spotify.com/album/3RODDNkWybjxj2b1zD6Iwc"
-      },
-      "artists": [
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        },
-        {
-          "name": "New Timeless",
-          "url": "https://open.spotify.com/artist/0cITHw68HPLMChQETduF5D"
-        }
-      ],
-      "duration_ms": 217932,
-      "name": "Where Is The Love",
-      "url": "https://open.spotify.com/track/5x1xBocigHge5scVQzdq7f"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Zaterdag",
-        "url": "https://open.spotify.com/album/3WlRVur6fAPxfhfBzwZarG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Par\u00e9",
-          "url": "https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Zaterdag",
-      "url": "https://open.spotify.com/track/3UnvV0umBoSZSubJT4puOO"
     }
   ],
   "unique_name": "Liever Hollands",

@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-161 songs - 10 hr 43 min
+166 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-08-16 |  |
 | [Indian Skies](https://open.spotify.com/track/7C9oEyJHuGODex0VCtPUL8) | [Karnataka Dawn](https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9) | [Welcome](https://open.spotify.com/album/2nSvHBcN1uDo3XHymvf9Hn) | 3:38 | 2023-03-07 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-14 | 2024-03-27 |
+| [Inner Intuition](https://open.spotify.com/track/2WNrn26PWJDLx5Gnjhb2Hy) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Inner intuition](https://open.spotify.com/album/0V5qQhB4oEjt1B24AAmWgw) | 2:33 | 2024-07-18 |  |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 |  |
 | [Jijivisha](https://open.spotify.com/track/4zBb2qVZPBPIGHyVgigcgX) | [Nima Aurora](https://open.spotify.com/artist/1UQGA6jKplD3UepAJH3W0o) | [Jijivisha](https://open.spotify.com/album/57GQpNtXgfP9I0cezGPr0o) | 3:42 | 2022-07-14 |  |
 | [Journey to Sedna](https://open.spotify.com/track/0UgTFuBrddYbJ1eqxS1pQw) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 4:41 | 2022-07-14 | 2022-12-17 |
@@ -96,6 +97,7 @@
 | [My People Have Deep Roots](https://open.spotify.com/track/4U1XhaYJ7hbOGKmUxY5PWZ) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/3S4DtRVn4tjo9Q39e0lJC2) | 4:00 | 2022-05-13 | 2023-07-30 |
 | [Mystical Flute Meditation](https://open.spotify.com/track/5L1pWVP4ZrtjYuqoLqhScu) | [Yakamora](https://open.spotify.com/artist/5aAi2J1r2GmSXMeiG20jJp) | [Mystical Flute Meditation](https://open.spotify.com/album/0jCMSNyYb5ctbVFwYIGNGg) | 2:14 | 2024-03-08 |  |
 | [Nainital Honeymoon](https://open.spotify.com/track/4ImoheUJchq404T34HH5lN) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Nainital Honeymoon](https://open.spotify.com/album/2wd6EhW4H94OL8n0x4GBmx) | 4:15 | 2023-01-13 |  |
+| [Open Mind](https://open.spotify.com/track/3IlFvhJa7yFZXhN7bkGtXa) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Open Mind](https://open.spotify.com/album/0hKWla6AJkI5W4IJSzKcuv) | 3:20 | 2024-07-18 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-19 |  |
 | [Parampara](https://open.spotify.com/track/0tfRLoSRwVus8SqmfUOfjW) | [Bandhu Haz](https://open.spotify.com/artist/5FrfR8B0zttdMqmWaDH2Zk) | [Parampara](https://open.spotify.com/album/2VFgUxZ1W3aOxb8W0PylMN) | 3:08 | 2023-08-16 |  |
 | [Passion](https://open.spotify.com/track/10N4pUn5NmbJTodGCJSV4I) | [Banishu](https://open.spotify.com/artist/1QZvqFFagrFlGk46JD2WNi) | [Passion](https://open.spotify.com/album/7KsHiZ06JKArEPc8LMdP2w) | 3:19 | 2022-05-13 | 2023-09-06 |
@@ -124,6 +126,7 @@
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-07-14 | 2022-10-25 |
 | [Sapana](https://open.spotify.com/track/3vF3QhICER6LgljDmPDyFR) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Sapana](https://open.spotify.com/album/2jffMkVB0aQ7p0dZx3Xd3e) | 3:39 | 2022-07-14 |  |
 | [Saraswati Ma](https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 8:45 | 2022-05-13 | 2022-12-17 |
+| [Savasanna Rest](https://open.spotify.com/track/20gXyNKLVnLnAJoCAjHnSZ) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Savasanna Rest](https://open.spotify.com/album/1RagOl3lMMu5vVHK7DD12d) | 3:09 | 2024-07-18 |  |
 | [Sayam](https://open.spotify.com/track/6JgLsdhyec01b0xfFCLkJh) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Sayam](https://open.spotify.com/album/1xvXrzInGCTQbr7JXf9SzV) | 2:55 | 2022-05-13 |  |
 | [Seasoned Traveler](https://open.spotify.com/track/5ILMMY0T5WbyOSn4XJIo04) | [Roksana Moi](https://open.spotify.com/artist/35oLmyk638FInZJx5hZD6j) | [Seasoned Traveler](https://open.spotify.com/album/3H154bZ3wxORhkRi1tk8on) | 2:56 | 2023-09-05 |  |
 | [Serenity](https://open.spotify.com/track/1n234FI6z2v1rUO4oQ9vQe) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Serenity](https://open.spotify.com/album/2KSHTLkxbjYzZfY85s8L2O) | 5:41 | 2022-12-16 |  |
@@ -147,8 +150,10 @@
 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 | 2022-05-13 |  |
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-01-13 |  |
 | [Sumati Arya](https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Sumati Arya](https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR) | 2:35 | 2024-03-26 |  |
+| [Sunehri Savera](https://open.spotify.com/track/3OZkY9IxmZPLjzPMdPrVfV) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Sunehri Savera](https://open.spotify.com/album/3uc6loNRmpweT5qmOSW2pB) | 4:40 | 2024-07-18 |  |
 | [Sunset Sky](https://open.spotify.com/track/3JAGyBNYLZav8h9uuDB5aZ) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Sunset Sky](https://open.spotify.com/album/3m0sH9z0g1b2RGrvX0c6PI) | 3:32 | 2024-03-08 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2022-05-13 | 2024-03-27 |
+| [Tabla Journey](https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Tabla Journey](https://open.spotify.com/album/0Z0xbFPij5lnivzRj8daSF) | 2:39 | 2024-07-18 |  |
 | [Tabla Repetitions](https://open.spotify.com/track/5Qmpz8HYAZftZhRsZ80tFl) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Curing Rhythms](https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb) | 3:02 | 2022-07-14 |  |
 | [The Calm Inside](https://open.spotify.com/track/5K8PFOnIXazyzWmWuUGVJr) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-05-13 | 2024-03-27 |
 | [The Child Within \- Astropilot Remix](https://open.spotify.com/track/0WmPkg7qg9NMRCvDbTeiGj) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(Astropilot Remix\)](https://open.spotify.com/album/6Gy9I2bThPV5dp1Hrsn5bQ) | 5:28 | 2022-05-13 | 2022-12-17 |

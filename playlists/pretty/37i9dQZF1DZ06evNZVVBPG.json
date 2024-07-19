@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2426628,
+  "num_followers": 2428324,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADLDCG+9lbWE9kcA6obkkFK",
+  "snapshot_id": "ZpcJgAAAAAALkiaV1LBMARMFYqypZsuF",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Yes To Heaven",
-        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 209156,
-      "name": "Say Yes To Heaven",
-      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young And Beautiful",
         "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
       },
@@ -59,26 +43,6 @@
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
     },
     {
       "added_at": null,
@@ -115,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -147,6 +95,22 @@
       "duration_ms": 278126,
       "name": "Let The Light In (feat. Father John Misty)",
       "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 202192,
+      "name": "Doin' Time",
+      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
     },
     {
       "added_at": null,
@@ -199,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 271176,
+      "name": "Chemtrails Over The Country Club",
+      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
@@ -235,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Pretty When You Cry",
-      "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -263,6 +227,22 @@
       "duration_ms": 222920,
       "name": "Diet Mountain Dew",
       "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Pretty When You Cry",
+      "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq"
     },
     {
       "added_at": null,
@@ -303,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultraviolence (Deluxe)",
         "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
@@ -315,22 +311,6 @@
       "duration_ms": 317760,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/11MyiSGZSYSmhhqwGUTtAq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
     },
     {
       "added_at": null,
@@ -367,58 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Ultraviolence",
-      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 214912,
-      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnights (The Til Dawn Edition)",
         "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
       },
@@ -448,9 +376,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 181960,
-      "name": "The Other Woman",
-      "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
+      "duration_ms": 251480,
+      "name": "Ultraviolence",
+      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
     },
     {
       "added_at": null,
@@ -523,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Black Beauty",
+      "url": "https://open.spotify.com/track/63hHlajVLQnlFMAqSyePxO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -559,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
       "artists": [
         {
@@ -568,9 +512,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
+      "duration_ms": 230520,
+      "name": "National Anthem",
+      "url": "https://open.spotify.com/track/7cNz65PfCatRXoX7QtqM2A"
     },
     {
       "added_at": null,
@@ -591,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
-      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -635,6 +547,22 @@
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once Upon a Dream (from \"Maleficent\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Once Upon a Dream - From \"Maleficent\" / Pop Version",
+      "url": "https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu"
     },
     {
       "added_at": null,
@@ -671,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -699,6 +611,22 @@
       "duration_ms": 229325,
       "name": "Love song",
       "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
     },
     {
       "added_at": null,
@@ -795,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -807,6 +751,22 @@
       "duration_ms": 215673,
       "name": "Tulsa Jesus Freak",
       "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 305899,
+      "name": "California",
+      "url": "https://open.spotify.com/track/7oTE1KmtU2ml9zBhv9Reao"
     },
     {
       "added_at": null,
@@ -871,6 +831,22 @@
       "duration_ms": 255040,
       "name": "Violets for Roses",
       "url": "https://open.spotify.com/track/5yrAkKml7mtzmPPbjB2qTC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "If You Lie Down With Me",
+      "url": "https://open.spotify.com/track/1RPsOAaHaRu8JlVdeaciuL"
     }
   ],
   "unique_name": "This Is Lana Del Rey",

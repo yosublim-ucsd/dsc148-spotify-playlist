@@ -2,7 +2,7 @@
 
 ### [trend 2024](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Era7capone x Batuflex x Narco
+> viral, trend ve yükselenler\. Kapak: BLOK3
 
 55 songs - 2 hr 43 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,579 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,631 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 51 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 |
 | 52 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 |
 | 53 | [Water Ran](https://open.spotify.com/track/4u4NcX9VdRHTLIJQqXne3I) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Invincible Friends](https://open.spotify.com/album/09cVRkXeGEMJ4oiZmMxnc1) | 3:53 |
-| 54 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
-| 55 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 |
-| 56 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 |
+| 54 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 |
+| 55 | [Keep Running](https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Keep Running](https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a) | 2:54 |
+| 56 | [May Ninth](https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [May Ninth](https://open.spotify.com/album/0XTJuQSKa1LtnG7r5MO43L) | 3:12 |
 | 57 | [A Part of Us \- Original Motion Picture Soundtrack](https://open.spotify.com/track/3E71Cnxd9WRnZhWC1THHTq) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [A Part of Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/38lREADM7sZBLfjAROd5AN) | 5:31 |
 | 58 | [Strangers](https://open.spotify.com/track/6FwQXU8dVDUoo09SGHAxSA) | [ELLIOTT ARMEN](https://open.spotify.com/artist/2BuC0YWHjFKnwj9fTG9qOt) | [Strangers](https://open.spotify.com/album/43Zp5dae11AgsnXKktKCUP) | 3:48 |
 | 59 | [Breath of Roma](https://open.spotify.com/track/7oHPHBLG6hOaGeBrkOUSS3) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Breath of Roma](https://open.spotify.com/album/7CweJaFaFVZLSQvCtDM05m) | 3:25 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 62 | [Traffic Lights](https://open.spotify.com/track/2Ic3Obe9brvYs5e65Bl2Nc) | [Victor Solf](https://open.spotify.com/artist/5Y8g8xQA1pNHnnfFznkcqZ) | [Traffic Lights](https://open.spotify.com/album/7ydJal4g5NFBKfJGjpLoam) | 4:00 |
 | 63 | [Levitate](https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/0hrRzDQJNqOVeBT6EcOcBs) | 3:19 |
 | 64 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 |
-| 65 | [Gravity](https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Maratea](https://open.spotify.com/album/2OSdHB4RYfDZ0wFzbNoh7G) | 3:06 |
-| 66 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
-| 67 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
+| 65 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
+| 66 | [Gravity](https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Maratea](https://open.spotify.com/album/2OSdHB4RYfDZ0wFzbNoh7G) | 3:06 |
+| 67 | [Stockholm Syndrome](https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL) | [Xavier Boyer](https://open.spotify.com/artist/6UxYOpNlzi6CGqEHhwbvWJ) | [Stockholm Syndrome](https://open.spotify.com/album/7EwDQOoi10XXX5p1FMgYoB) | 2:51 |
 | 68 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 |
-| 69 | [1982 \- English Version](https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Solide Mirage \(Deluxe Edition\)](https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm) | 3:23 |
-| 70 | [The Beginning](https://open.spotify.com/track/0eeIwG0vTlzUpkpeKA4MuK) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [The Beginning](https://open.spotify.com/album/12HDa5GkLlZz5d32yATbwz) | 3:44 |
+| 69 | [The Beginning](https://open.spotify.com/track/0eeIwG0vTlzUpkpeKA4MuK) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [The Beginning](https://open.spotify.com/album/12HDa5GkLlZz5d32yATbwz) | 3:44 |
+| 70 | [1982 \- English Version](https://open.spotify.com/track/2Ie97IBGl60vzZLW9sGdEX) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Solide Mirage \(Deluxe Edition\)](https://open.spotify.com/album/6HaBOjiaLf9AGtLIWR5SGm) | 3:23 |
 | 71 | [So Real](https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8) | [Sage](https://open.spotify.com/artist/5dDQASlR9FyeP4VO0jw35F) | [Paint Myself](https://open.spotify.com/album/4BhK7NpYuRvOVfbDIxpDZp) | 2:57 |
 | 72 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
 | 73 | [Deeply](https://open.spotify.com/track/4zIpKhIGG2p9uJgyvthVxQ) | [Meryem Aboulouafa](https://open.spotify.com/artist/5h7TI4XI3fjCiG5MHJMyO0) | [Meryem](https://open.spotify.com/album/2a7C1v4N081yIZf0ZTVhnu) | 3:21 |

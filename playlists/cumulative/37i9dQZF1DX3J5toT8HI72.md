@@ -4,7 +4,7 @@
 
 > essa é pros apaixonados
 
-166 songs - 9 hr 54 min
+167 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Corpo e Colo](https://open.spotify.com/track/3wTlM0XPUEm7Op1d4OgNME) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Novela](https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd) | 2:46 | 2024-06-07 |  |
 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 | 2023-12-11 |  |
 | [Cosquinha No Coração \- Ao Vivo](https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 3:13 | 2023-06-09 |  |
-| [Dança Comigo](https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Nanda](https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL) | [Dança Comigo](https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc) | 1:22 | 2024-05-31 |  |
+| [Dança Comigo](https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Nanda](https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL) | [Dança Comigo](https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc) | 1:22 | 2024-05-31 | 2024-07-19 |
 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 | 2021-09-03 | 2024-07-06 |
 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 | 2021-09-03 |  |
 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 | 2021-09-03 |  |
@@ -172,6 +172,7 @@
 | [XO](https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:35 | 2023-06-09 | 2023-10-07 |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-06-09 |  |
 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2023-08-04 | 2024-07-06 |
+| [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-19 |  |
 | [É Isso Aí \(The Blower'S Daughter\)](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 | 2023-06-09 |  |
 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 | 2024-07-05 |  |
 

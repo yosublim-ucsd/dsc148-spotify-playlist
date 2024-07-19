@@ -4,7 +4,7 @@
 
 > These are Warren Zeiders' Country Music Essentials for summer of 2024, all in one playlist! Get the BBQ going, the drinks out and listen below!
 
-207 songs - 13 hr 3 min
+208 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/4moXVLw4YS7tVNmjs8v60A) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/14IYDXybb1XKu51QHDryak) | 3:59 | 2022-05-05 | 2024-07-05 |
 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 | 2024-07-03 |  |
 | [Darlin'](https://open.spotify.com/track/727x6SZXGF0LfU2vi3rjaH) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [We All Grow Up](https://open.spotify.com/album/1XXkk3jAPfmW5jyRbRON7x) | 2:45 | 2024-07-03 |  |
+| [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dead End Road \(From Twisters: The Album\)](https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF) | 2:32 | 2024-07-18 |  |
 | [December, 1963 \(Oh, What a Night\)](https://open.spotify.com/track/4nuPrKithHbRJXuA9spwu4) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [December, 1963 \(Oh, What a Night\) / Slip Away](https://open.spotify.com/album/1cpPUXM8H8059n6B9Nm46c) | 3:21 | 2023-02-17 | 2024-07-05 |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-07-03 |  |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-12 |  |

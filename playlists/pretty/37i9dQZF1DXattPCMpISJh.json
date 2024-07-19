@@ -1,6 +1,6 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 123284,
+  "num_followers": 123365,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "ZpCqQAAAAADItukF8OPQ1bITvTSVbLhv",
   "tracks": [
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Don't Stop the Music",
+        "url": "https://open.spotify.com/album/37btLTfYfICMHtHC6q7smj"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Don't Stop the Music",
+      "url": "https://open.spotify.com/track/3FN9upQKJEZfxCSd34jMN3"
+    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {

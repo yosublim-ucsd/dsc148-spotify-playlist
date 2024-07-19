@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Moment",
+        "url": "https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5"
+      },
+      "artists": [
+        {
+          "name": "Claudia Schumann",
+          "url": "https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149183,
+      "name": "Beautiful Moment",
+      "url": "https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN"
+    },
+    {
+      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
       },
@@ -8172,7 +8190,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 120926,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9"
@@ -8572,6 +8590,24 @@
       "duration_ms": 148985,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
+    },
+    {
+      "album": {
+        "name": "Replenish",
+        "url": "https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf"
+      },
+      "artists": [
+        {
+          "name": "Jack Ame",
+          "url": "https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Replenish",
+      "url": "https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp"
     },
     {
       "album": {
@@ -10048,7 +10084,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166749,
       "name": "Synchronicities",
       "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"

@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Anggi Marito, Andi Rianto
+> Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: For Revenge
 
-178 songs - 11 hr 50 min
+181 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aku Mengerti \(Prologue Version\)](https://open.spotify.com/track/3ps6Y7PHQ9rh6HbHnu0IFd) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:45 | 2024-01-26 | 2024-05-03 |
 | [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 |  |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 |  |
+| [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-07-18 |  |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2024-01-26 | 2024-03-22 |
 | [Bagaimana Kabarmu?](https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Bagaimana Kabarmu?](https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq) | 4:25 | 2024-05-09 | 2024-07-12 |
 | [Baik Dan Burukmu](https://open.spotify.com/track/5shoTyhcitiZVNJruRLJZp) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Baik Dan Burukmu](https://open.spotify.com/album/3f2gtgXgCYOLmkPEIMGAPl) | 4:24 | 2024-03-01 | 2024-03-29 |
@@ -46,6 +47,7 @@
 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 | 2024-01-26 | 2024-03-22 |
 | [Dari planet lain](https://open.spotify.com/track/70tp7UndgN0dLcAklTIrPJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Dari planet lain](https://open.spotify.com/album/6hsolRPGQKyTBCRTT30zSn) | 2:49 | 2024-03-07 |  |
 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 | 2024-06-13 |  |
+| [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/2dqYxW1KJNSUrpa8VDtiqt) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 | 2024-07-18 |  |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-03-07 | 2024-05-03 |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/2sD709AK9zRN6SKUmDhGEa) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/31t2Ua284TmIA9ZjgEhQVl) | 4:02 | 2024-02-15 |  |
 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 | 2024-06-20 |  |
@@ -131,6 +133,7 @@
 | [Orang Yang Berbeda](https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Orang Yang Berbeda](https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v) | 4:40 | 2024-04-11 |  |
 | [Pandai Bicara](https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Pandai Bicara](https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2) | 3:54 | 2024-05-16 | 2024-06-07 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-01-26 |  |
+| [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-07-18 |  |
 | [Perisai](https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Perisai](https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ) | 4:00 | 2024-03-01 | 2024-03-29 |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-03 |  |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2024-01-26 | 2024-03-22 |
@@ -185,6 +188,6 @@
 | [Tunggulah Sebentar](https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Bertumbuh](https://open.spotify.com/album/5NsLnUV8d8Ppiwwlr0RRX9) | 4:13 | 2024-02-23 | 2024-07-12 |
 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 | 2024-02-15 |  |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 |  |
-| [⁠Aku Tahu \- Studio Session](https://open.spotify.com/track/5LvEhndTgqBI0o6YrIGA2q) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Waktu Yang Dinanti 4.0 \- Studio Session](https://open.spotify.com/album/2NTmVAJfa9c4VxHYxp2Yks) | 4:07 | 2024-06-27 |  |
+| [⁠Aku Tahu \- Studio Session](https://open.spotify.com/track/5LvEhndTgqBI0o6YrIGA2q) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Waktu Yang Dinanti 4.0 \- Studio Session](https://open.spotify.com/album/2NTmVAJfa9c4VxHYxp2Yks) | 4:07 | 2024-06-27 | 2024-07-19 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

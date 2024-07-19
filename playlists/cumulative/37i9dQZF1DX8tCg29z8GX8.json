@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "HOPE PACK",
+        "url": "https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "BOA ME",
+      "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
+    },
+    {
+      "album": {
         "name": "Bayanni",
         "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -2925,6 +2943,28 @@
     },
     {
       "album": {
+        "name": "Eye Clear",
+        "url": "https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z"
+      },
+      "artists": [
+        {
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        },
+        {
+          "name": "Da Yanney",
+          "url": "https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106290,
+      "name": "Eye Clear",
+      "url": "https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv"
+    },
+    {
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -3276,7 +3316,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195434,
       "name": "Fly Girl (feat. Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
@@ -4645,6 +4685,28 @@
     },
     {
       "album": {
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
+    },
+    {
+      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB"
       },
@@ -4888,7 +4950,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202352,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/4oZcUz0YS5komd8ukoYtyR"
@@ -5820,6 +5882,24 @@
       "duration_ms": 187200,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/2rnggPpQaIIfH2jlAjluqn"
+    },
+    {
+      "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
     },
     {
       "album": {

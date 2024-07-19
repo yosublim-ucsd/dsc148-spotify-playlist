@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Are We Done (feat. DEHAZE)",
+        "url": "https://open.spotify.com/album/53jdD0ThbI5EtTcgHaVE9L"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        },
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Are We Done",
+      "url": "https://open.spotify.com/track/7yHkVKhTkMQVqLpy5ppyHx"
+    },
+    {
+      "album": {
         "name": "Are You Even Sorry",
         "url": "https://open.spotify.com/album/3vYAhAb03cBAIaTJmM9Zj2"
       },

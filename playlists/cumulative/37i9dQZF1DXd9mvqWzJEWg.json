@@ -471,6 +471,32 @@
     },
     {
       "album": {
+        "name": "Busa Ezweni",
+        "url": "https://open.spotify.com/album/6hNk6nByA0dlVqfwhlwri8"
+      },
+      "artists": [
+        {
+          "name": "Still That Combo",
+          "url": "https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Solan",
+          "url": "https://open.spotify.com/artist/76v2ZPpOS3C4t6sMULzqv5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317500,
+      "name": "Busa Ezweni",
+      "url": "https://open.spotify.com/track/6rcrNTfXdHMltviH11A3n5"
+    },
+    {
+      "album": {
         "name": "Buya Nini",
         "url": "https://open.spotify.com/album/6g6Lvgwsx7k0bpMn2l5ngO"
       },
@@ -1070,7 +1096,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 337490,
       "name": "FUTC",
       "url": "https://open.spotify.com/track/2McfasvkHWtG3oZm41YcTS"
@@ -1096,6 +1122,28 @@
       "duration_ms": 379898,
       "name": "Game on",
       "url": "https://open.spotify.com/track/7uALqp940ufTtMB9bf9Azs"
+    },
+    {
+      "album": {
+        "name": "Gqobo",
+        "url": "https://open.spotify.com/album/0APlN72jIhB34xFvZ0XFm9"
+      },
+      "artists": [
+        {
+          "name": "djelectronic",
+          "url": "https://open.spotify.com/artist/1XcF6eGzFx5jNBRymo6mNh"
+        },
+        {
+          "name": "Jobelish",
+          "url": "https://open.spotify.com/artist/1cmn146jHIkm62MxjR9fMA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294661,
+      "name": "Gqobo",
+      "url": "https://open.spotify.com/track/1nmsJ8As5p14FI20KDmhTi"
     },
     {
       "album": {
@@ -3594,7 +3642,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 341399,
       "name": "Triple X",
       "url": "https://open.spotify.com/track/3wKpTCzEvxUIsex3upHWmy"

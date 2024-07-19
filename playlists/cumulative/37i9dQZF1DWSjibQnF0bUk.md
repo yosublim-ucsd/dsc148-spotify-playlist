@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-422 songs - 1 day 0 hr 22 min
+423 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-29 |
 | [Baajo](https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baajo](https://open.spotify.com/album/4Yi1z6QAHnztoLxZqNiDEg) | 2:40 | 2020-12-11 | 2022-06-24 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2023-11-23 |  |
+| [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 | 2024-07-19 |  |
 | [Backside](https://open.spotify.com/track/4NG1th0egF9bbKOGUKvca7) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Backside](https://open.spotify.com/album/5fEsoOUMPpfLxmJTNZTYGo) | 2:23 | 2021-12-09 | 2022-02-03 |
 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 | 2023-09-28 |
 | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/track/6DxaRdAjfbhMk4Hn3bdFqz) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Bad Boy \(feat\. Mayorkun\)](https://open.spotify.com/album/4vrb4l5CjEYXkCTsZkP2go) | 2:49 | 2022-11-25 | 2023-03-04 |
@@ -136,7 +137,7 @@
 | [Fashionista](https://open.spotify.com/track/14EkO3jh52FTjjvnEqCrdA) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr) | [Fashionista](https://open.spotify.com/album/6q7mAqPdWDYevlqWToAwPY) | 3:28 | 2021-03-25 | 2022-01-18 |
 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 | 2021-09-10 | 2022-11-14 |
 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2024-04-19 |  |
-| [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 |  |
+| [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2024-07-19 |
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2021-09-27 | 2024-02-23 |
 | [FEM](https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:22 | 2020-12-11 | 2022-05-12 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-06-09 | 2024-03-20 |

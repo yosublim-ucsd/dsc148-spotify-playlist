@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,014 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,020 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 36 | [FUN](https://open.spotify.com/track/2IkUO4UhrUvVhfy6fGawYe) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [FUN](https://open.spotify.com/album/7MQN91PFTzXHmA4uUukZ4B) | 3:17 |
 | 37 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 |
 | 38 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
-| 39 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
+| 39 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
 | 40 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 41 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
-| 42 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 |
+| 42 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 43 | [Move!](https://open.spotify.com/track/1kVdZkrESvjq6mvVP9bWVa) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [Move!](https://open.spotify.com/album/4yNywLr8yi2JrjiTi7Wdqd) | 3:30 |
-| 44 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
+| 44 | [Nova Flame \~One of the BE:ST\-01 JUNON\~](https://open.spotify.com/track/3BA92nG2AdECdOBsWAfVPo) | [JUNON](https://open.spotify.com/artist/1EWFvN7t1373R3BrGZOLsn) | [Masterplan](https://open.spotify.com/album/58yBNtbNsOEaps6kZW8XhR) | 2:39 |
 | 45 | [New Tomorrow \- JAPANESE ver.](https://open.spotify.com/track/6fyZPL9KBMCoaediH5Vbuf) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [MAKE A FANTASY](https://open.spotify.com/album/5prBWkcBTTD6cRukF1xZsB) | 3:51 |
-| 46 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 |
+| 46 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |
 | 47 | [ブサイ句なLove Song](https://open.spotify.com/track/2sKkEscUrrlKSVnvIWO0VH) | [学芸大青春](https://open.spotify.com/artist/64D6gZuhWsQqJlQ0hA6qGV) | [ブサイ句なLove Song](https://open.spotify.com/album/5rEBcg6jB7FWXIbQaOnRtz) | 4:00 |
 | 48 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 |
 | 49 | [YIN YANG](https://open.spotify.com/track/6Pyq7yHGdS2irt6PMVm1Ml) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [YIN YANG](https://open.spotify.com/album/1gwgMM45BC0DLxTwwLm5pW) | 3:09 |

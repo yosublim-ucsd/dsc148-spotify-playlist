@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-763 songs - 1 day 17 hr 9 min
+764 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [El diablo](https://open.spotify.com/track/1XXlQWDJNOXPocWP8EpSz5) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [Flore](https://open.spotify.com/album/4AUGw6j268jiJ5Tm8ULPSl) | 3:42 | 2021-12-02 | 2022-01-25 |
 | [El Diablo](https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [El Diablo](https://open.spotify.com/album/11XDFJBi3v8KwRRadjEGwS) | 3:23 | 2024-02-23 | 2024-04-19 |
 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 | 2023-02-17 | 2023-08-26 |
-| [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [Violeta Hódar](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 | 2024-07-12 |  |
+| [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [Violeta](https://open.spotify.com/artist/5WXnM4FY7KspNLOtbQE9D3) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 | 2024-07-12 |  |
 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 | 2023-08-25 | 2023-09-30 |
 | [El Rey de la Popola \- Spotify Singles](https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:30 | 2021-12-02 | 2022-01-25 |
 | [El Ride](https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Carlos Macca](https://open.spotify.com/artist/5iDuCXfKMjYai2qvft7KcS) | [El Ride](https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw) | 2:44 | 2023-04-13 | 2023-08-26 |
@@ -490,7 +490,7 @@
 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2022-10-24 | 2023-02-17 |
 | [No Jaló](https://open.spotify.com/track/7FEsK4duqNeeL6AL1mSKRy) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Jaló](https://open.spotify.com/album/51J7uD0c8jhBXKOHdpKqGi) | 2:06 | 2021-12-02 | 2022-01-25 |
-| [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-23 |  |
+| [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-23 | 2024-07-19 |
 | [No me quiere sentir](https://open.spotify.com/track/04BBFsO6u05eEW0mJwclRm) | [Mejiias](https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL), [Joel<3](https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26) | [New Religion](https://open.spotify.com/album/26T8MSvy1QqxoXgQxuIxTH) | 1:43 | 2023-08-04 | 2023-08-26 |
 | [NO ME QUIERO PEGAR](https://open.spotify.com/track/2qr5SkLknb2hb9M94PZF1i) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO ME QUIERO PEGAR](https://open.spotify.com/album/6s15SoE9vTGRftxRb8SJs0) | 2:22 | 2024-01-12 | 2024-03-23 |
 | [No Necesito](https://open.spotify.com/track/2xyyyQRwvw8oVo5nKiBNh4) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [No Necesito](https://open.spotify.com/album/2vJrccNi8aJxBdwHVmpNQw) | 3:04 | 2021-12-02 | 2022-01-25 |
@@ -638,6 +638,7 @@
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-09-06 | 2023-02-17 |
 | [Sola](https://open.spotify.com/track/52LsiDJXROMrUGE5tMyXk9) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/0QacFILmEvKSWaGLTqV546) | 3:18 | 2022-01-28 | 2022-10-13 |
 | [SOLA CON LA LUNA](https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [SOLA CON LA LUNA](https://open.spotify.com/album/7Hk2BhlBYVd4NopkQbLamP) | 3:52 | 2024-05-24 |  |
+| [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 | 2024-07-19 |  |
 | [Solo Tu](https://open.spotify.com/track/2DXJ3zARm8DQCYYIRA1BEM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/67LhYiGtxWU8v9cWeN6bwR) | 2:46 | 2023-06-30 | 2023-08-26 |
 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-22 | 2023-09-30 |
 | [Someone Like You](https://open.spotify.com/track/413GLSu7A62MzPv3lYh6Kt) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Someone Like You](https://open.spotify.com/album/4BdRh4BDrt51Igtk0bPIKs) | 2:52 | 2022-04-19 | 2022-07-28 |

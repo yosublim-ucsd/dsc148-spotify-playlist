@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,583 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,767 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 20 | [DON'T LET THE DEVIL \(feat\. thankugoodsir\)](https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 2:45 |
 | 21 | [Seaforth](https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 4:05 |
 | 22 | [AVVISO](https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 3:03 |
-| 23 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
-| 24 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
+| 23 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
+| 24 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 |
 | 25 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 26 | [1,2 & Mer](https://open.spotify.com/track/6nphe8z73s7ijdY5Bxy5fk) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [1,2 & Mer](https://open.spotify.com/album/60DB6Bg7sM4QjHsCV0ZBdF) | 2:37 |
 | 27 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 92 | [Pemmican](https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh) | [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ), [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg) | [Pemmican](https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV) | 3:32 |
 | 93 | [Pinking Shears](https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF) | [Mandy, Indiana](https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u) | [Pinking Shears](https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK) | 2:32 |
 | 94 | [Soul Capturer](https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 6:08 |
-| 95 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 |
-| 96 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
+| 95 | [Get It](https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19) | 1:53 |
+| 96 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 |
 | 97 | [Absolutely Tidy](https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1) | [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu), [Pitch 92](https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Absolutely Tidy](https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl) | 2:51 |
 | 98 | [THAT GIRL](https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE) | 2:05 |
 | 99 | [EYELIDS](https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2), [Cole Bleu](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [EYELIDS](https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp) | 2:06 |

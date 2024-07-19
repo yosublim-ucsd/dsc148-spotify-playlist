@@ -2,7 +2,7 @@
 
 ### [Spotlight: The Juggernaut](https://open.spotify.com/playlist/37i9dQZF1DWWxJ7o7YYYQA)
 
-> Celebrate the South Asian Heritage Month with a vibrant playlist by The Juggernaut, dedicated to the powerful South Asian women\. Cover: Joy Crookes
+> Celebrate SAHM with a vibrant playlist by The Juggernaut, dedicated to powerful South Asian women\. Cover: Joy Crookes
 
 77 songs - 5 hr 29 min
 

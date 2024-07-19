@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "These are the talented women of Latin music. Cover: Yami Safdie",
+  "description": "These are the talented women of Latin music. Cover: Gloria Trevi & Maria Becerra",
   "name": "Women of Latin",
   "tracks": [
     {
@@ -856,6 +856,28 @@
       "duration_ms": 225240,
       "name": "Bolero Falaz",
       "url": "https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G"
+    },
+    {
+      "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2tnZnrvRjcaRsdc2JTGKY6"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137131,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
     },
     {
       "album": {
@@ -5102,7 +5124,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
@@ -6312,7 +6334,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
@@ -6588,6 +6610,24 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU"

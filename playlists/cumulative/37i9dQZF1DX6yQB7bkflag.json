@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Rendy Pandugo",
+  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Jimin",
   "name": "Pop Rising Indonesia",
   "tracks": [
+    {
+      "album": {
+        "name": "15 MINUTES",
+        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189192,
+      "name": "15 MINUTES",
+      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
     {
       "album": {
         "name": "24",
@@ -88,7 +106,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154936,
       "name": "4 foot 2",
       "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
@@ -467,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "album": {
         "name": "Another Heartbreak",
         "url": "https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu"
       },
@@ -662,7 +698,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185272,
       "name": "bad emotions",
       "url": "https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m"
@@ -1215,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "BLACKONBLACK FREESTYLE",
+        "url": "https://open.spotify.com/album/50KXBmUr5mJqP3gGYOiS6h"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133489,
+      "name": "BLACKONBLACK FREESTYLE",
+      "url": "https://open.spotify.com/track/2MjkZXFRPsNNOxDTztFiL8"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
       },
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164783,
       "name": "Casper",
       "url": "https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s"
@@ -1850,6 +1904,24 @@
       "duration_ms": 175461,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
     },
     {
       "album": {
@@ -2104,7 +2176,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212631,
       "name": "COMMUNICATE (feat. Jevin Julian)",
       "url": "https://open.spotify.com/track/4kj39oq6LXxu4FgJg8bHT0"
@@ -2429,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
+    },
+    {
+      "album": {
         "name": "Delusion:All",
         "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
@@ -2466,6 +2556,28 @@
       "duration_ms": 149155,
       "name": "delusional love",
       "url": "https://open.spotify.com/track/7iN4YBqCJidMv7Wz8lCadp"
+    },
+    {
+      "album": {
+        "name": "Dendam",
+        "url": "https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        },
+        {
+          "name": "Sansan",
+          "url": "https://open.spotify.com/artist/2dqYxW1KJNSUrpa8VDtiqt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Dendam",
+      "url": "https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL"
     },
     {
       "album": {
@@ -3428,7 +3540,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -3583,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237535,
+      "name": "Guitar Song",
+      "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
+    },
+    {
+      "album": {
         "name": "HAHAHA",
         "url": "https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI"
       },
@@ -3706,7 +3836,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170485,
       "name": "Haymaker",
       "url": "https://open.spotify.com/track/07qmzofBow9aB4raGOafDz"
@@ -3836,7 +3966,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192862,
       "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
       "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
@@ -4056,7 +4186,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
@@ -4715,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Inilah Aku",
+        "url": "https://open.spotify.com/album/4Yperg2ZMakj5QOvl2aFeQ"
+      },
+      "artists": [
+        {
+          "name": "Good Morning Everyone",
+          "url": "https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270029,
+      "name": "Inilah Aku",
+      "url": "https://open.spotify.com/track/1oIpWiJzhBLBEXEkmjPdvZ"
+    },
+    {
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
@@ -4882,6 +5030,24 @@
       "duration_ms": 254337,
       "name": "Itu Aku - Spotify Singles",
       "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
+    },
+    {
+      "album": {
+        "name": "Jadikan Aku Yang Kedua",
+        "url": "https://open.spotify.com/album/2QXZh0ONgicCZHSloy6t2M"
+      },
+      "artists": [
+        {
+          "name": "Alessa",
+          "url": "https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244477,
+      "name": "Jadikan Aku Yang Kedua",
+      "url": "https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n"
     },
     {
       "album": {
@@ -5302,7 +5468,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217256,
       "name": "Kembalikanku - Live Version",
       "url": "https://open.spotify.com/track/1GuG1Ia8Uubd2cdJnlA08n"
@@ -7214,7 +7380,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
@@ -7272,7 +7438,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194000,
       "name": "Nothing To Miss",
       "url": "https://open.spotify.com/track/0TvFEvuJJtOgCldWnvdT3p"
@@ -7352,7 +7518,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170679,
       "name": "Oh! All My Love (From \"Alpha Girls\")",
       "url": "https://open.spotify.com/track/1iKxiW2Y9dlpHdGXvvuGpi"
@@ -7464,6 +7630,24 @@
       "duration_ms": 183559,
       "name": "ONE SPARK",
       "url": "https://open.spotify.com/track/7cIn67LEvk16v6komC8znS"
+    },
+    {
+      "album": {
+        "name": "Open Always Wins",
+        "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Open Always Wins",
+      "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
     },
     {
       "album": {
@@ -7664,6 +7848,42 @@
       "duration_ms": 238811,
       "name": "Penikmat Senyummu",
       "url": "https://open.spotify.com/track/2Gu8EMg6OLhnCP5is8G5R2"
+    },
+    {
+      "album": {
+        "name": "Pentas Sandiwara",
+        "url": "https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244615,
+      "name": "Pentas Sandiwara",
+      "url": "https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt"
+    },
+    {
+      "album": {
+        "name": "Penyangkalan",
+        "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240607,
+      "name": "Penyangkalan",
+      "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
     },
     {
       "album": {
@@ -9059,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255636,
+      "name": "Show Pony",
+      "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw"
       },
@@ -9190,7 +9428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204962,
       "name": "Sinners",
       "url": "https://open.spotify.com/track/6nExxTqLbu86aatoDqCafi"
@@ -10780,7 +11018,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224000,
       "name": "Time",
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
@@ -11226,7 +11464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166706,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
@@ -11248,6 +11486,24 @@
       "duration_ms": 256573,
       "name": "Waktu Untuk Bicara",
       "url": "https://open.spotify.com/track/7LS4TvGDTt7G5BYSeyq8mq"
+    },
+    {
+      "album": {
+        "name": "WALK - The 6th Album",
+        "url": "https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw"
     },
     {
       "album": {
@@ -11462,6 +11718,24 @@
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "album": {

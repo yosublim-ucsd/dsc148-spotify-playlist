@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-191 songs - 10 hr 57 min
+192 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Guys Do It All the Time](https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF) | [Mindy McCready](https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO) | [Ten Thousand Angels](https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F) | 3:11 | 2022-02-19 |  |
 | [He Thinks He'll Keep Her](https://open.spotify.com/track/7zV7ij696h7hsLqFNpXPz2) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Come On Come On](https://open.spotify.com/album/1PLDejXS69FJQ19iwzEPvY) | 4:01 | 2022-05-13 | 2022-07-29 |
 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 | 2022-02-17 |  |
-| [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 | 2022-02-17 |  |
+| [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 | 2022-02-17 | 2024-07-19 |
 | [Highway Like Me \(feat\. Marcus King\)](https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 4:30 | 2022-02-17 | 2022-03-26 |
 | [Honky Talkin'](https://open.spotify.com/track/2NI2N5wNrpyRnRNiZVJySM) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honky Talkin'](https://open.spotify.com/album/14PnVtU21kgvHQoSWGaceV) | 2:53 | 2023-05-26 | 2023-06-06 |
 | [Honky Tonk Land](https://open.spotify.com/track/3GkSLx4Sfv9XB6NpxOnd80) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Honky Tonk Land](https://open.spotify.com/album/5faF1UVFN3ErXhkOiXoz6T) | 2:56 | 2022-07-01 | 2022-07-06 |
@@ -107,6 +107,7 @@
 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 | 2022-05-13 |  |
 | [Me on You](https://open.spotify.com/track/68yrOD2q0Chbbd5BEsj7aM) | [Josh Kiser](https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV) | [When Country Was](https://open.spotify.com/album/349YKa9ysD4XZMzhJJCYjJ) | 3:16 | 2022-04-08 | 2022-07-25 |
 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 | 2022-02-17 |  |
+| [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-18 |  |
 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 | 2022-07-22 | 2023-08-05 |
 | [My Kinda Trouble](https://open.spotify.com/track/26DQPEXZJNwU5Qiite8NxW) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 2:37 | 2022-02-19 | 2022-05-17 |
 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 | 2022-02-17 |  |

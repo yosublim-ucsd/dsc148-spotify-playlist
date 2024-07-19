@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-312 songs - 22 hr 42 min
+313 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Peter](https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq) | 3:57 | 2023-03-31 | 2024-04-19 |
 | [Phases](https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Phases](https://open.spotify.com/album/608DP618oad2ENr4JzaYdT) | 3:09 | 2022-10-28 | 2023-03-14 |
 | [Phosphenes](https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4) | [Sam Thompson](https://open.spotify.com/artist/6SL5UTNnsI4It0HdLqq2TV) | [As Now the Light Retreats](https://open.spotify.com/album/0xbyQ12QWk7PFgiXjOfVD7) | 4:09 | 2021-12-10 |  |
+| [Piano Sonata 'Accents & Echoes' III\. Intermezzo](https://open.spotify.com/track/2dKwP5NWO78aYC2b8b1g53) | [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 6:17 | 2024-07-12 |  |
 | [Pièces froides: II\. Danses de travers, 2\. Passer \- TWO LANES Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Pièces froides: II\. Danses de travers, 2\. Passer \[TWO LANES Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh) | 5:35 | 2021-12-10 |  |
 | [Poly \(and 74 musicians\)](https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn), [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Orchestre national des Pays de la Loire](https://open.spotify.com/artist/1i7fbBvtzozXObZKcL6sGH) | [Poly \(and 74 musicians\)](https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW) | 4:20 | 2023-06-30 |  |
 | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/track/2AuxT9fsyDo1LtUPFiFNY1) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Prayer \(Ben Lukas Boysen Rework\)](https://open.spotify.com/album/5Mb60mwLpAHBFqoDWfLpgS) | 5:52 | 2021-12-10 |  |
@@ -293,7 +294,7 @@
 | [Traveller \- Lambert rework](https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha) | [Josin](https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW), [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Traveller \(Lambert rework\)](https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql) | 3:20 | 2022-10-07 |  |
 | [Trouble](https://open.spotify.com/track/7w5O56SCgNMVt9O9CsO1FV) | [Lissom](https://open.spotify.com/artist/5BRxWwvhe1BxvK6fs4V0dx), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Trouble](https://open.spotify.com/album/5vCMVucMnkg9OMZ46TD6o2) | 2:56 | 2022-03-25 | 2022-04-21 |
 | [Unity \- Mike Lazarev CrO2 Reduction](https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9) | [Diana Yukawa](https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7), [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Unity \(Mike Lazarev CrO2 Reduction\)](https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR) | 3:50 | 2023-06-30 |  |
-| [Universal Kiss](https://open.spotify.com/track/407KvBaY2r2ctmZpY1KufZ) | [Benedikt Schiefer](https://open.spotify.com/artist/4OaysEYNmI6UIEkyplEcNH) | [Universal Kiss](https://open.spotify.com/album/7DARwzaOmIIiVJUSzNdXWt) | 9:18 | 2022-01-07 |  |
+| [Universal Kiss](https://open.spotify.com/track/407KvBaY2r2ctmZpY1KufZ) | [Benedikt Schiefer](https://open.spotify.com/artist/4OaysEYNmI6UIEkyplEcNH) | [Universal Kiss](https://open.spotify.com/album/7DARwzaOmIIiVJUSzNdXWt) | 9:18 | 2022-01-07 | 2024-07-19 |
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2021-12-10 | 2022-03-31 |
 | [Vale](https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/0rhtrkctOlgmZkAX44BaGN) | 6:28 | 2021-12-10 | 2022-07-22 |
 | [Vale](https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP) | 6:28 | 2022-07-22 | 2024-04-19 |

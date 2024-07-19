@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Buttercup",
+        "url": "https://open.spotify.com/album/0Q3YP5gmFJMQO2HqL3Becv"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nljus",
+          "url": "https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98793,
+      "name": "Buttercup",
+      "url": "https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11"
+    },
+    {
+      "album": {
         "name": "Butterflies In My Stomach",
         "url": "https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL"
       },
@@ -2882,6 +2900,24 @@
       "duration_ms": 119708,
       "name": "First Day Of School",
       "url": "https://open.spotify.com/track/3fNr7Xp74gVlpL6Dg0RErN"
+    },
+    {
+      "album": {
+        "name": "First Day of Summer",
+        "url": "https://open.spotify.com/album/05ySHCSNG8JXHPOQHMl6YK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Montague",
+          "url": "https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95456,
+      "name": "First Day of Summer",
+      "url": "https://open.spotify.com/track/4UcTJhrPdOxRyFzupm95bi"
     },
     {
       "album": {
@@ -4815,6 +4851,24 @@
     },
     {
       "album": {
+        "name": "Itsy, Bitsy, Spider",
+        "url": "https://open.spotify.com/album/7BAoh1fA9fXuc1Rt6HEKoB"
+      },
+      "artists": [
+        {
+          "name": "Ella Grayce",
+          "url": "https://open.spotify.com/artist/0xlgMD86mCmI7gBsW2V94o"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Itsy, Bitsy, Spider",
+      "url": "https://open.spotify.com/track/6TPoXdkGtObr0WUQiwoLlF"
+    },
+    {
+      "album": {
         "name": "I\u2019m A Little Teapot",
         "url": "https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH"
       },
@@ -6608,7 +6662,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 93500,
       "name": "My Secret Wish",
       "url": "https://open.spotify.com/track/5ttv70TBURkZ54Nr2FkFnx"
@@ -7965,6 +8019,24 @@
     },
     {
       "album": {
+        "name": "Sailing on a Banana",
+        "url": "https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0"
+      },
+      "artists": [
+        {
+          "name": "Taylor S Brooks",
+          "url": "https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118031,
+      "name": "Sailing on a Banana",
+      "url": "https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP"
+    },
+    {
+      "album": {
         "name": "Sammy Sleepyhead",
         "url": "https://open.spotify.com/album/4c9DmYa4xe7s70lnBvlCIA"
       },
@@ -9002,7 +9074,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 98000,
       "name": "Sunshine jewel",
       "url": "https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3"

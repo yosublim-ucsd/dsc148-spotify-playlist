@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,180 songs - 6 day 15 hr 39 min
+4,181 songs - 6 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1709,6 +1709,7 @@
 | [Inverno No Brasil](https://open.spotify.com/track/7A0iOjOIYP3nlVE8lyXNfH) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Inverno no Brasil](https://open.spotify.com/album/0nPGBKDa3VuLTcAuafVSw3) | 2:31 | 2020-12-04 | 2021-03-06 |
 | [Inzomnia](https://open.spotify.com/track/0IxpphiJ5e97iXzAhcZcc8) | [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Inzomnia](https://open.spotify.com/album/4mxjXF8aY0kHQTkrP2BwIW) | 1:58 | 2020-06-19 | 2020-08-24 |
 | [Ipanema](https://open.spotify.com/track/26WyjIMi1inEJFD6L0LBwJ) | [Philippe Guérin](https://open.spotify.com/artist/16RkHEikBsa8Gaymi0mnmf), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Beats Vol.1](https://open.spotify.com/album/3DXRpwOZ68lh9JtQ1DwffM) | 2:11 | 2020-11-06 | 2021-02-12 |
+| [Ipanema Beach](https://open.spotify.com/track/7JI0fIBufAbf5TDK6rHa7E) | [Alto](https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r), [Abricot](https://open.spotify.com/artist/3g1NWK6jzmo2TqQe019RGC), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Ipanema Beach](https://open.spotify.com/album/7xDqoaEzlHS76tSHT6xu8l) | 2:05 | 2024-07-04 |  |
 | [Is That U](https://open.spotify.com/track/4fczRyXzWSfOauj5AeJDMh) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Is That U](https://open.spotify.com/album/1mXOy4NLoDEFpXixwHRpv8) | 2:42 | 2021-09-04 | 2021-10-16 |
 | [is this what you wanted?](https://open.spotify.com/track/2fxnPyJ51cd22NtgQQjhvs) | [fragile.](https://open.spotify.com/artist/56T4hcGsTZdoupV4ER1q8A) | [is this what you wanted?](https://open.spotify.com/album/3LsTHIlmNsCVCo4BXr2jEM) | 1:40 | 2019-05-26\* | 2019-08-13 |
 | [ISA](https://open.spotify.com/track/05qjYyjniY9UeRTAFp6cWc) | [Wyl](https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Lukas Wilmsmeyer](https://open.spotify.com/artist/3LYMmlImII8FtmGZvZxdvv) | [ISA](https://open.spotify.com/album/1B984x7kd6d6zNHlIM89M2) | 5:11 | 2020-09-26 | 2021-02-16 |
@@ -2650,7 +2651,7 @@
 | [oscarto](https://open.spotify.com/track/1CEEgJrmLuKDSm6pt7sXok) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 5](https://open.spotify.com/album/1jbN4bYY8ZX7FpkBn49FlG) | 1:36 | 2021-01-17 | 2021-03-14 |
 | [Osloer Straße \- Instrumental](https://open.spotify.com/track/3ESyOoe4nT5sEBGiKHOROZ) | [Galv](https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Shigeo \- Instrumentals](https://open.spotify.com/album/7sNPCxItzNTviUXCiGQymE) | 1:56 | 2019-08-10 | 2019-11-15 |
 | [othello](https://open.spotify.com/track/5cB5hyrP15gtkFp0JVeiNd) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [othello](https://open.spotify.com/album/6cV8TkMfuzCKFOOYkjIvhi) | 3:01 | 2020-04-24 | 2020-07-01 |
-| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 |  |
+| [Otters](https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Otters](https://open.spotify.com/album/72CicGuIXlZpVJUIkcTNPE) | 1:53 | 2023-09-14 | 2024-07-19 |
 | [Our Little Dilemma](https://open.spotify.com/track/56hqH6z2CU6G8NbVvVXAb2) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Our Little Dilemma](https://open.spotify.com/album/1oG7Rrh028vORF4dYs0GRI) | 3:22 | 2021-03-14 | 2021-05-21 |
 | [Out for a Stroll](https://open.spotify.com/track/36Foss260ItalU4rLJhYks) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Journey](https://open.spotify.com/album/0Y89JuEUKr68HwH9XDEmFA) | 3:42 | 2022-11-17 | 2022-12-24 |
 | [Out for a Stroll](https://open.spotify.com/track/52uThjP5ZMRijeBTKUMUkS) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Out for a Stroll](https://open.spotify.com/album/0LGnwyI6nxYH6ZHbyYtoDZ) | 3:42 | 2021-07-16 | 2022-11-20 |

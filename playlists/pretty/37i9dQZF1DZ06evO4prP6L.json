@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16244,
+  "num_followers": 16247,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAC8KIuR8Ql2mPGKwUfsumX6",
+  "snapshot_id": "ZpcJgAAAAACismw0CTsvRIUiAvZgyCwS",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 260426,
+      "name": "Electric Rodeo - Remastered 2017",
+      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 254800,
       "name": "'Cause I'm Country - Remastered 2017",
       "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 260426,
-      "name": "Electric Rodeo - Remastered 2017",
-      "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,

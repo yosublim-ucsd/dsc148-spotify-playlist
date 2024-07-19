@@ -1,12 +1,12 @@
 {
-  "description": "This Is George Michael. Los temas esenciales, todos en una lista.",
-  "num_followers": 570074,
+  "description": "This is George Michael. The essential tracks, all in one playlist.",
+  "num_followers": 570174,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAACt78DT5uzSkWIrHfPrAWm",
+  "snapshot_id": "ZpcJgAAAAACQN6tZCjYdP3SixevIXY2/",
   "tracks": [
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 280973,
-      "name": "Praying for Time - Remastered",
-      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "You Have Been Loved",
-      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/6khoye7kysa6cLGY0AO9dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 289986,
       "name": "Waiting for That Day - Remastered",
       "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/6khoye7kysa6cLGY0AO9dO"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 283426,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -395,6 +363,22 @@
       "duration_ms": 201135,
       "name": "Desafinado (with Astrud Gilberto)",
       "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 283426,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
     },
     {
       "added_at": null,
@@ -743,86 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirito Italiano",
-        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Eurythmics",
-          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
-        },
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        },
-        {
-          "name": "Irene Grandi",
-          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
-        },
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        },
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        },
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Ars Canto G. Verdi",
-          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
-        },
-        {
-          "name": "Cambodian And Tibetan Children's Choir",
-          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
-        },
-        {
-          "name": "Orchestra Sinfonica Italiana",
-          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
-        },
-        {
-          "name": "Jos\u00e9 Molina",
-          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -839,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 309821,
+      "name": "Through - Live",
+      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -851,6 +771,38 @@
       "duration_ms": 159546,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Something to Save - Remastered",
+      "url": "https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 306551,
+      "name": "They Won't Go When I Go - Remastered",
+      "url": "https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv"
     },
     {
       "added_at": null,
@@ -883,22 +835,6 @@
       "duration_ms": 263573,
       "name": "John and Elvis Are Dead",
       "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 306551,
-      "name": "They Won't Go When I Go - Remastered",
-      "url": "https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv"
     },
     {
       "added_at": null,

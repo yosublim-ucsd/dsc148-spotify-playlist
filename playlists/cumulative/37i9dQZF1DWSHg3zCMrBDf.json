@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: King Promise",
+  "description": "The hottest tracks in Ghana. Cover: King Paluuta",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150000,
       "name": "Into The Future",
       "url": "https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1"
@@ -2784,6 +2784,28 @@
       "duration_ms": 209235,
       "name": "Jolie",
       "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "album": {
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
     },
     {
       "album": {
@@ -3287,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
+    },
+    {
+      "album": {
         "name": "MAALI",
         "url": "https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N"
       },
@@ -3316,7 +3356,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"

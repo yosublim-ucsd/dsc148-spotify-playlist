@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 64 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
 | 65 | [Lost in Life](https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Lost in Life](https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X) | 4:25 |
 | 66 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 |
-| 67 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
-| 68 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 |
+| 67 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 |
+| 68 | [Easy 4 U](https://open.spotify.com/track/4QkvtJ1oZBDtZnM3dM4zyJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:30 |
 | 69 | [Jacuzzi \- Jean Tonique Remix](https://open.spotify.com/track/0zk11BkmpJhaOqGtUhUpOJ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 2:57 |
 | 70 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
 | 71 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 108 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 109 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbW99AAAAACVfXvXCtpcHqjzNOAPQ5Rt`
+Snapshot ID: `AbXE/AAAAADDNDyb+Wy/SvabC/OO3vW0`

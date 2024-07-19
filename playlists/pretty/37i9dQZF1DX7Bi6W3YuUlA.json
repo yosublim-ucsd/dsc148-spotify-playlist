@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 45891,
+  "num_followers": 45964,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Real Talk",
         "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
       },
@@ -539,22 +519,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "ME VS ME",
-        "url": "https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28"
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
       "artists": [
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
         },
         {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
         }
       ],
-      "duration_ms": 189116,
-      "name": "ME VS ME",
-      "url": "https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq"
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -575,6 +555,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "ME VS ME",
+        "url": "https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        },
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 189116,
+      "name": "ME VS ME",
+      "url": "https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Main",
         "url": "https://open.spotify.com/album/7MBZXqvG8VyUt6FV5Bnd4M"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 168750,
       "name": "Main",
       "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "HELLO KIZZY & COMPANY",
-        "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
-      },
-      "artists": [
-        {
-          "name": "Not Klyde",
-          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "REST",
-      "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -627,6 +607,26 @@
       "duration_ms": 176470,
       "name": "Working it out",
       "url": "https://open.spotify.com/track/7ntAFhTGZ8DLdM26HDHrHc"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "HELLO KIZZY & COMPANY",
+        "url": "https://open.spotify.com/album/6b3OghSed7wxLlejTFZKdO"
+      },
+      "artists": [
+        {
+          "name": "Not Klyde",
+          "url": "https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "REST",
+      "url": "https://open.spotify.com/track/0d0NpcKaUHchHs4sFYemL8"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "TIGHTROPE",
         "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 184000,
       "name": "TIGHTROPE",
       "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
+      },
+      "artists": [
+        {
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 149213,
       "name": "Holy",
       "url": "https://open.spotify.com/track/5BiDQrKv72yjGNB0zUSBwO"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
-      },
-      "artists": [
-        {
-          "name": "Dreamers",
-          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "That's What Happens",
-      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Grind (feat. Kaleb Mitchell)",
         "url": "https://open.spotify.com/album/23zxLb7w5htCeR3xTolpFk"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 188443,
       "name": "Very Original",
       "url": "https://open.spotify.com/track/5qbzWsGFJ6zLDTim11yaLa"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
+      },
+      "artists": [
+        {
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "That's What Happens",
+      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "POSSIBLE",
-        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
-      },
-      "artists": [
-        {
-          "name": "Ngoga",
-          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "POSSIBLE",
-      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Everybody Else",
         "url": "https://open.spotify.com/album/4llvRXqnBnQ9JQJpAqxlnA"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 211636,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "POSSIBLE",
+        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
+      },
+      "artists": [
+        {
+          "name": "Ngoga",
+          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "POSSIBLE",
+      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
     },
     {
       "added_at": "2024-06-28 07:29:32",

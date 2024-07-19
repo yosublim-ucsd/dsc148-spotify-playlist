@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 53040,
+  "num_followers": 53086,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
+        "name": "Private Room",
+        "url": "https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL"
+      },
+      "artists": [
+        {
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
         "name": "Don\u2019t Stop (feat. Young Thug)",
         "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 187940,
       "name": "Don\u2019t Stop (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
-        "name": "Private Room",
-        "url": "https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL"
-      },
-      "artists": [
-        {
-          "name": "Avant",
-          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo"
     },
     {
       "added_at": "2022-10-01 16:21:24",

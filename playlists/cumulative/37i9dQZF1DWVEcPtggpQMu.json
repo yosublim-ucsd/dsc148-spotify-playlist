@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/4soClpNcOWakO9h9nbUBQX?si=1Kv0k2jFRGW0VyIp6q_tHg\">Yung Tyran</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e?si=4AdLCG8PTQS58TRe5EHweA\">K.Keed</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -11392,17 +11392,13 @@
         {
           "name": "Blxckie",
           "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Beau Nox",
-          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
         }
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152865,
-      "name": "pull up (feat. Beau Nox)",
+      "name": "pull up",
       "url": "https://open.spotify.com/track/3MmjrGFXBANeOJuMpGgKeG"
     },
     {
@@ -16936,6 +16932,28 @@
       "duration_ms": 165451,
       "name": "Ye x4",
       "url": "https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb"
+    },
+    {
+      "album": {
+        "name": "Year 24",
+        "url": "https://open.spotify.com/album/0Z1s1zNLmgxefGwmalRsR3"
+      },
+      "artists": [
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196624,
+      "name": "Year 24",
+      "url": "https://open.spotify.com/track/1lYUZRJQCMQRqZZeVi2bdk"
     },
     {
       "album": {

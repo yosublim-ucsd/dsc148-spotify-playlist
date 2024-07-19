@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- Bali & Fotty Seven
+> India's Rap Scene\. Cover\- MC Square
 
-177 songs - 9 hr 53 min
+178 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-18 | 2024-03-23 |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2023-07-07 |  |
 | [CHUSAMBA](https://open.spotify.com/track/73N5AghXPjYtAoS6RIYPZd) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [CHUSAMBA](https://open.spotify.com/album/7CQ4iAL3oD3jZ4nbUqjLgt) | 3:13 | 2023-03-27 | 2023-09-02 |
-| [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 | 2023-03-27 |  |
+| [City Slums \(feat\. DIVINE\)](https://open.spotify.com/track/6xzQ1uSk2Rzz6Xdf8xBnWn) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [City Slums \(feat\. DIVINE\)](https://open.spotify.com/album/1grQXv1qJbhubOAYEeIOW6) | 3:47 | 2023-03-27 | 2024-07-19 |
 | [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 | 2023-09-21 |
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-27 |  |
 | [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 | 2023-08-23 | 2023-09-21 |
@@ -140,6 +140,7 @@
 | [Pablo](https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 4:39 | 2023-03-27 | 2023-08-18 |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-03-27 | 2024-04-19 |
 | [Pinnak](https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx) | 6:30 | 2023-03-27 | 2024-07-06 |
+| [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 | 2024-07-19 |  |
 | [Punja Daab](https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Punja Daab](https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s) | 3:34 | 2023-04-12 | 2023-04-20 |
 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 | 2023-04-19 | 2023-12-13 |
 | [Ram Ram](https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:29 | 2023-07-17 | 2024-04-19 |
@@ -165,7 +166,7 @@
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-10-04 |
 | [Sunn Na](https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Sunn Na](https://open.spotify.com/album/7ghJOs6RjHWSl4nuqYi1v8) | 2:51 | 2023-03-27 | 2023-08-18 |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 | 2023-10-27 |
-| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 |  |
+| [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2024-07-19 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 | 2024-07-06 |
 | [Thehra](https://open.spotify.com/track/5OwAx0hZV7rNGYRR7ILQvh) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [Thehra](https://open.spotify.com/album/511wcTtnR6shsUf6CFiwOd) | 2:22 | 2024-03-22 | 2024-04-09 |
 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 | 2024-06-07 |  |

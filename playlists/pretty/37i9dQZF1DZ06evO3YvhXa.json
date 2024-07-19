@@ -1,29 +1,13 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 390534,
+  "num_followers": 390647,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABWML+CEfxTapHUCIzF39lP",
+  "snapshot_id": "ZpcJgAAAAABoXSBy4boztZYc+B9q/t/a",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Driving Songs",
-        "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Virtual Insanity - Remastered 2006",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
-    },
     {
       "added_at": null,
       "album": {
@@ -159,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Everyday - Remastered 2013",
-      "url": "https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 224493,
       "name": "Love Foolosophy - Radio Edit",
       "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Everyday - Remastered 2013",
+      "url": "https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Drifting Along - Remastered 2013",
-      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 215080,
       "name": "All Good In The Hood",
       "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Drifting Along - Remastered 2013",
+      "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
     },
     {
       "added_at": null,

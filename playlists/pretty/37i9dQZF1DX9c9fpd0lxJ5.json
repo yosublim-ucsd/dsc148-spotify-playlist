@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 443417,
+  "num_followers": 443454,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "to lo ke",
+        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
+      },
+      "artists": [
+        {
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "to lo ke",
+      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "ojitos caramelo (Remix)",
         "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 195200,
       "name": "Provincia",
       "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "to lo ke",
-        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
-      },
-      "artists": [
-        {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 166943,
-      "name": "to lo ke",
-      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Acto de Fe",
-        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 169689,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 222634,
       "name": "Levitando Lento",
       "url": "https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Acto de Fe",
+        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 169689,
+      "name": "Acto de Fe",
+      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

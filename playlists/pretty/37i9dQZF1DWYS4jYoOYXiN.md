@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 ### [Boogaloo Essentials](https://open.spotify.com/playlist/37i9dQZF1DWYS4jYoOYXiN)
 
-> We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
+> We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,352 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,392 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [That's How Rumors Start](https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R) | 7:32 |
 | 50 | [It's Not What You Say](https://open.spotify.com/track/2e5coCHCulu84SddM2ripp) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L) | [Ali Baba](https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T) | 2:56 |
 
-Snapshot ID: `ZIsWBwAAAADnvd7h4XtpX/UkcYZIjQSl`
+Snapshot ID: `ZpmB1gAAAABWO/m8krtgIAzOBorn5Ver`

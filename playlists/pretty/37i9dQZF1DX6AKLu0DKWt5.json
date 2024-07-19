@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6371,
+  "num_followers": 6377,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "Slow Horses: Season 1 (ATV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV"
+      },
+      "artists": [
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Strange Game",
+      "url": "https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "John Wick: Chapter 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 103160,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "Slow Horses: Season 1 (ATV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2AjxTLIWa6qnYhylH9xCZV"
-      },
-      "artists": [
-        {
-          "name": "Mick Jagger",
-          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Strange Game",
-      "url": "https://open.spotify.com/track/05TrrXoqoI17WhDCP2mX19"
     },
     {
       "added_at": "2023-12-19 16:37:32",

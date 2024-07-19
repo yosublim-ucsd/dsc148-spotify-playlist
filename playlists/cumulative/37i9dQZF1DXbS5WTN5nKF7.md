@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits ! Photo : Sabrina Carpenter
+> Le meilleur des hits ! Photo : Pierre Garnier
 
-217 songs - 11 hr 21 min
+218 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-17 | 2023-10-27 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2023-07-27 | 2023-09-22 |
 | [5 AM](https://open.spotify.com/track/2vZ8h5CXVsOlClCXj89DDW) | [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [5 AM](https://open.spotify.com/album/6vyHKqHP0VDK8v5lWeLefY) | 3:05 | 2023-10-05 | 2023-12-09 |
-| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-06-27 | 2024-07-05 |
+| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-06-27 |  |
 | [A Thousand Miles](https://open.spotify.com/track/2KI7EiN7PScxiMnkoy2Ljy) | [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv), [Beea](https://open.spotify.com/artist/4LLMdJ0ZadFH4PzIdVlrws) | [A Thousand Miles](https://open.spotify.com/album/3wG7wRynmcVriqvBDEkSk4) | 4:26 | 2023-10-12 | 2024-02-02 |
 | [Adieu](https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Adieu](https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl) | 3:04 | 2024-05-02 |  |
 | [Aimée pour de vrai](https://open.spotify.com/track/3MFphLI59LK2MqvVY9ZMTZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC), [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Aimée pour de vrai](https://open.spotify.com/album/5A3ws0VOAm5S1bFZpJBotM) | 3:08 | 2024-04-03 |  |
@@ -125,7 +125,8 @@
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2024-03-07 | 2024-06-01 |
 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 | 2024-06-06 | 2024-06-21 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2023-12-21 | 2024-01-03 |
-| [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0) | 2:23 | 2024-07-11 |  |
+| [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0) | 2:23 | 2024-07-11 | 2024-07-19 |
+| [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-07-18 |  |
 | [Le chemin](https://open.spotify.com/track/2b8XJIr3d9XbNwwO2TXrgq) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 3:11 | 2024-04-03 |  |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 | 2024-01-10 |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-07-27 | 2023-12-09 |
@@ -186,7 +187,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-11-09 |  |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-10-05 | 2023-11-11 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2023-09-28 | 2023-12-09 |
-| [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-06-13 |  |
+| [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-06-13 | 2024-07-19 |
 | [Sola](https://open.spotify.com/track/4GMWmVcQDMrwCKDviAoA1O) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Sola](https://open.spotify.com/album/5aIqERPJ7rBLvfyqiF7Yzf) | 3:32 | 2023-08-24 | 2023-09-01 |
 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 | 2023-07-27 | 2023-09-15 |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-05-09 |  |

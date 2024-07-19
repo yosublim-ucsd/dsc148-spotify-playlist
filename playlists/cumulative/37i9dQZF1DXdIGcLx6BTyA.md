@@ -4,7 +4,7 @@
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-114 songs - 7 hr 5 min
+115 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Back Down South \(feat\. Tyler Bryant\)](https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:54 | 2021-07-06 | 2024-04-19 |
 | [Be There](https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 3:06 | 2024-03-25 |  |
 | [Before That Final Bell](https://open.spotify.com/track/4P60d6gbl70CKF7QJmLVzk) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Call the Captain](https://open.spotify.com/album/2BwdTtiw3Tn89CZMyZvOHY) | 3:42 | 2024-03-25 | 2024-04-14 |
-| [Before That Final Bell](https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Call the Captain](https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi) | 3:42 | 2024-03-25 |  |
+| [Before That Final Bell](https://open.spotify.com/track/4vwpnBraqdzWKugN0Brrfq) | [Western Centuries](https://open.spotify.com/artist/0NlJw273FRxv1BFIYwYBTp) | [Call the Captain](https://open.spotify.com/album/5YNqgj9e3qqsaUojuGfPSi) | 3:42 | 2024-03-25 | 2024-07-19 |
 | [Before The Dogwood Blooms](https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC) | 2:55 | 2021-07-06 |  |
 | [Before The Dogwood Blooms](https://open.spotify.com/track/7yWpUUtQ9iXtwBFBfltZwn) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/1xB96fepw7haNbBKLeoRIJ) | 2:55 | 2024-03-25 | 2024-04-19 |
 | [Best Years of My Life](https://open.spotify.com/track/6mTSw3gE4k9U7CK8pzX9c0) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:42 | 2021-07-06 |  |
@@ -35,6 +35,7 @@
 | [Country Radio](https://open.spotify.com/track/1vXTWoGkfFfmjGW13frg4M) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Country Radio \(From Red Bandana\)](https://open.spotify.com/album/4WtIyMdoFaGxpWnvAg6FAe) | 4:39 | 2024-03-25 |  |
 | [Country Radio](https://open.spotify.com/track/7dt0yYV37WRw8Gq2zg5FwZ) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 4:39 | 2021-07-06 | 2024-04-19 |
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 | 2021-07-06 | 2024-04-19 |
+| [Crazy World \(Judgement Day\)](https://open.spotify.com/track/24rXTPooQ6LoF0o3djEdYj) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0sqerD9BSgS3tuD7tEPD3M) | 4:40 | 2024-03-25 |  |
 | [Dirt Road Nights](https://open.spotify.com/track/4eb6X1EZbOjC0kjy3ethFk) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:11 | 2021-07-06 | 2024-04-19 |
 | [Dreamsicle](https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:44 | 2021-07-06 |  |
 | [Drinkin' Dark Whiskey](https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [The SteelDrivers](https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV) | 2:54 | 2021-07-06 |  |

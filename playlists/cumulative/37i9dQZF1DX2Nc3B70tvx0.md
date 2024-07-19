@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Remi Wolf
 
-2,306 songs - 5 day 18 hr 23 min
+2,309 songs - 5 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-04 | 2024-01-27 |
 | [A Song About Fishing](https://open.spotify.com/track/2nCEjCTe2lo1mx8EDFE84Z) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/1AwxJPvM50yifnRc9wLUlM) | 3:25 | 2021-04-23 | 2021-10-08 |
 | [A Song for You](https://open.spotify.com/track/3lhjaN5VyhFOZ9BzwHFRgI) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Omoiyari](https://open.spotify.com/album/1oPXOnszADv8Xe3fzykSdC) | 3:51 | 2019-06-07 | 2019-09-13 |
-| [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-07-05 |  |
+| [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-07-05 | 2024-07-19 |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-28 | 2022-04-20 |
 | [A Warning](https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [A Warning](https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD) | 3:34 | 2024-05-10 | 2024-06-08 |
 | [A word becomes a sound](https://open.spotify.com/track/7aT4ZJdlcNp5SLPZLr6Irw) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/7zmEZWG9JfmB7lgg2SGgGu) | 3:38 | 2020-09-04 | 2021-03-19 |
@@ -232,6 +232,7 @@
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-14 | 2023-05-20 |
 | [Best I Ever Had](https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sGQtJGb7Sz4AbsSvUYmcW) | 4:03 | 2020-10-29 | 2021-10-12 |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-07-18 | 2023-11-07 |
+| [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-19 |  |
 | [Better On Your Own](https://open.spotify.com/track/52IjH7U9fkLgqM4yVecYGz) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Better On Your Own](https://open.spotify.com/album/2GOkSjZzy8MKVNvgIVEz5f) | 2:23 | 2021-07-19 | 2022-04-21 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-07-29 | 2022-04-30 |
 | [Better Than Nothing](https://open.spotify.com/track/1lYWpkFVDY9HvVDWuAnyA6) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Better Than Nothing](https://open.spotify.com/album/3BiDzIyOjLyXSbPaNr1xoR) | 3:43 | 2024-02-01 | 2024-03-29 |
@@ -800,6 +801,7 @@
 | [Guard Down](https://open.spotify.com/track/6S8yc3BtzAFvFhjbnL8bTT) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:26 | 2021-02-22 | 2021-09-03 |
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-15 | 2022-03-30 |
 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2020-08-07 | 2021-04-20 |
+| [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-19 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-15 | 2022-07-17 |
 | [H34T RISES](https://open.spotify.com/track/5rf4KMZzIVT3x5z0oypUmb) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [H34T RISES](https://open.spotify.com/album/4NDq41ZG6ALoWFKcEPC5HO) | 2:50 | 2019-10-19 | 2020-04-18 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-05-26\* | 2019-09-21 |
@@ -1752,6 +1754,7 @@
 | [Shook](https://open.spotify.com/track/2ei1umCvdqtDMG8zfC9GRY) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Shook](https://open.spotify.com/album/0uKOb1sntZv5UcXt9XwwWv) | 2:29 | 2021-07-19 | 2022-04-20 |
 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 | 2022-04-01 | 2022-12-17 |
 | [Shotput](https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Shotput](https://open.spotify.com/album/4d6gnwGphGyx6ZPZRbs5Ir) | 2:50 | 2024-03-21 | 2024-05-18 |
+| [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-19 |  |
 | [Show Up](https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY) | 3:21 | 2021-10-04 | 2022-04-30 |
 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-27 | 2024-03-22 |
 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-04-19 | 2024-05-24 |

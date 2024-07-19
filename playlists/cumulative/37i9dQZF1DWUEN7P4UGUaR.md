@@ -4,7 +4,7 @@
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-107 songs - 9 hr 40 min
+108 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 | 2023-04-06 |  |
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-07 |  |
 | [Dey for Me](https://open.spotify.com/track/6IFBTP7ujkvsMyUtBWfiig) | [T\-Danso](https://open.spotify.com/artist/4uIplVsgSm9UaKgsboAPPg), [Abdul Rasheed](https://open.spotify.com/artist/0j3nwCJZ55fwOMZBVwDiQc), [Christoven](https://open.spotify.com/artist/62uzocPwW8AA2xs5meq351) | [Dey for Me](https://open.spotify.com/album/1JFIPC4W4jShU0Au1jI3rv) | 3:33 | 2024-06-07 |  |
+| [DND](https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [DND](https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX) | 2:43 | 2024-07-19 |  |
 | [Energy](https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn) | [Louis Pascal](https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [The Pen Of A Ready Writer](https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr) | 2:24 | 2023-04-20 | 2023-06-10 |
 | [FAKY3 ME](https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [FAKY3 ME](https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT) | 5:11 | 2024-07-05 |  |
 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/1fuPEaiNgXBswasnUJHKpk) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/0dKtaWKMwKF0Jw19xI9HlJ) | 9:54 | 2024-03-29 | 2024-04-19 |
@@ -63,7 +64,7 @@
 | [Man on a Mission](https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [The Prodigal Son](https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ) | 2:37 | 2023-11-24 |  |
 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 | 2023-04-06 |  |
 | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5) | 6:12 | 2023-04-06 | 2024-01-16 |
-| [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 | 2023-04-06 |  |
+| [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 | 2023-04-06 | 2024-07-19 |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 |  |
 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 | 2023-04-06 | 2024-05-17 |
 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 | 2023-04-06 | 2023-08-14 |

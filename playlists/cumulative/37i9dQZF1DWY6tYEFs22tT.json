@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Eminem, YG, Lil Yachty, Babyface Ray, Ice Spice and more.",
+  "description": "Today's Hip-Hop with Eminem, Big Sean, JT and more.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -604,6 +604,24 @@
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
+    },
+    {
+      "album": {
+        "name": "City Cinderella",
+        "url": "https://open.spotify.com/album/66HrXUpGRlJdwXIw7B9SQI"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "90's Baby",
+      "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
     },
     {
       "album": {
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 139672,
       "name": "AND DID",
       "url": "https://open.spotify.com/track/4xmGq65jOFzNna5hfTqrJw"
@@ -3722,7 +3740,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148500,
       "name": "C4 (feat. Skilla Baby & Rob49)",
       "url": "https://open.spotify.com/track/7mVu7ZhScNi6NilUJos3Z5"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 198383,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
@@ -8762,7 +8780,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234421,
       "name": "Grippy",
       "url": "https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G"
@@ -12256,7 +12274,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 100000,
       "name": "Lost Intro (Sango\u2019s Version)",
       "url": "https://open.spotify.com/track/6v4RysAnodvuyuo5VQjJie"
@@ -13170,6 +13188,28 @@
       "duration_ms": 191100,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/71zHKuuBERvztn2SESZE5L"
+    },
+    {
+      "album": {
+        "name": "Mission Control (feat. T Man the Wizard)",
+        "url": "https://open.spotify.com/album/3GHmcwHjyxpNwxWHqIMjXF"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "T Man The Wizard",
+          "url": "https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131429,
+      "name": "Mission Control (feat. T Man the Wizard)",
+      "url": "https://open.spotify.com/track/2VvZGmBkyKM6P8SJEu9Lhq"
     },
     {
       "album": {
@@ -15696,6 +15736,28 @@
       "duration_ms": 129293,
       "name": "Phat Butt",
       "url": "https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG"
+    },
+    {
+      "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Mr Reload It",
+          "url": "https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
       "album": {
@@ -18904,7 +18966,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178573,
       "name": "Spotlight (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/682dfMiaVwVHCF8YfnxdiQ"
@@ -19962,6 +20024,28 @@
       "duration_ms": 281985,
       "name": "Take Shots (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "album": {
+        "name": "Take The Lead (feat. Roy Woods)",
+        "url": "https://open.spotify.com/album/3yMZBo6KNLzTP7cdrvzQNa"
+      },
+      "artists": [
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136721,
+      "name": "Take The Lead (feat. Roy Woods)",
+      "url": "https://open.spotify.com/track/47Ndm1Hv6KoVJ9HeI0Nu9j"
     },
     {
       "album": {
@@ -23274,6 +23358,24 @@
       "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
+    },
+    {
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210931,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
     },
     {
       "album": {

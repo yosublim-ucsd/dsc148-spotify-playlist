@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": ".45",
+        "url": "https://open.spotify.com/album/2B1vtyORBPboQwicgZ7FRU"
+      },
+      "artists": [
+        {
+          "name": "Jagg",
+          "url": "https://open.spotify.com/artist/3E6TYBOXc2CTqTKz7WOyC5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158126,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
+    },
+    {
+      "album": {
         "name": "Aadatan",
         "url": "https://open.spotify.com/album/58HGDWL4l1rlGr4CQQwP8j"
       },
@@ -421,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Garari",
+        "url": "https://open.spotify.com/album/6RQH3a6isO8O0VziXIr1wJ"
+      },
+      "artists": [
+        {
+          "name": "Classico",
+          "url": "https://open.spotify.com/artist/25kIBZH9WbVulh53I9mwZD"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Garari",
+      "url": "https://open.spotify.com/track/4RrTO3ODMrBtIaCQ11PvlI"
+    },
+    {
+      "album": {
         "name": "Giftaan",
         "url": "https://open.spotify.com/album/4hASaIDbkI4nTqkYPmFhMV"
       },
@@ -476,7 +516,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156330,
       "name": "Hulaare",
       "url": "https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB"

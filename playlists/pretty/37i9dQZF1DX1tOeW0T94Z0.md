@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
+> Nothing but precious sounds from the 90s & 2000s\. Cover: K\-OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,597 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,623 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
-| 2 | [Still Too Much](https://open.spotify.com/track/5Y3CKN987KSm4POS1Qelea) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU), [Ironside](https://open.spotify.com/artist/3QkETber5Vjiab0nJZJhBf), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Red\-1 of Rascalz](https://open.spotify.com/artist/3fqp4orZdkSAxLDhNchKJ4) | [Still Too Much](https://open.spotify.com/album/5LZLZsykNszXzZlRLenTN2) | 5:18 |
-| 3 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 |
-| 4 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 |
-| 5 | [Does He Love Me](https://open.spotify.com/track/1oRCQ6gqeNoNVU5TccwTjh) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH), [Foxy Brown](https://open.spotify.com/artist/3onQYp8A0eHb3QSLH8QVcb) | [Keshia Chanté](https://open.spotify.com/album/6AVO20nTkS9bvgZbymG68n) | 3:38 |
-| 6 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 |
-| 7 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
+| 1 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
+| 2 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 |
+| 3 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
+| 4 | [Still Too Much](https://open.spotify.com/track/5Y3CKN987KSm4POS1Qelea) | [Ghetto Concept](https://open.spotify.com/artist/7dQsyUecbPiqTSDbVWJDaU), [Ironside](https://open.spotify.com/artist/3QkETber5Vjiab0nJZJhBf), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Maestro Fresh Wes](https://open.spotify.com/artist/1dwKQTuExr4n8IwmXzyN2K), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Red\-1 of Rascalz](https://open.spotify.com/artist/3fqp4orZdkSAxLDhNchKJ4) | [Still Too Much](https://open.spotify.com/album/5LZLZsykNszXzZlRLenTN2) | 5:18 |
+| 5 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 |
+| 6 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 |
+| 7 | [Does He Love Me](https://open.spotify.com/track/1oRCQ6gqeNoNVU5TccwTjh) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH), [Foxy Brown](https://open.spotify.com/artist/3onQYp8A0eHb3QSLH8QVcb) | [Keshia Chanté](https://open.spotify.com/album/6AVO20nTkS9bvgZbymG68n) | 3:38 |
 | 8 | [Give It To Me Right](https://open.spotify.com/track/51nhSIsg5G8hjhV4kja0Oz) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 3:43 |
 | 9 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 |
 | 10 | [Pressure](https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Juno Awards 2008](https://open.spotify.com/album/31mShyZYlhE6zTzVGWznPu) | 4:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 59 | [Audio Coke](https://open.spotify.com/track/2bKmY1uObcvy8Akw2RHaPC) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [A Sample and a Drum Machine](https://open.spotify.com/album/1UqWZyvdTHKr4HO2Wbtvym) | 3:07 |
 | 60 | [Learn to Earn](https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/4ABY3JMFDytAhnefa5Lczg) | 3:48 |
 
-Snapshot ID: `Zov0+wAAAACGZKrNP1V71O1eD2VVn/a8`
+Snapshot ID: `ZpnkwAAAAADIX3tdq0c9Jnm/+njENhBn`

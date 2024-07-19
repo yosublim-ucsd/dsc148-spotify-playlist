@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Larkin Poe
 
-332 songs - 21 hr 23 min
+333 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 |  |
 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 | 2024-05-24 | 2024-07-06 |
 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 | 2023-09-15 |  |
-| [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 |  |
+| [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 | 2024-07-19 |
 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2020-10-16 | 2024-04-19 |
 | [Black Moon](https://open.spotify.com/track/13F76PKJYIWbG986buVo66) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [The Wolves Are Coming](https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK) | 2:40 | 2024-02-23 |  |
 | [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 |  |
@@ -79,6 +79,7 @@
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
 | [Don't Hold Back](https://open.spotify.com/track/7KuzFCe2TWROqlvBzfIuAV) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Don't Hold Back](https://open.spotify.com/album/7wwoBmP3QNiAEhYcjaBYQr) | 4:06 | 2023-05-26 | 2023-06-24 |
 | [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 | 2023-07-07 | 2023-11-18 |
+| [Down and Dirty Blues](https://open.spotify.com/track/5Vx8mhiTctoYUgGMeIum9r) | [Gary Dranow](https://open.spotify.com/artist/0ln6vyEEr8rYl7ZB5aJv0T) | [Down and Dirty Blues](https://open.spotify.com/album/47ibvqZHAEbaBZ2yyVVfHb) | 5:01 | 2024-07-19 |  |
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 |  |
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Dragging Me Down](https://open.spotify.com/track/1tC3Lk0Bh7wFPctiowuxJb) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Dragging Me Down](https://open.spotify.com/album/6rzhy4RQStHp5feC3jugma) | 4:35 | 2024-03-08 |  |

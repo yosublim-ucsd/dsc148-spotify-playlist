@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > Baby, ¿qué más?¿Qué fue?¿Qué tal si por la noche apagamos los dos el cel? 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,827 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,996 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

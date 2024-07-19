@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,749 likes - 273 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,748 likes - 273 songs - 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 43 | [Sometime in the Morning \- Original Stereo Version; 2006 Remaster](https://open.spotify.com/track/29MWHZL3EnA792mpBpabvU) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:30 |
 | 44 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 45 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
-| 46 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
-| 47 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
+| 46 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
+| 47 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
 | 48 | [Music](https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:49 |
 | 49 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
 | 50 | [Keep Your Hands off My Baby](https://open.spotify.com/track/5DKc9MXYFqwSlKDModKgF9) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:32 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbW9/gAAAABC2phvjwYhUW3G0jBY0ZoP`
+Snapshot ID: `AbXFDgAAAAARESZcwlbqpKriH2TV7YBI`

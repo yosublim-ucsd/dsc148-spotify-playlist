@@ -2,9 +2,9 @@
 
 ### [Modo Acústico](https://open.spotify.com/playlist/37i9dQZF1DX8niVEX4qKc6)
 
-> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Camila Buch y Los Otro Días.
+> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mica Sotera y Paula Prieto.
 
-153 songs - 9 hr 4 min
+154 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [El Tesoro \- Acústico](https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 5:20 | 2024-04-19 |  |
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2023-08-18 |  |
 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 | 2023-08-18 |  |
+| [enero \- versión acústica](https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [enero \(versión acústica\)](https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg) | 3:26 | 2024-07-19 |  |
 | [Entre Canibales \- MTV Unplugged](https://open.spotify.com/track/060aWWmC9CrLqbhzHQifQf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:54 | 2023-08-18 |  |
 | [Escorpio \- Acoustic Version](https://open.spotify.com/track/571JXQi27kn8wl87BfZgz6) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Escorpio \(Acoustic Version\)](https://open.spotify.com/album/5sU9af4bNsE96gZVXrXBjl) | 3:23 | 2024-04-11 | 2024-05-11 |
 | [Fanky \- Live](https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:27 | 2023-08-18 |  |
@@ -113,7 +114,7 @@
 | [Ojos de Río](https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Ojos de Río](https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM) | 2:16 | 2023-08-18 | 2024-04-19 |
 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 | 2023-08-18 |  |
 | [Otro Día](https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 2:41 | 2023-12-08 | 2024-01-12 |
-| [Paloma \- Romaphonic](https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Romaphonic Sessions](https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl) | 4:39 | 2024-01-11 |  |
+| [Paloma \- Romaphonic](https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Romaphonic Sessions](https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl) | 4:39 | 2024-01-11 | 2024-07-19 |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2023-08-18 |  |
 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 | 2023-10-26 |  |
 | [PELÍCULA](https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [PELÍCULA](https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L) | 2:58 | 2023-12-23 |  |

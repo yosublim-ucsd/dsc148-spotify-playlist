@@ -1,28 +1,36 @@
 {
   "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>",
-  "num_followers": 73524,
+  "num_followers": 73720,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAACcgT1amA8tB7eqbdZYL2FR",
+  "snapshot_id": "ZpmsvAAAAABl5sLAZiQj4YXbRcKyU6VW",
   "tracks": [
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Kept by Grace (Recorded Live at Carnival City)",
-        "url": "https://open.spotify.com/album/3TBeqMUdeBiofdyGDASbJs"
+        "name": "Spirit Of Praise, Vol. 9 (Live)",
+        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
       },
       "artists": [
         {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Pastor M Tshabalala",
+          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
         }
       ],
-      "duration_ms": 334400,
-      "name": "Emmanuel - Live",
-      "url": "https://open.spotify.com/track/2h3qJG8J2rPAb6Kgo7dOwC"
+      "duration_ms": 556346,
+      "name": "Bamba Mzalwane (Live)",
+      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -47,26 +55,34 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Spirit Of Praise, Vol. 9 (Live)",
-        "url": "https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv"
+        "name": "Hymns of Faith (Live)",
+        "url": "https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo"
       },
       "artists": [
         {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Spirit of Praise Choir",
-          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
-        },
-        {
-          "name": "Pastor M Tshabalala",
-          "url": "https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ"
+          "name": "David TheKing",
+          "url": "https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi"
         }
       ],
-      "duration_ms": 556346,
-      "name": "Bamba Mzalwane (Live)",
-      "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+      "duration_ms": 521844,
+      "name": "Pela Hao / Jehovah o Lefika - Live",
+      "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Kept by Grace (Recorded Live at Carnival City)",
+        "url": "https://open.spotify.com/album/3TBeqMUdeBiofdyGDASbJs"
+      },
+      "artists": [
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Emmanuel - Live",
+      "url": "https://open.spotify.com/track/2h3qJG8J2rPAb6Kgo7dOwC"
     },
     {
       "added_at": "2024-06-29 09:16:16",
@@ -95,86 +111,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Hymns of Faith (Live)",
-        "url": "https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo"
-      },
-      "artists": [
-        {
-          "name": "David TheKing",
-          "url": "https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi"
-        }
-      ],
-      "duration_ms": 521844,
-      "name": "Pela Hao / Jehovah o Lefika - Live",
-      "url": "https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd"
-    },
-    {
-      "added_at": "2024-06-29 09:16:16",
-      "album": {
-        "name": "Joyous Celebration 28 (The First Set Live at the Durban Icc)",
-        "url": "https://open.spotify.com/album/3R2W3dCtfMfmRVBKjKFBAf"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 416973,
-      "name": "Kom Ons Verheerlik Sy Naam (Live at the Durban Icc)",
-      "url": "https://open.spotify.com/track/7dUigjYJa7sZveOmigGO8f"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Kuyobamnandi (Ulidwala) [Medley]",
-        "url": "https://open.spotify.com/album/2ATqllwxWwaOuTHeysJL1b"
-      },
-      "artists": [
-        {
-          "name": "Njabulo Masinga",
-          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
-        }
-      ],
-      "duration_ms": 230376,
-      "name": "Kuyobamnandi (Ulidwala) - Medley",
-      "url": "https://open.spotify.com/track/5jOjDBqTw2nwkkGLU5gIpw"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 28 (Live at Durban Icc)",
-        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Bekani Ithemba (Live at Durban Icc)",
-      "url": "https://open.spotify.com/track/29MyBruOwJ76Kv9B5Xftrw"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "iKhwezi (Live at Covenant House / 2023)",
-        "url": "https://open.spotify.com/album/33XuMBMDf2vf7GOrcP0sTP"
-      },
-      "artists": [
-        {
-          "name": "Khana Mhlongo",
-          "url": "https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj"
-        }
-      ],
-      "duration_ms": 287106,
-      "name": "ikhwezi - Live at Covenant House / 2023",
-      "url": "https://open.spotify.com/track/3orFXQMpJxy5Z2MRQONBA7"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Moy\u2019 Oyingcwele (Live)",
         "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
       },
@@ -191,46 +127,6 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
-    },
-    {
-      "added_at": "2024-06-07 00:02:00",
-      "album": {
-        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
-        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
-      },
-      "artists": [
-        {
-          "name": "Omega Khunou",
-          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
-        }
-      ],
-      "duration_ms": 372116,
-      "name": "Emmanuel (Live)",
-      "url": "https://open.spotify.com/track/5waXRF9RxJTy2JtONi4cPc"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Live at Mbombela Civic Center",
-        "url": "https://open.spotify.com/album/3TfAfDiEQtB4jAYldKCcvz"
-      },
-      "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        },
-        {
-          "name": "Omega Khunou",
-          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
-        },
-        {
-          "name": "Blessing",
-          "url": "https://open.spotify.com/artist/2I1dtkDbtKuLOP1caefRCP"
-        }
-      ],
-      "duration_ms": 359394,
-      "name": "Vuma Moya Wami (feat. Omega Khunou & Blessing)",
-      "url": "https://open.spotify.com/track/0VR2xjrewH2UIB1LVfDdF6"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -267,32 +163,24 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Pride (A Deeper Love)",
-        "url": "https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd"
+        "name": "Kuyobamnandi (Ulidwala) [Medley]",
+        "url": "https://open.spotify.com/album/2ATqllwxWwaOuTHeysJL1b"
       },
       "artists": [
         {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        },
-        {
-          "name": "Groove Terminator",
-          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
-        },
-        {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Pride (A Deeper Love)",
-      "url": "https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC"
+      "duration_ms": 230376,
+      "name": "Kuyobamnandi (Ulidwala) - Medley",
+      "url": "https://open.spotify.com/track/5jOjDBqTw2nwkkGLU5gIpw"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-06-29 09:16:16",
       "album": {
-        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
-        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
+        "name": "Joyous Celebration 28 (The First Set Live at the Durban Icc)",
+        "url": "https://open.spotify.com/album/3R2W3dCtfMfmRVBKjKFBAf"
       },
       "artists": [
         {
@@ -300,25 +188,9 @@
           "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 272640,
-      "name": "Umbhedesho - Live",
-      "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'",
-        "url": "https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23"
-      },
-      "artists": [
-        {
-          "name": "Solly Moholo",
-          "url": "https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z"
-        }
-      ],
-      "duration_ms": 328360,
-      "name": "Banaka Nako Ea Me E Haufi",
-      "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
+      "duration_ms": 416973,
+      "name": "Kom Ons Verheerlik Sy Naam (Live at the Durban Icc)",
+      "url": "https://open.spotify.com/track/7dUigjYJa7sZveOmigGO8f"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -341,52 +213,36 @@
       "url": "https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
+      "added_at": "2024-07-19 00:01:00",
       "album": {
-        "name": "Jesus Is Enough",
-        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+        "name": "Igazi lemihlatshelo (Laphala Igazi) [Medley 7]",
+        "url": "https://open.spotify.com/album/5KqNkpqXXPlX3iLC2edmTk"
       },
       "artists": [
         {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
         }
       ],
-      "duration_ms": 356306,
-      "name": "Ungukuphila",
-      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 28 (Live at Durban Icc)",
-        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 709453,
-      "name": "Alikho Lelifana Nalo (Live at Durban Icc)",
-      "url": "https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy"
+      "duration_ms": 344616,
+      "name": "Igazi lemihlatshelo (Laphala Igazi) - Medley 7",
+      "url": "https://open.spotify.com/track/1SFpGDXdCJ31MamRb7bIdU"
     },
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
-        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
+        "name": "Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'",
+        "url": "https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Solly Moholo",
+          "url": "https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z"
         }
       ],
-      "duration_ms": 388866,
-      "name": "Ndenzel' Uncedo Hymn 377 - Live",
-      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
+      "duration_ms": 328360,
+      "name": "Banaka Nako Ea Me E Haufi",
+      "url": "https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -405,10 +261,10 @@
       "url": "https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-05-31 00:01:00",
       "album": {
-        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
-        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
       },
       "artists": [
         {
@@ -416,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 336213,
-      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
-      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+      "duration_ms": 319706,
+      "name": "Bekani Ithemba (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/29MyBruOwJ76Kv9B5Xftrw"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -439,6 +295,70 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "Joyous Celebration, Vol. 19 (Back to the Cross)",
+        "url": "https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 336213,
+      "name": "Hallelujah Nkateko (Lihle's Version) - Live",
+      "url": "https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Jesus Is Enough",
+        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 356306,
+      "name": "Ungukuphila",
+      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
+        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Umbhedesho - Live",
+      "url": "https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 25 - Still We Rise: Live At The Joburg Theatre",
+        "url": "https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 388866,
+      "name": "Ndenzel' Uncedo Hymn 377 - Live",
+      "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -455,6 +375,66 @@
       "duration_ms": 646407,
       "name": "Nang'Mthokozisi (Live)",
       "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 309984,
+      "name": "Ukuhlala Kuye - Live",
+      "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Yibanathi",
+        "url": "https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm"
+      },
+      "artists": [
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 307510,
+      "name": "Yibanathi",
+      "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Live at Mbombela Civic Center",
+        "url": "https://open.spotify.com/album/3TfAfDiEQtB4jAYldKCcvz"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        },
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        },
+        {
+          "name": "Blessing",
+          "url": "https://open.spotify.com/artist/2I1dtkDbtKuLOP1caefRCP"
+        }
+      ],
+      "duration_ms": 359394,
+      "name": "Vuma Moya Wami (feat. Omega Khunou & Blessing)",
+      "url": "https://open.spotify.com/track/0VR2xjrewH2UIB1LVfDdF6"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -489,24 +469,36 @@
       "url": "https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-06-07 00:02:00",
       "album": {
-        "name": "Yibanathi",
-        "url": "https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm"
+        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
+        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
       },
       "artists": [
         {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
-        },
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
         }
       ],
-      "duration_ms": 307510,
-      "name": "Yibanathi",
-      "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
+      "duration_ms": 372116,
+      "name": "Emmanuel (Live)",
+      "url": "https://open.spotify.com/track/5waXRF9RxJTy2JtONi4cPc"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
+        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "Yesu Wena UnguMhlobo - Live",
+      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -535,94 +527,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
-        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
+        "name": "Ewe Jesu (Medley 1)",
+        "url": "https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
         }
       ],
-      "duration_ms": 349973,
-      "name": "Yesu Wena UnguMhlobo - Live",
-      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Calvary",
-        "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
-      },
-      "artists": [
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
-        }
-      ],
-      "duration_ms": 309984,
-      "name": "Ukuhlala Kuye - Live",
-      "url": "https://open.spotify.com/track/0iqVqe4mwM9DE54MIYXfvj"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Come to Jesus (Live in Bryanston, 2022)",
-        "url": "https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499"
-      },
-      "artists": [
-        {
-          "name": "The Fellowship",
-          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
-        },
-        {
-          "name": "Mthunzi Namba",
-          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
-        },
-        {
-          "name": "Siphelele Vundla",
-          "url": "https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD"
-        },
-        {
-          "name": "Awethu Namba-Satsha",
-          "url": "https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH"
-        }
-      ],
-      "duration_ms": 337946,
-      "name": "King Jesus (Live in Bryanston, 2022) (feat. Siphelele Vundla & Awethu Namba-Satsha)",
-      "url": "https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 383320,
-      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Thobekile",
-        "url": "https://open.spotify.com/album/5f5t7Nqs1RwHBD8w8j6KKF"
-      },
-      "artists": [
-        {
-          "name": "Thobekile",
-          "url": "https://open.spotify.com/artist/33RHB2uEq3urURGwHRw01o"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Like A Tree",
-      "url": "https://open.spotify.com/track/2ZWav7R2tEyJrXcY1VYXAD"
+      "duration_ms": 346435,
+      "name": "Ewe Jesu - Medley 1",
+      "url": "https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -639,6 +555,114 @@
       "duration_ms": 375693,
       "name": "Uzugcin'impilo Yam'",
       "url": "https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 709453,
+      "name": "Alikho Lelifana Nalo (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/2X9oiGVIqrF019oprZixGy"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "MOPOROFETA",
+        "url": "https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol"
+      },
+      "artists": [
+        {
+          "name": "Universal Khathisma Apostolic Church In Zion",
+          "url": "https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw"
+        }
+      ],
+      "duration_ms": 303439,
+      "name": "Emmanuel - Recorded at Studio",
+      "url": "https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Pride (A Deeper Love)",
+        "url": "https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd"
+      },
+      "artists": [
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        },
+        {
+          "name": "Groove Terminator",
+          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
+        },
+        {
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Pride (A Deeper Love)",
+      "url": "https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ziphozenkosi",
+        "url": "https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti"
+      },
+      "artists": [
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 292937,
+      "name": "Ziphozenkosi",
+      "url": "https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Wakhazimula (Live)",
+        "url": "https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 487650,
+      "name": "Wakhazimula - Live",
+      "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Thulungakhali",
+        "url": "https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE"
+      },
+      "artists": [
+        {
+          "name": "Ikhona",
+          "url": "https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW"
+        },
+        {
+          "name": "Betusile",
+          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
+        }
+      ],
+      "duration_ms": 346331,
+      "name": "Thulungakhali",
+      "url": "https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -677,36 +701,20 @@
       "url": "https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl"
     },
     {
-      "added_at": "2024-04-19 00:01:00",
+      "added_at": "2024-07-12 00:01:00",
       "album": {
-        "name": "THULA WAZI (NGIKHONA)",
-        "url": "https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv"
+        "name": "iKhwezi (Live at Covenant House / 2023)",
+        "url": "https://open.spotify.com/album/33XuMBMDf2vf7GOrcP0sTP"
       },
       "artists": [
         {
-          "name": "Dan Shaw",
-          "url": "https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV"
+          "name": "Khana Mhlongo",
+          "url": "https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj"
         }
       ],
-      "duration_ms": 235862,
-      "name": "THULA WAZI (NGIKHONA)",
-      "url": "https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ewe Jesu (Medley 1)",
-        "url": "https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN"
-      },
-      "artists": [
-        {
-          "name": "Njabulo Masinga",
-          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
-        }
-      ],
-      "duration_ms": 346435,
-      "name": "Ewe Jesu - Medley 1",
-      "url": "https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV"
+      "duration_ms": 287106,
+      "name": "ikhwezi - Live at Covenant House / 2023",
+      "url": "https://open.spotify.com/track/3orFXQMpJxy5Z2MRQONBA7"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -727,18 +735,262 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Ziphozenkosi",
-        "url": "https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti"
+        "name": "New Dawn (Live)",
+        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
       },
       "artists": [
+        {
+          "name": "Kgotso",
+          "url": "https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H"
+        }
+      ],
+      "duration_ms": 246252,
+      "name": "Messiah - Live",
+      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Restored (Live)",
+        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
+      },
+      "artists": [
+        {
+          "name": "Lebo Sekgobela",
+          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Thato Ya Hao (Live)",
+      "url": "https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ke le hole",
+        "url": "https://open.spotify.com/album/2j2v2Nk8CcyzVS9qpond8V"
+      },
+      "artists": [
+        {
+          "name": "Nomadlozi",
+          "url": "https://open.spotify.com/artist/4O5tjGjeBBmqPRhP2ChSy2"
+        }
+      ],
+      "duration_ms": 237819,
+      "name": "Ke le hole",
+      "url": "https://open.spotify.com/track/6QVVWizgLUNkzAED09ljo4"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 383320,
+      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
+        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 433640,
+      "name": "Bhekani UJehova - Live",
+      "url": "https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Come to Jesus (Live in Bryanston, 2022)",
+        "url": "https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499"
+      },
+      "artists": [
+        {
+          "name": "The Fellowship",
+          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
+        },
+        {
+          "name": "Mthunzi Namba",
+          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
+        },
+        {
+          "name": "Siphelele Vundla",
+          "url": "https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD"
+        },
+        {
+          "name": "Awethu Namba-Satsha",
+          "url": "https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH"
+        }
+      ],
+      "duration_ms": 337946,
+      "name": "King Jesus (Live in Bryanston, 2022) (feat. Siphelele Vundla & Awethu Namba-Satsha)",
+      "url": "https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b"
+    },
+    {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Thobekile",
+        "url": "https://open.spotify.com/album/5f5t7Nqs1RwHBD8w8j6KKF"
+      },
+      "artists": [
+        {
+          "name": "Thobekile",
+          "url": "https://open.spotify.com/artist/33RHB2uEq3urURGwHRw01o"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Just Like A Tree",
+      "url": "https://open.spotify.com/track/2ZWav7R2tEyJrXcY1VYXAD"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Kukhona Amadlelo",
+        "url": "https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8"
+      },
+      "artists": [
+        {
+          "name": "Ayanda Ntanzi",
+          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
+        }
+      ],
+      "duration_ms": 509999,
+      "name": "Kukhona Amadlelo",
+      "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ukholo Lwam (A Song of Hope)",
+        "url": "https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf"
+      },
+      "artists": [
+        {
+          "name": "Intimate Worshippers",
+          "url": "https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Ukholo Lwam (A Song of Hope)",
+      "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "New Sounds of Glory",
+        "url": "https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Matse",
+          "url": "https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK"
+        }
+      ],
+      "duration_ms": 300714,
+      "name": "Bayazibuza",
+      "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Spirit of Praise, Vol. 6 (Live)",
+        "url": "https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
         {
           "name": "Dumi Mkokstad",
           "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
         }
       ],
-      "duration_ms": 292937,
-      "name": "Ziphozenkosi",
-      "url": "https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww"
+      "duration_ms": 269253,
+      "name": "Ntate Kemang - Live",
+      "url": "https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Intimate Worship Season, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E"
+      },
+      "artists": [
+        {
+          "name": "Sipho Ngwenya",
+          "url": "https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe"
+        },
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        }
+      ],
+      "duration_ms": 419053,
+      "name": "Jesu Ufik'ekuseni - Live",
+      "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Sibonga Umusa (Live)",
+        "url": "https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "duration_ms": 589875,
+      "name": "Thixo Wamadinga Ethu (Live)",
+      "url": "https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "THULA WAZI (NGIKHONA)",
+        "url": "https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv"
+      },
+      "artists": [
+        {
+          "name": "Dan Shaw",
+          "url": "https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "THULA WAZI (NGIKHONA)",
+      "url": "https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -765,258 +1017,6 @@
       "url": "https://open.spotify.com/track/23snllF8CMSehxyDrTAGhA"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Restored (Live)",
-        "url": "https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5"
-      },
-      "artists": [
-        {
-          "name": "Lebo Sekgobela",
-          "url": "https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Thato Ya Hao (Live)",
-      "url": "https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Wakhazimula (Live)",
-        "url": "https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 487650,
-      "name": "Wakhazimula - Live",
-      "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
-        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 433640,
-      "name": "Bhekani UJehova - Live",
-      "url": "https://open.spotify.com/track/5FZNzkJ9Csk4m9XegJRahx"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "MOPOROFETA",
-        "url": "https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol"
-      },
-      "artists": [
-        {
-          "name": "Universal Khathisma Apostolic Church In Zion",
-          "url": "https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw"
-        }
-      ],
-      "duration_ms": 303439,
-      "name": "Emmanuel - Recorded at Studio",
-      "url": "https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "New Dawn (Live)",
-        "url": "https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge"
-      },
-      "artists": [
-        {
-          "name": "Kgotso",
-          "url": "https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H"
-        }
-      ],
-      "duration_ms": 246252,
-      "name": "Messiah - Live",
-      "url": "https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Thulungakhali",
-        "url": "https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE"
-      },
-      "artists": [
-        {
-          "name": "Ikhona",
-          "url": "https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW"
-        },
-        {
-          "name": "Betusile",
-          "url": "https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU"
-        }
-      ],
-      "duration_ms": 346331,
-      "name": "Thulungakhali",
-      "url": "https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ke le hole",
-        "url": "https://open.spotify.com/album/2j2v2Nk8CcyzVS9qpond8V"
-      },
-      "artists": [
-        {
-          "name": "Nomadlozi",
-          "url": "https://open.spotify.com/artist/4O5tjGjeBBmqPRhP2ChSy2"
-        }
-      ],
-      "duration_ms": 237819,
-      "name": "Ke le hole",
-      "url": "https://open.spotify.com/track/6QVVWizgLUNkzAED09ljo4"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 6 (Live)",
-        "url": "https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
-        }
-      ],
-      "duration_ms": 269253,
-      "name": "Ntate Kemang - Live",
-      "url": "https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ukholo Lwam (A Song of Hope)",
-        "url": "https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf"
-      },
-      "artists": [
-        {
-          "name": "Intimate Worshippers",
-          "url": "https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Ukholo Lwam (A Song of Hope)",
-      "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Kukhona Amadlelo",
-        "url": "https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8"
-      },
-      "artists": [
-        {
-          "name": "Ayanda Ntanzi",
-          "url": "https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw"
-        }
-      ],
-      "duration_ms": 509999,
-      "name": "Kukhona Amadlelo",
-      "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Intimate Worship Season, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E"
-      },
-      "artists": [
-        {
-          "name": "Sipho Ngwenya",
-          "url": "https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe"
-        },
-        {
-          "name": "Thinah Zungu",
-          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
-        }
-      ],
-      "duration_ms": 419053,
-      "name": "Jesu Ufik'ekuseni - Live",
-      "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
-    },
-    {
-      "added_at": "2024-06-07 00:02:00",
-      "album": {
-        "name": "Difela Medley (Live)",
-        "url": "https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z"
-      },
-      "artists": [
-        {
-          "name": "Puleng March",
-          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
-        }
-      ],
-      "duration_ms": 665013,
-      "name": "Difela Medley - Live",
-      "url": "https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "New Sounds of Glory",
-        "url": "https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07"
-      },
-      "artists": [
-        {
-          "name": "Nduduzo Matse",
-          "url": "https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK"
-        }
-      ],
-      "duration_ms": 300714,
-      "name": "Bayazibuza",
-      "url": "https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh"
-    },
-    {
-      "added_at": "2024-05-24 00:01:00",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD"
-      },
-      "artists": [
-        {
-          "name": "Bucie",
-          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
-        }
-      ],
-      "duration_ms": 360021,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
-        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 302453,
-      "name": "Lona Baratang - Live",
-      "url": "https://open.spotify.com/track/032DTgyqTtIxIZESeY6fAB"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "All About Jesus",
@@ -1039,62 +1039,18 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Sibonga Umusa (Live)",
-        "url": "https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX"
+        "name": "Joyous Celebration, Vol. 17 (Grateful) [Live]",
+        "url": "https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY"
       },
       "artists": [
         {
-          "name": "Sneziey",
-          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 589875,
-      "name": "Thixo Wamadinga Ethu (Live)",
-      "url": "https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Ndincedeni (Revisit)",
-        "url": "https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA"
-      },
-      "artists": [
-        {
-          "name": "Dalom Kids",
-          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
-        },
-        {
-          "name": "King Khustah",
-          "url": "https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E"
-        },
-        {
-          "name": "Myy Gerald",
-          "url": "https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl"
-        },
-        {
-          "name": "Gash Beats",
-          "url": "https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE"
-        }
-      ],
-      "duration_ms": 280436,
-      "name": "Ndincedeni - Revisit",
-      "url": "https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF"
+      "duration_ms": 302453,
+      "name": "Lona Baratang - Live",
+      "url": "https://open.spotify.com/track/032DTgyqTtIxIZESeY6fAB"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1119,6 +1075,22 @@
       "duration_ms": 420160,
       "name": "Elshadai Adonai Medley (Live)",
       "url": "https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1155,38 +1127,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Jabulani Sesingabantwana (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 455680,
-      "name": "Jabulani Sesingabantwana - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Atamelang Ho Jehova",
         "url": "https://open.spotify.com/album/6Z5wKbRXQ4RuqkImPGocXY"
       },
@@ -1217,6 +1157,22 @@
       "url": "https://open.spotify.com/track/4C9RGcQVNS6bLhSXsvkwAO"
     },
     {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Jabulani Sesingabantwana (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 455680,
+      "name": "Jabulani Sesingabantwana - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Nxa ngimbona (Live at Goshen City Church 2023)",
@@ -1231,22 +1187,6 @@
       "duration_ms": 363706,
       "name": "Nxa ngimbona (Live at Goshen City Church 2023)",
       "url": "https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Moments in Time (Live)",
-        "url": "https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG"
-      },
-      "artists": [
-        {
-          "name": "Ntokozo Mbambo",
-          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
-        }
-      ],
-      "duration_ms": 502068,
-      "name": "Interlude-Zulu Worship Medley Live",
-      "url": "https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1271,6 +1211,54 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
+        "name": "Moments in Time (Live)",
+        "url": "https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "duration_ms": 502068,
+      "name": "Interlude-Zulu Worship Medley Live",
+      "url": "https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7"
+    },
+    {
+      "added_at": "2024-05-24 00:01:00",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "duration_ms": 360021,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos"
+    },
+    {
+      "added_at": "2024-06-07 00:02:00",
+      "album": {
+        "name": "Difela Medley (Live)",
+        "url": "https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z"
+      },
+      "artists": [
+        {
+          "name": "Puleng March",
+          "url": "https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn"
+        }
+      ],
+      "duration_ms": 665013,
+      "name": "Difela Medley - Live",
+      "url": "https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
         "name": "Love & Grace (Live At The Barnyard Theatre / Deluxe Version)",
         "url": "https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv"
       },
@@ -1283,98 +1271,6 @@
       "duration_ms": 470600,
       "name": "Nothing Without You - Live",
       "url": "https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
-        "url": "https://open.spotify.com/album/0zUMdTHLXk0QQHTpjGsXWj"
-      },
-      "artists": [
-        {
-          "name": "The Fellowship",
-          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
-        },
-        {
-          "name": "Mthunzi Namba",
-          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
-        },
-        {
-          "name": "Sibongiseni Ndlovu",
-          "url": "https://open.spotify.com/artist/794clGVKYY9cKv7IPlWnb6"
-        },
-        {
-          "name": "Thembelihle Mthethwa",
-          "url": "https://open.spotify.com/artist/1AScIJ4Yly7SLBfpuIF6Gu"
-        }
-      ],
-      "duration_ms": 462173,
-      "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
-      "url": "https://open.spotify.com/track/03ETrbJ4DCvi1Pos6OFOfj"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Another Level Of Worship",
-        "url": "https://open.spotify.com/album/0Efc952Zwr7eco7WyiWoJx"
-      },
-      "artists": [
-        {
-          "name": "Neyi Zimu",
-          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
-        }
-      ],
-      "duration_ms": 341053,
-      "name": "Jehova Retshepile Wena",
-      "url": "https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB"
-    },
-    {
-      "added_at": "2024-05-31 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 28 (Live at Durban Icc)",
-        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 561120,
-      "name": "Behlanziwe (Live at Durban Icc)",
-      "url": "https://open.spotify.com/track/7Ljt4HzZt0LkDYZf6Xbk7N"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ndikhokhele Bawo",
-        "url": "https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX"
-      },
-      "artists": [
-        {
-          "name": "Cape Town Camerata",
-          "url": "https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH"
-        }
-      ],
-      "duration_ms": 212069,
-      "name": "Ndikhokhele Bawo",
-      "url": "https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Wafika",
-        "url": "https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo"
-      },
-      "artists": [
-        {
-          "name": "Dr Tumi",
-          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
-        }
-      ],
-      "duration_ms": 513718,
-      "name": "Wafika",
-      "url": "https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1397,6 +1293,38 @@
       "url": "https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk"
     },
     {
+      "added_at": "2024-05-31 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 28 (Live at Durban Icc)",
+        "url": "https://open.spotify.com/album/0kORCJYTN3LuO0z1HFycAU"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 561120,
+      "name": "Behlanziwe (Live at Durban Icc)",
+      "url": "https://open.spotify.com/track/7Ljt4HzZt0LkDYZf6Xbk7N"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Another Level Of Worship",
+        "url": "https://open.spotify.com/album/0Efc952Zwr7eco7WyiWoJx"
+      },
+      "artists": [
+        {
+          "name": "Neyi Zimu",
+          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
+        }
+      ],
+      "duration_ms": 341053,
+      "name": "Jehova Retshepile Wena",
+      "url": "https://open.spotify.com/track/3NIngZRxMFF6OX4um51JMB"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 7 (Live)",
@@ -1417,6 +1345,158 @@
       "url": "https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU"
     },
     {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Ndincedeni (Revisit)",
+        "url": "https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dalom Kids",
+          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
+        },
+        {
+          "name": "King Khustah",
+          "url": "https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E"
+        },
+        {
+          "name": "Myy Gerald",
+          "url": "https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl"
+        },
+        {
+          "name": "Gash Beats",
+          "url": "https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE"
+        }
+      ],
+      "duration_ms": 280436,
+      "name": "Ndincedeni - Revisit",
+      "url": "https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Wafika",
+        "url": "https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo"
+      },
+      "artists": [
+        {
+          "name": "Dr Tumi",
+          "url": "https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ"
+        }
+      ],
+      "duration_ms": 513718,
+      "name": "Wafika",
+      "url": "https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ndikhokhele Bawo",
+        "url": "https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX"
+      },
+      "artists": [
+        {
+          "name": "Cape Town Camerata",
+          "url": "https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH"
+        }
+      ],
+      "duration_ms": 212069,
+      "name": "Ndikhokhele Bawo",
+      "url": "https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "The Grace Encounter, Vol. 1",
+        "url": "https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc"
+      },
+      "artists": [
+        {
+          "name": "Bucy Radebe",
+          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
+        },
+        {
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z"
+        }
+      ],
+      "duration_ms": 319793,
+      "name": "Simbonga Ngothando",
+      "url": "https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Spirit of Praise 7",
+        "url": "https://open.spotify.com/album/43UYPX4SkCTGFwoJOUO3y6"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Neyi Zimu",
+          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
+        }
+      ],
+      "duration_ms": 407973,
+      "name": "Ke Mang",
+      "url": "https://open.spotify.com/track/5B80shEtKtSVaiHB4yYVxj"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Kulungile Baba Live",
+        "url": "https://open.spotify.com/album/2LrlhOhIwh3ebdqYSbTAuD"
+      },
+      "artists": [
+        {
+          "name": "S'fiso Ncwane",
+          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
+        }
+      ],
+      "duration_ms": 167288,
+      "name": "Ngobekezela - Live",
+      "url": "https://open.spotify.com/track/0GawoSqYLlB2VjTjhAtFC3"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
+        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 598053,
+      "name": "Umoya Praise Medley - Live",
+      "url": "https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
+        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
+      },
+      "artists": [
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        },
+        {
+          "name": "Dumi Mkokstad",
+          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+        }
+      ],
+      "duration_ms": 668687,
+      "name": "Nguna Phakade (Live)",
+      "url": "https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Africa For Jesus",
@@ -1431,6 +1511,30 @@
       "duration_ms": 531240,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/7f9S6zqIN62gFphKylbd6F"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Indumiso yaseStezi",
+        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
+      },
+      "artists": [
+        {
+          "name": "Thinah Zungu",
+          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
+        },
+        {
+          "name": "NUZ VOJ",
+          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
+        },
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
+        }
+      ],
+      "duration_ms": 319837,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1464,58 +1568,6 @@
           "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
         },
         {
-          "name": "Neyi Zimu",
-          "url": "https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt"
-        }
-      ],
-      "duration_ms": 407973,
-      "name": "Ke Mang",
-      "url": "https://open.spotify.com/track/5B80shEtKtSVaiHB4yYVxj"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Heavenly Psalms - Level 1 (Live at Goshen City Church 2023)",
-        "url": "https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C"
-      },
-      "artists": [
-        {
-          "name": "SbuNoah",
-          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
-        }
-      ],
-      "duration_ms": 635240,
-      "name": "Ekujuleni (Live at Goshen City Church 2023)",
-      "url": "https://open.spotify.com/track/639batqvLenaQp4sh5Jov7"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Kulungile Baba Live",
-        "url": "https://open.spotify.com/album/2LrlhOhIwh3ebdqYSbTAuD"
-      },
-      "artists": [
-        {
-          "name": "S'fiso Ncwane",
-          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
-        }
-      ],
-      "duration_ms": 167288,
-      "name": "Ngobekezela - Live",
-      "url": "https://open.spotify.com/track/0GawoSqYLlB2VjTjhAtFC3"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Spirit of Praise 7",
-        "url": "https://open.spotify.com/album/43UYPX4SkCTGFwoJOUO3y6"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
           "name": "Thinah Zungu",
           "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
         }
@@ -1523,46 +1575,6 @@
       "duration_ms": 331484,
       "name": "Ekugcineni",
       "url": "https://open.spotify.com/track/22YCu4JlNER6GS8NvblvoC"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Wash'Umlilo",
-        "url": "https://open.spotify.com/album/7uzInEeGb5QkR7u5K6VrI6"
-      },
-      "artists": [
-        {
-          "name": "Bucy Radebe",
-          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
-        }
-      ],
-      "duration_ms": 370365,
-      "name": "Wash'Umlilo",
-      "url": "https://open.spotify.com/track/0GGplcnPYWTfR7a6zSmRLS"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Indumiso yaseStezi",
-        "url": "https://open.spotify.com/album/5Ci8C1GuiWOK5tWQeq2KPd"
-      },
-      "artists": [
-        {
-          "name": "Thinah Zungu",
-          "url": "https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg"
-        },
-        {
-          "name": "NUZ VOJ",
-          "url": "https://open.spotify.com/artist/5UKtBCqzTmnzTsYqcwt18O"
-        },
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/3S4LQkYcseGEqdwXe3MWYN"
-        }
-      ],
-      "duration_ms": 319837,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/0oFuL4quMVGs9Hi3NN7nkM"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1583,90 +1595,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Makabongwe: The Sound of Revival (Live)",
-        "url": "https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4"
-      },
-      "artists": [
-        {
-          "name": "Ntokozo Mbambo",
-          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
-        }
-      ],
-      "duration_ms": 301579,
-      "name": "Makabongwe - Live",
-      "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Uthando Lwakho Luyangengama",
-        "url": "https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg"
-      },
-      "artists": [
-        {
-          "name": "Njabulo Masinga",
-          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
-        }
-      ],
-      "duration_ms": 268512,
-      "name": "Uthando Lwakho Luyangengama",
-      "url": "https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Joyous Celebration, Vol. 18: One Purpose (Live at CityHill Church, Durban 2014)",
-        "url": "https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 598053,
-      "name": "Umoya Praise Medley - Live",
-      "url": "https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ingumlilo (Lento) [Live]",
-        "url": "https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 314960,
-      "name": "Ingumlilo (Lento) - Live",
-      "url": "https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "The Grace Encounter, Vol. 1",
-        "url": "https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc"
-      },
-      "artists": [
-        {
-          "name": "Bucy Radebe",
-          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
-        },
-        {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z"
-        }
-      ],
-      "duration_ms": 319793,
-      "name": "Simbonga Ngothando",
-      "url": "https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Ingoma",
         "url": "https://open.spotify.com/album/5HKL6I7wz52Q60jEzUzuyW"
       },
@@ -1683,18 +1611,46 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Ngiyazi uMhlengi Wami (Deluxe) [Live]",
-        "url": "https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ"
+        "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
+        "url": "https://open.spotify.com/album/0zUMdTHLXk0QQHTpjGsXWj"
       },
       "artists": [
         {
-          "name": "Njabulo Masinga",
-          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+          "name": "The Fellowship",
+          "url": "https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga"
+        },
+        {
+          "name": "Mthunzi Namba",
+          "url": "https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv"
+        },
+        {
+          "name": "Sibongiseni Ndlovu",
+          "url": "https://open.spotify.com/artist/794clGVKYY9cKv7IPlWnb6"
+        },
+        {
+          "name": "Thembelihle Mthethwa",
+          "url": "https://open.spotify.com/artist/1AScIJ4Yly7SLBfpuIF6Gu"
         }
       ],
-      "duration_ms": 561254,
-      "name": "Ngiyazi uMhlengi Wami (Deluxe) - Live",
-      "url": "https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM"
+      "duration_ms": 462173,
+      "name": "Kukhon' Igama (Live in Bryanston 2022) (feat. Sibongiseni Ndlovu & Thembelihle Mthethwa)",
+      "url": "https://open.spotify.com/track/03ETrbJ4DCvi1Pos6OFOfj"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Wash'Umlilo",
+        "url": "https://open.spotify.com/album/7uzInEeGb5QkR7u5K6VrI6"
+      },
+      "artists": [
+        {
+          "name": "Bucy Radebe",
+          "url": "https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71"
+        }
+      ],
+      "duration_ms": 370365,
+      "name": "Wash'Umlilo",
+      "url": "https://open.spotify.com/track/0GGplcnPYWTfR7a6zSmRLS"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1715,38 +1671,66 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Mo Roriseng (Live at Mosaiek Theatre, 2023)",
-        "url": "https://open.spotify.com/album/0KDGCLqGhPxcY8FN5PYtd4"
+        "name": "Makabongwe: The Sound of Revival (Live)",
+        "url": "https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4"
       },
       "artists": [
         {
-          "name": "Omega Khunou",
-          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
-        },
-        {
-          "name": "Dumi Mkokstad",
-          "url": "https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p"
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
         }
       ],
-      "duration_ms": 668687,
-      "name": "Nguna Phakade (Live)",
-      "url": "https://open.spotify.com/track/0oSn99YO48dZWxNox6oHYF"
+      "duration_ms": 301579,
+      "name": "Makabongwe - Live",
+      "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
     },
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "The Ground We Stand On",
-        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
+        "name": "Ingumlilo (Lento) [Live]",
+        "url": "https://open.spotify.com/album/1cmIfoIgaAuWyocxTn2i88"
       },
       "artists": [
         {
-          "name": "Mahalia Buchanan",
-          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 253558,
-      "name": "Holy (Most High)",
-      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
+      "duration_ms": 314960,
+      "name": "Ingumlilo (Lento) - Live",
+      "url": "https://open.spotify.com/track/4oWA2rEDhWrSOeS61szIIM"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Simbona Ngothando Lwakhe (Medley 5)",
+        "url": "https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "duration_ms": 342911,
+      "name": "Simbona Ngothando Lwakhe - Medley 5",
+      "url": "https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Heavenly Psalms - Level 1 (Live at Goshen City Church 2023)",
+        "url": "https://open.spotify.com/album/00uO5FuLCGQsuA2ZKJLK1C"
+      },
+      "artists": [
+        {
+          "name": "SbuNoah",
+          "url": "https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O"
+        }
+      ],
+      "duration_ms": 635240,
+      "name": "Ekujuleni (Live at Goshen City Church 2023)",
+      "url": "https://open.spotify.com/track/639batqvLenaQp4sh5Jov7"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1771,8 +1755,8 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Simbona Ngothando Lwakhe (Medley 5)",
-        "url": "https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji"
+        "name": "Ngiyazi uMhlengi Wami (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ"
       },
       "artists": [
         {
@@ -1780,9 +1764,41 @@
           "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
         }
       ],
-      "duration_ms": 342911,
-      "name": "Simbona Ngothando Lwakhe - Medley 5",
-      "url": "https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT"
+      "duration_ms": 561254,
+      "name": "Ngiyazi uMhlengi Wami (Deluxe) - Live",
+      "url": "https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Uthando Lwakho Luyangengama",
+        "url": "https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg"
+      },
+      "artists": [
+        {
+          "name": "Njabulo Masinga",
+          "url": "https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3"
+        }
+      ],
+      "duration_ms": 268512,
+      "name": "Uthando Lwakho Luyangengama",
+      "url": "https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "The Ground We Stand On",
+        "url": "https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Buchanan",
+          "url": "https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC"
+        }
+      ],
+      "duration_ms": 253558,
+      "name": "Holy (Most High)",
+      "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
     }
   ],
   "unique_name": "Sunday Praise",

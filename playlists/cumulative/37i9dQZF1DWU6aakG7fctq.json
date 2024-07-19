@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172453,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/5xMhjUFxBKARLrvjq3DpHR"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187640,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
@@ -7287,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
+    },
+    {
+      "album": {
         "name": "Mirando al techo - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP"
       },
@@ -11092,6 +11110,24 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "album": {

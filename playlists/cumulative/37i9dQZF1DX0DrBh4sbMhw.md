@@ -2,16 +2,16 @@
 
 ### [magmuni\-muni](https://open.spotify.com/playlist/37i9dQZF1DX0DrBh4sbMhw)
 
-> umuulan nanaman?
+> ang lalim
 
-168 songs - 10 hr 42 min
+171 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause You Have To](https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:10 | 2023-10-18 | 2024-04-19 |
 | ['Cause You Have To](https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 4:10 | 2024-03-04 | 2024-06-06 |
 | ['Di Mo Na Ako Kailangan](https://open.spotify.com/track/2jH3jIMoBoORTSau1dXd7s) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | ['Di Mo Na Ako Kailangan](https://open.spotify.com/album/7sGMaboQcgmbchUA8lVtQF) | 3:51 | 2023-10-18 |  |
-| [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-10-18 |  |
+| [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-10-18 | 2024-07-19 |
 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 | 2023-11-10 | 2024-06-06 |
 | [Aftertaste](https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Aftertaste](https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc) | 3:32 | 2023-10-18 |  |
 | [Ako Ang Iyong Lagi](https://open.spotify.com/track/6VVfotOnpdJJBNGLsg9FXG) | [Earl Generao](https://open.spotify.com/artist/37gpPWUw01BXkRl4zg8hkk) | [Ako Ang Iyong Lagi](https://open.spotify.com/album/2TRJ3kk13uLslcK78UuceY) | 5:14 | 2023-10-18 |  |
@@ -61,7 +61,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-17 |  |
 | [Guilty](https://open.spotify.com/track/4hrhbBDsHsyPRlRmAhr0B7) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Guilty](https://open.spotify.com/album/7rQjX2ZepaAedLLcl4Fah6) | 3:13 | 2023-10-18 |  |
 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-10-18 |  |
-| [Gusto Ko Nang Bumitaw \- R&B Version](https://open.spotify.com/track/5A0iwwO0qsBL1xNejV3F0q) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Gusto Ko Nang Bumitaw \(R&B Version\)](https://open.spotify.com/album/31hgf1HCoTGPJroYu2VMcb) | 6:13 | 2023-10-18 |  |
+| [Gusto Ko Nang Bumitaw \- R&B Version](https://open.spotify.com/track/5A0iwwO0qsBL1xNejV3F0q) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Gusto Ko Nang Bumitaw \(R&B Version\)](https://open.spotify.com/album/31hgf1HCoTGPJroYu2VMcb) | 6:13 | 2023-10-18 | 2024-07-19 |
 | [Hangin](https://open.spotify.com/track/1y2t6CYXp7llG3fnhTkQOl) | [Yno](https://open.spotify.com/artist/1UA8gmDdRTIn1SIswEIAXg) | [Hangin](https://open.spotify.com/album/7CwjUB296r3lpbcvC8h7cj) | 4:59 | 2023-10-18 |  |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-10-18 |  |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2024-06-05 |  |
@@ -79,7 +79,7 @@
 | [i know you know](https://open.spotify.com/track/61FGR56QJ94BHIkfh755s4) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/2nNQOtUsfNhwJguQorQmNK) | 4:24 | 2023-10-18 | 2024-04-19 |
 | [i know you know](https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1) | 4:24 | 2024-03-04 |  |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-17 |  |
-| [in another life](https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K) | [Zion Aguirre](https://open.spotify.com/artist/5U09RsRxa8IQ9GYtIsxY3d) | [in another life](https://open.spotify.com/album/5cvdRWWh28Uh6ZprLNUici) | 3:12 | 2023-10-18 |  |
+| [in another life](https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K) | [Zion Aguirre](https://open.spotify.com/artist/5U09RsRxa8IQ9GYtIsxY3d) | [in another life](https://open.spotify.com/album/5cvdRWWh28Uh6ZprLNUici) | 3:12 | 2023-10-18 | 2024-07-19 |
 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 | 2024-02-07 | 2024-06-06 |
 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 | 2023-10-18 | 2024-04-19 |
 | [Isip](https://open.spotify.com/track/2yvs8IrjxD0Qtiz4qw27rp) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/0yPrxYB9mn4KOybHemESoF) | 4:25 | 2024-03-04 |  |
@@ -134,17 +134,20 @@
 | [pick up the phone](https://open.spotify.com/track/6Z1IBgysq1FfSzhQWUdvAc) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 2:25 | 2024-03-04 | 2024-04-19 |
 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 | 2023-10-18 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-17 |  |
+| [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2024-07-19 |  |
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-10-18 | 2024-04-19 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2024-03-04 |  |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 |  |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-07-17 |  |
 | [Sandig](https://open.spotify.com/track/7I9I0ImS8CKwuUKtlpuRLM) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Sandig](https://open.spotify.com/album/7xrmiIlcsru3uWGRNeMZZn) | 3:37 | 2023-10-18 |  |
 | [Sansinukob](https://open.spotify.com/track/7jOqzJjLxMTg6yScO5nYDb) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Sansinukob](https://open.spotify.com/album/3jXW9PJLrAvYhBQMrQTVti) | 3:13 | 2023-10-18 |  |
+| [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-19 |  |
 | [Scars](https://open.spotify.com/track/5SjfjoYaRJ5jycgqwV0ow0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Scars](https://open.spotify.com/album/5ZFNVSacvOj5XKRkqv39tY) | 3:12 | 2023-10-18 |  |
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-10-18 | 2024-04-19 |
 | [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-10-18 |  |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-10 | 2024-06-06 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-11 | 2024-07-18 |
+| [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-19 |  |
 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 | 2023-10-18 |  |
 | [SITWASYONSHIP](https://open.spotify.com/track/0wNf0yIreg4A8C5ZUY6b6Q) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [SITWASYONSHIP](https://open.spotify.com/album/7pZrfpbQ6XUmcE7ilysG4v) | 3:48 | 2023-11-10 | 2024-06-06 |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-10-18 |  |

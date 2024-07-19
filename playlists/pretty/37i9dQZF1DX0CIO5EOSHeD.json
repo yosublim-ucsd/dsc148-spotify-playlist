@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Hovvdy",
-  "num_followers": 497042,
+  "num_followers": 497092,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Vampire in Beverly Hills",
         "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 154607,
       "name": "Skater Dater (feat. Bb trickz & Elvia)",
       "url": "https://open.spotify.com/track/4GYGVb83KdpBszyMhaPh9O"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Scream from New York, NY",
         "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "I Want To Be With You",
         "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "i don't need to understand",
+        "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 146594,
+      "name": "i don't need to understand",
+      "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "i don't need to understand",
-        "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 146594,
-      "name": "i don't need to understand",
-      "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "you look lovely when you're living",
         "url": "https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 169707,
       "name": "we never made it to glasgow",
       "url": "https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "That's What They Wanted",
-        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 116832,
-      "name": "That's What They Wanted",
-      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "HeatDeath",
         "url": "https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
       "artists": [
         {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
         }
       ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+        "name": "There's A Big Star Outside",
+        "url": "https://open.spotify.com/album/1yg5mDwQPoM6fj4zrq5vOC"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
         }
       ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+      "duration_ms": 222171,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/3BzGaX0BMT6DJIjHREFfTl"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1335,22 +1351,6 @@
       "duration_ms": 211885,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/5nXPrRi96k1FVpBdIxujlN"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "There's A Big Star Outside",
-        "url": "https://open.spotify.com/album/1yg5mDwQPoM6fj4zrq5vOC"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/3BzGaX0BMT6DJIjHREFfTl"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Chopper",
-        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
-      },
-      "artists": [
-        {
-          "name": "Kiwi jr.",
-          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "blood on the pavement",
         "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 221333,
       "name": "blood on the pavement",
       "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
+      },
+      "artists": [
+        {
+          "name": "Kiwi jr.",
+          "url": "https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1483,6 +1483,22 @@
       "duration_ms": 268909,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu"
+      },
+      "artists": [
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1535,22 +1551,6 @@
       "duration_ms": 172729,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/4pXjVzQUhOQQmuYSGBiyx6"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/5XOlVDmoXEsVEgIO4vzrMu"
-      },
-      "artists": [
-        {
-          "name": "World Brain",
-          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/5GrmEP9RYU4XEHCPLdTAP0"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Attempt",
-        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+        "name": "KPR",
+        "url": "https://open.spotify.com/album/4kAsnJ87kSwxe5KPJiydox"
       },
       "artists": [
         {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Attempt",
-      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
+      "duration_ms": 213002,
+      "name": "KPR",
+      "url": "https://open.spotify.com/track/0fcHWRLf2uRGk9GDamLkpA"
     }
   ],
   "unique_name": "Lofi Indie",

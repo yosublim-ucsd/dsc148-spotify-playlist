@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: YOOKiE \\m/",
-  "num_followers": 328768,
+  "num_followers": 328780,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,26 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+      "duration_ms": 246400,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -1511,26 +1515,22 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
       "artists": [
         {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
         },
         {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Higher Ground (Part 1)",
-        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Industrial Strain",
-      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
         "name": "Warzone",
         "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 162916,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2159,30 +2159,6 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "demolition (Ruined by Glass Petals)",
-        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "demolition (Ruined by Glass Petals)",
-      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2203,6 +2179,30 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
+        "name": "demolition (Ruined by Glass Petals)",
+        "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
+      },
+      "artists": [
+        {
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "demolition (Ruined by Glass Petals)",
+      "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 284137,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
-    },
-    {
-      "added_at": "2024-07-12 17:41:26",
-      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -2367,18 +2347,22 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
       "artists": [
         {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 162856,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
+      "duration_ms": 284137,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2407,6 +2391,22 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+      },
+      "artists": [
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+    },
+    {
+      "added_at": "2024-07-12 17:41:26",
+      "album": {
         "name": "Black Velvet",
         "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
       },
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx"
       },
       "artists": [
         {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
         }
       ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
+      "duration_ms": 162856,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr"
     },
     {
       "added_at": "2024-07-12 17:41:26",
@@ -2499,26 +2499,18 @@
     {
       "added_at": "2024-07-12 17:41:26",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3jdiIaMrGeRxFbjkdz3LBE"
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
       "artists": [
         {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Stoned Level",
-          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
-        },
-        {
-          "name": "Qoiet",
-          "url": "https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 217655,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/1ttkNqDHNLSJBdlVwalFF0"
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     }
   ],
   "unique_name": "Rocktronic",

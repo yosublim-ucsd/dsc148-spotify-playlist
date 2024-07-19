@@ -957,7 +957,7 @@
     },
     {
       "album": {
-        "name": "My City",
+        "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
       "artists": [
@@ -968,13 +968,17 @@
         {
           "name": "Prophecy",
           "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
         }
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 151874,
-      "name": "My City",
+      "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
     },
     {

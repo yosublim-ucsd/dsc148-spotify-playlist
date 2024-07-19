@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M"
       },
@@ -932,6 +950,24 @@
       "duration_ms": 229013,
       "name": "Eu sei que vou te amar",
       "url": "https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5"
+    },
+    {
+      "album": {
+        "name": "Even Bossa If I Have To",
+        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151676,
+      "name": "Even Bossa If I Have To",
+      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
     },
     {
       "album": {
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
@@ -2370,7 +2406,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 256049,
       "name": "Sentido",
       "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
@@ -2450,7 +2486,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203662,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8"
@@ -2964,6 +3000,24 @@
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+    },
+    {
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWV6hddfqLW3Z"

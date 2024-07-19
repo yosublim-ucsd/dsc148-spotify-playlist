@@ -1,12 +1,12 @@
 {
   "description": "we got you bro. Cover: Post Malone",
-  "num_followers": 99406,
+  "num_followers": 99557,
   "original_name": "sad boy anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoxALQAAAACsnqlbjLQStdezpScu6FZP",
+  "snapshot_id": "ZpnkwAAAAAB4P1zUgecOMsIR9Ev6w0JA",
   "tracks": [
     {
       "added_at": "2024-02-23 05:00:00",
@@ -153,6 +153,26 @@
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I\u2019d Rather Overdose",
+        "url": "https://open.spotify.com/album/5VNV5BxQBUXGAB1IWx2yRc"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 184884,
+      "name": "I\u2019d Rather Overdose",
+      "url": "https://open.spotify.com/track/3UpwgFvuWW60WKco2LqwO2"
+    },
+    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Narrated For You",
@@ -223,22 +243,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "i am > i was",
-        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 195046,
-      "name": "ball w/o you",
-      "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -251,6 +255,22 @@
       "duration_ms": 95466,
       "name": "Everybody Dies In Their Nightmares",
       "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 195046,
+      "name": "ball w/o you",
+      "url": "https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -335,22 +355,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
-      },
-      "artists": [
-        {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -387,6 +391,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -403,8 +423,8 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
@@ -412,9 +432,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 175755,
-      "name": "Lean Wit Me",
-      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -459,22 +479,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -491,6 +495,22 @@
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -547,6 +567,22 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175755,
+      "name": "Lean Wit Me",
+      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
         "name": "Nicotine",
         "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
       },
@@ -563,22 +599,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -591,22 +611,6 @@
       "duration_ms": 179613,
       "name": "Go Flex",
       "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 183624,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -631,6 +635,22 @@
       "duration_ms": 150475,
       "name": "bad vibes forever (feat. PnB Rock & Trippie Redd)",
       "url": "https://open.spotify.com/track/03eJ2DclFWXYU8GWgANdmZ"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 183624,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -671,22 +691,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Hollywood's Bleeding",
-      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "We Love You Tecca",
         "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
@@ -699,6 +703,22 @@
       "duration_ms": 116240,
       "name": "Did It Again",
       "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "Hollywood's Bleeding",
+      "url": "https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -811,22 +831,6 @@
       "duration_ms": 224002,
       "name": "Down Below",
       "url": "https://open.spotify.com/track/4SWWe2OYC4mqf40Gc2RSdl"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
     },
     {
       "added_at": "2024-02-23 05:00:00",

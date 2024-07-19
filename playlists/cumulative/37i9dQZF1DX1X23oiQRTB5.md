@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Lacrim x Gazo au top de la première playlist de rap français.
+> JKSN x UZI au top de la première playlist de rap français.
 
-262 songs - 13 hr 27 min
+263 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-25 | 2023-05-19 |
 | [DIS\-MOI \(feat\. SDM\)](https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:55 | 2023-11-23 | 2024-04-19 |
 | [Dolce Camara](https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:58 | 2024-02-22 |  |
+| [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 | 2024-07-18 |  |
 | [Drama queen](https://open.spotify.com/track/4RVPmkIVvzcWF27zfn3sap) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Drama queen](https://open.spotify.com/album/01mO9ZxpTUCroczjsauart) | 2:39 | 2022-07-14 | 2022-09-02 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2022-01-06 | 2022-01-21 |
 | [Décembre](https://open.spotify.com/track/5yzH31eVQS7ctEcvYIwdTk) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Décembre](https://open.spotify.com/album/3jYj8yDBVr3Opb71BldBns) | 2:19 | 2023-03-09 | 2023-06-09 |
@@ -138,7 +139,7 @@
 | [L'odeur de l'essence](https://open.spotify.com/track/4c3TC1eWvz6BgOqSlOAKdT) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 4:42 | 2022-01-06 | 2022-04-01 |
 | [La 14](https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 14](https://open.spotify.com/album/0DSaOBR0QbYpz3d0l9ksvM) | 2:51 | 2022-01-06 | 2022-01-21 |
 | [La 15 \(GSXR\)](https://open.spotify.com/track/5KANzscJcnk2n4CvtTOiZU) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [La 15 \(GSXR\)](https://open.spotify.com/album/41LI7y7bznXzeAZj6Wup5n) | 2:50 | 2022-06-02 | 2022-07-22 |
-| [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-08 |  |
+| [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 | 2024-02-08 | 2024-07-19 |
 | [La faille](https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [La faille](https://open.spotify.com/album/1jBSMXrJSzDX6GQnmqj5qL) | 4:51 | 2023-05-25 | 2024-02-23 |
 | [La Force Tranquille](https://open.spotify.com/track/7i7lGrzY9BHFclTeQSeopG) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [La Force Tranquille](https://open.spotify.com/album/0gfcNJ7BVV5u7JCWYeHHw9) | 4:04 | 2023-02-23 | 2023-05-12 |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-18 | 2024-01-19 |

@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover:  Tay Iwar and Le Mav
+> The smoothest Afro R&B out right now\. Cover:  Victony
 
-384 songs - 20 hr 26 min
+386 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-15 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 |  |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 | 2022-03-04 |
-| [All Good](https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:02 | 2024-03-29 |  |
+| [All Good](https://open.spotify.com/track/5jtnLmxG92vA96CuxAZ3I5) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Love Lust](https://open.spotify.com/album/4mJPHa9BSpMEROuL2oZvnP) | 3:02 | 2024-03-29 | 2024-07-19 |
 | [All I Want](https://open.spotify.com/track/3hMLmlpwXV9XVXDjXytmqV) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [All I Want](https://open.spotify.com/album/1wGs4jO79okKdhjsRTIalS) | 3:37 | 2023-03-10 | 2023-03-25 |
 | [All Night Long](https://open.spotify.com/track/09hl96SvYkjwdXCgq1wSlw) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [All Night Long](https://open.spotify.com/album/7quQSHn1YFtfGXZHD8JR74) | 5:52 | 2023-08-18 | 2024-06-21 |
 | [ALL OF ME](https://open.spotify.com/track/4LK8gp5INawRELfGEhnjHv) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [ALL OF ME](https://open.spotify.com/album/4PLaaaFomjdQdRPPmBv8V5) | 3:28 | 2022-04-14 | 2023-04-28 |
@@ -291,6 +291,7 @@
 | [Remember](https://open.spotify.com/track/26YdVfiTU42rvEG9oDOvQA) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [REMEMBER](https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q) | 5:57 | 2022-04-28 | 2022-07-23 |
 | [RIDE N SING](https://open.spotify.com/track/6ysrsFj81F7QRSZpGvGt2t) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Point Of View](https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc) | 3:24 | 2023-12-01 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2021-05-21 | 2023-06-09 |
+| [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
 | [Risk \(feat\. Moliy\)](https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Risk \(feat\. Moliy\)](https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh) | 2:47 | 2024-03-22 |  |
 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 | 2024-07-12 |  |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2023-02-16 | 2023-06-03 |
@@ -304,7 +305,7 @@
 | [Sail](https://open.spotify.com/track/26mrUHchbcgiCahub27gZY) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Sail](https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm) | 2:28 | 2023-06-02 | 2023-12-15 |
 | [SAME AS YOU](https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 2:50 | 2022-03-11 | 2023-02-04 |
 | [Sarafina](https://open.spotify.com/track/0ihzl8eB3WzXt0dJm00iwN) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3YvcYmGDwqLY5wujoDDuzF) | 3:10 | 2024-03-15 | 2024-04-19 |
-| [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 |  |
+| [Sarafina](https://open.spotify.com/track/2yPDSFXa5vQqWuzp2Zhhp3) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Sarafina](https://open.spotify.com/album/3NvXYPow2aoFAW48f3CCYe) | 3:10 | 2023-10-13 | 2024-07-19 |
 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 | 2021-12-16 | 2023-04-21 |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 | 2022-08-13 |
 | [Seasons](https://open.spotify.com/track/4DLy6eUxyIWTYyvpgMCoBD) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Seasons](https://open.spotify.com/album/7MmAX3YCJv7qPBV9bvad1a) | 3:41 | 2023-07-28 |  |
@@ -389,6 +390,7 @@
 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 | 2024-05-31 |  |
 | [You're So You](https://open.spotify.com/track/2PBkxni7Zk4wpaZ8FSHHlF) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [You're So You](https://open.spotify.com/album/0iaGPkg7MNQGfVqk2A60I5) | 2:40 | 2023-09-01 |  |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-09-02 |
+| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 |  |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-16 |  |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 |  |
 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 |  |

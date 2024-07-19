@@ -4,7 +4,7 @@
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-330 songs - 20 hr 5 min
+331 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 | 2022-07-27 | 2024-04-19 |
 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 | 2021-11-12 |  |
 | [Dearly Departed](https://open.spotify.com/track/54Vzo0onfZGkDhK5ANaBcd) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Amerikinda: 20 Years of Dualtone](https://open.spotify.com/album/7z7VeehpjwjGU8HtVUXKdB) | 5:11 | 2021-11-12 | 2024-01-10 |
+| [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 |  |
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2021-11-12 |  |
 | [Dire Wolf \- Bonus Track](https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree \(Deluxe Edition\)](https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6) | 3:32 | 2022-12-02 | 2024-01-10 |
 | [Don't Dream It's Over](https://open.spotify.com/track/6QArEKofNPvQcI1bWn9MAS) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Don't Dream It's Over](https://open.spotify.com/album/21wasMSzv1uqkmqO4NhndJ) | 3:52 | 2022-05-27 |  |

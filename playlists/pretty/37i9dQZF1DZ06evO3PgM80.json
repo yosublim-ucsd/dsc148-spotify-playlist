@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19272,
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "num_followers": 19278,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABCOPdFRhOaOFn7JQwl+WPh",
+  "snapshot_id": "ZpcJgAAAAACGCJZ0DwavfuaBGgDG9Roz",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00e9s Bom",
         "url": "https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV"
       },
@@ -255,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
+        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
       },
       "artists": [
         {
@@ -264,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 293426,
-      "name": "Em Fervente Orac\u0327a\u0303o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+      "duration_ms": 293617,
+      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,
@@ -287,22 +303,6 @@
       "duration_ms": 347413,
       "name": "Redimido - Ao Vivo",
       "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 293617,
-      "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 202000,
       "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     },
     {
       "added_at": null,

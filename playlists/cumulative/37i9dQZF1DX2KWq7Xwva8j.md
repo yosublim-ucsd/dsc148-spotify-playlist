@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro está aquí\. Foto: Samuraï
+> El futuro está aquí\. Foto: Luis Cortés
 
-241 songs - 11 hr 45 min
+242 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [PROGRESO](https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [PROGRESO](https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe) | 3:22 | 2022-12-21 | 2024-02-07 |
 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 | 2022-09-08 | 2023-09-16 |
 | [Pétalos de Margarita](https://open.spotify.com/track/3SsYoRhQR9HS4bGelWcmjx) | [Rodricc](https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw) | [Pétalos de Margarita](https://open.spotify.com/album/4BfyVRfqU1Eq64QcP3P0tU) | 2:40 | 2021-12-31 | 2022-03-18 |
+| [Que Me Lleve el Aire](https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Que Me Lleve el Aire](https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm) | 2:50 | 2024-07-18 |  |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 | 2023-09-15 | 2024-02-07 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-07-14 | 2022-09-17 |
 | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc) | [INNMIR](https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn), [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [quien me quiere \(no me quiere contigo\)](https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp) | 2:47 | 2023-03-09 | 2024-02-07 |

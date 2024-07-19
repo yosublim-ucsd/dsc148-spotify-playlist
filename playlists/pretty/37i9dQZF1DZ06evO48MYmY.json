@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 332545,
+  "num_followers": 332627,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAA7QFBTtgFSZm6UAcgxd6kv",
+  "snapshot_id": "ZpcJgAAAAACrQ4tI6PIssDxDjhHPfQSF",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 133720,
-      "name": "Anji",
-      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 142293,
       "name": "At the Zoo",
       "url": "https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 133720,
+      "name": "Anji",
+      "url": "https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Of Silence",
-        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "A Most Peculiar Man",
-      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 132613,
       "name": "Punky's Dilemma",
       "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds Of Silence",
+        "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 150560,
+      "name": "A Most Peculiar Man",
+      "url": "https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9"
     },
     {
       "added_at": null,

@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "ANY GIVEN MONDAY III",
+        "url": "https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW"
+      },
+      "artists": [
+        {
+          "name": "LAYCON",
+          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192527,
+      "name": "ADISA OGBON (GOD SENT LAYCON)",
+      "url": "https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD"
+    },
+    {
+      "album": {
         "name": "Advice",
         "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
       },
@@ -198,7 +216,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165995,
       "name": "Advice",
       "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152368,
       "name": "Crazy Crazy",
       "url": "https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ"
@@ -1882,6 +1900,24 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
     },
     {
       "album": {
@@ -4419,6 +4455,28 @@
     },
     {
       "album": {
+        "name": "Mood 4 Life",
+        "url": "https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kimani",
+          "url": "https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Requirements",
+      "url": "https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2"
+    },
+    {
+      "album": {
         "name": "ridiculouS",
         "url": "https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD"
       },
@@ -4998,7 +5056,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193207,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK"
@@ -5118,6 +5176,28 @@
       "duration_ms": 234840,
       "name": "SWave Freestyle",
       "url": "https://open.spotify.com/track/3LSK3r8VEje8lp39vstWw3"
+    },
+    {
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4"
+      },
+      "artists": [
+        {
+          "name": "TGUT",
+          "url": "https://open.spotify.com/artist/623WZ64cXpmy7sYYz1BwOR"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114636,
+      "name": "System",
+      "url": "https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw"
     },
     {
       "album": {

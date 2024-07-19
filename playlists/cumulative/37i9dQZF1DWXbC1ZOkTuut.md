@@ -2,9 +2,9 @@
 
 ### [New Música Mexicana Albums](https://open.spotify.com/playlist/37i9dQZF1DWXbC1ZOkTuut)
 
-> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: El Mimiso Luis Antonio López
+> Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Ivan Cornejo
 
-511 songs - 1 day 2 hr 24 min
+514 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Hay Niveles](https://open.spotify.com/track/2QlXMea5DOWrt84shdi1s4) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [Corridos Mafiosos](https://open.spotify.com/album/0qhfRkzOTz62P3n1PLUZ39) | 2:37 | 2023-09-08 | 2024-02-24 |
 | [Hazme Un Paro](https://open.spotify.com/track/4y9ch60iZnVqykCNhIkihi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Hazme Un Paro](https://open.spotify.com/album/14iysF9jjJkPbdaSHsxEuu) | 2:53 | 2024-05-31 |  |
 | [Hazme Un Paro](https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:45 | 2024-03-15 |  |
+| [Herida Abierta](https://open.spotify.com/track/1xvuA42QBl5ssBHvCwHXwK) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 3:36 | 2024-07-19 |  |
 | [Hice \(En Vivo\)](https://open.spotify.com/track/4DfpqWSzsEyDWG3OHpZVXa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Memo Garza](https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F) | [Hice \(En Vivo\)](https://open.spotify.com/album/7BlYGsZDeFu64x851JTSX2) | 3:13 | 2024-03-15 |  |
 | [Hilito Rojo](https://open.spotify.com/track/1vnBJSE0DRxYB5izG8jRFc) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Fénix](https://open.spotify.com/album/3X5IYOoKCpVmADRzZWbUIV) | 2:23 | 2024-06-14 |  |
 | [Hoja En Blanco](https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 4:30 | 2023-05-19 | 2023-06-24 |
@@ -306,6 +307,7 @@
 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 | 2023-10-06 | 2024-02-24 |
 | [Mini Castillo](https://open.spotify.com/track/2CYlMOCS6sx7aF4AZ7GvOQ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:11 | 2023-05-19 | 2023-07-01 |
 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 | 2024-05-24 |  |
+| [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-07-19 |  |
 | [Mis Compas](https://open.spotify.com/track/27I5mfTqctVRiZqrIGns8g) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 3:43 | 2024-05-10 |  |
 | [Motivos](https://open.spotify.com/track/1hqmf2KAa5PaHgQhOEctZd) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 3:10 | 2023-09-22 | 2024-02-24 |
 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 | 2023-09-15 | 2024-02-24 |
@@ -499,6 +501,7 @@
 | [Volaré](https://open.spotify.com/track/1LZooGZIc85K7y5SxAWNS7) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:44 | 2023-11-24 | 2024-02-24 |
 | [Volverte A Amar](https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina \(Deluxe\)](https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5) | 3:18 | 2023-05-19 | 2023-08-26 |
 | [Volviste](https://open.spotify.com/track/7LxxXsIcWd3HtSCTWtTPuF) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [CORONAMOS](https://open.spotify.com/album/7BRjW94Ab2J3mtXuniXArD) | 3:20 | 2024-05-24 |  |
+| [Vuelve](https://open.spotify.com/track/60fniRXixufxR4HCYjOyp6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:42 | 2024-07-19 |  |
 | [Vuelve](https://open.spotify.com/track/5Tr5dDFhcodsas8ysc4PlS) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 2:53 | 2024-05-03 |  |
 | [VVS](https://open.spotify.com/track/2IESJGeddbtwiVr4ug0SN3) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:42 | 2023-06-23 | 2023-07-02 |
 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 | 2023-06-23 | 2024-02-24 |

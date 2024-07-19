@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,769 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,275 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 |
 | 2 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 |
-| 3 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 |
-| 4 | [Carta Ao Tom 74](https://open.spotify.com/track/5DHsGfjaxIpt0v0dPGaWdI) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Vinicius & Toquinho](https://open.spotify.com/album/5DRGRv3kZwLwislN27IaUz) | 2:38 |
+| 3 | [Carta Ao Tom 74](https://open.spotify.com/track/5DHsGfjaxIpt0v0dPGaWdI) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Vinicius & Toquinho](https://open.spotify.com/album/5DRGRv3kZwLwislN27IaUz) | 2:38 |
+| 4 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 |
 | 5 | [Nova Bossa Nova](https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Nova Bossa Nova](https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa) | 4:05 |
 | 6 | [Tarde em itapuã](https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Romain Lécuyer](https://open.spotify.com/artist/6KQoMDHBskwa6F66N0vZSZ) | [Alvorada](https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho) | 2:59 |
 | 7 | [Samba De Uma Nota Só](https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 3:00 |

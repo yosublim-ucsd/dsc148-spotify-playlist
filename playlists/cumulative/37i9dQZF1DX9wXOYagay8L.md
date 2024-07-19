@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6?si=RVzVsQpZQKSz6bTQ2Oo5lQ">Sjava</a>
 
-579 songs - 1 day 17 hr 33 min
+580 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Kuyabongwa](https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81) | [ChubbyCheeks](https://open.spotify.com/artist/2jMiIQfoS53BBQstybElVW) | [Kuyabongwa](https://open.spotify.com/album/1p2L4YEwcJHgRndeMG25Cw) | 3:34 | 2023-10-16 |  |
 | [KUYALUNGA](https://open.spotify.com/track/5UwtI4FsIbqq9dP2Z8WNLi) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [KUYALUNGA](https://open.spotify.com/album/6E6Vcd24pqKCTQbeEK3IHa) | 3:58 | 2023-11-03 | 2024-01-26 |
 | [Kuyobanini](https://open.spotify.com/track/7Db4g90Shps8AvEnjkypsn) | [LUNGA](https://open.spotify.com/artist/7810xgWOLCvaMyaFtnOeQa) | [Kuyobanini](https://open.spotify.com/album/2BBKqz9PnEfUEesepxLo9V) | 2:29 | 2022-05-05 | 2022-06-03 |
+| [Kwam](https://open.spotify.com/track/2ExnSVuunYouAtTXeZKUlu) | [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Kwam](https://open.spotify.com/album/3gD3mawLFt6R1BCtqh49e2) | 2:43 | 2024-07-18 |  |
 | [Kwanele](https://open.spotify.com/track/6Sokog8WVBWLyvAS9YRWan) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Kwanele](https://open.spotify.com/album/6P5ym1KF06eBEsTmYpbY3n) | 4:41 | 2022-08-04 | 2022-10-29 |
 | [Kwanele](https://open.spotify.com/track/5jcdY2IBbING7OaVQ04o6l) | [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr), [Airburn Sounds](https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Kwanele](https://open.spotify.com/album/1tuAVUDx8fAzuGRuxMaBPo) | 4:55 | 2022-07-07 | 2022-09-02 |
 | [Kwaphela Abantu](https://open.spotify.com/track/3j9j7icV3YAZojTlHOhIpZ) | [MaNgcobo Khoza](https://open.spotify.com/artist/7KHsDkc4uJCw3ks741fcuD), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [African Spirit](https://open.spotify.com/album/7hvnqyHnWxEeqPb6DhC1Ko) | 4:04 | 2023-10-12 | 2023-12-02 |
@@ -323,7 +324,7 @@
 | [Ndibuze Bani](https://open.spotify.com/track/14kJZzn6aoCZ15zaW2elWu) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Jaziel Brothers](https://open.spotify.com/album/3wx6vWPX5g4CICfRzYTcET) | 4:33 | 2022-07-28 | 2022-09-10 |
 | [ndikhale](https://open.spotify.com/track/2VbUQfp97RJfmPRMPvYsNt) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ndikhale](https://open.spotify.com/album/6e0Xeg8LHiHlZxeB1JfSUO) | 3:20 | 2023-04-06 | 2023-04-18 |
 | [Ndiphelelwe](https://open.spotify.com/track/0jClI0jwVKDrHXLYIwivOz) | [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB) | [Ukukhanya](https://open.spotify.com/album/0jhH3kwEzUIQyNV1PjmmFI) | 4:46 | 2022-02-17 | 2022-02-25 |
-| [Ndixolele](https://open.spotify.com/track/0kxp0TQBA7geTT0CYJik4X) | [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Ndixolele](https://open.spotify.com/album/1Xu7No9RW8RON7jwelBez5) | 4:26 | 2024-05-02 |  |
+| [Ndixolele](https://open.spotify.com/track/0kxp0TQBA7geTT0CYJik4X) | [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Ndixolele](https://open.spotify.com/album/1Xu7No9RW8RON7jwelBez5) | 4:26 | 2024-05-02 | 2024-07-19 |
 | [Ndixolele](https://open.spotify.com/track/6HieqEZWOW31zn1AOvpZIc) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 6:00 | 2021-12-02 | 2022-03-04 |
 | [Ndiyabulela](https://open.spotify.com/track/7cLykVjTfbOV15BGxqwMwO) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Ndiyabulela](https://open.spotify.com/album/25FBkG39Bx4mFityjOIWNB) | 4:12 | 2022-04-14 | 2022-05-06 |
 | [Ndizobizwa](https://open.spotify.com/track/0XywBbE7wpNksX5U0DLvLv) | [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [In The Beginning](https://open.spotify.com/album/78IL241FqGBtHbtXBIQ2ET) | 3:56 | 2021-12-07 | 2022-05-20 |

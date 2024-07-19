@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168046,
       "name": "1, 2, 1, 2",
       "url": "https://open.spotify.com/track/34YMZ7E3bu4ncyxcAz2DLf"
@@ -2632,6 +2632,28 @@
       "duration_ms": 75453,
       "name": "DoisTr\u00eas",
       "url": "https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l"
+    },
+    {
+      "album": {
+        "name": "Donos do Torro",
+        "url": "https://open.spotify.com/album/2jj5EcURhCwLQkVW1eXmwx"
+      },
+      "artists": [
+        {
+          "name": "Murica",
+          "url": "https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1"
+        },
+        {
+          "name": "Prs, o Peres",
+          "url": "https://open.spotify.com/artist/6zA1Us7yWyCj4OXxkgAuqC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "Donos do Torro",
+      "url": "https://open.spotify.com/track/1qCX8wkjJjRfPXdJr8Be6v"
     },
     {
       "album": {

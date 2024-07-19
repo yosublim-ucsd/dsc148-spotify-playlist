@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udda4 cover: sethu e sally cruz",
+  "description": "musica da gridare \ud83d\udda4 con gIANMARIA in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -5263,6 +5263,24 @@
     },
     {
       "album": {
+        "name": "Disordine",
+        "url": "https://open.spotify.com/album/4o1Cd9vI7ldENywT64aEIz"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178105,
+      "name": "Disordine",
+      "url": "https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR"
+    },
+    {
+      "album": {
         "name": "NAVIGARE",
         "url": "https://open.spotify.com/album/2OoJ0xO9gbrBVluNAuWptO"
       },
@@ -6366,6 +6384,24 @@
       "duration_ms": 150677,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/0rQkA80MShuqQt7epTeSlA"
+    },
+    {
+      "album": {
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6ACoSO1CQpc7n3KTgRjy73"
+      },
+      "artists": [
+        {
+          "name": "Supernino",
+          "url": "https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "ETERNO",
+      "url": "https://open.spotify.com/track/37JQXz4X0yGlpPTOwCZs9H"
     },
     {
       "album": {
@@ -9423,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "tt ok / k.o. tt",
+        "url": "https://open.spotify.com/album/4tWdxF6UNNA1yqajBZWN7p"
+      },
+      "artists": [
+        {
+          "name": "Saphe",
+          "url": "https://open.spotify.com/artist/0PfwY5WJuVYmUc6PJzQ9TO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "k.o. tt",
+      "url": "https://open.spotify.com/track/1cwNTlAcz9SXkvfMpsphhA"
+    },
+    {
+      "album": {
         "name": "KARAOKE",
         "url": "https://open.spotify.com/album/1OKGKYexqZoQbfWpEbQj8p"
       },
@@ -9938,6 +9992,28 @@
       "duration_ms": 161451,
       "name": "LA NOTTE (feat. thasup)",
       "url": "https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe"
+    },
+    {
+      "album": {
+        "name": "micixsempre",
+        "url": "https://open.spotify.com/album/3GAMeW5zplJuy0SiSrTooJ"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "la ragazza pi\u00f9 bella del ballo",
+      "url": "https://open.spotify.com/track/4CbiKaM69YfCuPODAPuUTO"
     },
     {
       "album": {
@@ -10598,6 +10674,28 @@
       "duration_ms": 133549,
       "name": "LIVIDI",
       "url": "https://open.spotify.com/track/30TgUm0WPcCU7srcV29rBE"
+    },
+    {
+      "album": {
+        "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+        "url": "https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        },
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145320,
+      "name": "LO FAR\u00d2 DOMANI (feat. MAGENTA FLORA)",
+      "url": "https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ"
     },
     {
       "album": {
@@ -13749,6 +13847,24 @@
     },
     {
       "album": {
+        "name": "paura di morire",
+        "url": "https://open.spotify.com/album/4BAei2Ld3o6mtKGuSREqhD"
+      },
+      "artists": [
+        {
+          "name": "Brokenkidzz",
+          "url": "https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "paura di morire",
+      "url": "https://open.spotify.com/track/7Kmv8kPvI0Zad70P2jRmNK"
+    },
+    {
+      "album": {
         "name": "paura fottuta",
         "url": "https://open.spotify.com/album/0VmFqITJ9nvF7edEfiwEGt"
       },
@@ -14585,6 +14701,28 @@
     },
     {
       "album": {
+        "name": "POSER",
+        "url": "https://open.spotify.com/album/67mhWg45TPOKvCM7r59r0I"
+      },
+      "artists": [
+        {
+          "name": "Zame",
+          "url": "https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb"
+        },
+        {
+          "name": "Mr. Ugo",
+          "url": "https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128496,
+      "name": "POSER",
+      "url": "https://open.spotify.com/track/1OQbQz8rBdEpeSQaIozDDq"
+    },
+    {
+      "album": {
         "name": "Posso Tenerti Con Me",
         "url": "https://open.spotify.com/album/1yJSX28RfmbnlkCLD2gyfJ"
       },
@@ -14916,6 +15054,28 @@
       "duration_ms": 177678,
       "name": "Puoi fare meglio",
       "url": "https://open.spotify.com/track/6m1y1HHAlYjB2pmi9I8gRV"
+    },
+    {
+      "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/43wzg3Ss5A6Of5sMazlcL7"
+      },
+      "artists": [
+        {
+          "name": "SlumpthinIdle",
+          "url": "https://open.spotify.com/artist/334vU7FVVjO5qblDXvcnfq"
+        },
+        {
+          "name": "KARASH\u03a6",
+          "url": "https://open.spotify.com/artist/7aOvmNW1l4DQkk24hADBoi"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "QUALCOSA",
+      "url": "https://open.spotify.com/track/4q7CLDddqg6EuIMJ08c10d"
     },
     {
       "album": {
@@ -15744,6 +15904,24 @@
       "duration_ms": 250238,
       "name": "Russian roulette",
       "url": "https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8"
+    },
+    {
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/3crNgUXvCWvmp8G3wd1nLZ"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/41syEhXDtHnU1T2cHESFWb"
     },
     {
       "album": {
@@ -16962,6 +17140,32 @@
       "duration_ms": 166336,
       "name": "sotto sotto",
       "url": "https://open.spotify.com/track/10gwf4dDvntcxFpBE2opUe"
+    },
+    {
+      "album": {
+        "name": "SOTTOCASSA",
+        "url": "https://open.spotify.com/album/6VedZ2fANn6LXntx72NTa1"
+      },
+      "artists": [
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156777,
+      "name": "SOTTOCASSA",
+      "url": "https://open.spotify.com/track/0Rf4LshYiwd7DOeLwVjzQQ"
     },
     {
       "album": {

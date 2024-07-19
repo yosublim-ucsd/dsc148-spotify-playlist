@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,816 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,821 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 10 | [Suprabhatam](https://open.spotify.com/track/6S9b1AoBkTC4K9I8jB58b8) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Nandini Srikar](https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP), [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 4:01 |
 | 11 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 |
 | 12 | [Shakkarpari](https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 4:55 |
-| 13 | [Assam](https://open.spotify.com/track/7ladazY8fNUhBdBvyrhNEc) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 3:59 |
+| 13 | [Assam](https://open.spotify.com/track/7ladazY8fNUhBdBvyrhNEc) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Voyage 2](https://open.spotify.com/album/6effFXpDdti8nGW6FFCKch) | 3:59 |
 | 14 | [Chaap Tilak](https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 8:52 |
 | 15 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
 | 16 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 |

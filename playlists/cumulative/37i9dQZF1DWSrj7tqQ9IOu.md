@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : Clément Froissard
 
-511 songs - 1 day 4 hr 1 min
+512 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Corail Intercité \- Edit](https://open.spotify.com/track/13aZsDcR8Td6JJoelei4ok) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Corail Intercité](https://open.spotify.com/album/2Y3hC9ZKt9OJMmO1415V33) | 3:31 | 2024-02-01 | 2024-04-05 |
 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 | 2023-05-25 | 2023-09-15 |
 | [Corporate Sunset](https://open.spotify.com/track/6f4OnfztUsZhojQiCL27Pi) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm) | [Corporate Sunset](https://open.spotify.com/album/3q6KJe0i4C6FxZVmRmB8OM) | 5:03 | 2022-04-14 | 2023-01-06 |
-| [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 | 2024-02-08 |  |
+| [Countdown](https://open.spotify.com/track/1HhYxHF78fiSUlNAqQNozH) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Countdown](https://open.spotify.com/album/5cNJnRrIRQ8agjsqtpD8HK) | 2:35 | 2024-02-08 | 2024-07-19 |
 | [Cour Des Miracles](https://open.spotify.com/track/1LmmaY7vbIRD5qUnB507lz) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Cour Des Miracles](https://open.spotify.com/album/3OsZbmYBunUMQs3rsglvhr) | 4:06 | 2021-12-16 | 2022-02-25 |
 | [Creep \- Reprise](https://open.spotify.com/track/44X6oJ7rCioDz5dhtC4Fjn) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:51 | 2024-01-18 | 2024-04-19 |
 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 | 2023-07-06 | 2024-06-28 |
@@ -488,6 +488,7 @@
 | [Valencia](https://open.spotify.com/track/0YM0eV5uAlAyv2LPiqWiuV) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Valencia](https://open.spotify.com/album/0EErwInSDJNkOkkhqVOkgS) | 3:57 | 2024-04-18 | 2024-07-05 |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-02 | 2022-09-16 |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-21 | 2023-01-27 |
+| [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 |  |
 | [Virus X \- SAGE Rework \- radio edit](https://open.spotify.com/track/0Yr1TfeacyGFyDe0aWDla9) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Virus X](https://open.spotify.com/album/4KIibT2LzfY64VxJWWABJc) | 2:45 | 2021-12-16 | 2022-01-07 |
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-05-06 | 2022-11-11 |
 | [Voices In Your Head](https://open.spotify.com/track/4HBWcKtybdLFvFQpE2kQuy) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [Voices In Your Head](https://open.spotify.com/album/06JI1wmYUr0aXc4mI74EnP) | 4:15 | 2022-12-08 | 2023-01-20 |

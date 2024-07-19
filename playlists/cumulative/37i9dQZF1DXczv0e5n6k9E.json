@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RICTA",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Thug Slime, Fy",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180743,
       "name": "3:33",
       "url": "https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152979,
       "name": "ALITHEIA",
       "url": "https://open.spotify.com/track/4orurWihVmCvrUD66C3PH6"
@@ -234,6 +234,32 @@
       "duration_ms": 160183,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/3rrxhhuSWx0qWbmjVSwpx1"
+    },
+    {
+      "album": {
+        "name": "BANDA",
+        "url": "https://open.spotify.com/album/44yCFaXb0SIZWDHp0sWQEu"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "Big Skendo",
+          "url": "https://open.spotify.com/artist/5wOvUrTEKrUjEDLBHIWxvp"
+        },
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "BANDA",
+      "url": "https://open.spotify.com/track/0qwaa6tqNgy2KmTd9bdX4h"
     },
     {
       "album": {
@@ -406,7 +432,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 151875,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/3tCqzvc2ta86sjHBDWzQsj"
@@ -624,7 +650,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221200,
       "name": "ENOXOS",
       "url": "https://open.spotify.com/track/3MK35GCBKUQvGtxITPIE65"
@@ -694,7 +720,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158400,
       "name": "Fotia",
       "url": "https://open.spotify.com/track/5WO6ln9zm2870VhESc2Onq"
@@ -720,7 +746,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204366,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/0A34MOewbxOYqcYEDZkyPC"
@@ -912,7 +938,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 130613,
       "name": "Kako Paradeigma",
       "url": "https://open.spotify.com/track/0uIWTIlx1JGPDI4F7nx68z"
@@ -1018,7 +1044,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197317,
       "name": "Kyma",
       "url": "https://open.spotify.com/track/1UMkKliLknRKsLyxdsxnSV"
@@ -1052,6 +1078,50 @@
       "duration_ms": 222105,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/2qDINcwqFSLh4NkyfQQBEm"
+    },
+    {
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/4mpoecSXf5BM9sCpCeGR59"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Splinter",
+          "url": "https://open.spotify.com/artist/4VnfMxefRVO88vHsY5eicq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/5XPIazoPE74EcaDUY1UBIp"
+    },
+    {
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/2SnPLsrghVBQhdxYjcSMcX"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "MENJU",
+          "url": "https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157558,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7EwaKpzXAsLm8I1ISbamYJ"
     },
     {
       "album": {
@@ -1092,10 +1162,36 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168000,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/6kCP67GCmQDGctCX7EipSY"
+    },
+    {
+      "album": {
+        "name": "Maneken",
+        "url": "https://open.spotify.com/album/5Ia6nSvzqOQPvvcVWZKZC8"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167700,
+      "name": "Maneken",
+      "url": "https://open.spotify.com/track/6oGssWvyBvFi3OpUDZVUB5"
     },
     {
       "album": {
@@ -1136,7 +1232,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152917,
       "name": "MASKA",
       "url": "https://open.spotify.com/track/4l08FdIZvs9DdJAwFMCGVI"
@@ -1245,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Na Vreksi - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DXZkuGHuAUpmnav9OQf4j"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135274,
+      "name": "Na Vreksi - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0cu0fPNoTGKE7pwnR7lsCf"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5qG5y6SRTfGo04942HUpDS"
       },
@@ -1311,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Oute Mia Leksi (Flashback)",
+        "url": "https://open.spotify.com/album/3mERql1nSjxJJDeyuTKCNQ"
+      },
+      "artists": [
+        {
+          "name": "Anser",
+          "url": "https://open.spotify.com/artist/3peCLl6eMLh8lJyRUt4jc8"
+        },
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Oute Mia Leksi (Flashback)",
+      "url": "https://open.spotify.com/track/1rjB8DuD2mNdIOLfQDKQZI"
+    },
+    {
+      "album": {
         "name": "Pasar (oulele)",
         "url": "https://open.spotify.com/album/13e2DVAkijKHghalFWstVR"
       },
@@ -1322,10 +1458,32 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 251752,
       "name": "Pasar (oulele)",
       "url": "https://open.spotify.com/track/7kGAJAa3cFDO4qsg2Sismf"
+    },
+    {
+      "album": {
+        "name": "Passion Haze",
+        "url": "https://open.spotify.com/album/2V0SJWjhXpcxZXq7w4dEd5"
+      },
+      "artists": [
+        {
+          "name": "Retro",
+          "url": "https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179775,
+      "name": "Passion Haze",
+      "url": "https://open.spotify.com/track/4ZF96qGBiidcn7XHyjUnYm"
     },
     {
       "album": {
@@ -1348,6 +1506,28 @@
       "duration_ms": 152000,
       "name": "PLAIN JANE",
       "url": "https://open.spotify.com/track/1a929Dhxncp5JHP8hFqPF4"
+    },
+    {
+      "album": {
+        "name": "POLICIA",
+        "url": "https://open.spotify.com/album/6rvJfaK4fjRwbPa2KjCFWZ"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153214,
+      "name": "POLICIA",
+      "url": "https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG"
     },
     {
       "album": {
@@ -1531,6 +1711,42 @@
     },
     {
       "album": {
+        "name": "San Emas",
+        "url": "https://open.spotify.com/album/5Fcexhv6WG9q5MgucW0eo7"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131414,
+      "name": "San Emas",
+      "url": "https://open.spotify.com/track/3FOlNQhCL8UwDhuj2jACOc"
+    },
+    {
+      "album": {
+        "name": "SANTORINI",
+        "url": "https://open.spotify.com/album/3w1FwQIDSh0CTYMTIg26Lg"
+      },
+      "artists": [
+        {
+          "name": "EPITHE",
+          "url": "https://open.spotify.com/artist/3KMRPwBUMocndx02a5QPRx"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "SANTORINI",
+      "url": "https://open.spotify.com/track/7eAzMLAakDzrUSylWXkGDy"
+    },
+    {
+      "album": {
         "name": "SCARS",
         "url": "https://open.spotify.com/album/4N1QlDPEj9MyUR1sf4bBWh"
       },
@@ -1572,6 +1788,28 @@
       "duration_ms": 189183,
       "name": "SERVICE",
       "url": "https://open.spotify.com/track/5WCUggpYwkiTOAqu4b92FJ"
+    },
+    {
+      "album": {
+        "name": "Oti Pio Fresko",
+        "url": "https://open.spotify.com/album/6fTGBCqEsjMz0BhqREEbtr"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Gaglia",
+          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102187,
+      "name": "Sisi I Love You",
+      "url": "https://open.spotify.com/track/6dUaQGec33VnjPgKh9LyTJ"
     },
     {
       "album": {
@@ -1844,7 +2082,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188734,
       "name": "Vromika Lefta",
       "url": "https://open.spotify.com/track/3UShfe8FTC0UlZCSwBiMYg"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 馬場智章
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,692 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,709 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK キム](https://open.spotify.com/artist/09UjEWrV6FvLOej4pWU6Ek) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 |
+| 1 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK Kim](https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 |
 | 2 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 |
 | 3 | [疾走する閃光 \- 2024 NEW TAKE](https://open.spotify.com/track/4PM4nCH3fiJ6LH3v35Hpm3) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [疾走する閃光 \(2024 NEW TAKE\)](https://open.spotify.com/album/4lOSMUJfyIiUDlAJopEWuR) | 3:49 |
 | 4 | [Arpen](https://open.spotify.com/track/0OdTNdxDcZQoDjksOwDKH1) | [John Nakayama Trio](https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz) | [Journey We Did](https://open.spotify.com/album/677yvDEFo4OH08S8duKHPt) | 4:59 |

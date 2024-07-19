@@ -1,12 +1,12 @@
 {
   "description": "Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.",
-  "num_followers": 221399,
+  "num_followers": 221367,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAD11Ye1CTEUzXSwymZyQK/x",
+  "snapshot_id": "ZpnkwAAAAAD04BQSkOeB3vEW/XMzzXyU",
   "tracks": [
     {
       "added_at": "2024-04-01 18:12:12",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/6BOTlXihQUxlBWI6TuUGhZ"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Hit-Monkey (Season 2) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1XBUl7nB5Cpcxd9eNlAWC6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rojas",
+          "url": "https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Return to Sender",
+      "url": "https://open.spotify.com/track/71Z7P3GdkgS5HcRWcQnCGz"
+    },
+    {
       "added_at": "2024-04-01 18:12:12",
       "album": {
         "name": "Flamin' Hot (Original Soundtrack)",
@@ -435,6 +451,22 @@
       "duration_ms": 149400,
       "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
       "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sasha Reid and the Midnight Order (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3m9vYfKHIvZ01Z7m0wQfjN"
+      },
+      "artists": [
+        {
+          "name": "Nick Sena",
+          "url": "https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL"
+        }
+      ],
+      "duration_ms": 53943,
+      "name": "The Midnight Order",
+      "url": "https://open.spotify.com/track/4KexGFHUw4CJygbt4VjRt4"
     },
     {
       "added_at": "2024-04-01 18:12:12",

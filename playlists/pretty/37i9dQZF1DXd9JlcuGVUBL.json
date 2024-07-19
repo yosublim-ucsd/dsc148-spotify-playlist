@@ -1,28 +1,28 @@
 {
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0?si=thfFqc9xSU2G3-VWFd2mKg\">Megan Moroney</a>  ",
-  "num_followers": 27670,
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ?si=TwEntQ7oS0a2Sc-NMWn6Mg\">Koe Wetzel</a>  ",
+  "num_followers": 27697,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpD8/wAAAABsYV1C/+BGyuzZ9Eb1Uk75",
+  "snapshot_id": "ZpnkwAAAAABaw71J51L4+sTEqiEHX3bO",
   "tracks": [
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+      "duration_ms": 180621,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -365,6 +365,30 @@
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/1GJZzeNEKTerxojNwZBuWg"
+      },
+      "artists": [
+        {
+          "name": "Ted Slaughter",
+          "url": "https://open.spotify.com/artist/00rM1EYNcPPD1mBL3R7mDn"
+        },
+        {
+          "name": "Jack Lawson",
+          "url": "https://open.spotify.com/artist/5xgmVw91QqVviSExFD7T0i"
+        },
+        {
+          "name": "Haley Lawson",
+          "url": "https://open.spotify.com/artist/76XID8HD117ayVwtAB2Jdp"
+        }
+      ],
+      "duration_ms": 404294,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/4yBRXXqkLqBxwXFkplzIC2"
+    },
+    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "Buy Dirt",
@@ -383,22 +407,6 @@
       "duration_ms": 167480,
       "name": "Buy Dirt",
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Diamante Maak Baba's",
-        "url": "https://open.spotify.com/album/4Lj0Xzyg3W1MacXNxTQC0M"
-      },
-      "artists": [
-        {
-          "name": "Corn\u00e9 Louw",
-          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
-        }
-      ],
-      "duration_ms": 183302,
-      "name": "Diamante Maak Baba's",
-      "url": "https://open.spotify.com/track/5uaUeuchs7YAfgfGaVm30b"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -649,6 +657,22 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
       "added_at": "2024-04-11 22:00:00",
       "album": {
         "name": "Strong",
@@ -835,22 +859,6 @@
       "duration_ms": 208439,
       "name": "Aw, Shoot!",
       "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
-    },
-    {
-      "added_at": "2024-03-15 05:03:56",
-      "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     }
   ],
   "unique_name": "Country Musiek",

@@ -10193,6 +10193,32 @@
     },
     {
       "album": {
+        "name": "Money Trees",
+        "url": "https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph"
+      },
+      "artists": [
+        {
+          "name": "Gottz",
+          "url": "https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4"
+        },
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        },
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203385,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC"
+    },
+    {
+      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm"
       },
@@ -10282,6 +10308,24 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "album": {
+        "name": "Sea of Love",
+        "url": "https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H"
     },
     {
       "album": {
@@ -19280,6 +19324,28 @@
       "duration_ms": 212117,
       "name": "\u5b58\u5728",
       "url": "https://open.spotify.com/track/7EcSfGN8xHg69DsDL9ftao"
+    },
+    {
+      "album": {
+        "name": "\u5b89\u6cf0bitch",
+        "url": "https://open.spotify.com/album/2EcKOXYlIc0WJfCiIGOmni"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u307f\u3061\u3048",
+          "url": "https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ"
+        },
+        {
+          "name": "Coco Blasian",
+          "url": "https://open.spotify.com/artist/70pvJjlpfRieRU0Jq7T1d4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "\u5b89\u6cf0bitch",
+      "url": "https://open.spotify.com/track/4wgaRif71F7sLE0E4OhZy0"
     },
     {
       "album": {

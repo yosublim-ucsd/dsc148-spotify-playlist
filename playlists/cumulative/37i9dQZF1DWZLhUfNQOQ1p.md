@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-393 songs - 1 day 2 hr 34 min
+394 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 | 2021-08-05 | 2023-05-31 |
 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 | 2021-08-05 | 2022-11-17 |
 | [One Last Time](https://open.spotify.com/track/7rGi9l1iyEE86wOaSnBRNE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/4gXAEC2yDOCulIZd2myBCf) | 2:30 | 2021-08-05 | 2023-04-14 |
+| [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 | 2024-07-18 |  |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-14 | 2024-04-19 |
 | [Ordinary Pleasure](https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ) | 3:03 | 2024-04-05 |  |
 | [Ostia](https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Ostia](https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn) | 5:02 | 2024-04-05 | 2024-05-06 |
@@ -382,7 +383,7 @@
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-06-22 | 2023-10-27 |
 | [Wap\-Bam\-Boogie](https://open.spotify.com/track/5qQgHAGv8IVlawD9dypc1b) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb) | [Indigo \(Expanded\)](https://open.spotify.com/album/5WSFIeMmLU0okGEKsuxPQ4) | 7:32 | 2024-05-19 | 2024-06-03 |
 | [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 | 2023-07-21 | 2023-11-18 |
-| [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2023-05-30 |  |
+| [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2023-05-30 | 2024-07-19 |
 | [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs) | [Edie Brickell & New Bohemians](https://open.spotify.com/artist/4awU3JRQXIYoxabdwO92AU) | [Shooting Rubberbands At The Stars](https://open.spotify.com/album/2oZzKVi2mqkQnZOad6DXMw) | 4:56 | 2024-05-19 | 2024-06-03 |
 | [What You Won't Do for Love](https://open.spotify.com/track/1Qe42XGSUtjDgJJgCsYwkh) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [What You Won't Do for Love](https://open.spotify.com/album/3r90h4IKPw9pXl4NPtrhus) | 4:42 | 2021-08-05 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 | 2021-08-05 | 2023-03-19 |

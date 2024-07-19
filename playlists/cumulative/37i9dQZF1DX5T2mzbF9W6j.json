@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165000,
       "name": "Ale ja",
       "url": "https://open.spotify.com/track/4D2RsHcxiLCnvJWtkGomyl"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161000,
       "name": "AMORE",
       "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
@@ -92,6 +92,24 @@
       "duration_ms": 174511,
       "name": "angel",
       "url": "https://open.spotify.com/track/4nZPGie71nH77fbcNJnx0w"
+    },
+    {
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "album": {
@@ -257,6 +275,28 @@
     },
     {
       "album": {
+        "name": "Daj \u017cy\u0107",
+        "url": "https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL"
+      },
+      "artists": [
+        {
+          "name": "Sonia Maselik",
+          "url": "https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl"
+        },
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Daj \u017cy\u0107",
+      "url": "https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW"
+    },
+    {
+      "album": {
         "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
         "url": "https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr"
       },
@@ -279,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA"
       },
@@ -294,6 +352,24 @@
       "duration_ms": 260120,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu"
+    },
+    {
+      "album": {
+        "name": "Instalacja I",
+        "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Dwa Tygodnie",
+      "url": "https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd"
     },
     {
       "album": {
@@ -344,7 +420,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
@@ -452,7 +528,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 156329,
       "name": "HATE YOUR GUTS",
       "url": "https://open.spotify.com/track/6x3VbkjJpLygkueOL604cz"
@@ -488,7 +564,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174609,
       "name": "Honey - Single Version",
       "url": "https://open.spotify.com/track/60QsPPI3raXwut6iyO2gsk"
@@ -532,6 +608,28 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
+        "name": "I \u017ce czuje si\u0119 sam",
+        "url": "https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        },
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "I \u017ce czuje si\u0119 sam",
+      "url": "https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N"
     },
     {
       "album": {
@@ -604,7 +702,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175758,
       "name": "Kosmosy",
       "url": "https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w"
@@ -622,10 +720,54 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171793,
       "name": "Lights Go Loud",
       "url": "https://open.spotify.com/track/32yM3qgoGGbwny8Fo8jfEW"
+    },
+    {
+      "album": {
+        "name": "Midnight Ride",
+        "url": "https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Midnight Ride",
+      "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "album": {
+        "name": "Mile Away",
+        "url": "https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206112,
+      "name": "Mile Away",
+      "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
     },
     {
       "album": {
@@ -644,6 +786,28 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "album": {
+        "name": "My\u015bl\u0119 sobie, \u017b",
+        "url": "https://open.spotify.com/album/7v0o8LcqjbGCprYoKg2ptg"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170905,
+      "name": "My\u015bl\u0119 sobie, \u017b",
+      "url": "https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe"
     },
     {
       "album": {
@@ -706,7 +870,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177095,
       "name": "Nigdy wi\u0119cej nie ta\u0144cz ze mn\u0105",
       "url": "https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l"
@@ -843,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "album": {
         "name": "Running Out Of Time",
         "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
@@ -854,7 +1036,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
@@ -984,7 +1166,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
@@ -1020,7 +1202,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162800,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b"
@@ -1092,7 +1274,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 133986,
       "name": "The Way I Want It",
       "url": "https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj"
@@ -1128,10 +1310,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Tyle mog\u0142em Ci da\u0107",
       "url": "https://open.spotify.com/track/7yhlUkUDOyGqrfkb1THfSj"
+    },
+    {
+      "album": {
+        "name": "Upadki i wzloty",
+        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Upadki i wzloty",
+      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
     },
     {
       "album": {
@@ -1186,7 +1386,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192461,
       "name": "Z nikim a\u017c tak",
       "url": "https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU"

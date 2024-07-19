@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 144224,
+  "num_followers": 144251,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
+        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
+      },
+      "artists": [
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 163366,
+      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
+      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Ang Kwento Ng Pag-Ibig",
         "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
       },
@@ -1351,6 +1371,22 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1375,42 +1411,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
-        "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
-      },
-      "artists": [
-        {
-          "name": "Massari",
-          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 163366,
-      "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
-      "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ana Mesh Magroha",
         "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
-      },
-      "artists": [
-        {
-          "name": "Hansol",
-          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 218501,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P"
+      },
+      "artists": [
+        {
+          "name": "Hansol",
+          "url": "https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u767d\u663c\u5922",
-        "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6839",
-          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
-        }
-      ],
-      "duration_ms": 225082,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 205520,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u767d\u663c\u5922",
+        "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6839",
+          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
+        }
+      ],
+      "duration_ms": 225082,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maghihintay",
-        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
-      },
-      "artists": [
-        {
-          "name": "Ruru Madrid",
-          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
-        }
-      ],
-      "duration_ms": 275913,
-      "name": "Maghihintay",
-      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Mghayarni",
         "url": "https://open.spotify.com/album/22ds05ymJ4OGeh9lupMtX2"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 237000,
       "name": "Mghayarni",
       "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2235,6 +2235,30 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB"
       },
@@ -2299,6 +2323,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "You Are The Reason",
+        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 204326,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3"
       },
@@ -2315,22 +2355,6 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "You Are The Reason",
-        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 204326,
-      "name": "You Are The Reason",
-      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2367,6 +2391,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
       },
@@ -2379,26 +2419,6 @@
       "duration_ms": 272720,
       "name": "Photo of My Mind",
       "url": "https://open.spotify.com/track/6SOw5YcoAXoKphG5iPzXEz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 194951,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2419,22 +2439,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Madhaniyan (Live) - Single",
         "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
       },
@@ -2447,6 +2451,26 @@
       "duration_ms": 261593,
       "name": "Madhaniyan (Live)",
       "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+        }
+      ],
+      "duration_ms": 194951,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2519,30 +2543,6 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/1ose449N3hm96087FUw3Hl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
     }
   ],
   "unique_name": "Ballads International",

@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 316509,
+  "num_followers": 316634,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
+        "name": "One Thing Remains",
+        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
         "name": "Holy Forever",
         "url": "https://open.spotify.com/album/2BDoSC4fVtlCSOgyavzdrV"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 223235,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/5vJNJVYbtBYOSAD4qzq7hy"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
-        "name": "One Thing Remains",
-        "url": "https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "Pneuma (Live)",
         "url": "https://open.spotify.com/album/1NzYZy1wNXxnowDih1Qw9k"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 595375,
       "name": "The Dove - Live",
       "url": "https://open.spotify.com/track/1JqknsSVOIKohynefod8qg"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/78pKjOa4gToyRxn3cVc7Sa"
     },
     {
       "added_at": "2024-06-22 23:17:20",
@@ -1383,18 +1383,30 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2AQV4UU80HM2CpUwcdT97s"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "Manor Collective",
+          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        },
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        },
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
         }
       ],
-      "duration_ms": 351213,
-      "name": "Inhabit - Live",
-      "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
+      "duration_ms": 159531,
+      "name": "How Good",
+      "url": "https://open.spotify.com/track/2p6fKr7nPgfrd6cxOYHzIk"
     }
   ],
   "unique_name": "epicPRAISE",

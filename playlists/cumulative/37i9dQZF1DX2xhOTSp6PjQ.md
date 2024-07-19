@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=bMmUwoY1STqh07s0lB\_\_Jg">Umafikizolo</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=bMmUwoY1STqh07s0lB\_\_Jg">Umafikizolo</a>
 
 203 songs - 16 hr 16 min
 

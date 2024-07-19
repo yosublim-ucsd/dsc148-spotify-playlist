@@ -4,12 +4,12 @@
 
 > y el soundtrack suena así...
 
-110 songs - 5 hr 59 min
+111 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 de Enero, Puntacana](https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:35 | 2024-05-03 |  |
-| [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 | 2024-06-06 |  |
+| [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 | 2024-06-06 | 2024-07-19 |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-08-01 |  |
 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 | 2024-05-17 |  |
 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 | 2024-04-12 |  |
@@ -116,6 +116,7 @@
 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 | 2024-05-24 |  |
 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 | 2023-07-31 |  |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-03-14 |  |
+| [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 | 2024-07-19 |  |
 | [¿Y Si Eras Tú?](https://open.spotify.com/track/4PFEzT2wC6BISXyRbP72zs) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Y Si Eras Tú?](https://open.spotify.com/album/4oPDRXXH8YgDh5Ywf14NGA) | 2:49 | 2023-10-17 | 2024-05-25 |
 | [ÁNGEL DE LA GUARDA \(PÓSTUMO\)](https://open.spotify.com/track/06gX47saY244mz1VZCoCoB) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 3:48 | 2024-05-03 |  |
 

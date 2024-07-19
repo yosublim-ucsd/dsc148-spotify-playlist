@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,418 songs - 2 day 5 hr 25 min
+1,419 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-05-06 |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
@@ -485,7 +485,7 @@
 | [Good Old Days](https://open.spotify.com/track/5Aj08BEnLbCQicG25UV734) | [Astro Loud](https://open.spotify.com/artist/1zGuGkz7fYY1h4KBYTLuaz), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Good Old Days](https://open.spotify.com/album/00Z4tyZYe7BSw1gjQ6SOup) | 2:27 | 2023-09-22 |  |
 | [Good things to come](https://open.spotify.com/track/4ZI2TmKcXEKgPV1t2Ol797) | [Alma Animo](https://open.spotify.com/artist/01DSnqT4D8CHCbIkYQhVoP), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Good things to come](https://open.spotify.com/album/2GPF6zbsLahtXOFn8TgoSs) | 2:29 | 2022-07-08 | 2022-12-10 |
 | [good times](https://open.spotify.com/track/32gMxI1qGmOK0Rfaxqrufn) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [good times](https://open.spotify.com/album/2NXPvtH4gusbeXOPpORfrN) | 2:24 | 2022-07-22 |  |
-| [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 |  |
+| [Good vs Easy](https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Beyond Memory](https://open.spotify.com/album/1SlthAO37B8iyB3awgf9sl) | 1:56 | 2022-08-19 | 2024-07-19 |
 | [goodbye](https://open.spotify.com/track/61QjLbt7ZdeGguZNjKL9ty) | [Pecun](https://open.spotify.com/artist/73rhjAgkHK1TsXAdWxVahH), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [goodbye](https://open.spotify.com/album/02bYztomWxqVUnEZi1Cphu) | 1:36 | 2022-11-25 | 2023-09-29 |
 | [Graceland Drive](https://open.spotify.com/track/4UNCSVU2mC94tO2g7gxizh) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Graceland Drive](https://open.spotify.com/album/11vVWuXVWNRRMMAKdmxA2D) | 2:28 | 2022-10-15 |  |
 | [Grains](https://open.spotify.com/track/2UMA25hOygW14Ib1rPvEbO) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Slow Feet](https://open.spotify.com/album/1SAi4U5Rvw08dUZFa5Wudw) | 2:15 | 2023-03-08 |  |
@@ -570,7 +570,7 @@
 | [I'll See Myself Out](https://open.spotify.com/track/1TBsrLMWBcPPEtzwYzYPkb) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [I'll See Myself Out](https://open.spotify.com/album/6A9hTaAFPDgeKQE9Ulqxxi) | 2:09 | 2022-05-27 | 2022-06-03 |
 | [I'll Wait](https://open.spotify.com/track/4gTsqVEBYNVgdwzJligeIM) | [Lomoplay](https://open.spotify.com/artist/0R7NYzygUKT8QjUpDTylUo) | [I'll Wait](https://open.spotify.com/album/2WFVu3UGokQwdMCXNTr5BH) | 2:02 | 2022-01-27 | 2022-06-10 |
 | [I'm Out](https://open.spotify.com/track/50oE6KjOO1CrikNQ7DTlS1) | [Glass Globe](https://open.spotify.com/artist/0crpGDMvXANXQ6wyjkcDzu) | [Home Alone](https://open.spotify.com/album/1BcrJRI3FXOpFqxUUeoXeN) | 2:02 | 2022-01-27 | 2022-12-24 |
-| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 |  |
+| [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 | 2022-05-20 | 2024-07-19 |
 | [Iced Pandan Latte](https://open.spotify.com/track/6mSfWNWb8c5kIkahN4Glix) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Iced Pandan Latte](https://open.spotify.com/album/0iJ5jwKjklnvYcAxLjaOO9) | 2:27 | 2022-07-15 | 2022-12-10 |
 | [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-10-15 | 2023-09-22 |
 | [Iced Tea](https://open.spotify.com/track/0Oi6aHYgfr4COgmxDGwo8n) | [ben the bird](https://open.spotify.com/artist/1i5mrAjdJZ6NHsruDGXVN1) | [Iced Tea](https://open.spotify.com/album/4C5mkfc3AZwaY8bFRV2vm0) | 2:23 | 2022-09-16 | 2023-09-05 |
@@ -1253,6 +1253,7 @@
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-01-27 | 2022-09-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-01-27 | 2022-07-08 |
 | [That Soft Touch](https://open.spotify.com/track/4WlUSXIpr4Y0j1q1xd2auf) | [John McEnflow](https://open.spotify.com/artist/6RSrTS0uvEaiL6ytgRuf6d) | [That Soft Touch](https://open.spotify.com/album/7o7MzmgbO3kxkrHuUFG7Uf) | 2:24 | 2022-01-27 | 2022-09-09 |
+| [that's real good](https://open.spotify.com/track/37qHh2U8yPm3SdbTCJxCBh) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [that's real good](https://open.spotify.com/album/5bxL9J0CrlNHLzdMREul56) | 2:03 | 2024-07-19 |  |
 | [that's ruff](https://open.spotify.com/track/0dF279iuZy03BAB8sIMmF2) | [grenedine](https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1) | [that's ruff](https://open.spotify.com/album/0dG5DhrsguPh7hYMaoyRKl) | 1:43 | 2023-01-06 | 2023-09-05 |
 | [thats right](https://open.spotify.com/track/5kghYrWusPOZ2Ev7X93hw8) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [sundays](https://open.spotify.com/album/55499noDiWYNvCIKT35FVs) | 1:16 | 2022-01-27 | 2022-05-20 |
 | [The Blue Wood forest](https://open.spotify.com/track/4oU6oP8h6MxwHdxpH9H4Fg) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [The Blue Wood forest](https://open.spotify.com/album/7e11EFr7SNBz1Y9Bq6cxWI) | 2:19 | 2022-11-11 |  |

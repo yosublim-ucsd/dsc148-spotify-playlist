@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Wallace Cleaver",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Scylla",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193944,
       "name": "B\u00c2TEAU DANS LE CIEL",
       "url": "https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV"
@@ -320,6 +320,24 @@
       "duration_ms": 118535,
       "name": "IN PARIS",
       "url": "https://open.spotify.com/track/37HqBYlKWS45fv1pyqwQNv"
+    },
+    {
+      "album": {
+        "name": "Merci la vie pour les douleurs",
+        "url": "https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW"
+      },
+      "artists": [
+        {
+          "name": "LauCarr\u00e9",
+          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "J'irai pas voir un psy",
+      "url": "https://open.spotify.com/track/1W26qte2Zepm5jKbDSTSf6"
     },
     {
       "album": {
@@ -764,10 +782,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145568,
       "name": "ROSE (MILKTAPE)",
       "url": "https://open.spotify.com/track/4bCqWgUfw5muaci4ZN4HZc"
+    },
+    {
+      "album": {
+        "name": "Ivresse des profondeurs",
+        "url": "https://open.spotify.com/album/02fsOKarSDUsPaNNOhDE6c"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382226,
+      "name": "Toujours rien \u00e0 remplacer",
+      "url": "https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8"
     },
     {
       "album": {
@@ -844,7 +880,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 354869,
       "name": "V\u00e9rit\u00e9 7",
       "url": "https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB"
@@ -870,6 +906,28 @@
       "duration_ms": 341560,
       "name": "\u00c0 La Faveur De L'automne",
       "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "album": {
+        "name": "Hannibal Part.1",
+        "url": "https://open.spotify.com/album/5JZSMkDce7VAR6Lkq8w4IW"
+      },
+      "artists": [
+        {
+          "name": "ISK",
+          "url": "https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j"
+        },
+        {
+          "name": "Lesram",
+          "url": "https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180051,
+      "name": "\u00c0 long terme",
+      "url": "https://open.spotify.com/track/0fPHcL6jj7A1xiL6ylPi42"
     },
     {
       "album": {

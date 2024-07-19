@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-11",
-  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Verknipt takeover with tracks 1-16! Get ready for Verknipt Arena.",
+  "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Verknipt takeover with tracks 1-20! Get ready for Verknipt Arena.",
   "name": "Hard Techno",
   "tracks": [
     {
@@ -398,6 +398,24 @@
       "duration_ms": 282986,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0WSDlDRc8Yex9b2UyTOciK"
+    },
+    {
+      "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "Franky-B",
+          "url": "https://open.spotify.com/artist/24C1Z9RP71CzGmU1Dx3oTV"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300923,
+      "name": "BYEBYE",
+      "url": "https://open.spotify.com/track/4pm6fdwvqoUixkk6U0GoLg"
     },
     {
       "album": {
@@ -980,7 +998,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 328951,
       "name": "Gimme Some Love",
       "url": "https://open.spotify.com/track/4wAcWlwcrlnTMzpZQ23YjA"
@@ -1192,6 +1210,24 @@
       "duration_ms": 288000,
       "name": "HEISS (Floorkiller Flex)",
       "url": "https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ"
+    },
+    {
+      "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "Remon Verhoeve",
+          "url": "https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318060,
+      "name": "High On C",
+      "url": "https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW"
     },
     {
       "album": {
@@ -1474,6 +1510,24 @@
       "duration_ms": 246062,
       "name": "Massive Attack",
       "url": "https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr"
+    },
+    {
+      "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319569,
+      "name": "Masterclass",
+      "url": "https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6"
     },
     {
       "album": {
@@ -1850,7 +1904,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 326197,
       "name": "Posh & Scary",
       "url": "https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva"
@@ -2272,7 +2326,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183243,
       "name": "Sucia",
       "url": "https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr"
@@ -2384,7 +2438,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 337454,
       "name": "The Bass",
       "url": "https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy"
@@ -2562,7 +2616,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 366961,
       "name": "Torx",
       "url": "https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht"
@@ -2645,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "XRTN",
+          "url": "https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314322,
+      "name": "Trip To Fantasy",
+      "url": "https://open.spotify.com/track/3KexUMzIeo3nfakLvIAx4a"
+    },
+    {
+      "album": {
         "name": "Disco Inferno 01",
         "url": "https://open.spotify.com/album/2Knz72wmGmCdGPTRqJZWB6"
       },
@@ -2660,6 +2732,24 @@
       "duration_ms": 567268,
       "name": "Two Steps from Heaven",
       "url": "https://open.spotify.com/track/0eRbOJ7nguOh6UCV1Lbpwn"
+    },
+    {
+      "album": {
+        "name": "Verknipt ArenA",
+        "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300250,
+      "name": "Unaccepted Complex",
+      "url": "https://open.spotify.com/track/7x9FOsf8u8hKP33uuANICq"
     },
     {
       "album": {

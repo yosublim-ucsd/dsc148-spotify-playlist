@@ -2,14 +2,14 @@
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This Is XXXTENTACION\. Los temas esenciales, todos en una lista.
+> This is XXXTENTACION\. The essential tracks, all in one playlist.
 
 69 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 | 2023-06-07 | 2024-07-18 |
-| [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:44 | 2024-03-30 |  |
+| [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 | 2023-06-07 |  |
+| [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/5aZhp4FuKlrLz7gfJlBtcR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [? \(Deluxe\)](https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW) | 1:44 | 2024-03-30 | 2024-07-19 |
 | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/track/1QKDXegQxJBzSs8ZBNtGbT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 1:44 | 2023-06-17 | 2024-02-06 |
 | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Again \(feat\. XXXTENTACION\)](https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7) | 3:13 | 2023-06-07 |  |
 | [ALONE, PART 3](https://open.spotify.com/track/2oe6dDthgthqUkfL3czpEd) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:49 | 2024-05-24 | 2024-06-28 |
@@ -20,7 +20,7 @@
 | [before I close my eyes](https://open.spotify.com/track/16x9bQHw8TBNaGDyULvwad) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:39 | 2024-05-10 |  |
 | [Boost!](https://open.spotify.com/track/455IYy22hKJXgEwgownVqT) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:17 | 2023-06-07 |  |
 | [Carry On](https://open.spotify.com/track/2yZax79pOrYuyIFVW2cZY2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:09 | 2023-06-07 |  |
-| [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 | 2023-06-07 |  |
+| [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 | 2023-06-07 | 2024-07-19 |
 | [Curse](https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL) | [Bass Santana](https://open.spotify.com/artist/0O1cTzccAEKaEFShgzAK9V), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Cooliecut](https://open.spotify.com/artist/19uEVh7y7Y9RfjMphMamXc), [Kin$oul](https://open.spotify.com/artist/6HhsbprrJmKeaH8SgSlGge) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 1:58 | 2023-06-07 |  |
 | [Depression & Obsession](https://open.spotify.com/track/2H3wWrnO758y0fPH7Ilerg) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:24 | 2023-06-07 | 2023-12-30 |
 | [difference \(interlude\)](https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [SKINS](https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz) | 1:16 | 2023-06-07 |  |
@@ -41,7 +41,7 @@
 | [I don’t even speak spanish lol \- feat\. Rio Santana, Judah, Andrez Babii](https://open.spotify.com/track/14boA065HMHWvqyPPEeN4y) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Rio Santana](https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy), [Judah](https://open.spotify.com/artist/2V0DROfM2ieFSOcA3SHJLD), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 3:12 | 2024-06-06 | 2024-07-17 |
 | [I spoke to the devil in miami, he said everything would be fine](https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:58 | 2023-06-07 |  |
 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 | 2023-06-20 | 2024-01-28 |
-| [infinity \(888\) \- feat\. Joey Bada$$](https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:56 | 2024-04-07 | 2024-07-15 |
+| [infinity \(888\) \- feat\. Joey Bada$$](https://open.spotify.com/track/7J2gyNghNTzl4EsLhXp01Q) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:56 | 2024-04-07 |  |
 | [Jah's Interlude \(feat\. XXXTENTACION\)](https://open.spotify.com/track/7zV7Liwc0902KEGFv8ssQG) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 1:02 | 2024-06-17 | 2024-06-28 |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2023-06-07 |  |
 | [King](https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:52 | 2023-06-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: ceneri",
+  "description": "La nuova scena indie italiana! Cover: Teseghella",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Canzoni alla radio",
+        "url": "https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V"
+      },
+      "artists": [
+        {
+          "name": "Lacrima",
+          "url": "https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174743,
+      "name": "Canzoni alla radio",
+      "url": "https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B"
+    },
+    {
+      "album": {
         "name": "In quella casa in fiamme ci sono dei bambini",
         "url": "https://open.spotify.com/album/1sB7HL8SAA2nRoUUW9Wko6"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180000,
       "name": "Chinaglia",
       "url": "https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168813,
       "name": "CocaCola & Pepsi",
       "url": "https://open.spotify.com/track/6CgoGZbSpK82pbRWRX6Eyg"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164750,
       "name": "compleanni degli altri",
       "url": "https://open.spotify.com/track/4ezzpiYowUR0KUgMTYB2By"
@@ -384,6 +402,24 @@
       "duration_ms": 199144,
       "name": "DIMEDITE",
       "url": "https://open.spotify.com/track/3ZdJA0Fcf7UtlCOjSPLP1N"
+    },
+    {
+      "album": {
+        "name": "Disordine",
+        "url": "https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Disordine",
+      "url": "https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV"
     },
     {
       "album": {
@@ -438,7 +474,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 163543,
       "name": "EFFETTO",
       "url": "https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S"
@@ -626,7 +662,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197745,
       "name": "Garageband",
       "url": "https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg"
@@ -767,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
+      },
+      "artists": [
+        {
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205758,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "album": {
         "name": "Non c'\u00e8 pi\u00f9 tempo",
         "url": "https://open.spotify.com/album/057GVwIW5vzooi7SHHYgeT"
       },
@@ -814,7 +868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145185,
       "name": "machegustomilascia",
       "url": "https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR"
@@ -840,6 +894,24 @@
       "duration_ms": 155481,
       "name": "MALE, MALISSIMO",
       "url": "https://open.spotify.com/track/3kQ9aTQdGmHrxi7KwW3Shi"
+    },
+    {
+      "album": {
+        "name": "Mar mar mar",
+        "url": "https://open.spotify.com/album/5RfliNbo8JUMyxi2XpdDM9"
+      },
+      "artists": [
+        {
+          "name": "Brugnano",
+          "url": "https://open.spotify.com/artist/1Tly9Wn1glHtV5NIVKGYCZ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241538,
+      "name": "Mar mar mar",
+      "url": "https://open.spotify.com/track/0UTpnIXBvaKAyoe3ZyTx6M"
     },
     {
       "album": {
@@ -876,7 +948,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 152727,
       "name": "MEGA LIMONE",
       "url": "https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8"
@@ -1042,7 +1114,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181812,
       "name": "Non ti scusare (Anna)",
       "url": "https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb"
@@ -1136,6 +1208,24 @@
       "duration_ms": 154500,
       "name": "Ogni maledetta domenica",
       "url": "https://open.spotify.com/track/0HS43s0nNeGFsnn1ZKlrxa"
+    },
+    {
+      "album": {
+        "name": "Ogni mezz'ora",
+        "url": "https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz"
+      },
+      "artists": [
+        {
+          "name": "Evan",
+          "url": "https://open.spotify.com/artist/5hZo9rZE0Tn6j7NPqxAYoE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167899,
+      "name": "Ogni mezz'ora",
+      "url": "https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO"
     },
     {
       "album": {
@@ -1244,7 +1334,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180606,
       "name": "Ragazza del \u201899",
       "url": "https://open.spotify.com/track/76uaJQ5isjG1PV998e5ulQ"
@@ -1364,7 +1454,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165172,
       "name": "SISSI 2",
       "url": "https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV"
@@ -1426,7 +1516,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180514,
       "name": "STUPIDA",
       "url": "https://open.spotify.com/track/1yHU38rOiDrRC839QBbN8l"
@@ -1628,6 +1718,24 @@
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
+    },
+    {
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
     },
     {
       "album": {

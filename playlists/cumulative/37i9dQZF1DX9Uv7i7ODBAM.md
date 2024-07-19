@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-145 songs - 8 hr 28 min
+147 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [アバンタイトル](https://open.spotify.com/track/763qcDPkDrdTe61Yq3sF8R) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 0:37 | 2023-03-14 | 2024-04-19 |
 | [アバンタイトル](https://open.spotify.com/track/43SPH7Iy8Iu30uUiZjpSPm) | [林ゆうき](https://open.spotify.com/artist/3WVnDzwxJm470Nog8Gza8R) | [TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016\~2018](https://open.spotify.com/album/2NWlZqCr8lFt98s2psLjSN) | 0:37 | 2023-03-14 | 2024-03-24 |
 | [エンパシー](https://open.spotify.com/track/2QaD2jnLNJgvyjT84hODSE) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [エンパシー](https://open.spotify.com/album/2rb7VoFHOluiQsRfSFwkii) | 4:44 | 2022-10-01 |  |
+| [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-19 |  |
 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-01-10 |  |
 | [スターマーカー](https://open.spotify.com/track/0pQm5AbAaVy9XrOLf7rgSF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/3i5qvSK7NKmpeLT0a76qXN) | 3:33 | 2022-10-11 | 2022-11-14 |
 | [スターマーカー](https://open.spotify.com/track/3YRfX5voPogRjEbbS6eonR) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [スターマーカー](https://open.spotify.com/album/6gxhnUoB5JzbkZcD94CSMh) | 3:33 | 2023-03-14 |  |
@@ -137,6 +138,7 @@
 | [三位一体](https://open.spotify.com/track/6mLaZxhLKgeeQBMh0Aj8Uw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:44 | 2022-10-01 |  |
 | [三位一体](https://open.spotify.com/track/07NhyIESLLaeBmjpCSdKqe) | [林ゆうき](https://open.spotify.com/artist/3WVnDzwxJm470Nog8Gza8R) | [TVアニメ「僕のヒーローアカデミア」サウンドトラックセレクション 2016\~2018](https://open.spotify.com/album/2NWlZqCr8lFt98s2psLjSN) | 3:43 | 2023-03-14 | 2024-03-28 |
 | [俺が君のヒーローになる](https://open.spotify.com/track/0Vs0pQdoq4nFfR3oezJMWT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/1fHKbCIjvS02qewJqPON44) | 2:59 | 2023-03-14 |  |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
 | [君はヒーローになれる](https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:56 | 2022-10-01 |  |
 | [嘘じゃない](https://open.spotify.com/track/0ayjyEFPDtTlWQcSbT407P) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [嘘じゃない](https://open.spotify.com/album/1q8qopPQcpacjsyzD0BWhY) | 4:18 | 2022-10-01 |  |
 | [戦闘許可!](https://open.spotify.com/track/6OmhUA5iVoSzbtCNLteTpa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:25 | 2022-10-01 |  |

@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Riley Green and Ella Langley
 
-426 songs - 22 hr 49 min
+428 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [4x4xU](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4x4xU](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 | 2024-07-12 |  |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-03 | 2022-08-13 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-19 |  |
-| [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-02-09 |  |
+| [A Cigarette](https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [A Cigarette](https://open.spotify.com/album/6e4TRkJXdQCdj8x5Oj0v9u) | 2:59 | 2024-02-09 | 2024-07-19 |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-19 | 2024-06-22 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-17 | 2022-01-22 |
 | [After We Broke Up](https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [After We Broke Up](https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n) | 2:49 | 2024-03-01 |  |
@@ -96,8 +96,10 @@
 | [Deep Satin](https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Boys Of Faith](https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY) | 3:31 | 2023-09-29 | 2024-05-04 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-21 | 2024-07-13 |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-05-20 | 2022-09-03 |
+| [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 |  |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-09 | 2024-06-22 |
 | [DIAMOND](https://open.spotify.com/track/7jZwYDy3LXNJBel7NPQ3zk) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:13 | 2022-03-04 | 2022-06-18 |
+| [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-19 |  |
 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 | 2023-07-21 | 2023-08-05 |
 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 | 2023-11-10 | 2024-06-01 |
 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 | 2021-12-17 | 2022-03-12 |
@@ -338,7 +340,7 @@
 | [Sun to Me](https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:43 | 2022-10-28 | 2023-09-09 |
 | [Sundown Somewhere](https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Sundown Somewhere](https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e) | 2:42 | 2022-12-16 | 2023-06-02 |
 | [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-17 | 2022-02-05 |
-| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-06-07 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 | 2024-06-07 | 2024-07-19 |
 | [T\-Shirt](https://open.spotify.com/track/7xtgdNm04XHg4UphNBpLQx) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [backstory](https://open.spotify.com/album/5Ao4kczlRWv1zeEuwCy8M9) | 2:41 | 2021-12-17 | 2022-01-01 |
 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 | 2021-12-24 | 2022-06-04 |
 | [Take It Slow](https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Take It Slow](https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ) | 2:42 | 2021-12-17 | 2022-07-08 |

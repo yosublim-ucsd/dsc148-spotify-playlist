@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\.  Cover: keshi.
 
-838 songs - 1 day 19 hr 16 min
+840 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,9 @@
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2023-08-11 | 2024-02-24 |
 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 | 2024-07-12 |  |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-04 | 2023-02-18 |
+| [air ride](https://open.spotify.com/track/2BzLIQZxTl2Kp3rbhwlROS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [air ride + ❥attack](https://open.spotify.com/album/389Zme1SiJEVzjpMKGRrjj) | 2:48 | 2024-07-19 |  |
 | [All For You](https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [All For You](https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v) | 2:21 | 2024-05-03 |  |
+| [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-19 |  |
 | [all of you](https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [all of you](https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ) | 2:38 | 2023-09-22 | 2024-07-13 |
 | [All Over Again](https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [All Over Again](https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim) | 2:58 | 2023-09-01 |  |
 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 | 2022-06-24 | 2022-09-03 |
@@ -414,7 +416,7 @@
 | [La Di Da](https://open.spotify.com/track/2LW6Tgz0V7wkgu2MyYQ0gT) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Slow Life](https://open.spotify.com/album/0EFFIox3JkWPvueHyF2mII) | 2:37 | 2022-05-27 | 2022-07-21 |
 | [Laced](https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Laced](https://open.spotify.com/album/3Ai0s9Mub52lhvfhPW0wfr) | 3:21 | 2024-01-26 | 2024-05-11 |
 | [Ladybug](https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Ladybug](https://open.spotify.com/album/43AUX3S660O7gGKeZqGUsk) | 3:40 | 2022-05-27 | 2022-07-29 |
-| [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 |  |
+| [Lately I](https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Lately I](https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj) | 3:07 | 2024-04-26 | 2024-07-19 |
 | [Leave With Me](https://open.spotify.com/track/1VXWhDwV2WG7tnlclMP1nk) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:16 | 2023-10-13 | 2024-06-15 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 | 2023-08-12 |
 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 | 2023-07-14 | 2023-10-14 |
@@ -602,7 +604,7 @@
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-06-03 | 2023-08-12 |
 | [Saving Face](https://open.spotify.com/track/2ryATdlWSw5e2QkIZwOWN7) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Saving Face](https://open.spotify.com/album/6lcu11cmsWCGKyee35sb92) | 3:01 | 2023-08-11 | 2023-08-26 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-12 |  |
-| [Say Hello](https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Say Hello](https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z) | 2:54 | 2024-06-14 |  |
+| [Say Hello](https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Say Hello](https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z) | 2:54 | 2024-06-14 | 2024-07-19 |
 | [sayonara](https://open.spotify.com/track/4GgBRiqk6JCoNP3elEnbIy) | [REBBY](https://open.spotify.com/artist/6SM0FvfOnhrOrf915CKPdh) | [sayonara](https://open.spotify.com/album/2Dlk9MiP54xjdCdrDJHTxO) | 3:07 | 2024-05-24 |  |
 | [scenic route](https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE) | 3:00 | 2023-12-01 | 2024-05-09 |
 | [scenic route](https://open.spotify.com/track/34LhJDEt54G9Ba8P5hsgOm) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [scenic route](https://open.spotify.com/album/05HfFNIDwT3mknFofyORNE) | 3:00 | 2024-03-08 | 2024-04-19 |

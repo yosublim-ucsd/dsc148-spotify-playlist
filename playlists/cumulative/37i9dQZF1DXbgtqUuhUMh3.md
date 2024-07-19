@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Aseel Hameem
 
-678 songs - 1 day 15 hr 3 min
+679 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Asli Barri](https://open.spotify.com/track/03KTLf6CPbn53mvq96zybI) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7), [Nancy Hawa](https://open.spotify.com/artist/6dFTgftg5qijJnLBRPqWUd), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Yusor Hamed](https://open.spotify.com/artist/6ed5NBGyvev1Q2JzDIS47x) | [Asli Barri](https://open.spotify.com/album/5fnQD9hhQa40g4Bk1xFdsX) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 | 2022-03-03 | 2023-05-13 |
 | [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 | 2023-11-23 |
-| [B3eed](https://open.spotify.com/track/5OggynuvjzOkXkwZJxWfD1) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [B3eed](https://open.spotify.com/album/7c6yPPCR5QHWh2l4GCGJvv) | 3:18 | 2024-02-15 |  |
+| [B3eed](https://open.spotify.com/track/5OggynuvjzOkXkwZJxWfD1) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [B3eed](https://open.spotify.com/album/7c6yPPCR5QHWh2l4GCGJvv) | 3:18 | 2024-02-15 | 2024-07-19 |
 | [Ba3d Al Frak](https://open.spotify.com/track/01KJufb1Qt3s3xeiRZll1z) | [Deema Cam](https://open.spotify.com/artist/6r28s3Wv8IIIQgKptX71zj) | [Ba3d Al Frak](https://open.spotify.com/album/0iHOLK0SOIEP4YnNi6wG7S) | 3:54 | 2021-12-23 | 2022-03-01 |
 | [Ba9i](https://open.spotify.com/track/1oTZuVigsvGyUHM9zMOKFM) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ba9i](https://open.spotify.com/album/0zQqQuBMkh7xratGdm5cwW) | 3:37 | 2021-12-23 | 2022-03-02 |
 | [Baad Sneen](https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Baad Sneen](https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md) | 3:42 | 2023-05-04 | 2023-09-09 |
@@ -457,6 +457,7 @@
 | [Shou Wadou Albak](https://open.spotify.com/track/7c0gjYzDwCJ56NYSpoUgzJ) | [Maribel Maalouf](https://open.spotify.com/artist/3MoSMS2jKVPPZbLw2W3qEV) | [Shou Wadou Albak](https://open.spotify.com/album/3OIz3IetACEIYuKUuSm0R5) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Shouf](https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy) | [Carolina Karam](https://open.spotify.com/artist/6zeJXT6e12k3LLAZHEgCSA) | [شوف](https://open.spotify.com/album/0in4kb6hakIBhYUlAgoHDB) | 3:35 | 2022-03-01 | 2022-07-28 |
 | [Shouf](https://open.spotify.com/track/4WH8T2gsUwPkQvLvXWPdbr) | [Flugen](https://open.spotify.com/artist/4AILr8jXuj2aDFu3C757AT), [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Meshwar](https://open.spotify.com/album/72zlxotZQ7fHxduR097Jwa) | 6:18 | 2021-12-30 | 2022-02-20 |
+| [Shu Ma Sar](https://open.spotify.com/track/3AhojhL75hKdm5lvsx40pp) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Shu Ma Sar](https://open.spotify.com/album/4suLQSCtkjso7Xru16G4Ga) | 2:45 | 2024-07-18 |  |
 | [Shway Shway](https://open.spotify.com/track/6sTssq4X4cBGcMsT9vmymq) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Shway Shway](https://open.spotify.com/album/569KpQXH9KebsbcEjTI8jr) | 2:45 | 2021-12-23 | 2022-03-02 |
 | [Siahak Tarab](https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Siahak Tarab](https://open.spotify.com/album/4NhrRfjq5gt75bA7ig52xK) | 3:29 | 2023-09-25 | 2023-10-06 |
 | [Sketch](https://open.spotify.com/track/2NdoRFkYYUDgIAyTo4Q86o) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs) | [Sketch](https://open.spotify.com/album/0cH1lfgElH9he1dy5UzCPV) | 3:38 | 2021-12-30 | 2022-03-01 |

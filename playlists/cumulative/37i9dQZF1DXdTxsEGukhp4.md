@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: JO1
 
-427 songs - 1 day 0 hr 30 min
+428 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [未来図](https://open.spotify.com/track/3hD6z4YbJk64kN3v3N47hr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Memory](https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf) | 3:49 | 2023-10-12 | 2023-11-11 |
 | [未来図](https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [未来図](https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF) | 3:49 | 2023-10-02 | 2023-10-13 |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
+| [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 |  |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-05-09 |  |

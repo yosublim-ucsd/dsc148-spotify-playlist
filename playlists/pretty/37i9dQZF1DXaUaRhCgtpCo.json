@@ -1,12 +1,12 @@
 {
   "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
-  "num_followers": 525887,
+  "num_followers": 525936,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAD2b4LIB2Q9k1B5vEwse5BF",
+  "snapshot_id": "ZpnkwAAAAAC2/RDEOT2LK5sBfkFOvfDm",
   "tracks": [
     {
       "added_at": "2024-06-14 04:00:00",
@@ -135,6 +135,22 @@
       "duration_ms": 179573,
       "name": "The Imperial March (Darth Vader's Theme)",
       "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Star Wars: The Acolyte (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "duration_ms": 196561,
+      "name": "The Power of Many / End Title",
+      "url": "https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx"
     },
     {
       "added_at": "2024-06-14 04:00:00",

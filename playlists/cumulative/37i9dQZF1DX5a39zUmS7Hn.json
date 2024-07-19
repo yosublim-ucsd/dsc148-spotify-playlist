@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "All Out Attack",
+        "url": "https://open.spotify.com/album/2QGxtTldh9B9JJjl96Jn7V"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282813,
+      "name": "All Out Attack",
+      "url": "https://open.spotify.com/track/2yL1xzB2RMPjqnHr3coJ9D"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
@@ -2573,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Love Insurrection",
+        "url": "https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212275,
+      "name": "Love Insurrection - Edit",
+      "url": "https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag"
+    },
+    {
+      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -3947,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
+    },
+    {
+      "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
       },
@@ -4244,7 +4298,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 318506,
       "name": "Step On - 2007 Remaster",
       "url": "https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG"
@@ -5244,7 +5298,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195099,
       "name": "We Made It Look Easy",
       "url": "https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG"

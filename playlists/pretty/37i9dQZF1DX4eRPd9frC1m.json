@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586088,
+  "num_followers": 2586163,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -488,7 +488,7 @@
           "url": "https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8"
         }
       ],
-      "duration_ms": 195258,
+      "duration_ms": 195000,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/0qFNPzeb1tDKQ67ynIzU5S"
     },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-12 17:16:59",
       "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
-    },
-    {
-      "added_at": "2024-07-12 17:16:59",
-      "album": {
         "name": "with vengeance",
         "url": "https://open.spotify.com/album/2BrCqqX0FnufWcOCEi53cK"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 200598,
       "name": "with vengeance",
       "url": "https://open.spotify.com/track/1jUWJ90dmJLAb0AdL39vXU"
+    },
+    {
+      "added_at": "2024-07-12 17:16:59",
+      "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2024-07-12 17:16:59",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2024-07-12 17:16:59",
       "album": {
-        "name": "It\u2019s Riddim Time",
-        "url": "https://open.spotify.com/album/52MZ9cM7DPDCrJZktsHKF0"
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 240000,
-      "name": "MELLOFIRE",
-      "url": "https://open.spotify.com/track/5arp5Yt5acArXKLkgVe2Nq"
+      "duration_ms": 249090,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn"
     }
   ],
   "unique_name": "Hype",

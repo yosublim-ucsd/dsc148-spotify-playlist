@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 89934,
+  "num_followers": 89928,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -979,18 +979,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Leave This City",
-        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
+        "name": "Driscoll",
+        "url": "https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup"
       },
       "artists": [
         {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+          "name": "Danny Chaska",
+          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
+        },
+        {
+          "name": "Graver",
+          "url": "https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf"
         }
       ],
-      "duration_ms": 169129,
-      "name": "I Was Never Phased",
-      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
+      "duration_ms": 151730,
+      "name": "Driscoll",
+      "url": "https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U"
     },
     {
       "added_at": "2024-06-12 15:11:47",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
-        "name": "Driscoll",
-        "url": "https://open.spotify.com/album/6kqIn2SlJfoBeXw8t5jUup"
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
       },
       "artists": [
         {
-          "name": "Danny Chaska",
-          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
-        },
-        {
-          "name": "Graver",
-          "url": "https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf"
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
         }
       ],
-      "duration_ms": 151730,
-      "name": "Driscoll",
-      "url": "https://open.spotify.com/track/29g7KrjPzgfPqkVfAbZ94U"
+      "duration_ms": 169129,
+      "name": "I Was Never Phased",
+      "url": "https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8"
     },
     {
       "added_at": "2024-06-12 15:11:47",

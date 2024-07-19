@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-302 songs - 18 hr 42 min
+303 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Professional](https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 2:37 | 2023-12-13 |  |
 | [PROUD](https://open.spotify.com/track/365wwIjijQdlRJEjUWTidq) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Play Don’t Care Who Makes It](https://open.spotify.com/album/5C3uZS83u9pXWFEpl47hWb) | 3:54 | 2023-12-13 |  |
 | [Psychopath Killer](https://open.spotify.com/track/41waH7ObCldjMZ90i6HY3A) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:19 | 2023-12-13 |  |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-07-18 |  |
 | [Put It Down](https://open.spotify.com/track/5qKETQwkxK8I05yYfg13Az) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 4:32 | 2023-12-13 |  |
 | [R.G.](https://open.spotify.com/track/1wg7lAk7YpKA90pFwSERZS) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 2:53 | 2023-12-13 |  |
 | [R.O.D.](https://open.spotify.com/track/5AmzfSxCIOPxPmppoHrr12) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:34 | 2023-12-13 |  |

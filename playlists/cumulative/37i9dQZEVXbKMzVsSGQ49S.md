@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-2,114 songs - 4 day 18 hr 29 min
+2,115 songs - 4 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,7 +986,7 @@
 | [Komdu þér í fíling](https://open.spotify.com/track/4HSrBRVSECbEMuVLSgyWma) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Demotape 01](https://open.spotify.com/album/7ER6fzhCU5aJE9SNNTlkKd) | 4:25 | 2021-07-25 | 2021-07-28 |
 | [Komið Að Því](https://open.spotify.com/track/1dpR3nENYUnY9g9CZTd3Is) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Sverrir Bergmann](https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp), [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [Komið Að Því](https://open.spotify.com/album/0fU8OHsj7srKSbhEWmXZ8B) | 2:41 | 2021-06-27 | 2021-10-17 |
 | [Komið Að Því](https://open.spotify.com/track/28MwPJYh5Ot9NMvRSLgyPy) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Sverrir Bergmann](https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp), [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE) | [Komið Að Því](https://open.spotify.com/album/76NnsPLmHabEZVUajUoQWE) | 2:41 | 2022-07-28 | 2023-08-08 |
-| [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-01-02 |  |
+| [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-01-02 | 2024-07-19 |
 | [Krumla](https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Krumla](https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd) | 3:15 | 2023-07-22 |  |
 | [Kuldi \(Hún veit\)](https://open.spotify.com/track/5JURDtyJWoIkkNRzXHwvYa) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [21](https://open.spotify.com/album/2cPCnpz36SsJD1kn1ONwOI) | 2:45 | 2024-06-21 | 2024-06-29 |
 | [Kvennagull](https://open.spotify.com/track/574YTY8UAZphSjRbBxCo1h) | [Drullusokkarnir](https://open.spotify.com/artist/3gat4S91i1mfFkmFMkN7xF) | [Kvennagull](https://open.spotify.com/album/6k8ORJWt0yG11NLqgyyRqG) | 3:33 | 2023-06-02 | 2023-06-04 |
@@ -1795,6 +1795,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-02-26 | 2022-06-14 |
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2022-02-16 | 2022-02-21 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-11-03 | 2024-04-17 |
+| [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-07-18 |  |
 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 | 2023-04-29 | 2023-05-01 |
 | [The Rain](https://open.spotify.com/track/6N4nwFs8HwL04P7O2PzKL7) | [Rubby](https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT) | [To Start Again \(Live\)](https://open.spotify.com/album/7fl6aQtYK1ZbZGYJR3H6r7) | 3:56 | 2024-07-10 | 2024-07-14 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-20 | 2024-04-22 |

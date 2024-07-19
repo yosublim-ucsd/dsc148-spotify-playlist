@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 7 hr 19 min
+136 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All For You](https://open.spotify.com/track/31utqahy8vJPeFdBfzhh4F) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/0IvU07pOB1y4JGY90bARQv) | 3:42 | 2024-01-29 | 2024-02-02 |
 | [All For You \(with Ella Henderson\)](https://open.spotify.com/track/37kbXJxueyVRhwHr3b6Zhp) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [All For You \(with Ella Henderson\)](https://open.spotify.com/album/2KNo5bN8EamrzVLk7bw9n0) | 3:41 | 2024-01-29 |  |
 | [Always](https://open.spotify.com/track/1w0qg01gZLzPPH5R0cTCuW) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 4:07 | 2024-01-29 |  |
+| [Always Love](https://open.spotify.com/track/3esb4GVLQ2uUdVSwIWTwWD) | [Joris Sava](https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Always Love](https://open.spotify.com/album/0DCVDrAgMoOfL1ZCGG9lsa) | 2:31 | 2024-07-18 |  |
 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 | 2024-01-29 |  |
 | [Anywhere's Home](https://open.spotify.com/track/5XZZE1pniUcNCFHgDIdFnZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Anywhere's Home](https://open.spotify.com/album/7s8g5nvFg2wa6a5wFWW0N3) | 2:57 | 2024-01-29 |  |
 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 | 2024-01-29 |  |

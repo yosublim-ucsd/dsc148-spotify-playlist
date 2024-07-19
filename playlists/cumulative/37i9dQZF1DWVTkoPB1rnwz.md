@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVTkoPB1rnwz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVTkoPB1rnwz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVTkoPB1rnwz)
 
-### [quiet hours](https://open.spotify.com/playlist/37i9dQZF1DWVTkoPB1rnwz)
+### [Quiet Hours](https://open.spotify.com/playlist/37i9dQZF1DWVTkoPB1rnwz)
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-356 songs - 20 hr 58 min
+357 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-16 |  |
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-16 | 2022-07-28 |
 | [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-16 | 2024-02-15 |
+| [Mexico Edit](https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Hardy Boys](https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv) | 2:17 | 2024-07-19 |  |
 | [Migrations](https://open.spotify.com/track/4oiwHTTaiLERMEEhHwqnq2) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e) | 3:16 | 2021-10-16 | 2022-07-10 |
 | [mirage](https://open.spotify.com/track/5Sort7TKBLV8Mf5SiW85bw) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [mirage](https://open.spotify.com/album/3X8ZJ5G96XzV3LBJpe8Qs3) | 2:02 | 2021-10-16 |  |
 | [Monospace](https://open.spotify.com/track/01t81v0bqY73qcOoM6WUOC) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Monospace](https://open.spotify.com/album/10UfKBIklZy668Jcv6pN5S) | 2:26 | 2021-10-16 |  |
@@ -310,7 +311,7 @@
 | [tears \(is this even real?\)](https://open.spotify.com/track/6ig6L5YZmiASmRlXmVPMP1) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [wait for me](https://open.spotify.com/album/32ebyrpYYaR2TQqOzAANwn) | 2:55 | 2021-10-16 | 2024-04-19 |
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2022-09-30 |  |
 | [thank you](https://open.spotify.com/track/1Iz3CgXvBRtvBexnOfEk06) | [elro](https://open.spotify.com/artist/4F288nXxaJ0a12MP60Il0c), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [thank you](https://open.spotify.com/album/4t88BKiSoKTFiBQpWSurNw) | 1:41 | 2022-01-14 |  |
-| [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-07-17 |  |
+| [that love](https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 7:46 | 2024-07-17 | 2024-07-19 |
 | [The Apiary](https://open.spotify.com/track/1ksUGKzkQfB9FDGfIJPqTG) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 3:03 | 2022-12-21 | 2023-02-16 |
 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 | 2021-10-16 | 2024-07-18 |
 | [The Lonely Island of Neopagan Practices](https://open.spotify.com/track/3JsRGgz1mChiwFTuSJ7dev) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Lonely Island of Neopagan Practices](https://open.spotify.com/album/0Mzqji5yhsfLxdt9zd82gR) | 2:45 | 2021-10-16 | 2022-07-29 |

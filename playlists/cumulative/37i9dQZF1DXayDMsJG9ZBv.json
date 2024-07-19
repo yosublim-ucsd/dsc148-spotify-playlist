@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Ado",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: ONE OK ROCK",
   "name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "tracks": [
     {
@@ -1338,6 +1338,24 @@
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "album": {
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -8099,6 +8117,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "album": {
         "name": "DEBUT",
         "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
       },
@@ -8507,6 +8543,32 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
+      },
+      "artists": [
+        {
+          "name": "GEMN",
+          "url": "https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew"
+        },
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        },
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+      "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/6gSQqLEZ8GyWUOytxHUpJQ"
       },
@@ -8886,7 +8948,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211000,
       "name": "\u521d\uff2b\uff2f\u52dd\u3061",
       "url": "https://open.spotify.com/track/3xlrgvHcsv1oF8JEdbyQbr"
@@ -9348,7 +9410,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 310997,
       "name": "\u6e80\u3061\u3066\u3086\u304f",
       "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
@@ -9420,7 +9482,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159000,
       "name": "\u7768\u3081\u3063\u5a18",
       "url": "https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq"
@@ -9692,6 +9754,24 @@
       "duration_ms": 250613,
       "name": "\u82b1\u4e00\u5301",
       "url": "https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg"
+    },
+    {
+      "album": {
+        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
     },
     {
       "album": {

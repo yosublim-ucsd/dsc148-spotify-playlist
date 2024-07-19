@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,468 songs - 3 day 17 hr 14 min
+1,469 songs - 3 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-04-25 | 2023-06-28 |
 | [Seishun nante](https://open.spotify.com/track/4hjMkChUH4Ib4b1tjWZBcV) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Wakakusa](https://open.spotify.com/album/1ozt5C65MfSFEo1tfhY7Ye) | 3:04 | 2023-11-14 | 2023-11-22 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
-| [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-09 |  |
+| [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-09 | 2024-07-19 |
 | [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 | 2024-04-12 |  |
 | [SF東京](https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SF東京](https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT) | 3:14 | 2024-01-18 |  |
 | [Shadow](https://open.spotify.com/track/5m70CJ7y4FjrUPj8zyFdGs) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Shadow](https://open.spotify.com/album/0oy7XrLSJERwIw3emEE4Ne) | 3:34 | 2023-12-12 | 2023-12-20 |
@@ -1377,6 +1377,7 @@
 | [摩天楼](https://open.spotify.com/track/4xHKYFUmIRjpW98hbuvwWm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [摩天楼](https://open.spotify.com/album/4MS2FUKzECOcgt69p1y97q) | 3:34 | 2022-05-26 | 2022-06-01 |
 | [敏感](https://open.spotify.com/track/4YPyhQj8nXCVL4oNV4ef5B) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [なかまきこ](https://open.spotify.com/artist/7aq5x0tdeZMA5THwHsYDUz) | [敏感](https://open.spotify.com/album/4mondnoMGMLlVTKUgoinCe) | 3:54 | 2023-11-21 | 2023-11-29 |
 | [救世主](https://open.spotify.com/track/2HpElJe84VQKeiZWpIXzWq) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [救世主](https://open.spotify.com/album/4kb32b8HlLiATmTModYCgf) | 3:15 | 2024-02-20 | 2024-04-19 |
+| [方途](https://open.spotify.com/track/4sNpYawPOHBaU2YwbSf2ii) | [synju](https://open.spotify.com/artist/2Wb6ObEXGJeVIL4JkOmRtE) | [pearls](https://open.spotify.com/album/4haAuahFiydhTUrvZ1Y4eN) | 3:25 | 2024-07-18 |  |
 | [旅行](https://open.spotify.com/track/0psnaTdXFZvtCdmh2aRHr9) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [ぼちぼち銀河](https://open.spotify.com/album/0RRXWd6gJfKy34WF8RCkfs) | 3:36 | 2022-05-26 | 2022-07-08 |
 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 | 2024-04-12 |  |
 | [星を見る人](https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [星を見る人](https://open.spotify.com/album/20Rf0NcJXvBmWIk8bhmWhb) | 5:08 | 2023-09-14 | 2023-10-04 |

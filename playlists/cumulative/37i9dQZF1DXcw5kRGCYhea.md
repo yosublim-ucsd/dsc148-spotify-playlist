@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-99 songs - 5 hr 0 min
+102 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-05-10 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2024-03-26 | 2024-06-23 |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-05-10 | 2024-07-02 |
+| [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-19 |  |
 | [BLADI](https://open.spotify.com/track/16RbqwDYPAHUPR9esyfGlq) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [BLADI](https://open.spotify.com/album/08GcEYNhOjc5zovnynkbvk) | 3:19 | 2024-03-26 | 2024-06-18 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2024-03-26 | 2024-04-24 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-03-26 | 2024-07-09 |
@@ -40,7 +41,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-15 |  |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-06-01 |  |
 | [Hibou](https://open.spotify.com/track/4gr4oZB1TKipXwMd02iUg3) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Hibou](https://open.spotify.com/album/6JJxwyARdiQCzVxjp87HgU) | 2:48 | 2024-03-26 | 2024-06-02 |
-| [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 | 2024-07-01 |  |
+| [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 | 2024-07-01 | 2024-07-19 |
 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 | 2024-04-18 | 2024-06-17 |
 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 | 2024-03-26 | 2024-04-19 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-01 |  |
@@ -53,7 +54,8 @@
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-03-26 | 2024-05-10 |
 | [LGHERBAL](https://open.spotify.com/track/2qNvrq2gmzl7dwReVWLdpD) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [LGHERBAL](https://open.spotify.com/album/6TijljvrYcwq5G1SpJFev4) | 2:45 | 2024-03-26 | 2024-06-14 |
 | [LOCO](https://open.spotify.com/track/1WVesbZHbBbFBEbrnk1Nnb) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/3oR3u9aONQNmyyn8SqSA5N) | 2:41 | 2024-04-23 |  |
-| [Loco](https://open.spotify.com/track/1oTuAmY3HZgLIKb52B07xl) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Loco](https://open.spotify.com/album/3TcG5hDL8YM5FKhp1rvsE1) | 2:26 | 2024-07-03 |  |
+| [Loco](https://open.spotify.com/track/1oTuAmY3HZgLIKb52B07xl) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Loco](https://open.spotify.com/album/3TcG5hDL8YM5FKhp1rvsE1) | 2:26 | 2024-07-03 | 2024-07-19 |
+| [Love \(French Remix\)](https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Love \(French Remix\)](https://open.spotify.com/album/6x82evLa3aeI9agy8mNbE4) | 2:53 | 2024-07-19 |  |
 | [LV](https://open.spotify.com/track/3PDz3mtJB61Zpc8Bq8ui51) | [Smurxa](https://open.spotify.com/artist/14vgRvHLwVocqfsOWht6wB) | [LV](https://open.spotify.com/album/6ZDribH9XHfeMilznJ2YmS) | 2:54 | 2024-06-17 |  |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-03-26 | 2024-07-05 |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-03-26 |  |
@@ -83,7 +85,7 @@
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-06-22 |  |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2024-03-26 |  |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 |  |
-| [S7aba](https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [S7aba](https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v) | 2:41 | 2024-07-03 |  |
+| [S7aba](https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [S7aba](https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v) | 2:41 | 2024-07-03 | 2024-07-19 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2024-03-26 | 2024-07-04 |
 | [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-14 |  |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-14 |  |
@@ -104,6 +106,7 @@
 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-22 |  |
 | [Wine](https://open.spotify.com/track/1KyRQJGLLkuEQC9Y0aeI9U) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Wine](https://open.spotify.com/album/3HvRgamjEvg5mSB6ergRjc) | 2:18 | 2024-05-17 | 2024-06-23 |
 | [Wsalni MSG](https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Wsalni MSG](https://open.spotify.com/album/0QftcGAPGyjwlZespn29DU) | 2:36 | 2024-03-26 |  |
+| [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-07-19 |  |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2024-03-26 | 2024-07-05 |
 | [ZIGZAG](https://open.spotify.com/track/2Pn4RjpmuYRMJTXWzTonXn) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZIGZAG](https://open.spotify.com/album/00AGiSuiFx3kmEIbj0ENeK) | 2:48 | 2024-03-26 | 2024-06-15 |
 | [À QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-22 | 2024-07-05 |

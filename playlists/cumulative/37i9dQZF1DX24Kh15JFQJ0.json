@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185573,
       "name": "Home Run",
       "url": "https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16"
@@ -4998,6 +4998,24 @@
       "duration_ms": 195186,
       "name": "This is Where the End Starts Feat. Haley Vassar",
       "url": "https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I"
+    },
+    {
+      "album": {
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
     },
     {
       "album": {

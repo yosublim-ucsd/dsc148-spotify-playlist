@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : GOAT",
+  "description": "New Music from Kollywood.\nCover : Thangalaan",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 182470,
       "name": "Aanandham Koothadum - From \"Bakasuran\"",
       "url": "https://open.spotify.com/track/2SXTELPQfPA5EqhqATxwbE"
+    },
+    {
+      "album": {
+        "name": "Aaraathi Aaraathi (From \"Petta Rap\")",
+        "url": "https://open.spotify.com/album/1Yd6PTaK0v8UKKBF8fbIjA"
+      },
+      "artists": [
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141169,
+      "name": "Aaraathi Aaraathi (From \"Petta Rap\")",
+      "url": "https://open.spotify.com/track/3EjgC6NAKaESTywf0rLId7"
     },
     {
       "album": {
@@ -5750,7 +5768,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 201162,
       "name": "Dhama Dhama (From \"Miss You\")",
       "url": "https://open.spotify.com/track/6AktQfsNi1y6WYnN7qEopE"
@@ -8820,7 +8838,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 105000,
       "name": "Hope of Shambala (From \"Kalki 2898 AD\") (Tamil)",
       "url": "https://open.spotify.com/track/7kpgS4PmzPFVL1jyABjiJX"
@@ -11739,6 +11757,24 @@
     },
     {
       "album": {
+        "name": "Valliamma Peraandi - Vol. 01",
+        "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Kangaani",
+      "url": "https://open.spotify.com/track/0oQ602e8bTL45cygaGpW4G"
+    },
+    {
+      "album": {
         "name": "Kangal Edho (From \"Chithha\")",
         "url": "https://open.spotify.com/album/4TZVYX8n31dqSAN8FUDBrZ"
       },
@@ -12506,7 +12542,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210750,
       "name": "Karai Theendum",
       "url": "https://open.spotify.com/track/7wCPpT9YAartvsR41T2d90"
@@ -13268,6 +13304,28 @@
       "duration_ms": 335199,
       "name": "Kone Komaane",
       "url": "https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o"
+    },
+    {
+      "album": {
+        "name": "Kongu Song (From \"Alangu\")",
+        "url": "https://open.spotify.com/album/4597KNNGarYJP2X2NSLnsG"
+      },
+      "artists": [
+        {
+          "name": "Ajesh",
+          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
+        },
+        {
+          "name": "Kidakuzhi Mariyammal",
+          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214181,
+      "name": "Kongu Song (From \"Alangu\")",
+      "url": "https://open.spotify.com/track/1gJ715SgSDQ7ax5kfkZ91z"
     },
     {
       "album": {
@@ -14986,7 +15044,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236000,
       "name": "Madhu Malaro",
       "url": "https://open.spotify.com/track/3pEhvWDq6AvXsuNfJDPRy0"
@@ -21220,7 +21278,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218450,
       "name": "Panangarukka - From \"Sir\"",
       "url": "https://open.spotify.com/track/2o1YWhxRfQHLjWnHOL3t3r"
@@ -22996,6 +23054,36 @@
       "duration_ms": 327058,
       "name": "Raasa Kannu (From \"Maamannan\")",
       "url": "https://open.spotify.com/track/2xm4sJxwgaeFsxc1cM1xQr"
+    },
+    {
+      "album": {
+        "name": "Valliamma Peraandi - Vol. 01",
+        "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "QUAZI MODE",
+          "url": "https://open.spotify.com/artist/40sHXKxKlSrUUD7Jy5Hu9W"
+        },
+        {
+          "name": "Preetesh Hirji",
+          "url": "https://open.spotify.com/artist/3UjjTmdMHTLBLyaUHDzEQJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216717,
+      "name": "Raasaathi",
+      "url": "https://open.spotify.com/track/2HB7rk0Fg1vcEMEDxjIOa3"
     },
     {
       "album": {
@@ -25828,7 +25916,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232599,
       "name": "SteppaMaar",
       "url": "https://open.spotify.com/track/1neavjLyyP0ZOa5Fy48BES"
@@ -27825,6 +27913,32 @@
     },
     {
       "album": {
+        "name": "Thenkizhakku (From \"Vaazhai\")",
+        "url": "https://open.spotify.com/album/187VNE79sofMajbZamOLXY"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Thenkizhakku - From \"Vaazhai\"",
+      "url": "https://open.spotify.com/track/3qXHJ7BfnsU7reHngWMI4f"
+    },
+    {
+      "album": {
         "name": "Thenmozhi (From \"Thiruchitrambalam\")",
         "url": "https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr"
       },
@@ -28116,6 +28230,32 @@
       "duration_ms": 206000,
       "name": "Thiyagi Boys - From \"Coffee With Kadhal\"",
       "url": "https://open.spotify.com/track/6AIMLTeBhAxX75QJrJQdQV"
+    },
+    {
+      "album": {
+        "name": "Valliamma Peraandi - Vol. 01",
+        "url": "https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG"
+      },
+      "artists": [
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Schnochild",
+          "url": "https://open.spotify.com/artist/1qOgMjz4fXyk6T8nfiu9Vu"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170991,
+      "name": "Thodaadha",
+      "url": "https://open.spotify.com/track/3rzy4osPIm95vjZdPcyzgL"
     },
     {
       "album": {

@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "ENT\u00c3O JOGA",
+        "url": "https://open.spotify.com/album/2d0DtdCRQHnxKlRiozJ6Wx"
+      },
+      "artists": [
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/3Ga6oJGPtawzRC1LUnhXFa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105380,
+      "name": "ENT\u00c3O JOGA",
+      "url": "https://open.spotify.com/track/5agRwfAUp8KwtTiqpYYdVd"
+    },
+    {
+      "album": {
         "name": "Escala de D\u00f3",
         "url": "https://open.spotify.com/album/4oI2poa1RjCuob6xPxE665"
       },
@@ -2468,6 +2486,32 @@
       "duration_ms": 132923,
       "name": "Me Faz de Cadeira - Senta Senta",
       "url": "https://open.spotify.com/track/2GBzssS4LuZ4aer8apjhaQ"
+    },
+    {
+      "album": {
+        "name": "Me Provoca",
+        "url": "https://open.spotify.com/album/0UYadX5eZy7b9L4CTxLXEC"
+      },
+      "artists": [
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        },
+        {
+          "name": "Jg\u00ea",
+          "url": "https://open.spotify.com/artist/5AVOd85ksSiI2QULxv0gM2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126770,
+      "name": "Me Provoca",
+      "url": "https://open.spotify.com/track/5AOVxfd4P1YpK3VMECpJdd"
     },
     {
       "album": {

@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
+    },
+    {
+      "album": {
         "name": "Fortunate",
         "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
       },
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194160,
       "name": "Unfoolish",
       "url": "https://open.spotify.com/track/6dZ6qWl1e9GsMndBG7vqB9"

@@ -2,9 +2,9 @@
 
 ### [This Is El Chapo De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31TGEC)
 
-> This Is El Chapo De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 21 min
+88 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Andamos Borrachos](https://open.spotify.com/track/1zHDb51oC8fz6uWfw6xNhD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/4WiQNWTAwkLG5Bzr6NQ5Ry) | 2:19 | 2022-06-01 | 2024-05-07 |
 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 | 2024-05-07 |  |
 | [Angel Perdido](https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Angel Perdido](https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke) | 2:29 | 2024-03-12 |  |
-| [Apártame Esta Noche](https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:22 | 2024-03-11 |  |
+| [Apártame Esta Noche](https://open.spotify.com/track/2Z60UxbMfxGuFSB8A909SX) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:22 | 2024-03-11 | 2024-07-19 |
 | [Apártame Esta Noche](https://open.spotify.com/track/66be5ntuUbU6eDY31jSuOO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:23 | 2022-06-01 | 2024-03-12 |
+| [Apártame Esta Noche](https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:23 | 2024-07-19 |  |
 | [Bendito Amor](https://open.spotify.com/track/2q90JXPdfexbgjWGWHvHOP) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:26 | 2022-06-01 |  |
 | [Cara Bonita](https://open.spotify.com/track/7xLcYIHPsPipnEkpoCQl11) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Con Banda Sinaloense](https://open.spotify.com/album/4iE9RvuOdi3H6lCwkWlm0b) | 3:18 | 2022-06-01 | 2023-02-05 |
 | [Carlos Moreno](https://open.spotify.com/track/42xa5fEvUsljf9a9BY88NJ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Entre la Mafia](https://open.spotify.com/album/2QjXU5AHNFqdmJoPiF9YkR) | 2:58 | 2023-06-22 | 2023-06-25 |

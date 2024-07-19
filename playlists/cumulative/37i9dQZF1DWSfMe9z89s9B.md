@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Chenayder
 
-1,232 songs - 2 day 17 hr 13 min
+1,233 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,7 +593,7 @@
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-06-10 | 2022-12-03 |
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2024-05-24 |  |
 | [Klei](https://open.spotify.com/track/2umvKO03mTOKrrtxUh5vUU) | [Ben Esser](https://open.spotify.com/artist/1s3tUuJFDb56RcgjUlwVbs), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Klei](https://open.spotify.com/album/6rLDaLzmu8NLg9Odlhm0dT) | 1:53 | 2023-07-28 | 2024-06-29 |
-| [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 |  |
+| [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 | 2024-07-19 |
 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2022-04-01 | 2022-04-05 |
 | [LADY](https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [LADY](https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps) | 3:46 | 2024-04-12 |  |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-05-14 |
@@ -1073,6 +1073,7 @@
 | [THE PEACH](https://open.spotify.com/track/6KCL9FON6UWWymafgIwECG) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [THE PEACH](https://open.spotify.com/album/6KUysdIaL4wtPiRXFAIYUI) | 2:26 | 2023-03-17 | 2023-07-22 |
 | [THE SEASON \(feat\. PawPaw Rod\)](https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:06 | 2022-10-28 | 2023-04-01 |
 | [The Sign Reads](https://open.spotify.com/track/6H7o3P7ipm1dDakdX9Dul2) | [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [The Sign Reads](https://open.spotify.com/album/4kMr7YVY5xZ8ELUCPnXd8c) | 3:34 | 2022-04-01 | 2022-04-21 |
+| [The Way It Goes](https://open.spotify.com/track/3AdbgeEihXieHxO56bxXIS) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [The Way It Goes](https://open.spotify.com/album/5mP2V2YuP0Qf36vCmsCcub) | 2:29 | 2024-07-12 |  |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-10-15 | 2023-02-11 |
 | [THERE FOR YOU](https://open.spotify.com/track/54rXzumZf6OS8jZHN7DUO9) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [THERE FOR YOU](https://open.spotify.com/album/5pPwpIKxjhYypUS9PG154v) | 3:04 | 2023-12-01 |  |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 |  |

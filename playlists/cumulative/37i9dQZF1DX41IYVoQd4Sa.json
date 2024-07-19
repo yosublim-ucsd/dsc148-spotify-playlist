@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "AYAYAY (feat. Dillom)",
+        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "AYAYAY (feat. Dillom)",
+      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
+    },
+    {
+      "album": {
         "name": "Come Back Home",
         "url": "https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P"
       },
@@ -140,6 +162,42 @@
       "duration_ms": 195500,
       "name": "Ha'chayim Ha'ele",
       "url": "https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V"
+    },
+    {
+      "album": {
+        "name": "I Never Land",
+        "url": "https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu"
+      },
+      "artists": [
+        {
+          "name": "Geva Alon",
+          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192653,
+      "name": "I Never Land",
+      "url": "https://open.spotify.com/track/4AyZu1oGMkctesnFZIPgL1"
+    },
+    {
+      "album": {
+        "name": "If Whiskey Was A Friend",
+        "url": "https://open.spotify.com/album/6MUOd5Aud7D5CfsD3DK9BQ"
+      },
+      "artists": [
+        {
+          "name": "Omer Netzer",
+          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213831,
+      "name": "If Whiskey Was A Friend",
+      "url": "https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9"
     },
     {
       "album": {
@@ -422,7 +480,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 549240,
       "name": "\u05d1\u05dc\u05d3\u05d4 \u05dc\u05e0\u05d4\u05d2 \u05de\u05d5\u05e0\u05d9\u05ea (\u05de\u05d5\u05e9\u05d9\u05e7\u05d5) - \u05d1\u05d4\u05d5\u05e4\u05e2\u05d4 \u05d7\u05d9\u05d4 \u05de\u05d4\u05d1\u05d0\u05e8\u05d1\u05d9",
       "url": "https://open.spotify.com/track/6ADHsTTcJzx9Ls6l6qW27V"
@@ -552,7 +610,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 219000,
       "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
       "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
@@ -599,6 +657,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05e0\u05d1 \u05dc\u05d0\u05e8\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/63puPTqi1TeyCgpurPx7v7"
+      },
+      "artists": [
+        {
+          "name": "Haze'evot",
+          "url": "https://open.spotify.com/artist/4p3CuBU6qQdQgIqec3hooj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203274,
+      "name": "\u05d6\u05e0\u05d1 \u05dc\u05d0\u05e8\u05d9\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/65XRdzcboylqk9YbfOHjbu"
+    },
+    {
+      "album": {
         "name": "\u05d7\u05d5\u05e8 \u05d1\u05dc\u05d1",
         "url": "https://open.spotify.com/album/5ArcoQTg4d5o1e1Dgd0ZzX"
       },
@@ -610,7 +686,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236000,
       "name": "\u05d7\u05d1\u05e8\u05d4 \u05e9\u05dc\u05d9 - Havera Sheli",
       "url": "https://open.spotify.com/track/05DpO0iqMUbE7O02BaVp5l"
@@ -636,6 +712,46 @@
       "duration_ms": 272640,
       "name": "\u05d7\u05dc\u05dc\u05d9\u05d5\u05ea - Bonus Track",
       "url": "https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
+      },
+      "artists": [
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "VuVuVu",
+          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229362,
+      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+        "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
+      },
+      "artists": [
+        {
+          "name": "Jenny Penkin",
+          "url": "https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
+      "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
     },
     {
       "album": {
@@ -864,7 +980,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 306419,
       "name": "\u05de\u05d4 \u05e7\u05d5\u05e8\u05d4",
       "url": "https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ"
@@ -1101,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205276,
+      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
         "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
       },
@@ -1196,7 +1330,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157177,
       "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
       "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
@@ -1292,7 +1426,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195494,
       "name": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9",
       "url": "https://open.spotify.com/track/7hAU0v73HDHE4XQPvL1xVH"
@@ -1368,7 +1502,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"

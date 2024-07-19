@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C?si=k0RJ2ZutRPy1AWzQVjpUhw\">Wentzel</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj?si=IxXHFHoZRr2uhcy0Vskrfw\">Jay</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -348,6 +348,24 @@
       "duration_ms": 189000,
       "name": "Bokswyn",
       "url": "https://open.spotify.com/track/4ZdEKnyBbsxJf0FRd3rTb5"
+    },
+    {
+      "album": {
+        "name": "Bosveld Dans",
+        "url": "https://open.spotify.com/album/7K7LqdCep5KSEnpaRyYnA0"
+      },
+      "artists": [
+        {
+          "name": "WG NEL",
+          "url": "https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194433,
+      "name": "Bosveld Dans",
+      "url": "https://open.spotify.com/track/489YLHaA5sh1CD7awfMRTD"
     },
     {
       "album": {
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222231,
       "name": "Koebaai aan my Hart",
       "url": "https://open.spotify.com/track/2rbsZ5fHjq81NpqWIPNMKj"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197230,
       "name": "My Nannas",
       "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
@@ -3014,6 +3032,24 @@
       "duration_ms": 183199,
       "name": "Plaaslewe",
       "url": "https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL"
+    },
+    {
+      "album": {
+        "name": "Plaaspop (Mullet Mix)",
+        "url": "https://open.spotify.com/album/7cIenDiVkghVyHAQd6FHS9"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Plaaspop (Mullet Mix)",
+      "url": "https://open.spotify.com/track/6pTZP4V1f14d7s6n2Nqhok"
     },
     {
       "album": {

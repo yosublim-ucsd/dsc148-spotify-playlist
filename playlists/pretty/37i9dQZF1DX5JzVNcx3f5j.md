@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,233 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,250 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

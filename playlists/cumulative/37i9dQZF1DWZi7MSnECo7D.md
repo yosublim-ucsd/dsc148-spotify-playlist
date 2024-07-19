@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Jambu
 
-643 songs - 1 day 12 hr 32 min
+647 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Breu](https://open.spotify.com/track/3Eu2TC0aIOaBUB5oNzI6kr) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Breu](https://open.spotify.com/album/3PoYgoWLUmGblClRJ3IZjq) | 4:14 | 2022-01-14 | 2022-07-09 |
 | [Bruta](https://open.spotify.com/track/4dSZ4PCRQio4IvIza6IAMb) | [Beli Remour](https://open.spotify.com/artist/6vtzYhjkFNNnKca9BzC3Tc), [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3) | [Bruta](https://open.spotify.com/album/05OTT0BfMLMAFCAlTtnh8I) | 3:32 | 2022-01-14 | 2022-06-04 |
 | [Bíblia, Boi e Bala](https://open.spotify.com/track/7G0G8VGwSKxR9ho4A9bL84) | [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [Ultravioleta](https://open.spotify.com/album/3kvR8t0nAOvggVvPvpqEKU) | 3:59 | 2022-03-18 | 2022-04-02 |
+| [Caboclo](https://open.spotify.com/track/37gSNmtiShAkTLd1u11CYr) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [Passe](https://open.spotify.com/album/0VZb2MWbxOqy0n6o89rvYk) | 3:08 | 2024-07-19 |  |
 | [Caboclo \(Demo 2\)](https://open.spotify.com/track/6aQVooSqc0rA0tAW5s9RZi) | [Oruã](https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm) | [New Demos Jun'22](https://open.spotify.com/album/2Z6WoEkZK42jIzeJnheiM3) | 3:48 | 2023-05-26 | 2023-10-14 |
 | [Cada Caos](https://open.spotify.com/track/54fFmNQNkzUzNi12QWyWwA) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Cada Caos](https://open.spotify.com/album/4FtQh0GCseTVdDXSCiB2gT) | 3:18 | 2024-03-01 | 2024-07-06 |
 | [Cada Pedaço](https://open.spotify.com/track/1LDq4X6erGwCEmxi28Xwbx) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Prisma](https://open.spotify.com/album/0suNJm584XzPKKcy8RofZJ) | 3:03 | 2022-03-18 | 2022-04-02 |
@@ -160,6 +161,7 @@
 | [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 | 2022-09-17 |
 | [Das coisas que se perdem](https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx) | [Bomfim](https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx) | [Todos os conselhos que não segui](https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN) | 4:20 | 2022-07-22 | 2022-12-03 |
 | [De ponta cabeça](https://open.spotify.com/track/22kGdSLK3uos6nXIvrCzBZ) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:21 | 2024-05-24 |  |
+| [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/track/3Lv2v95zjnXmNpkSVJOt1L) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Debochado \(feat\. Carlos Dias\)](https://open.spotify.com/album/4PE4FggN1JeU3LiYeUiatB) | 2:41 | 2024-07-19 |  |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
 | [Decorei o Jornal](https://open.spotify.com/track/7MQXecuMrLgGSmUX4TAO5t) | [Zambonii](https://open.spotify.com/artist/010ghLTjpH3itDq6KkyXN3) | [Vitrais](https://open.spotify.com/album/5qFfLFUEOLo6DVb9JF2rAb) | 2:51 | 2023-06-09 | 2023-09-23 |
 | [Deixa Minguar](https://open.spotify.com/track/3ttFDhTdRMAXxjKoKk88Q3) | [A Olívia](https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg), [Natália Nó](https://open.spotify.com/artist/2pVpWMrwJ3sNXZJSO2lRRh) | [Deixa Minguar](https://open.spotify.com/album/1Z8ujVGb9jbZ06VldOFk4k) | 3:59 | 2023-11-24 | 2024-07-06 |
@@ -299,6 +301,7 @@
 | [Love Song](https://open.spotify.com/track/2mbHhK2CvpS5dsxmOYFYnD) | [Gi Basito](https://open.spotify.com/artist/5TTRCZuJLSRUhIXIBjIFBJ) | [LOVE SONGS](https://open.spotify.com/album/7swFG1JHSEBu76Zxp73k8Q) | 4:22 | 2022-03-25 | 2022-04-09 |
 | [Lugar](https://open.spotify.com/track/7agcP5gFfxhC5MZI7ypWgT) | [Lau Ro](https://open.spotify.com/artist/541ER2icL7JZDTQ2SeiOGJ), [Wax Machine](https://open.spotify.com/artist/6kZ2grSzDSRhZuB4iiw77G) | [Lugar](https://open.spotify.com/album/0Aa8q9r8yEiM5alO57r1n6) | 4:09 | 2024-05-03 |  |
 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 | 2023-11-24 | 2024-06-22 |
+| [Luminária de Lava](https://open.spotify.com/track/7BWGf8XuCYMUZbfuhBjWj5) | [Exclusive Os Cabides](https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF) | [Coisas Estranhas](https://open.spotify.com/album/3C4TqSJWVxIpj6uJoCDMaG) | 3:24 | 2024-07-19 |  |
 | [Luz Negra](https://open.spotify.com/track/5HLfgMXvOFua9bwsBUY6em) | [Madrid](https://open.spotify.com/artist/11hzfqXWbO20J9QE8OGZ37), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH), [Marina Gasolina](https://open.spotify.com/artist/0ycGRYNlXyQnPf1ieoioQZ) | [Luz Negra](https://open.spotify.com/album/6HRYVTqK8OkyBma12VFGmK) | 2:00 | 2023-02-13 | 2023-03-03 |
 | [Lábios Mentem à Distância](https://open.spotify.com/track/3LGTF6ehf5J27Ev2ydhqFY) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Lábios Mentem à Distância](https://open.spotify.com/album/6EFmmPTRDrH7gW4GTxXy3X) | 3:19 | 2023-11-17 | 2024-06-08 |
 | [Lágrima na Língua](https://open.spotify.com/track/1LpASqV05cNKzVc2wSrFBc) | [Pedro Fonte](https://open.spotify.com/artist/6ANqnotPsCkBCoo4lqXNpm), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Luz Na Madrugada / Late Night Light](https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq) | 3:35 | 2023-09-15 | 2024-03-30 |
@@ -463,6 +466,7 @@
 | [QUADRADO](https://open.spotify.com/track/3R4NYUYZGQK0eypfM2oCVn) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOCÊ SENTE ISSO TAMBÉM?](https://open.spotify.com/album/0vKIFoFatAaKXuGku4BUjB) | 3:54 | 2023-04-14 | 2023-08-05 |
 | [Quando](https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Quando](https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG) | 2:50 | 2022-08-05 | 2022-09-17 |
 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 | 2022-12-02 | 2023-08-19 |
+| [Quando Eu Tô Perto](https://open.spotify.com/track/3LrGL8v0el73L0cAoSNQYY) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb) | [Não Leve a Mal](https://open.spotify.com/album/68R7t0qGBHZ7oUEBmKQcx9) | 4:00 | 2024-07-19 |  |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 | 2022-11-18 | 2023-01-14 |

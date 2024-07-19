@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 110157,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 110190,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAAt17rDHZ+MyRgQc8VWxXTA",
+  "snapshot_id": "ZpcJgAAAAAAhEMyND5w3VeogDKAXiMBi",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 226760,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Las Tijeras",
+      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Las Tijeras",
-      "url": "https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -279,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Brindo Por Ti",
-      "url": "https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Brindo Por Ti",
+      "url": "https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ"
     },
     {
       "added_at": null,
@@ -343,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Larga Te Acostumbras",
         "url": "https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM"
       },
@@ -383,6 +347,26 @@
       "duration_ms": 186613,
       "name": "Tengo Un Amor",
       "url": "https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
     },
     {
       "added_at": null,
@@ -419,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -451,6 +419,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,
@@ -607,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 198520,
-      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
-      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
+      "duration_ms": 153946,
+      "name": "Sombras En El Frio",
+      "url": "https://open.spotify.com/track/4J22WG9YKnsVJA4470wOUz"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 273559,
       "name": "Pasa la Vida",
       "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
+      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "La Tregua",
-      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e1ginas en Blanco",
         "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 201484,
       "name": "Breve Historia de Alcohol y una Mujer",
       "url": "https://open.spotify.com/track/7tZ55W74vP6fxBZVBp4rxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "La Tregua",
+      "url": "https://open.spotify.com/track/13lwyE1cMl3KDmAMgRMHvl"
     },
     {
       "added_at": null,

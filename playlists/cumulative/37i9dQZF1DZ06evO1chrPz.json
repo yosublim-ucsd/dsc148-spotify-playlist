@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1zZ9eHeIQuufBgUd8rnkRf"
@@ -711,28 +711,6 @@
     },
     {
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "date_added": "2024-05-14",
-      "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
-      "duration_ms": 296440,
-      "name": "I'll Be Everything",
-      "url": "https://open.spotify.com/track/3b33bfDltSwUZZ8KEdho9r"
-    },
-    {
-      "album": {
         "name": "We Will Not Be Shaken (Live)",
         "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
@@ -876,6 +854,28 @@
       "duration_ms": 385053,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2024-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296440,
+      "name": "I\u2019ll Be Everything",
+      "url": "https://open.spotify.com/track/3b33bfDltSwUZZ8KEdho9r"
     },
     {
       "album": {
@@ -1158,10 +1158,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 297293,
       "name": "Peace",
       "url": "https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297533,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR"
     },
     {
       "album": {

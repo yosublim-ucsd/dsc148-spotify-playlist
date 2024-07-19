@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: salute",
+  "description": "The home for alternative electronic music. Cover: Overmono",
   "name": "Altar",
   "tracks": [
     {
@@ -4155,6 +4155,36 @@
     },
     {
       "album": {
+        "name": "fabric presents The Streets (Mixed)",
+        "url": "https://open.spotify.com/album/1XbB5VkjQlPMsSXKPnzahY"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Mike Skinner",
+          "url": "https://open.spotify.com/artist/19xQgTSKagKLIxOG0yWDpv"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "Desert Island Duvet - Mixed, Skinners Version",
+      "url": "https://open.spotify.com/track/7iSwjxuC86XZw72E3xvF03"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY"
       },
@@ -4618,6 +4648,28 @@
       "duration_ms": 319302,
       "name": "Drift Into The Algorithm",
       "url": "https://open.spotify.com/track/0AwtLf2UOh0t44HsyYh7yE"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223904,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2"
     },
     {
       "album": {
@@ -6625,6 +6677,28 @@
     },
     {
       "album": {
+        "name": "Gem Lingo (ovr now)",
+        "url": "https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "Gem Lingo (ovr now)",
+      "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -6930,6 +7004,24 @@
       "duration_ms": 293133,
       "name": "Gleams",
       "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
+    },
+    {
+      "album": {
+        "name": "Gluhen",
+        "url": "https://open.spotify.com/album/7dpQGNGrvLKPZ4XvQRXrOv"
+      },
+      "artists": [
+        {
+          "name": "Denis Sulta",
+          "url": "https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245481,
+      "name": "Gluhen",
+      "url": "https://open.spotify.com/track/4QCqbRdivvCZLSUDHw6eRJ"
     },
     {
       "album": {
@@ -13614,7 +13706,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180964,
       "name": "Proto Spoon",
       "url": "https://open.spotify.com/track/4x0lRbV2ahj4mDD1shqKRk"
@@ -15096,7 +15188,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131041,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
@@ -17184,7 +17276,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm"
@@ -19720,7 +19812,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802 likes - 81 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 81 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 38 | [Pai de Amor \- Live](https://open.spotify.com/track/751TdDZzsr7Wrv4naigRLL) | [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [André Aquino, Vol\. 2 \(Live\)](https://open.spotify.com/album/3y39KwTuUMQ4Gmz3R59bW6) | 8:34 |
 | 39 | [Te Encontrei](https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei](https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz) | 3:04 |
 | 40 | [Jesus é Bom Pra Mim \(feat\. Leandro Borges\)](https://open.spotify.com/track/5NJnMPiT1AhUY3WdbJ6pcV) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 4:16 |
-| 41 | [Não Volto Atrás \- Ao Vivo](https://open.spotify.com/track/2ITVC2UbjOGv72r1J73MNQ) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Thiago Ramos](https://open.spotify.com/artist/3bchq3xt62dwKjrbbF3MYN) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 4:29 |
-| 42 | [Mil Motivos \- Ao Vivo](https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Mil Motivos \(Ao Vivo\)](https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b) | 4:56 |
+| 41 | [Mil Motivos \- Ao Vivo](https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Mil Motivos \(Ao Vivo\)](https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b) | 4:56 |
+| 42 | [Não Volto Atrás \- Ao Vivo](https://open.spotify.com/track/2ITVC2UbjOGv72r1J73MNQ) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Thiago Ramos](https://open.spotify.com/artist/3bchq3xt62dwKjrbbF3MYN) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 4:29 |
 | 43 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
 | 44 | [Digno \- Ao Vivo](https://open.spotify.com/track/3BV588K3wDvZnCEthzvOzp) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:29 |
 | 45 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 50 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 |
 | 51 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 |
 | 52 | [Simples Canção](https://open.spotify.com/track/3uAqfeX191qTIoB5N2vNWp) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Simples Canção](https://open.spotify.com/album/03q3oGwLsPD8pxwEAbcLNw) | 3:26 |
-| 53 | [O Nome De Jesus](https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [O Nome De Jesus](https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled) | 3:59 |
-| 54 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 53 | [Alegria / Sou Feliz \- Ao Vivo](https://open.spotify.com/track/6T2z10MblimUkS2tjzYOdz) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Alegria / Sou Feliz \(Ao Vivo\)](https://open.spotify.com/album/1Ry58rPrrFXc4EjYhLzyZW) | 8:22 |
+| 54 | [O Nome De Jesus](https://open.spotify.com/track/1Nh1b72PjsmA6HNyOIQzhe) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [O Nome De Jesus](https://open.spotify.com/album/12FFt5SxPV8GXDvhGFOled) | 3:59 |
 | 55 | [Deus Emanuel \- Ao Vivo](https://open.spotify.com/track/3zGs1XkgJi8hGyghm4Xrlf) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel \(Ao Vivo\)](https://open.spotify.com/album/1H23z2CJY83kUWzEGpG59r) | 5:12 |
 | 56 | [Batimentos \- Ao Vivo](https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:05 |
 | 57 | [Céu na Terra](https://open.spotify.com/track/6HAO8Q2k218ts5zpw6qCp7) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:07 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 80 | [Espontâneo](https://open.spotify.com/track/6kmm2XHqCC0RwFhidwOv8Y) | [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Lugar Secreto • Vol\. 1](https://open.spotify.com/album/5oyeR5JZwaJZdH4yijAyVn) | 19:07 |
 | 81 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 
-Snapshot ID: `AbW9zAAAAABmzlACVvE0FB9sqfMwlCps`
+Snapshot ID: `AbXFFAAAAAAZ8yZg/Dnwothc/SFKwT4H`

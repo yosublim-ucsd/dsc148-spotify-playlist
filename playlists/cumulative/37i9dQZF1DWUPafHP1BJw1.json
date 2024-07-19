@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175463,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
+    },
+    {
+      "album": {
         "name": "everything i wanted (arr. string quartet) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw"
       },

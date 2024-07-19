@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Celestial Cascade (Celestial Cascade of Nature)",
+        "url": "https://open.spotify.com/album/2koAJwaleR9orE3H8YEC0d"
+      },
+      "artists": [
+        {
+          "name": "River Paisley",
+          "url": "https://open.spotify.com/artist/4oGckhpzQBJqgXenksk2m2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187365,
+      "name": "Celestial Cascade (Celestial Cascade of Nature)",
+      "url": "https://open.spotify.com/track/3cl5gMYm87s7npibYOUCAI"
+    },
+    {
+      "album": {
         "name": "Chao Phraya",
         "url": "https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO"
       },
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Energize",
+        "url": "https://open.spotify.com/album/1RHSKDVcV9SIAdfZrZcnYf"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178636,
+      "name": "Energize",
+      "url": "https://open.spotify.com/track/0pfyFQdDZMWOmLt2BZuqmO"
+    },
+    {
+      "album": {
         "name": "Fishermans Village",
         "url": "https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni"
       },
@@ -672,6 +708,42 @@
       "duration_ms": 165500,
       "name": "Good Daze",
       "url": "https://open.spotify.com/track/3VR9AAUH9YIuPBqh2gefNV"
+    },
+    {
+      "album": {
+        "name": "Harmonic Waters",
+        "url": "https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Harmonic Waters",
+      "url": "https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN"
+    },
+    {
+      "album": {
+        "name": "Hey Ocean",
+        "url": "https://open.spotify.com/album/2XikCXBVkcUpi9NsSdCUUl"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Hey Ocean",
+      "url": "https://open.spotify.com/track/7ax6JuuYm4lU54kgeXI8GO"
     },
     {
       "album": {
@@ -780,6 +852,24 @@
       "duration_ms": 216804,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
+    },
+    {
+      "album": {
+        "name": "Loch Dunvegan",
+        "url": "https://open.spotify.com/album/2aEVJhcSCKjcOQInfIqvFy"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173541,
+      "name": "Loch Dunvegan",
+      "url": "https://open.spotify.com/track/0DE3lQgRiFau6l8VRhdMXE"
     },
     {
       "album": {
@@ -1266,7 +1356,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183272,
       "name": "Running Through Me",
       "url": "https://open.spotify.com/track/2n6hyVT69SGNMpkpwkqJPk"
@@ -1399,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "serulian",
+        "url": "https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p"
+      },
+      "artists": [
+        {
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127333,
+      "name": "serulian",
+      "url": "https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2"
+    },
+    {
+      "album": {
         "name": "Comfortable under the Surface",
         "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
       },
@@ -1428,7 +1536,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195452,
       "name": "Shimmerways",
       "url": "https://open.spotify.com/track/4oJHynkLeTy9CpqvpiGIAm"
@@ -1572,7 +1680,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172500,
       "name": "Taigh An Locha",
       "url": "https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq"
@@ -1770,7 +1878,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186033,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO"

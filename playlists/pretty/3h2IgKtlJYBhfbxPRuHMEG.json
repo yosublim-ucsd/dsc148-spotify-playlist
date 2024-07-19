@@ -1,12 +1,12 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Holly",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: FrostTop",
   "num_followers": 489,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD2kX2cmUH7o4G0i8vqJhRxJnCRc2E",
+  "snapshot_id": "AAAD3lxe3NiWUEOIY0EQBgMeh5fukDAW",
   "tracks": [
     {
       "added_at": "2024-07-06 11:52:27",
@@ -31,6 +31,26 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "added_at": "2024-07-19 05:31:01",
+      "album": {
+        "name": "ELECTRICA",
+        "url": "https://open.spotify.com/album/3Ht8tnhr8yzD9onmihpKhy"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 253255,
+      "name": "4X4 (IT'S U)",
+      "url": "https://open.spotify.com/track/0H12TVZIucruvvGSPjvvj0"
     },
     {
       "added_at": "2024-07-06 12:03:34",
@@ -1959,26 +1979,6 @@
       "duration_ms": 249041,
       "name": "Alive - Kumarion Remix",
       "url": "https://open.spotify.com/track/59KZgvG9AGQfsjxeIERwZm"
-    },
-    {
-      "added_at": "2024-07-06 11:52:27",
-      "album": {
-        "name": "Mitosis",
-        "url": "https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 223098,
-      "name": "Mitosis",
-      "url": "https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71"
     },
     {
       "added_at": "2024-07-06 11:52:27",

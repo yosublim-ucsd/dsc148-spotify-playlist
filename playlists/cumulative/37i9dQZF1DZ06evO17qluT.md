@@ -2,7 +2,7 @@
 
 ### [This Is BK](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17qluT)
 
-> This Is BK\. Todas as faixas essenciais numa única playlist.
+> This is BK\. Todos os maiores hits em uma só playlist.
 
 87 songs - 5 hr 42 min
 

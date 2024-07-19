@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
   "description": "Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.",
-  "name": "quiet hours",
+  "name": "Quiet Hours",
   "tracks": [
     {
       "album": {
@@ -3715,6 +3715,28 @@
     },
     {
       "album": {
+        "name": "Hardy Boys",
+        "url": "https://open.spotify.com/album/58ocne0PjbMjQN4iIXCxNv"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "Mexico Edit",
+      "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
+    },
+    {
+      "album": {
         "name": "Lowlands",
         "url": "https://open.spotify.com/album/5bd2paC7EFKOS6YJv4se2e"
       },
@@ -5728,7 +5750,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 466420,
       "name": "that love",
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"

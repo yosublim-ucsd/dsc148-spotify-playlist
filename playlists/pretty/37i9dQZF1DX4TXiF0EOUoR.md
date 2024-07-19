@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,884 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,109 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 40 | [Cinco De Té \- En Vivo](https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Parranda De Los Amigos \(Vol\. 2 / En Vivo\)](https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX) | 3:40 |
 | 41 | [Las Güilotas](https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:42 |
 | 42 | [Sangoloteadito](https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ) | [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Homenaje a un Grande](https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1) | 2:47 |
-| 43 | [El Rezado](https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
+| 43 | [Rumbo A La Canada](https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD) | [Tamborazo Caliente](https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi) | [Pal Rancho 100% Chicoteadas](https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik) | 3:31 |
 | 44 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
-| 45 | [Las Huiliotas](https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 4:01 |
+| 45 | [El Rezado](https://open.spotify.com/track/2pqi3MdJJ1FhkAv5QfKdfJ) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
 | 46 | [Y Claro Que Se Puede \- Sones para Jaripeo](https://open.spotify.com/track/5HH3ziXLVxqXYnDk7mJkLf) | [Banda los Chirimoyos](https://open.spotify.com/artist/6mr0v6JRCgoEEZVZXcbFKb) | [Aquel Amor \(Desde Tingambato Michoacan\)](https://open.spotify.com/album/0P2YrsgLMeypYMjenrM7hr) | 4:06 |
-| 47 | [Rumbo A La Canada](https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD) | [Tamborazo Caliente](https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi) | [Pal Rancho 100% Chicoteadas](https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik) | 3:31 |
+| 47 | [Las Huiliotas](https://open.spotify.com/track/7x1cdHnfOZDuk6zX2EKeNI) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 4:01 |
 | 48 | [Los Mayeles \- Sones para Jaripeo](https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:12 |
 | 49 | [El Guapo](https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [El Guapo](https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP) | 3:08 |
 | 50 | [El Olotito](https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G) | [Banda Yurirense](https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4) | [En Vivo...Desde Guanajuato Vol\. 2](https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U) | 2:03 |

@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW?si=QI5uHRnMR5uY5LOdR8F4hg>Naye Ayla</a>
+> Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT?si=Gcy3YRHuRC29m4ViXEwzjQ>Th&o.</a>
 
-284 songs - 15 hr 2 min
+288 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,10 +68,13 @@
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 |  |
 | [Decide](https://open.spotify.com/track/47RGBqVpDOuG1lQXheVEuh) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Decide](https://open.spotify.com/album/28qJotgVoss0htjx54Z33G) | 2:48 | 2023-12-14 | 2024-06-28 |
 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 | 2024-02-22 | 2024-06-14 |
+| [Demi God](https://open.spotify.com/track/0tksP2JLwvrsOKbm1xjYYF) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sahtyre](https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU) | [Demi God](https://open.spotify.com/album/5q08kDdIVPD5m3XBQGwmUh) | 2:56 | 2024-07-18 |  |
 | [Desire](https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Desire](https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo) | 3:22 | 2024-02-08 | 2024-04-06 |
+| [DESTINY’S CHILD](https://open.spotify.com/track/1rDOGmUXOw68FtSWEx2mgW) | [TRON PYRE](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [DESTINY’S CHILD](https://open.spotify.com/album/6ZdCvu4poavVOag87HAMW2) | 2:34 | 2024-07-18 |  |
 | [don't let go](https://open.spotify.com/track/3vjGBhmD8YrmfpbPITTetz) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Moments In Between](https://open.spotify.com/album/009HGDGLlzZtCaAxKJjTOt) | 3:00 | 2024-02-26 | 2024-06-28 |
 | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/track/4E59KZHXIXlMtOJkC51jto) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Don't Lie/See It Through \- A COLORS SHOW](https://open.spotify.com/album/34hzV4C7eRph8hagPfplsS) | 5:38 | 2023-10-12 | 2024-01-26 |
 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 | 2024-01-04 | 2024-04-13 |
+| [Double Standards](https://open.spotify.com/track/4KankrE1P2Fs4GB1QEJDqS) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [Double Standards](https://open.spotify.com/album/5WWgLtEtFccdnlyShhZBrH) | 2:27 | 2024-07-18 |  |
 | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-02-08 | 2024-04-19 |
 | [Down](https://open.spotify.com/track/15dDnliSllm5v4QsZ2izxz) | [KuchiCola](https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h), [Ben September](https://open.spotify.com/artist/6JkPxzx4ivYCkFLa9K7AoI) | [Almost](https://open.spotify.com/album/3UTIs32EXwLq4lB8r0vZy6) | 3:00 | 2024-02-14 | 2024-02-23 |
 | [Down](https://open.spotify.com/track/5PcO9uuhPX9PcdPC0SMDmz) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw), [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [Tulipa](https://open.spotify.com/album/68I937NYViFxtNEAZyc6b9) | 3:11 | 2023-10-12 | 2024-01-26 |
@@ -153,6 +156,7 @@
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 |  |
 | [Lets Get Away](https://open.spotify.com/track/0Hlv5uMHBia2JJ64X7THhL) | [Magana](https://open.spotify.com/artist/6CDDLh64XGNFrOG90xeO31) | [Lets Get Away](https://open.spotify.com/album/6WSbwrHIQmr6FOInnFMXEi) | 3:45 | 2024-01-12 | 2024-03-29 |
 | [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 |  |
+| [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 |  |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [Love Letters](https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 2:38 | 2023-10-26 | 2024-03-15 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-25 |  |

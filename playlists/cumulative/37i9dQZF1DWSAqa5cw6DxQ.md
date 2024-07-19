@@ -2,9 +2,9 @@
 
 ### [Meditative Guitar](https://open.spotify.com/playlist/37i9dQZF1DWSAqa5cw6DxQ)
 
-> Clear your mind with soothing new age guitar.
+> Clear your mind with soothing acoustic guitar.
 
-167 songs - 8 hr 12 min
+172 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 | 2022-12-02 |  |
 | [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 | 2023-07-29 |
 | [Convolution](https://open.spotify.com/track/4pNMPkliqqgKnhIyVvrVHq) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Convolution](https://open.spotify.com/album/3GfOlgSYXCtwjVcPMiqv6m) | 2:28 | 2023-11-17 |  |
+| [Cultivating Stillness](https://open.spotify.com/track/6aZri6iDNcBKWXaw2aI4Cg) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Cultivating Stillness](https://open.spotify.com/album/2eyQMIw9DxLgA5w2DW5XSL) | 3:38 | 2024-07-18 |  |
 | [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 | 2022-11-11 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-02-28 | 2023-05-06 |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
@@ -67,6 +68,7 @@
 | [Floating Dreams](https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Floating Dreams](https://open.spotify.com/album/78tgqwStPHndZPZtMSzzgD) | 2:11 | 2023-04-14 |  |
 | [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 | 2023-04-14 |  |
 | [Forests and Hills](https://open.spotify.com/track/2SGRhqZAjesAw183DQmV9L) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Forests and Hills](https://open.spotify.com/album/4RIXar48wxLqPfxwnycwNF) | 4:14 | 2022-02-28 | 2023-02-25 |
+| [Forward](https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Forward](https://open.spotify.com/album/6VeJTPvH1U28Ne2MCK3q1L) | 3:09 | 2024-07-18 |  |
 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 | 2022-02-28 | 2022-12-31 |
 | [Gymnopedie](https://open.spotify.com/track/3TB9KL7iUVd7N5ihzghGw4) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 3:37 | 2022-02-28 |  |
 | [Hibiskus](https://open.spotify.com/track/6tSOfNDxTCws7cj8LXqRhi) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Hibiskus](https://open.spotify.com/album/6Y4JcLZN0Nk4n01QEaY2Na) | 3:33 | 2022-02-28 |  |
@@ -87,6 +89,7 @@
 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 |  |
 | [Ledande Ljus \(Nature\)](https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 | 2023-08-05 |
 | [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 | 2023-01-09 |  |
+| [Lose The Distraction](https://open.spotify.com/track/27BvJqf3phlbQGYTyXBSu3) | [Distant Waves](https://open.spotify.com/artist/7GEwtxqekjKY0au4q89hHG) | [Lose The Distraction](https://open.spotify.com/album/3os1dyXtbVtpUO7kTvxWqD) | 3:55 | 2024-07-18 |  |
 | [Lost in the Clouds](https://open.spotify.com/track/199TOFLcLwoW2knx6OTC0l) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [Lost in the Clouds](https://open.spotify.com/album/3mhywEiUU6EzcWUdLHB45y) | 3:24 | 2022-02-28 |  |
 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 | 2022-02-28 |  |
 | [Magic Worlds](https://open.spotify.com/track/3fZsYSmV0wVcYiMxadz8zB) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Magic Worlds](https://open.spotify.com/album/61rBosjZ6hfSCqJcQAfyeh) | 2:52 | 2023-01-09 |  |
@@ -100,6 +103,7 @@
 | [Mind Over Matter](https://open.spotify.com/track/1qOGVdNpsQi00r2IffF9tU) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Mind Over Matter](https://open.spotify.com/album/2b1EFX3Oll9ioHZcJ2Sqj8) | 3:28 | 2022-02-28 |  |
 | [Mind Potential](https://open.spotify.com/track/7ciSUJLpfhwIROe5isZ40b) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Mind Potential](https://open.spotify.com/album/0TN86qtasVxZuR4t89VhEM) | 3:20 | 2022-09-30 |  |
 | [mise\-en\-scène](https://open.spotify.com/track/2p0qjcvA9P0OQhL3vaT7BR) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 2:29 | 2022-06-24 |  |
+| [Movement](https://open.spotify.com/track/2SpM41iWJMke0PSIOJaT2M) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Movement](https://open.spotify.com/album/1RSr4sd0GB242jW8SBVsKU) | 3:08 | 2024-07-18 |  |
 | [Myself & I](https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Myself & I](https://open.spotify.com/album/4BEtTebp6HzWw2R40AvTmr) | 4:13 | 2023-03-17 |  |
 | [Mystery of Life](https://open.spotify.com/track/683DWdGZBYaRVjQwO7v7X5) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:03 | 2022-02-28 |  |
 | [Natural Beauty](https://open.spotify.com/track/0YqMuFuT9EWKMFQnZeDlYL) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Natural Beauty](https://open.spotify.com/album/26ZL2DE2ENhMPEJBqbkdxq) | 2:16 | 2022-10-14 | 2023-10-06 |
@@ -115,6 +119,7 @@
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2022-02-28 |  |
 | [Path To Self](https://open.spotify.com/track/3o76zTFwwLZ7lx5La5L09O) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Path To Self](https://open.spotify.com/album/1T12sRdIKzoIYJUkbRr6Ag) | 4:44 | 2022-09-13 | 2022-12-03 |
 | [Pattern Codes](https://open.spotify.com/track/46gBeZePyObJo4UWxrbRye) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Pattern Codes](https://open.spotify.com/album/5Lj8RfNJtk92vlnrG87k0x) | 2:57 | 2022-02-28 |  |
+| [Peaceful sleep](https://open.spotify.com/track/3bIqCk16VWZqDiubS3ah4Q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Peaceful sleep](https://open.spotify.com/album/6pIQMrj2AlmRnyKKfZklGw) | 2:46 | 2024-07-18 |  |
 | [Pendulum Crystal](https://open.spotify.com/track/0GlFrFaJrqGJn8P6tGoqv9) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Pendulum Crystal](https://open.spotify.com/album/7LKUmnVZa95yXRuoX3slla) | 4:25 | 2022-02-28 | 2023-09-23 |
 | [Please Help Me With My Pain](https://open.spotify.com/track/0Y3PEZTNJiLJ5wTCPiVGnZ) | [C\. Lindquist](https://open.spotify.com/artist/59yCLT7odiMwxirAZ4YZaw) | [Please Help Me With My Pain](https://open.spotify.com/album/15uLD1bQCzzMsXNtAFlwH4) | 3:53 | 2022-02-28 |  |
 | [Porto Fino](https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Porto Fino](https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM) | 4:07 | 2022-02-28 |  |
@@ -124,8 +129,8 @@
 | [Reach The Creator](https://open.spotify.com/track/6vA2G72W5805Bpl7RTQGDa) | [Pale Blue](https://open.spotify.com/artist/15Ls0YwUCgfjO5Ib4JCtdF) | [Reach The Creator](https://open.spotify.com/album/1vWfZT1ara3oBSTUqGkSeU) | 4:07 | 2022-07-15 | 2023-07-29 |
 | [Reflections](https://open.spotify.com/track/3emkA27hwU4zVJoIzi2SLp) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Reflections](https://open.spotify.com/album/7n8TXa3WbjkS4vbcD9zqgr) | 3:13 | 2022-02-28 | 2022-05-20 |
 | [Relaxation](https://open.spotify.com/track/7xD5j8ZCGDAPTTH5EfAVRf) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Relaxation](https://open.spotify.com/album/4hiT3XpWt0dGVZpdnX0va5) | 3:36 | 2022-02-28 | 2023-08-19 |
-| [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 | 2023-08-18 |  |
-| [Remote Places](https://open.spotify.com/track/7pUg1QenmwMXo5APv9NyE9) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Remote Places](https://open.spotify.com/album/6tKhQlQ1rpaDF3V4hbzEot) | 2:37 | 2023-12-01 |  |
+| [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 | 2023-08-18 | 2024-07-19 |
+| [Remote Places](https://open.spotify.com/track/7pUg1QenmwMXo5APv9NyE9) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Remote Places](https://open.spotify.com/album/6tKhQlQ1rpaDF3V4hbzEot) | 2:37 | 2023-12-01 | 2024-07-19 |
 | [Reposeful](https://open.spotify.com/track/3212jPly6zOlG8EKmiJ8pf) | [Jonas Bergwall](https://open.spotify.com/artist/0ftaU73nHXEcuyB2BVCLi5) | [Reposeful](https://open.spotify.com/album/6W600f8bk6lwStjaswF53R) | 2:23 | 2023-01-20 |  |
 | [Reposeful Views](https://open.spotify.com/track/1nz7X92O6UlyjKe2qg0lSd) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Reposeful Views](https://open.spotify.com/album/1OM9rRIk5WsQyGIsHmPfZB) | 3:04 | 2023-04-14 |  |
 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 | 2022-02-28 | 2023-11-25 |

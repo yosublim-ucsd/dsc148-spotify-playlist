@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 487144,
+  "num_followers": 487345,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAD6nStBYM6k5FDrS0KpBBRP",
+  "snapshot_id": "ZpcJgAAAAAADRJLtQeDnYyjkA95ICDU+",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 185533,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Paradigm Shift (Deluxe)",
-        "url": "https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 221001,
-      "name": "Never Never",
-      "url": "https://open.spotify.com/track/2vMZ3HdWC8vYVwngFfvIi7"
     }
   ],
   "unique_name": "This Is Korn",

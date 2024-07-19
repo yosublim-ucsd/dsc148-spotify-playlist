@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 325120,
       "name": "Ah Yalali",
       "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
@@ -1282,6 +1282,24 @@
       "duration_ms": 381200,
       "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0634\u0627\u0646 \u0628\u0627\u062d\u0628\u0643",
+        "url": "https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327384,
+      "name": "\u0639\u0634\u0627\u0646 \u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS"
     },
     {
       "album": {

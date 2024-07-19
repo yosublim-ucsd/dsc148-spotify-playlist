@@ -1,37 +1,13 @@
 {
   "description": "This is Black Alien. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34516,
+  "num_followers": 34537,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACrDQK0oleiqDS+/nQmHCYz",
+  "snapshot_id": "ZpcJgAAAAABv5awLRbfh+Xz5Qb9aiaUa",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Final de Semana",
-        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "Final de Semana",
-      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
-    },
     {
       "added_at": null,
       "album": {

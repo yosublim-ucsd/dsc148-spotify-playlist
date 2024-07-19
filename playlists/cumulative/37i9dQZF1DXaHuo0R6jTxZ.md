@@ -4,13 +4,13 @@
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-75 songs - 5 hr 59 min
+76 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 | 2021-02-21 |  |
 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 | 2021-02-21 |  |
-| [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 | 2021-02-21 |  |
+| [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 | 2021-02-21 | 2024-07-19 |
 | [Ahl El Malama](https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9) | 4:37 | 2021-02-21 | 2024-04-19 |
 | [Ahl El Malama](https://open.spotify.com/track/2YdUrPVlTpYnulFE6p5Svq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Roh Alby](https://open.spotify.com/album/49bjvVv25Lp7SGu1YOZg5x) | 4:37 | 2021-02-21 | 2022-07-29 |
 | [Akli Tar](https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5) | [Alaa Zalzali](https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11) | [Je Suis Malade](https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN) | 4:08 | 2023-04-12 |  |
@@ -78,6 +78,7 @@
 | [حيروني](https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [حيروني](https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5) | 4:06 | 2021-02-21 | 2023-01-17 |
 | [شيلوها شيلة](https://open.spotify.com/track/3iYoF9GwlwE3G4ENzgTXAE) | [Miami Band](https://open.spotify.com/artist/7urgxIOb5HPPtP2ZL86BU0) | [فرقة ميامي 97](https://open.spotify.com/album/4UTxsJ5iFvHIRh8ZOPMOIQ) | 5:00 | 2021-02-21 |  |
 | [طبيب جراح](https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [طبيب جراح](https://open.spotify.com/album/36uGSGjHobfqKqsFpTHvlA) | 6:21 | 2023-04-12 | 2024-04-19 |
+| [عشان بحبك](https://open.spotify.com/track/218ZPN6u1JxiM8qzHmAzmS) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [عشان باحبك](https://open.spotify.com/album/18A97riBjteV1p5YXfUp1e) | 5:27 | 2024-05-28 |  |
 | [فاضل ايه](https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd) | [Talaat Zain](https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA) | [تيكي تا](https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI) | 4:04 | 2023-09-15 |  |
 | [مالي صبر](https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [احلى العيون](https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d) | 5:22 | 2023-04-12 | 2024-04-16 |
 | [متل الكذبة](https://open.spotify.com/track/0nUsStTuR6rl5epa8kquud) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [شوق الصحارى](https://open.spotify.com/album/0N28yOfdkj9aOGeQcUSf0R) | 5:08 | 2023-04-12 | 2024-04-19 |

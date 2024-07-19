@@ -320,7 +320,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170000,
       "name": "Alto Voltaje",
       "url": "https://open.spotify.com/track/0kRc7CgL2zznefYVYfCM1u"
@@ -1097,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Track 1",
+        "url": "https://open.spotify.com/album/6kQCfXiPcvde29I9rMkw8S"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Ca\u00f1onazo",
+      "url": "https://open.spotify.com/track/6N00qL6Ovf0SXvGQ0r8MxZ"
+    },
+    {
+      "album": {
         "name": "Cenicienta",
         "url": "https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4"
       },
@@ -1186,6 +1208,28 @@
       "duration_ms": 217000,
       "name": "Chismecito",
       "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
+    },
+    {
+      "album": {
+        "name": "Cien Por Uno",
+        "url": "https://open.spotify.com/album/3pqv4raZaHvQ3XQMSQ12l2"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Ezzlaer",
+          "url": "https://open.spotify.com/artist/71M8VO0bmKsiQHcO8VFr83"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100165,
+      "name": "Cien Por Uno",
+      "url": "https://open.spotify.com/track/77XT1VtbANgAeFac7qyCsI"
     },
     {
       "album": {
@@ -2120,7 +2164,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 142500,
       "name": "Flama",
       "url": "https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug"
@@ -2928,7 +2972,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 138064,
       "name": "Libre Como el Viento",
       "url": "https://open.spotify.com/track/0BEjwjdPqzIn3EL8YI4Baj"
@@ -3525,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172271,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx"
       },
@@ -3642,6 +3704,24 @@
       "duration_ms": 165500,
       "name": "Money Lovin'",
       "url": "https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl"
+    },
+    {
+      "album": {
+        "name": "MUA MUA",
+        "url": "https://open.spotify.com/album/1umgvXy4WxvM6QMIJIqfrW"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101200,
+      "name": "MUA MUA",
+      "url": "https://open.spotify.com/track/5NpbR1msaCHFLK4Ey9kszX"
     },
     {
       "album": {
@@ -3878,6 +3958,28 @@
       "duration_ms": 238306,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4HhOasqIGURvWe4jRDfMOc"
+    },
+    {
+      "album": {
+        "name": "No Holidays",
+        "url": "https://open.spotify.com/album/4oDJgQ0BL0KnTMF5Q6kAjt"
+      },
+      "artists": [
+        {
+          "name": "Faenna",
+          "url": "https://open.spotify.com/artist/2iLGzMc00PRgD5qP07bP2b"
+        },
+        {
+          "name": "Gese Da O",
+          "url": "https://open.spotify.com/artist/5m5mdpE5ZDrHVKjvdc0AZQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171834,
+      "name": "No Holidays",
+      "url": "https://open.spotify.com/track/0wEnukHq5W19F2JeSRLws9"
     },
     {
       "album": {
@@ -4980,7 +5082,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157226,
       "name": "Sandunguea",
       "url": "https://open.spotify.com/track/4Y4DgE7hqT4XwDgODir0Lh"
@@ -5558,7 +5660,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154936,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH"

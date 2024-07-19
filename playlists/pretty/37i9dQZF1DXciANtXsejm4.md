@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,695 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,854 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 76 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
 | 77 | [Te Sorprenderás](https://open.spotify.com/track/7yvr8Inl4NbQHR2a8KmKHy) | [Los Peñaloza](https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli), [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [Te Sorprenderás](https://open.spotify.com/album/43fn9uGk0xxzxUBQ9inyNX) | 3:24 |
 | 78 | [Desnúdame](https://open.spotify.com/track/2lijAMVz1pZxjcyqH14kCS) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Desnúdame](https://open.spotify.com/album/5j2YmyNql60Htp1WRFDOXv) | 3:31 |
-| 79 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
-| 80 | [Dime Quien](https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dime Quien](https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw) | 2:43 |
+| 79 | [Dime Quien](https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dime Quien](https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw) | 2:43 |
+| 80 | [Cosas del amor](https://open.spotify.com/track/4Gd1XTVJtxzGdrr87WY2h8) | [Mario Luis con los Angeles Colombianos](https://open.spotify.com/artist/7tB6buXGRGgBaZftFGMCMy) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:40 |
 
 Snapshot ID: `ZmiYtgAAAADL+KukVhbk680bKshPalKV`

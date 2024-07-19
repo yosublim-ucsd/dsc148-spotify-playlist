@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Thousand Below",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Dorothy",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "7 Minutes in Hell",
+        "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        },
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "7 Minutes in Hell",
+      "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
+    },
+    {
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -38,7 +60,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
@@ -74,7 +96,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175836,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1wME3ehspI78cgK8JVm5cb"
@@ -176,7 +198,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 225750,
       "name": "All Night",
       "url": "https://open.spotify.com/track/13Rwp4wFXjJ5YR4cUCEoQX"
@@ -428,7 +450,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172093,
       "name": "Blame",
       "url": "https://open.spotify.com/track/0xviTjDBRIelaqGTKHR1Ns"
@@ -482,10 +504,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184054,
       "name": "Can't Pretend",
       "url": "https://open.spotify.com/track/165Exq3WOUgWvbXTCqZR78"
+    },
+    {
+      "album": {
+        "name": "carnage",
+        "url": "https://open.spotify.com/album/3Mx4yeCppE8MhqT4SWxUui"
+      },
+      "artists": [
+        {
+          "name": "Neumatic Parlo",
+          "url": "https://open.spotify.com/artist/77osebGi21LV8GCNEzMYoO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "carnage",
+      "url": "https://open.spotify.com/track/1WzuEQ4Iwk1YdclU7KS7AI"
     },
     {
       "album": {
@@ -566,6 +606,24 @@
       "duration_ms": 193552,
       "name": "Closure",
       "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
+    },
+    {
+      "album": {
+        "name": "Conversations That Hurt",
+        "url": "https://open.spotify.com/album/4HX1t1QGSFING7ALuxbWP7"
+      },
+      "artists": [
+        {
+          "name": "alt.",
+          "url": "https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Conversations That Hurt",
+      "url": "https://open.spotify.com/track/0uhAW3c9zZKpWKa3kDyj3f"
     },
     {
       "album": {
@@ -664,7 +722,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 511506,
       "name": "Darkenguard",
       "url": "https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm"
@@ -686,6 +744,32 @@
       "duration_ms": 164790,
       "name": "DArkSide",
       "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "album": {
+        "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
+        "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        },
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        },
+        {
+          "name": "Lucas Woodland",
+          "url": "https://open.spotify.com/artist/76iTTQpdw0ECsYeXVnKA2t"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321735,
+      "name": "Death by a Thousand Cuts - Feat. Lucas Woodland",
+      "url": "https://open.spotify.com/track/7B81PwYsKxxznT4frjjzFA"
     },
     {
       "album": {
@@ -1249,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/51KUzZXJLOOZ1iexYYgGKl"
+      },
+      "artists": [
+        {
+          "name": "Kurt Fckng Wolf",
+          "url": "https://open.spotify.com/artist/4Q8xOUPzBfKrLElG3fBg2S"
+        },
+        {
+          "name": "Izy Bandha",
+          "url": "https://open.spotify.com/artist/1xqtZkea3LbUn3W8Fzj1TS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/6G1nRbEk6baSJB7CrEUR13"
+    },
+    {
+      "album": {
         "name": "It's Supposed To Hurt",
         "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
       },
@@ -1340,7 +1446,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220506,
       "name": "Lazy Sod",
       "url": "https://open.spotify.com/track/4HHOsyrXFH2dB3ySFGIfpf"
@@ -1545,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190858,
+      "name": "MUD",
+      "url": "https://open.spotify.com/track/3WNXHyqT7xlsxZEXbi9jYg"
+    },
+    {
+      "album": {
         "name": "Next Semester",
         "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
       },
@@ -1712,10 +1836,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195555,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr"
+    },
+    {
+      "album": {
+        "name": "Paralyzed (feat. Attack Attack!)",
+        "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212310,
+      "name": "Paralyzed (feat. Attack Attack!)",
+      "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
     },
     {
       "album": {
@@ -1755,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247716,
+      "name": "Plastic Boxes",
+      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
       },
@@ -1770,6 +1934,24 @@
       "duration_ms": 142533,
       "name": "Power",
       "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/024pztg1UNFjSuXdwfIQTx"
+      },
+      "artists": [
+        {
+          "name": "APOC",
+          "url": "https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190786,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5vBJF9zAYFeWxqkGXF583A"
     },
     {
       "album": {
@@ -1899,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
+    },
+    {
+      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
       },
@@ -1990,7 +2190,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
@@ -2156,7 +2356,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144207,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2zWli9qgK2zQo3NSzJpvfe"

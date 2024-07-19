@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 446566,
+  "num_followers": 446613,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZodvwAAAAAD9TAgiw9xqs0CGMMVrTHsL",
+  "snapshot_id": "ZpnkwAAAAACiICnYiBxBRwr3EDLLrm1J",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Days of Mellow",
+        "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 154980,
+      "name": "Days of Mellow",
+      "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -175,22 +191,6 @@
       "duration_ms": 154285,
       "name": "The Line",
       "url": "https://open.spotify.com/track/46qU3BOdKfXI4LSSGxAw4D"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/3pu464f772FhbYLE5KaYlk"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/2jZcVKNkG5JMAXSRDumflt"
     },
     {
       "added_at": "2024-05-03 04:01:00",

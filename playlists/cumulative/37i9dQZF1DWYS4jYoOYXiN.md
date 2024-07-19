@@ -2,7 +2,7 @@
 
 ### [Boogaloo Essentials](https://open.spotify.com/playlist/37i9dQZF1DWYS4jYoOYXiN)
 
-> We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
+> We like it like that! Cover: Pete Rodriguez
 
 110 songs - 7 hr 28 min
 

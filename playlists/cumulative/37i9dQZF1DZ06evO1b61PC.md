@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 49 min
+30 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 | 2024-01-29 |  |
 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 | 2024-01-29 |  |
 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 | 2024-01-29 |  |
+| [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 | 2024-07-19 |  |
 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:48 | 2024-01-29 |  |
 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 | 2024-01-29 |  |
 | [In The End \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [In The End \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc) | 3:49 | 2024-06-28 |  |

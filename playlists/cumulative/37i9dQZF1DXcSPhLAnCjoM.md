@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Adieu" de Jérémy Frerot est le Grand Hit de la semaine.
+> "Summer Body" d'Helena est le Grand Hit de la semaine.
 
-159 songs - 8 hr 13 min
+161 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,14 +118,14 @@
 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 | 2024-06-20 |  |
 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 | 2023-09-28 | 2024-05-24 |
 | [L’Étoile](https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:09 | 2024-05-16 | 2024-06-14 |
-| [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-04-18 | 2024-05-24 |
+| [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-04-18 |  |
 | [Maintenant](https://open.spotify.com/track/7B2lIJDAmk3H2jIMXs6cB6) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:09 | 2024-06-06 |  |
 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-09-28 | 2024-03-15 |
 | [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 | 2023-09-28 | 2024-02-23 |
 | [Memento](https://open.spotify.com/track/5Cn6HUjq30KK6UBCryPMhn) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Memento](https://open.spotify.com/album/3Er5vnJ0cRHfX44Unh4FbQ) | 3:39 | 2024-02-22 | 2024-06-21 |
 | [Mercredi](https://open.spotify.com/track/3sro7j7pDMNquQEQHKa2xR) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Regarde\-moi](https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9) | 2:51 | 2023-11-09 | 2024-04-05 |
 | [Mieux comme ça ? \(feat\. Petit K\)](https://open.spotify.com/track/0aKBA3rWo1eBw6I9K1wXvg) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif), [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:00 | 2023-09-28 | 2023-12-09 |
-| [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 |  |
+| [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-16 | 2024-07-19 |
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-05-16 | 2024-06-14 |
 | [Ne saute pas](https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:56 | 2024-06-13 |  |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-23 |  |
@@ -144,7 +144,7 @@
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2024-01-18 |  |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-11-09 | 2024-06-07 |
 | [Recommence\-moi](https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Recommence\-moi](https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y) | 3:16 | 2024-04-04 |  |
-| [Rendez\-vous](https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:58 | 2024-05-02 |  |
+| [Rendez\-vous](https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:58 | 2024-05-02 | 2024-07-19 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-10-19 | 2024-01-19 |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-28 | 2024-04-26 |
 | [Rien comme les autres](https://open.spotify.com/track/0Hxm3ciCNteZghavphxUha) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:40 | 2024-04-18 | 2024-05-10 |
@@ -154,6 +154,7 @@
 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 | 2024-04-04 |  |
 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 | 2023-11-09 | 2023-12-09 |
 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 | 2023-09-28 | 2024-01-12 |
+| [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-07-18 |  |
 | [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2024-01-25 | 2024-02-09 |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-07-04 |  |
 | [Ta peine](https://open.spotify.com/track/0qp0G8VtnYHmLnbCu6lUUQ) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/2vN2COSOLbR6pMi4Et7k7R) | 2:44 | 2024-02-29 | 2024-06-21 |
@@ -162,7 +163,8 @@
 | [Tour de France](https://open.spotify.com/track/4C0ZGFMFd8OrDwKHD9Fary) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:43 | 2024-04-18 | 2024-06-21 |
 | [Tout ce que l'on dit \(Mais qu'on ne fait pas\) \- Edit](https://open.spotify.com/track/0hsCfpvzUowipx8KQcsWuu) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/5wFGo80kX0WaAkn4sGocyb) | 3:04 | 2024-04-11 |  |
 | [Tout ce que l'on dit mais qu'on ne fait pas](https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/59u95OSY4puzu4a5Jmymfl) | 3:20 | 2024-03-14 | 2024-04-12 |
-| [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-05-23 |  |
+| [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-07-18 |  |
+| [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-05-23 | 2024-07-19 |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 44207,
-  "original_name": "This Is Little Simz",
+  "description": "This Is Little Simz. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
+  "num_followers": 44249,
+  "original_name": "\u0627\u06cc\u0646 Little Simz \u0627\u0633\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAC72rfhHU1bW54ZQgmyWK07",
+  "snapshot_id": "ZpcJgAAAAAA/zNHQNe26qhFt0/6vL3qv",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
       },
       "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 168521,
-      "name": "Offence",
-      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "added_at": null,
@@ -418,15 +422,11 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 225255,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
+      "duration_ms": 168521,
+      "name": "Offence",
+      "url": "https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR"
     },
     {
       "added_at": null,
@@ -486,11 +486,15 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 185203,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
+      "duration_ms": 225255,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
     },
     {
       "added_at": null,
@@ -551,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 185203,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back to My Love",
         "url": "https://open.spotify.com/album/0abytCO5C9R9BHsvQ52Kyk"
       },
@@ -591,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 211285,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Location (feat. Little Simz)",
         "url": "https://open.spotify.com/album/5XpjnV9EuzkH60PtpwHn1E"
       },
@@ -607,22 +643,6 @@
       "duration_ms": 245045,
       "name": "Location (feat. Little Simz)",
       "url": "https://open.spotify.com/track/7veYmTIhhDuVIpCW6UeoxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stillness In Wonderland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 211285,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
     },
     {
       "added_at": null,
@@ -677,6 +697,6 @@
       "url": "https://open.spotify.com/track/42cVaoypjCYHO00SEj8d7a"
     }
   ],
-  "unique_name": "This Is Little Simz",
+  "unique_name": "\u0627\u06cc\u0646 Little Simz \u0627\u0633\u062a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr"
 }

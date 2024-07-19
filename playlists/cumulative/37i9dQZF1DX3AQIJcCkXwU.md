@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-189 songs - 13 hr 36 min
+194 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Kailashi](https://open.spotify.com/track/0mr0CICPJj19Y4cp1HNOdx) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Kailashi](https://open.spotify.com/album/3xnVdpJCC98xufKIo0LMa6) | 3:19 | 2023-04-21 |  |
 | [Kalakundi](https://open.spotify.com/track/5DfQhwYm9rZCqXJOyAUIhO) | [Nirjon](https://open.spotify.com/artist/3nkuJ5jF7ULxgfJRWOSAAO) | [Kalakundi](https://open.spotify.com/album/1khRWGZUGQuoKJN9Rp11CB) | 2:42 | 2024-03-26 |  |
 | [Kapla Bhati](https://open.spotify.com/track/74HMbs5LeHYxv53RVzssJS) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 7:18 | 2022-09-30 |  |
+| [Karnataka Bound](https://open.spotify.com/track/7pRc3eQfZQIO1y1ipehzrh) | [Mellisai](https://open.spotify.com/artist/5gKiv2rx0C8IA2KZVno6zH) | [Karnataka Bound](https://open.spotify.com/album/2sSE5hewSauKMLtQ4Wixa6) | 2:39 | 2024-07-18 |  |
 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 | 2023-09-15 |  |
 | [Kharasha](https://open.spotify.com/track/5b0pO1D67bUkGKzx4kNP56) | [The Sitar Lounge Experience](https://open.spotify.com/artist/2KdoHKu7K72giUrFxLQjKe) | [The Sitar Lounge Experience](https://open.spotify.com/album/0OILgZSp5RbtJszUSJXNog) | 4:48 | 2022-04-04 | 2022-04-21 |
 | [King of the Ragas \(Darbari\)](https://open.spotify.com/track/7n4BUekVuwAYTIHtxoz9n4) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Ãnanda Nãda](https://open.spotify.com/album/1MYMwqJ5tCmMUjCc2NkJsZ) | 8:00 | 2022-04-04 | 2024-03-27 |
@@ -99,6 +100,7 @@
 | [Magnetic](https://open.spotify.com/track/31Wui18tjMUSmIig5fvf6o) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 7:43 | 2022-04-04 | 2022-09-07 |
 | [Manali Sunrise](https://open.spotify.com/track/4m0KL4ZBlLnhwXWGm3FvyX) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Manali Sunrise](https://open.spotify.com/album/1YrIS5BqUiTHZMo8PhOyZc) | 3:27 | 2022-11-25 |  |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-05-16 |  |
+| [Maun](https://open.spotify.com/track/7pvkoMZYbxCvyw2CU4vjIn) | [Saarang](https://open.spotify.com/artist/745fOQobnNTQ0SlYRRac6T) | [Maun](https://open.spotify.com/album/2kqpXHXRWqRywaNUTOkFBJ) | 3:55 | 2024-07-18 |  |
 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-04-04 |  |
 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 | 2022-04-04 | 2024-01-25 |
 | [Meeting Of Two Oceans](https://open.spotify.com/track/7drPBuHo0GQZqRZhLvM7dQ) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/5tSFLJ9LFFdIqrF6G7R3Je) | 6:14 | 2023-12-04 | 2024-03-27 |
@@ -149,6 +151,7 @@
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
 | [Road to Pune](https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Peace From Within](https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz) | 3:04 | 2022-07-18 | 2023-10-05 |
 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |
+| [Safari](https://open.spotify.com/track/4PdOrGQYmE0hU5k0XjDoou) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Safari](https://open.spotify.com/album/6s0r5lrUzvkjMypu7rAkHd) | 2:31 | 2024-07-18 |  |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-04-04 | 2022-07-29 |
 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-07-18 | 2024-03-27 |
 | [Samkhya](https://open.spotify.com/track/2qIFJzdlAPnxn31gmCXKcU) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Samkhya](https://open.spotify.com/album/3u9iNrwANFmlTSg0lMepDc) | 3:39 | 2023-03-03 |  |
@@ -166,12 +169,14 @@
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |
 | [Songs from the Seven Towers](https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:58 | 2022-07-18 | 2023-02-04 |
 | [Songs From the Seven Towers](https://open.spotify.com/track/05FWTD99Edbcn2WHakyk4w) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales From The Grand Bazaar](https://open.spotify.com/album/2Al6Kbhpuz7MTaffnffc17) | 7:58 | 2022-04-04 | 2022-07-29 |
+| [Spirits Within](https://open.spotify.com/track/2P6c9yFtJX4cN3vskPuRTS) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Spirits Within](https://open.spotify.com/album/1pW4V3SBKwuTnpD83FmDPC) | 2:02 | 2024-07-18 |  |
 | [Strenght](https://open.spotify.com/track/3A7HBtO3W28kBKOJHBb9dZ) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Strenght](https://open.spotify.com/album/6rPZfQ4Wc4FiLj4VVeeFTF) | 3:24 | 2023-03-03 |  |
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-01-09 |  |
 | [Sumati Arya](https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Sumati Arya](https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR) | 2:35 | 2024-03-26 |  |
 | [Sun Riser](https://open.spotify.com/track/26vVwggMW8iUbDDxlDygMJ) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Sun Riser](https://open.spotify.com/album/1CtGzSHFnQW6THLOu4U1ZK) | 4:26 | 2022-04-04 |  |
 | [Sunsets](https://open.spotify.com/track/2NTE2WKQjhA8pWI0aVNHvr) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sunsets](https://open.spotify.com/album/5FYGIORjchWocCVAyVI3c3) | 4:08 | 2023-01-13 |  |
 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 | 2022-05-23 |  |
+| [Tathy](https://open.spotify.com/track/0gDypzWjp6hHkcs0OEzP3A) | [Bhramara](https://open.spotify.com/artist/0VbAnyXFoNqhQQetaK3CLk) | [Tathy](https://open.spotify.com/album/04cDrfEcA7WzkXf0bjM70Q) | 3:18 | 2024-07-18 |  |
 | [Ten Horses](https://open.spotify.com/track/4VzBi4yTPzR4kGl6kDgRbN) | [Banaras Baba & Kolkata Kid](https://open.spotify.com/artist/1sKc8FjKRB835PrHYJ77Nj) | [From North to South](https://open.spotify.com/album/4wRtJEazDyldXESARKSCmx) | 2:32 | 2022-04-04 | 2024-03-27 |
 | [The Berber of Seville \- The Berber of Suburbia Mix](https://open.spotify.com/track/0XUBsZjhee9fgmeVzLv92A) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Bombay Dub Orchestra](https://open.spotify.com/album/4vRhEwSJAPGam5L9qv9FAV) | 6:12 | 2022-04-04 | 2024-03-27 |
 | [The Charmer](https://open.spotify.com/track/0QJrweWdWjeTgUCzlYNjw2) | [Lohar Lo](https://open.spotify.com/artist/1hnelI3NPY7liDYDvvcren) | [The Evening Charmer](https://open.spotify.com/album/0nviYGnTaD9YQlJWKEKfYJ) | 3:54 | 2022-04-04 | 2023-01-10 |

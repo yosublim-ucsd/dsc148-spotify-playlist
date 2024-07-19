@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pSgyzshEQBKP\_mbOG\-fd8Q">Wakadinali</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=SDGCPTxqRYqA1PQ\-eNL4lw">Octopizzo</a>
 
-248 songs - 12 hr 45 min
+249 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [FMF \- Friday Morning Freestyle](https://open.spotify.com/track/6U6hSadF0KeJz9MypZsdb6) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [NinjaRacy E.T.](https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I), [Gate$print](https://open.spotify.com/artist/0FI3ETDnpFb3dsKBHqI1wG), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [ATTENTION](https://open.spotify.com/album/1bY6CE9i3d4ONpXsoH411R) | 3:32 | 2023-05-05 | 2023-06-09 |
 | [Friday Morning freestyle](https://open.spotify.com/track/2rvtcIP20kxggf52zqcPfK) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [NinjaRacy E.T.](https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I), [Gate$print](https://open.spotify.com/artist/0FI3ETDnpFb3dsKBHqI1wG), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Friday Morning freestyle](https://open.spotify.com/album/1hpq7mCAiJ7Vdpu56BHgBH) | 3:32 | 2023-04-27 | 2023-05-06 |
 | [From The Bottom](https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D) | [CK Sula](https://open.spotify.com/artist/3GhEMZn9eAjfLsGoj9Q313) | [From The Bottom](https://open.spotify.com/album/4dd6K40Z2A7YGYSs59pIOG) | 2:28 | 2023-04-27 | 2023-10-10 |
-| [FULLY AUTO](https://open.spotify.com/track/6Zph2tvaXvf1jyzzGFKCqf) | [Storyteller Sam](https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x), [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9) | [FULLY AUTO](https://open.spotify.com/album/6rhjrlf9O047H5Z5GyXo8X) | 3:49 | 2024-04-11 |  |
+| [FULLY AUTO](https://open.spotify.com/track/6Zph2tvaXvf1jyzzGFKCqf) | [Storyteller Sam](https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x), [NIGGA SHAWN](https://open.spotify.com/artist/7a05bd7Aa7CPqmjvlEfPt9) | [FULLY AUTO](https://open.spotify.com/album/6rhjrlf9O047H5Z5GyXo8X) | 3:49 | 2024-04-11 | 2024-07-19 |
 | [GABANNA](https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3) | [Kuky](https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Gabbana](https://open.spotify.com/album/4AhJBCOl3KifNJKy5Vsvcf) | 3:00 | 2024-02-15 |  |
 | [Gabbana](https://open.spotify.com/track/1o3LdudmUYfDKRoePUjHeD) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Kuky](https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Gabbana](https://open.spotify.com/album/4Jza4ma3A1zImFepRbnGgM) | 3:00 | 2024-01-26 | 2024-02-09 |
 | [Geri Inengi](https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [SirBwoy](https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T) | [EXPOSED \(Munga\`s Revenge\)](https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n) | 4:30 | 2021-10-29 | 2023-12-01 |
@@ -141,6 +141,7 @@
 | [MONEYLONG MALONG](https://open.spotify.com/track/00y0lRuyrmT1oblzpF7L4r) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW), [Vintix Jr](https://open.spotify.com/artist/13XsdZHCvyYXkAYClwHzxA) | [UGANJA](https://open.spotify.com/album/5UbrwU28Y51I3WXThqODBB) | 4:30 | 2024-01-26 | 2024-03-01 |
 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-26 | 2023-08-18 |
 | [Mswaki](https://open.spotify.com/track/1ThrFG6ZfF73rSSh29O9Ww) | [Young Gideon](https://open.spotify.com/artist/6N3GhMFkwlfZoUGd60npKF), [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR) | [Imani](https://open.spotify.com/album/7xaDoueVKrbnqUs76AlOzj) | 3:16 | 2024-03-15 |  |
+| [MTUME](https://open.spotify.com/track/3afiqam2ssy59uYm0F0068) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [MTUME](https://open.spotify.com/album/5iUo5nirH7XvK0zdOGCmTX) | 3:25 | 2024-07-18 |  |
 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 | 2024-01-11 |  |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 | 2023-05-19 |
 | [Mzigo](https://open.spotify.com/track/0U0zmqjmcPg8s9RXZzakcz) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 3:55 | 2024-01-26 | 2024-04-19 |

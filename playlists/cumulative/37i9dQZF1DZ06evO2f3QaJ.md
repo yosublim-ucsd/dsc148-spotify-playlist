@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 15 min
+70 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bom Senso](https://open.spotify.com/track/5BOMNZGF1d9KPpxt3jUaCE) | [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Otra Fita](https://open.spotify.com/album/1n5u2u4AjMFS06YyZIBNSs) | 3:04 | 2023-09-18 |  |
 | [Ciclos](https://open.spotify.com/track/6n1f4TRCr1G8OzgoZJDAqH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Cachola](https://open.spotify.com/artist/7J3EYB97apm5pjDU6kzife) | [Ciclos](https://open.spotify.com/album/6oX71svzC11H8IS3cgvH51) | 2:48 | 2023-09-18 | 2023-12-30 |
 | [DCAC \- de César a Cristo](https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luciane Dom](https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1) | [DCAC \- de César a Cristo](https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl) | 5:38 | 2023-11-10 |  |
+| [De Longe](https://open.spotify.com/track/5Abx2iApy5yzYgSUk7QciQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Shuna](https://open.spotify.com/artist/1fZ72u620OxAroHzfsFPAW) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:21 | 2024-07-19 |  |
 | [EGOT](https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [EGOT](https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m) | 3:52 | 2023-09-18 | 2024-02-24 |
 | [EGOT](https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:52 | 2024-06-01 | 2024-07-11 |
 | [Faça a Coisa Certa](https://open.spotify.com/track/6iaQxxNSX0ehJtMiaGfB3E) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 3:14 | 2023-09-18 |  |
@@ -26,7 +27,7 @@
 | [Flor de Oxalá](https://open.spotify.com/track/6trqX1VGaQsrw0usSb81ky) | [Zeferina](https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Flor de Oxalá](https://open.spotify.com/album/7ezWRaB3cnEXXJQ5CjqrzZ) | 2:55 | 2023-09-18 | 2024-02-26 |
 | [Foco nos Planos](https://open.spotify.com/track/0Xi6wqxZi8AP3C1HPpuoBe) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 3:56 | 2023-09-18 |  |
 | [God Bless](https://open.spotify.com/track/6R5HTxqW0yOl7UUYqnhJmm) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:48 | 2023-09-18 | 2023-11-11 |
-| [H.E.R\. \(Humano em Reabilitação\) Interlúdio](https://open.spotify.com/track/6yYHHkfqMr1x7aA5bCfFZO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:21 | 2024-07-11 |  |
+| [H.E.R\. \(Humano em Reabilitação\) Interlúdio](https://open.spotify.com/track/6yYHHkfqMr1x7aA5bCfFZO) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 1:21 | 2024-07-11 | 2024-07-19 |
 | [Heróis Mortos](https://open.spotify.com/track/2JheiFwFLWYWVBDhgGQZMB) | [FILL](https://open.spotify.com/artist/0Y3reVpf6Pf83TxWb4PFGy), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Control C Control V](https://open.spotify.com/album/7t0BkAXZnUpWirUEPX3eMZ) | 2:38 | 2023-09-18 | 2023-10-11 |
 | [HORA DOURADA](https://open.spotify.com/track/7vmOfLluWbEnD9kRIxhekz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:48 | 2023-09-18 |  |
 | [I Can See the Sun](https://open.spotify.com/track/5vZnKY2jpbBAYU8sXURY5z) | [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [I Can See the Sun](https://open.spotify.com/album/1Zl4jJDpUsQ8s7fMsJSF77) | 3:53 | 2023-09-18 |  |

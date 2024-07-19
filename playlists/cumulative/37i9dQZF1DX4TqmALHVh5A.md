@@ -2,7 +2,7 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : KLON
+> La scène française branchée sur courant alternatif\. Photo : THÉA
 
 188 songs - 10 hr 4 min
 

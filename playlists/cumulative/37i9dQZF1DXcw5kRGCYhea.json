@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Bene",
+      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
+    },
+    {
+      "album": {
         "name": "BLADI",
         "url": "https://open.spotify.com/album/08GcEYNhOjc5zovnynkbvk"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp"
@@ -926,10 +944,32 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146086,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1oTuAmY3HZgLIKb52B07xl"
+    },
+    {
+      "album": {
+        "name": "Love (French Remix)",
+        "url": "https://open.spotify.com/album/6x82evLa3aeI9agy8mNbE4"
+      },
+      "artists": [
+        {
+          "name": "Kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "Love (French Remix)",
+      "url": "https://open.spotify.com/track/7jOKVEH8BKVJekdWY9yOeH"
     },
     {
       "album": {
@@ -1542,7 +1582,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161280,
       "name": "S7aba",
       "url": "https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0"
@@ -1966,6 +2006,24 @@
       "duration_ms": 156444,
       "name": "Wsalni MSG",
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"
+    },
+    {
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150760,
+      "name": "YAYO",
+      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
     },
     {
       "album": {

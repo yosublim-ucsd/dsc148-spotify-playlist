@@ -4,7 +4,7 @@
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-491 songs - 1 day 0 hr 24 min
+492 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Hotter Now](https://open.spotify.com/track/4BIyKFJ2pgh3eY7Hc4Ce0k) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Hotter Now](https://open.spotify.com/album/7yYUYzfzUGWPkqY1crWBlh) | 3:01 | 2023-12-08 |  |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-25 |  |
 | [Hummer](https://open.spotify.com/track/0efPHHuOf5AiEB8GDttcmh) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Hummer](https://open.spotify.com/album/36lT9oOTW2b8qKpOCQDHSh) | 2:35 | 2024-05-17 |  |
+| [hyperbopper](https://open.spotify.com/track/36dAsjrv8ExJFWigkASeD3) | [TOMGIRL504EVER](https://open.spotify.com/artist/6X9QKhznQB6EYTlV325akc) | [hyperbopper](https://open.spotify.com/album/4ufWmSQzKZLs9pRMGjS1s4) | 2:18 | 2024-07-18 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 | 2023-03-18 |
 | [I <3 My N\*\*\*a](https://open.spotify.com/track/1CYqi8NwMa9BsD65hQuMci) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [I <3 My N\*\*\*a](https://open.spotify.com/album/5hRRLQ9KdFuPxfgq41jXel) | 2:32 | 2023-08-18 |  |
 | [I Admit It](https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [I Admit It](https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet) | 2:22 | 2022-11-04 | 2023-07-29 |

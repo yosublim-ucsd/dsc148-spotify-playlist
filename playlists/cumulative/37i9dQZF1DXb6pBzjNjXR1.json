@@ -911,6 +911,32 @@
     },
     {
       "album": {
+        "name": "Hajikwai",
+        "url": "https://open.spotify.com/album/1KjMMPgog7xd7c3VQBu2GD"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Thabza De Soul",
+          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363990,
+      "name": "Hajikwai",
+      "url": "https://open.spotify.com/track/15YgWqEEqXBafFdKHPIcDo"
+    },
+    {
+      "album": {
         "name": "HAYII",
         "url": "https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za"
       },
@@ -1810,6 +1836,28 @@
       "duration_ms": 325161,
       "name": "Muchationa",
       "url": "https://open.spotify.com/track/2g0e7qFlyovwNtaLntN83d"
+    },
+    {
+      "album": {
+        "name": "Muntu Wami (Afro Mix)",
+        "url": "https://open.spotify.com/album/73MA74UChHEf7xLpOm2m32"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        },
+        {
+          "name": "Takue SBT",
+          "url": "https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372031,
+      "name": "Muntu Wami (Afro Mix)",
+      "url": "https://open.spotify.com/track/6SKzLLHi0twVKwZmNZuLa7"
     },
     {
       "album": {

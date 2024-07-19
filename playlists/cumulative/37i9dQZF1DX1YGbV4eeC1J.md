@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\.  Cover: Lava Lava
+> What is your love language? Say it in Swahili\.  Cover: Lava Lava
 
-211 songs - 12 hr 4 min
+212 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/track/1n2beraaBdeHstydRddlpI) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Manu \(feat\. Jay Melody\)](https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W) | 2:50 | 2024-03-14 | 2024-03-22 |
 | [Mapenzi](https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:35 | 2022-05-26 | 2022-11-18 |
 | [Mapenzi](https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Karata 3](https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4) | 3:17 | 2022-05-26 | 2023-03-03 |
-| [Mapenzi](https://open.spotify.com/track/4GbdX8xihpD1eIr0sHvTiT) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Mapenzi](https://open.spotify.com/album/6XBRb4liVXYklJPVBHadH8) | 3:54 | 2024-03-07 |  |
+| [Mapenzi](https://open.spotify.com/track/4GbdX8xihpD1eIr0sHvTiT) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH) | [Mapenzi](https://open.spotify.com/album/6XBRb4liVXYklJPVBHadH8) | 3:54 | 2024-03-07 | 2024-07-19 |
 | [Mapenzi](https://open.spotify.com/track/2e2dNpszZC0sCEuvfKVyQu) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 5:53 | 2022-05-26 | 2023-05-12 |
 | [Mapenzi](https://open.spotify.com/track/3aLDDpMZhXKMfIFzd5nTfP) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 3:14 | 2022-12-09 | 2023-09-22 |
 | [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 | 2023-06-09 |
@@ -128,6 +128,7 @@
 | [My Boo](https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Fancy Fingers](https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5) | [The Lion of Sudah](https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h) | 4:02 | 2023-04-20 | 2023-09-01 |
 | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [My Sugar \(feat\. Nadia Mukami\)](https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY) | 3:43 | 2023-06-29 | 2024-02-02 |
 | [My Vow](https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [My Vow](https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC) | 3:57 | 2022-05-26 |  |
+| [Na Nusu](https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Na Nusu](https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd) | 4:23 | 2024-07-18 |  |
 | [Na Yule](https://open.spotify.com/track/3yXTg2aoTSA2IFo0XfEz8o) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Na Yule](https://open.spotify.com/album/2l5qQbYLacq6YJt78xdfZn) | 3:51 | 2022-05-26 | 2023-04-07 |
 | [Naisha](https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/305UoRlLjJxe9uJoT2GUnR) | 3:01 | 2023-06-08 | 2023-09-01 |
 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 | 2022-05-26 | 2024-03-01 |

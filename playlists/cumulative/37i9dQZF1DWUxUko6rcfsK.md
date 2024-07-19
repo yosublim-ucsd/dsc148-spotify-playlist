@@ -4,7 +4,7 @@
 
 > Het leven is prachtig en dat verdient goede muziek
 
-63 songs - 3 hr 24 min
+65 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2024-07-01 |  |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2024-07-01 |  |
 | [Forget Somebody](https://open.spotify.com/track/4nTsYZHFfecWk7NPXqqVyD) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Forget Somebody](https://open.spotify.com/album/68xO5TGhgtqwNpPgxuYTCo) | 2:43 | 2024-07-01 |  |
-| [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2024-07-01 |  |
+| [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2024-07-01 | 2024-07-19 |
 | [Half a Man](https://open.spotify.com/track/2eUC6tKYCfIvXyZJ5k9F8n) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Half a Man](https://open.spotify.com/album/5XM1KXwrQkexM7Zm6WLrx4) | 2:56 | 2024-07-01 |  |
+| [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-07-18 |  |
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-07-01 |  |
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-07-01 |  |
 | [Have You Ever Loved Someone](https://open.spotify.com/track/4UdsCQV2xKfcMF4EUew9ZD) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Have You Ever Loved Someone](https://open.spotify.com/album/1MmZnUzFTvJvU1G9Ws3ds0) | 3:19 | 2024-07-01 |  |
@@ -33,10 +34,11 @@
 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2024-07-01 |  |
 | [I Don't Wanna Leave Just Yet](https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [I Don't Wanna Leave Just Yet](https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq) | 3:05 | 2024-07-01 |  |
 | [I Remember](https://open.spotify.com/track/5xboC9LvGQFCwcWIpUwwhf) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [I Remember](https://open.spotify.com/album/5v9qFRmHHCoT44bBeQfalp) | 3:56 | 2024-07-01 |  |
+| [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-07-18 |  |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2024-07-01 |  |
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2024-07-01 |  |
 | [Looking At You](https://open.spotify.com/track/1vfNaTL5DfKAPEd4ywUjlo) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Looking At You](https://open.spotify.com/album/2jrADtaLp3ptjv4UW2okro) | 3:10 | 2024-07-01 |  |
-| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 |  |
+| [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2024-07-19 |
 | [Love At First Fight](https://open.spotify.com/track/6jNzsK1Ef8H2QcXjFUCsZV) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Love At First Fight](https://open.spotify.com/album/4HxBqKWfyCMeq3ZnqTbg68) | 3:12 | 2024-07-01 |  |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2024-07-01 |  |
 | [Money In My Head](https://open.spotify.com/track/7cBiYJkUlPaBDhgt2LzBqe) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/2PuHWNSPxzkSmyCIj5K1EF) | 3:08 | 2024-07-01 |  |

@@ -6879,6 +6879,24 @@
     },
     {
       "album": {
+        "name": "SHOOT THE LOCK",
+        "url": "https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161761,
+      "name": "SHOOT THE LOCK",
+      "url": "https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT"
+    },
+    {
+      "album": {
         "name": "Short Hills Rd",
         "url": "https://open.spotify.com/album/61UHUB64YbzfBarOkW5M2u"
       },
@@ -7068,6 +7086,28 @@
       "duration_ms": 160986,
       "name": "SMALL TOWN STATE OF MIND",
       "url": "https://open.spotify.com/track/5Niq20xLM1pt53ijI6qTmK"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147244,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
       "album": {

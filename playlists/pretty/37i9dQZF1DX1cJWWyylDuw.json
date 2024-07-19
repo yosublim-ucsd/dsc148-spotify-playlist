@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bodysnatcher",
-  "num_followers": 213458,
+  "num_followers": 213660,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Wounds Never Healed",
-        "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
-      },
-      "artists": [
-        {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Wounds Never Healed",
-      "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Endless Hollow",
         "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 230733,
       "name": "Endless Hollow",
       "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Wounds Never Healed",
+        "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Wounds Never Healed",
+      "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Loveless Suffering",
-        "url": "https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX"
-      },
-      "artists": [
-        {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
-        }
-      ],
-      "duration_ms": 247647,
-      "name": "Loveless Suffering",
-      "url": "https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Disappoint Me",
         "url": "https://open.spotify.com/album/2mSPOTwIwW8TkscyYGsETO"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 138709,
       "name": "Disappoint Me",
       "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Loveless Suffering",
+        "url": "https://open.spotify.com/album/5YgSuWfKgSWzmPttENfOTX"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 247647,
+      "name": "Loveless Suffering",
+      "url": "https://open.spotify.com/track/7IhlAdGLiaFhPIVKNUvL6S"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Adamaster",
-        "url": "https://open.spotify.com/album/7fkm6iQaQ6A54jQRglHVkm"
-      },
-      "artists": [
-        {
-          "name": "Vulvodynia",
-          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
-        },
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 265371,
-      "name": "Adamaster",
-      "url": "https://open.spotify.com/track/114hhdSWl6iOCStbinlQ4b"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Empty Heaven",
         "url": "https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Adamaster",
+        "url": "https://open.spotify.com/album/7fkm6iQaQ6A54jQRglHVkm"
+      },
+      "artists": [
+        {
+          "name": "Vulvodynia",
+          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
+        },
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 265371,
+      "name": "Adamaster",
+      "url": "https://open.spotify.com/track/114hhdSWl6iOCStbinlQ4b"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "No Love Lost",
         "url": "https://open.spotify.com/album/5nOj9wbbrVwrNCAwue9PTf"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 85800,
       "name": "Wish (feat. Devin Swank & Sanguisugabogg)",
       "url": "https://open.spotify.com/track/4HKJ0qILJh1c0XQ6IRHr6A"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "Chin Check",
+        "url": "https://open.spotify.com/album/0ueCnEnaRHDzvQkZqiUdDJ"
+      },
+      "artists": [
+        {
+          "name": "Filth",
+          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
+        }
+      ],
+      "duration_ms": 160285,
+      "name": "Chin Check",
+      "url": "https://open.spotify.com/track/5Jt2ErhCamGbwwuYyWCjxm"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 228186,
       "name": "Bleed the Future",
       "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "Chin Check",
-        "url": "https://open.spotify.com/album/0ueCnEnaRHDzvQkZqiUdDJ"
-      },
-      "artists": [
-        {
-          "name": "Filth",
-          "url": "https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY"
-        }
-      ],
-      "duration_ms": 160285,
-      "name": "Chin Check",
-      "url": "https://open.spotify.com/track/5Jt2ErhCamGbwwuYyWCjxm"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1483,22 +1483,18 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Sort Sommer",
-        "url": "https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN"
+        "name": "The Price of Grace",
+        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
       },
       "artists": [
         {
-          "name": "CABAL",
-          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
-        },
-        {
-          "name": "FABR\u00c4K",
-          "url": "https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8"
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
         }
       ],
-      "duration_ms": 172276,
-      "name": "Sort Sommer",
-      "url": "https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb"
+      "duration_ms": 247282,
+      "name": "The Price of Grace",
+      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "The Price of Grace",
-        "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
+        "name": "Sort Sommer",
+        "url": "https://open.spotify.com/album/5jdUeAqwzHL2EoscFAUeJN"
       },
       "artists": [
         {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "FABR\u00c4K",
+          "url": "https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8"
         }
       ],
-      "duration_ms": 247282,
-      "name": "The Price of Grace",
-      "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
+      "duration_ms": 172276,
+      "name": "Sort Sommer",
+      "url": "https://open.spotify.com/track/4XqiGdFGZ88BXhNGovcUwb"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
-      },
-      "artists": [
-        {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Stained In Rot",
         "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 254500,
       "name": "Stained In Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Sentenced",
-        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
-      },
-      "artists": [
-        {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
-        }
-      ],
-      "duration_ms": 256699,
-      "name": "Sentenced",
-      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "A Love To Kill For",
         "url": "https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 137198,
       "name": "Retribution",
       "url": "https://open.spotify.com/track/0Jzuwvzp8EpPv0nXBtM2XR"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Sentenced",
+        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
+      },
+      "artists": [
+        {
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+        }
+      ],
+      "duration_ms": 256699,
+      "name": "Sentenced",
+      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 109200,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Giant Green Destruction",
         "url": "https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 184285,
       "name": "Stay Out of My Swamp",
       "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 109200,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "Crystal Prison",
+        "url": "https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq"
+      },
+      "artists": [
+        {
+          "name": "Defamed",
+          "url": "https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "Crystal Prison",
+      "url": "https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Fragmented Reality",
         "url": "https://open.spotify.com/album/03Moe5xCTH5pKVFYkxbvnf"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 151000,
       "name": "Fragmented Reality",
       "url": "https://open.spotify.com/track/2fymWNJiuATlCZN7iAy4za"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "Crystal Prison",
-        "url": "https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq"
-      },
-      "artists": [
-        {
-          "name": "Defamed",
-          "url": "https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "Crystal Prison",
-      "url": "https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK"
     },
     {
       "added_at": "2024-06-25 20:50:46",

@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173156,
       "name": "Afuga",
       "url": "https://open.spotify.com/track/3P0CYp0zKEMcIHelj3p97s"
@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Co-Driver",
+        "url": "https://open.spotify.com/album/42Zut1b44a5bVEZfmAvVHo"
+      },
+      "artists": [
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193069,
+      "name": "Co-Driver",
+      "url": "https://open.spotify.com/track/0DqGxOwrd4D3UzMqkiN0pe"
+    },
+    {
+      "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58"
       },
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 147368,
       "name": "Do You Want to Party",
       "url": "https://open.spotify.com/track/7srUC2ZI9u5srmd6juLAOH"
@@ -2230,6 +2248,28 @@
       "duration_ms": 150019,
       "name": "Glory To The King",
       "url": "https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6QOMmikqhoWYgeo3nxT2XD"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/77ecdnlCJILdoNzRUZiH5T"
     },
     {
       "album": {
@@ -3632,7 +3672,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162404,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/1nZzoDuUje5KlTpte9rM1Q"
@@ -4085,6 +4125,28 @@
     },
     {
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/4fMw6Zg6WVlmRUlbKeIQaq"
+      },
+      "artists": [
+        {
+          "name": "Pajen",
+          "url": "https://open.spotify.com/artist/69m4piYbSiMGcT00fwGngo"
+        },
+        {
+          "name": "Sensual",
+          "url": "https://open.spotify.com/artist/4RIaZBc9Qy2HMPT41uqTQ4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/7CUkI1gz6flvMNWU4KOdFi"
+    },
+    {
+      "album": {
         "name": "The Best of Benon & Vamposs",
         "url": "https://open.spotify.com/album/31AshW1AQzeDVvQicc4yjT"
       },
@@ -4114,7 +4176,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182595,
       "name": "Nsobola",
       "url": "https://open.spotify.com/track/31ZxmuPnWEgJ6wu95mgf40"
@@ -4176,6 +4238,28 @@
       "duration_ms": 194455,
       "name": "Nteredde",
       "url": "https://open.spotify.com/track/7obRw7Iy6DbqvyuPyiqzUj"
+    },
+    {
+      "album": {
+        "name": "Ntwaala",
+        "url": "https://open.spotify.com/album/2dtpEFGUed4yX2qJkJLUP9"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Ntwaala",
+      "url": "https://open.spotify.com/track/2UhlCJjpvFuLmoAb5swj8Y"
     },
     {
       "album": {

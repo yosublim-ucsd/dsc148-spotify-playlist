@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new Irish alternative sounds. Cover: Annie-Dog",
+  "description": "The best new Irish alternative sounds. Cover: chameleon",
   "name": "Alternative Ireland",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 101200,
       "name": "a dream like that",
       "url": "https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6"
+    },
+    {
+      "album": {
+        "name": "All The Days",
+        "url": "https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1"
+      },
+      "artists": [
+        {
+          "name": "The Devlins",
+          "url": "https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "All The Days",
+      "url": "https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 252732,
       "name": "Babyteeth",
       "url": "https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ"
@@ -535,6 +553,24 @@
     },
     {
       "album": {
+        "name": "CALL ME TWICE PT. 1",
+        "url": "https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA"
+      },
+      "artists": [
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269247,
+      "name": "I Never Knew You Well",
+      "url": "https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh"
+    },
+    {
+      "album": {
         "name": "I Never Knew You Well",
         "url": "https://open.spotify.com/album/0oHMTATKEwfYUkgJJVsxmv"
       },
@@ -564,7 +600,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200000,
       "name": "I'm Always Here",
       "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
@@ -1087,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Stereo Games",
+        "url": "https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Stereo Games",
+      "url": "https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl"
+    },
+    {
+      "album": {
         "name": "Name Your Sorrow",
         "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
       },
@@ -1156,7 +1210,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 271034,
       "name": "Talk To",
       "url": "https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv"

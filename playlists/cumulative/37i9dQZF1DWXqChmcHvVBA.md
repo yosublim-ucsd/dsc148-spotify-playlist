@@ -2,9 +2,9 @@
 
 ### [RKT  & Turreo](https://open.spotify.com/playlist/37i9dQZF1DWXqChmcHvVBA)
 
-> No es cumbia, tampoco reggaetón\. Foto: ECKO.
+> No es cumbia, tampoco reggaetón\. Foto: La Joaqui & DobleP.
 
-200 songs - 9 hr 17 min
+201 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 | 2023-12-15 |  |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-12-15 | 2024-02-17 |
 | [La Herramienta RKT](https://open.spotify.com/track/2lMeidnZtWrmvKr7wQufs4) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [La Herramienta RKT](https://open.spotify.com/album/0NNHnAyLvY9439OZonybGe) | 2:39 | 2024-06-07 |  |
-| [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 |  |
+| [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 | 2024-07-19 |
 | [LA MONEDA](https://open.spotify.com/track/7HBfy91fUKNz5ldpPcDczK) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [LA MONEDA](https://open.spotify.com/album/1c21EJrWmkCGVaX0FKAutu) | 1:38 | 2023-12-15 | 2024-01-11 |
 | [LALALÁ](https://open.spotify.com/track/1XGlvC36zhgG89NDih0IWk) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [LALALÁ](https://open.spotify.com/album/37JeUPws94fpXAlCb3aBTF) | 2:46 | 2023-12-15 | 2024-07-13 |
 | [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-12-15 |  |
@@ -172,6 +172,7 @@
 | [Te Parto RKT](https://open.spotify.com/track/0dsNaKnogOeaoKuObS6c9H) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Te Parto RKT](https://open.spotify.com/album/23NLzaX4G8woKqxO1YkjY3) | 2:53 | 2023-12-15 | 2023-12-23 |
 | [Te Re Doy](https://open.spotify.com/track/3Ed4F7Tb2tdP5GcRH5oIqF) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Te Re Doy](https://open.spotify.com/album/7jg1XqhaI8ZlL3VWdTlhrn) | 2:25 | 2024-01-12 | 2024-03-16 |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2023-12-15 | 2024-02-24 |
+| [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 | 2024-07-19 |  |
 | [Tirando Corte](https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Tirando Corte](https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY) | 2:32 | 2024-04-12 |  |
 | [TITAN](https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i) | 2:02 | 2023-12-15 | 2024-04-19 |
 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 | 2024-04-19 |  |

@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172941,
       "name": "Dokhana",
       "url": "https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ"
@@ -3826,6 +3826,24 @@
       "duration_ms": 196000,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/0b8ed9KxYS34522QeBncH7"
+    },
+    {
+      "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223366,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr"
     },
     {
       "album": {

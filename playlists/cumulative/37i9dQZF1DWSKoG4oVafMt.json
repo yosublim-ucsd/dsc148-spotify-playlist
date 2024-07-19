@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Aa Ja Diljaaniya (From \"Daaru Na Peenda Hove\")",
+        "url": "https://open.spotify.com/album/6ivUZIiINrjw1JyXnfRPTz"
+      },
+      "artists": [
+        {
+          "name": "Amrinder Gill",
+          "url": "https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182908,
+      "name": "Aa Ja Diljaaniya (From \"Daaru Na Peenda Hove\")",
+      "url": "https://open.spotify.com/track/4FgHSAJXGEj2xY3WBR88Ov"
+    },
+    {
+      "album": {
         "name": "Aadatan",
         "url": "https://open.spotify.com/album/1u1UywNfCrOZKHvPzxV1O2"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170054,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2ogIlGih34reZmi1nfQxYx"
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178583,
       "name": "Long Distance",
       "url": "https://open.spotify.com/track/6qbpUuZArbsjoPlF69FuCb"
@@ -15918,6 +15936,28 @@
       "duration_ms": 186976,
       "name": "Tere Supne",
       "url": "https://open.spotify.com/track/6ey1jPdZnZ44rAvDlxCbyI"
+    },
+    {
+      "album": {
+        "name": "Tere Warga Ishq (From \"Rose Rosy te Gulab\")",
+        "url": "https://open.spotify.com/album/3RsdwaIcLPJ2mnTLBVcOaf"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Singh Jeet Chankoian",
+          "url": "https://open.spotify.com/artist/12ZTTTcAxRnNNnQHj0bi6P"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228105,
+      "name": "Tere Warga Ishq - From \"Rose Rosy te Gulab\"",
+      "url": "https://open.spotify.com/track/4pPb9ljPAHIUh0DUIa3GBu"
     },
     {
       "album": {

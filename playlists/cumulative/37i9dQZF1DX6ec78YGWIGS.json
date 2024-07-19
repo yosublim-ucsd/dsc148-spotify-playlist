@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Yami Safdie.",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Maria Becerra & Gloria Trevi..",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "AYAYAY (feat. Dillom)",
+        "url": "https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "AYAYAY (feat. Dillom)",
+      "url": "https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ"
+    },
+    {
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -706,6 +728,28 @@
       "duration_ms": 141960,
       "name": "BONNIE & CLYDE",
       "url": "https://open.spotify.com/track/7k6ntPMcM6VTJ6YJyexIci"
+    },
+    {
+      "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2tnZnrvRjcaRsdc2JTGKY6"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137131,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
     },
     {
       "album": {
@@ -1402,7 +1446,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -1738,7 +1782,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
@@ -1950,6 +1994,32 @@
       "duration_ms": 169451,
       "name": "En Un Loop",
       "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
+    },
+    {
+      "album": {
+        "name": "LA INOCENTE",
+        "url": "https://open.spotify.com/album/7szbg3ku8OWLEvqT22UrGL"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        },
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        },
+        {
+          "name": "Oscu",
+          "url": "https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166592,
+      "name": "Enamorado de ti",
+      "url": "https://open.spotify.com/track/3kP3mDGylkffquaVJqSZwZ"
     },
     {
       "album": {
@@ -2860,7 +2930,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
@@ -3318,7 +3388,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -3670,6 +3740,24 @@
       "duration_ms": 178050,
       "name": "MELONI",
       "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
+    },
+    {
+      "album": {
+        "name": "MENTE EN BLANCO",
+        "url": "https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154961,
+      "name": "MENTE EN BLANCO",
+      "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
     },
     {
       "album": {

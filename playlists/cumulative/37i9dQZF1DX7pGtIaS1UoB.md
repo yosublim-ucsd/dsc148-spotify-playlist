@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-358 songs - 21 hr 14 min
+359 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [星晴](https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON) | 4:19 | 2024-01-08 | 2024-04-19 |
 | [是你啊](https://open.spotify.com/track/4Qu4L6TmIJoFzumjxp3lGw) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa) | [不枉年少](https://open.spotify.com/album/2WuKpPZ2qoabkAeyCU6Y9e) | 3:55 | 2022-06-13 | 2022-07-18 |
 | [暗戀的感覺](https://open.spotify.com/track/1wCJA9Ur1J98AP1OOjU2gF) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH) | [暗戀的感覺](https://open.spotify.com/album/1n2kMiYBEpvJ5CLHaqYuxZ) | 3:20 | 2023-05-08 | 2023-05-16 |
+| [曼煎糕](https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX) | [Jestinna Kuan](https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2), [Danny Lee](https://open.spotify.com/artist/5FIJ4cSTtEIEyqyzuhP6W6) | [曼煎糕](https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw) | 3:19 | 2024-07-18 |  |
 | [最最靠近愛情的那天](https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [最最靠近愛情的那天](https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F) | 3:07 | 2024-07-11 |  |
 | [月光森林](https://open.spotify.com/track/5j73bSHAoFQW84vwb64lJQ) | [兔子牙](https://open.spotify.com/artist/5IKSF0sUp4qqybBa8tjOqW) | [月光森林](https://open.spotify.com/album/363MAMYrjcQVlG3mvilLDX) | 3:20 | 2022-07-04 | 2022-07-14 |
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
@@ -334,7 +335,7 @@
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 | 2023-04-11 |
-| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 |  |
+| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 | 2024-07-19 |
 | [講個笑話](https://open.spotify.com/track/5I6VyJobdFa1GwoLHdPzzk) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [大娛樂家](https://open.spotify.com/album/5dRF4mFewpdRZbcudweNaT) | 3:21 | 2022-06-06 | 2022-07-21 |
 | [講個笑話](https://open.spotify.com/track/7ringJx9YyKtHwK8LpVVKG) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [講個笑話](https://open.spotify.com/album/73UTBcovvvyW23kfzixJJA) | 3:21 | 2022-06-06 | 2022-07-10 |
 | [謝謝你做我的另一半](https://open.spotify.com/track/74SFVoc6H869Cu9YcfAmbF) | [謝衣沛](https://open.spotify.com/artist/6rMEJJkOukOLJYkcBGnRIZ) | [謝謝你做我的另一半](https://open.spotify.com/album/6b5L93ZLrWBKy8JBcuKPiC) | 3:20 | 2022-06-13 | 2022-07-22 |

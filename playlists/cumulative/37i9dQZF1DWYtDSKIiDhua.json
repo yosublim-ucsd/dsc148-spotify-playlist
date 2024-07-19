@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: WIM",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Khalid",
   "name": "mood.",
   "tracks": [
     {
@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181767,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/4z5gS7C4LphtrMFHiQcDUu"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131650,
       "name": "call it love",
       "url": "https://open.spotify.com/track/2oyKUJQ58lxzDufBlIgkJE"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164783,
       "name": "Casper",
       "url": "https://open.spotify.com/track/0pYiZVUm2jZyTUz9zzKV8s"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165925,
       "name": "Closer to Hell",
       "url": "https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI"
@@ -2386,6 +2386,28 @@
       "duration_ms": 177931,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/4axh5PnrRAvhPxxrsa5BOW"
+    },
+    {
+      "album": {
+        "name": "come over",
+        "url": "https://open.spotify.com/album/66MSKtSHJLm1YUMvu0zL4A"
+      },
+      "artists": [
+        {
+          "name": "Alys",
+          "url": "https://open.spotify.com/artist/4cS8r9JlwhqLafUWAXkzHx"
+        },
+        {
+          "name": "fcj",
+          "url": "https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137100,
+      "name": "come over",
+      "url": "https://open.spotify.com/track/5Fr2Dlu0MvNfGqiOq10yqC"
     },
     {
       "album": {
@@ -2556,7 +2578,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154153,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0QitpTfcRgVysg155AVnRv"
@@ -2574,7 +2596,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176425,
       "name": "Creep",
       "url": "https://open.spotify.com/track/31NBS6WxVuyTRyUC0fkAHD"
@@ -2728,7 +2750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210804,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD"
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
@@ -3096,6 +3118,24 @@
       "duration_ms": 205560,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY"
+    },
+    {
+      "album": {
+        "name": "Do Right Baby!",
+        "url": "https://open.spotify.com/album/0lOMc60o5tKvGONQttYUNi"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293744,
+      "name": "Do Right Baby!",
+      "url": "https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY"
     },
     {
       "album": {
@@ -3246,7 +3286,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 338044,
       "name": "Don't Let It Slip Away",
       "url": "https://open.spotify.com/track/1ogzrIAv1SZtDjLfVGgoAv"
@@ -3536,6 +3576,24 @@
       "duration_ms": 180380,
       "name": "Dyin\u2019 To Know",
       "url": "https://open.spotify.com/track/2pOz4brROgNTWvb33sigQk"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p"
     },
     {
       "album": {
@@ -3872,7 +3930,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 213000,
       "name": "Exist/Exit",
       "url": "https://open.spotify.com/track/5qsiT41U9Ym4ISiLQHfgs0"
@@ -4002,6 +4060,28 @@
       "duration_ms": 204920,
       "name": "Falling or flying",
       "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
+    },
+    {
+      "album": {
+        "name": "Fallin\u2019 (feat. Assia Keva)",
+        "url": "https://open.spotify.com/album/5zT1ZfIceq8hRmQBy6mxvW"
+      },
+      "artists": [
+        {
+          "name": "Ankadiov",
+          "url": "https://open.spotify.com/artist/2dCGSLwiJ8mBhGM9noHFYi"
+        },
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Fallin\u2019 (feat. Assia Keva)",
+      "url": "https://open.spotify.com/track/1NaC5MbdtiGR3ot2EDHF6v"
     },
     {
       "album": {
@@ -4638,7 +4718,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179534,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt"
@@ -5312,6 +5392,24 @@
       "duration_ms": 200231,
       "name": "Great Things",
       "url": "https://open.spotify.com/track/5ROfDn4KzIvbXdRj8BTGB8"
+    },
+    {
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "album": {
@@ -6325,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "I Needed Love",
+        "url": "https://open.spotify.com/album/2dRv6Td46H1zI1ku9yIgyT"
+      },
+      "artists": [
+        {
+          "name": "Imelda Lizal",
+          "url": "https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240631,
+      "name": "I Needed Love",
+      "url": "https://open.spotify.com/track/1MPUuUI5bRntoFQFnsmiLV"
+    },
+    {
+      "album": {
         "name": "i wanna be with you",
         "url": "https://open.spotify.com/album/2IsobQl3rf7bfea3v48mRF"
       },
@@ -6390,7 +6506,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221642,
       "name": "i'll be blue",
       "url": "https://open.spotify.com/track/6nAFCPM6BBa7vYNQ7OjfpD"
@@ -7982,7 +8098,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203093,
       "name": "Love Like VIP",
       "url": "https://open.spotify.com/track/61Yd0DgGLhgpUiQFjuXcUY"
@@ -8318,7 +8434,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158709,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/2KwzKxI2WfH4zL5nRTO2Vq"
@@ -9100,7 +9216,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
@@ -9598,7 +9714,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134869,
       "name": "OASIS",
       "url": "https://open.spotify.com/track/2QaNtGCVCiOKLaT0XJip1B"
@@ -12296,7 +12412,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 110615,
       "name": "spotlight",
       "url": "https://open.spotify.com/track/1dwSX08pBY60ij4Bw2gEO3"
@@ -13533,6 +13649,24 @@
     },
     {
       "album": {
+        "name": "The Way You Love Me",
+        "url": "https://open.spotify.com/album/6bEMUpJcgxxaiidYf3dPqP"
+      },
+      "artists": [
+        {
+          "name": "Ralph Alvern",
+          "url": "https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/7bodgZYCivQxyYB2CFOj92"
+    },
+    {
+      "album": {
         "name": "The Way You Move",
         "url": "https://open.spotify.com/album/6dppoapvb182OdcmaTqaNc"
       },
@@ -14506,7 +14640,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
@@ -15090,7 +15224,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 213333,
       "name": "When I\u2019m With U",
       "url": "https://open.spotify.com/track/3j76odVLP6pZrAA62VtXIy"
@@ -15682,7 +15816,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177297,
       "name": "YOUR LAST",
       "url": "https://open.spotify.com/track/5J5BSFpK1zrGBvWGmeg6OH"

@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´ Lokura.
 
-457 songs - 1 day 4 hr 41 min
+458 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 | 2021-12-24 |  |
 | [Dejame Estar En Su Lugar](https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dejame Estar En Su Lugar](https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT) | 3:14 | 2022-09-23 | 2022-12-01 |
 | [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 | 2024-03-08 |  |
+| [Desaparécete \- En Vivo](https://open.spotify.com/track/27rBYiURwGcZb3v1bFsmlT) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Desaparécete \(En Vivo\)](https://open.spotify.com/album/7fIrnJJxm9bYJgUoakXdqG) | 3:27 | 2024-07-19 |  |
 | [Desordenada](https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ahora](https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G) | 3:24 | 2021-12-24 | 2022-07-28 |
 | [Despacio](https://open.spotify.com/track/6YzNwxDMTOa98d8Leb7lOx) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Despacio](https://open.spotify.com/album/5VP2UhFpMWXYgPt6h0XoRx) | 3:06 | 2024-05-31 |  |
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Despechada \(Cover\) \[En Vivo\]](https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl) | 2:52 | 2023-01-18 |  |
@@ -421,7 +422,7 @@
 | [Tu Amor Me Duele / No Me Enseñaste](https://open.spotify.com/track/208zS5Knk6wFNxUiS5x2B7) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Gaston Fernandez](https://open.spotify.com/artist/6seOsZm5363Dh8LM0anuvG) | [Tu Amor Me Duele / No Me Enseñaste](https://open.spotify.com/album/4W7bpvQsWp76QyiqCiOLBe) | 4:44 | 2022-03-18 | 2022-07-06 |
 | [Tu Cárcel](https://open.spotify.com/track/0CJBpoz2Jno5oQA4MYnE3G) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Bilogía](https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ) | [Tu Cárcel](https://open.spotify.com/album/6GtW9B15gqXainTxPoNfLX) | 3:00 | 2022-11-04 | 2022-11-12 |
 | [Tu Dueño / Dueña de Mi \- En Vivo](https://open.spotify.com/track/48DtHWtaW9A9cGZhOm4r1i) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Tu Dueño / Dueña de Mi \(En Vivo\)](https://open.spotify.com/album/0RoMJ4TaytcrBB59BAgM1P) | 4:49 | 2022-05-13 | 2022-05-21 |
-| [Tu Fan \- En Vivo](https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Tu Fan \(En Vivo\)](https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q) | 4:08 | 2024-01-05 |  |
+| [Tu Fan \- En Vivo](https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Tu Fan \(En Vivo\)](https://open.spotify.com/album/2wR8V9CWLyvCMTbcs9gV8Q) | 4:08 | 2024-01-05 | 2024-07-19 |
 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 | 2024-05-17 |  |
 | [Tu Karma](https://open.spotify.com/track/6t7GoWo3XfYZxDqiOfqtPk) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Tu Karma](https://open.spotify.com/album/3psyJOjV7Gzsh4qejhN6Kv) | 3:52 | 2022-01-14 | 2022-07-24 |
 | [Tu maldito amor](https://open.spotify.com/track/1AtIb5oZBXHLKzyoM6POtc) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:27 | 2022-01-07 | 2022-07-14 |

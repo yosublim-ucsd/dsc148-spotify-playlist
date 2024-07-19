@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: juan karlos",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Over October",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190819,
       "name": "7:07 (Hay Buhay)",
       "url": "https://open.spotify.com/track/5KesauCcOmAPJNUBPB3I3y"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 285489,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Basta\u2019t Alam Kong Tayo 1",
+        "url": "https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz"
+      },
+      "artists": [
+        {
+          "name": "Inigo Pascual",
+          "url": "https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210655,
+      "name": "Basta\u2019t Alam Kong Tayo 1",
+      "url": "https://open.spotify.com/track/0hPVLqHAf88ncx4qF5bo9S"
+    },
+    {
+      "album": {
         "name": "Believing in Magic (Yakap Mo)",
         "url": "https://open.spotify.com/album/1Pz3Matosr3B72myICukGB"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236026,
       "name": "Comets",
       "url": "https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S"
@@ -388,6 +406,24 @@
       "duration_ms": 208283,
       "name": "edsa",
       "url": "https://open.spotify.com/track/64p2tRd4zsBsJUucEnfWrX"
+    },
+    {
+      "album": {
+        "name": "EL CHAPO",
+        "url": "https://open.spotify.com/album/5UTVGVCRmc1DU24M5Fu93Q"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "EL CHAPO",
+      "url": "https://open.spotify.com/track/2DbrW7nxlnFEPTPB1rEsbr"
     },
     {
       "album": {
@@ -558,7 +594,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
@@ -619,6 +655,42 @@
     },
     {
       "album": {
+        "name": "Kaakit-akit",
+        "url": "https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246522,
+      "name": "Kaakit-akit",
+      "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
+    },
+    {
+      "album": {
+        "name": "kaibigan",
+        "url": "https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy"
+      },
+      "artists": [
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206584,
+      "name": "kaibigan",
+      "url": "https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma"
+    },
+    {
+      "album": {
         "name": "Karera",
         "url": "https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R"
       },
@@ -630,7 +702,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 268474,
       "name": "Karera",
       "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
@@ -774,7 +846,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 320538,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm"
@@ -828,10 +900,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 198103,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/34l48eopIEbS9l475GAFDy"
+    },
+    {
+      "album": {
+        "name": "Mahal Na Yata Kita",
+        "url": "https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj"
+      },
+      "artists": [
+        {
+          "name": "Noah Raquel",
+          "url": "https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187433,
+      "name": "Mahal Na Yata Kita",
+      "url": "https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ"
     },
     {
       "album": {
@@ -908,7 +998,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 251688,
       "name": "Maria Clara",
       "url": "https://open.spotify.com/track/4WSs8HHZQgzz6eGEVvi3wW"
@@ -1028,7 +1118,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250445,
       "name": "Namimiss Ko Na",
       "url": "https://open.spotify.com/track/18wFxL02Zh3pqf3kFa1Dov"
@@ -1072,6 +1162,24 @@
       "duration_ms": 147916,
       "name": "Napagod Na",
       "url": "https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4"
+    },
+    {
+      "album": {
+        "name": "Nilalang",
+        "url": "https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209464,
+      "name": "Nilalang",
+      "url": "https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq"
     },
     {
       "album": {
@@ -1169,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "panalangin",
+        "url": "https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj"
+      },
+      "artists": [
+        {
+          "name": "syd hartha",
+          "url": "https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162050,
+      "name": "panalangin",
+      "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
+    },
+    {
+      "album": {
         "name": "PAPALAYO",
         "url": "https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii"
       },
@@ -1180,10 +1306,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 240000,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
+    },
+    {
+      "album": {
+        "name": "pati ng ulan",
+        "url": "https://open.spotify.com/album/338bWmo7P3asnye9ba4D7I"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161327,
+      "name": "pati ng ulan",
+      "url": "https://open.spotify.com/track/7xDxh11hPnoyFeQ8BMCS60"
     },
     {
       "album": {
@@ -1202,7 +1346,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 231034,
       "name": "Paumanhin",
       "url": "https://open.spotify.com/track/3tSRjmIZdw0d8S36aJDsEu"
@@ -1444,7 +1588,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 284827,
       "name": "Segundo, Siguro",
       "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
@@ -1640,7 +1784,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 240400,
       "name": "surreal",
       "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
@@ -1799,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "wanted you",
+        "url": "https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW"
+      },
+      "artists": [
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "wanted you",
+      "url": "https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi"
+    },
+    {
+      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/4oCuzncGTimPrUv61BsXXN"
       },
@@ -1850,7 +2012,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212943,
       "name": "Yoko Na",
       "url": "https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC"

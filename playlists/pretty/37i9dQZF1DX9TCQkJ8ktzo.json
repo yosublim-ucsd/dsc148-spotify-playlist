@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 38940,
+  "num_followers": 38974,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
-        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
-      },
-      "artists": [
-        {
-          "name": "Juan Mendoza",
-          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Cre\u00ed",
-      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Rock Con los Locos del Ritmo",
         "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
@@ -483,8 +467,24 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Para Mi Siempre Amor...",
-        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
+        "name": "Antolog\u00eda...Juan Mendoza \"El Tariacuri\"",
+        "url": "https://open.spotify.com/album/35NddtPxG0K0ntkKfbpG4U"
+      },
+      "artists": [
+        {
+          "name": "Juan Mendoza",
+          "url": "https://open.spotify.com/artist/6RpoeATtNEqaL97bJ4SB9S"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Cre\u00ed",
+      "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 115853,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
+      "duration_ms": 128666,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -643,8 +643,8 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+        "name": "Para Mi Siempre Amor...",
+        "url": "https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
         }
       ],
-      "duration_ms": 128666,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp"
+      "duration_ms": 115853,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf"
     },
     {
       "added_at": "2024-04-25 04:43:45",

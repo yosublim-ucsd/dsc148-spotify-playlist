@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232876,
       "name": "\u3060\u3089\u3051\u3002",
       "url": "https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H"
@@ -10357,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "\u516d\u7b49\u661f",
+        "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3089\u3081",
+          "url": "https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254280,
+      "name": "\u516d\u7b49\u661f",
+      "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
+    },
+    {
+      "album": {
         "name": "\u51f8\u51f9",
         "url": "https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn"
       },
@@ -12289,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245019,
+      "name": "\u7d2b\u82d1\u306e\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc"
+    },
+    {
+      "album": {
         "name": "\u7d42\u7109\u306eDestiny",
         "url": "https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv"
       },
@@ -12758,7 +12794,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195704,
       "name": "\u904b\u547d\u306e\u83ef",
       "url": "https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm"

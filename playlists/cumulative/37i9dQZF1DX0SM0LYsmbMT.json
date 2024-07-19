@@ -34339,6 +34339,32 @@
     },
     {
       "album": {
+        "name": "Ipanema Beach",
+        "url": "https://open.spotify.com/album/7xDqoaEzlHS76tSHT6xu8l"
+      },
+      "artists": [
+        {
+          "name": "Alto",
+          "url": "https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r"
+        },
+        {
+          "name": "Abricot",
+          "url": "https://open.spotify.com/artist/3g1NWK6jzmo2TqQe019RGC"
+        },
+        {
+          "name": "Two Scents",
+          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
+        }
+      ],
+      "date_added": "2024-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "Ipanema Beach",
+      "url": "https://open.spotify.com/track/7JI0fIBufAbf5TDK6rHa7E"
+    },
+    {
+      "album": {
         "name": "Is That U",
         "url": "https://open.spotify.com/album/1mXOy4NLoDEFpXixwHRpv8"
       },
@@ -53376,7 +53402,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 113962,
       "name": "Otters",
       "url": "https://open.spotify.com/track/3wXlfGmKCqG30LxBj0zERw"

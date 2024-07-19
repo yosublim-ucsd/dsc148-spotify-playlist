@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: 2Fr\u00e8res",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: William Cloutier",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220375,
       "name": "Dans les marguerites",
       "url": "https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm"
@@ -314,6 +314,24 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l"
+    },
+    {
+      "album": {
+        "name": "Deux jours et deux nuits",
+        "url": "https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "Deux jours et deux nuits",
+      "url": "https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8"
     },
     {
       "album": {
@@ -364,7 +382,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 133721,
       "name": "I Lost My Baby",
       "url": "https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw"
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Rien ne m'\u00e9tonne",
+        "url": "https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv"
+      },
+      "artists": [
+        {
+          "name": "Clodelle",
+          "url": "https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153119,
+      "name": "Rien ne m'\u00e9tonne",
+      "url": "https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM"
+    },
+    {
+      "album": {
         "name": "R\u00e9pondre aux oiseaux",
         "url": "https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq"
       },
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200160,
       "name": "R\u00e9volution (la chanson) - Radio \u00c9dith",
       "url": "https://open.spotify.com/track/3JrKcfyiLV9gt4RuOCzNuG"
@@ -1214,6 +1250,24 @@
       "duration_ms": 163373,
       "name": "T'aimer est une gal\u00e8re",
       "url": "https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg"
+    },
+    {
+      "album": {
+        "name": "Ta bouche",
+        "url": "https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE"
+      },
+      "artists": [
+        {
+          "name": "William Cloutier",
+          "url": "https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Ta bouche",
+      "url": "https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY"
     },
     {
       "album": {

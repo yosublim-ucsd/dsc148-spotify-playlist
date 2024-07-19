@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 98 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 53 | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/track/4PNuUWj7DOnkz6VvegoOjG) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/album/7phKRhiBZZzaif1y1ldZEb) | 2:59 |
 | 54 | [You Should Be Alone](https://open.spotify.com/track/3a3TUhKJCOfmyjdaynC1t2) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [You Should Be Alone](https://open.spotify.com/album/3VyyCtbAOTppTYySZ9TvVD) | 3:38 |
 | 55 | [Never Let You Go](https://open.spotify.com/track/195rIaxn3j8SysVOs2UaOJ) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Never Let You Go](https://open.spotify.com/album/7aGJUHI9MDCEabog2n4B3O) | 2:54 |
-| 56 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
-| 57 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 |
+| 56 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 |
+| 57 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 58 | [Last One On My Mind](https://open.spotify.com/track/49X0xXnEaD4QogX7wevj5s) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:44 |
 | 59 | [Origami](https://open.spotify.com/track/3ptUPCHJcd54Yd57BH4pnX) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Origami](https://open.spotify.com/album/6h7sxgwYeFRWodzvuFd5T4) | 3:19 |
 | 60 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 |
@@ -103,9 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 93 | [God Only Knows](https://open.spotify.com/track/0LVE8AE8ZsVxvwVoFIch9D) | [Tvilling](https://open.spotify.com/artist/2AX5R5SIikV7NGMOZupAGm), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6oClhRDiDoUEfrmVfYCIMr) | 3:24 |
 | 94 | [Who You Travel With](https://open.spotify.com/track/5GKarKZIWcOFKKwJVcOADW) | [Blessing Annatoria](https://open.spotify.com/artist/7sOvnyvSZRdtT0hmJeR9QI) | [Count My Blessings](https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW) | 3:06 |
 | 95 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
-| 96 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
-| 97 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
-| 98 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
-| 99 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 96 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
+| 97 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
+| 98 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AbW9zAAAAAAbLgX8ermfc6cmvqmAOMx0`
+Snapshot ID: `AbXFEgAAAADh+JnROyioKOuC/X0POsb7`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Dasha",
+  "description": "The cream of today's Country crop. Cover: Jelly Roll",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154564,
       "name": "Country Music Never Made More Sense",
       "url": "https://open.spotify.com/track/4XBwvFgIb6BkuSDwYHzLpg"
@@ -2766,6 +2766,24 @@
       "duration_ms": 171667,
       "name": "Date Night (feat. Morgan Evans)",
       "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
+    },
+    {
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "Dead End Road",
+      "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
     },
     {
       "album": {
@@ -5716,7 +5734,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
@@ -6499,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "Breakup Over Breakfast",
+        "url": "https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "lose you again (feat. parmalee)",
+      "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
+    },
+    {
+      "album": {
         "name": "Lost If I Lost You",
         "url": "https://open.spotify.com/album/0y2xrykKdjqmotsShtB2mK"
       },
@@ -7120,6 +7160,24 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "album": {
+        "name": "More Than A Prayer",
+        "url": "https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164089,
+      "name": "More Than A Prayer",
+      "url": "https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo"
     },
     {
       "album": {
@@ -10465,6 +10523,24 @@
     },
     {
       "album": {
+        "name": "Stronger Than A Storm (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/29IIvMP2N6HPMEkYhFOJG4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Stronger Than A Storm (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/4ECXedCLzhRLZf37ldypkW"
+    },
+    {
+      "album": {
         "name": "Stubborn Pride",
         "url": "https://open.spotify.com/album/1aTYKaVzN0q2tPHiYfkhTj"
       },
@@ -11456,7 +11532,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150507,
       "name": "Too Easy (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/5DWplsLK5juocMo4PBX826"
@@ -12794,7 +12870,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178196,
       "name": "Wranglers",
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"

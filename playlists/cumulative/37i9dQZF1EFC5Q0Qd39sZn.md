@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-598 songs - 1 day 17 hr 28 min
+599 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Baby Be There](https://open.spotify.com/track/1K9cAcnZ55oIaIsVQMXsAH) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Time](https://open.spotify.com/album/3dlQhSbEXPzDKCr3jPsT0Q) | 3:49 | 2023-12-30 |  |
 | [Baby I Would](https://open.spotify.com/track/3E7J648DbnDGSPe0Hjfy7L) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:54 | 2023-12-30 |  |
 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 | 2023-12-30 |  |
+| [Be What You Believe](https://open.spotify.com/track/6CdJYex2CvK70h0xvO2pUc) | [Atom](https://open.spotify.com/artist/6ouXEmrFaAFtn4yuey2FZP) | [Famous!!](https://open.spotify.com/album/29Z94JolxoEI6tDEs6hdFA) | 3:40 | 2024-07-18 |  |
 | [Beautiful Scars](https://open.spotify.com/track/7CfuPcDp1GOD0ese4iqgcc) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Beautiful Scars](https://open.spotify.com/album/21qiIj7aQ95s6reuoorKZw) | 3:24 | 2023-12-30 |  |
 | [Because You Loved Me \(Theme from "Up Close and Personal"\)](https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:33 | 2023-12-30 |  |
 | [Bed of Nails](https://open.spotify.com/track/0TUAVtHG24HhzxKhlMMqPV) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Bed of Nails \(Video\)](https://open.spotify.com/album/4hM0ypxI8WBsmWV3iOB0uM) | 4:18 | 2024-01-01 | 2024-02-02 |

@@ -2,9 +2,9 @@
 
 ### [ung, dum & lovende](https://open.spotify.com/playlist/37i9dQZF1DXb0iJOO12OY8)
 
-> 🥲🥊
+> 😵‍💫
 
-55 songs - 2 hr 40 min
+57 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 |  |
 | [Bonanza \(feat\. Greekazo\)](https://open.spotify.com/track/2Oum9Ze9GhdDUiMaa7FLZ3) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Roc Boyz, Vol\. 3](https://open.spotify.com/album/4hFby8Laxy4VLwG888kx9g) | 2:18 | 2024-06-27 |  |
-| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 |  |
+| [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 | 2024-06-27 | 2024-07-19 |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-06-27 |  |
 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 | 2024-06-27 | 2024-07-06 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 |  |
@@ -31,6 +31,7 @@
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2024-06-27 | 2024-07-15 |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-06-27 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 |  |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-18 |  |
 | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 | 2024-06-27 |  |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2024-06-27 |  |
@@ -47,7 +48,7 @@
 | [Sommerkveld](https://open.spotify.com/track/1OFK0wpcRZRwzUWcavILuP) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Sommerkveld](https://open.spotify.com/album/4oPECM7pXcS0mxDTs2E70w) | 2:12 | 2024-06-27 |  |
 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 | 2024-06-27 |  |
 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 | 2024-06-27 |  |
-| [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-06-27 |  |
+| [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-06-27 | 2024-07-19 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-06-27 |  |
 | [Sølvskje](https://open.spotify.com/track/6XuknnhHp56njzcXXnHuJg) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Sølvskje](https://open.spotify.com/album/6Wz4lDw5OdxQ34eeGrCVKW) | 2:17 | 2024-06-27 |  |
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 |  |
@@ -62,6 +63,7 @@
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 |  |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 |  |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 |  |
+| [Where Are You Tonight?](https://open.spotify.com/track/4GvuKq0Qe0sTcNI0u09IFJ) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Where Are You Tonight?](https://open.spotify.com/album/5b06H5SDEaHsmOmKByPgv9) | 4:03 | 2024-07-18 |  |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -614,7 +614,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197538,
       "name": "HIGHLY INSULTED",
       "url": "https://open.spotify.com/track/76wgL5yfNiX3tpwLofH4rt"
@@ -5720,7 +5720,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 101123,
       "name": "SQUIRT GAME",
       "url": "https://open.spotify.com/track/4UflB04HcRGHhKCr8fW3G4"
@@ -7245,6 +7245,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u043e\u0442 \u043e\u043d\u0430 \u044f",
+        "url": "https://open.spotify.com/album/4EfvpRc4MGdAVyASh6aD6U"
+      },
+      "artists": [
+        {
+          "name": "Olga Buzova",
+          "url": "https://open.spotify.com/artist/6D0uq3URoqvg5EcTzEsNUa"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194027,
+      "name": "\u0411\u0435\u0437 \u0434\u0435\u043b",
+      "url": "https://open.spotify.com/track/5nSppQsPog2Ue67dqaoqPi"
+    },
+    {
+      "album": {
         "name": "\u0422\u0430\u043d\u0446\u044b \u0431\u0435\u0437 \u0442\u0435\u0431\u044f",
         "url": "https://open.spotify.com/album/27TxL3cJ8EDxUSiYMl1IF1"
       },
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
@@ -11156,7 +11174,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 230117,
       "name": "\u0426\u0430\u0440\u0435\u0432\u043d\u0430 \u043d\u0435\u0441\u043c\u0435\u044f\u043d\u0430",
       "url": "https://open.spotify.com/track/7HS32Ub9a1hrx7cDYC73Yr"

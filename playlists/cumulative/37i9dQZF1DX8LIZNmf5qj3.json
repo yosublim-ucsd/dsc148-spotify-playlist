@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Tems",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : RIMON",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "City's Burning",
+        "url": "https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254737,
+      "name": "City's Burning",
+      "url": "https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6"
+    },
+    {
+      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250459,
       "name": "F**k The Rap Game",
       "url": "https://open.spotify.com/track/5qZ6ni14zTVPlnuQ2iSeLE"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208896,
       "name": "Fade (feat. KIRBY)",
       "url": "https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU"
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 149966,
       "name": "Hurts Me To Know",
       "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
@@ -4130,6 +4148,24 @@
       "duration_ms": 201464,
       "name": "MUSTARD (WITH 6LACK)",
       "url": "https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX"
+    },
+    {
+      "album": {
+        "name": "My Man",
+        "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127802,
+      "name": "My Man",
+      "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
     },
     {
       "album": {
@@ -6080,6 +6116,24 @@
       "duration_ms": 185142,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228896,
+      "name": "Steps Beach",
+      "url": "https://open.spotify.com/track/4lovbNtAeIxtXWy9bwEsQk"
     },
     {
       "album": {

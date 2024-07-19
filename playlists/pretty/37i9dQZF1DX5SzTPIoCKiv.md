@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,141 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,274 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 53 | [I'm Listening \- Radio Version](https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Fill This Place \(Live\)](https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7) | 4:08 |
 | 54 | [Come What May](https://open.spotify.com/track/5zpuYdCR4Tmm7zv6wYgqMK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Come What May](https://open.spotify.com/album/3skjNvlGvAQwauNzv217yy) | 3:21 |
 | 55 | [Dream Small](https://open.spotify.com/track/3tIosTCaD7OxaqMmNMqK39) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Dream Small](https://open.spotify.com/album/1tlLIwnTUvgQmc1qCR7Oxa) | 3:26 |
-| 56 | [Rise Up](https://open.spotify.com/track/1ChWLfZppNHE101YA0QFgT) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Rise Up](https://open.spotify.com/album/2nMSJZPh1zhYl4nQqAV6Kz) | 3:32 |
-| 57 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
+| 56 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
+| 57 | [Rise Up](https://open.spotify.com/track/1ChWLfZppNHE101YA0QFgT) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Rise Up](https://open.spotify.com/album/2nMSJZPh1zhYl4nQqAV6Kz) | 3:32 |
 | 58 | [Gracefully Broken](https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:50 |
 | 59 | [Believer](https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Believer](https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O) | 3:22 |
 | 60 | [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 |

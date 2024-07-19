@@ -1,75 +1,15 @@
 {
   "description": "Up and down I-95. Cover: Sheff G",
-  "num_followers": 452482,
+  "num_followers": 452525,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpbGEgAAAADhBqjvn2plgNPuc0slyrIP",
+  "snapshot_id": "ZpnkwAAAAACHU03fIu7F0tH4by9R6ss5",
   "tracks": [
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Yes Freestyle (feat. Sheff G)",
-        "url": "https://open.spotify.com/album/0S4LOOa2enVHI6ExvmrHHu"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 111311,
-      "name": "Yes Freestyle (feat. Sheff G)",
-      "url": "https://open.spotify.com/track/0qGH4Nwcv39LR70Bi5mYYM"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1"
-      },
-      "artists": [
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        }
-      ],
-      "duration_ms": 122841,
-      "name": "Trick",
-      "url": "https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
@@ -97,7 +37,27 @@
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/5C9QBRFVfenix80twC2bj1"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "duration_ms": 122841,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Everything Lit",
         "url": "https://open.spotify.com/album/5XL0ne5zAAok8w8A4mZ9Cx"
@@ -113,7 +73,43 @@
       "url": "https://open.spotify.com/track/3ECYmjiIOeCCXrpSkVj8ff"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Yes Freestyle (feat. Sheff G)",
+        "url": "https://open.spotify.com/album/0S4LOOa2enVHI6ExvmrHHu"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 111311,
+      "name": "Yes Freestyle (feat. Sheff G)",
+      "url": "https://open.spotify.com/track/0qGH4Nwcv39LR70Bi5mYYM"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Winners In Paris",
+        "url": "https://open.spotify.com/album/2w1rxUz4TahbzuOcBLN4uS"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 168191,
+      "name": "Winners In Paris",
+      "url": "https://open.spotify.com/track/7a4W4aqGWmEB8OGAixlVJq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "5AM IN PHILLY",
         "url": "https://open.spotify.com/album/7reihBEibaW7B0rhyjhgav"
@@ -129,23 +125,7 @@
       "url": "https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Good Girls Ain't No Fun",
-        "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 142911,
-      "name": "Good Girls Ain't No Fun",
-      "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Rump Punch",
         "url": "https://open.spotify.com/album/4dxDvhYIhzXFbZvqa3AOnY"
@@ -161,7 +141,7 @@
       "url": "https://open.spotify.com/track/1BUXWxvXDDaVWkXwtcfpcX"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "porno story",
         "url": "https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3"
@@ -177,7 +157,7 @@
       "url": "https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "finsta / bia",
         "url": "https://open.spotify.com/album/38qPytt8dq096j0s9M6l7Q"
@@ -193,7 +173,7 @@
       "url": "https://open.spotify.com/track/6NTMbHwbNGst9dlSIMTL9J"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
@@ -213,7 +193,7 @@
       "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "UKRAINE",
         "url": "https://open.spotify.com/album/4EzS3KcSeRTnbBJqcTakh6"
@@ -237,23 +217,7 @@
       "url": "https://open.spotify.com/track/1ZAUJfeyXVwmcqu5qX7A0e"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Winners In Paris",
-        "url": "https://open.spotify.com/album/2w1rxUz4TahbzuOcBLN4uS"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 168191,
-      "name": "Winners In Paris",
-      "url": "https://open.spotify.com/track/7a4W4aqGWmEB8OGAixlVJq"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "cake / don't be dishonest",
         "url": "https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ"
@@ -269,7 +233,27 @@
       "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Did It First (with Central Cee)",
+        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 118002,
+      "name": "Did It First (with Central Cee)",
+      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "SEXC SUMMER",
         "url": "https://open.spotify.com/album/6v4L8ebFkzj3fWv4QP9hTM"
@@ -285,7 +269,23 @@
       "url": "https://open.spotify.com/track/0xklkDv1z8T1lxVUXo4leG"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Good Girls Ain't No Fun",
+        "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 142911,
+      "name": "Good Girls Ain't No Fun",
+      "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Get Deady (feat. 41)",
         "url": "https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Cupid's Guidance",
         "url": "https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Fisherrr (Remix)",
         "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Worldwide Sniper",
         "url": "https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT"
@@ -373,7 +373,71 @@
       "url": "https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Summer '24",
+        "url": "https://open.spotify.com/album/14VN7Zo3e0i4jwNO2pDaIM"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        }
+      ],
+      "duration_ms": 118700,
+      "name": "Summer '24",
+      "url": "https://open.spotify.com/track/1aMUl8tkDCHl4dWIIGo1tR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Friendly",
+        "url": "https://open.spotify.com/album/1DyMr2lzHwRu3n9Z6CILeK"
+      },
+      "artists": [
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 159903,
+      "name": "Friendly",
+      "url": "https://open.spotify.com/track/24rugivInJ0ZVcMHsyl8CN"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "SMOKE & MIRRORS",
+        "url": "https://open.spotify.com/album/40Ilz3ncBAQlbTHNJk7kP6"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        },
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "ANTEBELLUM (feat. Che Noir)",
+      "url": "https://open.spotify.com/track/5KRTpq2FNdnhOUyvUNdUJB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Told Ya",
         "url": "https://open.spotify.com/album/6sPmFdZn1p92RnXJYamKtz"
@@ -389,7 +453,7 @@
       "url": "https://open.spotify.com/track/315z94HWFxprz0cqLv8oiD"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Miss You Tonight",
         "url": "https://open.spotify.com/album/5rOxiopZOrydIN41APtCSA"
@@ -405,7 +469,23 @@
       "url": "https://open.spotify.com/track/7emVgZlACM7vgsfTgca3In"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Treat U Better",
+        "url": "https://open.spotify.com/album/0nItyvz6r5bYCLDGpq238U"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        }
+      ],
+      "duration_ms": 137150,
+      "name": "Treat U Better",
+      "url": "https://open.spotify.com/track/16UnzCaCh43Nixbfiv4ZPb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "HVN ON EARTH",
         "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
@@ -425,7 +505,7 @@
       "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "jersey luv",
         "url": "https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Boy Meets World",
         "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
@@ -465,7 +545,7 @@
       "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Red Moon",
         "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "On You",
         "url": "https://open.spotify.com/album/0yrgidyI4lTZGvA6JA9tww"
@@ -501,23 +581,7 @@
       "url": "https://open.spotify.com/track/7bk2AkYdSKrtnzq7OTgdB6"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Here 2 Stay",
-        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 145606,
-      "name": "40s N 9s",
-      "url": "https://open.spotify.com/track/6icXDa9jG9metPsIJOZshJ"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
@@ -533,7 +597,7 @@
       "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Wildlife (feat. Sleepy Hallow)",
         "url": "https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f"
@@ -553,7 +617,7 @@
       "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Hate The Real",
         "url": "https://open.spotify.com/album/1siHdZPVsaanNBgk0E6Efe"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/5ftWjOByjaSeEXbiiAUU5U"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/2bj3i9pQ0ZkmI1mGSwskt4"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/3aaS6yVkS9JPZMu4aXNxnx"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "HEATHENISM",
         "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
@@ -609,7 +673,7 @@
       "url": "https://open.spotify.com/track/6BqnF9KSPIgLqO4EG9erJr"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Tweakin",
         "url": "https://open.spotify.com/album/3qFgq8N7K0wdOCakbgEjit"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/66F2YDTvXpEORKPb0CNxKV"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Leaks, Vol. 2",
         "url": "https://open.spotify.com/album/5tjgVpWhBlqgF9VfX94Bld"
@@ -641,7 +705,7 @@
       "url": "https://open.spotify.com/track/0b72YUbtczdBna3ozyfG0W"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "No \u00d8 Zone (feat. VonOff1700)",
         "url": "https://open.spotify.com/album/0ZoPCgMfRyoNpiL3vgVCu3"
@@ -661,7 +725,7 @@
       "url": "https://open.spotify.com/track/1dShewvlJ7mlMzTBuhd1uQ"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "I LIKE TO PARTY",
         "url": "https://open.spotify.com/album/4wYaKT1uFbNEJLuHbrjjjB"
@@ -693,7 +757,7 @@
       "url": "https://open.spotify.com/track/2okQx65AOJkPYUe0GOdc1o"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "On Lock",
         "url": "https://open.spotify.com/album/7qW1pB3ePK1R2QPuYIatov"
@@ -709,7 +773,7 @@
       "url": "https://open.spotify.com/track/3tuAivyXRWOKC1UVKwDQ21"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Big Dog",
         "url": "https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM"
@@ -729,7 +793,7 @@
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "TiFFANY",
         "url": "https://open.spotify.com/album/02xePX5V2OJTHmGjzHlFMk"
@@ -749,7 +813,7 @@
       "url": "https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
@@ -777,7 +841,7 @@
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "LWRW",
         "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
@@ -793,7 +857,7 @@
       "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "B4 BOA",
         "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
@@ -809,23 +873,7 @@
       "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "Treat U Better",
-        "url": "https://open.spotify.com/album/0nItyvz6r5bYCLDGpq238U"
-      },
-      "artists": [
-        {
-          "name": "Diany Dior",
-          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
-        }
-      ],
-      "duration_ms": 137150,
-      "name": "Treat U Better",
-      "url": "https://open.spotify.com/track/16UnzCaCh43Nixbfiv4ZPb"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Dunk Contest",
         "url": "https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF"
@@ -841,23 +889,7 @@
       "url": "https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "MADONNA & RIHANNA",
-        "url": "https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 122482,
-      "name": "MADONNA & RIHANNA",
-      "url": "https://open.spotify.com/track/704qSGogleVeb46KLsMl2e"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Baby Wait (feat. SugarHill Ddot)",
         "url": "https://open.spotify.com/album/1oKLEqv46j1DWOHQ1UMpbd"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "No Statements",
         "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "No No",
         "url": "https://open.spotify.com/album/2OJcp2ilgDPBsAHBpqSOvD"
@@ -909,23 +941,7 @@
       "url": "https://open.spotify.com/track/3WAk3eOkAkABauRJhcdMQm"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
-      "album": {
-        "name": "THE CALM",
-        "url": "https://open.spotify.com/album/4ne1I4y1mu1oFORtFYhVZD"
-      },
-      "artists": [
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "SLIDE ON ME",
-      "url": "https://open.spotify.com/track/6kvtSj5dcMhRERhyTghT2J"
-    },
-    {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Ride With You",
         "url": "https://open.spotify.com/album/1FWNVxWin3t5KlGgDRMUKo"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/0DLRcWD1pXuIW73qJ6jIQp"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Peerless",
         "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Blick (feat. NLE Choppa) [Remix]",
         "url": "https://open.spotify.com/album/4luQV28tZT0RsxoXgboGnc"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Favorite Lady (with NAV & Cash Cobain)",
         "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Dennis Daughter (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Freshman Grad.",
         "url": "https://open.spotify.com/album/44TpQtfROIJvYF4bwYxoPn"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6Rc3E6TDwyCZIVvIJsptbp"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Number 2 / Never Last",
         "url": "https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "We Only Talk About Real Shit When We're Fucked Up",
         "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf"
     },
     {
-      "added_at": "2024-07-16 19:12:18",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Frenzy",
         "url": "https://open.spotify.com/album/3fQBWEl9ZczvIT6Zrxec3A"

@@ -1901,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Desapar\u00e9cete (En Vivo)",
+        "url": "https://open.spotify.com/album/7fIrnJJxm9bYJgUoakXdqG"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207775,
+      "name": "Desapar\u00e9cete - En Vivo",
+      "url": "https://open.spotify.com/track/27rBYiURwGcZb3v1bFsmlT"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G"
       },
@@ -8074,7 +8096,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 248533,
       "name": "Tu Fan - En Vivo",
       "url": "https://open.spotify.com/track/5gK1drOCGaWBXpRQnH1kIW"

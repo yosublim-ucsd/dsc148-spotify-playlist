@@ -1,29 +1,13 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Kaitlin Butts",
-  "num_followers": 635323,
+  "num_followers": 635370,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAARRVuRwJzp534HPtE07wm2",
+  "snapshot_id": "ZpnkwAAAAADOVit7dK9plQn+vAPvDMXp",
   "tracks": [
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
-    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -47,6 +31,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Tequila or Whiskey",
         "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
       },
@@ -59,6 +59,38 @@
       "duration_ms": 133695,
       "name": "Tequila or Whiskey",
       "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Piranhanana",
+        "url": "https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 165237,
+      "name": "Piranhanana",
+      "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "Other Girls (Ain't Havin' Any Fun)",
+      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -79,22 +111,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lost in a Dream",
-        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Lewis",
-          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
-        }
-      ],
-      "duration_ms": 287058,
-      "name": "Hold The Door",
-      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Fast Asleep",
         "url": "https://open.spotify.com/album/7dWMAoJMvXjPhb1XsDYMiA"
       },
@@ -107,6 +123,22 @@
       "duration_ms": 272173,
       "name": "Fast Asleep",
       "url": "https://open.spotify.com/track/5s8DrAoxwPB846boyVOKHS"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "(Ghost) Riders In The Sky [From Twisters: The Album]",
+        "url": "https://open.spotify.com/album/4E51xayWaVYPpFiX89SSV2"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 207472,
+      "name": "(Ghost) Riders In The Sky [From Twisters: The Album]",
+      "url": "https://open.spotify.com/track/6FGe89mVKDOmq9D1F1UGeD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -125,20 +157,36 @@
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Roadrunner!",
-        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
+        "name": "Because You're Mine",
+        "url": "https://open.spotify.com/album/4MeSZSlrnh2ecczD6weke4"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
         }
       ],
-      "duration_ms": 253600,
-      "name": "Other Girls (Ain't Havin' Any Fun)",
-      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
+      "duration_ms": 191493,
+      "name": "Because You're Mine",
+      "url": "https://open.spotify.com/track/6opimF0XfWVW8VfSvLb7zk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Long Man",
+        "url": "https://open.spotify.com/album/4VNhnZYmuuks33js8d5Ggs"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 242582,
+      "name": "The Long Man",
+      "url": "https://open.spotify.com/track/51PoonkomVyPnwbxfBcWNJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -205,6 +253,22 @@
       "url": "https://open.spotify.com/track/39MSXVUs6QtsIlYz3000LO"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Everyone But You",
+        "url": "https://open.spotify.com/album/6L3nLBtCelt2STcaWoMu5l"
+      },
+      "artists": [
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "duration_ms": 220180,
+      "name": "Everyone But You",
+      "url": "https://open.spotify.com/track/3PS7zsYHyOrG050v9CK6xH"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Mood Swings",
@@ -219,6 +283,22 @@
       "duration_ms": 263933,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/0uKRoLqNIs76XJOgCqAc2c"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lost in a Dream",
+        "url": "https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Lewis",
+          "url": "https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw"
+        }
+      ],
+      "duration_ms": 287058,
+      "name": "Hold The Door",
+      "url": "https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2391,22 +2471,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "North Georgia Rounder",
-        "url": "https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U"
-      },
-      "artists": [
-        {
-          "name": "Pony Bradshaw",
-          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Go Down, Appalachia",
-      "url": "https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Stand in the Joy",
         "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
       },
@@ -2455,74 +2519,6 @@
       "duration_ms": 225026,
       "name": "Everything At Once (feat. Jeff Tweedy)",
       "url": "https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 223123,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Where the Long Line Leads",
-        "url": "https://open.spotify.com/album/14lpUo1KioAmaEksNyAyAC"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/11U64nYtfHfPXpKmy8O29c"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/1fqd0fwJ4X36pp58QLpegX"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 242261,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/3GFMyPDzQjo2jxDSuaHEhK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
     }
   ],
   "unique_name": "The Pulse of Americana",

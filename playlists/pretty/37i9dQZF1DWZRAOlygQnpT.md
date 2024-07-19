@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,753 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,818 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 10 | [Cuando Me Enamoro \(Quando Mi Inamoro\)](https://open.spotify.com/track/4tOpQs1UNniDYeVAc9Ck8u) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [RCA 100 Años De Musica](https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2) | 3:03 |
 | 11 | [Historia De Tommy](https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos](https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7) | 2:38 |
 | 12 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
-| 13 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
-| 14 | [Acapulco Rock](https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 1:56 |
+| 13 | [Acapulco Rock](https://open.spotify.com/track/6ERUMOAhYiLUj2eAl2rtah) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 1:56 |
+| 14 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 15 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 |
 | 16 | [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 |
 | 17 | [Anoche Me Enamoré](https://open.spotify.com/track/7zHQkpC5hy5VSPZwdz17ND) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:22 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 66 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 |
 | 67 | [Pan Con Mantequilla](https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 1:37 |
 | 68 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 |
-| 69 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
-| 70 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |
+| 69 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |
+| 70 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
 | 71 | [Aconséjame Mamá](https://open.spotify.com/track/1K1oIlMqoHG3B6eIGCe5Xm) | [Baby Batiz](https://open.spotify.com/artist/1ovGu4hf8b9yivHof9N997) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:33 |
 | 72 | [Mary Mary](https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:18 |
 | 73 | [Bájate De Mi Nube](https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI) | [Reo](https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:01 |

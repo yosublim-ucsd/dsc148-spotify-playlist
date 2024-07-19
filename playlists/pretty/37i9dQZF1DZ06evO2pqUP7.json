@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
-  "num_followers": 67173,
+  "description": "This is Lunay. The essential tracks, all in one playlist.",
+  "num_followers": 67186,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADk2TM8DCd5wG/Yj5LK7BIc",
+  "snapshot_id": "ZpcJgAAAAAC2zEG8109Rxl78jkfeGUVK",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Top Gone (with Lunay)",
+        "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Top Gone (with Lunay)",
+      "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relaciones",
         "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
       },
@@ -1199,58 +1219,6 @@
       "duration_ms": 169000,
       "name": "LE GUSTA QUE LA VEAN",
       "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Costear (Equipo Negro Remix)",
-        "url": "https://open.spotify.com/album/58GTCQ17sVh9kAB6PgAIFl"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "AMMUNATION",
-          "url": "https://open.spotify.com/artist/1UrscYQay7QLyK3HTws7xS"
-        }
-      ],
-      "duration_ms": 536506,
-      "name": "Costear - Equipo Negro Remix",
-      "url": "https://open.spotify.com/track/71mReylcyG7MfF1dqpVQEe"
     }
   ],
   "unique_name": "This Is Lunay",

@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover：Sammi 鄭秀文
+> 感受超級女聲力量。Cover：Cath黃妍
 
-331 songs - 20 hr 1 min
+335 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,8 @@
 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 | 2024-06-27 |  |
 | [Cozy☆200%!!!](https://open.spotify.com/track/5NpA58eSLlijU3ci21Q9LG) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Cozy☆200%!!!](https://open.spotify.com/album/010V4IWXK36TEldH81z78M) | 3:33 | 2024-06-27 |  |
 | [Crying in Bed \(feat\. 范曉萱\)](https://open.spotify.com/track/79jFaso7GwIbkTLhrd52rJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [Mavis Fan](https://open.spotify.com/artist/25rFapdPzsR0PEl8dFWL3I) | [Crying in Bed](https://open.spotify.com/album/1aB0WWgeiKLkBzcuTwBK85) | 3:21 | 2024-06-27 |  |
+| [CYA](https://open.spotify.com/track/4V6sgL7rpAQp0tErZ7x8QU) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq), [Windy 詹天文](https://open.spotify.com/artist/1mF0zgwvohTvauSu3K8My4), [Yumi 鍾柔美](https://open.spotify.com/artist/0s9Jv5Tyi7qmUEPZcWHigA) | [CYA](https://open.spotify.com/album/687ce4Txbb7ZhgKsZGeH41) | 3:36 | 2024-07-18 |  |
+| [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
 | [Diff.](https://open.spotify.com/track/7tHj56Fzxz6L5I1S6ZYidK) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Diff.](https://open.spotify.com/album/0ZUtqYz3DP2fm3oFBUUUUq) | 2:18 | 2024-06-27 |  |
 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:09 | 2024-06-27 |  |
 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 | 2024-06-27 |  |
@@ -82,6 +84,7 @@
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
 | [Nothing](https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [The Cloud](https://open.spotify.com/album/73AHz9Ih9eiRutHdvq1Zrr) | 3:21 | 2024-06-27 |  |
+| [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 | 2024-07-18 |  |
 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 | 2024-06-27 |  |
 | [Only For Me](https://open.spotify.com/track/32nbQpvBnCDtXv59qchVdX) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Only For Me](https://open.spotify.com/album/4FkPEW0c45VA6ANisI3Wod) | 3:30 | 2024-06-27 |  |
 | [Out of the blue](https://open.spotify.com/track/5fJ9reRZCwq1ezsi9w4CdF) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Out of the blue](https://open.spotify.com/album/1GOtkuxH60AYTFKN1ul97u) | 3:26 | 2024-06-27 |  |
@@ -166,6 +169,7 @@
 | [同歸於盡](https://open.spotify.com/track/3cPj0wn4oSgMW45sKHxP9H) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [同歸於盡](https://open.spotify.com/album/70ANapFR0MTh2VTIDCH9rl) | 4:17 | 2024-06-27 |  |
 | [吸引之力](https://open.spotify.com/track/4l9cckN8dKOeBBuaL28dFA) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [吸引之力](https://open.spotify.com/album/3rxgdggzUqoYA9zCmRtg3d) | 3:38 | 2024-06-27 |  |
 | [告別煤氣燈](https://open.spotify.com/track/7xKi5V6OhMwBz5KsBZZ3Tg) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [告別煤氣燈](https://open.spotify.com/album/5Y5fvA5iggOCDrietR4FAP) | 3:28 | 2024-06-27 |  |
+| [告白前先看天氣預報](https://open.spotify.com/track/1GAfR4IbqnlcPjPTEX9Dsj) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [告白前先看天氣預報](https://open.spotify.com/album/4Y0y0ILM5EqAwMvp7Fzx1Z) | 3:39 | 2024-07-18 |  |
 | [告訴我](https://open.spotify.com/track/5b1hpRooJQCl54vA4IdIHb) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [告訴我](https://open.spotify.com/album/6qc4jiRnIPC6ge4JzQHpLm) | 3:50 | 2024-06-27 |  |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2024-06-27 |  |
 | [哀傷的作者](https://open.spotify.com/track/70kyyZ3E9L2s6v7VRm2SKw) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [4891](https://open.spotify.com/album/4AUjutEcpzppUrcGgPWogs) | 3:31 | 2024-06-27 |  |

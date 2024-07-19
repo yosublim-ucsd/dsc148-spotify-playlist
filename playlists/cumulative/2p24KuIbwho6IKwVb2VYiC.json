@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0gqerJxaNmuiQAFMIcOpmp"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        },
+        {
+          "name": "Ethan Surman",
+          "url": "https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180569,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ILDUxascaZtpGRlaK8CRt"
+    },
+    {
+      "album": {
         "name": "AM:PM",
         "url": "https://open.spotify.com/album/6VddpmwRbN12eh98innuj7"
       },
@@ -1395,6 +1417,32 @@
     },
     {
       "album": {
+        "name": "Find Love Now",
+        "url": "https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Find Love Now",
+      "url": "https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
@@ -1558,6 +1606,28 @@
       "duration_ms": 198095,
       "name": "Free",
       "url": "https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl"
+    },
+    {
+      "album": {
+        "name": "Fria (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160483,
+      "name": "Fria - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     },
     {
       "album": {

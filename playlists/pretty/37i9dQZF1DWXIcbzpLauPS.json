@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover:Windwaker",
-  "num_followers": 930308,
+  "num_followers": 930361,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Keeping Secrets",
+        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "Keeping Secrets",
+      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Villain Arc",
         "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
@@ -651,18 +667,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Keeping Secrets",
-        "url": "https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO"
+        "name": "Forgive and Forget (feat. Fit For A King)",
+        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
       },
       "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
         {
           "name": "Fit For A King",
           "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 257798,
-      "name": "Keeping Secrets",
-      "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+      "duration_ms": 215057,
+      "name": "Forgive And Forget (feat. Fit For A King)",
+      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -715,26 +735,6 @@
       "duration_ms": 262537,
       "name": "RAINBOWS",
       "url": "https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Forgive and Forget (feat. Fit For A King)",
-        "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 215057,
-      "name": "Forgive And Forget (feat. Fit For A King)",
-      "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
+      "duration_ms": 219759,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Frvst",
         "url": "https://open.spotify.com/album/73fgc0bIk0N7jumKsQVwYY"
       },
@@ -1091,34 +1075,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Timebomb",
-        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY"
       },
       "artists": [
         {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 200097,
-      "name": "Timebomb",
-      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+      "duration_ms": 180000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1139,6 +1107,38 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Timebomb",
+        "url": "https://open.spotify.com/album/0po9VX0DN9hK4g79mwIGqY"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Timebomb",
+      "url": "https://open.spotify.com/track/56F1dvYo8uAF0pVjJOgZQV"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Abyss Pt I",
         "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 234932,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1207,38 +1191,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Welcome Party",
-        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
-      },
-      "artists": [
-        {
-          "name": "Greyhaven",
-          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "The Welcome Party",
-      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Remnant",
-        "url": "https://open.spotify.com/album/3CrsGme4artDy50pspu7W2"
-      },
-      "artists": [
-        {
-          "name": "Allt",
-          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "Remnant",
-      "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0kx1za1jusot7RDE1RdsKR"
       },
@@ -1267,6 +1219,54 @@
       "duration_ms": 193900,
       "name": "Don\u2019t Look Away",
       "url": "https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Remnant",
+        "url": "https://open.spotify.com/album/3CrsGme4artDy50pspu7W2"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "duration_ms": 245680,
+      "name": "Remnant",
+      "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2pnNHGrnVLgTHgr46uv0fB"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
       },
       "artists": [
         {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
         }
       ],
-      "duration_ms": 244254,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
+      "duration_ms": 304500,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ"
       },
       "artists": [
         {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
         }
       ],
-      "duration_ms": 304500,
-      "name": "Castle In The Sky",
-      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
+      "duration_ms": 244254,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Enter The Wall",
-        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 143946,
-      "name": "The Wall",
-      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mourning The Dawn",
         "url": "https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV"
       },
@@ -1435,6 +1419,42 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Enter The Wall",
+        "url": "https://open.spotify.com/album/7KLuUqhjYU088Q0Xt1WCfU"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/1WawIFyXJhxthsfFujjYez"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 234047,
       "name": "HEAVY RAIN",
       "url": "https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
-        "url": "https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        }
-      ],
-      "duration_ms": 221948,
-      "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
-      "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Crawl Backwards Out of Heaven",
         "url": "https://open.spotify.com/album/23e3BsmlALgWjiHwAPsJIw"
       },
@@ -1583,22 +1567,6 @@
       "duration_ms": 202933,
       "name": "Crawl Backwards Out of Heaven",
       "url": "https://open.spotify.com/track/0X7rvyf0HWOfNQMHytQQqr"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
-      },
-      "artists": [
-        {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
-        }
-      ],
-      "duration_ms": 214282,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1619,22 +1587,50 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hard To Live (feat. David Benites)",
-        "url": "https://open.spotify.com/album/7fD4DbcPl9tL5m8FJEDJfo"
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/6yEv9GYNLHZdqPRcQTg4Ew"
       },
       "artists": [
         {
-          "name": "Woe, Is Me",
-          "url": "https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN"
-        },
-        {
-          "name": "Renesans",
-          "url": "https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr"
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Hard To Live - feat. David Benites",
-      "url": "https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA"
+      "duration_ms": 214282,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/1aHHwI79IBD4hHIWqQ7DyJ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
+        "url": "https://open.spotify.com/album/4vCksLpzk75HznbAd2QRBa"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        }
+      ],
+      "duration_ms": 221948,
+      "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
+      "url": "https://open.spotify.com/track/3TEiRBBPMNu4DKgFfddMb6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+      },
+      "artists": [
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1671,6 +1667,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Hard To Live (feat. David Benites)",
+        "url": "https://open.spotify.com/album/7fD4DbcPl9tL5m8FJEDJfo"
+      },
+      "artists": [
+        {
+          "name": "Woe, Is Me",
+          "url": "https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN"
+        },
+        {
+          "name": "Renesans",
+          "url": "https://open.spotify.com/artist/7KCdElfDqnvhKYAWOyPGSr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hard To Live - feat. David Benites",
+      "url": "https://open.spotify.com/track/5kurhA888Fh98xOJtL7TXA"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "A Crooked Melody",
         "url": "https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE"
       },
@@ -1683,38 +1699,6 @@
       "duration_ms": 235835,
       "name": "A Crooked Melody",
       "url": "https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
-      },
-      "artists": [
-        {
-          "name": "Awaken I Am",
-          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
-        }
-      ],
-      "duration_ms": 239934,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "MANIAC IN THE MIRROR",
-        "url": "https://open.spotify.com/album/6iJo2AzITSakmnhRfm1TB4"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        }
-      ],
-      "duration_ms": 220997,
-      "name": "MANIAC IN THE MIRROR",
-      "url": "https://open.spotify.com/track/22u16RvtjstLDYOJnMHSEC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1735,18 +1719,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
       },
       "artists": [
         {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
         }
       ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
+      "duration_ms": 239934,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1763,6 +1747,22 @@
       "duration_ms": 223297,
       "name": "Better Written Villain",
       "url": "https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "MANIAC IN THE MIRROR",
+        "url": "https://open.spotify.com/album/6iJo2AzITSakmnhRfm1TB4"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "duration_ms": 220997,
+      "name": "MANIAC IN THE MIRROR",
+      "url": "https://open.spotify.com/track/22u16RvtjstLDYOJnMHSEC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Nothing Inspires Forgiveness Quite Like Revenge",
-        "url": "https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT"
-      },
-      "artists": [
-        {
-          "name": "Patient Sixty-Seven",
-          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Nothing Inspires Forgiveness Quite Like Revenge",
-      "url": "https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 224347,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Nothing Inspires Forgiveness Quite Like Revenge",
+        "url": "https://open.spotify.com/album/3DfAAUOPBBaqQSBm6agznT"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Nothing Inspires Forgiveness Quite Like Revenge",
+      "url": "https://open.spotify.com/track/70Q0xePiAhrp7HkGQ21pbp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Buried In Thorns",
-        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 206380,
-      "name": "Buried In Thorns",
-      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
       },
@@ -1959,18 +1943,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "What's Left Unsaid",
-        "url": "https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw"
+        "name": "Buried In Thorns",
+        "url": "https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW"
       },
       "artists": [
         {
-          "name": "Foreign Hands",
-          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
         }
       ],
-      "duration_ms": 203760,
-      "name": "Shapeless in the Dark",
-      "url": "https://open.spotify.com/track/6BQEJ21c1hNkMHzPfedF7x"
+      "duration_ms": 206380,
+      "name": "Buried In Thorns",
+      "url": "https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1991,6 +1975,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "What's Left Unsaid",
+        "url": "https://open.spotify.com/album/473iM0z7iwQsy74zcilsRw"
+      },
+      "artists": [
+        {
+          "name": "Foreign Hands",
+          "url": "https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Shapeless in the Dark",
+      "url": "https://open.spotify.com/track/6BQEJ21c1hNkMHzPfedF7x"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Dark Waves",
         "url": "https://open.spotify.com/album/0BZeEi4o7PFTP1s6HHK2ud"
       },
@@ -2003,22 +2003,6 @@
       "duration_ms": 222571,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/3yRHVvzkDd8g6GkQzCycYj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "HIVEMIND",
-        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 192182,
-      "name": "HIVEMIND",
-      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2087,6 +2071,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "HIVEMIND",
+        "url": "https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 192182,
+      "name": "HIVEMIND",
+      "url": "https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "No Place",
         "url": "https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt"
       },
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Secrets of the Future",
-        "url": "https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW"
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/26MHTLMXfmmP9JJ9rtbEs6"
       },
       "artists": [
         {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
         }
       ],
-      "duration_ms": 223685,
-      "name": "Cave",
-      "url": "https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o"
+      "duration_ms": 216834,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3kveKispNPTfBTsBkd5bUv"
     }
   ],
   "unique_name": "The Core",

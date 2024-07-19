@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 5773,
+  "num_followers": 5777,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACAlPezKVy8ew6H6Heh1nLI",
+  "snapshot_id": "ZpcJgAAAAABE2KT1GEkidHb7DOjpSVxd",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 209789,
+      "name": "Implication",
+      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 291960,
       "name": "Ole",
       "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 209789,
-      "name": "Implication",
-      "url": "https://open.spotify.com/track/5IqNkwrtuPjlYJFc4a2JRq"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.W.O Plus",
-        "url": "https://open.spotify.com/album/1sj2S2scaPtCVzkbK23d4Z"
-      },
-      "artists": [
-        {
-          "name": "T.W.O Plus",
-          "url": "https://open.spotify.com/artist/4DqH6DsWfBKEymCCNGvrO5"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Green White Green",
-      "url": "https://open.spotify.com/track/0gwa7S4oL1sQk0sF3ECp7p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupid Stories",
         "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 242813,
       "name": "Remember (feat. 2face)",
       "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T.W.O Plus",
+        "url": "https://open.spotify.com/album/1sj2S2scaPtCVzkbK23d4Z"
+      },
+      "artists": [
+        {
+          "name": "T.W.O Plus",
+          "url": "https://open.spotify.com/artist/4DqH6DsWfBKEymCCNGvrO5"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 241053,
+      "name": "Green White Green",
+      "url": "https://open.spotify.com/track/0gwa7S4oL1sQk0sF3ECp7p"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AWAY & BEYOND PLUS",
         "url": "https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 266490,
       "name": "Rainbow (feat. T-Pain)",
       "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
     },
     {
       "added_at": null,
@@ -896,13 +896,29 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Ehi Idibia",
-          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
         }
       ],
-      "duration_ms": 230191,
-      "name": "Free (feat. Ehi Idibia)",
-      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
+      "duration_ms": 261276,
+      "name": "Enter the Place (feat. Sound Sultan)",
+      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Officially Blind",
+        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Officially Blind",
+      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     },
     {
       "added_at": null,
@@ -923,22 +939,6 @@
       "duration_ms": 210840,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Officially Blind",
-        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Officially Blind",
-      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     },
     {
       "added_at": null,
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+          "name": "Ehi Idibia",
+          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
         }
       ],
-      "duration_ms": 261276,
-      "name": "Enter the Place (feat. Sound Sultan)",
-      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
+      "duration_ms": 230191,
+      "name": "Free (feat. Ehi Idibia)",
+      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
     },
     {
       "added_at": null,

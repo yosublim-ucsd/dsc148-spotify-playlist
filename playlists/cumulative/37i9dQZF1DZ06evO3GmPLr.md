@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3GmPLr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3GmPLr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3GmPLr)
 
-### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
+### [این Little Simz است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This is Little Simz\. The essential tracks, all in one playlist.
+> This Is Little Simz\. قطعه‌های برتر همگی در یک فهرست پخش.
 
-78 songs - 4 hr 24 min
+79 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Power](https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 0:55 | 2024-02-10 |  |
 | [Problems](https://open.spotify.com/track/1mMIFLEa1IZJPfM7gVdssx) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Space Age](https://open.spotify.com/artist/13QFYK4YHs8qXlj0E9THq2) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 6:07 | 2022-10-28 | 2024-07-09 |
 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 | 2022-10-28 |  |
+| [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-19 |  |
 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 | 2022-11-20 |  |
 | [Selfish](https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:46 | 2022-10-28 | 2022-11-21 |
 | [Shotgun](https://open.spotify.com/track/2KlgVJHyLEzEI4aBiGptij) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:08 | 2022-10-28 | 2023-02-06 |

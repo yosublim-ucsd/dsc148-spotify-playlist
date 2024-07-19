@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 6 | [Natureza Mãe](https://open.spotify.com/track/3olNqFP6HRyQuuMNk9Hzxo) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:49 |
 | 7 | [Condores](https://open.spotify.com/track/2e4UqGl4uZCoy3OiQZnZtU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:23 |
 | 8 | [Música pra Despertar](https://open.spotify.com/track/3yYyhvC7LePFFG6ZCE8eIX) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:11 |
-| 9 | [Exército de Jah](https://open.spotify.com/track/5T8jiM1mrYeu7mlcBaIFgy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 5:05 |
-| 10 | [Construção de Amor](https://open.spotify.com/track/132ESaIYKuN5jWJeyPWenN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:28 |
+| 9 | [Construção de Amor](https://open.spotify.com/track/132ESaIYKuN5jWJeyPWenN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:28 |
+| 10 | [Exército de Jah](https://open.spotify.com/track/5T8jiM1mrYeu7mlcBaIFgy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 5:05 |
 | 11 | [Mentes Livres](https://open.spotify.com/track/33kS2z12bSvgTE5xoayQrA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:10 |
 | 12 | [Sincronia \- Ao Vivo](https://open.spotify.com/track/2InaWa7S0YdwnIn0Ls7H0c) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/6ROU8qAXu5AZhVPz4wxJXT) | 5:35 |
 | 13 | [Majestade Imperial](https://open.spotify.com/track/2aQuclmh2JGAkSDdo6qnWr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:42 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 55 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 56 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `AbW+AgAAAADvvV1w7Ta0M8jH1Qj450q9`
+Snapshot ID: `AbXFCgAAAABbmpVFNBGs17HMcpA44g+m`

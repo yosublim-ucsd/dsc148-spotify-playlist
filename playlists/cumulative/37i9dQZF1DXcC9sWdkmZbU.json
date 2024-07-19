@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "God Is Great",
+        "url": "https://open.spotify.com/album/3vlGaUwhLahxzctOP9kkIg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "God Is Great",
+      "url": "https://open.spotify.com/track/3Nbp3XDq252OHKpXmA7N3B"
+    },
+    {
+      "album": {
         "name": "Under Where?",
         "url": "https://open.spotify.com/album/6ho7NUMT9aOgWq3Z97L2Yo"
       },

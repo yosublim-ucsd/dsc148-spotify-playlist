@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
@@ -10667,6 +10667,32 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/24WinYEBXb7ItgBLkWVw9g"
+      },
+      "artists": [
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        },
+        {
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
+        },
+        {
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1mc3HUibkCw6GvODEA7AXu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167317,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/0CjDmfdA5wYY3cyHc826hk"
+    },
+    {
+      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -11990,7 +12016,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
@@ -15540,6 +15566,36 @@
       "duration_ms": 147584,
       "name": "IQ Doesn't Matter",
       "url": "https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/4tVWABZzAWQq1ry9ikOmZs"
+      },
+      "artists": [
+        {
+          "name": "Salasnich",
+          "url": "https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2"
+        },
+        {
+          "name": "Mike More",
+          "url": "https://open.spotify.com/artist/0LFar64SzPGHxxR8ivxhvQ"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4NSlW2vJpgSxHZ8vh50pK1"
     },
     {
       "album": {

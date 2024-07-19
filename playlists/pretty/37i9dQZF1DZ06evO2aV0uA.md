@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,686 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,740 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 7 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 |
 | 8 | [512](https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:44 |
 | 9 | [Now You've Got Something to Die For](https://open.spotify.com/track/4YthwCt7NMqxQCQfJPZMnU) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:39 |
-| 10 | [Ruin](https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:54 |
-| 11 | [Descending](https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 3:35 |
+| 10 | [Descending](https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 3:35 |
+| 11 | [Ruin](https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:54 |
 | 12 | [Another Nail For Your Coffin \(Feat\. Kublai Khan TX & Malevolence\)](https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Another Nail For Your Coffin \(Feat\. Kublai Khan TX & Malevolence\)](https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7) | 4:00 |
 | 13 | [Hourglass](https://open.spotify.com/track/2pd1Lm8Jsslf2VdWQv0Je8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:00 |
 | 14 | [Ditch](https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 47 | [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 |
 | 48 | [The Death Of Us \- From The "Bill & Ted Face The Music" Soundtrack](https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa) | 3:59 |
 | 49 | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Dave Mustaine](https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC) | [Wake up Dead \(feat\. Dave Mustaine\)](https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t) | 3:43 |
-| 50 | [The Undertow](https://open.spotify.com/track/659HIjo4YGCavNiVEgqBtI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 4:46 |
+| 50 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
 
-Snapshot ID: `ZpW4AAAAAAB823/FVmzbuuOHyMVTkuBQ`
+Snapshot ID: `ZpcJgAAAAADS9h0B3ECRvTdikErglzQ+`

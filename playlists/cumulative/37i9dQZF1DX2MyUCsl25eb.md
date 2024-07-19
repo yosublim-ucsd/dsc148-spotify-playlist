@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-864 songs - 2 day 2 hr 0 min
+865 songs - 2 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-17 | 2023-06-15 |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-02-17 | 2023-08-05 |
 | [Heaven Help Me](https://open.spotify.com/track/5cRp3t6SJAVvyfUte891Xd) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5) | [Heaven Help Me](https://open.spotify.com/album/3xklq4j7GrLcRDvKVA4REb) | 3:15 | 2021-08-04 | 2022-06-13 |
-| [Hell Together](https://open.spotify.com/track/5Kx4qHEP3n62BmDc842W0t) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Hell Together](https://open.spotify.com/album/6A7coJEq3Bh4g0hNjpjIHD) | 2:56 | 2024-03-29 |  |
+| [Hell Together](https://open.spotify.com/track/5Kx4qHEP3n62BmDc842W0t) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Hell Together](https://open.spotify.com/album/6A7coJEq3Bh4g0hNjpjIHD) | 2:56 | 2024-03-29 | 2024-07-19 |
 | [Hello Stranger](https://open.spotify.com/track/1JMbkIHlgLrOiaL6ELPsRZ) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 4:22 | 2021-08-05 | 2022-04-20 |
 | [Her](https://open.spotify.com/track/5czDKqPioLGfqZUERYxVZC) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:00 | 2022-05-13 | 2022-05-20 |
 | [Here We Go](https://open.spotify.com/track/0MkLSgg3dXXfgjf0zLNLkU) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:26 | 2021-08-05 | 2022-04-17 |
@@ -607,6 +607,7 @@
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 | 2023-02-18 |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-08-04 | 2022-08-13 |
 | [Raincatchers](https://open.spotify.com/track/6StoqrO6Hm52RQaQMUrotJ) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Raincatchers](https://open.spotify.com/album/4l4OKQn58HsPNuIdCldPfU) | 3:59 | 2023-03-03 | 2023-09-16 |
+| [Rather Be Lonely](https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Rather Be Lonely](https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB) | 2:44 | 2024-07-19 |  |
 | [Ready](https://open.spotify.com/track/6zPShdSv4OhuqBEVi1pbvO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Ready](https://open.spotify.com/album/4HYFwsvWNfN400hyJiyjdM) | 2:54 | 2023-06-09 | 2023-08-05 |
 | [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-06-24 | 2022-10-07 |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-09-15 |

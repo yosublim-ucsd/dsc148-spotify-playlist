@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Travis",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Primal Scream",
   "name": "Rock The World",
   "tracks": [
     {
@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
+    },
+    {
+      "album": {
         "name": "All Kinds Of People",
         "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
       },
@@ -1875,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "At Your Feet",
+        "url": "https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205718,
+      "name": "At Your Feet",
+      "url": "https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm"
+    },
+    {
+      "album": {
         "name": "Atom Bomb",
         "url": "https://open.spotify.com/album/4sQazS0PXlz8PBKtvz64UL"
       },
@@ -2237,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Nothing Happens (5th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Bad Remake",
+      "url": "https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1"
+    },
+    {
+      "album": {
         "name": "Bad Time",
         "url": "https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty"
       },
@@ -2252,6 +2306,24 @@
       "duration_ms": 175480,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3"
+    },
+    {
+      "album": {
+        "name": "BADMAN",
+        "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168030,
+      "name": "BADMAN",
+      "url": "https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12"
     },
     {
       "album": {
@@ -2346,7 +2418,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186489,
       "name": "Bass Player's Brother",
       "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
@@ -5303,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Doughy",
+        "url": "https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA"
+      },
+      "artists": [
+        {
+          "name": "Summer Whales",
+          "url": "https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194164,
+      "name": "Crack!",
+      "url": "https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n"
+    },
+    {
+      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
@@ -6460,7 +6550,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211913,
       "name": "Doll",
       "url": "https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC"
@@ -6738,6 +6828,24 @@
       "duration_ms": 187056,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6dZ0nsuT3rtAnhl9b93IEY"
+    },
+    {
+      "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197997,
+      "name": "Drivin'",
+      "url": "https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d"
     },
     {
       "album": {
@@ -11462,7 +11570,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
@@ -12914,7 +13022,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 219346,
       "name": "Living Proof",
       "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
@@ -13348,6 +13456,24 @@
       "duration_ms": 247320,
       "name": "Love From The Other Side - Edit",
       "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
+    },
+    {
+      "album": {
+        "name": "Love Insurrection",
+        "url": "https://open.spotify.com/album/0lc5YaTdQfZd5L7zPpRK7Y"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212275,
+      "name": "Love Insurrection - Edit",
+      "url": "https://open.spotify.com/track/5NUsEbeXd7o9U8xFBSiyag"
     },
     {
       "album": {
@@ -14697,6 +14823,24 @@
     },
     {
       "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
+      "album": {
         "name": "Natural Magick",
         "url": "https://open.spotify.com/album/5k5TALqbCDXxUpwSin96Ys"
       },
@@ -15126,7 +15270,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188000,
       "name": "no_thing",
       "url": "https://open.spotify.com/track/7Fh3k7xOMQoy2t1d30CowT"
@@ -18566,7 +18710,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 269800,
       "name": "Scream from New York, NY",
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
@@ -21630,7 +21774,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 198417,
       "name": "The only conscious being in the universe",
       "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
@@ -22881,6 +23025,24 @@
     },
     {
       "album": {
+        "name": "Up In The Sky (Monnow Valley Version)",
+        "url": "https://open.spotify.com/album/0aLybeSnxTwUCI1AB2pA9E"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297972,
+      "name": "Up In The Sky (Monnow Valley Version)",
+      "url": "https://open.spotify.com/track/09PXFjvDB0uB4jYEuu70N3"
+    },
+    {
+      "album": {
         "name": "Used To Care",
         "url": "https://open.spotify.com/album/5pDbJPnDmvpm7oBNO8r1li"
       },
@@ -23130,7 +23292,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217440,
       "name": "Wait Your Turn",
       "url": "https://open.spotify.com/track/7GksnYii5uW5KrvGylbHcv"
@@ -24243,6 +24405,24 @@
     },
     {
       "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251767,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d"
+    },
+    {
+      "album": {
         "name": "Dark Sun",
         "url": "https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5"
       },
@@ -24290,7 +24470,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181480,
       "name": "words fell out",
       "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
@@ -24438,7 +24618,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB"
@@ -24706,7 +24886,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"
@@ -25064,6 +25244,28 @@
       "duration_ms": 146220,
       "name": "\u4ecea\u5230z",
       "url": "https://open.spotify.com/track/4As3i0eUbQpSa0pLZFLXBa"
+    },
+    {
+      "album": {
+        "name": "\u5187\u6709\u5f62\u72c0 (\u58de\u6578\u5b78 VERSION)",
+        "url": "https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU"
+      },
+      "artists": [
+        {
+          "name": "Bad Math",
+          "url": "https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo"
+        },
+        {
+          "name": "XSGACHA \u5c0f\u672c\u751f\u71c8",
+          "url": "https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326388,
+      "name": "\u5187\u6709\u5f62\u72c0 - \u58de\u6578\u5b78 VERSION",
+      "url": "https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI"
     },
     {
       "album": {

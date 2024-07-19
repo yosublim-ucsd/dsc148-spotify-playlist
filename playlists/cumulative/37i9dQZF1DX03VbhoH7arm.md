@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do mundo! / Foto: Sevdaliza, Pabllo Vittar, Yseult
 
-300 songs - 14 hr 36 min
+301 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 | 2024-01-04 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-08 | 2023-07-29 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-05-20 | 2022-12-14 |
-| [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1) | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD) | 2:36 | 2024-03-22 |  |
+| [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/track/6XQ87rq4dZpaNG8aVi99Jg) | [MC Reino](https://open.spotify.com/artist/5VYxsvivVgcLrPjgLUFRG1) | [Dono da Porsche \(Bom Dia Princesa\)](https://open.spotify.com/album/3DJCxAao78RWA21d2LUEWD) | 2:36 | 2024-03-22 | 2024-07-19 |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 | 2024-06-18 |
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-05-20 | 2022-06-23 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2023-04-14 |
@@ -268,6 +268,7 @@
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-30 | 2022-12-22 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2022-05-20 | 2023-01-19 |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 | 2022-08-27 |
+| [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 | 2024-07-19 |  |
 | [Sweetest Pie](https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv) | 3:21 | 2022-05-20 | 2022-06-13 |
 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-05-17 |  |
 | [Tem Café](https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Andrezin Araújo](https://open.spotify.com/artist/6Z9eUCDtjeQRAp4eZhTztf), [Dj Kevin Oficial](https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS) | [Tem Café](https://open.spotify.com/album/6gD7TtJDcrWlAVD3j8nPj5) | 2:38 | 2023-12-28 |  |

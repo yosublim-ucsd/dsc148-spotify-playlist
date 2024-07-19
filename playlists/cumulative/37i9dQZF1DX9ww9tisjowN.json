@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: \u300e\u30e6\u30a4\u30ab\u300f",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: MNNK Bro. (Takashi\u3000\u3000\u3000\u3000\nMurakami + JP THE WAVY) \u00a9TM/KK",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 225000,
       "name": "Even If - Remix",
       "url": "https://open.spotify.com/track/1lCVQlIeyKEZhNFyRnPtRe"
@@ -6201,6 +6201,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af7",
+        "url": "https://open.spotify.com/album/6SBHOST42KWt5IiDsOkx94"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233286,
+      "name": "\u30a4\u30a4\u30b3\u3068\u5996\u72d0",
+      "url": "https://open.spotify.com/track/2MGSgGtpyKTjr7tY0pefZ8"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30ac\u30af",
         "url": "https://open.spotify.com/album/39ZWZuqNYMhzNsIkHt5tEr"
       },
@@ -6980,7 +6998,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181880,
       "name": "\u30d5\u30e9\u30c3\u30c8\u30a6\u30c3\u30ba\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u307f\u305f\u3044\u306b",
       "url": "https://open.spotify.com/track/4ag6ahTK26pedrFCxKF6BA"
@@ -8246,6 +8264,24 @@
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
+    },
+    {
+      "album": {
+        "name": "\u3053\u3044\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/4015DFzdg5NzUaR1yT5rcz"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3055\u3092\u3002",
+          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281920,
+      "name": "\u604b\u8272",
+      "url": "https://open.spotify.com/track/62XmbJHgLkBQZOT5SJMGA1"
     },
     {
       "album": {

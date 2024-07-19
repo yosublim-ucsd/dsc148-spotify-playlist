@@ -414,7 +414,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 341875,
       "name": "Chapanga",
       "url": "https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm"
@@ -2124,6 +2124,28 @@
       "duration_ms": 259851,
       "name": "Make That Booty Clap (Must Be Jelly)",
       "url": "https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN"
+    },
+    {
+      "album": {
+        "name": "Manipulation",
+        "url": "https://open.spotify.com/album/1BQQqqygZgfMAp9nFBDUuQ"
+      },
+      "artists": [
+        {
+          "name": "Ian Nussdorfer",
+          "url": "https://open.spotify.com/artist/1m5bYA72k4fjQjLJuTRMGz"
+        },
+        {
+          "name": "The Badlands",
+          "url": "https://open.spotify.com/artist/0PR33ItZd7OWQZ16UrQJgs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350382,
+      "name": "Manipulation",
+      "url": "https://open.spotify.com/track/7BTKnG9oqPnWN3kr32VQbd"
     },
     {
       "album": {

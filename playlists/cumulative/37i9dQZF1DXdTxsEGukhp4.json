@@ -7871,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "\u6e0b\u6ca2\u6804\u4e00",
+        "url": "https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0"
+      },
+      "artists": [
+        {
+          "name": "Ninja We Made It.",
+          "url": "https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118554,
+      "name": "\u6e0b\u6ca2\u6804\u4e00",
+      "url": "https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA"
+    },
+    {
+      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },

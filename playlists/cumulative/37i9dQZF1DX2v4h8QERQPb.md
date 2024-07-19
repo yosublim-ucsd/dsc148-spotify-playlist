@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Rimas argentinas\. Foto: El Doctor.
+> Rimas argentinas\. Foto: Bardero$.
 
-292 songs - 14 hr 49 min
+293 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [En La Calle](https://open.spotify.com/track/10hrydo6Lzikx92sQI025W) | [Pedro Peligro](https://open.spotify.com/artist/5uOhG1IBVMazk6iP2xK1fj), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [En La Calle](https://open.spotify.com/album/1sdlYzUj8vYzzVuheawjqe) | 3:57 | 2023-10-27 |  |
 | [Es Como](https://open.spotify.com/track/4GiBS17fllxgugGEUw1iVW) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Fiucher](https://open.spotify.com/artist/6txlBT165HMOl0ADNhT8zj), [Yaco Levy](https://open.spotify.com/artist/3sBrIlDXIRiWFEXrxClwSs), [Marte](https://open.spotify.com/artist/0UH4V62ZAz2stunho99Ven) | [Es Como](https://open.spotify.com/album/63tHVFdnWdxVAWJ7vPUBSk) | 4:03 | 2021-11-26 | 2022-11-19 |
 | [Es Una Trampa](https://open.spotify.com/track/5ObEhvixPr295RLAEbcFEm) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Jaloner](https://open.spotify.com/artist/6mxuwUdhUgLS5QcCA08Rlz) | [Es Una Trampa](https://open.spotify.com/album/3F2xH5WDopRoGNRuzltHl5) | 3:33 | 2024-06-21 |  |
+| [Estrellas de Rock](https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Estrellas de Rock](https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu) | 2:35 | 2024-07-19 |  |
 | [Faia](https://open.spotify.com/track/4ltescSSscMuPhtW9IHx8M) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [UANTI](https://open.spotify.com/artist/0jo4N4Z4HUM6y0N19MApwQ) | [Faia](https://open.spotify.com/album/13nSgFANocUG5LR9tbR5rK) | 2:45 | 2024-04-19 |  |
 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 | 2022-04-11 | 2024-06-22 |
 | [Fat Bootys](https://open.spotify.com/track/5pqpyl2TBu9cPsbVxTOK18) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Fat Bootys](https://open.spotify.com/album/2pBzS1nKpmFDID3l0XJSAJ) | 3:22 | 2021-11-26 | 2023-04-29 |
@@ -184,7 +185,7 @@
 | [Me Persigue](https://open.spotify.com/track/4Eaw8RLQsfYSMGPbuu0xZj) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Me Persigue](https://open.spotify.com/album/1kHi5vEAOoZrwV7TdptU7q) | 3:00 | 2022-08-05 | 2022-11-08 |
 | [Me Sueltan los Angeles](https://open.spotify.com/track/3MtToQhywGW6Q98cYcHYN1) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:24 | 2022-06-10 | 2024-04-19 |
 | [Me Sueltan Los Ángeles](https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP) | 3:24 | 2021-11-26 |  |
-| [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-23 |  |
+| [MELANCOLÍA](https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [MELANCOLÍA](https://open.spotify.com/album/5H9fjS95ycyEPZOHT2hgM8) | 3:42 | 2024-02-23 | 2024-07-19 |
 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 | 2021-11-26 |  |
 | [Mercedes](https://open.spotify.com/track/3qsDh1KaRx9fEdbL96sucP) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/0MwS2XPzScfWDXv0eyqieK) | 2:41 | 2023-08-18 | 2024-05-11 |
 | [Merito Propio](https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Merito Propio](https://open.spotify.com/album/5kQ7gbYGyfjU8Gq8mRc0CV) | 2:42 | 2023-06-02 |  |

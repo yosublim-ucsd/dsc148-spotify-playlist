@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-273 songs - 15 hr 36 min
+275 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 | 2021-12-06 | 2024-05-17 |
 | [Antídoto](https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Antídoto](https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd) | 3:26 | 2021-12-06 | 2022-07-19 |
 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 | 2021-12-06 | 2024-05-17 |
-| [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2024-05-16 |  |
+| [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2024-05-16 | 2024-07-19 |
 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2024-05-16 |  |
 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 | 2021-12-06 | 2024-05-17 |
 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 | 2021-12-06 | 2024-05-17 |
@@ -144,6 +144,7 @@
 | [Mi Corazón](https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Mi Corazón](https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w) | 2:44 | 2024-05-24 |  |
 | [Mi Mejor Despedida](https://open.spotify.com/track/7zhw8ovSA2cDrJehxI1TZh) | [Manel Navarro](https://open.spotify.com/artist/2JPHexLGEM1hT0Jli8rztQ), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U) | [Mi Mejor Despedida](https://open.spotify.com/album/4GZGJXcjbA1CRcw8Z5Ma5s) | 3:15 | 2021-12-06 | 2022-07-28 |
 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 | 2024-05-17 |  |
+| [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 | 2024-07-19 |  |
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-06 | 2022-07-07 |
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-12-06 | 2024-05-17 |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-19 | 2024-05-17 |
@@ -176,7 +177,7 @@
 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2024-05-16 | 2024-05-18 |
 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2024-05-16 |  |
 | [Ojos Papel](https://open.spotify.com/track/30OksLi7GCTqAc3KXwu3Ds) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:41 | 2024-05-16 | 2024-06-15 |
-| [Ojos Papel](https://open.spotify.com/track/5SzQY6suUQ69pVovGuhgkJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Ojos Papel](https://open.spotify.com/album/4pUpYaz59EsSzIFSr8SHUS) | 2:41 | 2024-06-14 |  |
+| [Ojos Papel](https://open.spotify.com/track/5SzQY6suUQ69pVovGuhgkJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Ojos Papel](https://open.spotify.com/album/4pUpYaz59EsSzIFSr8SHUS) | 2:41 | 2024-06-14 | 2024-07-19 |
 | [Otra Mañana Más](https://open.spotify.com/track/5j9td3zUP5z2OUauQKh40y) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Otra Mañana Más](https://open.spotify.com/album/65dPQq9OQzPjpNTXGwg5la) | 3:00 | 2021-12-06 | 2022-07-26 |
 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-12-06 | 2023-01-04 |
 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 | 2022-12-30 | 2024-04-19 |
@@ -219,6 +220,7 @@
 | [Siempre](https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341) | 1:32 | 2023-04-14 | 2023-12-04 |
 | [Siempre](https://open.spotify.com/track/4U7cplCdwTjHjrcTaNZx9u) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 1:32 | 2024-03-08 | 2024-04-19 |
 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 | 2021-12-06 | 2022-01-06 |
+| [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 | 2024-07-19 |  |
 | [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 | 2023-01-07 |
 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 | 2021-12-06 | 2022-07-28 |
 | [Suficiente](https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Suficiente](https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct) | 3:56 | 2023-06-30 | 2023-11-08 |

@@ -4,7 +4,7 @@
 
 > The UK's biggest dance playlist! Cover: Jazzy
 
-603 songs - 1 day 7 hr 35 min
+604 songs - 1 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Teardrops \(feat\. Majid Jordan\)](https://open.spotify.com/album/3Bq8vA5rwJGfe8KgT4Qdxy) | 2:50 | 2022-04-29 | 2022-07-22 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2021-11-03\* | 2022-03-04 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2021-11-03\* | 2022-02-11 |
+| [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-07-18 |  |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-19 | 2022-08-19 |
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-03-04 | 2023-03-09 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-20 | 2024-05-17 |

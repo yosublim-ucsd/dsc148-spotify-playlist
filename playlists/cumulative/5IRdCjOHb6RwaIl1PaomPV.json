@@ -5013,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Mietzee",
+        "url": "https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1"
+      },
+      "artists": [
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123636,
+      "name": "If i wan te d to o o o ^o.",
+      "url": "https://open.spotify.com/track/7F304lzCnu9T9Uehlmg0WM"
+    },
+    {
+      "album": {
         "name": "Ija (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
@@ -6296,7 +6314,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210500,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"

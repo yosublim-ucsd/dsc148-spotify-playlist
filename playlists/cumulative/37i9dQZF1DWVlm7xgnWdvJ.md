@@ -4,11 +4,11 @@
 
 > Vous aimez la chaleur..\. Voici le mix idéal.
 
-157 songs - 14 hr 31 min
+158 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 | 2023-09-28 |  |
+| [\(It Goes Like\) Nanana](https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc) | 6:07 | 2023-09-28 | 2024-07-19 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-15 | 2023-09-29 |
 | [Acuerdate \- Original Mix](https://open.spotify.com/track/3zRjdbOQvH2f40hk81ppns) | [Juanito](https://open.spotify.com/artist/39TK4RM8bEzWa1BoBxsSko) | [Acuerdate](https://open.spotify.com/album/088zTj7jac6UDKDz37hinS) | 6:57 | 2022-12-20 |  |
 | [Alegría \- Yuksek Remix](https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Alegría \(Yuksek Remix\) \- Single](https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH) | 4:18 | 2022-12-20 |  |
@@ -141,6 +141,7 @@
 | [summer on the inside](https://open.spotify.com/track/1VrS7b7ieSGQIhEauDzm7N) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/4zHzMIrF7AkCcTzy8GTvBE) | 3:25 | 2022-12-20 | 2023-07-05 |
 | [Sun My Sweet Sun](https://open.spotify.com/track/7lho7sTZBzie1gERq3dEtm) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Sun My Sweet Sun](https://open.spotify.com/album/719ZrayQQKPrBFACs4d4L5) | 8:47 | 2022-12-20 | 2024-03-23 |
 | [take your time \(feat\. Tinashe\)](https://open.spotify.com/track/2AvoxIbaR1vmZe6sCmigaF) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 3:11 | 2022-12-20 | 2024-03-23 |
+| [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-07-18 |  |
 | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/track/6KuZfqzhbfTU8HEIALDgP2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n) | [The Journey \(feat\. Zeke Manyika\)](https://open.spotify.com/album/1uaxE7yn8s9XPNAJ9icxd1) | 4:16 | 2022-12-20 |  |
 | [The Light](https://open.spotify.com/track/12K1eNac6xyCYkKtvns2k4) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [The Light EP](https://open.spotify.com/album/5DMJxsJyyQLKKuwfW1FBeH) | 8:25 | 2022-12-20 |  |
 | [The Plant Paradox](https://open.spotify.com/track/6ctMw60Nt3gHORqxfkRmWZ) | [RAMMÖ](https://open.spotify.com/artist/5iX8cuI7OtXXtOSNPb8Cfm) | [Paradox Dream](https://open.spotify.com/album/4jySsYIcMJLBXmHR4kQsit) | 6:10 | 2023-07-27 | 2023-09-09 |

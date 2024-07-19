@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Boulevard",
+        "url": "https://open.spotify.com/album/586kRfNguCVs8P0HleKlAb"
+      },
+      "artists": [
+        {
+          "name": "Jasper Nyx",
+          "url": "https://open.spotify.com/artist/4b39Yz8NnbF7QNjVSsPLch"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171780,
+      "name": "Boulevard",
+      "url": "https://open.spotify.com/track/27yXUWKrNGFJcQeo50OBNq"
+    },
+    {
+      "album": {
         "name": "Brain Noise",
         "url": "https://open.spotify.com/album/7DhOPPPyQY8hPwak68UXyT"
       },
@@ -1526,6 +1544,28 @@
       "duration_ms": 175065,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/7aSTGa0Dj5FMa0do6aH4Tw"
+    },
+    {
+      "album": {
+        "name": "Chewy",
+        "url": "https://open.spotify.com/album/4F0isokOGIcGzEVRX1xYkq"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        },
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149823,
+      "name": "Chewy",
+      "url": "https://open.spotify.com/track/6wv26tqIej3IqFHt3IfrBu"
     },
     {
       "album": {
@@ -2760,7 +2800,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 113146,
       "name": "Engra\u00e7ado",
       "url": "https://open.spotify.com/track/1rD8PBJipssSYGR5F1KlFk"
@@ -3827,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "half time lemons",
+        "url": "https://open.spotify.com/album/5dKMaIwDOPAQIn662wcZyE"
+      },
+      "artists": [
+        {
+          "name": "Harry G's Beats",
+          "url": "https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145916,
+      "name": "half time lemons",
+      "url": "https://open.spotify.com/track/5SljEnU1YkR3GG1ZTp8eqo"
+    },
+    {
+      "album": {
         "name": "haze avenue",
         "url": "https://open.spotify.com/album/3LGb9f9WeXASzdKanaiPdu"
       },
@@ -3972,6 +4030,28 @@
       "duration_ms": 121481,
       "name": "Highland Sun",
       "url": "https://open.spotify.com/track/4AtVKZl198zqSTWRyanskK"
+    },
+    {
+      "album": {
+        "name": "Hinoki",
+        "url": "https://open.spotify.com/album/4rGqv4ojzqFVJuHzaUlHCT"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Hinoki",
+      "url": "https://open.spotify.com/track/7cRP0sGjYswpFPUNBcLPFC"
     },
     {
       "album": {
@@ -5372,7 +5452,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145116,
       "name": "Mooging Away",
       "url": "https://open.spotify.com/track/5UjCCzHAYZhSuTXHdfnk5G"
@@ -5904,7 +5984,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 138822,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4HlCBuCaDxtetNpuz2GcWE"
@@ -6432,7 +6512,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 123428,
       "name": "Peach",
       "url": "https://open.spotify.com/track/2gnTR4wQ7EhwZYoRRZWnrT"
@@ -6490,6 +6570,24 @@
       "duration_ms": 112861,
       "name": "Pheasants",
       "url": "https://open.spotify.com/track/6eWqiuXsN18FbfiI5yU1MO"
+    },
+    {
+      "album": {
+        "name": "Phunsmoke",
+        "url": "https://open.spotify.com/album/0nOMouHfVR3QfSE9kCb117"
+      },
+      "artists": [
+        {
+          "name": "LOFI FRAN",
+          "url": "https://open.spotify.com/artist/79lYlTTaSsCLvanVBtYWf6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Phunsmoke",
+      "url": "https://open.spotify.com/track/3IHGcfzz0Xk2xUcU8jXugV"
     },
     {
       "album": {
@@ -7072,7 +7170,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173333,
       "name": "Ripples to Shore",
       "url": "https://open.spotify.com/track/3hIyjMuHctZZ0e3pcCzNcA"
@@ -7228,6 +7326,24 @@
       "duration_ms": 104277,
       "name": "rush hour",
       "url": "https://open.spotify.com/track/5yxuI9obPvjpmvT1mYy078"
+    },
+    {
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/5zflYxBB5a6NOMDzes5LAU"
+      },
+      "artists": [
+        {
+          "name": "Name Goes Here",
+          "url": "https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/56FejYvhWFiYgRoP64ab9W"
     },
     {
       "album": {
@@ -7868,6 +7984,24 @@
       "duration_ms": 116593,
       "name": "Something Has Happened",
       "url": "https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo"
+    },
+    {
+      "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/4XIUta9isRNIWgG1D56RnG"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/7wv6AvJ9rBaL4QvzDCoLgh"
     },
     {
       "album": {
@@ -9212,7 +9346,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 144918,
       "name": "Tis but a scratch",
       "url": "https://open.spotify.com/track/6CyvZuAQW9vHMpnM8ABiM8"

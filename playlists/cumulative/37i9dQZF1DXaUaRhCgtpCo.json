@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Star Wars: The Acolyte (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW"
+      },
+      "artists": [
+        {
+          "name": "Michael Abels",
+          "url": "https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196561,
+      "name": "The Power of Many / End Title",
+      "url": "https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },

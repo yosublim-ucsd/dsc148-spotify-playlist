@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Thiagão, Pregador Luo
 
-399 songs - 20 hr 37 min
+400 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Alma](https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Alma](https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ) | 3:07 | 2024-07-12 |  |
 | [ALMA e CORAÇÃO](https://open.spotify.com/track/6p2HlTzZqNnT5MUG0nDatb) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [ALMA e CORAÇÃO](https://open.spotify.com/album/5PMFsnpPROcW7rR3orYPoX) | 2:54 | 2022-10-28 | 2022-12-06 |
 | [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 | 2022-06-24 | 2023-06-24 |
-| [Alvo Mais Que a Neve](https://open.spotify.com/track/1XVAsW855uWEQsSXxcSQNO) | [Gb sanchez](https://open.spotify.com/artist/2emL7khgnvaCARLhTHPHs8), [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Alvo Mais Que a Neve](https://open.spotify.com/album/2XUFbreYQecQ93Ob5pu3xQ) | 2:19 | 2024-06-14 |  |
+| [Alvo Mais Que a Neve](https://open.spotify.com/track/1XVAsW855uWEQsSXxcSQNO) | [Gb sanchez](https://open.spotify.com/artist/2emL7khgnvaCARLhTHPHs8), [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Alvo Mais Que a Neve](https://open.spotify.com/album/2XUFbreYQecQ93Ob5pu3xQ) | 2:19 | 2024-06-14 | 2024-07-19 |
 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 | 2022-08-19 |  |
 | [Além do Passado](https://open.spotify.com/track/23bVJZTQ0FQFfcLmVG3qla) | [AFirma Hits](https://open.spotify.com/artist/5CgitR69IR6uuYD5ystTsl) | [Além do Passado](https://open.spotify.com/album/4eZPtIPCWdRKN4M63yBKYp) | 1:40 | 2024-04-12 | 2024-04-26 |
 | [Alívio](https://open.spotify.com/track/2sW3N7yxNRdSQJwGvbCw3I) | [Rodolfo Queiroz](https://open.spotify.com/artist/2tHHhgW6BXwtlwUcBcATjt), [NóizProd](https://open.spotify.com/artist/3ww1Cvu2JnTEqxpRQwlGGZ) | [Alívio](https://open.spotify.com/album/4onqbTvMLqTsOqYoXKbI7c) | 3:38 | 2022-03-22 | 2022-04-27 |
@@ -135,6 +135,7 @@
 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 | 2022-08-19 | 2023-01-14 |
 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 | 2022-04-29 | 2024-06-01 |
 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 | 2024-01-05 |  |
+| [Face a Face](https://open.spotify.com/track/2gDCe8vY2387GkkGC3hL0q) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Face a Face](https://open.spotify.com/album/7ojG42bFYTRZD6elK8qnEw) | 3:34 | 2024-07-19 |  |
 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 | 2022-03-25 | 2023-09-02 |
 | [Famoso: Gn 12](https://open.spotify.com/track/5wGBiWQtkeWG4KCBd71BJV) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Famoso: Gn 12](https://open.spotify.com/album/1kgVZAh5esFmAkj1s3PXxz) | 2:29 | 2023-03-17 | 2023-07-08 |
 | [Fatos & Fatos](https://open.spotify.com/track/448GP0uBndTsfEbx89H7dY) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Fatos & Fatos](https://open.spotify.com/album/59bnawd1kF0zjtvAF1w9fh) | 3:04 | 2023-03-03 | 2023-07-29 |

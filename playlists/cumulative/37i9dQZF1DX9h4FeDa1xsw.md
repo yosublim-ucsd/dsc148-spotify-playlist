@@ -4,7 +4,7 @@
 
 > Photo : Carbonne
 
-42 songs - 2 hr 2 min
+47 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,19 +14,22 @@
 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
 | [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 | 2024-06-20 |  |
+| [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 |  |
 | [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 | 2024-06-20 |  |
-| [DOMMAGE](https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DOMMAGE](https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb) | 2:33 | 2024-06-20 |  |
+| [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2024-07-18 |  |
+| [DOMMAGE](https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DOMMAGE](https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb) | 2:33 | 2024-06-20 | 2024-07-19 |
 | [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 | 2024-06-20 |  |
 | [DON'T LET ME GO](https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DON'T LET ME GO](https://open.spotify.com/album/1JohKORtvRNUAmeSYCyCGJ) | 3:39 | 2024-06-20 |  |
 | [Désaccord](https://open.spotify.com/track/0srZ2zTRUkzbuh4HRJEZA4) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Désaccord](https://open.spotify.com/album/2Ac5lEYGIOpyqaDmUYoDGc) | 3:04 | 2024-06-20 |  |
 | [hiver](https://open.spotify.com/track/4suhOzr3Plb1PrDVyEcCm4) | [Simon Beigelman](https://open.spotify.com/artist/5mIlBjWqCN1nneC5IAqUCh) | [hiver](https://open.spotify.com/album/4wrYiykW6D8vQRyWb4Dh0j) | 2:02 | 2024-06-20 |  |
-| [Honey](https://open.spotify.com/track/3WBWmLjLbdeLEWIenmGH5U) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Honey](https://open.spotify.com/album/0xvTFB0V2ILHM4H2Jdm6ng) | 2:53 | 2024-06-20 |  |
+| [Honey](https://open.spotify.com/track/3WBWmLjLbdeLEWIenmGH5U) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Honey](https://open.spotify.com/album/0xvTFB0V2ILHM4H2Jdm6ng) | 2:53 | 2024-06-20 | 2024-07-19 |
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-06-20 |  |
 | [J'écris](https://open.spotify.com/track/707blFQ6ZTTGSZUQCfdkIj) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [J'écris](https://open.spotify.com/album/0nqsL5Dloqn8mh1mZyOMI5) | 3:02 | 2024-06-20 |  |
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-06-20 |  |
-| [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 |  |
+| [Juvénile](https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Cinéclub](https://open.spotify.com/album/4Tdke5E9jlLqHM9wfqXcpO) | 3:32 | 2024-06-20 | 2024-07-19 |
 | [L'élu \- Bonus Track](https://open.spotify.com/track/2I6H8HZSGuUy95q77eAIRF) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Hedonis \(Edition Deluxe\)](https://open.spotify.com/album/00GAvuxpnHHu8DjQkAYRhM) | 3:08 | 2024-06-20 |  |
 | [L.A.](https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [+33](https://open.spotify.com/album/7lxKqKo75kR9sm2GYdmZTr) | 3:51 | 2024-07-04 |  |
+| [La nuit où](https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [La nuit où](https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I) | 3:02 | 2024-07-18 |  |
 | [La suite](https://open.spotify.com/track/0sZy9xmCCfPDBr2A8oM9KT) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [La suite](https://open.spotify.com/album/7HA25SoZlf9CcPCj7JtRcl) | 3:21 | 2024-06-20 |  |
 | [La tempête approche](https://open.spotify.com/track/46YgUtCMfBnb2bkATxD8pX) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [La tempête approche](https://open.spotify.com/album/2O79oOmN6J7uaRjx8V2Ux9) | 2:22 | 2024-06-20 |  |
 | [Les restes de mon passé](https://open.spotify.com/track/1ZBL4zWtHXLC16LBJAHBWm) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:20 | 2024-06-20 |  |
@@ -40,8 +43,9 @@
 | [Petite Geek](https://open.spotify.com/track/6AuSytl7mxC6qM9ObcxJHO) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Petite Geek](https://open.spotify.com/album/2ol7vjjSEBz5IUxMvyiySL) | 2:16 | 2024-06-20 |  |
 | [POLAIRE](https://open.spotify.com/track/0eVC2hbCYF2JMXumjz8kBY) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [POLAIRE](https://open.spotify.com/album/7yni4xIng9iVcPYAuuggU8) | 3:33 | 2024-06-20 |  |
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 |  |
-| [Primate déprimé](https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 3:13 | 2024-06-20 |  |
+| [Primate déprimé](https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 3:13 | 2024-06-20 | 2024-07-19 |
 | [Risque](https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 2:57 | 2024-06-20 |  |
+| [S.O.S](https://open.spotify.com/track/5tXSuBrfIYLTJPLGa0pKhi) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [S.O.S](https://open.spotify.com/album/1oClw21WLAxwKEaYLa7XE7) | 3:51 | 2024-07-18 |  |
 | [SAD](https://open.spotify.com/track/4Ltrw83dKDPZiLneBSEZWI) | [Seth Sad](https://open.spotify.com/artist/4yDo1iZ02sOpLsh1oGAAg9) | [SAD](https://open.spotify.com/album/2uKHrp7riKGlYaMKqX7hUC) | 3:20 | 2024-06-20 | 2024-07-12 |
 | [Sans Histoires](https://open.spotify.com/track/0yKiYhGtdEGT5hFkhJ84ys) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Sans Histoires](https://open.spotify.com/album/2yVFI5LJ49IV3UnWToc29i) | 2:45 | 2024-06-20 |  |
 | [Shuriken School](https://open.spotify.com/track/31sePGKxXCwAaOet4bcUw3) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Shuriken School](https://open.spotify.com/album/32aJg3s2WivGsYBjLkPrmp) | 3:14 | 2024-06-20 | 2024-07-05 |
@@ -49,6 +53,7 @@
 | [Topinambour](https://open.spotify.com/track/18YOJ0bEK8D68AJCnYEOVK) | [Ex\-Aequo](https://open.spotify.com/artist/7BCXsQgOn5a9AW2HlTd5xb) | [Topinambour](https://open.spotify.com/album/2biWJkwaSrUIn7OqKnk1ca) | 2:22 | 2024-06-20 |  |
 | [Toupie](https://open.spotify.com/track/1VzqSvUk73RGYlrppGYAVD) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Toupie](https://open.spotify.com/album/4V0Xs2qQHKwNefb7MpuING) | 2:45 | 2024-06-20 |  |
 | [TOUS CEUX](https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX) | [AMO](https://open.spotify.com/artist/7ymzaplgxOHvLpqgsv0FcO) | [TOUS CEUX](https://open.spotify.com/album/2M3FSKhks3bHfgFOJq54T3) | 3:10 | 2024-06-20 |  |
-| [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-06-20 |  |
+| [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-06-20 | 2024-07-19 |
+| [À mes démons Pt\. 2](https://open.spotify.com/track/1RkPNKaOA4NYTj1tkR5BEx) | [An'Om](https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22), [Vayn](https://open.spotify.com/artist/41CySalxZ2GST1n69SqsZ1) | [À mes démons Pt\. 2](https://open.spotify.com/album/0OLOS5tA0Uhw24QKDM542Y) | 3:13 | 2024-07-18 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

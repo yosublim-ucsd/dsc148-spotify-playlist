@@ -1,6 +1,6 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href=\"spotify:artist:1zK4ACgLi1lVPpfmmcwOTh\">DC Talk</a>",
-  "num_followers": 110605,
+  "num_followers": 110650,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
-      },
-      "artists": [
-        {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "Genuine",
         "url": "https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 216560,
       "name": "Don't Look At Me",
       "url": "https://open.spotify.com/track/3fyMwcqHxruPGAaGtDt4sh"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy"
+      },
+      "artists": [
+        {
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC"
     },
     {
       "added_at": "2024-07-04 20:41:02",

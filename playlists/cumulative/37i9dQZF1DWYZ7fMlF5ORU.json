@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Aten\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198681,
+      "name": "Aten\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS"
+    },
+    {
+      "album": {
         "name": "Avante",
         "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
       },
@@ -182,7 +204,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230124,
       "name": "Bem Perto",
       "url": "https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ"
@@ -818,7 +840,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 255050,
       "name": "Frequ\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
@@ -1148,6 +1170,24 @@
       "duration_ms": 277185,
       "name": "Mil Dez Mil 2020: Quarentena Session",
       "url": "https://open.spotify.com/track/20Tiks2PvS7ifIsBne7gCb"
+    },
+    {
+      "album": {
+        "name": "Kleber Lucas ao vivo no Teatro Rival, Pt.1 (AO VIVO)",
+        "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237553,
+      "name": "MULHER DE LO (AO VIVO)",
+      "url": "https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH"
     },
     {
       "album": {
@@ -1499,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Pista do C\u00e9u (Quase 30)",
+        "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        },
+        {
+          "name": "Oseas Silva",
+          "url": "https://open.spotify.com/artist/4TgTsq9dm2YdErrB8AJHMh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Pista do C\u00e9u (Quase 30)",
+      "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
+    },
+    {
+      "album": {
         "name": "Eli Soares",
         "url": "https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT"
       },
@@ -1654,7 +1716,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 191204,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/5DebScLy9XPILqkvhQ5vjK"

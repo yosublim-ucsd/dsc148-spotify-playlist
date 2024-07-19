@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. New music from Devon Again and MRD, plus the latest cuts from Miss Madeline, Delachute + more.
 
-540 songs - 1 day 7 hr 5 min
+541 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Ice Cream \- Dance System's Melted Mix](https://open.spotify.com/track/51NXmaYqw2elhFazzVSof8) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Ice Cream \(Remixes\)](https://open.spotify.com/album/4XPUW6nDXnbCVUwDKu1c9u) | 3:42 | 2022-06-03 | 2022-08-06 |
 | [Idea June](https://open.spotify.com/track/1NqqTOnwFzODsJECdvTE2S) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 1:30 | 2024-05-24 |  |
 | [If](https://open.spotify.com/track/2EYpvTvml0Yrrdjq3xZLNy) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels](https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS) | 5:08 | 2023-11-10 | 2024-04-26 |
+| [If i wan te d to o o o ^o.](https://open.spotify.com/track/7F304lzCnu9T9Uehlmg0WM) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Mietzee](https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1) | 2:03 | 2024-07-18 |  |
 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 | 2022-06-03 | 2022-08-06 |
 | [Illusion](https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Illusion](https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ) | 4:19 | 2024-07-14 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-04-26 |
@@ -300,7 +301,7 @@
 | [Love Songs](https://open.spotify.com/track/6nb57vP4sMYeeU2mfzVgr6) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Love Songs](https://open.spotify.com/album/3s5kOpbjLyG7l7N9Ezg1h0) | 3:08 | 2022-10-03 | 2022-11-13 |
 | [Loved By U \(George FitzGerald Remix\)](https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Loved By U \(George FitzGerald Remix\)](https://open.spotify.com/album/3tFrA0bZ5Psy1gFhThCFyv) | 4:00 | 2022-08-16 | 2022-08-27 |
 | [Loved By U \(Tommie Sunshine & On Deck Remix\)](https://open.spotify.com/track/32Q3rLLqMcwUDLVKpkdKhC) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [On Deck](https://open.spotify.com/artist/6emC4PVjomYP6W3Ns4ghT3), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo) | [Loved By U \(Tommie Sunshine & On Deck Remix\)](https://open.spotify.com/album/6dAzBD9Pq2FRBzo8i9pngT) | 4:07 | 2023-01-20 | 2023-09-26 |
-| [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 | 2024-07-12 |  |
+| [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 | 2024-07-12 | 2024-07-19 |
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-06-03 | 2022-08-06 |
 | [Luxury](https://open.spotify.com/track/4b30gTH3S93qtH6uQKcq6j) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Luxury](https://open.spotify.com/album/627z5HCoLuRLtWscADexPz) | 2:42 | 2024-06-22 |  |
 | [Magatama \- Bitter Babe Remix](https://open.spotify.com/track/1TV4oN2g9BCRBexzbxc1Ap) | [Rilla](https://open.spotify.com/artist/51Uwt3AgVZZ0gCtdq1UMYD), [Bitter Babe](https://open.spotify.com/artist/59wTkFdKKx7y6z4PFfRGhW) | [Yukou / 遊光 EP](https://open.spotify.com/album/7GKhKyfoS1uoN3VE9yDkNY) | 3:01 | 2022-11-12 | 2023-12-14 |

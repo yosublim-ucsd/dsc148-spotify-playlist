@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,902 songs - 4 day 11 hr 51 min
+1,903 songs - 4 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [GET IT](https://open.spotify.com/track/2Qv0e96tKykDDPYtqGMcAx) | [ZIOS](https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX) | [GET IT](https://open.spotify.com/album/5vuaYsKIYxBcsHHsFOsCKP) | 3:32 | 2023-03-10 | 2023-03-18 |
 | [Get It Now](https://open.spotify.com/track/1EcRdhEVxAGHKYM9yY9q7R) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Get It Now](https://open.spotify.com/album/3C3eMyKZM2d8lgqQcJffHP) | 2:22 | 2023-10-06 | 2023-10-14 |
 | [Get It On \- Radio Edit](https://open.spotify.com/track/4m9uVd1ujJAuYfLNKbQHei) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8) | [Get It On \(Radio Edit\)](https://open.spotify.com/album/6Dol5mYWRPWgYcN6cU0mxm) | 2:35 | 2023-12-01 | 2023-12-17 |
+| [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 | 2024-07-18 |  |
 | [Get Mad](https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj) | [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [Get Mad](https://open.spotify.com/album/2wfPevhgjDq94RcShPIfL2) | 3:45 | 2023-04-07 | 2023-04-15 |
 | [Get Real High](https://open.spotify.com/track/3Ku4xcxvaRIRJAUNBZYQMy) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Get Real High](https://open.spotify.com/album/44Aa6OmcMPoRwSuMeILj6p) | 3:06 | 2023-04-28 | 2023-05-06 |
 | [Get Rockin'](https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Rockin'](https://open.spotify.com/album/2qKqssflCtHWY8jw63Qey6) | 3:02 | 2024-05-01 | 2024-06-22 |

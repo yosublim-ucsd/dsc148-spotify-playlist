@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: The Beatles",
-  "num_followers": 3116004,
+  "num_followers": 3116902,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Letter/Neon Rainbow",
-        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
-      },
-      "artists": [
-        {
-          "name": "The Box Tops",
-          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "The Letter/Neon Rainbow",
+        "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
+      },
+      "artists": [
+        {
+          "name": "The Box Tops",
+          "url": "https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/6RJK553YhstRzyKA4mug09"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 137306,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
       "artists": [
         {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "It's Our Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -2211,42 +2211,6 @@
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": "2024-07-10 05:20:25",
-      "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2267,6 +2231,22 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -2279,6 +2259,26 @@
       "duration_ms": 169160,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
+    },
+    {
+      "added_at": "2024-07-10 05:20:25",
+      "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
     },
     {
       "added_at": "2024-07-10 05:20:25",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2024-07-10 05:20:25",
       "album": {
-        "name": "The Beat Goes On: Best Of",
-        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+        "name": "The Everlasting Love Affair",
+        "url": "https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX"
       },
       "artists": [
         {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
         }
       ],
-      "duration_ms": 193840,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+      "duration_ms": 182666,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
     }
   ],
   "unique_name": "All Out 60s",

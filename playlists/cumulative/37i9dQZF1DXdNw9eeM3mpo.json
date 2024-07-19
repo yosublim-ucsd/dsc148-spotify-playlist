@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Skangre Latino",
+        "url": "https://open.spotify.com/album/5dGLfPbpabYLF6RWWQ0GCH"
+      },
+      "artists": [
+        {
+          "name": "The Magnetics",
+          "url": "https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/02x8yVQKZ1hhXfwMLrWPE3"
+    },
+    {
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
       },
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196845,
       "name": "El Tren",
       "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
@@ -2166,6 +2184,24 @@
       "duration_ms": 197533,
       "name": "Estrella Roja",
       "url": "https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0"
+    },
+    {
+      "album": {
+        "name": "Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/58HuvUk6husnKyigR8iOFY"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122858,
+      "name": "Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/18iAPBZinu7ZHeFhxNcxWn"
     },
     {
       "album": {
@@ -2753,6 +2789,32 @@
     },
     {
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Lena Campos",
+          "url": "https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz"
+        },
+        {
+          "name": "Moy Yos",
+          "url": "https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192939,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
+    },
+    {
+      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -3334,7 +3396,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185925,
       "name": "Me Va A Castigar El Se\u00f1or",
       "url": "https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP"
@@ -5233,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Ska ruptura y conflicto",
+        "url": "https://open.spotify.com/album/0iVP5QRbIWtHU8e9g47Imx"
+      },
+      "artists": [
+        {
+          "name": "Skaldik",
+          "url": "https://open.spotify.com/artist/1FxkMcxmouciAx4Fb4x3n7"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161358,
+      "name": "Ska ruptura y conflicto",
+      "url": "https://open.spotify.com/track/6U6kkTSw8eLsXmwead5W0b"
+    },
+    {
+      "album": {
         "name": "Los Reyes de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj"
       },
@@ -5466,7 +5546,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 190147,
       "name": "Somos amigos",
       "url": "https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk"

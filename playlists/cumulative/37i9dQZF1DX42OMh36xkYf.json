@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Kali Uchis en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con RENEE en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 187640,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208839,
       "name": "El Amor Es un Juego de Perdedores",
       "url": "https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209493,
       "name": "It Was Always You (Siempre Fuiste T\u00fa)",
       "url": "https://open.spotify.com/track/74XgsdImAXUs6VDcmYqbDl"
@@ -1483,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Los Lugares M\u00e1s Bonitos",
+        "url": "https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Los Lugares M\u00e1s Bonitos",
+      "url": "https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW"
+    },
+    {
+      "album": {
         "name": "L\u00edmites",
         "url": "https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD"
       },
@@ -1498,6 +1520,24 @@
       "duration_ms": 210000,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294"
+    },
+    {
+      "album": {
+        "name": "ma, peiname otra vez",
+        "url": "https://open.spotify.com/album/0UB3hW289IUID3CA3IMiOB"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147972,
+      "name": "ma, peiname otra vez",
+      "url": "https://open.spotify.com/track/4iBGu9YdrM40sX0kQ52Kd0"
     },
     {
       "album": {
@@ -1840,6 +1880,24 @@
       "duration_ms": 153242,
       "name": "Nunca Quise Escribirte una Balada",
       "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,368 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,421 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 54 | [En tierra extraña](https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Antologia, Vol\. 5](https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14) | 2:53 |
 | 55 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 56 | [Soy Una Feria](https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS) | [Gracia Montes](https://open.spotify.com/artist/1dLbRp4b9TOqxlPj6Pmtbu) | [Mis Mejores Canciones](https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8) | 2:44 |
-| 57 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
-| 58 | [Coplillas de las Divisas \(Americanos\)](https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0) | [Lolita Sevilla](https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja) | [Raices de la Canción Española, Vol\. 4](https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr) | 2:44 |
+| 57 | [Coplillas de las Divisas \(Americanos\)](https://open.spotify.com/track/2jsHf9MILNts8a4oE52QX0) | [Lolita Sevilla](https://open.spotify.com/artist/3YTaABDoji99gSK5qDdPja) | [Raices de la Canción Española, Vol\. 4](https://open.spotify.com/album/0YPZiUW2u8RB8zRsVANNpr) | 2:44 |
+| 58 | [Tatuaje](https://open.spotify.com/track/4bSTSglkBr2mtv9bgKR8Th) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Tatuaje](https://open.spotify.com/album/6z0xxhlPljQvIMgCrfkwTn) | 4:31 |
 | 59 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 |
 | 60 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
 | 61 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 |

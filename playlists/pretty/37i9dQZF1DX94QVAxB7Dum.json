@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 741021,
+  "num_followers": 741219,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,38 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
       },
@@ -667,38 +699,6 @@
       "duration_ms": 152613,
       "name": "My World Is Empty Without You - Single Version (Mono)",
       "url": "https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3FfXp6sziy6wygJglzvzO7"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6iJLTnTP6JlqdfVtE3bywO"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
     },
     {
       "added_at": "2024-07-02 22:47:47",

@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 151283,
       "name": "365 (Thr33 6ix 5ive)",
       "url": "https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218500,
       "name": "About You",
       "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
+    },
+    {
+      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -864,7 +886,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Burning In My Arms - Edit",
       "url": "https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa"
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 177049,
       "name": "Cologne",
       "url": "https://open.spotify.com/track/2Ktp3GYFKr8saM8ZIOA0c0"
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Disco Tool",
       "url": "https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6"
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158639,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 214036,
       "name": "For The Same Man - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO"
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
@@ -2320,10 +2342,76 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "album": {
+        "name": "High For This",
+        "url": "https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
       "album": {
@@ -2398,6 +2486,36 @@
       "duration_ms": 406691,
       "name": "Hungry For The Power - Jamie Jones Ridge Street Remix",
       "url": "https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab"
+    },
+    {
+      "album": {
+        "name": "I Adore You",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
       "album": {
@@ -2518,7 +2636,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 288238,
       "name": "Insomnia 2021 - Epic Edit",
       "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
@@ -2789,6 +2907,28 @@
     },
     {
       "album": {
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
+    },
+    {
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -2870,7 +3010,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
@@ -3824,7 +3964,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
@@ -4084,7 +4224,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
@@ -4670,7 +4810,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 154869,
       "name": "rosa blanca",
       "url": "https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov"
@@ -4868,6 +5008,28 @@
       "duration_ms": 202943,
       "name": "Shake My Booty",
       "url": "https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve"
+    },
+    {
+      "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     },
     {
       "album": {
@@ -5194,7 +5356,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175475,
       "name": "Spotlight (feat. Sarah Ikumu)",
       "url": "https://open.spotify.com/track/2ccAtGaGO98e5TxDxPCf1R"
@@ -5234,7 +5396,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 307600,
       "name": "Stupidisco",
       "url": "https://open.spotify.com/track/4kqv0fA0vF1vNwlVQqewdL"
@@ -5440,7 +5602,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 143579,
       "name": "Tears In Ibiza (feat. AR/CO)",
       "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
@@ -5458,7 +5620,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 293653,
       "name": "Tell Me It\u2019s True",
       "url": "https://open.spotify.com/track/6SeM0zpB4jqfB3z7notUGE"
@@ -5787,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "album": {
         "name": "Tripasia",
         "url": "https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS"
       },
@@ -5868,7 +6048,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208374,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc"

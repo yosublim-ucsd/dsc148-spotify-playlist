@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 8125,
+  "num_followers": 8135,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAABhCdpmVbYond/PHg8KStwj",
+  "snapshot_id": "ZpcJgAAAAAAKs82+12HUIyp6mstjndkC",
   "tracks": [
     {
       "added_at": null,
@@ -516,7 +516,7 @@
       },
       "artists": [
         {
-          "name": "Fresh Mind Co.",
+          "name": "Fresh Records",
           "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         },
         {
@@ -899,6 +899,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quem N\u00e3o Erra em 2024",
+        "url": "https://open.spotify.com/album/4ecWpUTm8kB4ZRHgrzl9Sn"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Dj Js da Bl",
+          "url": "https://open.spotify.com/artist/4WsJ6J8ULT2wveR7ZdYdf4"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Canceriana Nata",
+      "url": "https://open.spotify.com/track/2Vt28AiNmO2Y4HpIpY7AxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
         "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
@@ -923,26 +967,6 @@
       "duration_ms": 181714,
       "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
       "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -1048,7 +1072,7 @@
       },
       "artists": [
         {
-          "name": "Fresh Mind Co.",
+          "name": "Fresh Records",
           "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         },
         {

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
+    },
+    {
+      "album": {
         "name": "All Kinds Of People",
         "url": "https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ"
       },
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "HEAVY JELLY",
+        "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
+      },
+      "artists": [
+        {
+          "name": "SOFT PLAY",
+          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Isaac Is Typing\u2026",
+      "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
+    },
+    {
+      "album": {
         "name": "It's Supposed To Hurt",
         "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
       },
@@ -774,6 +810,32 @@
       "duration_ms": 155658,
       "name": "Italian Horror",
       "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
+        "name": "Make It Feel Like The Garden",
+        "url": "https://open.spotify.com/album/6ifr5AvAQVzz2AYPsdJCBK"
+      },
+      "artists": [
+        {
+          "name": "Eliza & The Delusionals",
+          "url": "https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l"
+        },
+        {
+          "name": "Brian Aubert",
+          "url": "https://open.spotify.com/artist/4oSqkqAQHELywy2a9fd6xa"
+        },
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303490,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2tOTRdiIf0PX3fhMGl5y6S"
     },
     {
       "album": {
@@ -860,7 +922,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246453,
       "name": "Long Gone",
       "url": "https://open.spotify.com/track/4SgpPHapJLYPEzAyLbWoWt"
@@ -1192,7 +1254,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150066,
       "name": "Pest",
       "url": "https://open.spotify.com/track/495LiUjJ61sqBzDQv0msJ6"
@@ -1636,7 +1698,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 214826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3jESXgVdq4COa7QrbUAL0T"

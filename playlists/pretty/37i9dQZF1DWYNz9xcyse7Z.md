@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,188 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,436 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 74 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 75 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
 | 76 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
-| 77 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
-| 78 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
+| 77 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
+| 78 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 79 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
 | 80 | [Ambicion](https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk) | [Los Pescadores De Guaymas](https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv) | [Raza Pesada](https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t) | 3:14 |
 | 81 | [Historia entre tus dedos](https://open.spotify.com/track/2c3c9NYwR9fEZG7EzMHONB) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 4:13 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 83 | [Quedate Conmigo Esta Noche](https://open.spotify.com/track/25nLNldTr1ByAS8suid2AE) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:48 |
 | 84 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
 | 85 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
-| 86 | [La chuparrosas](https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un golpe mas](https://open.spotify.com/album/3Gr1QdaINQxCNKGCFLxlKw) | 2:31 |
-| 87 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
+| 86 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
+| 87 | [La chuparrosas](https://open.spotify.com/track/2kLeTQPQ5DSjiIsQH7aRVQ) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Un golpe mas](https://open.spotify.com/album/3Gr1QdaINQxCNKGCFLxlKw) | 2:31 |
 | 88 | [Mujer Paseada](https://open.spotify.com/track/2PIHW6nhUIF99L3Uz8bTef) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt) | 2:42 |
 | 89 | [Una Paloma en Su Nido](https://open.spotify.com/track/6Xzit0HIXqiWEmXusTXBNA) | [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Judiciales y Malandrines](https://open.spotify.com/album/763aWL2MrtBRXOmdWPQCxm) | 3:32 |
 | 90 | [Entre la lluvia y mi llorar](https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 2:58 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 92 | [De Corazon A Corazon](https://open.spotify.com/track/7fWPcPuDl9hlhcvU7M9UMA) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [De Corazon A Corazon](https://open.spotify.com/album/1b86qyLPoQTAluo8PpyAi0) | 3:33 |
 | 93 | [Eres Mi Droga](https://open.spotify.com/track/6dxYc4d5URZybMYvJD68yV) | [Los Diamantes De Sinaloa](https://open.spotify.com/artist/54us4vA4ORn9TlBp0LGNhz) | [100% Sierreños](https://open.spotify.com/album/3Rppcvwk1wAd3wpuzFx3Or) | 3:19 |
 | 94 | [Los Barandales Del Puente](https://open.spotify.com/track/2du1PD4nE2dYU6lfZeVD16) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/6Rxsefqi3Fj9DL2yfFYAk1) | 3:21 |
-| 95 | [Dos palomas al volar](https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
-| 96 | [A puro dolor](https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 3:14 |
+| 95 | [A puro dolor](https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 3:14 |
+| 96 | [Dos palomas al volar](https://open.spotify.com/track/7iCNGBxWezQObpCqpaB5XG) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
 | 97 | [Que casualidad](https://open.spotify.com/track/02BlMqEvarDn1IGr2Ix8Ej) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Hombres de rancho](https://open.spotify.com/album/4Up8EAkBlnniJH6DJPux3q) | 3:24 |
 | 98 | [Jardin Olvidado](https://open.spotify.com/track/1kC178uk2qh20lvlyZWci2) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/1xfvvHZ5FoMO5Gba9v1rZt) | 2:37 |
 | 99 | [Presiento que voy a llorar](https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 3:20 |

@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: My Deer Friend Nokotan しかのこのこのここしたんたん ©おしおしお・講談社／日野南高校シカ部
 
-689 songs - 1 day 21 hr 53 min
+691 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [それを人は“青春”と呼んだ](https://open.spotify.com/track/0wMBQ8EJV5DWgHmLYlqoqT) | [長瀬琴乃 \(CV:橘 美來\)](https://open.spotify.com/artist/5aNqOgJHJBWVzP4lrNaxj0), [川咲さくら \(CV:菅野真衣\)](https://open.spotify.com/artist/4OkbwGMGFV6ChUxL14luUu), [天動瑠依 \(CV:雨宮 天\)](https://open.spotify.com/artist/6pza5RAOaUduGRWBygnakK), [神崎莉央 \(CV:戸松 遥\)](https://open.spotify.com/artist/0iM1XJj7tUAXVDTafkUWye) | [それを人は“青春”と呼んだ](https://open.spotify.com/album/4M7GsZQacMcmfB1g5AHEbg) | 4:41 | 2022-06-24 | 2022-07-08 |
 | [たしかなことって](https://open.spotify.com/track/0ory8MISDPVsg3Cw2TxA4i) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ちょっとそこまで昨日を迎えに](https://open.spotify.com/album/6isd33tinRAlYHU5Nq0znS) | 4:04 | 2022-06-14 | 2022-07-24 |
 | [だから大丈夫](https://open.spotify.com/track/2qT6vV4BEUPWg9qkphIxZV) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [だから大丈夫](https://open.spotify.com/album/3yS7LgiXQbNzNdY2W94tRa) | 3:04 | 2023-12-21 | 2024-01-19 |
-| [だらけ。](https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [だらけ。](https://open.spotify.com/album/2KqWfBx4exHse4O8RemB2v) | 3:52 | 2024-07-03 |  |
+| [だらけ。](https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [だらけ。](https://open.spotify.com/album/2KqWfBx4exHse4O8RemB2v) | 3:52 | 2024-07-03 | 2024-07-19 |
 | [つむじかぜ](https://open.spotify.com/track/4y7twNI9ShIyjZ71355UUo) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [TVアニメ「本好きの下剋上 司書になるためには手段を選んでいられません」第二部 オープニングテーマ つむじかぜ](https://open.spotify.com/album/5zgLhYuG5JdShOAti8B4Wx) | 4:33 | 2022-06-21 | 2022-07-29 |
 | [つらぬいて憂鬱](https://open.spotify.com/track/0iaXrVoiTMagsrnEg6JouC) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [つらぬいて憂鬱](https://open.spotify.com/album/5X7Y1EmmutAh1xm2F53PUb) | 3:45 | 2022-06-21 | 2022-06-25 |
 | [ときめき](https://open.spotify.com/track/4hhlE9Eyj8vVydzO3bAi8m) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 4:59 | 2023-09-12 | 2023-09-27 |
@@ -550,6 +550,7 @@
 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 | 2022-06-09 | 2024-02-14 |
 | [光の中へ](https://open.spotify.com/track/5pRchw0E4RpVqIWcyVCrJv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [光の中へ](https://open.spotify.com/album/5sDC6Ant3CvtIFt6kPhGm8) | 4:18 | 2023-05-21 |  |
 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 | 2022-06-09 | 2022-07-29 |
+| [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 |  |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-06-12 | 2022-09-21 |
 | [制服](https://open.spotify.com/track/17NRaW1lyJdj359L5zk7DL) | [Ayane Sakura](https://open.spotify.com/artist/17uMaak4xTNl5roQnxUVvw) | [VOICE\~声優たちが歌う松田聖子ソング\~ \(Female Edition\)](https://open.spotify.com/album/6fUH571p2INdf32SFdpBQ2) | 3:53 | 2022-07-07 | 2022-07-15 |
 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 | 2024-04-16 | 2024-07-14 |
@@ -652,6 +653,7 @@
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 | 2023-12-20 |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2022-06-09 | 2022-07-23 |
 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 | 2024-01-07 | 2024-01-31 |
+| [紫苑の花束を](https://open.spotify.com/track/3vYnQXtbnqJjqkROzaDhkc) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [紫苑の花束を](https://open.spotify.com/album/4OZyyM7Y8CVUVljWchDKh6) | 4:05 | 2024-07-19 |  |
 | [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-13 | 2023-05-15 |
 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 | 2024-02-14 |
 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 | 2024-04-16 |  |
@@ -677,7 +679,7 @@
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 | 2023-04-12 |
 | [運命](https://open.spotify.com/track/5HcWjVIBsq3YvW8Xy3j9zA) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [運命](https://open.spotify.com/album/7jtl7cfldtQ6yQDult4cic) | 3:59 | 2024-04-16 | 2024-07-10 |
 | [運命ちゃん](https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [運命ちゃん](https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj) | 3:16 | 2024-04-16 |  |
-| [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 | 2024-07-07 |  |
+| [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 | 2024-07-07 | 2024-07-19 |
 | [金剛石ヒューマン](https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [金剛石ヒューマン](https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM) | 4:09 | 2023-06-13 | 2023-06-15 |
 | [銀河鉄道999](https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia) | [Photon Maiden](https://open.spotify.com/artist/0CsTVU9j8C5nXwgIWyCjMm) | [D4DJ Groovy Mix カバートラックス \(vol.3\)](https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB) | 3:47 | 2022-06-12 | 2022-07-16 |
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |

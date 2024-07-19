@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Lava Lava",
+  "description": "What is your love language? Say it in Swahili.  Cover: Lava Lava",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234947,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/4GbdX8xihpD1eIr0sHvTiT"
@@ -2402,6 +2402,24 @@
       "duration_ms": 237400,
       "name": "My Vow",
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
+    },
+    {
+      "album": {
+        "name": "Na Nusu",
+        "url": "https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263999,
+      "name": "Na Nusu",
+      "url": "https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV"
     },
     {
       "album": {

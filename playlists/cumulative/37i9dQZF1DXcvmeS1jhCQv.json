@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Holly Munro",
+  "description": "New tunes from Ireland for your discovery. Cover: Aimee Carty",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "2000SEVEN",
+        "url": "https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161352,
+      "name": "2000SEVEN",
+      "url": "https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/07fOd3xbSXCr0sd16Mtkk2"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 181268,
       "name": "21",
       "url": "https://open.spotify.com/track/19DYo3z33u99Ic14HbqUDC"
+    },
+    {
+      "album": {
+        "name": "25BAG",
+        "url": "https://open.spotify.com/album/79JXoGgUwWV1QnGO6B8rnc"
+      },
+      "artists": [
+        {
+          "name": "Kurtis",
+          "url": "https://open.spotify.com/artist/1ZV5RU7ViRwlv7vqWuOHRf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133745,
+      "name": "25BAG",
+      "url": "https://open.spotify.com/track/6gTr4jaNiIUCz8pwA4UrYN"
     },
     {
       "album": {
@@ -124,7 +160,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 135219,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0enqLHS7NWlDbtTftkoohu"
@@ -185,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Baker",
+        "url": "https://open.spotify.com/album/0z2ucrChRvTLD6mIld3DsQ"
+      },
+      "artists": [
+        {
+          "name": "Aimee Carty",
+          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169468,
+      "name": "Baker",
+      "url": "https://open.spotify.com/track/0W6nT0cnGAVf7PDSAzg3wh"
+    },
+    {
+      "album": {
         "name": "Before Sunrise",
         "url": "https://open.spotify.com/album/2Q31TgtwPhJBtfqwugotBC"
       },
@@ -222,6 +276,24 @@
       "duration_ms": 239799,
       "name": "behind those tears",
       "url": "https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV"
+    },
+    {
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185807,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU"
     },
     {
       "album": {
@@ -453,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Walk Away",
+        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171620,
+      "name": "Can\u2019t Walk Away",
+      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
+    },
+    {
+      "album": {
         "name": "Chelsea Bakery",
         "url": "https://open.spotify.com/album/02DHWSoYSF7Q0oyuBO18Pc"
       },
@@ -490,6 +584,32 @@
       "duration_ms": 177600,
       "name": "Cherry Delight",
       "url": "https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN"
+    },
+    {
+      "album": {
+        "name": "cherry pie",
+        "url": "https://open.spotify.com/album/4Krp3fX1pHb8thCoslcJeS"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        },
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Gaptoof",
+          "url": "https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182464,
+      "name": "cherry pie",
+      "url": "https://open.spotify.com/track/2qCq6qRPHcqiUMAd3MDxqs"
     },
     {
       "album": {
@@ -630,7 +750,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 128000,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw"
@@ -724,6 +844,24 @@
       "duration_ms": 181735,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm"
+    },
+    {
+      "album": {
+        "name": "doing it different",
+        "url": "https://open.spotify.com/album/0LPRbsol8F6hziNTuM23zS"
+      },
+      "artists": [
+        {
+          "name": "BoyW1DR",
+          "url": "https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "doing it different",
+      "url": "https://open.spotify.com/track/6x0sFmVsCL8MZ9vV6DzTBQ"
     },
     {
       "album": {
@@ -979,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "When Night Turns Into Day",
+        "url": "https://open.spotify.com/album/0MZ205dvlIc7j8QYpikurE"
+      },
+      "artists": [
+        {
+          "name": "Telebox",
+          "url": "https://open.spotify.com/artist/2WUhMmMOwEArxH5zseJz2s"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Following the Night",
+      "url": "https://open.spotify.com/track/28F8s5GQZiwCFJysAVGsXy"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e"
       },
@@ -1134,7 +1290,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
@@ -1228,7 +1384,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211706,
       "name": "If The Shoe Fits",
       "url": "https://open.spotify.com/track/4IkaBc35ZYwa1CKUwyUhum"
@@ -1570,7 +1726,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154104,
       "name": "LOSTWITHOUTMARIA",
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
@@ -2199,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/1WYH32LddIScNJoLIRdWjO"
+      },
+      "artists": [
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139627,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/5weUQBxKTw2sPd1tlq9uZ4"
+    },
+    {
+      "album": {
         "name": "Pretty Happy Alone",
         "url": "https://open.spotify.com/album/4CflMNEveOX5PvgU1MHUXq"
       },
@@ -2210,7 +2384,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182000,
       "name": "Pretty Happy Alone",
       "url": "https://open.spotify.com/track/1qwG5MyG0BnBDzAWOfLusM"
@@ -2228,7 +2402,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156097,
       "name": "Put The Blame On Me",
       "url": "https://open.spotify.com/track/6uOMsRNuCaoLRQXFrmgrBc"
@@ -2617,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Stereo Games",
+        "url": "https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Stereo Games",
+      "url": "https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl"
+    },
+    {
+      "album": {
         "name": "Stolen",
         "url": "https://open.spotify.com/album/4pkyc4VKlD6dTStSdWPFUX"
       },
@@ -2776,7 +2968,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 267679,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6"
@@ -2888,7 +3080,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184235,
       "name": "They Called Her Something",
       "url": "https://open.spotify.com/track/0MuNwv9HUPJVqy1vLUSMKt"
@@ -2942,7 +3134,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224385,
       "name": "Truth\u2606Truth",
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
@@ -3108,10 +3300,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 207475,
       "name": "WHAT IF?",
       "url": "https://open.spotify.com/track/5M6eDxEy9OdZNAGvmqmyXv"
+    },
+    {
+      "album": {
+        "name": "WHATCHIMACALLIT.",
+        "url": "https://open.spotify.com/album/0F81Vw5HTtRRixA1etxJoW"
+      },
+      "artists": [
+        {
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121235,
+      "name": "WHATCHIMACALLIT.",
+      "url": "https://open.spotify.com/track/1IeYkGRtIGwMt714teSfla"
     },
     {
       "album": {
@@ -3152,7 +3362,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174890,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/5ehWzatobIYySYrZB0HJ5K"
@@ -3264,6 +3474,24 @@
       "duration_ms": 192682,
       "name": "You're My Medicine",
       "url": "https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/5jCKLr9zCu2a4sc2YDXGtz"
+      },
+      "artists": [
+        {
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239267,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6bbJPvWtDLZOBLiPSfccxr"
     },
     {
       "album": {

@@ -656,7 +656,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/5AdpdaoHXbQtV3kjWYUMe4"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 201330,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ"
@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 231157,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
@@ -1534,6 +1534,28 @@
       "duration_ms": 196804,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5BDTTFBgXEcjjyLUerBsnB"
+    },
+    {
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/3cUjOkczwQfDYCwykax7lg"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148406,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
     },
     {
       "album": {
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "Children Of Drums - Headhunterz Remix",
       "url": "https://open.spotify.com/track/35Z0mpi564mEOdEBJc0Kqc"
@@ -2462,7 +2484,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 178500,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/6vFEXiW7QPKGRardogdK6f"
@@ -3314,7 +3336,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 238875,
       "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
       "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
@@ -3534,7 +3556,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210163,
       "name": "Dragonborn part 3 (Oceans Apart)",
       "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
@@ -4660,7 +4682,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185806,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/5GCL6u4hSfHrGUZPLyJBfZ"
@@ -4818,7 +4840,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 213677,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5Oh48t8W8xH1GTZ6fa6502"
@@ -5898,7 +5920,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
@@ -5924,6 +5946,36 @@
       "duration_ms": 241333,
       "name": "Hard 2 Hire",
       "url": "https://open.spotify.com/track/1OB78PnhUrUSmzDHgitVSD"
+    },
+    {
+      "album": {
+        "name": "Hard Beat",
+        "url": "https://open.spotify.com/album/6JdGln5CLBPWHGgelscMt0"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188702,
+      "name": "Hard Beat",
+      "url": "https://open.spotify.com/track/7Gs5hS0rQsdE5GVjovT5rm"
     },
     {
       "album": {
@@ -7085,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "In Your Bones",
+        "url": "https://open.spotify.com/album/2wV6AlO748m7m0STGhl5EH"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165375,
+      "name": "In Your Bones",
+      "url": "https://open.spotify.com/track/0AONJrrV6pHp5fszWmvGAd"
+    },
+    {
+      "album": {
         "name": "Inception",
         "url": "https://open.spotify.com/album/5BAqL7Fl7xuQszjx6izYTT"
       },
@@ -7252,7 +7322,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209032,
       "name": "Into Ecstasy",
       "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
@@ -7556,7 +7626,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6JRzMGFKTgf5c76qV6uT9F"
@@ -7790,7 +7860,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 156705,
       "name": "Kriss Kross",
       "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
@@ -8334,7 +8404,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 303586,
       "name": "Living For The Moment - 2020 Remix",
       "url": "https://open.spotify.com/track/4gZNHeY0uBX0f9VTV1VA3Y"
@@ -8938,7 +9008,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Meine Droge",
       "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
@@ -9214,7 +9284,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 177656,
       "name": "Moonlight Shadow - Stereo Faces Remix",
       "url": "https://open.spotify.com/track/4tjJ8HNYrI3msWoD9ZCIa3"
@@ -9258,7 +9328,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 230412,
       "name": "Mr Brightside",
       "url": "https://open.spotify.com/track/6x19X5cibbIjsCtlzsgZEY"
@@ -9445,6 +9515,28 @@
     },
     {
       "album": {
+        "name": "My Horizon (feat. Max P)",
+        "url": "https://open.spotify.com/album/4RsqfhmOLFSUQs09jeBzIO"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Max P",
+          "url": "https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0StDmNzhLuJmaR3K0i3ORB"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU"
       },
@@ -9540,7 +9632,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160001,
       "name": "Never Go To Sleep",
       "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
@@ -11524,7 +11616,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 213713,
       "name": "Refuse To Speak",
       "url": "https://open.spotify.com/track/2mag3VWfGlpBA6YOdpTeV6"
@@ -11842,7 +11934,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 217841,
       "name": "Rooftop - Jordiz Remix",
       "url": "https://open.spotify.com/track/6HbyNftAudWl9wILXAN3DZ"
@@ -12672,7 +12764,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208823,
       "name": "Something New",
       "url": "https://open.spotify.com/track/2ClJdYDfI8kjMadp5qTziB"
@@ -12826,7 +12918,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184511,
       "name": "STAR WALKIN'",
       "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
@@ -13226,7 +13318,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 212146,
       "name": "Sun Comes Up",
       "url": "https://open.spotify.com/track/2GVhChi8rNLrfcfHjzFVQq"
@@ -13692,7 +13784,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 142463,
       "name": "TECHNOBOTS",
       "url": "https://open.spotify.com/track/1FpFPb1VH1ZXqT1xrhpeaS"
@@ -14200,6 +14292,32 @@
       "duration_ms": 207483,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/3wxbMFOaduop2XFO9gKihO"
+    },
+    {
+      "album": {
+        "name": "The Showdown",
+        "url": "https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        },
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180329,
+      "name": "The Showdown",
+      "url": "https://open.spotify.com/track/0GMhPWb7ljKYBpJ8iEqInL"
     },
     {
       "album": {
@@ -14726,7 +14844,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186410,
       "name": "TOO COLD",
       "url": "https://open.spotify.com/track/0vBOyqICis94fkSwJbfUeF"
@@ -14748,7 +14866,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 274968,
       "name": "TOO HAPPY",
       "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
@@ -15898,7 +16016,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 143600,
       "name": "Weekend Party",
       "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"

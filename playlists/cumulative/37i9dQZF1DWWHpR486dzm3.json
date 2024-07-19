@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien parhaat uutuudet. Kannessa Figaro.",
+  "description": "Suomi-indien parhaat uutuudet. Kannessa Ocelot.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Berlin Blue",
+        "url": "https://open.spotify.com/album/4SgIz7zCA3GqvNrA5PCBno"
+      },
+      "artists": [
+        {
+          "name": "Timi Tamminen",
+          "url": "https://open.spotify.com/artist/5O7fwjbK3owt98nv9SJrkz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Berlin Blue",
+      "url": "https://open.spotify.com/track/7nbJEzQzNF3UeTMcrVoeuo"
+    },
+    {
+      "album": {
         "name": "Big Sleep",
         "url": "https://open.spotify.com/album/7obZlqjwttYWmU5bpNN5L0"
       },
@@ -328,7 +346,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178197,
       "name": "Ensitreffit tontilla",
       "url": "https://open.spotify.com/track/6q8MAXzv2UnXkWupIdFAVU"
@@ -754,7 +772,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178289,
       "name": "Kokomustissa",
       "url": "https://open.spotify.com/track/2WVUvqCsmxclf6srOXWvUF"
@@ -1025,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Mets\u00e4harju / Oi pojat",
+        "url": "https://open.spotify.com/album/1Qoir8p8rpgk9Y7rTqNBcD"
+      },
+      "artists": [
+        {
+          "name": "Suisto",
+          "url": "https://open.spotify.com/artist/3fgGRAdwG3yg5RvoHgHVaG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262941,
+      "name": "Mets\u00e4harju",
+      "url": "https://open.spotify.com/track/56ppx9x81s2OhyOFxZDRIu"
+    },
+    {
+      "album": {
         "name": "Mulla on sulle jotain",
         "url": "https://open.spotify.com/album/0FIBW5uuHt2yoohkjthzQ5"
       },
@@ -1277,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Prinssi/Pikkuveli",
+        "url": "https://open.spotify.com/album/6eOFs23TgdoTtK3e5ELOY0"
+      },
+      "artists": [
+        {
+          "name": "Ocelot",
+          "url": "https://open.spotify.com/artist/1xDDGK71huKOEAuA0692gE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Prinssi/Pikkuveli",
+      "url": "https://open.spotify.com/track/47lHrA8PEZDM0gKkuEahpQ"
+    },
+    {
+      "album": {
         "name": "Punto",
         "url": "https://open.spotify.com/album/4yHW3TqsbEyTWMm4DKsWuM"
       },
@@ -1288,7 +1342,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 305500,
       "name": "Punto",
       "url": "https://open.spotify.com/track/0TyK0ucGg7YxXiprdLqsOk"
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 229930,
       "name": "Running Water",
       "url": "https://open.spotify.com/track/11wKNd3OHEyk4oUp5HdJuC"
@@ -1581,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Teknologia",
+        "url": "https://open.spotify.com/album/6Bwq30Thzn3GE0pgG0TmRm"
+      },
+      "artists": [
+        {
+          "name": "HELKA",
+          "url": "https://open.spotify.com/artist/37M2Vpf9z3CeBBhxfSTZ2r"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190767,
+      "name": "Teknologia",
+      "url": "https://open.spotify.com/track/7coOG4HNKUPvqh0ok6K6Ms"
+    },
+    {
+      "album": {
         "name": "Terveisin, G\u00f6sta",
         "url": "https://open.spotify.com/album/0EjFesemwrRBcTVD8b8OMj"
       },
@@ -1646,7 +1718,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 141000,
       "name": "Turta",
       "url": "https://open.spotify.com/track/3Llwp9exdRot2fFKsYThQs"
@@ -1900,6 +1972,24 @@
       "duration_ms": 194753,
       "name": "V\u00e5r balkong",
       "url": "https://open.spotify.com/track/6AyBv2Vs8BFkKea0jaLxvD"
+    },
+    {
+      "album": {
+        "name": "Indigo Dream",
+        "url": "https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA"
+      },
+      "artists": [
+        {
+          "name": "Indigo Dream",
+          "url": "https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248053,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr"
     },
     {
       "album": {

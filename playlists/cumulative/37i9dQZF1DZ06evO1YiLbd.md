@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1YiLbd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1YiLbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1YiLbd)
 
-### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
+### [This Is 林ゆうき](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This Is Yuki Hayashi\. Los temas esenciales, todos en una lista.
+> This is 林ゆうき\. The essential tracks, all in one playlist.
 
 128 songs - 5 hr 47 min
 
@@ -11,7 +11,7 @@
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-12-23 |  |
 | [All Might with U.A\. Students](https://open.spotify.com/track/59h3i22MBicerNR1llNXqv) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:29 | 2022-12-23 |  |
 | [Always and Forever](https://open.spotify.com/track/3nsHsWeiDGO0U1FtLsZ1ak) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:50 | 2023-05-24 | 2023-06-28 |
-| [Believe](https://open.spotify.com/track/177HkH5l1ywMh27V56wTXO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Believe \- A Bridge to you \- ORIGINAL SOUNDTRACK](https://open.spotify.com/album/42f32ey4GbC3OI1m3ZwPFn) | 5:58 | 2024-06-21 |  |
+| [Believe](https://open.spotify.com/track/177HkH5l1ywMh27V56wTXO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Believe \- A Bridge to you \- ORIGINAL SOUNDTRACK](https://open.spotify.com/album/42f32ey4GbC3OI1m3ZwPFn) | 5:58 | 2024-06-21 | 2024-07-19 |
 | [cocoon](https://open.spotify.com/track/0zJ3BCfoyRysii4g5lC7Bc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「トライアングル」オリジナル・サウンドトラック](https://open.spotify.com/album/4hSFFTl3tmnMNu1ptHQVNE) | 4:43 | 2024-02-22 | 2024-03-21 |
 | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/track/2uKvB7z8Iv1Qspw8wHfLCy) | [Bakrou](https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh), [Anzar](https://open.spotify.com/artist/5m1ntKpYHZpOVf8KjHudQI), [Yuki Hayashi](https://open.spotify.com/artist/6WREWcPKElbqTJ9UHevdbf) | [Deku Vigilante \(My Hero Academia\)](https://open.spotify.com/album/3d5nMhabrfLblSINhyiQ5D) | 2:11 | 2023-03-24 | 2023-04-19 |
 | [From Me to You](https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:21 | 2022-12-23 |  |

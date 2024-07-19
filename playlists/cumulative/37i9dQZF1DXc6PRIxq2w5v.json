@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 139070,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/1XVAsW855uWEQsSXxcSQNO"
@@ -2828,6 +2828,32 @@
       "duration_ms": 179310,
       "name": "eu vi",
       "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "album": {
+        "name": "Face a Face",
+        "url": "https://open.spotify.com/album/7ojG42bFYTRZD6elK8qnEw"
+      },
+      "artists": [
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Face a Face",
+      "url": "https://open.spotify.com/track/2gDCe8vY2387GkkGC3hL0q"
     },
     {
       "album": {

@@ -1,128 +1,32 @@
 {
-  "description": "Where R&B lives. Cover: Tink",
-  "num_followers": 6158510,
+  "description": "Where R&B lives. Cover: 4batz",
+  "num_followers": 6158839,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAADc+IP+kJPD9Da3oryy3VnG",
+  "snapshot_id": "ZpnkwAAAAAA6wSeGHh9MJB08rdmiCX9x",
   "tracks": [
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Winter's Diary 5",
-        "url": "https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h"
+        "name": "act iv: fckin u again (18+)",
+        "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 194618,
-      "name": "Songs About U",
-      "url": "https://open.spotify.com/track/59he0LDDckppVmd2NpHWBp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Please Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Please Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
-    },
-    {
-      "added_at": "2024-06-21 04:20:48",
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 150262,
-      "name": "8",
-      "url": "https://open.spotify.com/track/17fMdv2JY435A1naCGTtby"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-01-26 21:56:05",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+      "duration_ms": 195528,
+      "name": "act iv: fckin u again (18+)",
+      "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -163,6 +67,130 @@
       "duration_ms": 205400,
       "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Please Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Please Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Nasty Girl Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/01vkpXLusTE96RgYguEoXE"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Nasty Girl Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/7bs9SS4w8QKffIimEqatSP"
+    },
+    {
+      "added_at": "2024-01-26 21:56:05",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "In The Night (feat. Jorja Smith & Amaarae)",
+        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
     },
     {
       "added_at": "2024-05-31 05:32:25",
@@ -229,6 +257,22 @@
       "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
     },
     {
+      "added_at": "2024-06-21 04:20:48",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
+    },
+    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "DOPAMINE",
@@ -243,6 +287,26 @@
       "duration_ms": 208833,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Winter's Diary 5",
+        "url": "https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 194618,
+      "name": "Songs About U",
+      "url": "https://open.spotify.com/track/59he0LDDckppVmd2NpHWBp"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -297,22 +361,6 @@
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "TYLA",
@@ -327,6 +375,38 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2024-06-21 04:20:48",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 150262,
+      "name": "8",
+      "url": "https://open.spotify.com/track/17fMdv2JY435A1naCGTtby"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -365,36 +445,20 @@
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
-      "added_at": "2024-06-21 04:20:48",
+      "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+        "name": "Here We Go (Uh Oh)",
+        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 215178,
-      "name": "Residuals",
-      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
-    },
-    {
-      "added_at": "2024-05-31 05:32:25",
-      "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 238185,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+      "duration_ms": 216507,
+      "name": "Here We Go (Uh Oh)",
+      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -501,22 +565,6 @@
       "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
     },
     {
-      "added_at": "2024-05-31 05:32:25",
-      "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 318715,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS"
-    },
-    {
       "added_at": "2024-03-29 05:02:46",
       "album": {
         "name": "TYLA",
@@ -573,22 +621,6 @@
       "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        }
-      ],
-      "duration_ms": 129849,
-      "name": "act iv: fckin u (18+)",
-      "url": "https://open.spotify.com/track/1DUsjpq8Vp4NqfqQfJchYG"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Caught Up",
@@ -621,20 +653,20 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
+      "added_at": "2024-05-31 05:32:25",
       "album": {
-        "name": "Here We Go (Uh Oh)",
-        "url": "https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p"
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 216507,
-      "name": "Here We Go (Uh Oh)",
-      "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
+      "duration_ms": 238185,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -803,26 +835,6 @@
       "duration_ms": 211200,
       "name": "YOU",
       "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Bryson Tiller",
-        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 169941,
-      "name": "Persuasion (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/49v5ttae4SvGE6XqfP7PY4"
     },
     {
       "added_at": "2024-01-26 21:56:05",

@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-607 songs - 1 day 7 hr 37 min
+608 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Beautiful Lies](https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Beautiful Lies](https://open.spotify.com/album/6WlznjoXtwxdJvmTRabNxY) | 2:54 | 2023-09-14 | 2024-02-08 |
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-02 | 2022-11-26 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-06-24 | 2023-02-11 |
-| [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 | 2024-03-22 |  |
+| [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 | 2024-03-22 | 2024-07-19 |
 | [Believe](https://open.spotify.com/track/5La0PaI1xX4VbbA4LI4kxz) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Purple Lens](https://open.spotify.com/album/1Ycr1L7hKGVBLVygx1mG8l) | 2:35 | 2024-03-22 | 2024-06-01 |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-12-02 |
 | [Best Interest](https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Best Interest](https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2) | 3:18 | 2024-06-14 |  |
@@ -248,6 +248,7 @@
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-26 | 2022-11-26 |
 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 | 2023-02-24 |
 | [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 | 2023-01-27 | 2024-06-28 |
+| [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-19 |  |
 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 | 2022-12-05 | 2023-01-13 |
 | [Into The Water](https://open.spotify.com/track/6rB4NvhTRyQWzLzFHliwJz) | [Takara](https://open.spotify.com/artist/0s4pACwkFS6Zo2zKs0YpYx), [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Moondust](https://open.spotify.com/album/3h5aVfuYodkltak1ToOinp) | 3:33 | 2024-06-28 | 2024-07-12 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2023-10-27 |

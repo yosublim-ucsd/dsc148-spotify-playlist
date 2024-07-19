@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 456879,
+  "num_followers": 456856,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "I Cry When I Laugh",
-        "url": "https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 265381,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Ocean (feat. Khalid)",
         "url": "https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 216419,
       "name": "Ocean (feat. Khalid)",
       "url": "https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "I Cry When I Laugh",
+        "url": "https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 265381,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/1r5JEclOv0s5S8GhFet0Wx"
+        "name": "Wait for You (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 238532,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s"
+      "duration_ms": 153026,
+      "name": "Wait for You (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z"
     }
   ],
   "unique_name": "Pop Study",

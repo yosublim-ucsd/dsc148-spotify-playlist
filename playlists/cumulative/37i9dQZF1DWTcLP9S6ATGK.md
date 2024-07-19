@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Suara Kayu
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Shakira Jasmine
 
-122 songs - 7 hr 59 min
+127 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,8 @@
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-27 |  |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-06-27 |  |
 | [Cap Cip Cup](https://open.spotify.com/track/0xIV3W0W9LjlbNHcFMNWJt) | [3 Papah Muda](https://open.spotify.com/artist/3wkv8QdNj7ElkfHJHzyP5j), [Intan Fauziah](https://open.spotify.com/artist/15SBg9r1zorCYN8GtL0XcH) | [Cap Cip Cup](https://open.spotify.com/album/24M1PIABVcxglRD0jaCTCw) | 3:52 | 2024-07-05 |  |
+| [Chemistry](https://open.spotify.com/track/6MidLW447aO1XCYHirArxz) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Chemistry](https://open.spotify.com/album/4wKzFrvVhKDxUBkd2XEj1d) | 4:13 | 2024-07-18 |  |
+| [Cinta Tak Biasa](https://open.spotify.com/track/2jpYZkmNLKk2TtrQAORu1o) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf), [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Cinta Tak Biasa](https://open.spotify.com/album/3nwy6IEwPrKoCv98pWgEcu) | 4:05 | 2024-07-18 |  |
 | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32) | 3:32 | 2024-07-11 |  |
 | [CINTA TERSAKITI](https://open.spotify.com/track/2uuc5Q5lFDAlXryHcFQ21h) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [CINTA TERSAKITI](https://open.spotify.com/album/0WnG6bvjd3Wmj9ce7PVqNK) | 3:29 | 2024-07-11 |  |
 | [Dan...](https://open.spotify.com/track/1rQikrucqgplHbRz4zs0uu) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Dan...](https://open.spotify.com/album/1Gu0t5IsJYhU1c6MqphVNO) | 4:34 | 2024-06-27 |  |
@@ -87,6 +89,7 @@
 | [Muncul terus](https://open.spotify.com/track/2LFTRnyl1iojlTOQv9Lo32) | [Baim](https://open.spotify.com/artist/1xtClintZXLr9RrzKzwBeM), [Aurélie](https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH) | [Muncul terus](https://open.spotify.com/album/0M62mgWNRB3bcOnMyNyZCL) | 2:18 | 2024-06-27 |  |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-06-27 |  |
 | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4yrsCwGmG5SqraKGoHwE53) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Mungkin Belum Sekarang \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Tz9cik7fBpYXrDemIH7S5) | 3:57 | 2024-07-11 |  |
+| [Muslihat \- Muslihat Original Soundtrack](https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz) | [Muslihat \(Muslihat Original Soundtrack\)](https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai) | 4:53 | 2024-07-18 |  |
 | [Pada Akhirnya](https://open.spotify.com/track/5Cjjypy2Pm1LK1mdmohCuT) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Pada Akhirnya](https://open.spotify.com/album/7eE0Br39S9GL6R91ATl83G) | 4:03 | 2024-06-27 | 2024-07-05 |
 | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/album/3WzgPEAKYBpH4avi8eJNDk) | 4:13 | 2024-06-27 | 2024-07-05 |
 | [Pandai Bicara](https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Pandai Bicara](https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2) | 3:54 | 2024-06-27 |  |
@@ -94,6 +97,7 @@
 | [Pengkhianatan Terbesar](https://open.spotify.com/track/3DkeazRqsBtR7CcgIT96r3) | [GammaOne](https://open.spotify.com/artist/3eqRvLBNdNGTMk5wa0Iqb2) | [Pengkhianatan Terbesar](https://open.spotify.com/album/61HHuQ6mEm300bfJnRZ47n) | 3:30 | 2024-06-27 |  |
 | [Penikmat Senyummu](https://open.spotify.com/track/2Gu8EMg6OLhnCP5is8G5R2) | [Mark Natama](https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi) | [Penikmat Senyummu](https://open.spotify.com/album/6tpQfnEsyEVshedIZswudd) | 3:58 | 2024-06-27 |  |
 | [Pergi Secepat Ini](https://open.spotify.com/track/6yBsvbgwdvoHdpYX8OB87X) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 5:02 | 2024-06-27 |  |
+| [Pertanda Cinta](https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe), [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Pertanda Cinta](https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd) | 4:22 | 2024-07-18 |  |
 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 | 2024-06-27 |  |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-06-27 |  |
 | [RAKSASA](https://open.spotify.com/track/3veUBJLC1Muqd8fUMJEa2R) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [RAKSASA](https://open.spotify.com/album/3QAv7qeczU5xfvpcFNLP46) | 3:47 | 2024-06-27 |  |
@@ -122,6 +126,7 @@
 | [Terlalu Diam](https://open.spotify.com/track/4iFLoWcNLQJgxRkx2ka6nf) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terlalu Diam](https://open.spotify.com/album/0HbCoJs5AM88f362i285KT) | 4:03 | 2024-06-27 |  |
 | [Terluka Hati](https://open.spotify.com/track/7fIg9hw5tSGt1t0hCVR8gk) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Terluka Hati](https://open.spotify.com/album/3DnRpIm7octk5zGgGdoCJO) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 | 2024-07-04 |  |
+| [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 |  |
 | [Untukmu](https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Untukmu](https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp) | 3:03 | 2024-07-04 |  |
 | [Usai Pencarianku](https://open.spotify.com/track/2rjtGWQXEHgMw1tpI0HTqF) | [Vagetoz](https://open.spotify.com/artist/2W9qDNyAyKujPYk6TrQmXc) | [Usai Pencarianku](https://open.spotify.com/album/2U2frV5E8xCD33jf2roipL) | 3:43 | 2024-06-27 | 2024-07-05 |
 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 | 2024-07-04 |  |

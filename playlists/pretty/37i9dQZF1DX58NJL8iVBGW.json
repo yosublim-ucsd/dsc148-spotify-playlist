@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 768149,
+  "num_followers": 768285,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Nothing But The Water",
-        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter & The Nocturnals",
-          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Nothing But The Water (I)",
-      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Billy Jack",
         "url": "https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Nothing But The Water",
+        "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter & The Nocturnals",
+          "url": "https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Nothing But The Water (I)",
+      "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
         "name": "Lay This Body Down",
         "url": "https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 287773,
       "name": "Lay This Body Down",
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1419,6 +1419,30 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "True Blood: Music From The HBO\u00ae Original Series Volume 3",
+        "url": "https://open.spotify.com/album/0kmWuDHYilq3PmEkfgD0Fu"
+      },
+      "artists": [
+        {
+          "name": "Butch Walker",
+          "url": "https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4"
+        },
+        {
+          "name": "Jake Sinclair",
+          "url": "https://open.spotify.com/artist/1yO1vWq1DjIxBESx5lhP8k"
+        },
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/1BNm9pxX5cmZOq15o0mNEl"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1447,6 +1471,22 @@
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
+        "name": "Singing Bones",
+        "url": "https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj"
+      },
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Far From Any Road",
+      "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
     },
     {
       "added_at": "2024-07-05 18:50:08",
@@ -1591,38 +1631,6 @@
       "duration_ms": 200497,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "All The World Is Green (Live)",
-        "url": "https://open.spotify.com/album/1H6aRajw8KS87O6ejew73Y"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 292112,
-      "name": "All The World Is Green - Live",
-      "url": "https://open.spotify.com/track/0FD1tOUxkiOXgR9d9uy9ou"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Nobody knows.",
-        "url": "https://open.spotify.com/album/0MHRNWUvq6JT8hjoL4ilvi"
-      },
-      "artists": [
-        {
-          "name": "Willis Earl Beal",
-          "url": "https://open.spotify.com/artist/58CUVLn2xm7I9iFg97t9XC"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Too Dry to Cry",
-      "url": "https://open.spotify.com/track/2mHzmh7saA4O2ZbHFxFp27"
     }
   ],
   "unique_name": "Southern Gothic",

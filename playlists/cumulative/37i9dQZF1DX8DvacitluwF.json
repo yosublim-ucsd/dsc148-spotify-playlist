@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW?si=QI5uHRnMR5uY5LOdR8F4hg>Naye Ayla</a>",
+  "description": "Only the best in South African and international RnB. Cover: <a href=https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT?si=Gcy3YRHuRC29m4ViXEwzjQ>Th&o.</a>",
   "name": "R&Beats",
   "tracks": [
     {
@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Demi God",
+        "url": "https://open.spotify.com/album/5q08kDdIVPD5m3XBQGwmUh"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sahtyre",
+          "url": "https://open.spotify.com/artist/1ZHmdzn0KzjEICyi9v6oDU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Demi God",
+      "url": "https://open.spotify.com/track/0tksP2JLwvrsOKbm1xjYYF"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7qsq6moMEWasMS0zR5Ycwo"
       },
@@ -1204,6 +1226,24 @@
       "duration_ms": 202460,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6kSbTPcBqhPHObtLgKgJsm"
+    },
+    {
+      "album": {
+        "name": "DESTINY\u2019S CHILD",
+        "url": "https://open.spotify.com/album/6ZdCvu4poavVOag87HAMW2"
+      },
+      "artists": [
+        {
+          "name": "TRON PYRE",
+          "url": "https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154645,
+      "name": "DESTINY\u2019S CHILD",
+      "url": "https://open.spotify.com/track/1rDOGmUXOw68FtSWEx2mgW"
     },
     {
       "album": {
@@ -1262,6 +1302,24 @@
       "duration_ms": 198140,
       "name": "Don\u2019t Count Me In",
       "url": "https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg"
+    },
+    {
+      "album": {
+        "name": "Double Standards",
+        "url": "https://open.spotify.com/album/5WWgLtEtFccdnlyShhZBrH"
+      },
+      "artists": [
+        {
+          "name": "Isco Cruz",
+          "url": "https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "Double Standards",
+      "url": "https://open.spotify.com/track/4KankrE1P2Fs4GB1QEJDqS"
     },
     {
       "album": {
@@ -2892,6 +2950,24 @@
       "duration_ms": 204230,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8"
+    },
+    {
+      "album": {
+        "name": "Lonely? (Come Along)",
+        "url": "https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA"
+      },
+      "artists": [
+        {
+          "name": "Th&o.",
+          "url": "https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224082,
+      "name": "Lonely? (Come Along)",
+      "url": "https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos"
     },
     {
       "album": {

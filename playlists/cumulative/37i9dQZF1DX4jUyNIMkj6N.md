@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-296 songs - 18 hr 5 min
+297 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 | 2023-05-25 |  |
 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 | 2023-04-27 |  |
 | [Feathers](https://open.spotify.com/track/60XII1rND3K4yE3ffwbl4W) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Feathers](https://open.spotify.com/album/3zLx4WOTS1tZXZuNWWdwPD) | 3:46 | 2023-11-23 | 2023-12-05 |
+| [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2024-06-20 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-14 | 2022-11-09 |
 | [Follow Me Home](https://open.spotify.com/track/6wYjQODXHSIdLOZDnKZnql) | [I Was A King](https://open.spotify.com/artist/0SannT3hsrgAXQ9abyVQsB) | [Follow Me Home](https://open.spotify.com/album/5busehpoFGB68UYicJdF7c) | 3:21 | 2022-07-07 | 2022-07-14 |
 | [For Someone](https://open.spotify.com/track/4u42LckHYKddjPpUySqHnJ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Can Summer Love Last Forever?](https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3) | 4:43 | 2022-07-14 | 2024-04-19 |
@@ -196,7 +197,7 @@
 | [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 | 2024-06-05 |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
-| [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 |  |
+| [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 | 2021-12-02 | 2022-07-29 |
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |
 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 | 2023-10-12 | 2024-06-09 |

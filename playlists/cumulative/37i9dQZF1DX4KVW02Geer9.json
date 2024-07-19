@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 245480,
       "name": "BLOWING",
       "url": "https://open.spotify.com/track/2gAMm5mcek0GJd6HBY0nzW"
@@ -300,6 +300,28 @@
       "duration_ms": 139304,
       "name": "career day",
       "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
+    },
+    {
+      "album": {
+        "name": "Ceasefire",
+        "url": "https://open.spotify.com/album/6qW7A7PxY9guHuWDANCoTt"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Ranking Joe",
+          "url": "https://open.spotify.com/artist/2VOFT3lVhcMPRoUo0vj0f7"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302454,
+      "name": "Ceasefire - feat. Ranking Joe",
+      "url": "https://open.spotify.com/track/1I4HHKwaVbcfbJt6noxJpp"
     },
     {
       "album": {
@@ -339,6 +361,28 @@
     },
     {
       "album": {
+        "name": "Midnight Crisp Remixed",
+        "url": "https://open.spotify.com/album/5bZJeCMpwyemFZU4FalXVe"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286488,
+      "name": "Choy Soda - Waajeed's Hi-Tech Jazz Remix",
+      "url": "https://open.spotify.com/track/4C4Lwe7ggqm33NnULkN060"
+    },
+    {
+      "album": {
         "name": "Concrete Jungle",
         "url": "https://open.spotify.com/album/148Ov9qRrdiVmW8ZFCkZKl"
       },
@@ -354,10 +398,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197524,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/3x7HRRiUkd3so6DdCuIsrY"
+    },
+    {
+      "album": {
+        "name": "david",
+        "url": "https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj"
+      },
+      "artists": [
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309848,
+      "name": "david",
+      "url": "https://open.spotify.com/track/0HcKyjCAvv2I3MDGqHYSh5"
     },
     {
       "album": {
@@ -372,7 +434,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209713,
       "name": "dawn highway",
       "url": "https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3"
@@ -408,7 +470,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 658906,
       "name": "Departure",
       "url": "https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86"
@@ -430,6 +492,24 @@
       "duration_ms": 268313,
       "name": "Dimitri",
       "url": "https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg"
+    },
+    {
+      "album": {
+        "name": "Don't Remember Me",
+        "url": "https://open.spotify.com/album/6JHab78zkxjegd93W4VYW6"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Don't Remember Me",
+      "url": "https://open.spotify.com/track/29HfUnrUl3JxOfEtVHI5FV"
     },
     {
       "album": {
@@ -554,7 +634,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215853,
       "name": "fly bys",
       "url": "https://open.spotify.com/track/76P6aUFKiERCEpcVqMB8i2"
@@ -794,6 +874,44 @@
       "duration_ms": 124373,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6VBNhjwLvHkpQmhlhofBGX"
+    },
+    {
+      "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/0h8z4kUSNhfj5Guv88QAHq"
+      },
+      "artists": [
+        {
+          "name": "John Taylor",
+          "url": "https://open.spotify.com/artist/0o9WWL7JAXnjjvUNyPwWTF"
+        },
+        {
+          "name": "Kenny Wheeler",
+          "url": "https://open.spotify.com/artist/2GIms8u3bruipn5MOR5wcs"
+        },
+        {
+          "name": "Stan Sulzmann",
+          "url": "https://open.spotify.com/artist/1Og8MPGPzR6etNBuQR499K"
+        },
+        {
+          "name": "Chris Pyne",
+          "url": "https://open.spotify.com/artist/3e1yhEAuYNzksJQ3ouPxZu"
+        },
+        {
+          "name": "Chris Laurence",
+          "url": "https://open.spotify.com/artist/220ZFsFURhq7WSsiNv3Til"
+        },
+        {
+          "name": "Tony Levin",
+          "url": "https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534160,
+      "name": "Interfusion",
+      "url": "https://open.spotify.com/track/0QG7V4gLVw3RYcEsVjpxHW"
     },
     {
       "album": {
@@ -1075,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "Little Ghost (feat.Ayana)",
+        "url": "https://open.spotify.com/album/2l2zImOdGQ77OqhqrPVLc2"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Kurihara",
+          "url": "https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK"
+        },
+        {
+          "name": "\u5f69\u83dc",
+          "url": "https://open.spotify.com/artist/7i4sDrUnoJZK5brWXdx0HS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437085,
+      "name": "Little Ghost - feat.Ayana",
+      "url": "https://open.spotify.com/track/5lRvtSHfQtZAc7Z3sCVVs4"
+    },
+    {
+      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/6qdewILD6KlnRvj7Ts0kUe"
       },
@@ -1266,7 +1406,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
@@ -1345,6 +1485,32 @@
     },
     {
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        },
+        {
+          "name": "BIGYUKI",
+          "url": "https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq"
+        },
+        {
+          "name": "JK Kim",
+          "url": "https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227295,
+      "name": "PRIME",
+      "url": "https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF"
+    },
+    {
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/3wDXUtAudXDc6dgy2mAqZ2"
       },
@@ -1356,7 +1522,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 499234,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
@@ -1564,7 +1730,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 301866,
       "name": "Thunderbolt New Theme",
       "url": "https://open.spotify.com/track/6WZd2Pz4IXz10gS6xpS5GU"
@@ -1607,6 +1773,28 @@
     },
     {
       "album": {
+        "name": "Vibes, Mood, Tension, Motivation",
+        "url": "https://open.spotify.com/album/5nmsU2HKeqSXqNnBye2Akn"
+      },
+      "artists": [
+        {
+          "name": "Haiiro De Rossi",
+          "url": "https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0"
+        },
+        {
+          "name": "crime6",
+          "url": "https://open.spotify.com/artist/5dPU8ySqwPrtb6BrhPmUZp"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "Vibes, Mood, Tension, Motivation",
+      "url": "https://open.spotify.com/track/1ZpDXYpUm9TICUTJf7SYmw"
+    },
+    {
+      "album": {
         "name": "Virtual Insanity",
         "url": "https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg"
       },
@@ -1644,10 +1832,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 432493,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98"
+    },
+    {
+      "album": {
+        "name": "Collaborations & Remixes, Vol. 1",
+        "url": "https://open.spotify.com/album/1NNbU9upGPxk4g8PXk8rCP"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191932,
+      "name": "Yoshi Orange - Ash Walker Remix",
+      "url": "https://open.spotify.com/track/3BW0JxyUIvOxN12TheYXKG"
     },
     {
       "album": {

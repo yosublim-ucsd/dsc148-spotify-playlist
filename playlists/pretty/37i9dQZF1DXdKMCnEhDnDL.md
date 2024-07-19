@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,040 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,373 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 57 | [Dan Volg Je Haar Benen](https://open.spotify.com/track/3bqsAeHafn7ug4JuQ5Z4lM) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Dan Volg Je Haar Benen](https://open.spotify.com/album/6kfIG4FMIXWw15GPCPizJI) | 3:00 |
 | 58 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
 | 59 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
-| 60 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 |
-| 61 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 |
-| 62 | [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 |
-| 63 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
-| 64 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
-| 65 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
-| 66 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 |
-| 67 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 |
-| 68 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 |
-| 69 | [Als Je Voor Me Staat](https://open.spotify.com/track/2hAiXNgfYXyMmIB1KPRv7W) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Als Je Voor Me Staat](https://open.spotify.com/album/3dd2TJiNinnH58uCo6etNP) | 3:20 |
+| 60 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 |
+| 61 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 |
+| 62 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 |
+| 63 | [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 |
+| 64 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
+| 65 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 |
+| 66 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
+| 67 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 |
+| 68 | [IK ZEG HET TE WEINIG](https://open.spotify.com/track/0CGpjldNJedaNmhW5neQPZ) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [IK ZEG HET TE WEINIG](https://open.spotify.com/album/5Ukd8XCbHko4DH8p4pnm0V) | 2:45 |
+| 69 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 |
 | 70 | [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 |
 | 71 | [Realize](https://open.spotify.com/track/3czKSbTHpNu7MDq1O6HCOJ) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Realize](https://open.spotify.com/album/3SPOfZEyLWuEKBEtUxREDp) | 2:57 |
 | 72 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Je Hebt 't \(Marokkaanse Bruiloft\)](https://open.spotify.com/track/2m5pZAgPEpNDErpTLHoiC3) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Je Hebt 't \(Marokkaanse Bruiloft\)](https://open.spotify.com/album/5ujPB6Gh4Po1MCjE5RfPWs) | 2:30 |
 | 100 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 
-Snapshot ID: `Zo2y4AAAAADG+JEgWqZ+qxp+zDktG1+r`
+Snapshot ID: `ZpmQYAAAAADIFU9GzmtT4M0nNGiVcKui`

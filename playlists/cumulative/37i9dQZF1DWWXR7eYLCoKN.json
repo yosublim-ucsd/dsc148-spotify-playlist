@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Amor Segredo",
+        "url": "https://open.spotify.com/album/22VSxm6dbigc3jK1EimMJh"
+      },
+      "artists": [
+        {
+          "name": "Nilze Carvalho",
+          "url": "https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258228,
+      "name": "Amor Segredo",
+      "url": "https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp"
+    },
+    {
+      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199666,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0"

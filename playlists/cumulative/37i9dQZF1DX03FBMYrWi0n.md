@@ -4,10 +4,11 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: SUUNS
 
-197 songs - 11 hr 29 min
+199 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/album/0cBU0AZY9we5Pe93uhgwbz) | 2:52 | 2024-07-19 |  |
 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 | 2023-02-10 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2023-02-10 | 2023-06-17 |
 | [Ah ouin](https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer looloo](https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP) | 2:30 | 2023-04-28 | 2023-11-18 |
@@ -97,7 +98,7 @@
 | [l'Île](https://open.spotify.com/track/10wZLG9ttpMIiYCaJsRvGs) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [l'Île](https://open.spotify.com/album/3AkriQvlkrwcr3Nq22hp1U) | 3:02 | 2023-06-02 | 2023-09-30 |
 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 | 2023-02-10 |  |
 | [la honte](https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [la honte](https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO) | 3:29 | 2024-03-04 |  |
-| [La peur est une fleur](https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC) | 1:52 | 2024-06-28 |  |
+| [La peur est une fleur](https://open.spotify.com/track/2msKGnoEgQM4MManhl8Dji) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [La peur est une fleur](https://open.spotify.com/album/1ZsInEwwCcSInxmC4EphyC) | 1:52 | 2024-06-28 | 2024-07-19 |
 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 | 2023-02-10 |  |
 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 | 2023-02-10 |  |
 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 | 2023-02-10 |  |
@@ -110,7 +111,7 @@
 | [LES MANIÈRES DE TABLE](https://open.spotify.com/track/41kFPZnhpxkSzNXPnfAZCW) | [Annie\-Claude Deschênes](https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i) | [LES MANIÈRES DE TABLE](https://open.spotify.com/album/6o9kdQpNwufn7A7ZFk7mG4) | 3:35 | 2024-04-05 | 2024-04-19 |
 | [LES MANIÈRES DE TABLE](https://open.spotify.com/track/6aZ3zdal2jij2cOGpQeBAH) | [Annie\-Claude Deschênes](https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i) | [LES MANIÈRES DE TABLE](https://open.spotify.com/album/0LZzTKnghI4yPVhnWusx29) | 3:35 | 2024-04-19 |  |
 | [Les murs](https://open.spotify.com/track/56cfcyfAcQJEUvKHOwjXuZ) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Les murs](https://open.spotify.com/album/6HW17MhlbFPAExlsGgW70n) | 3:40 | 2023-02-10 | 2023-03-04 |
-| [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 |  |
+| [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 | 2023-02-10 | 2024-07-19 |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-07 |
 | [Lundi normal](https://open.spotify.com/track/01q5hNY32vR6b1xa1nMZlQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lundi normal](https://open.spotify.com/album/7jjPYqJd43EwfEnXHxy4kx) | 3:03 | 2023-02-10 | 2023-03-04 |
 | [Madone](https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Madone](https://open.spotify.com/album/4mkI10pJ3T1dj3hsw4T1WO) | 2:55 | 2024-03-04 | 2024-04-19 |
@@ -174,6 +175,7 @@
 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 | 2023-02-10 |  |
 | [Sweet montérégie](https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/5J54uEsmf08ml6uDxOUxU3) | 3:49 | 2023-10-27 | 2024-04-19 |
 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 | 2023-02-10 | 2023-08-03 |
+| [Súper Normal](https://open.spotify.com/track/1mIA0Ch3k9xp3PoGiwhZ9p) | [We Are Wolves](https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW) | [Súper Normal](https://open.spotify.com/album/2UQwcCIqEvHfokOVazqo1v) | 4:05 | 2024-07-19 |  |
 | [Ta yeule, toute va ben](https://open.spotify.com/track/2WSaDhLKwesu1YFWdFoB5u) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Ta yeule, toute va ben](https://open.spotify.com/album/7czM4O7ElmQ8WOCrav1Vxf) | 2:24 | 2023-02-10 | 2023-03-25 |
 | [Tarantula](https://open.spotify.com/track/5Q69nHzNXnU4jpmwUsB4DK) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Dungeon Master](https://open.spotify.com/album/2WA0YbN1rdESR8aRLcl5hM) | 3:26 | 2023-02-10 | 2023-03-27 |
 | [The Breaks](https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Breaks](https://open.spotify.com/album/1qG8RIhVtTNGZD9vvLz3BQ) | 4:29 | 2024-06-07 | 2024-06-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! PAWSA",
+  "description": "The biggest house bangers popping off in the UK, let's go! Gorgon City",
   "name": "UK House Music",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181308,
       "name": "All I've Got",
       "url": "https://open.spotify.com/track/3sz9aYLzEjrN9B4d4m1EwL"
@@ -1132,6 +1132,24 @@
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
+    },
+    {
+      "album": {
+        "name": "Ballo",
+        "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Ballo",
+      "url": "https://open.spotify.com/track/24QACMi7RvevNfpkEoS18p"
     },
     {
       "album": {
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196874,
       "name": "Dance Away",
       "url": "https://open.spotify.com/track/5PwhoZfQJR7uZeL1EAO65q"
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172500,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR"
@@ -6429,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "Have Your Love",
+        "url": "https://open.spotify.com/album/5kd49EfK1dsQMHM9a6VgZm"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Have Your Love",
+      "url": "https://open.spotify.com/track/0FnzaA3Px1q5PMofViN4J2"
+    },
+    {
+      "album": {
         "name": "Hawt",
         "url": "https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM"
       },
@@ -6659,6 +6695,32 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/16GGgdCTPeOEkI5XlcBdI1"
       },
@@ -6798,6 +6860,28 @@
       "duration_ms": 154687,
       "name": "House Revelation",
       "url": "https://open.spotify.com/track/3gGgVL3gtnzr7j1jWLS8s3"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "How Do You Love? (feat. Mougleta)",
+      "url": "https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8"
     },
     {
       "album": {
@@ -6976,7 +7060,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200624,
       "name": "I Am The One",
       "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
@@ -8182,6 +8266,28 @@
       "duration_ms": 206971,
       "name": "La Murga - Michael's Midnight Mix",
       "url": "https://open.spotify.com/track/5WflSPLMwrHGN45N4L8sT0"
+    },
+    {
+      "album": {
+        "name": "La Musa (with Miluhska)",
+        "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183830,
+      "name": "La Musa (with Miluhska)",
+      "url": "https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt"
     },
     {
       "album": {
@@ -12515,6 +12621,24 @@
     },
     {
       "album": {
+        "name": "Release The Drums",
+        "url": "https://open.spotify.com/album/4v5hG2SN5nYh8zF3MMPu4B"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Release The Drums",
+      "url": "https://open.spotify.com/track/3qnUiu1MiQJLvZ8ZiaNGsa"
+    },
+    {
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
       },
@@ -15196,7 +15320,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 150909,
       "name": "The Juice",
       "url": "https://open.spotify.com/track/35WxWCjIJw5eEX6KEUGdj5"
@@ -16614,7 +16738,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195000,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK"
@@ -16844,6 +16968,28 @@
       "duration_ms": 159811,
       "name": "Waves",
       "url": "https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1"
+    },
+    {
+      "album": {
+        "name": "We Are The People",
+        "url": "https://open.spotify.com/album/0OAb6fcraycYzYZVTvuVl8"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Davide T",
+          "url": "https://open.spotify.com/artist/1pd2mIBKC4uzLtAEP8qpgw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/5SyTXTAj6vVzkGlfLoNoCq"
     },
     {
       "album": {
@@ -17514,7 +17660,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 235680,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"

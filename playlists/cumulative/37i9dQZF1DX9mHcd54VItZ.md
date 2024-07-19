@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs?si=ZW07j9naQvSBVtAYj728Lw">The Parlotones</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-485 songs - 1 day 4 hr 57 min
+488 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Die Goeie Ou Dae](https://open.spotify.com/track/6sa4AaQgwD2GtIkTny563D) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/7jUyw77fSgURWIUtikiidJ) | 3:09 | 2023-12-08 | 2024-01-05 |
 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 | 2024-05-03 |  |
 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 | 2024-01-04 |  |
-| [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 | 2023-11-30 |  |
+| [Die Lig](https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r) | [Die Eindste](https://open.spotify.com/artist/6gqvpFp2YBWmoPR5LURl3k), [Danie Reënwolf](https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08) | [Die Lig](https://open.spotify.com/album/1pqLIYA4P2uh9oJWUe9tRk) | 5:17 | 2023-11-30 | 2024-07-19 |
 | [Die Lig](https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Die Lig](https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb) | 2:25 | 2023-05-05 | 2023-07-29 |
 | [Die Man](https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Bo Dorp](https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w) | 2:42 | 2023-08-31 | 2023-10-27 |
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
@@ -168,6 +168,8 @@
 | [Free Falling \(Radio\)](https://open.spotify.com/track/5sV4pK5Ks0oB40x3hUbFLC) | [Mean Mr Mustard](https://open.spotify.com/artist/6O1jwoYwsaOX4aXdi0mSst) | [All These Years \(Radio\)](https://open.spotify.com/album/409T4LHjVTyQZ3rP9YiYMr) | 4:09 | 2024-01-04 | 2024-04-19 |
 | [Free to Be Me](https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK) | [Billy Inglish](https://open.spotify.com/artist/6DuvxqW15mmbh6Dc9Nm6EC) | [Free to Be Me](https://open.spotify.com/album/2ESGR81JXO3gCEB0u3LdKR) | 3:39 | 2023-04-27 | 2023-07-14 |
 | [Garden of the Snake](https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG) | [McCully/Mackay](https://open.spotify.com/artist/61kkxrTkgSTpFjsSr3uWhe) | [Garden of the Snake](https://open.spotify.com/album/47mJM6v3R4rrJoDiQ1Pgji) | 3:44 | 2023-07-13 | 2023-09-01 |
+| [Gee My Jou Alles](https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Gee My Jou Alles](https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD) | 3:32 | 2024-07-18 |  |
+| [Geen Vrede](https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Geen Vrede](https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h) | 3:47 | 2024-07-18 |  |
 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 | 2024-01-04 |  |
 | [Get Over Here](https://open.spotify.com/track/4hOMIOJ0aQCFDv14JMFNva) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/26wwYmk7xmAl7YaTNZjhQ8) | 3:16 | 2022-05-26 | 2023-02-03 |
 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
@@ -228,6 +230,7 @@
 | [It's Hard](https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk) | [It's Hard](https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM) | 3:06 | 2021-09-02 | 2022-04-01 |
 | [Jonk & Danig](https://open.spotify.com/track/1rsjh2em6b9KD4wgJV2sTw) | [Vivien Redelinghuys](https://open.spotify.com/artist/2rd9K2tLcdJwW0Ub1UEiES) | [Jonk & Danig](https://open.spotify.com/album/74SaMFCbSWIPm3Y5CIOUAp) | 3:17 | 2024-05-31 | 2024-06-30 |
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2023-04-22 |
+| [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 | 2024-07-18 |  |
 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 | 2024-07-11 |  |
 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 | 2024-07-11 |  |
 | [Just One Hit](https://open.spotify.com/track/3tUmY7VsbEvM7YxcYB4t4R) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [Just One Hit](https://open.spotify.com/album/4soy6XuqH6x8XnWT9YrjOs) | 4:04 | 2023-06-15 | 2023-08-25 |
@@ -239,7 +242,7 @@
 | [Killing Time](https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Killing Time](https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg) | 2:51 | 2023-05-18 | 2023-08-05 |
 | [Kingdom Come](https://open.spotify.com/track/7ufTokV0aHYnSaZ83hfUu0) | [Unbroken Bond](https://open.spotify.com/artist/0vUzzSiZilRpnwSIHutohR), [dark animals](https://open.spotify.com/artist/5s3SvRUomfU0HIezDlDBrq) | [Kingdom Come](https://open.spotify.com/album/0pyfoV80CgnfVIB2sHbwKg) | 3:15 | 2022-01-06 | 2022-07-22 |
 | [Klein Wêreld](https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s) | 3:09 | 2023-06-08 | 2023-06-23 |
-| [Knip die Tou](https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Knip die Tou](https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G) | 3:38 | 2024-02-29 |  |
+| [Knip die Tou](https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Knip die Tou](https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G) | 3:38 | 2024-02-29 | 2024-07-19 |
 | [Kom Kry Van Myne](https://open.spotify.com/track/3E3768rjpDCanBS5ehkuXg) | [Marcel Dalmayda](https://open.spotify.com/artist/6jWwRKC7o4pvYYkl23db93) | [Kom Kry Van Myne](https://open.spotify.com/album/3m0if00d6lcjf4f9OrCtM0) | 3:37 | 2022-11-17 | 2023-02-17 |
 | [Kom Saam](https://open.spotify.com/track/1AhNnE44HmpMjJ6sdCLlcu) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Kom Saam](https://open.spotify.com/album/42HX577ta5Fj6hY3dokI82) | 3:26 | 2021-08-19 | 2022-11-18 |
 | [Kopskud Revolusie \(feat\. Spoegwolf\)](https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 2:55 | 2022-09-15 | 2023-08-05 |
@@ -316,7 +319,7 @@
 | [Ongevalle](https://open.spotify.com/track/1shcVBVEDQ43bJOIThkiR2) | [Stones & Gold](https://open.spotify.com/artist/07H4TBAQGyIVUYxLKoFlEP) | [Two of a Kind, Pt\. 2](https://open.spotify.com/album/1WyS8TcOhUmN6XZdlJtYcc) | 3:53 | 2022-12-01 | 2022-12-09 |
 | [Ons Het Gewen](https://open.spotify.com/track/11CVceR6cMGoXEA9IM18sO) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Ons Het Gewen](https://open.spotify.com/album/2hJ1WMh8F9qtnLHpgr9J3O) | 3:02 | 2021-06-10 | 2022-11-18 |
 | [Ons Is Die Vuur](https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Ons Is Die Vuur](https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili) | 2:58 | 2023-08-11 | 2023-12-22 |
-| [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 | 2024-01-04 |  |
+| [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 | 2024-01-04 | 2024-07-19 |
 | [Oud Geword](https://open.spotify.com/track/4uiF6f8SnK7Yxax8GNy6bz) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Oud Geword](https://open.spotify.com/album/70VkQsYTEX51832qXP82U1) | 3:03 | 2023-05-25 | 2023-09-01 |
 | [Out & About](https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj) | [Nomadic Orchestra](https://open.spotify.com/artist/27EGFQK4v27KEpLcdJhORE) | [Out & About](https://open.spotify.com/album/4HHFN1jXBNoSxpHUUupEbJ) | 2:52 | 2021-12-09 | 2022-09-16 |
 | [Out In The Open](https://open.spotify.com/track/0zG0Pb5Iqk4k85w1gCTKpl) | [The Govt.](https://open.spotify.com/artist/2UJWWvf4gRNfPzfrvO1VU9) | [Friendly Neighbourhood Conspiracies](https://open.spotify.com/album/092gJ1XwRQ1NgJXouE7h2j) | 3:44 | 2024-02-22 | 2024-03-30 |

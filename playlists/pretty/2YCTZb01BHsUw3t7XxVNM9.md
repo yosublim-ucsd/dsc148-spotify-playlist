@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 560 likes - 482 songs - 1 day 9 hr 38 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 560 likes - 483 songs - 1 day 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -490,5 +490,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 480 | [Your Impression Is Mine](https://open.spotify.com/track/7jqaW54t0IJel6AL48p37h) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [Your Impression Is Mine](https://open.spotify.com/album/1l5Q0fn975RQLhz6tcp4So) | 3:50 |
 | 481 | [This MUSIC](https://open.spotify.com/track/1kHIcjvUVJHZzkDMTq1chO) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [This MUSIC](https://open.spotify.com/album/2ovhGLU3Nl9njlrhAWh3Ez) | 3:10 |
 | 482 | [PROBLEM](https://open.spotify.com/track/3vryPetz7HjU0ySYtFA2Df) | [SENNA](https://open.spotify.com/artist/6YpkmIr6oAhiCLebOmx2G0) | [PROBLEM](https://open.spotify.com/album/6xor6gN5vTOl1QsRqBqgXF) | 3:48 |
+| 483 | [OMG!!](https://open.spotify.com/track/7CfT8SqCcyJExv6EP63qUe) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [OMG!!](https://open.spotify.com/album/6sWViqAhegqAnCDuXWzpUR) | 2:51 |
 
-Snapshot ID: `AAACQDY4RVcVGmWq2z380A0cTbkhX85x`
+Snapshot ID: `AAACQc41EIpV9mLWqfzcJvPClRAj58Dt`

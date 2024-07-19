@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430 likes - 259 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,436 likes - 259 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 102 | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/track/2pqu2XTbal0GehjBj2BDkv) | [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lights Off \(feat\. Gunna & Lil Durk\)](https://open.spotify.com/album/7J47Z2E4FxitaVruzJKbGx) | 3:35 |
 | 103 | [Recession Proof \- Bonus](https://open.spotify.com/track/4Lc321KT6dsd2rio7ysntE) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game \(Deluxe\)](https://open.spotify.com/album/72iAwt0JTYutgyO8cDsSj6) | 3:31 |
 | 104 | [RESPECTFULLY](https://open.spotify.com/track/7aqUXWQo6CrXu9oFOnqCuB) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [OH REALLY](https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W) | 2:20 |
-| 105 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 |
-| 106 | [TRYNA MAKE SURE](https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:46 |
+| 105 | [TRYNA MAKE SURE](https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:46 |
+| 106 | [Got It](https://open.spotify.com/track/2gCZzizzCdcWHqksfvJbpN) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 1:16 |
 | 107 | [Ball Forever](https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:21 |
 | 108 | [Dice Game](https://open.spotify.com/track/6hVyfeSlOKFBDhm6bZsQxe) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:09 |
 | 109 | [Important](https://open.spotify.com/track/0ouB74KXHucecyHKeE4cgI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Federal 3X](https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi) | 2:25 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 167 | [Day Day N Craig \(with Tay Keith\)](https://open.spotify.com/track/2taqlww5QPXBIjl7hfJTIy) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:17 |
 | 168 | [Turnt Up](https://open.spotify.com/track/1fsZ15Jv2Na4x8PZAqvnfW) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 2:58 |
 | 169 | [In the Air \(feat\. BlocBoy JB\)](https://open.spotify.com/track/4rNcajJ4guG6OnbMp7TkgK) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 2:58 |
-| 170 | [Look at Me Now](https://open.spotify.com/track/70aCgS2cUyP71Ag1BBiqM0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:53 |
-| 171 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 170 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 171 | [Look at Me Now](https://open.spotify.com/track/70aCgS2cUyP71Ag1BBiqM0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:53 |
 | 172 | [Lil Bitch](https://open.spotify.com/track/1ZN15RSNJpc3Tyxfjc7eUR) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Fuck Everybody](https://open.spotify.com/album/0nb45XEdKWSFgq0tdPUwnH) | 2:50 |
 | 173 | [Homecoming \(feat\. Bankroll Rico\)](https://open.spotify.com/track/1QozDHVFxNin5IQvFG7HZ8) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S), [Bankroll Rico](https://open.spotify.com/artist/6hLTf1PA7nXVLBHMwEBcAE) | [East Memphis Maniac](https://open.spotify.com/album/5OEoU8caLGSPsLPGomY3PH) | 3:04 |
 | 174 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 258 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 259 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbW9zAAAAAC2c2INHTsUDfJ6kA07jMmh`
+Snapshot ID: `AbXFEQAAAAArk6qkEL/MbZFATbj9K+qw`

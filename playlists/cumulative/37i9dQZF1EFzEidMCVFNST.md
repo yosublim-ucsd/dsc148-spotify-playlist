@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-381 songs - 18 hr 9 min
+383 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [BUMBUM](https://open.spotify.com/track/79eGKQJLS8GvsTvpX9Ayfo) | [Brandon Bill$](https://open.spotify.com/artist/2wBkBSQX5PISkfjecIlH9d) | [BUMBUM](https://open.spotify.com/album/3KZRB5emgFzwYFnplv6i1h) | 3:24 | 2024-01-29 |  |
 | [Bumbum Terremoto](https://open.spotify.com/track/3BGXDXoUna59g6M6WcnF1w) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/4KUSZZs7eDgNK2OlCUdBhZ) | 2:12 | 2024-03-26 |  |
 | [Cadê Meu Baby \- Ao Vivo](https://open.spotify.com/track/0VjCtUmQr9Na3Xcmd3s2NO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em Fortaleza](https://open.spotify.com/album/0G0XDcUxMafXvky8AZttxF) | 2:51 | 2024-01-29 |  |
-| [Calcinha da Namorada](https://open.spotify.com/track/4ahhugyYLFnxF282schVEn) | [Roberto Voice](https://open.spotify.com/artist/1leVwzYb28wqWJc8ZznBEJ) | [Vol 03](https://open.spotify.com/album/5zewjhJAIKxyiYgCzTvrTW) | 2:45 | 2024-01-29 |  |
+| [Calcinha da Namorada](https://open.spotify.com/track/2Ce4P5TrxsAl23Jrbg6EFn) | [Roberto Voice](https://open.spotify.com/artist/1leVwzYb28wqWJc8ZznBEJ) | [Vol 03](https://open.spotify.com/album/16T6vTBj3TNSdf6M4NmT5j) | 2:45 | 2024-07-18 |  |
+| [Calcinha da Namorada](https://open.spotify.com/track/4ahhugyYLFnxF282schVEn) | [Roberto Voice](https://open.spotify.com/artist/1leVwzYb28wqWJc8ZznBEJ) | [Vol 03](https://open.spotify.com/album/5zewjhJAIKxyiYgCzTvrTW) | 2:45 | 2024-01-29 | 2024-07-19 |
 | [Cama Preferida \- Acústico](https://open.spotify.com/track/5vP1KO5bslgsrg1WBQc6S6) | [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ) | [Cama Preferida \(Acústico\)](https://open.spotify.com/album/60DHtGExYbqeMtFk54OkP8) | 2:38 | 2024-01-29 |  |
 | [Camisa de Força](https://open.spotify.com/track/64qPPNWpZU8FPgVpCx3zeY) | [Chininha](https://open.spotify.com/artist/3lI032ULhqFakqCue9srcR) | [Camisa de Força](https://open.spotify.com/album/1R5pzyVylKyTCznYnJ1zQX) | 3:07 | 2024-03-26 |  |
 | [Camisa do Mickey](https://open.spotify.com/track/2Gnul1YRjNB93nddpp2UfB) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ) | [Na House](https://open.spotify.com/album/5kOeIgo4MdLhLggvyZKmo8) | 2:51 | 2024-01-29 |  |
@@ -233,7 +234,8 @@
 | [O Plano](https://open.spotify.com/track/5Qb39DhjfN6hreBiJo9ikX) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os) | [O Plano](https://open.spotify.com/album/1lWK0asDIo4ZrBMTKEiOJF) | 2:52 | 2024-01-29 |  |
 | [Olha A Mãozinha](https://open.spotify.com/track/65gdrHuWvxdp6gis8RAZhA) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Check](https://open.spotify.com/album/4VtFp9aoqQYTqxlsN0A8Qg) | 2:22 | 2024-01-29 |  |
 | [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 | 2024-01-29 |  |
-| [Olha Ela](https://open.spotify.com/track/06r3DWpTBQNVdRwJoPLh0g) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Live Paredão do Gás](https://open.spotify.com/album/3mQ8JrKyaqsGMP2wSbAdlr) | 2:31 | 2024-01-29 |  |
+| [Olha Ela](https://open.spotify.com/track/06r3DWpTBQNVdRwJoPLh0g) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Live Paredão do Gás](https://open.spotify.com/album/3mQ8JrKyaqsGMP2wSbAdlr) | 2:31 | 2024-01-29 | 2024-07-19 |
+| [Olha Ela](https://open.spotify.com/track/3FFRYPjogot2WEQUoUDnrY) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Live Paredão do Gás](https://open.spotify.com/album/5qRRGUc7TWyAoNK4Il0Up7) | 2:31 | 2024-07-18 |  |
 | [Onde Sofre Um Bebe Dois](https://open.spotify.com/track/5Ad7sQctusb7DAjXuV2fPP) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Coisa De Louco EP](https://open.spotify.com/album/4loAIuNE5Czk1DKMUPfPj4) | 3:08 | 2024-01-29 |  |
 | [Orgulho Não É Orgulhoso \- Ao Vivo](https://open.spotify.com/track/3i2HMcgmwjQj20UUgRrHxl) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:54 | 2024-01-29 |  |
 | [Pagou de Superado](https://open.spotify.com/track/7txXJ9FNM786lIpxHr9pGf) | [Larissa Manoela](https://open.spotify.com/artist/1454TL51gTbW2Vm5XCFhtv) | [Larissa Manoela A Milhão](https://open.spotify.com/album/7laAQAREq64PDmUBTHiF1u) | 2:27 | 2024-01-29 |  |
@@ -271,7 +273,7 @@
 | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/track/6sBvtoUiXy3fhgTvkln643) | [Raquel Carvalho](https://open.spotify.com/artist/5tTn59AuiKbHOo5KhGPUtk) | [Quando a Cachaça Não Mata, Humilha](https://open.spotify.com/album/2gDRclbyCiPaXZ8A6zfMpc) | 2:40 | 2024-01-29 |  |
 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:24 | 2024-01-29 |  |
 | [Quando Apaga A Luz \- Ao Vivo Em Recife / 2022](https://open.spotify.com/track/07s1Hh2REW8E72hIVrvSvw) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Quando Apaga A Luz \(Ao Vivo Em Recife / 2022\)](https://open.spotify.com/album/7ylStqISbaQpFrTDKnuOcV) | 2:32 | 2024-01-30 | 2024-02-01 |
-| [quanto mais eu tento](https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g) | [ÁRIES](https://open.spotify.com/artist/7ekqvEncg22oPbTvmPzSl3) | [mero](https://open.spotify.com/album/5NnPwkup9CQ1J1odXq2dvp) | 4:14 | 2024-01-29 |  |
+| [quanto mais eu tento](https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g) | [ÁRIES](https://open.spotify.com/artist/7ekqvEncg22oPbTvmPzSl3) | [mero](https://open.spotify.com/album/5NnPwkup9CQ1J1odXq2dvp) | 4:14 | 2024-01-29 | 2024-07-19 |
 | [Que Amizade o Que \- Ao Vivo](https://open.spotify.com/track/40vuaFGNaX1A2ZR8I7FOam) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 2:50 | 2024-01-29 |  |
 | [Que Tal](https://open.spotify.com/track/1rOZjJNGL1LXuzRSlEpLpj) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Que Tal](https://open.spotify.com/album/0O2BGw6VdvEJjTVg35umGV) | 2:34 | 2024-01-29 |  |
 | [Quem Pegou, Pegou \- Ao Vivo](https://open.spotify.com/track/6ctOtxi9OMzhEijZOz2jHV) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/6iGvvnauoKKjkutnB2b7lB) | 3:04 | 2024-01-29 |  |

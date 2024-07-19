@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo : Pierre Garnier
+> Les meilleures nouveautés de la variété française\. Photo : Eloïz
 
-54 songs - 2 hr 42 min
+57 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,14 +18,15 @@
 | [Comme les Autres](https://open.spotify.com/track/4jsoRGCNeiSsdxuNi8wIlc) | [Mauvais Œil](https://open.spotify.com/artist/3Y9K5UfReurp9VFJmOcrjj) | [Première Escale](https://open.spotify.com/album/3YzPMlRk7zWnkCz1lWGQFW) | 4:02 | 2024-06-27 |  |
 | [Comme un éclair](https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt) | [Antoine Delie](https://open.spotify.com/artist/4oD2dzJ90Zio3UtJ0d4FDN) | [Comme un éclair](https://open.spotify.com/album/7nJu0WVN2Kxu5BSQo4a7Hz) | 3:18 | 2024-06-27 |  |
 | [Comment tu fais ça ?](https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Comment tu fais ça ?](https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo) | 3:01 | 2024-06-27 |  |
-| [Derniers humains](https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Lucie Lebrun](https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Derniers humains](https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1) | 2:44 | 2024-06-27 |  |
-| [Délit de mélancolie](https://open.spotify.com/track/4x4wAE7wdLBoZVdws13kZ2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Délit de mélancolie](https://open.spotify.com/album/7bq7CwAU7YweDXvtrCm2rZ) | 2:50 | 2024-06-27 |  |
+| [Derniers humains](https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Lucie Lebrun](https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Derniers humains](https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1) | 2:44 | 2024-06-27 | 2024-07-19 |
+| [Délit de mélancolie](https://open.spotify.com/track/4x4wAE7wdLBoZVdws13kZ2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Délit de mélancolie](https://open.spotify.com/album/7bq7CwAU7YweDXvtrCm2rZ) | 2:50 | 2024-06-27 | 2024-07-19 |
 | [Eau de javel](https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nos futurs](https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T) | 2:57 | 2024-06-27 |  |
 | [Embrasse\-moi](https://open.spotify.com/track/6IEqOFFBGjx2FW2pwPFAWT) | [Victorien](https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE) | [Embrasse\-moi](https://open.spotify.com/album/7ar0xTKM2M4MT9xYSQJwRX) | 2:46 | 2024-06-27 |  |
 | [Enchantiée](https://open.spotify.com/track/1njRdxvR3tH8EujVkgpNRI) | [LO&VIE](https://open.spotify.com/artist/1fZcyGm0fF8Ts8vYXYpyDg) | [Enchantiée](https://open.spotify.com/album/5xLMLmXJbLG9sJl9ZD8k4S) | 2:44 | 2024-06-27 |  |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-06-27 |  |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-06-27 |  |
 | [Fille du Sud \(Lambada\)](https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Fille du Sud \(Lambada\)](https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO) | 2:43 | 2024-06-27 |  |
+| [HIT PARADE](https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix) | [Trois Vagues](https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z) | [HIT PARADE](https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS) | 2:48 | 2024-07-18 |  |
 | [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 | 2024-06-27 |  |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 |  |
@@ -43,6 +44,7 @@
 | [Les Larmes ne coulent pas](https://open.spotify.com/track/6OG2MCk4VFb0pI92f9ec1B) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:42 | 2024-06-27 |  |
 | [Les Montgolfières](https://open.spotify.com/track/0ZHisJB7IPvhXl5dubBMBv) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:21 | 2024-06-27 |  |
 | [Léa](https://open.spotify.com/track/5y4SGiUMB4cTr14h6kwFyZ) | [Floran](https://open.spotify.com/artist/22UEQ1zDB3JGeEx9jtye4V) | [Léa](https://open.spotify.com/album/2xewKyVhEUNYWYsz9CGQZs) | 2:58 | 2024-06-27 |  |
+| [Mon coeur s'emballe](https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Mon coeur s'emballe](https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd) | 3:06 | 2024-07-18 |  |
 | [Normal \- Version Lino](https://open.spotify.com/track/7yfiUVhb4ULrdspsNdVKh0) | [Laurent Lamarca](https://open.spotify.com/artist/1oxqdAQ96XPo1bAS8S9xDX) | [Normal \(Version Lino\)](https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5) | 3:43 | 2024-06-27 |  |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-06-27 |  |
 | [On est plein](https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [On est plein](https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l) | 2:26 | 2024-06-27 |  |
@@ -52,6 +54,7 @@
 | [Pas d'après](https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Pas d'après](https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC) | 2:40 | 2024-06-27 |  |
 | [Petite gueule](https://open.spotify.com/track/1KceWs92cxNJjxiBi8VR7m) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Lovelace](https://open.spotify.com/artist/2enPsIhjzgL3ANKtBhXgtK) | [Petite gueule](https://open.spotify.com/album/6Nna3FXAnXi3yl12aIxWjI) | 2:45 | 2024-06-27 | 2024-07-05 |
 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 | 2024-07-04 |  |
+| [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 | 2024-07-18 |  |
 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-27 |  |
 | [Sentiers de la brume](https://open.spotify.com/track/3REOJVcm5TaOSjsMPwB6X2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Sentiers de la brume](https://open.spotify.com/album/6X4h1fNGloFPCNKn1bvu8L) | 3:56 | 2024-07-04 |  |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-06-27 |  |
@@ -61,6 +64,6 @@
 | [Toute seule \- 2024](https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM), [RORI](https://open.spotify.com/artist/3P3yXPp61UWZk8MqFpneQ8) | [Hyper Lorie \(Vol\. 2\)](https://open.spotify.com/album/3DekfUe0VqOZvdjinQLPLL) | 2:20 | 2024-06-27 | 2024-07-05 |
 | [Trop tôt](https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Trop tôt](https://open.spotify.com/album/0b1MHM0bqn9ovncFVQs49z) | 2:51 | 2024-06-27 |  |
 | [Umani Terra](https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6) | [La petite culotte](https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd) | [Umani Terra](https://open.spotify.com/album/4bEcAf4AK0a2NV40KVX01y) | 3:09 | 2024-06-27 |  |
-| [Un jour de plus](https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg) | [De Grands Enfants](https://open.spotify.com/artist/2fVjeOeM4LE0BJxiTf774A) | [Un jour de plus](https://open.spotify.com/album/2wJPpTFruAWVYgqXp5vw30) | 2:15 | 2024-06-27 |  |
+| [Un jour de plus](https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg) | [De Grands Enfants](https://open.spotify.com/artist/2fVjeOeM4LE0BJxiTf774A) | [Un jour de plus](https://open.spotify.com/album/2wJPpTFruAWVYgqXp5vw30) | 2:15 | 2024-06-27 | 2024-07-19 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

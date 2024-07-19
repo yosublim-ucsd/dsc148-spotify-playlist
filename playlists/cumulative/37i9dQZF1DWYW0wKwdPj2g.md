@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Sinach
 
-91 songs - 11 hr 56 min
+92 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Praise Medley \- Live](https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Praise Medley \(Live\)](https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ) | 8:44 | 2024-06-28 |  |
 | [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 | 2024-06-28 |  |
 | [Reign Lord \(Sovereign\) \- Live](https://open.spotify.com/track/4gHf19oU8KGnuUTNIJf6F7) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Anu Ropo](https://open.spotify.com/artist/6pOWF1wf8Vt8EoF4Ee5imF) | [Reign Lord \(Sovereign\) \[Live\]](https://open.spotify.com/album/0nux4SSbd3MQOUupsY10nT) | 10:30 | 2024-05-03 |  |
+| [Separate and Set Apart \- Live](https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Separate and Set Apart \(Live\)](https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29) | 11:24 | 2024-07-19 |  |
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-02-23 |  |
 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 | 2024-02-23 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-02-23 |  |

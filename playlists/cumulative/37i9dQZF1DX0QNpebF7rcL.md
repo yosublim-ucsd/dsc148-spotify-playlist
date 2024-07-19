@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-397 songs - 1 day 2 hr 39 min
+398 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [421 South Main](https://open.spotify.com/track/1ZUXEmilOsIa5jfp9ooaAF) | [King Solomon Hicks](https://open.spotify.com/artist/1kwMZiFnFBuniUpHpNHEds) | [Harlem](https://open.spotify.com/album/2eST5Em3wuzueE8AkR2kTF) | 2:44 | 2020-12-14 | 2022-02-26 |
 | [50 Years](https://open.spotify.com/track/0z1d5h194QHSRIk7tRNS9c) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [50 \- Just warming up !](https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt) | 4:11 | 2020-12-14 | 2022-02-26 |
 | [500 Miles](https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [500 Miles](https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg) | 3:30 | 2023-01-20 | 2023-02-11 |
+| [99 And 1/2 Won't Do](https://open.spotify.com/track/6SCLPf6RTXCwvYEhF5a2ME) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm) | [99 And 1/2 Won't Do](https://open.spotify.com/album/4TWaiD0oviLCZ4d7pVA6TI) | 4:15 | 2024-07-19 |  |
 | [99 Pounds](https://open.spotify.com/track/4WstfPz3tDUFjpU3vp8VDN) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 2:55 | 2020-12-14 | 2022-02-26 |
 | [A Flat City](https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [A Flat City](https://open.spotify.com/album/1vw3z3xkEY2cqDqCi5ndwQ) | 2:02 | 2024-07-12 |  |
 | [A Good Goodbye](https://open.spotify.com/track/5fPhQkWnYbb0qhzW1Csglw) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [A Good Goodbye](https://open.spotify.com/album/7HFHiwHYjPjTQHWO876JWf) | 4:10 | 2024-01-19 | 2024-02-17 |
@@ -167,7 +168,7 @@
 | [I Shall Not Be Moved](https://open.spotify.com/track/0vgye3WuFujBVE0o7bMlUs) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [I Shall Not Be Moved](https://open.spotify.com/album/7rdwOavrIfe48baqM5SPP6) | 4:19 | 2022-02-25 | 2022-04-23 |
 | [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-06-11 |
 | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/40W7GqrM3klsP4bHSxGrBT) | 4:19 | 2021-10-22 | 2022-04-23 |
-| [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 | 2023-08-18 |  |
+| [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 | 2023-08-18 | 2024-07-19 |
 | [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 | 2023-05-19 | 2023-06-17 |
 | [I Was Wrong](https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [I Was Wrong](https://open.spotify.com/album/4pWHa99dbajqTn8BLqTbdZ) | 3:49 | 2023-08-04 | 2023-09-02 |
 | [I Wish I Knew How It Would Feel To Be Free](https://open.spotify.com/track/6w23sxZepVSmRiTLDsP5ou) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Levon Helm](https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9) | [Carry Me Home](https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ) | 3:42 | 2022-04-29 | 2024-04-19 |

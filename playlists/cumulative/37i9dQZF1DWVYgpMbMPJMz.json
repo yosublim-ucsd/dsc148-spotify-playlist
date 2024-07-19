@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:3YCKuqpv9nCsIhJ2v8SMix\">Elevation Worship</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:5nO7Yt0Jon48sqKR6VME4T\">Joe L Barnes</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2668,7 +2668,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 519288,
       "name": "Death Is Hollow (Live)",
       "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
@@ -3749,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "The Good Shepherd",
+        "url": "https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264521,
+      "name": "Good Shepherd",
+      "url": "https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK"
+    },
+    {
+      "album": {
         "name": "Walk with You",
         "url": "https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV"
       },
@@ -4041,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Hands Of The Healer",
+        "url": "https://open.spotify.com/album/3I7LT2cBTzO65R6bGzTBPr"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258130,
+      "name": "Hands Of The Healer",
+      "url": "https://open.spotify.com/track/1JQsy5MkGA400fSEumjxWN"
+    },
+    {
+      "album": {
         "name": "Hands Of The Healer (Live)",
         "url": "https://open.spotify.com/album/4fKlvixbyi2sWBqaiJvGCf"
       },
@@ -4052,7 +4088,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 272458,
       "name": "Hands Of The Healer - Live",
       "url": "https://open.spotify.com/track/7M3xzmIhe55g7lFjmV4Zja"
@@ -5066,6 +5102,24 @@
       "duration_ms": 660533,
       "name": "I Can\u2019t Get Away - Live",
       "url": "https://open.spotify.com/track/4eoziPpcqjvVaXGLUnKUsx"
+    },
+    {
+      "album": {
+        "name": "I Have A Father (Live)",
+        "url": "https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459430,
+      "name": "I Have A Father - Live",
+      "url": "https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR"
     },
     {
       "album": {
@@ -6612,7 +6666,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 461209,
       "name": "Lead Me On - Live",
       "url": "https://open.spotify.com/track/1FlWA9jgMVzj9nn6aAcSZX"
@@ -7500,7 +7554,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 298275,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/3vdzkdsNdOSm4DBdOUgjSX"
@@ -7951,6 +8005,50 @@
     },
     {
       "album": {
+        "name": "No One But Jesus",
+        "url": "https://open.spotify.com/album/0RBpc69OKyr5M3ao9Tyedq"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304615,
+      "name": "No One But Jesus",
+      "url": "https://open.spotify.com/track/6AtPVvOCYexCYYOU9FVRJo"
+    },
+    {
+      "album": {
+        "name": "No One Like The Lord (Live)",
+        "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500300,
+      "name": "No One Like The Lord (Live)",
+      "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+    },
+    {
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/01kBhpUucPs5watbzwnZWc"
       },
@@ -8230,6 +8328,28 @@
       "duration_ms": 235599,
       "name": "O Lord, You\u2019re Beautiful (with Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui"
+    },
+    {
+      "album": {
+        "name": "The Little I've Seen",
+        "url": "https://open.spotify.com/album/1YbUJuRlkZcVzhGIHrX8P6"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Heath Balltzglier",
+          "url": "https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215523,
+      "name": "O Praise The Lord",
+      "url": "https://open.spotify.com/track/76sle2ncvhtdKXa2c37U2T"
     },
     {
       "album": {
@@ -8790,6 +8910,24 @@
       "duration_ms": 258750,
       "name": "Power In Your Name",
       "url": "https://open.spotify.com/track/3bQ5B0k1kxDc9F6976VQxt"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/0Kaib6L3q1EUeAbqFBgcap"
+      },
+      "artists": [
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/0ZjS6dbLy2DKiGkl8PJ78w"
     },
     {
       "album": {
@@ -9688,7 +9826,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202879,
       "name": "Scars",
       "url": "https://open.spotify.com/track/2HpRHPEKz6o17RMBP0LBZT"
@@ -10668,7 +10806,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 312254,
       "name": "The Blood (Live)",
       "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
@@ -12682,7 +12820,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 472857,
       "name": "Wind of Love (feat. Maryanne J. George)",
       "url": "https://open.spotify.com/track/4W2WJEEzNzM5ELYRh0ek5l"
@@ -12865,6 +13003,32 @@
     },
     {
       "album": {
+        "name": "Yahweh Holy (Live)",
+        "url": "https://open.spotify.com/album/6wXBDvFESZQZVvSwUqBqub"
+      },
+      "artists": [
+        {
+          "name": "Homecoming",
+          "url": "https://open.spotify.com/artist/3j75QaSe0OJNGFMY6J0CfX"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365352,
+      "name": "Yahweh Holy - Live",
+      "url": "https://open.spotify.com/track/3BbpZCCPtdg7lDsM0H6hjf"
+    },
+    {
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -12880,7 +13044,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 430747,
       "name": "Yahweh We \ud83e\udd0d You",
       "url": "https://open.spotify.com/track/6AJYNru2GfKj46emhLMtuJ"

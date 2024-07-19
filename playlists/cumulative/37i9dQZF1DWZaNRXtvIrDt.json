@@ -5564,7 +5564,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
@@ -8366,6 +8366,28 @@
       "duration_ms": 339126,
       "name": "o4k",
       "url": "https://open.spotify.com/track/2ypGQxlnHRUJOqJxu9VZLf"
+    },
+    {
+      "album": {
+        "name": "Big Beat Manifesto Vol. IX",
+        "url": "https://open.spotify.com/album/1TRIYKdhcgoyVS8RsmIB8r"
+      },
+      "artists": [
+        {
+          "name": "Mayurashka",
+          "url": "https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf"
+        },
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339024,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6pbfREdpBbzdDYJrjD84BE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-333 songs - 20 hr 44 min
+334 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 | 2021-10-29 | 2022-06-04 |
 | [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 | 2024-05-24 |  |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-10-29 |  |
+| [House Parties](https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [House Parties](https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ) | 3:54 | 2024-07-19 |  |
 | [Housewarming \(The New Recording\)](https://open.spotify.com/track/56IUBnYVLK5ojzG4UEgVB8) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Housewarming \(The New Recording\)](https://open.spotify.com/album/4yno9flAxwdn27FQMrah4Y) | 4:10 | 2024-01-26 | 2024-04-19 |
 | [Housewarming \- The New Recording](https://open.spotify.com/track/71kjx4TQWb4Fm9MJZhLFZ6) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Housewarming \(The New Recording\)](https://open.spotify.com/album/0M7Jed3vq0wZgWZs1hF9g6) | 4:10 | 2024-01-26 | 2024-05-18 |
 | [How Bad I Wanna Live](https://open.spotify.com/track/4No2hBtuIufwb3w28Y0XZt) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How Bad I Wanna Live](https://open.spotify.com/album/2kuPelS6p4hK1oAnKCvZKy) | 2:53 | 2022-02-11 | 2022-06-24 |
@@ -289,7 +290,7 @@
 | [Summertime Whiskey](https://open.spotify.com/track/5k9Y1Wfel4xoGgUMAm6tsZ) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Summertime Whiskey](https://open.spotify.com/album/2xSuqkSw4cCgsAejTeJ4iH) | 2:59 | 2023-03-17 | 2023-05-23 |
 | [Sweet Shame](https://open.spotify.com/track/3SqFkTeKuqmZ02OV0sS1ZV) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Uncommon Prayer](https://open.spotify.com/album/6KZY8oAuN9LU4ETIu65YJ6) | 3:02 | 2021-10-29 | 2022-04-20 |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-04-15 | 2024-04-19 |
-| [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-10-29 |  |
+| [Sword from the Stone](https://open.spotify.com/track/32PwKptR5PhpP4Gxv8Lvps) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted \(Deluxe\)](https://open.spotify.com/album/1cD1OsXdX1czUNujNuJGzJ) | 3:21 | 2021-10-29 | 2024-07-19 |
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-29 |  |
 | [Tangerine](https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bluebeard](https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC) | 3:08 | 2023-09-15 |  |
 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 | 2023-10-13 |  |

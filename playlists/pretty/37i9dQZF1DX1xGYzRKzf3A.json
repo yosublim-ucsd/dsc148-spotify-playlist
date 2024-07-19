@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 136299,
+  "num_followers": 136449,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "La Combinacion Vallenata",
         "url": "https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 272533,
       "name": "A Pesar De Todo",
       "url": "https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "La Cadena",
-        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
-      },
-      "artists": [
-        {
-          "name": "Los Morros Del Norte",
-          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La Botella (Dos Botellas De Mescal)",
-      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 238747,
       "name": "Ch\u00fantaros Style",
       "url": "https://open.spotify.com/track/4a0XUfmjQiRb0diHn9jVjA"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "La Cadena",
+        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
+      },
+      "artists": [
+        {
+          "name": "Los Morros Del Norte",
+          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Botella (Dos Botellas De Mescal)",
+      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Lo Mejor de Mi Vida",
         "url": "https://open.spotify.com/album/7IZzYkfoO1am9oUyNZK7fp"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 224333,
       "name": "Lo Mejor de Mi Vida",
       "url": "https://open.spotify.com/track/5SVXxIPttTS33BSphXn7Dv"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/3Rn8SoV3fGLgTF8h2vfuPi"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 218337,
       "name": "Cumbia de Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Los Dos Carnales Con Sax",
-        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 227554,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Amor A La Ligera",
         "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 172788,
       "name": "Mi Unico Camino",
       "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Botes y Boleros (En Vivo)",
         "url": "https://open.spotify.com/album/5HYVtlNTOIlS0sJY3i26vX"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 176948,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "\u00c9xitos Andr\u00e9s Landero",
-        "url": "https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a"
-      },
-      "artists": [
-        {
-          "name": "Andres Landero Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Cuando Lo Negro Sea Bello",
-      "url": "https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "15 Super Exitos",
         "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 236538,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "\u00c9xitos Andr\u00e9s Landero",
+        "url": "https://open.spotify.com/album/3r1DwWNf3WIFGAvXF38p3a"
+      },
+      "artists": [
+        {
+          "name": "Andres Landero Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Cuando Lo Negro Sea Bello",
+      "url": "https://open.spotify.com/track/6RNaww08bvsfCbE95pZkzh"
     },
     {
       "added_at": "2024-07-15 22:48:03",

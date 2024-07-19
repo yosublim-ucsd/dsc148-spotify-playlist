@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-526 songs - 1 day 2 hr 39 min
+527 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,9 +368,10 @@
 | [Past Lives](https://open.spotify.com/track/63m0Aq1h71ZhX69s74VRDD) | [Kzzie](https://open.spotify.com/artist/7ib3Hg2NtQtQACtcm5qX0F), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/7fmtAELE4uG319tK93OpGW) | 2:33 | 2023-06-19 | 2023-06-26 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-04-14 | 2023-10-03 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-06 |  |
-| [Per Ongeluk Verliefd](https://open.spotify.com/track/0KYlSyEchSuHkbrtVxZ6Ch) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Per Ongeluk Verliefd](https://open.spotify.com/album/6WKgBHm6gfXfqT0OUrMAfE) | 2:53 | 2024-06-03 |  |
+| [Per Ongeluk Verliefd](https://open.spotify.com/track/0KYlSyEchSuHkbrtVxZ6Ch) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Per Ongeluk Verliefd](https://open.spotify.com/album/6WKgBHm6gfXfqT0OUrMAfE) | 2:53 | 2024-06-03 | 2024-07-19 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2024-01-03 | 2024-02-15 |
 | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/track/0JCibql9R5cuYLBFRMocPj) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D) | 2:27 | 2024-01-11 | 2024-01-30 |
+| [Perfecte Plaatje](https://open.spotify.com/track/6qL6fNE8S4ituJcXKtyJUP) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Perfecte Plaatje](https://open.spotify.com/album/518xfGqJAIWO1qVGtS7pqe) | 2:33 | 2024-07-19 |  |
 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 | 2023-08-31 | 2023-12-08 |
 | [Petit génie](https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE) | 3:37 | 2023-12-07 | 2023-12-15 |
 | [Picture Me](https://open.spotify.com/track/0sagI8v3w4OAmDx965cbJk) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Picture Me](https://open.spotify.com/album/4iX3CdFCwZ2ipYPYdFr1au) | 4:41 | 2024-04-18 | 2024-04-26 |

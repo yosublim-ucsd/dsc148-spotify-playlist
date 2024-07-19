@@ -1,12 +1,12 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Moses Sumney",
-  "num_followers": 1327177,
+  "description": "Genre-less. Quality first always. Cover: Childish Gambino",
+  "num_followers": 1327181,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpfoEQAAAADd6HXdrWFZrUQkfr/NYtl3",
+  "snapshot_id": "ZpnkwAAAAAAugxLdkP1YfluJLY73NyhL",
   "tracks": [
     {
       "added_at": "2024-07-17 14:37:07",
@@ -33,6 +33,178 @@
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "U R MINE",
+        "url": "https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 191286,
+      "name": "U R MINE",
+      "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "ITS NOT THAT DEEP",
+        "url": "https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 117761,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Chrome Cowgirl (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/0Mij9SmUrhfN45IFiNUXWZ"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 148791,
+      "name": "Chrome Cowgirl (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/1uP3EFUgPrvaIRfA9yepA6"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1tUE0TmYVuoHIgEt1MwlZo"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 178981,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/4IDVtE6XNoPicVq3b58pep"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "SIN MIEDO",
+        "url": "https://open.spotify.com/album/4NBSLYMhwbf5gUSc0ZHKQK"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 167291,
+      "name": "SIN MIEDO",
+      "url": "https://open.spotify.com/track/4qAQTQH5lF4kINZ9JkURXp"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Better ft. Cuco",
+        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Better ft. Cuco",
+      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Signs of Romance",
+        "url": "https://open.spotify.com/album/2SKQxaocHjM6dXerK1wJYn"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Then Close Your Eyes",
+      "url": "https://open.spotify.com/track/5itTAsIxbBrRdr7ljA3KEC"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "1-800 FANTASY",
+        "url": "https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Jackie Giroux",
+          "url": "https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh"
+        }
+      ],
+      "duration_ms": 157998,
+      "name": "GEMINI (feat. Jackie Giroux)",
+      "url": "https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Gold Coast",
+        "url": "https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "duration_ms": 220013,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "I Just Can't Be Alone (with Billy Lemos)",
@@ -53,36 +225,20 @@
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Signs of Romance",
-        "url": "https://open.spotify.com/album/2SKQxaocHjM6dXerK1wJYn"
+        "name": "Godard The Director",
+        "url": "https://open.spotify.com/album/60emmlz3sibbVamREfBVnB"
       },
       "artists": [
         {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+          "name": "sandy crow",
+          "url": "https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Then Close Your Eyes",
-      "url": "https://open.spotify.com/track/5itTAsIxbBrRdr7ljA3KEC"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Gold Coast",
-        "url": "https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB"
+      "duration_ms": 120923,
+      "name": "Godard The Director",
+      "url": "https://open.spotify.com/track/7DINGLhXq3j4g6SoK7wgZr"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -99,6 +255,22 @@
       "duration_ms": 203708,
       "name": "It Only Takes 2",
       "url": "https://open.spotify.com/track/7GTEkSbb0bG5RNKOrckKwi"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "INRI",
+        "url": "https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 145303,
+      "name": "INRI",
+      "url": "https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4"
     },
     {
       "added_at": "2024-07-17 15:49:37",
@@ -707,22 +879,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 180839,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "Cruzafied",
         "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
       },
@@ -919,22 +1075,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Gaza is Calling",
-        "url": "https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Gaza is Calling",
-      "url": "https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1283,22 +1423,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Shame On The Devil",
-        "url": "https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 205287,
-      "name": "Shame On The Devil",
-      "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "blu",
         "url": "https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU"
       },
@@ -1535,22 +1659,6 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "My Way / Cyan Blue",
-        "url": "https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 209370,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
         "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
         "url": "https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL"
       },
@@ -1639,18 +1747,18 @@
     {
       "added_at": "2024-06-24 13:07:46",
       "album": {
-        "name": "Like I Say (I runaway)",
-        "url": "https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx"
+        "name": "Catching Chickens EP",
+        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 177475,
-      "name": "Like I Say (I runaway)",
-      "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
+      "duration_ms": 223986,
+      "name": "Hell of a Ride",
+      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
     },
     {
       "added_at": "2024-06-24 13:07:46",
@@ -1687,142 +1795,6 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Catching Chickens EP",
-        "url": "https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Hell of a Ride",
-      "url": "https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
-      },
-      "artists": [
-        {
-          "name": "Bien et Toi",
-          "url": "https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a"
-        },
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 211846,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Mary Boone",
-        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Mary Boone",
-      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "joycelyn's dance",
-        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "joycelyn's dance",
-      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "A Dream Goes On Forever",
-        "url": "https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 279170,
-      "name": "A Dream Goes On Forever",
-      "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Alesis",
-      "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 119666,
-      "name": "Unifying Thought",
-      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
-    },
-    {
-      "added_at": "2024-06-24 13:07:46",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     }
   ],
   "unique_name": "POLLEN",

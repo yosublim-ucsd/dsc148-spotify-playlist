@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Separate and Set Apart (Live)",
+        "url": "https://open.spotify.com/album/2fJNJYJp9xgvszDVXqlp29"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 684000,
+      "name": "Separate and Set Apart - Live",
+      "url": "https://open.spotify.com/track/73sM6yB7aVAnxIkXsmKSab"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ"
       },

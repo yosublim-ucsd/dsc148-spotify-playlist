@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,103 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,230 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 58 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 |
 | 59 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 60 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
-| 61 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 |
-| 62 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
+| 61 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
+| 62 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 |
 | 63 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
 | 64 | [Bite Your Lip pt\. 2](https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip pt\. 2](https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL) | 3:05 |
 | 65 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 |

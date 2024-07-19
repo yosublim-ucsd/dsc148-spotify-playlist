@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: (G)I-DLE",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: Stray Kids",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1568,6 +1568,24 @@
       "duration_ms": 214800,
       "name": "Chill Kill",
       "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
     },
     {
       "album": {
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179426,
       "name": "SAINT",
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179866,
       "name": "Sugarcoat (NATTY Solo)",
       "url": "https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9"
@@ -9172,6 +9190,24 @@
       "duration_ms": 191853,
       "name": "WHISPER",
       "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "album": {

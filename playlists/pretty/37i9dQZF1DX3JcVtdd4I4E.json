@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6427,
+  "num_followers": 6443,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Hungover (Head In A Can)",
         "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 224077,
       "name": "Hungover (Head In A Can)",
       "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "For The Show",
-        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
-      },
-      "artists": [
-        {
-          "name": "Melanie Wehbe",
-          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "For The Show",
-      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Habits (Stay High) [Stripped in France]",
         "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224620,
       "name": "Habits (Stay High) [Stripped in France]",
       "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "For The Show",
+        "url": "https://open.spotify.com/album/4GDuQ03hhnpE0JeQyVkXf3"
+      },
+      "artists": [
+        {
+          "name": "Melanie Wehbe",
+          "url": "https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "For The Show",
+      "url": "https://open.spotify.com/track/5wc1w2XdoMEUz9IxEalzO7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Foam",
-        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 144051,
-      "name": "Wishing well",
-      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Rear View",
         "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194594,
       "name": "Rear View",
       "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 144051,
+      "name": "Wishing well",
+      "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1067,6 +1067,22 @@
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
+      },
+      "artists": [
+        {
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
+        }
+      ],
+      "duration_ms": 158388,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SMOKE",
-        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 204222,
-      "name": "SMOKE",
-      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 143081,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "SMOKE",
+        "url": "https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6"
+      },
+      "artists": [
+        {
+          "name": "Sval",
+          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
+        }
+      ],
+      "duration_ms": 204222,
+      "name": "SMOKE",
+      "url": "https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 112131,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Backa",
-        "url": "https://open.spotify.com/album/7GknWHYTyKssnetGlRgyvb"
-      },
-      "artists": [
-        {
-          "name": "Zoe Lobos",
-          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
-        }
-      ],
-      "duration_ms": 158388,
-      "name": "Backa",
-      "url": "https://open.spotify.com/track/7xreYVzBMqvwSwuRENp2ba"
     },
     {
       "added_at": "2024-02-08 23:00:00",

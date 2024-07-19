@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9710,
+  "num_followers": 9721,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAA6q9kgAQYiJ0ewA9YKLK32",
+  "snapshot_id": "ZpcJgAAAAADYKflmhxrmGmxaxij0MTth",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 212013,
-      "name": "People Disappear All the Time",
-      "url": "https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT"
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Castle Leoch",
-      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
+      "duration_ms": 212013,
+      "name": "People Disappear All the Time",
+      "url": "https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Bronwyn and Arondir",
-      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
+      "duration_ms": 203266,
+      "name": "Elrond Half-elven",
+      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Elrond Half-elven",
-      "url": "https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve"
+      "duration_ms": 167400,
+      "name": "Bronwyn and Arondir",
+      "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Singularity",
-        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 254317,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Singularity",
+        "url": "https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 254317,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 224760,
       "name": "Echoes of an Old Life",
       "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marvel's Agents of S.H.I.E.L.D.",
-        "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Agents of S.H.I.E.L.D. Overture",
-      "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 227386,
       "name": "A Plea to the Rocks",
       "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marvel's Agents of S.H.I.E.L.D.",
+        "url": "https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Agents of S.H.I.E.L.D. Overture",
+      "url": "https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5"
     },
     {
       "added_at": null,

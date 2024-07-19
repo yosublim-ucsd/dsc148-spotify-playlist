@@ -1,13 +1,45 @@
 {
-  "description": "1, 2, 3 let's go...!",
-  "num_followers": 2178873,
+  "description": "Jimin's finally here \u2661",
+  "num_followers": 2178337,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpflYgAAAAD2MJJ67AcBeTOsqKtQTRnR",
+  "snapshot_id": "ZpnkwAAAAADghAFTn4SSjqbJtEFFDs0D",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "15 MINUTES",
+        "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 189192,
+      "name": "15 MINUTES",
+      "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
     {
       "added_at": "2024-05-07 01:08:27",
       "album": {
@@ -39,6 +71,22 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -93,40 +141,52 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-15 18:57:33",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes) (English Ver.) Feat. JVKE",
-      "url": "https://open.spotify.com/track/5iyoxIdoTDX7gp8o5dkP3Y"
+      "duration_ms": 183189,
+      "name": "Scumbag",
+      "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-07-17 15:38:10",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 211103,
-      "name": "Bad Blood (Taylor's Version)",
-      "url": "https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic"
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-07-16 03:24:58",
+      "album": {
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 218080,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
     },
     {
       "added_at": "2024-06-19 20:56:23",
@@ -161,36 +221,24 @@
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
     },
     {
-      "added_at": "2024-07-16 03:24:58",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 218080,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
-    },
-    {
-      "added_at": "2024-07-17 15:38:10",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 188399,
+      "name": "Slow Dance (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
     },
     {
       "added_at": "2024-07-01 17:54:09",
@@ -211,6 +259,42 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2024-07-15 18:57:33",
+      "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes) (English Ver.) Feat. JVKE",
+      "url": "https://open.spotify.com/track/5iyoxIdoTDX7gp8o5dkP3Y"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -223,6 +307,22 @@
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Call Out My Name",
+        "url": "https://open.spotify.com/album/2SADDN3NDc2UplS6Hzm7NS"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 226100,
+      "name": "Call Out My Name",
+      "url": "https://open.spotify.com/track/1DlqQ6itflIyZwOBx5Fppa"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -257,6 +357,22 @@
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Pretty Baby",
+        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "Pretty Baby",
+      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -271,22 +387,6 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -369,6 +469,22 @@
       "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk"
+      },
+      "artists": [
+        {
+          "name": "Devon Cole",
+          "url": "https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
+    },
+    {
       "added_at": "2024-07-17 15:38:10",
       "album": {
         "name": "C,XOXO",
@@ -437,20 +553,20 @@
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Pretty Baby",
-        "url": "https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO"
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
       },
       "artists": [
         {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 203522,
-      "name": "Pretty Baby",
-      "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -519,6 +635,22 @@
       "duration_ms": 157683,
       "name": "Somebody to Someone (I Just Wanna Fall in Love)",
       "url": "https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/7GcC0dp4qulI530IoHIbkE"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 199463,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/5CPDjTGMlWUncNpw9H4GvG"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -601,6 +733,22 @@
       "url": "https://open.spotify.com/track/1GP8VW5Wk2w2obkWjGCGXd"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "LEFT OF ME",
+        "url": "https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 194172,
+      "name": "LEFT OF ME",
+      "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "There Goes My Baby",
@@ -617,20 +765,20 @@
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
+        "name": "BOOM SNAP CLAP",
+        "url": "https://open.spotify.com/album/72sSLwq7YvrCCgWQjcAaLn"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
         }
       ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
+      "duration_ms": 116571,
+      "name": "BOOM SNAP CLAP",
+      "url": "https://open.spotify.com/track/6ZWnx79qcIAc4noEucrW2I"
     },
     {
       "added_at": "2024-07-01 17:37:35",
@@ -665,24 +813,20 @@
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "bite the bullet",
+        "url": "https://open.spotify.com/album/5MjDGMrdbxHxERuwT79EQ2"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
         }
       ],
-      "duration_ms": 242666,
-      "name": "us. (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+      "duration_ms": 140925,
+      "name": "bite the bullet",
+      "url": "https://open.spotify.com/track/5CspzXgtgJH2pSpDxQWjgo"
     },
     {
       "added_at": "2024-06-15 01:49:00",
@@ -735,26 +879,6 @@
       "duration_ms": 170591,
       "name": "post-post apocalyptic dance party (From \"LEGO\u00ae Horizon Adventures\u2122\")",
       "url": "https://open.spotify.com/track/1M62uXa2Y6vczDfKIpOnDy"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1017,26 +1141,6 @@
       "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
-    },
-    {
       "added_at": "2024-06-14 14:06:41",
       "album": {
         "name": "summer flows 0.02",
@@ -1067,38 +1171,6 @@
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Dancing With Tears In My Eyes",
-        "url": "https://open.spotify.com/album/13NqvU3DpeV1biX8vnFma8"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 218556,
-      "name": "Dancing With Tears In My Eyes",
-      "url": "https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci"
     },
     {
       "added_at": "2024-06-15 17:09:20",
@@ -1357,38 +1429,6 @@
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
-      "added_at": "2024-05-22 06:36:31",
-      "album": {
-        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 271969,
-      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Found You First",
-        "url": "https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 163014,
-      "name": "Found You First",
-      "url": "https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "How Sweet",
@@ -1421,54 +1461,6 @@
       "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "bad 4 u",
-        "url": "https://open.spotify.com/album/3tDTXI67RJXUKso222o3VN"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 146876,
-      "name": "bad 4 u",
-      "url": "https://open.spotify.com/track/2wYbz8CZCl2px8fruLPvqC"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "5AM (Expanded Edition)",
-        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
-    },
-    {
-      "added_at": "2024-05-15 14:55:57",
-      "album": {
-        "name": "Watermelon Sugar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 129656,
-      "name": "Watermelon Sugar - Spotify Singles",
-      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
-    },
-    {
       "added_at": "2024-05-07 01:08:27",
       "album": {
         "name": "Belong Together",
@@ -1483,38 +1475,6 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-05-21 20:25:46",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "age tape 14",
-        "url": "https://open.spotify.com/album/4GFAippfA1UcHW8uyDabWD"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "omg (guess I had it coming)",
-      "url": "https://open.spotify.com/track/1CmwcMdVNDaW2ebS2QCHPM"
     },
     {
       "added_at": "2024-05-07 01:08:27",
@@ -1547,22 +1507,6 @@
       "duration_ms": 168899,
       "name": "american jesus",
       "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx"
-      },
-      "artists": [
-        {
-          "name": "Jana Diab",
-          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
-        }
-      ],
-      "duration_ms": 139003,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
     },
     {
       "added_at": "2024-05-15 14:55:57",
@@ -1619,38 +1563,6 @@
     {
       "added_at": "2024-05-07 01:08:27",
       "album": {
-        "name": "Daya",
-        "url": "https://open.spotify.com/album/5dhk9EtHHquuzSXdxFBLcT"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 191368,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/61i3HxSlZI6EQnVdYeofyo"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Falling Faster",
-        "url": "https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih"
-      },
-      "artists": [
-        {
-          "name": "Dylan Espeseth",
-          "url": "https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0"
-        }
-      ],
-      "duration_ms": 92141,
-      "name": "Falling Faster",
-      "url": "https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
       },
@@ -1663,38 +1575,6 @@
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Older You Get",
-        "url": "https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 216611,
-      "name": "The Older You Get",
-      "url": "https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3"
     },
     {
       "added_at": "2024-05-07 01:08:27",

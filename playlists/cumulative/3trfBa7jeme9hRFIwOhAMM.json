@@ -3871,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Take Our Time",
+        "url": "https://open.spotify.com/album/7lS34XcMcp2J28zbubcqZU"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        },
+        {
+          "name": "Lefris",
+          "url": "https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Take Our Time",
+      "url": "https://open.spotify.com/track/5swvKzNqDwOnlF1CwQ6Vbq"
+    },
+    {
+      "album": {
         "name": "Te Recorde",
         "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
       },

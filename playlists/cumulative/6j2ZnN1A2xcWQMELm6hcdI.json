@@ -3879,6 +3879,24 @@
     },
     {
       "album": {
+        "name": "hyperbopper",
+        "url": "https://open.spotify.com/album/4ufWmSQzKZLs9pRMGjS1s4"
+      },
+      "artists": [
+        {
+          "name": "TOMGIRL504EVER",
+          "url": "https://open.spotify.com/artist/6X9QKhznQB6EYTlV325akc"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138801,
+      "name": "hyperbopper",
+      "url": "https://open.spotify.com/track/36dAsjrv8ExJFWigkASeD3"
+    },
+    {
+      "album": {
         "name": "H\u00eb\u0142l\u0153 K\u012ftt\u00ff",
         "url": "https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf"
       },

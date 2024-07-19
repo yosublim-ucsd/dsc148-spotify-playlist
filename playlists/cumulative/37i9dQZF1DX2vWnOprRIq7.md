@@ -4,7 +4,7 @@
 
 > El lado electrónico del indie latino, featuring Bob Crous & Andry Bett.
 
-257 songs - 15 hr 40 min
+258 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Hechizao \- Pyura Remix](https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Hechizao \(Pyura Remix\)](https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl) | 3:26 | 2024-04-19 |  |
 | [Hemofilia \- Remix](https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Ferla](https://open.spotify.com/artist/3mnC4xKYX84yK9yRGC6AZW) | [Hemofilia \(Remix\)](https://open.spotify.com/album/4FlmyozlciTYc9RURkfTIV) | 6:47 | 2024-03-08 |  |
 | [Hondo](https://open.spotify.com/track/0KeAMlYAbxfA1YL5HPZqkl) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:57 | 2023-03-17 | 2024-03-16 |
-| [Hoy me di cuenta](https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz) | 3:22 | 2023-08-18 |  |
+| [Hoy me di cuenta](https://open.spotify.com/track/2sfineBUQzNV5ocjBVv3Es) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/5kJLEhtHf7rL7Di1KGwYGz) | 3:22 | 2023-08-18 | 2024-07-19 |
 | [Hoy me di cuenta](https://open.spotify.com/track/4djtv8k6I0tZMNQewhvakT) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Affaire](https://open.spotify.com/album/43wkXdPtvXxK5q3Wsh4ljE) | 3:22 | 2023-09-22 | 2024-04-19 |
 | [HYPERREAL](https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:00 | 2023-03-17 | 2024-03-16 |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2023-03-17 | 2023-07-08 |
@@ -235,6 +235,7 @@
 | [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 | 2024-03-16 |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-05-26 | 2023-10-07 |
 | [Tan besh](https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Tan besh](https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34) | 2:51 | 2023-08-11 |  |
+| [Te quiero tanto](https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Te quiero tanto](https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7) | 3:33 | 2024-07-19 |  |
 | [Tiempo Sin Piel](https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Tiempo Sin Piel](https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz) | 4:08 | 2023-03-17 | 2024-02-13 |
 | [Tiene Sentido](https://open.spotify.com/track/0ByHt3Ov5pnJbPqeL6qp1X) | [Florencia Lira](https://open.spotify.com/artist/2hM4CiRoa5h6YTiUfbWTCo), [PORO](https://open.spotify.com/artist/4DqLqBHceXcFZVxFTF2cgS) | [Salto al Alba](https://open.spotify.com/album/0znSItsZWQGn9mQG73lFSr) | 4:07 | 2023-08-25 |  |
 | [Tienes una idea muy antigua del amor \(feat\. Julieta Venegas\)](https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El diablo en el cuerpo](https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif) | 4:26 | 2023-05-26 | 2023-10-07 |

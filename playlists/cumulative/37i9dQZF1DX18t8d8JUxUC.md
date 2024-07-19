@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Hermanos Gutiérrez
 
-150 songs - 8 hr 56 min
+151 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,9 +53,9 @@
 | [Entre Los Dos](https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Entre Los Dos](https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs) | 3:35 | 2023-02-24 |  |
 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 | 2024-03-29 |  |
 | [Estrellas En El Mar](https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Estrellas En El Mar](https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N) | 4:11 | 2023-07-28 |  |
-| [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 | 2023-11-17 | 2024-07-07 |
+| [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 | 2023-11-17 |  |
 | [Extraños](https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq) | [Ayzak Ewan](https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl) | [Extraños](https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn) | 3:51 | 2023-07-28 |  |
-| [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 | 2024-06-21 |  |
+| [Feliz contigo](https://open.spotify.com/track/5HhAiPpvK192VzV0c43z9i) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W), [Carolina Alabau](https://open.spotify.com/artist/2EP1w9tN8KUQNsCl8u8DFc) | [Feliz contigo](https://open.spotify.com/album/3sRPrPaHsGAiUOH0wynHQQ) | 3:17 | 2024-06-21 | 2024-07-19 |
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-04-11 |  |
 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 | 2023-02-24 |  |
 | [Found Love](https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z) | [Violet](https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G) | 3:16 | 2023-02-24 |  |
@@ -124,7 +124,7 @@
 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 | 2023-02-24 |  |
 | [Recuerdo](https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Uno De Nosotros](https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N) | 3:29 | 2023-07-28 |  |
 | [Remedios](https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Sustancia](https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw) | 4:55 | 2024-01-04 |  |
-| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2024-06-21 |  |
+| [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 | 2024-06-21 | 2024-07-19 |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2023-04-21 |  |
 | [Sagitario](https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Sagitario](https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E) | 3:21 | 2023-04-14 |  |
 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 | 2023-04-07 | 2024-04-19 |
@@ -156,6 +156,7 @@
 | [Volver a El Salvador](https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Volver a El Salvador](https://open.spotify.com/album/0pirRCr6J6pD8gBtLAESiu) | 3:20 | 2024-04-11 | 2024-04-27 |
 | [volverás??](https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [volverás??](https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg) | 3:14 | 2023-11-10 | 2024-01-27 |
 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 | 2023-07-28 |  |
+| [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 | 2024-07-19 |  |
 | [¿Qué Será De Mí?](https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:26 | 2023-11-03 |  |
 | [¿Y Si Te Invito?](https://open.spotify.com/track/0foW7sax16CI8UizVAek32) | [Axel Márquez](https://open.spotify.com/artist/0nY0rYPHRYTji024zspDCw) | [¿Y Si Te Invito?](https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR) | 3:06 | 2023-10-13 |  |
 

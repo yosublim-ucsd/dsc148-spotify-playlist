@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172061,
       "name": "24 7",
       "url": "https://open.spotify.com/track/42edNeWrOtXk4G63dSfw4E"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Bareto y Chanel",
+        "url": "https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp"
+      },
+      "artists": [
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "Bareto y Chanel",
+      "url": "https://open.spotify.com/track/002nPmx72z53AYh3ysujMM"
+    },
+    {
+      "album": {
         "name": "Barranquilla Bajo Cero",
         "url": "https://open.spotify.com/album/0TDGIoXeKDPhp1LpU4RMvf"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 223298,
       "name": "besos guardados",
       "url": "https://open.spotify.com/track/2E4L8ANqLb0t31soN5Q3Ha"
@@ -4305,6 +4323,28 @@
     },
     {
       "album": {
+        "name": "ESE VATO",
+        "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
+      },
+      "artists": [
+        {
+          "name": "DOMELIPA",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "ESE VATO",
+      "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
+    },
+    {
+      "album": {
         "name": "Eso Que Ten\u00e9s",
         "url": "https://open.spotify.com/album/1pxZEhOLNWgKYgCUUqOjSZ"
       },
@@ -4774,6 +4814,24 @@
       "duration_ms": 161333,
       "name": "Fondo de Pantalla",
       "url": "https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE"
+    },
+    {
+      "album": {
+        "name": "fotomat\u00f3n",
+        "url": "https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149658,
+      "name": "fotomat\u00f3n",
+      "url": "https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa"
     },
     {
       "album": {
@@ -6879,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "MALLORCA",
+        "url": "https://open.spotify.com/album/74j1MkRvPdxEhkp6L4cqpF"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "MALLORCA",
+      "url": "https://open.spotify.com/track/4WmmHZjvXV9H0kjKawXVum"
+    },
+    {
+      "album": {
         "name": "MALVAS",
         "url": "https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2"
       },
@@ -8915,6 +8991,24 @@
     },
     {
       "album": {
+        "name": "Ojal\u00e1 Te Vaya Mal",
+        "url": "https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Ojal\u00e1 Te Vaya Mal",
+      "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
+    },
+    {
+      "album": {
         "name": "ojitos",
         "url": "https://open.spotify.com/album/1rgmk3Mxs6nkZ7SFMrBPg3"
       },
@@ -9869,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "por la peque\u00f1a Venecia",
+      "url": "https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4"
+    },
+    {
+      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -10450,7 +10562,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164949,
       "name": "Reir pa no llorar",
       "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
@@ -11210,7 +11322,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146826,
       "name": "Sin Titulo",
       "url": "https://open.spotify.com/track/4AICm0it2cDxXSZAdCCBF2"
@@ -12012,7 +12124,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202105,
       "name": "Tengo Todo Contigo",
       "url": "https://open.spotify.com/track/5Kqs49o8gpjm08E3EAr6sD"
@@ -12374,7 +12486,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168120,
       "name": "Trago Al Pecho",
       "url": "https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw"
@@ -13520,6 +13632,24 @@
       "duration_ms": 181901,
       "name": "\u00bfC\u00d3MO TE LO EXPLICO?",
       "url": "https://open.spotify.com/track/67wSCJJ91eyI1aS4AjLYkW"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
     },
     {
       "album": {

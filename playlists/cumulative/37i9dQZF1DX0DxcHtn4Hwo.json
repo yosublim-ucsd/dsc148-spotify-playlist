@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "A Whole New World",
+        "url": "https://open.spotify.com/album/38KyweBKytncA0Ht8VHiTv"
+      },
+      "artists": [
+        {
+          "name": "The Cardboards",
+          "url": "https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142545,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/3uo60yCYpFb5Ydz5hlAiOp"
+    },
+    {
+      "album": {
         "name": "A-tisket, A-tasket",
         "url": "https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm"
       },
@@ -704,6 +722,24 @@
       "duration_ms": 158624,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/6rZghmzRtSrcnfoUsI3HYV"
+    },
+    {
+      "album": {
+        "name": "An Angel Appeared",
+        "url": "https://open.spotify.com/album/29DIbtkPEM94nLxdrSuHJC"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164512,
+      "name": "An Angel Appeared",
+      "url": "https://open.spotify.com/track/56YJ3uKq2hwJ0mOT9Rb2AJ"
     },
     {
       "album": {
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 143054,
       "name": "Bedtime",
       "url": "https://open.spotify.com/track/2pTOkVFHOtcXvN9qxV1Q2K"
@@ -2990,6 +3026,24 @@
       "duration_ms": 106000,
       "name": "Don't Wake the Baby",
       "url": "https://open.spotify.com/track/32ibtpTcLgQ40XUytiXkt0"
+    },
+    {
+      "album": {
+        "name": "Door-Peak Moodlight",
+        "url": "https://open.spotify.com/album/0sk5VPIbey7aXl7GlK8qKa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Leland",
+          "url": "https://open.spotify.com/artist/1ZcNkiNnCczkWXc5C6Ukxx"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130946,
+      "name": "Door-Peak Moodlight",
+      "url": "https://open.spotify.com/track/0hCGHQxMlw8qpGJoy4hnUg"
     },
     {
       "album": {
@@ -6050,7 +6104,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 100531,
       "name": "In Every Single Way",
       "url": "https://open.spotify.com/track/0sngOPuxK8Y39dKvJ8k6Ap"
@@ -6302,7 +6356,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 72606,
       "name": "Jacks Adventure",
       "url": "https://open.spotify.com/track/4bihDr47XVSRSK5sUPIMud"
@@ -7102,6 +7156,24 @@
     {
       "album": {
         "name": "Little Boo Peep",
+        "url": "https://open.spotify.com/album/2aaYT26JfMuRDQULQq8lts"
+      },
+      "artists": [
+        {
+          "name": "Lucy Meadow",
+          "url": "https://open.spotify.com/artist/4lgSGJyxvZWnpPUEbC6quz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Little Boo Peep",
+      "url": "https://open.spotify.com/track/5yhitC31vZSeGw9ColA6Kr"
+    },
+    {
+      "album": {
+        "name": "Little Boo Peep",
         "url": "https://open.spotify.com/album/2KvAduAYbLTMVS2Kt8KMgF"
       },
       "artists": [
@@ -7508,7 +7580,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 69000,
       "name": "Loved One",
       "url": "https://open.spotify.com/track/0EnI9poj4crDirbCX7BgFi"
@@ -9960,7 +10032,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 90142,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/1pzGYBHQi2CKbQCVk17AJx"
@@ -10068,7 +10140,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199969,
       "name": "Pumpkin Pie",
       "url": "https://open.spotify.com/track/7LWMmfNT45q9Y36HcFDgE0"
@@ -10176,7 +10248,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134125,
       "name": "Quiet Lullaby",
       "url": "https://open.spotify.com/track/5GgCotrtjYSJcD11zYGGMc"
@@ -10756,7 +10828,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 129565,
       "name": "Sharky's Toothbrush",
       "url": "https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD"
@@ -11224,7 +11296,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 111322,
       "name": "Sleeping Kittens",
       "url": "https://open.spotify.com/track/0vj5yQHpZZWsa8LqbRN5GX"
@@ -11242,7 +11314,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 118634,
       "name": "Sleepy Blue Eyes",
       "url": "https://open.spotify.com/track/7vGmELXSNDa6qxx4qUtmuv"
@@ -12077,6 +12149,24 @@
     },
     {
       "album": {
+        "name": "Stroll 'n' Roll",
+        "url": "https://open.spotify.com/album/6ptpCUIyiXwsBOP0mMnVDF"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117074,
+      "name": "Stroll 'n' Roll",
+      "url": "https://open.spotify.com/track/7EqXDeQw7FSSUId8UebI7c"
+    },
+    {
+      "album": {
         "name": "Summer's Delight",
         "url": "https://open.spotify.com/album/5IiDZ7s4yhvfdO2fczp5xM"
       },
@@ -12124,7 +12214,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 98000,
       "name": "Sunshine jewel",
       "url": "https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3"
@@ -14198,6 +14288,24 @@
       "duration_ms": 118927,
       "name": "Un \u00e9l\u00e9phant qui se balan\u00e7ait",
       "url": "https://open.spotify.com/track/2NAyTKbuoG7yuZIEAPWjyr"
+    },
+    {
+      "album": {
+        "name": "Uncle Simons\u00b4 Farm",
+        "url": "https://open.spotify.com/album/6MRfSh34gI2Rt4JK0gaWHK"
+      },
+      "artists": [
+        {
+          "name": "Elma Korn",
+          "url": "https://open.spotify.com/artist/1ibEA5Sl56QTy8j7Tssu9Q"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Uncle Simons\u00b4 Farm",
+      "url": "https://open.spotify.com/track/2787peY04QFgxwgQgfG9PI"
     },
     {
       "album": {

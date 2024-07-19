@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Ana Tijoux (En Vivo en NPR Tiny Desk)",
+        "url": "https://open.spotify.com/album/0Z2LIP15wpNu04owMtvB7F"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265750,
+      "name": "1977 - En Vivo en NPR Tiny Desk",
+      "url": "https://open.spotify.com/track/43MNu5m1YOwA0y0NRKaHw9"
+    },
+    {
+      "album": {
         "name": "1982 (Remix)",
         "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 353681,
       "name": "Abrazando La Quietud Del Alma",
       "url": "https://open.spotify.com/track/2MAH9NZHwYLom5ltz18mXu"
@@ -1945,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "And Waves of Dreams",
+        "url": "https://open.spotify.com/album/4MaeSCqaXnO0RR0r42YLXx"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "And Waves of Dreams",
+      "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
+    },
+    {
+      "album": {
         "name": "And You and I (Part I) [Promo Radio Edit]",
         "url": "https://open.spotify.com/album/0HqpMPIV74K9arhUnMuGX0"
       },
@@ -2346,6 +2382,24 @@
       "duration_ms": 265240,
       "name": "Are You Ever Coming Back? - 7\" Edit",
       "url": "https://open.spotify.com/track/5S98uEvaXaslDlvT8VtBXe"
+    },
+    {
+      "album": {
+        "name": "Are You Ready? (Live At Freeman Coliseum / 1999)",
+        "url": "https://open.spotify.com/album/3Y1pENaGTrivSdvRyPYgM2"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270265,
+      "name": "Are You Ready? - Live At Freeman Coliseum / 1999",
+      "url": "https://open.spotify.com/track/3dlpVhxDCQ2ksf5A3ZBbZk"
     },
     {
       "album": {
@@ -3497,6 +3551,36 @@
     },
     {
       "album": {
+        "name": "Black Mold",
+        "url": "https://open.spotify.com/album/1G06wIGTvexsq1xiXGdfnX"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Black Mold",
+      "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
+    },
+    {
+      "album": {
         "name": "BLACK MOONLIGHT",
         "url": "https://open.spotify.com/album/7LVCjmDfqcVAWg74kQ0Qwr"
       },
@@ -3548,6 +3632,28 @@
       "duration_ms": 240304,
       "name": "Black Star",
       "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+    },
+    {
+      "album": {
+        "name": "One Hand Clapping \u2013 The Backyard (One Hand Clapping Sessions)",
+        "url": "https://open.spotify.com/album/6YCmiTHYtzwNuW4DkgzcwI"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Blackbird - One Hand Clapping Sessions",
+      "url": "https://open.spotify.com/track/3qfMHMt2UzbyPkePNKIYDh"
     },
     {
       "album": {
@@ -4278,7 +4384,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 229266,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/4VryBfNbjZ1Wjx6WafYw2B"
@@ -5795,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "Country Roads, Take Me Home (2024 Mix)",
+        "url": "https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4"
+      },
+      "artists": [
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        },
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Country Roads, Take Me Home - 2024 Mix",
+      "url": "https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i"
+    },
+    {
+      "album": {
         "name": "The Morrison Project",
         "url": "https://open.spotify.com/album/0U6iRl0SzkXPiWn4ACfcmW"
       },
@@ -6090,6 +6218,40 @@
       "duration_ms": 326920,
       "name": "Cut from the Stars",
       "url": "https://open.spotify.com/track/3zqQQos627x2yRoTGKkLoI"
+    },
+    {
+      "album": {
+        "name": "Cypher G",
+        "url": "https://open.spotify.com/album/19xrX25PPln3Xf8o0ISutp"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+        },
+        {
+          "name": "kaos 08",
+          "url": "https://open.spotify.com/artist/7BbLIGTqWdM2aqlkbqo1AI"
+        },
+        {
+          "name": "Danny Brasco",
+          "url": "https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY"
+        },
+        {
+          "name": "Yaor",
+          "url": "https://open.spotify.com/artist/5IBuM3a770hWLPCKRT3ebz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Cypher G",
+      "url": "https://open.spotify.com/track/3PX5Ni0gE0HPg06xfaU5x0"
     },
     {
       "album": {
@@ -6876,7 +7038,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181860,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1"
@@ -7785,6 +7947,32 @@
     },
     {
       "album": {
+        "name": "Melod\u00edas De Aves Binaurales: Ecos De Meditaci\u00f3n - 92 96 Hz",
+        "url": "https://open.spotify.com/album/0DVS8shBwx7bW2wf63mZWe"
+      },
+      "artists": [
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Aves del bosque sueco",
+          "url": "https://open.spotify.com/artist/0pJtj1wKK9ZyWWyyJLNQxR"
+        },
+        {
+          "name": "Moldeadores binaurales",
+          "url": "https://open.spotify.com/artist/0bH1MlaTvVMYxOgvWQ8TEI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Eco Nocturno De P\u00e1jaros Binaurales",
+      "url": "https://open.spotify.com/track/1tHKZ1JVkZ5NawmPtHQejH"
+    },
+    {
+      "album": {
         "name": "Los Wachos",
         "url": "https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq"
       },
@@ -8628,6 +8816,24 @@
       "duration_ms": 380378,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/7x8Q5KxnStV41ygzCQ2qu0"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175463,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE"
     },
     {
       "album": {
@@ -10197,6 +10403,24 @@
     },
     {
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193979,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/1Jijb30txJ6YZNe5DTu3Lb"
+    },
+    {
+      "album": {
         "name": "Evil Eye / Get a Grip",
         "url": "https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF"
       },
@@ -11139,6 +11363,24 @@
     },
     {
       "album": {
+        "name": "Waitin' For A Sign (Live)",
+        "url": "https://open.spotify.com/album/3HIalClHJ08ptn4aHPH6Cr"
+      },
+      "artists": [
+        {
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197768,
+      "name": "Halah - Live",
+      "url": "https://open.spotify.com/track/11qijVy2Icc8eQ23Nfz56j"
+    },
+    {
+      "album": {
         "name": "UNDEROATH VOYEURIST | Digital Ghost",
         "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
       },
@@ -11749,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "Here I am",
+      "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
+    },
+    {
+      "album": {
         "name": "Fall In Line (Live)",
         "url": "https://open.spotify.com/album/3Z727Un55UoG0xsbBz9W2i"
       },
@@ -11918,7 +12178,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 364894,
       "name": "Higher - Live At Freeman Coliseum / 1999",
       "url": "https://open.spotify.com/track/0Ljlin6tvDj2aP6HaBQVNi"
@@ -12334,6 +12594,24 @@
       "duration_ms": 122711,
       "name": "Hopak",
       "url": "https://open.spotify.com/track/7t4bXpsDCAFMHZvkXCPM0K"
+    },
+    {
+      "album": {
+        "name": "Hot Rails To Hell (Live)",
+        "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300741,
+      "name": "Hot Rails To Hell - Live",
+      "url": "https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g"
     },
     {
       "album": {
@@ -13342,6 +13620,36 @@
       "duration_ms": 266677,
       "name": "I've got plans (involving you)",
       "url": "https://open.spotify.com/track/6W2XOPrs33XWgVwjmpIEpr"
+    },
+    {
+      "album": {
+        "name": "Take Me To Your Heart",
+        "url": "https://open.spotify.com/album/6grm28IpcT22Zqo3mSJ1oo"
+      },
+      "artists": [
+        {
+          "name": "Warren J. Scott",
+          "url": "https://open.spotify.com/artist/2MTbyBZhpJufAxViGfc4W8"
+        },
+        {
+          "name": "Robin Gibb",
+          "url": "https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV"
+        },
+        {
+          "name": "Maurice Gibb",
+          "url": "https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic"
+        },
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192209,
+      "name": "I've Gotta Get a Message to You",
+      "url": "https://open.spotify.com/track/3aQtgPbE1u2tLPZv0pwBbe"
     },
     {
       "album": {
@@ -15759,6 +16067,28 @@
     },
     {
       "album": {
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+    },
+    {
+      "album": {
         "name": "50 Melod\u00edas Ligeras Para Un Sue\u00f1o Profundo",
         "url": "https://open.spotify.com/album/0lrmEO4WWyrXT2nHnJqytm"
       },
@@ -15778,7 +16108,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159643,
       "name": "Lamento de la Sinfon\u00eda Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/00V77PXEGzYbCEEJqtsPq1"
@@ -15916,7 +16246,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220506,
       "name": "Lazy Sod",
       "url": "https://open.spotify.com/track/6hHEAgRuoIu879fOsczCwM"
@@ -16544,6 +16874,24 @@
       "duration_ms": 319962,
       "name": "Lights Out - Live In Vienna 1998",
       "url": "https://open.spotify.com/track/3olFCE0utXa0SwxakIFM85"
+    },
+    {
+      "album": {
+        "name": "Like A Stone (Reimagined)",
+        "url": "https://open.spotify.com/album/6xCsPSZ3THpZRrYPox5kK2"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287631,
+      "name": "Like A Stone - Reimagined",
+      "url": "https://open.spotify.com/track/2EHZpEtgE48ztROdwkPgfQ"
     },
     {
       "album": {
@@ -18280,7 +18628,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
@@ -18652,7 +19000,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 283480,
       "name": "Mr.Freeze",
       "url": "https://open.spotify.com/track/1A7iM5jn5m7bROmLS6rqZt"
@@ -19901,6 +20249,28 @@
     },
     {
       "album": {
+        "name": "Nothing Left",
+        "url": "https://open.spotify.com/album/2afCiPorAlMyUaX2LVSIGv"
+      },
+      "artists": [
+        {
+          "name": "Blutengel",
+          "url": "https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR"
+        },
+        {
+          "name": "Solar Fake",
+          "url": "https://open.spotify.com/artist/1ZJYzl0sevnazdNkEYsAOW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290368,
+      "name": "Nothing Left",
+      "url": "https://open.spotify.com/track/6LvSq1JBUI0ukokYcplW89"
+    },
+    {
+      "album": {
         "name": "Noviembre",
         "url": "https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN"
       },
@@ -19996,6 +20366,24 @@
       "duration_ms": 228253,
       "name": "Nuestro Infierno",
       "url": "https://open.spotify.com/track/6NYdSKNwP2IfU0HGSjexVB"
+    },
+    {
+      "album": {
+        "name": "Nueva Vida",
+        "url": "https://open.spotify.com/album/4Fzm2ZfYgttec2MQwFKJq3"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195002,
+      "name": "Nueva Vida",
+      "url": "https://open.spotify.com/track/1oJJLjnp8ileP4jdR7ZwQV"
     },
     {
       "album": {
@@ -20786,6 +21174,24 @@
       "duration_ms": 321800,
       "name": "Oral - Olof Dreijer Remix",
       "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
+    },
+    {
+      "album": {
+        "name": "Seven Deadly (Deluxe edition)",
+        "url": "https://open.spotify.com/album/2WLc0MRCukxdziKfL702tU"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232493,
+      "name": "Other Men's Wives (bonus track)",
+      "url": "https://open.spotify.com/track/0KMJ9zFaGzt61Kc7oYNZDl"
     },
     {
       "album": {
@@ -22116,6 +22522,28 @@
       "duration_ms": 260413,
       "name": "Promised You A Miracle - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
+    },
+    {
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/5zVhUz76UL3A1VXftq6g76"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210174,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
     },
     {
       "album": {
@@ -24661,6 +25089,32 @@
     },
     {
       "album": {
+        "name": "Serenatas Relajantes: M\u00fasica Para Momentos De Tranquilidad",
+        "url": "https://open.spotify.com/album/2sTnUyn1H8fQ8NthZwDV2H"
+      },
+      "artists": [
+        {
+          "name": "Relajante Musica",
+          "url": "https://open.spotify.com/artist/4HaroQ0M1auEX9NWPq2Dka"
+        },
+        {
+          "name": "Sonidos Relajantes de la Naturaleza",
+          "url": "https://open.spotify.com/artist/0nBAPQ4R6gWk2Xbasa4IJO"
+        },
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148832,
+      "name": "Serenidad En El Sonido",
+      "url": "https://open.spotify.com/track/0uPALqdEpx6No6gQLXClg8"
+    },
+    {
+      "album": {
         "name": "Begin The Dance (Live 1988)",
         "url": "https://open.spotify.com/album/6HG3ZH0opwhCZcby8Y2o8v"
       },
@@ -24941,6 +25395,24 @@
     },
     {
       "album": {
+        "name": "= 1",
+        "url": "https://open.spotify.com/album/4nZFejdpJI4dqllNHlAjXE"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/0mpu7EUvtfjSvLPZuwc2u7"
+    },
+    {
+      "album": {
         "name": "She is a Fire",
         "url": "https://open.spotify.com/album/03xxDa7rJRB4fl7ZB2B5qg"
       },
@@ -24956,6 +25428,24 @@
       "duration_ms": 322720,
       "name": "She is a Fire",
       "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
+    },
+    {
+      "album": {
+        "name": "Standing By The Light (Live New York '78)",
+        "url": "https://open.spotify.com/album/0V2O3buHgj8GeXOkY521H3"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214191,
+      "name": "She Makes Me (Feel Alright) - Live",
+      "url": "https://open.spotify.com/track/0jQGiTIMPDpYnOsomWyrd8"
     },
     {
       "album": {
@@ -24992,6 +25482,24 @@
       "duration_ms": 294693,
       "name": "Sherry Darling - Live at Wembley Arena, London, UK - June 5, 1981",
       "url": "https://open.spotify.com/track/4wkA7TQn8AtguuDgowgn18"
+    },
+    {
+      "album": {
+        "name": "Shikanoko Nokonoko Koshitantan Meme",
+        "url": "https://open.spotify.com/album/25xw8BXlctmH3CxyTwJTBV"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326393,
+      "name": "Shikanoko Nokonoko Koshitantan Meme",
+      "url": "https://open.spotify.com/track/7pmP9JHlkAwa2UUN1mv49U"
     },
     {
       "album": {
@@ -25470,6 +25978,28 @@
       "duration_ms": 195836,
       "name": "Sleepers - Live",
       "url": "https://open.spotify.com/track/3qX7X05cW0SUaFGQ3842Lp"
+    },
+    {
+      "album": {
+        "name": "Smile (feat. Carolina Liar)",
+        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Smile (feat. Carolina Liar)",
+      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
     },
     {
       "album": {
@@ -31259,6 +31789,24 @@
     },
     {
       "album": {
+        "name": "Up In The Sky (Monnow Valley Version)",
+        "url": "https://open.spotify.com/album/2wJyPwZTIlZ4Xeespb06IV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297972,
+      "name": "Up In The Sky - Monnow Valley Version",
+      "url": "https://open.spotify.com/track/7mjNRaaJ9UoBabebO00JNL"
+    },
+    {
+      "album": {
         "name": "Up On The Cross",
         "url": "https://open.spotify.com/album/0lX6S7eUjqdy9QpE0X8mSn"
       },
@@ -31274,7 +31822,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 272955,
       "name": "Up On The Cross",
       "url": "https://open.spotify.com/track/3UUR6DaW68sxZ5aUaCoY9Z"
@@ -33659,6 +34207,24 @@
     },
     {
       "album": {
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285056,
+      "name": "You're Not Alone - Live",
+      "url": "https://open.spotify.com/track/4r7F2pBLRLV8qdx12kE11J"
+    },
+    {
+      "album": {
         "name": "Yessingles",
         "url": "https://open.spotify.com/album/7BCKqUPSw6Y3Ih5Pk7otGY"
       },
@@ -33844,6 +34410,24 @@
       "duration_ms": 185000,
       "name": "\u0421\u043e\u043d / Son - Radio Edit",
       "url": "https://open.spotify.com/track/6bn5OFUhl8lm4VzKEPSzEz"
+    },
+    {
+      "album": {
+        "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya",
+        "url": "https://open.spotify.com/album/4vR2PxqfpCpRvMRUXvoAGR"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u0422\u044b \u0416\u0435 \u041d\u0435 \u0417\u043d\u0430\u0435\u0448\u044c \u041a\u0442\u043e \u042f / Ty Zhe Ne Znaesh Kto Ya - Radio Edit",
+      "url": "https://open.spotify.com/track/28NMmYBDD4CF8PUpbS2wgq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Maya Hawke",
-  "num_followers": 1395593,
+  "num_followers": 1395598,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Seven Swans (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "I Went Dancing With My Sister - Bonus Track",
-      "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Seven Swans (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "I Went Dancing With My Sister - Bonus Track",
+      "url": "https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Feel (with Kyson)",
         "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 240000,
       "name": "Feel - with Kyson",
       "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 214598,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
       },
@@ -1847,26 +1863,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        },
-        {
-          "name": "Gregory Uhlmann",
-          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
-        }
-      ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -1879,22 +1875,6 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "When I Was Younger",
-        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
-      },
-      "artists": [
-        {
-          "name": "Bonny Light Horseman",
-          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "When I Was Younger",
-      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1915,34 +1895,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Big Picture",
-        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+        "name": "When I Was Younger",
+        "url": "https://open.spotify.com/album/03QaM9aGaUe4aMrI8gGICH"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
         }
       ],
-      "duration_ms": 165133,
-      "name": "Pick",
-      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 214598,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
+      "duration_ms": 197416,
+      "name": "When I Was Younger",
+      "url": "https://open.spotify.com/track/26nb8UvZLmzQgwCOXBGTtf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1963,6 +1927,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Big Picture",
+        "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Pick",
+      "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1979,18 +1959,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        },
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
         }
       ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2011,6 +1995,22 @@
       "duration_ms": 217570,
       "name": "I Imagine You Are Happy",
       "url": "https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Head of Roses",
-        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
-      },
-      "artists": [
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Awake for the Sunrise",
-      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Distant Axis",
         "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Head of Roses",
+        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Awake for the Sunrise",
+      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Dawn Sounds",
         "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
       },
@@ -2311,18 +2295,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Time of the Foxgloves",
-        "url": "https://open.spotify.com/album/0YKXY8IMJv2czFmhxKIiEy"
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
       },
       "artists": [
         {
-          "name": "Michael Hurley",
-          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Are You Here For The Festival",
-      "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2339,6 +2323,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Time of the Foxgloves",
+        "url": "https://open.spotify.com/album/0YKXY8IMJv2czFmhxKIiEy"
+      },
+      "artists": [
+        {
+          "name": "Michael Hurley",
+          "url": "https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Are You Here For The Festival",
+      "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2383,26 +2383,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6Sv9Zb6DjvYArLOAAb40aS"
-      },
-      "artists": [
-        {
-          "name": "Amelia Meath",
-          "url": "https://open.spotify.com/artist/4SJK5TEZ2G0OOIJeMSSdRb"
-        },
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 179554,
-      "name": "Neon Blue",
-      "url": "https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -2423,8 +2403,28 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "If It's Time",
-        "url": "https://open.spotify.com/album/0IOPxMOglDEaAhaLghdvIV"
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6Sv9Zb6DjvYArLOAAb40aS"
+      },
+      "artists": [
+        {
+          "name": "Amelia Meath",
+          "url": "https://open.spotify.com/artist/4SJK5TEZ2G0OOIJeMSSdRb"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 179554,
+      "name": "Neon Blue",
+      "url": "https://open.spotify.com/track/3C5IAL2ayPXvM1PVEdwUra"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "A Turning of the Tide: Side A",
+        "url": "https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe"
       },
       "artists": [
         {
@@ -2432,25 +2432,9 @@
           "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 257417,
-      "name": "If It's Time",
-      "url": "https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Yellow Mile",
-        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "The Yellow Mile",
-      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
+      "duration_ms": 340760,
+      "name": "When the Storm Sets In",
+      "url": "https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2467,6 +2451,22 @@
       "duration_ms": 225626,
       "name": "Turnham Green",
       "url": "https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Yellow Mile",
+        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2519,8 +2519,8 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "A Turning of the Tide: Side A",
-        "url": "https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe"
+        "name": "If It's Time",
+        "url": "https://open.spotify.com/album/0IOPxMOglDEaAhaLghdvIV"
       },
       "artists": [
         {
@@ -2528,25 +2528,9 @@
           "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
         }
       ],
-      "duration_ms": 340760,
-      "name": "When the Storm Sets In",
-      "url": "https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/0KeSSBwhamL1NVvp8uLMjk"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
+      "duration_ms": 257417,
+      "name": "If It's Time",
+      "url": "https://open.spotify.com/track/0heiWLMaIUmgWkbY41eBI3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2563,6 +2547,22 @@
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/0KeSSBwhamL1NVvp8uLMjk"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 225354,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This Is Katy Perry. Todas as faixas essenciais numa \u00fanica playlist.",
+  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
   "name": "This Is Katy Perry",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215672,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 30232,
       "name": "Firework",
       "url": "https://open.spotify.com/track/2G6yyJJ1zElkVeGKSoRx8K"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203362,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/665T5MrQUl7sSwivPm7pEW"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 220360,
       "name": "Hot N Cold - Rock Version",
       "url": "https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 292706,
       "name": "If We Ever Meet Again (Featuring Katy Perry)",
       "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 181604,
       "name": "Smile - Joel Corry Remix",
       "url": "https://open.spotify.com/track/4HpgUlwIh3JbSW4r8C2SmP"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 228878,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"

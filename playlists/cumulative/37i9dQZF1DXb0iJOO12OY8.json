@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\ud83e\udd72\ud83e\udd4a",
+  "description": "\ud83d\ude35\u200d\ud83d\udcab",
   "name": "ung, dum & lovende",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4"
@@ -448,6 +448,32 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "In The Night (feat. Jorja Smith & Amaarae)",
+        "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
     },
     {
       "album": {
@@ -770,7 +796,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 189954,
       "name": "Supposed To Be",
       "url": "https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL"
@@ -1046,6 +1072,24 @@
       "duration_ms": 158511,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+    },
+    {
+      "album": {
+        "name": "Where Are You Tonight?",
+        "url": "https://open.spotify.com/album/5b06H5SDEaHsmOmKByPgv9"
+      },
+      "artists": [
+        {
+          "name": "Cupid Girl",
+          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243585,
+      "name": "Where Are You Tonight?",
+      "url": "https://open.spotify.com/track/4GvuKq0Qe0sTcNI0u09IFJ"
     },
     {
       "album": {

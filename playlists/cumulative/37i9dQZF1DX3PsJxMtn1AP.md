@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-352 songs - 22 hr 25 min
+353 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 | 2024-01-11 | 2024-03-12 |
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-17 |  |
 | [Step By Step](https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:10 | 2023-04-11 | 2023-06-21 |
-| [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-30 |  |
+| [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-30 | 2024-07-19 |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2023-08-24 | 2023-09-25 |
 | [STORY OF BLOOD](https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 7:31 | 2023-01-20 | 2023-04-01 |
 | [Strong Emotions](https://open.spotify.com/track/5vESv7xXAIhEL9UA1N6uav) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Strong Emotions](https://open.spotify.com/album/4VuK9WBr3m6VgYorAK69iE) | 3:47 | 2023-03-16 | 2023-04-09 |
@@ -303,6 +303,7 @@
 | [Takahashi Timing](https://open.spotify.com/track/07Waqz8Zkad6oM7dL4MNce) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Mount Matsu](https://open.spotify.com/album/4pGx4kwa3nb51qACYJJkgB) | 5:24 | 2024-01-23 |  |
 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 | 2024-04-01 | 2024-05-04 |
 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 | 2024-02-02 |  |
+| [Taste The Air](https://open.spotify.com/track/5Oz8EVkTWIMHxpPIPsnHki) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:29 | 2024-07-18 |  |
 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 | 2024-07-01 |  |
 | [Telescope](https://open.spotify.com/track/23OSfYuny7LLnWHtWVV3bs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:46 | 2024-07-05 |  |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-25 | 2024-02-03 |

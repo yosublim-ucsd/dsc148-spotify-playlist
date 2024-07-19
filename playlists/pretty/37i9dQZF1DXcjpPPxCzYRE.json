@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 403883,
+  "num_followers": 403923,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
         "name": "Endlings",
         "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 177854,
       "name": "Renegades - Acoustic Version",
       "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
-      },
-      "artists": [
-        {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
-        }
-      ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "Un grand amour",
-        "url": "https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Un grand amour",
-      "url": "https://open.spotify.com/track/3MRCa3omM28c427BVtS99V"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "You Lucky One",
-        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+        "name": "Un grand amour",
+        "url": "https://open.spotify.com/album/09NQXulJ9PCYbloKVgVb34"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 294851,
-      "name": "You Lucky One",
-      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
+      "duration_ms": 177786,
+      "name": "Un grand amour",
+      "url": "https://open.spotify.com/track/3MRCa3omM28c427BVtS99V"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1243,6 +1227,22 @@
       "duration_ms": 176654,
       "name": "Ressaca a sa platja",
       "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "You Lucky One",
+        "url": "https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 294851,
+      "name": "You Lucky One",
+      "url": "https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "I don\u2019t care about the rain",
-        "url": "https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "I don\u2019t care about the rain",
-      "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "Donde El Verano Seas T\u00fa",
         "url": "https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 154624,
       "name": "Donde El Verano Seas T\u00fa",
       "url": "https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "I don\u2019t care about the rain",
+        "url": "https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "I don\u2019t care about the rain",
+      "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
     },
     {
       "added_at": "2024-07-12 12:40:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-12 12:40:14",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2024-07-12 12:40:14",
-      "album": {
         "name": "_BCN626",
         "url": "https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 184746,
       "name": "_El Infinito",
       "url": "https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB"
+    },
+    {
+      "added_at": "2024-07-12 12:40:14",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2024-07-12 12:40:14",

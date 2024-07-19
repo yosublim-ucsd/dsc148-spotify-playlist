@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-457 songs - 1 day 2 hr 31 min
+458 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Ella](https://open.spotify.com/track/6K6zBaUTbDyLSAVhGSDEl3) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/3Ks48SHWdrZ8wx8ddHetd6) | 3:42 | 2023-04-25 | 2023-10-07 |
 | [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 | 2024-03-11 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-04-26 |
-| [Even If It’s Lonely](https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Even If It’s Lonely](https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3) | 4:05 | 2024-04-11 |  |
+| [Even If It’s Lonely](https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Even If It’s Lonely](https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3) | 4:05 | 2024-04-11 | 2024-07-19 |
 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 | 2023-02-23 |  |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2023-02-23 |  |
 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 | 2024-03-21 | 2024-04-19 |
@@ -399,6 +399,7 @@
 | [The Wait Is Over!](https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa) | [Matthew Crosby](https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r) | [The Wait Is Over!](https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY) | 3:55 | 2023-04-25 |  |
 | [Theatre of Life](https://open.spotify.com/track/0TELVigVXQUi3BvEMUSA4v) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Iolanda Boban](https://open.spotify.com/artist/6Cij3Lukc7JSSOoQWe6Da4) | [Theatre of Life](https://open.spotify.com/album/34R9rtDKVV76KGIqoOYLTV) | 2:58 | 2023-05-18 | 2024-03-20 |
 | [These Tears](https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [These Tears](https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO) | 2:49 | 2024-03-19 |  |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-07-18 |  |
 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 3:15 | 2024-03-21 | 2024-04-10 |
 | [This Is For The Ones](https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [This Is For The Ones](https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg) | 3:17 | 2023-05-01 |  |
 | [This Is What It Feels Like \- John Ewbank Classical Remix](https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Ewbank](https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Armada Acoustic 2017](https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr) | 3:12 | 2023-02-23 |  |

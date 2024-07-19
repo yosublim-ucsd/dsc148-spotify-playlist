@@ -6536,7 +6536,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161142,
       "name": "IFIW (I Feel It When)",
       "url": "https://open.spotify.com/track/1iwfa8eZrNSuJRgdIoliT9"
@@ -12122,6 +12122,24 @@
       "duration_ms": 159965,
       "name": "Speakers",
       "url": "https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ"
+    },
+    {
+      "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159213,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/1yMkrQypE7sGZrd2ZlSmRA"
     },
     {
       "album": {

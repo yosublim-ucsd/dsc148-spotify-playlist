@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 117618,
+  "num_followers": 117689,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Side Bitch",
-      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 246360,
       "name": "Original",
       "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Side Bitch",
+      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1023,18 +1023,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Before Famous",
-        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
+        "name": "Me Llamas",
+        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
         }
       ],
-      "duration_ms": 221252,
-      "name": "Antes de Morirme",
-      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
+      "duration_ms": 327999,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Before Famous",
+        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 221252,
+      "name": "Antes de Morirme",
+      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Subimos de Rango",
         "url": "https://open.spotify.com/album/778jBq4jMs5U6f7vNVl626"
       },
@@ -1111,38 +1143,6 @@
       "duration_ms": 266091,
       "name": "Subimos de Rango",
       "url": "https://open.spotify.com/track/4yZI69ElgxddAUGNJjzc0j"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Me Llamas",
-        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 327999,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
     },
     {
       "added_at": "2023-05-25 17:50:01",

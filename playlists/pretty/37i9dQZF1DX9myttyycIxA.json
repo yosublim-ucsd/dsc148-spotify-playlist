@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Armlock",
-  "num_followers": 296338,
+  "num_followers": 296359,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAD6I2xfVQ9i3bGk5kqVkBpO",
+  "snapshot_id": "ZpnkwAAAAACcPfj5pVghf+dkRaDZz447",
   "tracks": [
     {
       "added_at": "2024-07-12 04:00:00",
@@ -25,6 +25,70 @@
       "url": "https://open.spotify.com/track/3jWb0jEGG4OGlIM5EHoqjc"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Today's Iconoclast",
+        "url": "https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "Today\u2019s Iconoclast",
+      "url": "https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "TV Car Chase",
+        "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 284848,
+      "name": "TV Car Chase",
+      "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv"
+      },
+      "artists": [
+        {
+          "name": "dog eyes",
+          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Backyard Lover",
+        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 328348,
+      "name": "Backyard Lover",
+      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Sick Sweet",
@@ -39,6 +103,106 @@
       "duration_ms": 196440,
       "name": "Sick Sweet",
       "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Burn It Out",
+        "url": "https://open.spotify.com/album/0OSCJqShymwLfVMi5168m8"
+      },
+      "artists": [
+        {
+          "name": "Sean Henry",
+          "url": "https://open.spotify.com/artist/4Co3T6j4MDgFmGv2kHUVNk"
+        },
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Burn It Out",
+      "url": "https://open.spotify.com/track/05mZml20CLpCAnmv4A8TtY"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Aching Taste of Blue",
+        "url": "https://open.spotify.com/album/4cs5brT0235DXHymwVj5xO"
+      },
+      "artists": [
+        {
+          "name": "clay pigeon",
+          "url": "https://open.spotify.com/artist/7BHNqeFLFZUbD5VS0VtoyL"
+        }
+      ],
+      "duration_ms": 207204,
+      "name": "Feel Okay",
+      "url": "https://open.spotify.com/track/7FQrN7KVgfqCXc6RjW3WB1"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 127185,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "don't want u to die",
+        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+      },
+      "artists": [
+        {
+          "name": "Thala",
+          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "don't want u to die",
+      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "words fell out",
+        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+      },
+      "artists": [
+        {
+          "name": "Goat Girl",
+          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "words fell out",
+      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/0zxeEqtj2lRBCIo82Ner6q"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/0u0E9hMPj5BVf33BEN4HjR"
     },
     {
       "added_at": "2024-07-08 16:53:01",
@@ -65,6 +229,22 @@
       "url": "https://open.spotify.com/track/6PSAt4wBVluHaXy4KVwCq4"
     },
     {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "The Good Ship Lifestyle",
@@ -79,22 +259,6 @@
       "duration_ms": 246026,
       "name": "The Good Ship Lifestyle",
       "url": "https://open.spotify.com/track/5QaqxJwyibItiNL2d1iKd3"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Backyard Lover",
-        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 328348,
-      "name": "Backyard Lover",
-      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -129,20 +293,20 @@
       "url": "https://open.spotify.com/track/37pAUJak4foKdSH28OMKTq"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "don't want u to die",
-        "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
       },
       "artists": [
         {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
         }
       ],
-      "duration_ms": 188306,
-      "name": "don't want u to die",
-      "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -161,36 +325,20 @@
       "url": "https://open.spotify.com/track/1E8qpjOGRufOeZqJGSAKMQ"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "words fell out",
-        "url": "https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7"
+        "name": "Honeycrash",
+        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
       },
       "artists": [
         {
-          "name": "Goat Girl",
-          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 181480,
-      "name": "words fell out",
-      "url": "https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Cockpit",
-        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cockpit",
-      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+      "duration_ms": 188979,
+      "name": "Honeycrash",
+      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -223,6 +371,22 @@
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Streetwise",
+        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -273,52 +437,20 @@
       "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Streetwise",
-        "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
       },
       "artists": [
         {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
         }
       ],
-      "duration_ms": 163720,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Perfect Hand",
-        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 248535,
-      "name": "Perfect Hand",
-      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Honeycrash",
-        "url": "https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 188979,
-      "name": "Honeycrash",
-      "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -607,22 +739,6 @@
       "duration_ms": 297470,
       "name": "A/B",
       "url": "https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Dirty Girls",
-        "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Dirty Girls",
-      "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1217,22 +1333,6 @@
       "url": "https://open.spotify.com/track/74o4kHeG83ZduHZ0jlrqT4"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
-      },
-      "artists": [
-        {
-          "name": "Idaho",
-          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
-        }
-      ],
-      "duration_ms": 190731,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "How does it end?",
@@ -1383,22 +1483,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/4J6mL4NwZAu14IeJjiRG2E"
-      },
-      "artists": [
-        {
-          "name": "Cece Coakley",
-          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
-        }
-      ],
-      "duration_ms": 253061,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0rDhtLSvHyMZaAQp1uJ9KN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Keeper of the Shepherd",
         "url": "https://open.spotify.com/album/24oy0YkUTo0OmEw40ACdCR"
       },
@@ -1411,38 +1495,6 @@
       "duration_ms": 386040,
       "name": "Keeper of the Shepherd",
       "url": "https://open.spotify.com/track/4gFoC9Ox16YHhxH7Q40RWU"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "The Dreamer",
-        "url": "https://open.spotify.com/album/5lM9BqcCzlnF3Y3cMuMfVL"
-      },
-      "artists": [
-        {
-          "name": "A Country Western",
-          "url": "https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M"
-        }
-      ],
-      "duration_ms": 190828,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/0g5g3JDKEDYFBc8KW1mswH"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Mon Argent",
-        "url": "https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 217402,
-      "name": "Mon Argent",
-      "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1479,22 +1531,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Late",
-        "url": "https://open.spotify.com/album/6dJSqvOrm05gaHlLNFNWeY"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 237677,
-      "name": "Late",
-      "url": "https://open.spotify.com/track/3oOLmRfPj0hBbCG6rQn0ok"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Always Something",
         "url": "https://open.spotify.com/album/0pMwpKB8BTFmLJHVW6M94J"
       },
@@ -1507,22 +1543,6 @@
       "duration_ms": 210947,
       "name": "Always Something",
       "url": "https://open.spotify.com/track/1bxIDIIuSxGo4AsM4XmFGs"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1587,22 +1607,6 @@
       "duration_ms": 199133,
       "name": "Obsessive Thoughts",
       "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "CD Wallet",
-        "url": "https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr"
-      },
-      "artists": [
-        {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "CD Wallet",
-      "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
     },
     {
       "added_at": "2024-03-01 05:00:00",

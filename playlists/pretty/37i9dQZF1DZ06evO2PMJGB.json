@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 240046,
+  "num_followers": 240303,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAAMRC2dcKfcuegGW80MR+NJ",
+  "snapshot_id": "ZpcJgAAAAACxbd2JHFndjWIaAUYZWbpV",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
     },
     {
       "added_at": null,
@@ -415,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flores Pa Ti",
         "url": "https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F"
       },
@@ -439,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 167122,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -475,6 +479,26 @@
       "duration_ms": 204090,
       "name": "B\u00eabada Favorita",
       "url": "https://open.spotify.com/track/2Kuf7IkhGSFLHVRNojyxV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 167122,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
     },
     {
       "added_at": null,
@@ -771,26 +795,6 @@
       "duration_ms": 128067,
       "name": "Garupa",
       "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "VIP *-*",
-      "url": "https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

@@ -1301,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
@@ -2804,7 +2826,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195970,
       "name": "Welenga",
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"

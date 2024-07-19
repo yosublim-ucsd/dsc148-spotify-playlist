@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "Colossal",
+        "url": "https://open.spotify.com/album/3anbwyAI9TgmLyFTBjPTiY"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240495,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc"
+    },
+    {
+      "album": {
         "name": "Born Digital",
         "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
       },
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 215082,
       "name": "Don't Wake Up",
       "url": "https://open.spotify.com/track/3bryZnVV2tqOjAeDkHXkrw"
@@ -7820,7 +7842,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 244687,
       "name": "Remember the Music",
       "url": "https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U"
@@ -10864,6 +10886,28 @@
       "duration_ms": 226666,
       "name": "VENTURE X",
       "url": "https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234448,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
     },
     {
       "album": {

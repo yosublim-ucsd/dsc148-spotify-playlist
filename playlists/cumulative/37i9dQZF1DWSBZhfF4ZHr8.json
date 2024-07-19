@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Pierre Garnier",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Elo\u00efz",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164154,
       "name": "Derniers humains",
       "url": "https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170400,
       "name": "D\u00e9lit de m\u00e9lancolie",
       "url": "https://open.spotify.com/track/4x4wAE7wdLBoZVdws13kZ2"
@@ -342,6 +342,24 @@
       "duration_ms": 163711,
       "name": "Fille du Sud (Lambada)",
       "url": "https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc"
+    },
+    {
+      "album": {
+        "name": "HIT PARADE",
+        "url": "https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS"
+      },
+      "artists": [
+        {
+          "name": "Trois Vagues",
+          "url": "https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168150,
+      "name": "HIT PARADE",
+      "url": "https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix"
     },
     {
       "album": {
@@ -663,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Mon coeur s'emballe",
+        "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
+      },
+      "artists": [
+        {
+          "name": "SARA'H",
+          "url": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186868,
+      "name": "Mon coeur s'emballe",
+      "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
+    },
+    {
+      "album": {
         "name": "Normal (Version Lino)",
         "url": "https://open.spotify.com/album/23h206XG2Hm9E24wOdNOn5"
       },
@@ -830,6 +866,24 @@
       "duration_ms": 179732,
       "name": "Que tu restes",
       "url": "https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136185,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a"
     },
     {
       "album": {
@@ -1010,7 +1064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"

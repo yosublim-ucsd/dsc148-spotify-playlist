@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 50842,
+  "num_followers": 50871,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Bombshell",
-      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Why Should The Fire Die?",
         "url": "https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 113506,
       "name": "First And Last Waltz",
       "url": "https://open.spotify.com/track/0jA97ZNgPqfcg9QesgEzXC"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4NikL2T7EDGcB6FyTFQ7rn"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Bombshell",
+      "url": "https://open.spotify.com/track/4736Ye0FpYYSTbOfBTOAWL"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -711,38 +711,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+      },
+      "artists": [
+        {
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1015,22 +1035,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -1043,6 +1047,22 @@
       "duration_ms": 213400,
       "name": "Icebound",
       "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1063,42 +1083,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Leave Some Things Behind",
-        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 121133,
-      "name": "Mountains Quake",
-      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
-      },
-      "artists": [
-        {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -1111,22 +1095,6 @@
       "duration_ms": 392200,
       "name": "We Hide And Seek",
       "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Viridian",
-        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
-      },
-      "artists": [
-        {
-          "name": "The Greencards",
-          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "Su Prabhat",
-      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1163,18 +1131,18 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+        "name": "Leave Some Things Behind",
+        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+      "duration_ms": 121133,
+      "name": "Mountains Quake",
+      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1211,6 +1179,22 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
+        "name": "Viridian",
+        "url": "https://open.spotify.com/album/4qLx6Y6blODXRNMFyuRHN2"
+      },
+      "artists": [
+        {
+          "name": "The Greencards",
+          "url": "https://open.spotify.com/artist/5aC3wjbpR5fL6qBGlM2u7S"
+        }
+      ],
+      "duration_ms": 126093,
+      "name": "Su Prabhat",
+      "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
         "name": "Telluride Sessions",
         "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 305160,
       "name": "Blue Men Of The Sahara",
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Instrumentals, Vol. 1",
-        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
-      },
-      "artists": [
-        {
-          "name": "Jacob Jolliff",
-          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Waitin' on Gravey",
-      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Instrumentals, Vol. 1",
+        "url": "https://open.spotify.com/album/1ZaUvK2r4GqFCet5mF8JAl"
+      },
+      "artists": [
+        {
+          "name": "Jacob Jolliff",
+          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Waitin' on Gravey",
+      "url": "https://open.spotify.com/track/71vPc3R0Eb2NU0McqkfP33"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Now They Are Four",
         "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "My Place in the Sun",
         "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
       },
@@ -1755,6 +1739,26 @@
       "duration_ms": 226306,
       "name": "Whiskerhead Goes to Leningrad",
       "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Whiskey in the Jar",
+        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+      },
+      "artists": [
+        {
+          "name": "Josep Traver",
+          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
+        },
+        {
+          "name": "Tom Corbett",
+          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1803,38 +1807,18 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Whiskey in the Jar",
-        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
       "artists": [
         {
-          "name": "Josep Traver",
-          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
-        },
-        {
-          "name": "Tom Corbett",
-          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 135453,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Mags' 21st",
-        "url": "https://open.spotify.com/album/6BSXFnVzzxQY6WSApZPLpP"
-      },
-      "artists": [
-        {
-          "name": "Corner House",
-          "url": "https://open.spotify.com/artist/3yZ8XLroYVSjMsmJEHstte"
-        }
-      ],
-      "duration_ms": 234847,
-      "name": "Mags' 21st",
-      "url": "https://open.spotify.com/track/7gMhJ4Fpo1trxaMYxSglq0"
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
+        "name": "Mags' 21st",
+        "url": "https://open.spotify.com/album/6BSXFnVzzxQY6WSApZPLpP"
+      },
+      "artists": [
+        {
+          "name": "Corner House",
+          "url": "https://open.spotify.com/artist/3yZ8XLroYVSjMsmJEHstte"
+        }
+      ],
+      "duration_ms": 234847,
+      "name": "Mags' 21st",
+      "url": "https://open.spotify.com/track/7gMhJ4Fpo1trxaMYxSglq0"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
         "name": "The Bluegrass Fiddle Album",
         "url": "https://open.spotify.com/album/3HRLaBku4dzOpXcGIBkYZQ"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 203906,
       "name": "Hamilton Special",
       "url": "https://open.spotify.com/track/5jM4lC2HkkhwT9euOCnUfW"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Team Hoover",
+        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 341546,
+      "name": "Team Hoover",
+      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -1903,22 +1919,6 @@
       "duration_ms": 240693,
       "name": "Huequito",
       "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Team Hoover",
-        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Team Hoover",
-      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
+        "name": "Portraits in Fiddles",
+        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "duration_ms": 318200,
+      "name": "Waiting on Vassar",
+      "url": "https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
         "name": "Cup & Porch",
         "url": "https://open.spotify.com/album/789jVdxAQoRSbUG29YCr2A"
       },
@@ -2063,22 +2083,18 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Portraits in Fiddles",
-        "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Mike Barnett",
-          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
-        },
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 318200,
-      "name": "Waiting on Vassar",
-      "url": "https://open.spotify.com/track/2OgHEQQm0BMaA7pNzv7utB"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -2103,22 +2119,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Far Afield",
         "url": "https://open.spotify.com/album/0EEp3UjtDxUGOnEwRxwDMy"
       },
@@ -2131,38 +2131,6 @@
       "duration_ms": 291400,
       "name": "Far Afield",
       "url": "https://open.spotify.com/track/5nVDIEmq4MxGGekEyLCnpe"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Wood Box Heroes",
-        "url": "https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "No. 444",
-      "url": "https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
-        "name": "Carolina Avenue",
-        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "Carolina Avenue",
-      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -2207,6 +2175,22 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
         "name": "The Trailblazer",
         "url": "https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 166707,
       "name": "The Trailblazer",
       "url": "https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Wood Box Heroes",
+        "url": "https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f"
+      },
+      "artists": [
+        {
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "No. 444",
+      "url": "https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF"
     },
     {
       "added_at": "2024-07-13 00:31:17",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-07-13 00:31:17",
       "album": {
-        "name": "Azazel's Escape",
-        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
-      },
-      "artists": [
-        {
-          "name": "Cup O\u2019Joe",
-          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Azazel's Escape",
-      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
-    },
-    {
-      "added_at": "2024-07-13 00:31:17",
-      "album": {
         "name": "Runaway Traveler",
         "url": "https://open.spotify.com/album/4ogIAVRKxmn17KfMpICzZU"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 205162,
       "name": "Runaway Traveler",
       "url": "https://open.spotify.com/track/1AMg7QWxxBQchmnNvoKKWM"
+    },
+    {
+      "added_at": "2024-07-13 00:31:17",
+      "album": {
+        "name": "Azazel's Escape",
+        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
+      },
+      "artists": [
+        {
+          "name": "Cup O\u2019Joe",
+          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Azazel's Escape",
+      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
     },
     {
       "added_at": "2024-07-13 00:31:17",

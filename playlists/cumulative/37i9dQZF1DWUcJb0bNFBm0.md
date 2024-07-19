@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: Hitsujibungaku\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover:  Drizzly\)
 
-103 songs - 7 hr 36 min
+104 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hujan](https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw) | [Marie Joe](https://open.spotify.com/artist/0wSlT3IFLD14xMCX7VbVCx) | [Hujan](https://open.spotify.com/album/4siflbZ24qkhsQaza9CdRz) | 3:46 | 2024-06-27 |  |
 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 | 2024-06-27 |  |
 | [i don’t wanna live with myself anymore](https://open.spotify.com/track/43DgPRRbirO09NCCRiJd7s) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [i don’t wanna live with myself anymore](https://open.spotify.com/album/5yKshIdY9kfdrmaSjAXXR3) | 3:34 | 2024-06-27 |  |
+| [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 | 2024-07-19 |  |
 | [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 |  |
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 |  |
 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 |  |

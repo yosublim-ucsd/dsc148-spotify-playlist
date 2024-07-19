@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 460252,
+  "num_followers": 460272,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Essa \u00c9 Pra Voc\u00eas",
-        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
-      },
-      "artists": [
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 127840,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Essa \u00c9 Pra Voc\u00eas",
+        "url": "https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0"
+      },
+      "artists": [
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 266173,
       "name": "Palco",
       "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -527,6 +527,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Samba de Raiz - Ao Vivo",
+        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
+      },
+      "artists": [
+        {
+          "name": "Samba De Raiz",
+          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Vou Festejar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Afrociberdelia",
         "url": "https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 178613,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Samba de Raiz - Ao Vivo",
-        "url": "https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc"
-      },
-      "artists": [
-        {
-          "name": "Samba De Raiz",
-          "url": "https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Vou Festejar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Feira De Mangaio",
-      "url": "https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 189040,
       "name": "Swing de Campo Grande",
       "url": "https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Feira De Mangaio",
+      "url": "https://open.spotify.com/track/42ECxaPackxKgMns8zAvW9"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Fruto Proibido",
         "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 157928,
       "name": "Amor de Que",
       "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2021-11-26 03:18:52",

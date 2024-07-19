@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,645 songs - 4 day 16 hr 58 min
+1,646 songs - 4 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
-| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 |  |
+| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 | 2024-07-19 |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
 | [Forever in My Mind](https://open.spotify.com/track/2xZ9aPo57bpZO1yAAnBI6s) | [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [Forever in My Mind](https://open.spotify.com/album/292MhRLW28A7dFbQyYMLpP) | 2:37 | 2022-12-28 | 2023-01-06 |
 | [Forever Sun](https://open.spotify.com/track/7mCvVkAN54xuYfmQbk7Pdo) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Forever Sun](https://open.spotify.com/album/0P08zM3Kv5hmJeFWDgD2Hy) | 2:38 | 2022-07-01 | 2022-12-29 |
@@ -951,6 +951,7 @@
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2020-03-16 | 2020-06-12 |
 | [Mirror](https://open.spotify.com/track/3puQ8QUzvzBfFnlIOSYaK4) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Mirror](https://open.spotify.com/album/6DpmqFLINjAajemiJPpMGw) | 3:12 | 2022-12-28 | 2023-01-06 |
 | [Mirror Play](https://open.spotify.com/track/0mcMy6ItV0K0uD4k6HrT9i) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 5:56 | 2020-05-18 | 2020-07-18 |
+| [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-07-19 |  |
 | [Mistaken \(feat\. Alex Aris\) \- DRAMA Remix](https://open.spotify.com/track/5OWrngLj7uTcicHivhY7jA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [2019 Remixed](https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR) | 3:56 | 2020-03-18 | 2022-04-21 |
 | [MO](https://open.spotify.com/track/5ozStnkHfqXVroea7vLCpX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Colour](https://open.spotify.com/album/6z8WhxG1JnXfAWmCoVIKBA) | 4:28 | 2022-01-21 | 2022-05-07 |
 | [Modest Life](https://open.spotify.com/track/6OKVsI0IxFSsciRlB5COqB) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light/Dark Deluxe Edition\)](https://open.spotify.com/album/5cibljLILelhJ2RhDq9CxE) | 3:42 | 2020-05-18 | 2020-07-03 |

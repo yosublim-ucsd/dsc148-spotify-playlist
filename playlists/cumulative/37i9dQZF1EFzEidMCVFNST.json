@@ -1274,6 +1274,24 @@
     {
       "album": {
         "name": "Vol 03",
+        "url": "https://open.spotify.com/album/16T6vTBj3TNSdf6M4NmT5j"
+      },
+      "artists": [
+        {
+          "name": "Roberto Voice",
+          "url": "https://open.spotify.com/artist/1leVwzYb28wqWJc8ZznBEJ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Calcinha da Namorada",
+      "url": "https://open.spotify.com/track/2Ce4P5TrxsAl23Jrbg6EFn"
+    },
+    {
+      "album": {
+        "name": "Vol 03",
         "url": "https://open.spotify.com/album/5zewjhJAIKxyiYgCzTvrTW"
       },
       "artists": [
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165485,
       "name": "Calcinha da Namorada",
       "url": "https://open.spotify.com/track/4ahhugyYLFnxF282schVEn"
@@ -4382,10 +4400,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 151343,
       "name": "Olha Ela",
       "url": "https://open.spotify.com/track/06r3DWpTBQNVdRwJoPLh0g"
+    },
+    {
+      "album": {
+        "name": "Live Pared\u00e3o do G\u00e1s",
+        "url": "https://open.spotify.com/album/5qRRGUc7TWyAoNK4Il0Up7"
+      },
+      "artists": [
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151343,
+      "name": "Olha Ela",
+      "url": "https://open.spotify.com/track/3FFRYPjogot2WEQUoUDnrY"
     },
     {
       "album": {
@@ -5102,7 +5138,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 254589,
       "name": "quanto mais eu tento",
       "url": "https://open.spotify.com/track/11lQJI8QLOSVViDppxUS6g"

@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Freezing",
+        "url": "https://open.spotify.com/album/225aerNjqf3ec1luImNmGg"
+      },
+      "artists": [
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        },
+        {
+          "name": "An-Known",
+          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234838,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/0JH1B6eF3qBmmFuuTfZ9kw"
+    },
+    {
+      "album": {
         "name": "Give Me Your Hand",
         "url": "https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH"
       },
@@ -789,6 +811,28 @@
     },
     {
       "album": {
+        "name": "I'M FINE",
+        "url": "https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a"
+      },
+      "artists": [
+        {
+          "name": "Likkle Bangi",
+          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
+        },
+        {
+          "name": "Kavali King",
+          "url": "https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "I'M FINE",
+      "url": "https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU"
+    },
+    {
+      "album": {
         "name": "Its Crazy",
         "url": "https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh"
       },
@@ -964,7 +1008,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
@@ -2008,7 +2052,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234437,
       "name": "Star",
       "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"

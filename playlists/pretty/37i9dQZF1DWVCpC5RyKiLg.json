@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 719914,
+  "num_followers": 719956,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Sobrenome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
+        "name": "Nos Arcos da Lapa",
+        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
       },
       "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        },
         {
           "name": "P\u00e9ricles",
           "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Sobrenome - Ao vivo",
-      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
+      "duration_ms": 237440,
+      "name": "Final De Tarde",
+      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -715,18 +711,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Nos Arcos da Lapa",
-        "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
+        "name": "Sobrenome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
       "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
         {
           "name": "P\u00e9ricles",
           "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Final De Tarde",
-      "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+      "duration_ms": 192253,
+      "name": "Sobrenome - Ao vivo",
+      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
     },
     {
       "added_at": "2024-07-09 15:59:51",

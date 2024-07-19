@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-75 songs - 4 hr 17 min
+76 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 |  |
 | [Amach](https://open.spotify.com/track/2QCKG199FIJrm8x8DF0BiC) | [KA7LA](https://open.spotify.com/artist/3P1ICbu02JQld1VFBoQCLA), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Amach](https://open.spotify.com/album/6Gv3VtOlgKhaSHkKt0e8U6) | 2:41 | 2024-05-02 |  |
 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 | 2024-02-24 |  |
+| [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 | 2024-07-18 |  |
 | [BERLIN](https://open.spotify.com/track/53m7xHYP22udP4Vsftr48p) | [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH), [Molka Braiek](https://open.spotify.com/artist/26FtkGdzYUskhMqPX3J7td), [XCEP](https://open.spotify.com/artist/6QvQCpbGRXw7BTBSU4VH0N) | [BERLIN](https://open.spotify.com/album/6cYneZuZvWYK36WHhznwhP) | 2:52 | 2024-02-24 | 2024-07-09 |
 | [Bin Narin \- بين نارين](https://open.spotify.com/track/65tKzxjFZsjObi7OFuJFIy) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Bin Narin \(بين نارين\)](https://open.spotify.com/album/1HMzHpHSipGYpujRyL453I) | 3:37 | 2024-02-24 |  |
 | [Byesset El 7ay](https://open.spotify.com/track/1foKMVjqzlnHKjshXGz4OU) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Byesset El 7ay](https://open.spotify.com/album/0yCA3VDCt3gzCPKhizmnJd) | 3:18 | 2024-02-24 |  |
@@ -42,7 +43,7 @@
 | [Intro](https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:43 | 2024-02-24 |  |
 | [Khousara](https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Khousara](https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N) | 2:58 | 2024-02-24 |  |
 | [Kifesh](https://open.spotify.com/track/697rgcrEYB2fRCnpvP7tWe) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Dekka](https://open.spotify.com/artist/2loudmgJCLYEIWjqKdqURB) | [Kifesh](https://open.spotify.com/album/5IgLHoxhqHARqzcH6gJnza) | 3:41 | 2024-05-29 | 2024-07-05 |
-| [Kifi](https://open.spotify.com/track/4CIfIG6L3WA1b6FHcR9wVu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Kifi](https://open.spotify.com/album/5MGtHCneW9nJ50NeTdzAvg) | 3:15 | 2024-02-24 |  |
+| [Kifi](https://open.spotify.com/track/4CIfIG6L3WA1b6FHcR9wVu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Kifi](https://open.spotify.com/album/5MGtHCneW9nJ50NeTdzAvg) | 3:15 | 2024-02-24 | 2024-07-19 |
 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 | 2024-05-10 |  |
 | [Layam](https://open.spotify.com/track/6qM1V0fvAHohEXuCKvaYfz) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Layam](https://open.spotify.com/album/3dAcWL49dX4oxXcxkKUBW6) | 4:52 | 2024-02-24 | 2024-05-10 |
 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 | 2024-02-24 | 2024-06-06 |

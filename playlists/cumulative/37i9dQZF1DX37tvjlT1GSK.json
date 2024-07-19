@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Gemelos De Sinaloa en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Armenta y Calle 24 en portada. ",
   "name": "Sierre\u00f1o 2024",
   "tracks": [
     {
@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165000,
       "name": "BELIKBOY",
       "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "El P8",
+        "url": "https://open.spotify.com/album/01hMLYztvfMO4LNmv8AUoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216011,
+      "name": "El P8",
+      "url": "https://open.spotify.com/track/3ETjJoHFlZdlNYwYFXXMYg"
+    },
+    {
+      "album": {
         "name": "El Plumas (En Vivo)",
         "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
       },
@@ -3594,7 +3612,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194016,
       "name": "Humo Blanco",
       "url": "https://open.spotify.com/track/0DtjN2DMnpuk2nxSqTjiLl"
@@ -4356,7 +4374,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 198613,
       "name": "Llamado De Emergencia",
       "url": "https://open.spotify.com/track/2T9JLGkx059fGk6ScxHmpb"
@@ -4610,6 +4628,24 @@
       "duration_ms": 214804,
       "name": "Maldito Olvido",
       "url": "https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB"
+    },
+    {
+      "album": {
+        "name": "Maliante",
+        "url": "https://open.spotify.com/album/4m21P1AX1UpYu9CBLd27ql"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278246,
+      "name": "Maliante",
+      "url": "https://open.spotify.com/track/3R1WQmldb5vv0WcKggHAsG"
     },
     {
       "album": {
@@ -4982,6 +5018,24 @@
       "duration_ms": 172250,
       "name": "Mira Jodidon",
       "url": "https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
     },
     {
       "album": {
@@ -5900,7 +5954,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204039,
       "name": "Piensa En Mi",
       "url": "https://open.spotify.com/track/2JSmFHR2FpruHXgF5udA1l"
@@ -7872,6 +7926,28 @@
       "duration_ms": 182694,
       "name": "Una Linda Mujer",
       "url": "https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF"
+    },
+    {
+      "album": {
+        "name": "UNA LOKURA",
+        "url": "https://open.spotify.com/album/6wkmruqosLUIuQPbXHmEVw"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212057,
+      "name": "UNA LOKURA",
+      "url": "https://open.spotify.com/track/3YEGRP2AvlsfopfqiHkVew"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 582417,
+  "num_followers": 582482,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Bisou :*",
-        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 161587,
-      "name": "Bisou :*",
-      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Bisou :*",
+        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "duration_ms": 161587,
+      "name": "Bisou :*",
+      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 206085,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Die Hoffnung klaut mir Niemand",
         "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
@@ -451,6 +471,22 @@
       "duration_ms": 174026,
       "name": "Die Sonne",
       "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "M\u00dcNCHEN GIRLS",
+        "url": "https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "duration_ms": 171454,
+      "name": "M\u00dcNCHEN GIRLS",
+      "url": "https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -479,54 +515,18 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "M\u00dcNCHEN GIRLS",
-        "url": "https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV"
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
       },
       "artists": [
         {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
         }
       ],
-      "duration_ms": 171454,
-      "name": "M\u00dcNCHEN GIRLS",
-      "url": "https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "NuR Du :/",
-        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 206085,
-      "name": "NuR Du :/",
-      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "1. Mai",
-      "url": "https://open.spotify.com/track/1dmqWr5HDSFVX327fmq1oH"
+      "duration_ms": 119047,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Delulu",
-        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB"
       },
       "artists": [
         {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 119047,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
+      "duration_ms": 144000,
+      "name": "1. Mai",
+      "url": "https://open.spotify.com/track/1dmqWr5HDSFVX327fmq1oH"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Bis zur Spree (feat. Juju)",
-        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
-      },
-      "artists": [
-        {
-          "name": "Aylo",
-          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 165219,
-      "name": "Bis zur Spree (feat. Juju)",
-      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Ich Liebe Dich",
         "url": "https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Bis zur Spree (feat. Juju)",
+        "url": "https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7"
+      },
+      "artists": [
+        {
+          "name": "Aylo",
+          "url": "https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 165219,
+      "name": "Bis zur Spree (feat. Juju)",
+      "url": "https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "Lamborghini Pink",
-        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Lamborghini Pink",
-      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Let me love you",
         "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 167889,
       "name": "Let me love you",
       "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "Lamborghini Pink",
+        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Lamborghini Pink",
+      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "MISSED CALLS",
-        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "MISSED CALLS",
-      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
         "name": "Du Fehlst",
         "url": "https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 123280,
       "name": "1000 Sterne",
       "url": "https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+    },
+    {
+      "added_at": "2024-06-28 12:16:10",
+      "album": {
         "name": "Hund (feat. Takt32)",
         "url": "https://open.spotify.com/album/4wCKsCSgFcqu6VnZWBJj8Y"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 174673,
       "name": "6 Minuten",
       "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
-    },
-    {
-      "added_at": "2024-06-28 12:16:10",
-      "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1775,18 +1775,26 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "nur liebe, immer.",
-        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
+        "name": "MISS YOU",
+        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
       },
       "artists": [
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "The Cratez",
+          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
         }
       ],
-      "duration_ms": 146346,
-      "name": "luft holen",
-      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
+      "duration_ms": 129587,
+      "name": "MISS YOU",
+      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
     },
     {
       "added_at": "2024-06-28 12:16:10",
@@ -1811,26 +1819,18 @@
     {
       "added_at": "2024-06-28 12:16:10",
       "album": {
-        "name": "MISS YOU",
-        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
+        "name": "nur liebe, immer.",
+        "url": "https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD"
       },
       "artists": [
         {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        },
-        {
-          "name": "The Cratez",
-          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 129587,
-      "name": "MISS YOU",
-      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
+      "duration_ms": 146346,
+      "name": "luft holen",
+      "url": "https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30"
     },
     {
       "added_at": "2024-06-28 12:16:10",

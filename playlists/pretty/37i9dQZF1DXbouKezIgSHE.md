@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain]
 
 > Where drum & bass comes alive\. Cover: Shockone
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,610 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,611 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbouKezIgSHE.md) - [plain]
 | 76 | [Raise Up](https://open.spotify.com/track/74QNAdrgUutTbLIdRGrz26) | [Wa\-Fu](https://open.spotify.com/artist/51miQgR4HHTo5kOwFCeyJo) | [Raise Up](https://open.spotify.com/album/30UIPjHdAfS1FbSO8T6uez) | 3:28 |
 | 77 | [Sin](https://open.spotify.com/track/6ALgsIOsGhhodeGq16BHIe) | [Blaine Stranger](https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j), [NÜ](https://open.spotify.com/artist/5V4k12TCud24oll7XIoOnt) | [Sin](https://open.spotify.com/album/1tt8TC0ohVxpA9zx9YXJab) | 4:07 |
 | 78 | [Night Rides](https://open.spotify.com/track/3tN8LD5PN1i2Ql5Tmb5ZFO) | [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Night Rides](https://open.spotify.com/album/4PV68EsAFU8IzM2KIOAcNG) | 3:47 |
-| 79 | [For You](https://open.spotify.com/track/2YvAjZdJwToBa7dmh4J8Km) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [For You](https://open.spotify.com/album/1t96n48HHCEjbbxD6zYJxN) | 3:35 |
+| 79 | [For You](https://open.spotify.com/track/2YvAjZdJwToBa7dmh4J8Km) | [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Sambora](https://open.spotify.com/artist/0sSlDg6AXFjHhIvofNp50S) | [For You](https://open.spotify.com/album/1t96n48HHCEjbbxD6zYJxN) | 3:35 |
 | 80 | [All We Got](https://open.spotify.com/track/6Amc3m1OJiQvtrSbWu6qjf) | [Rei](https://open.spotify.com/artist/2DM5LlJaApG5igeJrHJc85) | [All We Got](https://open.spotify.com/album/28MjOWeNKc4aW4ZEEbkmf5) | 3:27 |
 | 81 | [Answer](https://open.spotify.com/track/4D73ZWeg24N8yUXxCx3Ejq) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Answer](https://open.spotify.com/album/1qSRXN1dWFRaKHgX1x5bDv) | 4:08 |
 | 82 | [High \- FOURA Remix](https://open.spotify.com/track/3OErWsu9xz0gSDfVPqxAzQ) | [Zia Jade](https://open.spotify.com/artist/1dgroeoC0lWhsk6D7vNER1), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [High \(FOURA Remix\)](https://open.spotify.com/album/5w9oABEgTFfJVaomSzXICU) | 2:50 |

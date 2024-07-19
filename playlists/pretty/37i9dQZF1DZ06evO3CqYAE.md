@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 49 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,914 likes - 49 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 38 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 | 39 | [Igwe](https://open.spotify.com/track/0bmIKllyl9bZhNxt2jgvzA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 5:27 |
 | 40 | [More Than Enough](https://open.spotify.com/track/4D6hK7dGrFR2PChNfOZY2Y) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [More Than Enough](https://open.spotify.com/album/4IEP8CaltYTr7RaqPQzf0R) | 3:29 |
-| 41 | [Power Belongs To Jesus](https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v) | 4:16 |
-| 42 | [Beyond me \- Live at Yalic, Abuja](https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Beyond me \(Live at Yalic, Abuja\)](https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9) | 9:58 |
+| 41 | [Beyond me \- Live at Yalic, Abuja](https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Beyond me \(Live at Yalic, Abuja\)](https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9) | 9:58 |
+| 42 | [Power Belongs To Jesus](https://open.spotify.com/track/12crjb1IdFLzMIavd3hAnO) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/5pfGxqWgKcPPYAbjnHqU0v) | 4:16 |
 | 43 | [Imela](https://open.spotify.com/track/2CtReCMMQ7C7FiN1hbFWQ3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:11 |
 | 44 | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Reba](https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6) | [Eze \(feat\. Preye Odede\)](https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2) | 5:56 |
 | 45 | [My Responsibility](https://open.spotify.com/track/2XagKXx33RL4fYAe8oQYdc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 4:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 48 | [Jesus Never Fails](https://open.spotify.com/track/14l8WcALXlYW0wmLn27M8I) | [MaryJane Nweke](https://open.spotify.com/artist/7GcL0el74n5UvZY4mtyhaW), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Jesus Never Fails](https://open.spotify.com/album/0n1dN2pZ24kVPBoADqICfj) | 5:28 |
 | 49 | [Trust](https://open.spotify.com/track/0My8DVXf12YQFJicl20tAW) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/7ADT3sHzKtro6GCqcCv0FN) | 2:53 |
 
-Snapshot ID: `ZpW4AAAAAACqYG7PtymbRGzy2owIPUdk`
+Snapshot ID: `ZpcJgAAAAACSx6VOAqt0oDUzM3nvHSmk`

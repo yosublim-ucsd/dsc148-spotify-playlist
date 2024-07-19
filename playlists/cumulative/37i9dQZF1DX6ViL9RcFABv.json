@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: iolanda",
+  "description": "Uma playlist de pura alma pop! Foto: Supa Squad",
   "name": "Pop PT",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172217,
       "name": "ESPELHO",
       "url": "https://open.spotify.com/track/5Q80Y8egSGr1MEO2KvCYGE"
@@ -766,6 +766,24 @@
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
+    },
+    {
+      "album": {
+        "name": "Filha de Lisboa",
+        "url": "https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf"
+      },
+      "artists": [
+        {
+          "name": "Catarina Castanhas",
+          "url": "https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184618,
+      "name": "Filha de Lisboa",
+      "url": "https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD"
     },
     {
       "album": {
@@ -1116,6 +1134,24 @@
       "duration_ms": 179436,
       "name": "N\u00e3o \u00e9s tu, sou eu",
       "url": "https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d"
+    },
+    {
+      "album": {
+        "name": "Oj\u00e9 Oj\u00e9",
+        "url": "https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Oj\u00e9 Oj\u00e9",
+      "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
     },
     {
       "album": {
@@ -1582,10 +1618,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 233508,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8"
+    },
+    {
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv"

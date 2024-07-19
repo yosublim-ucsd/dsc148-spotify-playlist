@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Megadeth. The essential tracks, all in one playlist.",
+  "description": "This is Megadeth. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Megadeth",
   "tracks": [
     {
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 299106,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 392600,
       "name": "Holy Wars...The Punishment Due - 2004 Remix",
       "url": "https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Lucretia - 2004 Remix",
       "url": "https://open.spotify.com/track/1Bi6Me45Xiqy4kYUGGwBTv"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 294426,
       "name": "Soldier On!",
       "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 309306,
       "name": "Sudden Death",
       "url": "https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 241906,
       "name": "Symphony Of Destruction - Remastered 2012",
       "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD"

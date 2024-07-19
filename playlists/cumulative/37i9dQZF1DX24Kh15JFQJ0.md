@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-287 songs - 16 hr 49 min
+288 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 | 2021-10-15 |  |
 | [Holes in the Wall \(feat\. Tracy Byrd\)](https://open.spotify.com/track/68juMHiJPLVDit4W3WmsP1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Hindsight 2020, Vol\. 2: Price of Fame](https://open.spotify.com/album/1SYBN8T25jAmIstn5swHeA) | 2:59 | 2021-10-15 | 2022-09-21 |
 | [Home Run](https://open.spotify.com/track/3XZyu7QgInEok7mk0lTm9Z) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Good Day for Living](https://open.spotify.com/album/0S2KcWY0lkBv3D6YPryaxc) | 3:05 | 2023-08-04 | 2024-04-19 |
-| [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 |  |
+| [Home Run](https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Home Run](https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk) | 3:05 | 2021-10-15 | 2024-07-19 |
 | [Honky Tonk Boots](https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Honky Tonk Boots](https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8) | 2:47 | 2022-03-11 |  |
 | [Honky Tonk Town](https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Honky Tonk Town](https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP) | 2:59 | 2022-05-20 |  |
 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 | 2021-10-15 |  |
@@ -258,6 +258,7 @@
 | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/track/1wsXDq84XjC5bpaomBn1P6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [There's No Me...Without You \(with Carole King\)](https://open.spotify.com/album/2iyEcY3FRWdM0N9B0xeWx4) | 3:46 | 2024-02-16 |  |
 | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/track/4DMtfdorMz6ShoAi9jDxhw) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Things You Can't Live Without \(with Travis Tritt\)](https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b) | 3:25 | 2022-04-22 |  |
 | [This is Where the End Starts Feat\. Haley Vassar](https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6), [Haley Vassar](https://open.spotify.com/artist/7ILb0lzos2z2vJu8csvkBU) | [Stripped Down](https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd) | 3:15 | 2021-10-15 |  |
+| [Three Drinks Behind](https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Three Drinks Behind](https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W) | 3:39 | 2024-07-19 |  |
 | [Tiger By The Tail](https://open.spotify.com/track/2vDWNjHqsqEKyfMGAtv61J) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tiger By The Tail](https://open.spotify.com/album/5sGRMZXEbHf6lgOp1inAWM) | 2:24 | 2023-02-10 |  |
 | [Tiger By The Tail](https://open.spotify.com/track/7jRNqtVCBvXa1XzJJCqwng) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Don't Know A Thing About Love: The Songs of Harlan Howard](https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S) | 2:24 | 2023-03-03 | 2024-04-19 |
 | [Til the End of Time](https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Lisa Hartman Black](https://open.spotify.com/artist/6vSo8MOzgy8fBHPyFuq0Iv) | [Til the End of Time](https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf) | 4:58 | 2021-10-15 | 2022-09-21 |

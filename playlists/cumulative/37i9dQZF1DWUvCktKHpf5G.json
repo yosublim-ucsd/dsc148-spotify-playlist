@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Aquella Noche",
+        "url": "https://open.spotify.com/album/7qBIRGutaZAPV92R53R5TI"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213904,
+      "name": "Aquella Noche",
+      "url": "https://open.spotify.com/track/3ej88nx5Zvee0XmVHVFMem"
+    },
+    {
+      "album": {
         "name": "ASESINA",
         "url": "https://open.spotify.com/album/4etp2BmvRL19BEquQLXDlh"
       },
@@ -750,6 +768,32 @@
       "duration_ms": 195493,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
+    },
+    {
+      "album": {
+        "name": "Cuando Ella Me Vio",
+        "url": "https://open.spotify.com/album/3jn1hNcyLTMItoHWfQ6ry2"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Cuando Ella Me Vio",
+      "url": "https://open.spotify.com/track/1KRkJH7aHACngrupLMkP7F"
     },
     {
       "album": {
@@ -1753,6 +1797,32 @@
     },
     {
       "album": {
+        "name": "IMPACTO",
+        "url": "https://open.spotify.com/album/3po5AgpyQ3ZXm1hRGyFtQ6"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        },
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "IMPACTO",
+      "url": "https://open.spotify.com/track/1lkCZOBF9iTR84dTDbNWzQ"
+    },
+    {
+      "album": {
         "name": "Intro Telefono 1 (Remix)",
         "url": "https://open.spotify.com/album/2MCgCJKQeE54zbFCdkwEIN"
       },
@@ -2134,7 +2204,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134181,
       "name": "La ma\u00f1a",
       "url": "https://open.spotify.com/track/6eEV6VOdSNQEsSoBbik62x"
@@ -2681,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Los Morritos",
+        "url": "https://open.spotify.com/album/6sZWcqk0Tlh6kj36IS4QN8"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Los Morritos",
+      "url": "https://open.spotify.com/track/26E9ySMhzSl29YqEwgDMf1"
+    },
+    {
+      "album": {
         "name": "Luces Tenues",
         "url": "https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM"
       },
@@ -2780,7 +2872,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171789,
       "name": "MALIANTEO",
       "url": "https://open.spotify.com/track/4HxHuTn5m8mvwstavPF8yE"
@@ -3097,6 +3189,32 @@
     },
     {
       "album": {
+        "name": "Mela",
+        "url": "https://open.spotify.com/album/7q5XH7ugzAYII887WeYT44"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "Mela",
+      "url": "https://open.spotify.com/track/7qys9lvqqMCxg0dDC9cjQl"
+    },
+    {
+      "album": {
         "name": "Mereces Menos",
         "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
       },
@@ -3392,7 +3510,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180866,
       "name": "No Bailes Sola",
       "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
@@ -3870,7 +3988,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
@@ -4350,7 +4468,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 188800,
       "name": "Rompiendola",
       "url": "https://open.spotify.com/track/4L3jynSXsTKCijvyeghs5x"

@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Disney Guitar: Pixar",
+        "url": "https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106473,
+      "name": "I Can't Let You Throw Yourself Away",
+      "url": "https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Chill",
         "url": "https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA"
       },

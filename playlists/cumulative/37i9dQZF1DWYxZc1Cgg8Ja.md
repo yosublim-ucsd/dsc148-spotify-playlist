@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Boza, ELENA ROSE
 
-111 songs - 5 hr 44 min
+112 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [FERXXO EDITION](https://open.spotify.com/track/1XliaOvtQuV1hoXiIik2aQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:41 | 2023-09-29 |  |
 | [Game Over](https://open.spotify.com/track/5NbsKVtCFu62h3e08FyWje) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [Good Vice crew](https://open.spotify.com/artist/2S6I4rL5hXSZXoL1mVksgz) | [Drama Vol\. 3](https://open.spotify.com/album/55Sb0QJuaByvQKUTzDWIdG) | 2:24 | 2023-12-15 | 2024-01-20 |
 | [Guaro](https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Guaro](https://open.spotify.com/album/1D8eQxCxhoMcNB7XwNl468) | 1:58 | 2023-07-21 |  |
+| [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-19 |  |
 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 | 2023-07-21 |  |
 | [Horas](https://open.spotify.com/track/2UumxLigdCw91IxqpMEvPz) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Horas](https://open.spotify.com/album/1geeDTUcLFv7vgDH0v0C3a) | 3:51 | 2023-07-21 | 2023-09-30 |
 | [Jamaica](https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:07 | 2023-07-21 |  |

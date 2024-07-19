@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-203 songs - 10 hr 41 min
+204 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 |  |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 | 2024-02-20 |
 | [San](https://open.spotify.com/track/0yYDvvZMeTqSUV5wLyP2Wm) | [Maayaa](https://open.spotify.com/artist/7rGlPTV1a2qZygXRYutXoP), [Akan](https://open.spotify.com/artist/01oqDvyAJgoEp2C8k9nOfS) | [Chapter Red](https://open.spotify.com/album/79HVNi9MisNf7sJsLo3Trz) | 3:33 | 2022-02-11 | 2022-07-28 |
-| [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 |  |
+| [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-07-19 |
 | [Selling Dreams](https://open.spotify.com/track/0RgZpM5V4Ccy5fHE7RuBWS) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:28 | 2024-03-22 | 2024-04-19 |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-02-03 | 2024-04-30 |
 | [Shattered](https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Shattered](https://open.spotify.com/album/12JN7p9WCNuyidmPWUzY4U) | 3:25 | 2022-03-04 | 2023-02-16 |
@@ -211,5 +211,6 @@
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-24 | 2024-06-01 |
 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 | 2024-03-08 | 2024-05-17 |
 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 | 2024-05-31 |  |
+| [Your Loss](https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Son of Chike](https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W) | 2:47 | 2024-07-19 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

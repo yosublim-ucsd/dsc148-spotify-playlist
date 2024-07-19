@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Cowboys Cry Too",
+        "url": "https://open.spotify.com/album/1Wc45qb892V3zVDdDdrHzl"
+      },
+      "artists": [
+        {
+          "name": "Good Girls Inc.",
+          "url": "https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Cowboys Cry Too",
+      "url": "https://open.spotify.com/track/3jSN1UlLaeWYRjjIIeAJkd"
+    },
+    {
+      "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
       },

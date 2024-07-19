@@ -4,14 +4,14 @@
 
 > Turn traffic stops into jam sessions.
 
-717 songs - 1 day 11 hr 58 min
+718 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Night in Durban \- Instrumental](https://open.spotify.com/track/7LszQ2isgFzHZpdr6j0Jnw) | [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [1 Night in Durban \(Instrumental\)](https://open.spotify.com/album/4kGwARTaV0pct1bxUXhfnW) | 1:58 | 2023-04-27 | 2023-05-05 |
 | [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 | 2023-11-27 | 2024-04-26 |
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-22 | 2023-01-20 |
-| [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 | 2024-03-15 |  |
+| [100 MILLION \(feat\. Tiwa Savage\)](https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [100 MILLION](https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju) | 2:16 | 2024-03-15 | 2024-07-19 |
 | [13 POS \(Ke Bo Mang\)](https://open.spotify.com/track/3broQqYTmS1ctbl5mvFAKc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE) | [13POS](https://open.spotify.com/album/3vJ0nwmFEngfkyAa6C83j0) | 4:51 | 2024-05-24 |  |
 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 | 2023-03-10 | 2023-03-31 |
 | [24/7](https://open.spotify.com/track/3bCbycN2nBKSeixp5sDmMi) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body, Soul & Spirit](https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ) | 2:26 | 2023-11-17 | 2023-12-08 |
@@ -569,6 +569,7 @@
 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 | 2022-11-18 | 2023-09-29 |
 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 | 2024-05-10 | 2024-07-06 |
 | [Rise](https://open.spotify.com/track/3AGlt0hLQ2pDASrcjk0MsB) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Rise](https://open.spotify.com/album/0sP2usGFkkXX648EGFk5VU) | 3:00 | 2022-07-28 | 2022-08-26 |
+| [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 | 2023-11-03 | 2023-11-28 |
 | [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 | 2024-04-26 |  |
 | [Romeo Must Die \(RMD\)](https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Romeo Must Die \(RMD\)](https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3) | 2:40 | 2024-03-01 |  |

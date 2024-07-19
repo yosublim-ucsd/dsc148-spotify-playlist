@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B, Carolina Durante.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Ganges.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148911,
       "name": "AL OTRO LADO",
       "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 117891,
       "name": "COMO YO",
       "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/2tRtfSdmb2jAUmjcAf3l59"
+      },
+      "artists": [
+        {
+          "name": "Marinita Precaria",
+          "url": "https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/61omU5umRHHE0v20jAYD1L"
+    },
+    {
+      "album": {
         "name": "Frente al Latido",
         "url": "https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn"
       },
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148336,
       "name": "Los hijos del odio",
       "url": "https://open.spotify.com/track/1NZ45VxktEqT6hXpcV7J68"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 136390,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/7aZN8LGvTUPcAUxDEXJZjp"
@@ -1769,6 +1787,42 @@
     },
     {
       "album": {
+        "name": "Prefiero",
+        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175663,
+      "name": "Prefiero",
+      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
+    },
+    {
+      "album": {
+        "name": "PR\u00cdNCIPE",
+        "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171459,
+      "name": "PR\u00cdNCIPE",
+      "url": "https://open.spotify.com/track/48puBWvqOsEwv1kcmMR8Ah"
+    },
+    {
+      "album": {
         "name": "Nost\u00e0lgia Airlines",
         "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
@@ -1802,6 +1856,24 @@
       "duration_ms": 200437,
       "name": "Quiero Hacer M\u00fasica",
       "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 buscas",
+        "url": "https://open.spotify.com/album/78W2QG99qX9gs1SfHFCxgD"
+      },
+      "artists": [
+        {
+          "name": "TAURO",
+          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191462,
+      "name": "Qu\u00e9 buscas",
+      "url": "https://open.spotify.com/track/0O2t06Dh9U1kO2JEdUwqis"
     },
     {
       "album": {

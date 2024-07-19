@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Josey
 
-190 songs - 10 hr 52 min
+191 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dosez \(feat\. Elow'n & Didi B\)](https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 3:55 | 2022-02-18 | 2022-09-30 |
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 | 2023-04-28 |
 | [Démarrage](https://open.spotify.com/track/0wVbLYbOAzHsEcyAtNLOFo) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 3:16 | 2024-05-02 |  |
-| [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 |  |
+| [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 | 2023-05-18 | 2024-07-19 |
 | [Effrayer la galère](https://open.spotify.com/track/4fyRNOR6zupaunbkjrl6uL) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Effrayer la galère](https://open.spotify.com/album/5vSehx9owBtXVKUV2HE2KB) | 3:25 | 2024-04-11 | 2024-06-14 |
 | [Elephant d'or](https://open.spotify.com/track/6IV4Lb4470lOo8pFrknNmN) | [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx), [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Éléphant d'or](https://open.spotify.com/album/2sghK6Ruux6IYqQbhNGCf1) | 2:44 | 2022-06-23 | 2022-09-02 |
 | [Elle Est D'Où](https://open.spotify.com/track/6o9FOz7FO3EMvzjUaiKxA8) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Stamina](https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo) | 2:43 | 2023-11-09 | 2024-04-12 |
@@ -183,6 +183,7 @@
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
+| [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 |  |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [WA WA DÉ DÉ](https://open.spotify.com/track/0UvThmUxfn5IRVbChCs11I) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [WA WA DÉ DÉ](https://open.spotify.com/album/04sYiTnXJ6ZFyTFWNYMJ0e) | 2:44 | 2024-06-06 |  |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |

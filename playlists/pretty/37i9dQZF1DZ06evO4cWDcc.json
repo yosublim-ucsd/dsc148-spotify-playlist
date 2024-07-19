@@ -1,13 +1,29 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 307472,
+  "num_followers": 307526,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAB77J20EbfvR3q7uactLz/q",
+  "snapshot_id": "ZpcJgAAAAACXFG66bi3PwZEYuB+bY27B",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 208120,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Crosstown Traffic",
+      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
     },
     {
       "added_at": null,
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Crosstown Traffic",
-      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 206133,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Gypsy Eyes",
+      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
     },
     {
       "added_at": null,
@@ -171,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Have You Ever Been (To Electric Ladyland)",
-      "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 341800,
       "name": "Hear My Train a Comin'",
       "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
     {
       "added_at": null,
@@ -244,15 +260,15 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Gypsy Eyes",
-      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+      "duration_ms": 249373,
+      "name": "Come On (Let the Good Times Roll)",
+      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     },
     {
       "added_at": null,
@@ -299,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 249373,
-      "name": "Come On (Let the Good Times Roll)",
-      "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
+      "duration_ms": 183426,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
     },
     {
       "added_at": null,
@@ -372,15 +356,15 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 108373,
-      "name": "Ain't No Telling",
-      "url": "https://open.spotify.com/track/1ToNKcpVRTxzAgRiywifMt"
+      "duration_ms": 182546,
+      "name": "Wait Until Tomorrow",
+      "url": "https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides of the Sky",
-        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU"
+      "duration_ms": 163800,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq"
     },
     {
       "added_at": null,
@@ -427,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Ezy Ryder",
-      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -459,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 307453,
       "name": "Pali Gap",
       "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Long Hot Summer Night",
+      "url": "https://open.spotify.com/track/1HFj7yC7uZfqjWuoH6DO9r"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 284333,
       "name": "Dolly Dagger",
       "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": null,

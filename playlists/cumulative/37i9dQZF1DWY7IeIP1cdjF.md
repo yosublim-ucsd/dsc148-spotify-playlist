@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Blessd, Ovy On The Drums, Cris MJ, Feid, Anitta and more.🔥🍑
+> Reggaeton hits from El Malilla, Cris MJ, Feid, Anitta and more.🔥🍑
 
-490 songs - 1 day 3 hr 19 min
+491 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Dile \(Homenaje\)](https://open.spotify.com/track/073yIM7v2j6XadD4Nkn0Fh) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:48 | 2021-12-24 | 2022-08-20 |
 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 | 2024-04-05 | 2024-06-08 |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-11-10 |  |
-| [Dime](https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Dime](https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq) | 2:53 | 2024-04-26 |  |
+| [Dime](https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Dime](https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq) | 2:53 | 2024-04-26 | 2024-07-19 |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-26 | 2022-10-01 |
 | [DIVA](https://open.spotify.com/track/3i6p7Lc6GSdhXBy8VEXEea) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DIVA](https://open.spotify.com/album/2wzodZPwZRxma1r6yPPxTD) | 2:17 | 2023-06-09 | 2023-07-01 |
 | [Dos Tragos](https://open.spotify.com/track/68vJWWz7KPU4JCsgAySVPZ) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Dos Tragos](https://open.spotify.com/album/4K6mnLI4yTZsThzySbkvRQ) | 3:12 | 2021-12-24 | 2022-01-29 |
@@ -305,6 +305,7 @@
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-07-01 | 2022-07-30 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-28 | 2023-09-23 |
 | [Niña de Mis Sueños](https://open.spotify.com/track/5R70etCKr7FOqdTqnohNfT) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Niña de Mis Sueños](https://open.spotify.com/album/1EXy8WlpTf6BU7J2XLyjVG) | 2:41 | 2022-01-21 | 2022-01-29 |
+| [Niña Santa](https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 2:52 | 2024-07-19 |  |
 | [No Ando Weando](https://open.spotify.com/track/4uelxH4T8ewn0wwQC5gGLh) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:08 | 2023-12-01 | 2024-01-27 |
 | [No Es Normal](https://open.spotify.com/track/2g13NghX82C4oR0Wmz7asw) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:38 | 2022-07-22 | 2022-10-22 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2024-03-15 | 2024-06-08 |

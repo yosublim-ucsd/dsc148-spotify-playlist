@@ -4,7 +4,7 @@
 
 > 
 
-36 songs - 2 hr 42 min
+37 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,11 +38,12 @@
 | [The Hops of Guldenberg](https://open.spotify.com/track/1BPs92wyDoD7oM1VDRQh9E) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Wireless](https://open.spotify.com/album/787N3qYer0QERjjoWlXJx0) | 4:52 | 2024-05-10 | 2024-07-18 |
 | [The Mariner's Revenge Song](https://open.spotify.com/track/3GDIZO71jiE1FEcHEJh3RH) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [Picaresque](https://open.spotify.com/album/0eGxAVwdwV2mHrUgLJ8R6Y) | 8:45 | 2024-05-16 | 2024-07-18 |
 | [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 11:16 | 2024-05-02 |  |
-| [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2024-06-02 |  |
+| [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2024-06-02 | 2024-07-19 |
 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/6P8bxNBbTGozvidJV9fjrG) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:36 | 2024-07-17 |  |
 | [The Truth Is a Cave](https://open.spotify.com/track/27TPKGBLVn1Bv3B2thAzqz) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Through the Deep, Dark Valley](https://open.spotify.com/album/26kBAsDf3wwT8pzlBB9M0R) | 4:00 | 2024-07-17 |  |
 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 | 2024-05-10 |  |
 | [Universal Sound](https://open.spotify.com/track/48nZLOpJOINkICPWpUuhaN) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:41 | 2024-04-08 | 2024-04-16 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2024-04-08 | 2024-07-18 |
+| [Wake \- Live at Hangar 30](https://open.spotify.com/track/6ZxZlX6pnriCAHKstRlCKW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [LIVE AT HANGAR 30](https://open.spotify.com/album/3p6yQAl3iw0jF4m3Vsi9FC) | 3:57 | 2024-07-18 |  |
 
 \*This playlist was first scraped on 2024-04-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Johnny Blue Skies
 
-574 songs - 1 day 11 hr 12 min
+575 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Can't Do This No More](https://open.spotify.com/track/6gFjIEEkRARKGavCqFJNLW) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Can't Do This No More](https://open.spotify.com/album/6QZQ9lQDCXFsnVoOXs8cZ6) | 3:40 | 2022-08-05 | 2023-04-09 |
 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 | 2021-12-17 | 2022-01-08 |
 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 | 2022-02-04 | 2022-06-25 |
-| [Cars in the Desert](https://open.spotify.com/track/0EUl8ExEPsPm44z865IYHl) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 2:56 | 2024-06-28 |  |
+| [Cars in the Desert](https://open.spotify.com/track/0EUl8ExEPsPm44z865IYHl) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 2:56 | 2024-06-28 | 2024-07-19 |
 | [Caught Me at a Good Time](https://open.spotify.com/track/1d8vNPCq2S9pIpVuqliraI) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 2:49 | 2022-04-01 | 2023-03-25 |
 | [Celebrants](https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:23 | 2023-03-24 | 2024-03-23 |
 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 | 2021-12-17 | 2022-01-15 |
@@ -471,6 +471,7 @@
 | [Take Me Home](https://open.spotify.com/track/1MLcWGkyKGra0HnG0i25Ao) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/5ybUt3YH4ZbN8fEetQvqQg) | 3:29 | 2023-01-13 | 2023-08-19 |
 | [Take Me Home](https://open.spotify.com/track/5Sd8elg0RhT0r33Ol456Zu) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/6owWwHeRI2yThMhTuB7eCB) | 3:29 | 2022-11-25 | 2023-01-19 |
 | [Tear Drop](https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life & Love](https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO) | 4:12 | 2023-11-17 | 2024-02-03 |
+| [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Tear Us Apart \(From Twisters: The Album\)](https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI) | 2:45 | 2024-07-19 |  |
 | [Tehachapi](https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Tehachapi](https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3) | 3:07 | 2021-12-17 | 2023-04-01 |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [Terrifying Nature](https://open.spotify.com/track/4iMBmVAHtNuPm82ZE375GI) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 4:57 | 2022-04-01 | 2022-04-29 |

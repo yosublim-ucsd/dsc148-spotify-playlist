@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 12896,
+  "num_followers": 12910,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
+        "name": "Before And After Science",
+        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
       },
       "artists": [
         {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
+      "duration_ms": 236239,
+      "name": "King's Lead Hat - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Before And After Science",
-        "url": "https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u"
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
         }
       ],
-      "duration_ms": 236239,
-      "name": "King's Lead Hat - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4kWkthAKzqYgI2tk0iHOqv"
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 787133,
-      "name": "Die lange Gerade",
-      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
+      "duration_ms": 392320,
+      "name": "Tonband Laufspur",
+      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 392320,
-      "name": "Tonband Laufspur",
-      "url": "https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr"
+      "duration_ms": 787133,
+      "name": "Die lange Gerade",
+      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
     }
   ],
   "unique_name": "Krautrock",

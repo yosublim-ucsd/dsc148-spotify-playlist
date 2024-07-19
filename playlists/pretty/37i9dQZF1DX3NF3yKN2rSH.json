@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53192,
+  "num_followers": 53188,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
-      },
-      "artists": [
-        {
-          "name": "Karima",
-          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
-        }
-      ],
-      "duration_ms": 317607,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Blessed By Association",
         "url": "https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 299586,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs"
+      },
+      "artists": [
+        {
+          "name": "Karima",
+          "url": "https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE"
+        }
+      ],
+      "duration_ms": 317607,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1131,22 +1131,18 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Live At Azusa 3",
-        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
       "artists": [
         {
-          "name": "Carlton Pearson",
-          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
-        },
-        {
-          "name": "Beverly Crawford",
-          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 436960,
-      "name": "He Lives - Live",
-      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+        "name": "Live At Azusa 3",
+        "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
       "artists": [
         {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+          "name": "Carlton Pearson",
+          "url": "https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P"
+        },
+        {
+          "name": "Beverly Crawford",
+          "url": "https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M"
         }
       ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+      "duration_ms": 436960,
+      "name": "He Lives - Live",
+      "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Joshua's Troop",
         "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 311546,
       "name": "God Is Not Dead",
       "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Hold Up The Light",
-        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Mass Choir",
-          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "O the Blood",
-      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 307733,
       "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Hold Up The Light",
+        "url": "https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Mass Choir",
+          "url": "https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "O the Blood",
+      "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229753,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6G5FJu3cYMwyPH4cuqU4as"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229753,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/1Ycueu5MMATUueY3aziiFj"
     },
     {
       "added_at": "2024-07-02 01:22:00",

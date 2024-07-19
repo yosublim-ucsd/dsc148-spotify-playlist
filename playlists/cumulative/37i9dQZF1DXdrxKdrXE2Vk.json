@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans</a> and <a href=\"spotify:artist:0cuW2lF0YWb9VUyHOnvnsO\">Jenn Johnson</a>  of Bethel Music",
+  "description": "Experience the best of live worship here. Cover: <a href=\"spotify:artist:5A0SFJQSdSjFHGcndiGT1s\">Planetshakers</a>",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 234874,
       "name": "Age To Age",
       "url": "https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh"
+    },
+    {
+      "album": {
+        "name": "All Because of Mercy (Live at The Ryman)",
+        "url": "https://open.spotify.com/album/53VJA2PxhBoNXZ3vKDivtO"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236051,
+      "name": "All Because of Mercy (Live at The Ryman)",
+      "url": "https://open.spotify.com/track/6JMjhP5hH2RxOSKl6GR4DV"
     },
     {
       "album": {
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246345,
       "name": "Beauty For Ashes - Live At Chapel",
       "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 314535,
       "name": "Bless God - Live From Passion 2024",
       "url": "https://open.spotify.com/track/55891kIDHcEGReUrpD461w"
@@ -2609,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "Hands Of The Healer (Live)",
+        "url": "https://open.spotify.com/album/4fKlvixbyi2sWBqaiJvGCf"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272458,
+      "name": "Hands Of The Healer - Live",
+      "url": "https://open.spotify.com/track/7M3xzmIhe55g7lFjmV4Zja"
+    },
+    {
+      "album": {
         "name": "Land Of The Living",
         "url": "https://open.spotify.com/album/5GPB5HPfsC9UnN6iWjDDpp"
       },
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 417368,
       "name": "Highest Praise - Live",
       "url": "https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz"
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 642837,
       "name": "Holy Forever (Live)",
       "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
@@ -3249,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "I Have A Father (Live)",
+        "url": "https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459430,
+      "name": "I Have A Father - Live",
+      "url": "https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR"
+    },
+    {
+      "album": {
         "name": "Revival: Live At Chapel",
         "url": "https://open.spotify.com/album/2dQovzZv44MX27AIMsTRRW"
       },
@@ -3532,6 +3586,32 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
+    },
+    {
+      "album": {
+        "name": "In You (Live)",
+        "url": "https://open.spotify.com/album/3EFEtAzV6OKU0Cj6BhJM18"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Culture Worship",
+          "url": "https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc"
+        },
+        {
+          "name": "Jessie-Rose Rayner",
+          "url": "https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU"
+        },
+        {
+          "name": "Brett Shaw",
+          "url": "https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513333,
+      "name": "In You - Live",
+      "url": "https://open.spotify.com/track/69iGnsdcWQUbiuKyjaztY5"
     },
     {
       "album": {
@@ -4014,7 +4094,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 461209,
       "name": "Lead Me On - Live",
       "url": "https://open.spotify.com/track/1FlWA9jgMVzj9nn6aAcSZX"
@@ -4494,7 +4574,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 512899,
       "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
       "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
@@ -4865,6 +4945,28 @@
     },
     {
       "album": {
+        "name": "No One Like The Lord (Live)",
+        "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500300,
+      "name": "No One Like The Lord (Live)",
+      "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+    },
+    {
+      "album": {
         "name": "Not By Might",
         "url": "https://open.spotify.com/album/2DLtiW2GI0H6BKGpfdaEH7"
       },
@@ -4910,6 +5012,28 @@
       "duration_ms": 357836,
       "name": "Not Gonna Wait - Live",
       "url": "https://open.spotify.com/track/7DifP5qD58ONBEs0Qy9vtu"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Better (Live)",
+        "url": "https://open.spotify.com/album/4g6qnKdjWzqsK0v1ESSzNY"
+      },
+      "artists": [
+        {
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596730,
+      "name": "Nothing Is Better - Live",
+      "url": "https://open.spotify.com/track/0LFjcJsVtmHEVYeXWxQ8De"
     },
     {
       "album": {
@@ -5358,7 +5482,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 573644,
       "name": "Phantom Limb - Live",
       "url": "https://open.spotify.com/track/6QqXV5barxymCXNsbStupv"
@@ -7327,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Wash Over Me (Live)",
+        "url": "https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469430,
+      "name": "Wash Over Me - Live",
+      "url": "https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS"
+    },
+    {
+      "album": {
         "name": "Live in the Prayer Room",
         "url": "https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd"
       },
@@ -7475,6 +7617,32 @@
     },
     {
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430689,
+      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
+    },
+    {
+      "album": {
         "name": "Who Is This Man (Live)",
         "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
       },
@@ -7490,6 +7658,28 @@
       "duration_ms": 599374,
       "name": "Who Is This Man - Live",
       "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "album": {
+        "name": "Why Not Here? (Live)",
+        "url": "https://open.spotify.com/album/6lY6UsjJWMyVDta6cwLKKS"
+      },
+      "artists": [
+        {
+          "name": "LF Worship",
+          "url": "https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1"
+        },
+        {
+          "name": "Chantal Huybregts",
+          "url": "https://open.spotify.com/artist/7y7KNW2HDLFh5R57v1uYNE"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480676,
+      "name": "Why Not Here? - Live",
+      "url": "https://open.spotify.com/track/4cA3nsFk40wM8zOS856aQL"
     },
     {
       "album": {
@@ -7724,6 +7914,28 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "album": {
+        "name": "You're All I'm After (Live)",
+        "url": "https://open.spotify.com/album/38pdZqUj7YMuTem0YMAtSa"
+      },
+      "artists": [
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337173,
+      "name": "You're All I'm After - Live",
+      "url": "https://open.spotify.com/track/1ehpGnSzHMNUsblmlYGfVq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste en mooiste liedjes van het moment. Cover: DI-RECT",
+  "description": "De mooiste en nieuwste liedjes van het moment. Cover: DI-RECT",
   "name": "Blijf Luisteren!",
   "tracks": [
     {
@@ -398,6 +398,24 @@
       "duration_ms": 210929,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/3ZG2ofDgouMnIcoPT8xgFz"
+    },
+    {
+      "album": {
+        "name": "Angel By My Side",
+        "url": "https://open.spotify.com/album/4wFPcdUu0pljx0iDtvaPOz"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195713,
+      "name": "Angel By My Side",
+      "url": "https://open.spotify.com/track/6FLRq82j1YsKLOQb2XU7g6"
     },
     {
       "album": {
@@ -2185,6 +2203,46 @@
     },
     {
       "album": {
+        "name": "Find A Way (feat. Suli Breaks)",
+        "url": "https://open.spotify.com/album/13sUEb13eZUPZ9Xh8LLODW"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182098,
+      "name": "Find A Way (feat. Suli Breaks)",
+      "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
+    },
+    {
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -2200,6 +2258,24 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191332,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
     },
     {
       "album": {
@@ -2590,7 +2666,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192317,
       "name": "Hammer to the Heart",
       "url": "https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ"
@@ -3630,7 +3706,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234129,
       "name": "It's You Or Me",
       "url": "https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH"
@@ -4724,7 +4800,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 206031,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/3fJ4cLwaHlv9CSnKMf6FsO"
@@ -5966,7 +6042,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172146,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv"
@@ -6655,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Taking My Love Back",
+        "url": "https://open.spotify.com/album/66xNNEPz96RqJIKlw6728p"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "Taking My Love Back",
+      "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+    },
+    {
+      "album": {
         "name": "Tears of the Sun",
         "url": "https://open.spotify.com/album/0hs0T9OK0KqfvjdEu12CJs"
       },
@@ -6774,7 +6868,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226253,
       "name": "That Is You",
       "url": "https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg"

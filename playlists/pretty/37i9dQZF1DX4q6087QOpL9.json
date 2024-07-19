@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 107911,
+  "num_followers": 107961,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/4TZOEyKYoNOU41wGX5WHMl"
-      },
-      "artists": [
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Ziggy Funk",
-          "url": "https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia"
-        },
-        {
-          "name": "Gary Hudgins",
-          "url": "https://open.spotify.com/artist/66I1rqodsNrH6GX4rD5BoW"
-        }
-      ],
-      "duration_ms": 373925,
-      "name": "Don't Be Afraid",
-      "url": "https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Come Into My Room (feat. LT Brown)",
         "url": "https://open.spotify.com/album/5WrmnglLTGjjsLvI1Sn0pa"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 468613,
       "name": "Come Into My Room (feat. LT Brown) - Take It Back Mix",
       "url": "https://open.spotify.com/track/2jinUjEUJEkE7g8MMHy2jp"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/4TZOEyKYoNOU41wGX5WHMl"
+      },
+      "artists": [
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Ziggy Funk",
+          "url": "https://open.spotify.com/artist/0UxVmzj48CkaBKISsYF9Ia"
+        },
+        {
+          "name": "Gary Hudgins",
+          "url": "https://open.spotify.com/artist/66I1rqodsNrH6GX4rD5BoW"
+        }
+      ],
+      "duration_ms": 373925,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 560292,
       "name": "Complicated - Raw Artistic Soul Vocal Dub",
       "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "AWA",
-        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Monica Blaire",
-          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "AWA - Ralf GUM Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Welcome Aboard",
         "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "AWA",
+        "url": "https://open.spotify.com/album/28e7SX68Y9jGYw8Pbj0AIe"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Monica Blaire",
+          "url": "https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "AWA - Ralf GUM Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Set Me Free - Remixes",
         "url": "https://open.spotify.com/album/5bh6uUNIySnxJCbdBTUwKV"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "He Is The Joy",
-        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
-      },
-      "artists": [
-        {
-          "name": "Donna Allen",
-          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
-        },
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
-        }
-      ],
-      "duration_ms": 546000,
-      "name": "He Is The Joy - U.B.P. Classic Mix",
-      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1031,6 +1011,26 @@
       "duration_ms": 377069,
       "name": "New Things (Eric Kupper Remix)",
       "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "He Is The Joy",
+        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
+      },
+      "artists": [
+        {
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        }
+      ],
+      "duration_ms": 546000,
+      "name": "He Is The Joy - U.B.P. Classic Mix",
+      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "duration_ms": 606093,
+      "name": "See-Line Woman - Masters At Work Remix",
+      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/6xPWnFY8JLx6HNWZcy8LAr"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 263362,
       "name": "Finally",
       "url": "https://open.spotify.com/track/4lmtHDLarcPEqhlL9EZKCC"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
-        }
-      ],
-      "duration_ms": 606093,
-      "name": "See-Line Woman - Masters At Work Remix",
-      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        }
-      ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Testify (Urban Blues Project present Jay Williams)",
         "url": "https://open.spotify.com/album/162yn9UxDQfAM1w8CNaYrH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 509237,
       "name": "Testify (Urban Blues Project present Jay Williams) - The U.B.P. Sunday Vocal",
       "url": "https://open.spotify.com/track/3yhzQOEmEKRYQ0Vd9MraHD"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        }
+      ],
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2187,30 +2187,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "BACK TO BASIC",
-        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
-      },
-      "artists": [
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        },
-        {
-          "name": "Orlando Voorn",
-          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 405301,
-      "name": "BACK TO BASIC - Soul Clap groove remix",
-      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "TIME AFTER TIME",
         "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
       },
@@ -2251,22 +2227,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Sentindo Muito Bem",
-        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
+        "name": "BACK TO BASIC",
+        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
       },
       "artists": [
         {
-          "name": "Peter Mac",
-          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
         },
         {
-          "name": "Lalo Leyy",
-          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        },
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
         }
       ],
-      "duration_ms": 435306,
-      "name": "Sentindo Muito Bem - Original Mix",
-      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
+      "duration_ms": 405301,
+      "name": "BACK TO BASIC - Soul Clap groove remix",
+      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2295,6 +2275,26 @@
       "duration_ms": 212151,
       "name": "Your Heaven (I Can Feel It) [feat. Pearl Mae] - Micky More & Andy Tee Remix",
       "url": "https://open.spotify.com/track/1G8PgtgyZYWyqugtGn5FMM"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Sentindo Muito Bem",
+        "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Lalo Leyy",
+          "url": "https://open.spotify.com/artist/2cGCehXhlgeYfZH9bj1wZJ"
+        }
+      ],
+      "duration_ms": 435306,
+      "name": "Sentindo Muito Bem - Original Mix",
+      "url": "https://open.spotify.com/track/0TO9ClnPbTTo3S0CkyE0YQ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Betcha Wouldn't Hurt Me",
-        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
-      },
-      "artists": [
-        {
-          "name": "Teddy Douglas",
-          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
-        },
-        {
-          "name": "Sharon Brown Adams",
-          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
-        }
-      ],
-      "duration_ms": 350431,
-      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
-      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        },
+        {
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
+        }
+      ],
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2523,6 +2523,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
+      },
+      "artists": [
+        {
+          "name": "Two Lee",
+          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "duration_ms": 302950,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
         "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
         "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
       },
@@ -2571,22 +2591,22 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
       "artists": [
         {
-          "name": "Two Lee",
-          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
         },
         {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
         }
       ],
-      "duration_ms": 302950,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2607,26 +2627,6 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
-      },
-      "artists": [
-        {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
-        },
-        {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
-        }
-      ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2667,30 +2667,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "African Spirits / Tribes (Fred P Interpretation)",
-        "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Conte",
-          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
-        },
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        },
-        {
-          "name": "Fred P",
-          "url": "https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz"
-        }
-      ],
-      "duration_ms": 718048,
-      "name": "African Spirits - Fred P Interpretation",
-      "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
         "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
       },
@@ -2711,6 +2687,30 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "African Spirits / Tribes (Fred P Interpretation)",
+        "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        },
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Fred P",
+          "url": "https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz"
+        }
+      ],
+      "duration_ms": 718048,
+      "name": "African Spirits - Fred P Interpretation",
+      "url": "https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2887,26 +2887,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Essential Beats, Vol.9",
-        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
-      },
-      "artists": [
-        {
-          "name": "Phil Weeks",
-          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
-        },
-        {
-          "name": "Ladybird",
-          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
-        }
-      ],
-      "duration_ms": 380020,
-      "name": "Love Come Down - Main Mix",
-      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "Finesse Me",
         "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
       },
@@ -2923,6 +2903,26 @@
       "duration_ms": 296347,
       "name": "Finesse Me - Ancestral Soul Mix",
       "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Essential Beats, Vol.9",
+        "url": "https://open.spotify.com/album/2ei557S2aPyPih7ov1JhGV"
+      },
+      "artists": [
+        {
+          "name": "Phil Weeks",
+          "url": "https://open.spotify.com/artist/0ruxrxTRHzfO8KsLLNPNkK"
+        },
+        {
+          "name": "Ladybird",
+          "url": "https://open.spotify.com/artist/1nXlbKMRiXyiI6Rg1wnDOZ"
+        }
+      ],
+      "duration_ms": 380020,
+      "name": "Love Come Down - Main Mix",
+      "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -2947,30 +2947,6 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
-      },
-      "artists": [
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        },
-        {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Beautiful - John Beltran Remix",
-      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
         "name": "This Place",
         "url": "https://open.spotify.com/album/3ARLZdIYzM4HRVeC7e2x1G"
       },
@@ -2991,26 +2967,26 @@
     {
       "added_at": "2024-07-11 22:00:00",
       "album": {
-        "name": "Upside (Bugz Upside Mix Edit)",
-        "url": "https://open.spotify.com/album/3Oz8Ws4p3g5jER7sP3ZSrB"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
       },
       "artists": [
         {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
         },
         {
-          "name": "Darien Dean",
-          "url": "https://open.spotify.com/artist/1y4iouAQTN7juTUELlUp9V"
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
         },
         {
-          "name": "Bugz in the Attic",
-          "url": "https://open.spotify.com/artist/3UbnYRfDPL3L74oFrJJxxv"
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
         }
       ],
-      "duration_ms": 195468,
-      "name": "Upside - Bugz Upside Mix Edit",
-      "url": "https://open.spotify.com/track/6EMTsLVajVq0Emr450Xsbh"
+      "duration_ms": 328000,
+      "name": "Beautiful - John Beltran Remix",
+      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -3051,6 +3027,30 @@
       "duration_ms": 530459,
       "name": "Crossroads - Vocal Mix",
       "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "Upside (Bugz Upside Mix Edit)",
+        "url": "https://open.spotify.com/album/3Oz8Ws4p3g5jER7sP3ZSrB"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Darien Dean",
+          "url": "https://open.spotify.com/artist/1y4iouAQTN7juTUELlUp9V"
+        },
+        {
+          "name": "Bugz in the Attic",
+          "url": "https://open.spotify.com/artist/3UbnYRfDPL3L74oFrJJxxv"
+        }
+      ],
+      "duration_ms": 195468,
+      "name": "Upside - Bugz Upside Mix Edit",
+      "url": "https://open.spotify.com/track/6EMTsLVajVq0Emr450Xsbh"
     },
     {
       "added_at": "2024-07-11 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 52021,
+  "num_followers": 52081,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 197466,
       "name": "Lookin' Good",
       "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "For Collectors Only (The Wham Of That Memphis Man)",
-        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Mack",
-          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
-        }
-      ],
-      "duration_ms": 132333,
-      "name": "Wham!",
-      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Second Album",
         "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205400,
       "name": "Tribute To Elmore James",
       "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "For Collectors Only (The Wham Of That Memphis Man)",
+        "url": "https://open.spotify.com/album/5tgQYUZW6IHoi2VvP3yW7v"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "duration_ms": 132333,
+      "name": "Wham!",
+      "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Music For Mad Men - Robust Blues",
-        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Jukebox Shuffle",
-      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 340840,
       "name": "Dockside Boogie",
       "url": "https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Music For Mad Men - Robust Blues",
+        "url": "https://open.spotify.com/album/2L1bV6IHXipTrOZTpOjgbg"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 139413,
+      "name": "Jukebox Shuffle",
+      "url": "https://open.spotify.com/track/1jiLso73owUVS8cmwwShsf"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "R&B From The Marquee",
-        "url": "https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na"
+        "name": "Hall of Fame Shuffle",
+        "url": "https://open.spotify.com/album/7EqM9a5tlgUvB78GYdl7GS"
       },
       "artists": [
         {
-          "name": "Alexis Korner",
-          "url": "https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe"
+          "name": "David Henriksson & Daze Delight",
+          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/0lre3EEoygX3PQ0Qi7dDbD"
+      "duration_ms": 327874,
+      "name": "Hall of Fame Shuffle",
+      "url": "https://open.spotify.com/track/5ACkIkSkjFnniug7zSJo0l"
     }
   ],
   "unique_name": "Classic Instrumental Blues",

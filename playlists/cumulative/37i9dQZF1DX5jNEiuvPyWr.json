@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Karmen",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -3341,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "Anh\u00e9donie",
+        "url": "https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154053,
+      "name": "Itachi",
+      "url": "https://open.spotify.com/track/1kfzYfhmlpLp2I0512rb1t"
+    },
+    {
+      "album": {
         "name": "Stratos",
         "url": "https://open.spotify.com/album/5YyOGFt8KINACLGIzXRfdL"
       },
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166230,
       "name": "MBK",
       "url": "https://open.spotify.com/track/7DX6YyPd39LPiWQMlSaFdg"
@@ -5400,6 +5418,24 @@
       "duration_ms": 178466,
       "name": "PARADIS",
       "url": "https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U"
+    },
+    {
+      "album": {
+        "name": "BODY THERAPY",
+        "url": "https://open.spotify.com/album/6GQvWsy7OV3jIJBwsim9ZF"
+      },
+      "artists": [
+        {
+          "name": "JaySoCold",
+          "url": "https://open.spotify.com/artist/4HH0q0eB1ANsFsLZ1gqn5F"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154343,
+      "name": "PARADIS",
+      "url": "https://open.spotify.com/track/25YyTKgVsaUjRBMLvCP9Rx"
     },
     {
       "album": {
@@ -7782,7 +7818,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165093,
       "name": "\u00c9cran Bleu",
       "url": "https://open.spotify.com/track/3K4ojcg6t3rWDYjBPUz2JN"

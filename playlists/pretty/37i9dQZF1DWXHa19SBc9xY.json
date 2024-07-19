@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 95606,
+  "num_followers": 95659,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -607,8 +607,8 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 209339,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Bem Me Queira",
         "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 145377,
       "name": "Bem Me Queira",
       "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -735,8 +735,8 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+      "duration_ms": 209339,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "De Toda M\u00e3e",
-      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Sou Daqui",
         "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Manh\u00e3",
-        "url": "https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga"
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
       },
       "artists": [
         {
-          "name": "Ceano",
-          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 182680,
-      "name": "Manh\u00e3",
-      "url": "https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB"
+      "duration_ms": 225400,
+      "name": "De Toda M\u00e3e",
+      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1175,6 +1159,22 @@
       "duration_ms": 271728,
       "name": "Praia do Flamengo",
       "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Manh\u00e3",
+        "url": "https://open.spotify.com/album/7KeOzMbG53zD6klOJ9Ezga"
+      },
+      "artists": [
+        {
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Manh\u00e3",
+      "url": "https://open.spotify.com/track/4Xi1snyepODSQMlDSkm3DB"
     },
     {
       "added_at": "2023-11-24 08:42:40",

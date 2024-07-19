@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-140 songs - 6 hr 13 min
+141 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hot Pants](https://open.spotify.com/track/6cE5GBigwh7Zh7PElZpU7j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:52 | 2022-05-29 |  |
 | [In The Clouds](https://open.spotify.com/track/4DwjPKXBx1HmHSIEbr2y25) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 5:29 | 2022-05-29 | 2024-02-19 |
 | [Inn On The Park](https://open.spotify.com/track/7K9mlc90M2kkil6WkgaQXC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:45 | 2024-02-29 |  |
+| [Jukebox](https://open.spotify.com/track/6IoSzAlalRp9HV01CBHMnO) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:02 | 2024-07-19 |  |
 | [Laura](https://open.spotify.com/track/1xm6n05NR02rGfhPXdbmS2) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Laura](https://open.spotify.com/album/7nG2Idce7vm6pBdxp2eEA1) | 4:00 | 2022-06-12 |  |
 | [Laura](https://open.spotify.com/track/3qXrULeeC4rtod2ZiFbKLn) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Shuttlecraft / Laura](https://open.spotify.com/album/5nJNV4whcSTPS2kzvOWADy) | 4:00 | 2023-08-27 | 2023-10-11 |
 | [Lazy Evening Blues](https://open.spotify.com/track/1TRD0G4Fbm9Q4PkRO2awXu) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 4:38 | 2022-05-29 |  |
@@ -122,7 +123,7 @@
 | [Speed Speed Speed](https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:17 | 2022-05-31 | 2022-08-23 |
 | [Sports News](https://open.spotify.com/track/5Yppk7qYxYgsBVk7Ip0sXa) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Live Action](https://open.spotify.com/album/0aK3l7mzwVJOHvdQGqm9I2) | 1:40 | 2023-09-21 | 2023-10-11 |
 | [Sportsworld](https://open.spotify.com/track/44YEssSEcZpd8ajr9XON8z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Highlights](https://open.spotify.com/album/53lRdtLiHz3eDyVi5OXhCk) | 1:53 | 2022-11-11 | 2022-11-17 |
-| [Start the Day Right](https://open.spotify.com/track/11meuCaBrrSMh9vh0g5RGn) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:56 | 2024-07-05 |  |
+| [Start the Day Right](https://open.spotify.com/track/11meuCaBrrSMh9vh0g5RGn) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:56 | 2024-07-05 | 2024-07-19 |
 | [Straight Up](https://open.spotify.com/track/0CeWU1DDY60KBW6GQQvMwX) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:01 | 2023-01-31 | 2023-03-06 |
 | [Strangelands](https://open.spotify.com/track/4EZF2uDziv2o3mgl1Z8Itu) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:23 | 2022-05-29 | 2022-10-14 |
 | [Studio 69](https://open.spotify.com/track/2hETyXkSvWidMCtUAd5xFZ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:54 | 2022-05-29 |  |

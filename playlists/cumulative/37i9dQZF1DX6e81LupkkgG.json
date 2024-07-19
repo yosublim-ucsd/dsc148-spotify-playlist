@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+    },
+    {
+      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
@@ -1296,6 +1314,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "Even Bossa If I Have To",
+        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151676,
+      "name": "Even Bossa If I Have To",
+      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
     },
     {
       "album": {
@@ -3900,7 +3936,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 154888,
       "name": "Saudade Dura (Ao Vivo)",
       "url": "https://open.spotify.com/track/7pBvW8GDTlkqOf4my2tXR5"

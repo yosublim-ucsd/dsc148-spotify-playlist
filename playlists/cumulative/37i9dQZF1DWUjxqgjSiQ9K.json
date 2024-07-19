@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Miel San Marcos</a> y <a href=\"spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj\">Matthew West</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:7zpvy5B9gb5KprNUzNCOEE\">Marco Barrientos</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210202,
       "name": "dIOS",
       "url": "https://open.spotify.com/track/6HcHD2UTjXUKrVT9oynGKj"
@@ -3861,6 +3861,28 @@
     },
     {
       "album": {
+        "name": "El Gran Yo Soy",
+        "url": "https://open.spotify.com/album/0Uy3yk6og0RGLLBpj5Dcpz"
+      },
+      "artists": [
+        {
+          "name": "LUISFER",
+          "url": "https://open.spotify.com/artist/3UDUwxXkYG6a6drtZm4CUN"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298392,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/6O3dQWh8Hm2e824yOizPN9"
+    },
+    {
+      "album": {
         "name": "El Justo Vivir\u00e1 Por Fe",
         "url": "https://open.spotify.com/album/434bFVfYutpT3PknlXQudX"
       },
@@ -4300,6 +4322,28 @@
       "duration_ms": 240700,
       "name": "Enfocao'",
       "url": "https://open.spotify.com/track/0N4DWBGSIZX2roMfhmM9EW"
+    },
+    {
+      "album": {
+        "name": "Entregado",
+        "url": "https://open.spotify.com/album/5GsuAx3fhxntTooOrf2fkL"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305591,
+      "name": "Entregado",
+      "url": "https://open.spotify.com/track/6BmeJq8UwA4gq8XHhALRx9"
     },
     {
       "album": {
@@ -9212,7 +9256,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 142527,
       "name": "QUE TIENE DE MALO",
       "url": "https://open.spotify.com/track/2XkZoV77TGMaAF8IR5w4I4"
@@ -9328,7 +9372,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 247300,
       "name": "Radikal 60",
       "url": "https://open.spotify.com/track/3R3sYduPzyhzsTDaV15wNs"
@@ -10809,6 +10853,24 @@
     },
     {
       "album": {
+        "name": "Tan Tan Bueno",
+        "url": "https://open.spotify.com/album/24WMh1cv0pHkXDybeLznOM"
+      },
+      "artists": [
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448191,
+      "name": "Tan Tan Bueno",
+      "url": "https://open.spotify.com/track/4t7XGKYW4GX0QGyizFfSCr"
+    },
+    {
+      "album": {
         "name": "Stories On Stories",
         "url": "https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr"
       },
@@ -11944,7 +12006,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160500,
       "name": "Ven Jes\u00fas Descansa en Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0y5WdnyHbaPjMJBh4dfBCE"
@@ -12548,6 +12610,24 @@
       "duration_ms": 515314,
       "name": "Yo Soy Tu Amado",
       "url": "https://open.spotify.com/track/30NS04CDhzMIsn44oKPthN"
+    },
+    {
+      "album": {
+        "name": "Yo S\u00e9",
+        "url": "https://open.spotify.com/album/74EUTNdOPx0p2SzRPU8Fyr"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339188,
+      "name": "Yo S\u00e9",
+      "url": "https://open.spotify.com/track/2ZCXr629bVtxp07tVnZqmp"
     },
     {
       "album": {

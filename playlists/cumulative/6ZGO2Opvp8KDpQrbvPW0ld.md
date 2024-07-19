@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-1,848 songs - 2 day 18 hr 19 min
+1,849 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -926,6 +926,7 @@
 | [Lowrider](https://open.spotify.com/track/0OeK74yQIXk9ClT8nq10mB) | [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Lowrider](https://open.spotify.com/album/1NpPNiroY3En3Gav767Swf) | 1:38 | 2024-06-28 |  |
 | [lowtek](https://open.spotify.com/track/4ctGKgNlu4FEBiIuhHzyO1) | [Wunchieff](https://open.spotify.com/artist/0gc4vQwFCT9f5LHXUg2pny), [Insert Records](https://open.spotify.com/artist/1tloaYME8rkrFmZFJLnP9F) | [lowtek](https://open.spotify.com/album/5zm00s5jUFYnkQdr9LBcY1) | 1:30 | 2024-02-22 | 2024-03-23 |
 | [Luckier](https://open.spotify.com/track/3kmtfPYj7VekGQL6qMYEBB) | [Socrab](https://open.spotify.com/artist/7zAOggQGCRZo03b0cTR3NB) | [Luckier](https://open.spotify.com/album/1XRArd1H42P3sm5WYpVDdT) | 2:09 | 2024-04-11 | 2024-05-11 |
+| [Lujon](https://open.spotify.com/track/6ooyTty4yHzL2f1Hr9YlC5) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonah Levine](https://open.spotify.com/artist/6vxgrId7a6ka8D3ER0jM7f), [time•bender](https://open.spotify.com/artist/6qIUYmncPK2TENhyv7iMVU) | [Lujon](https://open.spotify.com/album/2moVWrq7zhCol407CnCOTG) | 3:01 | 2024-07-18 |  |
 | [Lullaby for a Broken Heart](https://open.spotify.com/track/4YJmTjbX1h4MKDcFwyqQaU) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Lullaby For A Broken Heart](https://open.spotify.com/album/5k94L0YBkP1Lt1UZyFCkBB) | 2:47 | 2024-06-28 | 2024-07-11 |
 | [lullaby of the leaves](https://open.spotify.com/track/0mDEYqvrHNLoL9R4I4FJJ1) | [lazyymii](https://open.spotify.com/artist/1KltShvhgVoF8auxETfs2U) | [lullaby of the leaves](https://open.spotify.com/album/0wQ5jQkscd2pW9IIyscYxF) | 1:58 | 2024-06-28 | 2024-07-11 |
 | [Luna](https://open.spotify.com/track/1oT7cBNEHd5eIlH7C4qOiM) | [hotpotatoes](https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG) | [Luna](https://open.spotify.com/album/4MDiDwdQTwoxAglLdcpzW0) | 1:36 | 2024-04-25 | 2024-05-11 |
@@ -1597,7 +1598,7 @@
 | [Surfside](https://open.spotify.com/track/5HY2hMhcXEm5REbKMM9omy) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Surfside](https://open.spotify.com/album/6f8yvQrPBI44BuJrqXYbrd) | 2:33 | 2023-12-07 | 2023-12-21 |
 | [suspended in a sunbeam](https://open.spotify.com/track/0AGo84LAsKu1EOs85mfIdQ) | [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [suspended in a sunbeam](https://open.spotify.com/album/1ZX3N6vLrqou8GTZKX9gra) | 2:19 | 2023-12-07 | 2023-12-16 |
 | [sweater](https://open.spotify.com/track/3g7shtVX5MZgUcvuyIW3wc) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Insert Records](https://open.spotify.com/artist/1tloaYME8rkrFmZFJLnP9F) | [sweater](https://open.spotify.com/album/04MDyIgf9ekC21cGSHI7uf) | 1:35 | 2024-02-22 | 2024-03-23 |
-| [Swing Jazz](https://open.spotify.com/track/7r9DU73qATwGrme0yYnOBd) | [Didi Crazzz](https://open.spotify.com/artist/2UjVzxPZeJWcuqo5ylz9Tl) | [Swing Jazz](https://open.spotify.com/album/7IMPeYIN7ejwCPc0MZWqTX) | 2:07 | 2024-06-28 |  |
+| [Swing Jazz](https://open.spotify.com/track/7r9DU73qATwGrme0yYnOBd) | [Didi Crazzz](https://open.spotify.com/artist/2UjVzxPZeJWcuqo5ylz9Tl) | [Swing Jazz](https://open.spotify.com/album/7IMPeYIN7ejwCPc0MZWqTX) | 2:07 | 2024-06-28 | 2024-07-19 |
 | [Synaesthesia](https://open.spotify.com/track/6XEXZgctFxQKsI2zw2es2M) | [Lost Tribe Music](https://open.spotify.com/artist/5sglD419vlwVWrVMqzYvvT), [Beatmology](https://open.spotify.com/artist/371X0EF8wqSvR4g8bZf0p9) | [Synaesthesia](https://open.spotify.com/album/0dvKfCLdMMihnH9M3m3TLM) | 2:15 | 2024-04-17 | 2024-05-18 |
 | [Syncronous](https://open.spotify.com/track/719CuN4GstW7RACEfz0cdH) | [Su\-Zuum](https://open.spotify.com/artist/1jgIcbT7B7K8JJIXtrpzLb) | [Syncronous](https://open.spotify.com/album/57Fv97P5QGC0VUl8VXhnOC) | 1:43 | 2024-05-02 | 2024-06-08 |
 | [Synthesis](https://open.spotify.com/track/1De9R0GCfNMELVuyPcLKGg) | [mndbd](https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci) | [Autonomous Agent](https://open.spotify.com/album/7rgxj3dVaWCuoK0YGeKP60) | 1:58 | 2023-12-15 | 2024-01-24 |

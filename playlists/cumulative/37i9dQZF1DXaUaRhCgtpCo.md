@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-155 songs - 8 hr 27 min
+156 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [The Moisture Farm \- From "Star Wars: A New Hope"](https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Sampler](https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c) | 2:25 | 2022-06-28 |  |
 | [The Ninth Jedi \- Prologue](https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 2:07 | 2021-10-14 |  |
 | [The Noodle Shop Fight](https://open.spotify.com/track/5L0uMqtvUX2v4cSOzz109G) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \- Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/1B035XnkYbQd223wGi1bgU) | 4:13 | 2024-07-10 |  |
+| [The Power of Many / End Title](https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \(Original Soundtrack\)](https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW) | 3:16 | 2024-07-19 |  |
 | [The Rebellion Is Reborn](https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:59 | 2021-05-14 |  |
 | [The Return of the Jedi](https://open.spotify.com/track/3TDxntdbGLgwRpCuquaBb4) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Return of the Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx) | 5:03 | 2024-05-03 |  |
 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 | 2021-05-14 |  |

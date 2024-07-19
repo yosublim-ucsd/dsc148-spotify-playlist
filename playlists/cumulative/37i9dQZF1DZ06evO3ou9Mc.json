@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This Is The Offspring. Los temas esenciales, todos en una lista.",
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
   "name": "This Is The Offspring",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234666,
       "name": "I Choose",
       "url": "https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 210786,
       "name": "We Never Have Sex Anymore",
       "url": "https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"

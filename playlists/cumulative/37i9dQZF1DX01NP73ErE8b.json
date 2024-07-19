@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani del momento! Alessandra Amoroso e BigMama in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Elodie",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153286,
       "name": "Dea Saffica",
       "url": "https://open.spotify.com/track/6Fm3dU9ZwAliTadrs8HBzL"
@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Le Cose",
+        "url": "https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156407,
+      "name": "Le Cose",
+      "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "album": {
         "name": "LOVE U / HATE U",
         "url": "https://open.spotify.com/album/0Tu7GjmRagzlelhnLXLtZz"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160291,
       "name": "Non ci penso",
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
@@ -854,6 +872,24 @@
       "duration_ms": 148571,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "album": {
+        "name": "PASSIONE",
+        "url": "https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K"
+      },
+      "artists": [
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163308,
+      "name": "PASSIONE",
+      "url": "https://open.spotify.com/track/6aV7Bwv6WKxTIBxCpZmVBz"
     },
     {
       "album": {
@@ -1098,7 +1134,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184000,
       "name": "T'aggio fatto ved\u00e8",
       "url": "https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM"
@@ -1160,6 +1196,32 @@
       "duration_ms": 184333,
       "name": "uguale a me (feat. Marco Mengoni)",
       "url": "https://open.spotify.com/track/3eabpzStQsPOmhcrUjVkNq"
+    },
+    {
+      "album": {
+        "name": "Una Notte",
+        "url": "https://open.spotify.com/album/5fFQVaWtOUtqKKMkcWYa2S"
+      },
+      "artists": [
+        {
+          "name": "Achille G",
+          "url": "https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Baby K",
+          "url": "https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "Una Notte",
+      "url": "https://open.spotify.com/track/69jWbZWK29hyhmgxz4PLyJ"
     },
     {
       "album": {

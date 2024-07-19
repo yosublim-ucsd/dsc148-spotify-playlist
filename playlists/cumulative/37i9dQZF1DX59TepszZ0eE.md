@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=CtHImU\_HR3aNPd5uZmAMUQ>Lebo Sekgobela</a>
 
-293 songs - 1 day 6 hr 6 min
+294 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Holy \(Most High\)](https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 4:13 | 2024-01-12 |  |
 | [I Love You Jesus](https://open.spotify.com/track/19t91jklcPLCHYLW0kCRPd) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Give Thanks](https://open.spotify.com/album/4UmNz5luJyOPEa7twLwoXY) | 9:31 | 2022-05-19 | 2023-03-18 |
 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 | 2023-09-29 | 2024-02-02 |
+| [Igazi lemihlatshelo \(Laphala Igazi\) \- Medley 7](https://open.spotify.com/track/1SFpGDXdCJ31MamRb7bIdU) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Igazi lemihlatshelo \(Laphala Igazi\) \[Medley 7\]](https://open.spotify.com/album/5KqNkpqXXPlX3iLC2edmTk) | 5:44 | 2024-07-19 |  |
 | [ikhwezi \- Live at Covenant House / 2023](https://open.spotify.com/track/3orFXQMpJxy5Z2MRQONBA7) | [Khana Mhlongo](https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj) | [iKhwezi \(Live at Covenant House / 2023\)](https://open.spotify.com/album/33XuMBMDf2vf7GOrcP0sTP) | 4:47 | 2024-07-12 |  |
 | [Imisebenzi Yakho](https://open.spotify.com/track/2fNijmMXShZ4ns3DpgPOFG) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship](https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz) | 5:07 | 2023-04-11 | 2023-06-09 |
 | [IMTHANDAZO YAMI](https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4) | [Lungelo Hlongwane](https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv) | [IMTHANDAZO YAMI](https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY) | 5:16 | 2023-11-24 | 2024-05-10 |

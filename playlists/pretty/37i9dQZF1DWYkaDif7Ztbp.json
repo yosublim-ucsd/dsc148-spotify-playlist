@@ -1,12 +1,12 @@
 {
   "description": "The tracks heating up the continent right now!  Cover:  <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=fhZXiUDrTk6UwWtdirsRZA\">Rema</a>",
-  "num_followers": 1606606,
+  "num_followers": 1607067,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAACoAX/0ujP+7jE42Usvkbq/",
+  "snapshot_id": "ZpoPWgAAAABL6uq/S1EgvOO5DmddMo88",
   "tracks": [
     {
       "added_at": "2024-07-12 00:01:00",
@@ -261,6 +261,30 @@
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
+      "added_at": "2024-07-19 07:01:46",
+      "album": {
+        "name": "Alusa Why Are You Topless? (Deluxe)",
+        "url": "https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW"
+        },
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr"
+    },
+    {
       "added_at": "2024-07-12 00:01:00",
       "album": {
         "name": "Commas",
@@ -391,26 +415,6 @@
       "duration_ms": 136132,
       "name": "Egwu",
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
-    },
-    {
-      "added_at": "2024-07-12 00:01:00",
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": "2024-07-12 00:01:00",

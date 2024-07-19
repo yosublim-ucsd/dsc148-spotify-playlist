@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Megan Moroney
+> Today's top country hits\. Cover: Koe Wetzel
 
-791 songs - 1 day 18 hr 43 min
+793 songs - 1 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Anybody But You](https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:05 | 2024-01-05 | 2024-04-06 |
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 | 2019-08-24 | 2020-06-21 |
+| [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2024-07-19 |  |
 | [At the End of a Bar](https://open.spotify.com/track/2NYOqKy4VX6dqVtzrv1Cx9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 3:06 | 2021-08-07 | 2022-02-19 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-29 | 2024-04-19 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-08 |  |
@@ -449,6 +450,7 @@
 | [Man Made](https://open.spotify.com/track/1WHUSiJSNgGxi9YGS1J4xe) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things, Vol\. 2](https://open.spotify.com/album/18pN6ovdqBSdM3R8SVnlTe) | 3:13 | 2020-11-27 | 2020-12-06 |
 | [Man Made A Bar \(feat\. Eric Church\)](https://open.spotify.com/track/73zawW1ttszLRgT9By826D) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:11 | 2023-11-09 | 2024-04-19 |
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2020-11-10 | 2021-01-16 |
+| [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 | 2024-07-19 |  |
 | [Me About Me](https://open.spotify.com/track/7F0fPQWt7E2jjreRSZOdna) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Me About Me](https://open.spotify.com/album/7c4rtMfqOp3DV8wvEhPRRT) | 2:46 | 2020-07-25 | 2020-11-22 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-07-15 | 2022-10-29 |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2020-11-07 | 2021-07-17 |
@@ -560,7 +562,7 @@
 | [Refrigerator Door](https://open.spotify.com/track/1b0YOwtdW5ibaAhHEsbdjB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:24 | 2019-07-13 | 2019-10-12 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-06-02 | 2023-11-25 |
 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-05-05 | 2023-06-07 |
-| [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-14 |  |
+| [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-14 | 2024-07-19 |
 | [Remember You Young](https://open.spotify.com/track/3LK6wDkhbTyg8GhJidU9oC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:00 | 2019-09-08 | 2020-01-13 |
 | [Ridin' Roads](https://open.spotify.com/track/5OBtr92M0xsvOGqpnz3LzW) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Ridin' Roads](https://open.spotify.com/album/5k9qdzeVjlGweGxnb4cnGd) | 3:25 | 2019-05-26\* | 2020-04-04 |
 | [Right Now](https://open.spotify.com/track/27SEGAFBjr1CsjLcUu0Z4f) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:55 | 2021-02-18 | 2021-03-27 |
@@ -599,7 +601,7 @@
 | [Slow Down Summer](https://open.spotify.com/track/1fff5nZGyRJtFLkOrSSwOU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Slow Down Summer](https://open.spotify.com/album/6uWWkRv3qKdFcFyayL1Vw4) | 3:36 | 2021-11-06 | 2022-06-18 |
 | [Small Town Girl](https://open.spotify.com/track/2QCebkoOldG3sCKxBEX881) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [Small Town Girl](https://open.spotify.com/album/5nQeZ867pdGi93dPUmN7js) | 2:58 | 2019-10-19 | 2019-12-21 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 | 2021-04-24 | 2021-07-24 |
-| [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-22 |  |
+| [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 | 2024-03-22 | 2024-07-19 |
 | [Some Girls](https://open.spotify.com/track/54eUv9Q3D9MZuOGS5PSflp) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Jameson Rodgers](https://open.spotify.com/album/52tL6ea7pvC3qgZCMPQAa5) | 3:04 | 2020-08-15 | 2020-11-03 |
 | [Some Of It](https://open.spotify.com/track/3d1qN7AHge6BXuVPutcpI5) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 3:15 | 2019-05-26\* | 2019-08-13 |
 | [Somebody Ain't You](https://open.spotify.com/track/5atcLAbdW7d6BOui2DDI9z) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 2:57 | 2019-08-31 | 2020-02-22 |

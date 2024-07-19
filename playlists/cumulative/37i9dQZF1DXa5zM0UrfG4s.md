@@ -4,7 +4,7 @@
 
 > blir det en hvit sommer?
 
-368 songs - 16 hr 51 min
+369 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-30 |  |
 | [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 | 2023-09-22 |
 | [Bygda Vår](https://open.spotify.com/track/7yhjOBAgtIExnt9uRRmgiO) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygda Vår](https://open.spotify.com/album/62WlPC9vdBQV8zjE4HdiJP) | 4:06 | 2023-09-13 | 2023-09-22 |
-| [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 |  |
+| [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 | 2024-07-19 |
 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 |  |
 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 | 2021-12-16 | 2024-04-26 |
 | [Bøgda \- Remix](https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda \(Remix\)](https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7) | 2:51 | 2024-04-04 | 2024-07-17 |
@@ -316,6 +316,7 @@
 | [Sommar i hardangerfjord](https://open.spotify.com/track/58fywUsgOwg80CV71OrJrO) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Sommar i hardangerfjord](https://open.spotify.com/album/1xaOuqjb9QvqhM3DpOidxD) | 3:22 | 2022-01-27 | 2022-04-21 |
 | [Sova när vi dör](https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Sova när vi dör](https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo) | 3:25 | 2021-12-16 | 2022-10-16 |
 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 | 2022-03-24 | 2024-02-09 |
+| [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 | 2024-07-18 |  |
 | [Supa](https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Supa](https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG) | 2:52 | 2021-12-16 | 2024-04-22 |
 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 | 2021-12-16 |  |
 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 | 2021-12-16 | 2022-11-16 |

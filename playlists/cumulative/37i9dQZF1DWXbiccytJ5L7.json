@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "SHOOT THE LOCK",
+        "url": "https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161761,
+      "name": "SHOOT THE LOCK",
+      "url": "https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT"
+    },
+    {
+      "album": {
         "name": "Shot Me Alive",
         "url": "https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9"
       },

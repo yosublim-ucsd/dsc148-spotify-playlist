@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits 1994 - 2004",
+        "url": "https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz"
+      },
+      "artists": [
+        {
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
+    },
+    {
+      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
       },
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"

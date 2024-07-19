@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-81 songs - 5 hr 15 min
+82 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,9 @@
 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 | 2023-06-23 |  |
 | [Estou no Controle](https://open.spotify.com/track/1WDXhve7KOKXp38Sy0eiL1) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [Estou no Controle](https://open.spotify.com/album/2LqLcq7bxp7pOMyMaLTx9M) | 4:59 | 2023-06-23 |  |
 | [Eu Joguei](https://open.spotify.com/track/2BeWABTa85hccN2RCZnJLp) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh) | [Eu Joguei](https://open.spotify.com/album/1GlwLbshxddbT3FiLw4EqD) | 3:23 | 2023-06-23 | 2023-09-02 |
-| [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 | 2023-09-01 | 2024-07-17 |
+| [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 | 2023-09-01 |  |
 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 | 2023-06-23 |  |
-| [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 | 2023-06-23 |  |
+| [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 | 2023-06-23 | 2024-07-19 |
 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 | 2023-06-23 |  |
 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 | 2023-06-23 |  |
 | [Joelho no Chão e Boca no Pó \- Ao Vivo](https://open.spotify.com/track/6OeUDN3izttOU1LvvJ81DX) | [Ednan Rufino](https://open.spotify.com/artist/6bPFEqEJbkXhyDL5ycfR0a) | [Joelho no Chão e Boca no Pó \(Ao Vivo\)](https://open.spotify.com/album/1BwmmrxuyF1PP5qybeklH7) | 6:11 | 2023-06-23 | 2024-07-06 |
@@ -56,6 +56,7 @@
 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 | 2023-06-23 |  |
 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 | 2023-09-01 |  |
 | [No Céu Não Entra Pecado](https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [No Céu Não Entra Pecado](https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt) | 4:16 | 2023-06-23 | 2024-06-29 |
+| [Noites Traiçoeiras](https://open.spotify.com/track/7A1XdisC4ySlYz7kMjivwa) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [GBArraiá](https://open.spotify.com/album/3W6Q8yEjt11yOG4qgNWTOx) | 3:58 | 2024-07-19 |  |
 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 | 2024-06-14 |  |
 | [Não é Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 | 2023-10-06 |  |
 | [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 | 2023-06-23 |  |
@@ -75,7 +76,7 @@
 | [Se Não Fosse Ele](https://open.spotify.com/track/49aAR1k1YDjcHPPUaP1GTR) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Se Não Fosse Ele](https://open.spotify.com/album/2F7TQ8zJLPEbmwsbaP3EOp) | 3:56 | 2023-10-06 |  |
 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 | 2023-06-23 |  |
 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 | 2023-09-01 |  |
-| [Sou um Milagre](https://open.spotify.com/track/3s0qkQddxMdIRKnv2ULbue) | [Hugo & Tiago](https://open.spotify.com/artist/0WP4PLxwWMBq3WWc01TBgJ), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Sou um Milagre](https://open.spotify.com/album/4QrOOxWxLRdNdyk5DAK7t5) | 4:29 | 2024-07-16 |  |
+| [Sou um Milagre](https://open.spotify.com/track/3s0qkQddxMdIRKnv2ULbue) | [Hugo & Tiago](https://open.spotify.com/artist/0WP4PLxwWMBq3WWc01TBgJ), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Sou um Milagre](https://open.spotify.com/album/4QrOOxWxLRdNdyk5DAK7t5) | 4:29 | 2024-07-16 | 2024-07-19 |
 | [Surpresas](https://open.spotify.com/track/4om9ARGmgO7LGViqZoGyav) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Surpresas](https://open.spotify.com/album/4Xd5WSqlGucQbmi9qfn214) | 3:38 | 2023-06-23 | 2023-10-07 |
 | [Tem Milagre Vindo Aí](https://open.spotify.com/track/2BLbkAosZfN5bmdOCLdwCv) | [Monique Grazielle](https://open.spotify.com/artist/2CdJLbNKlntgLM95IWuTWM) | [No Tempo Certo](https://open.spotify.com/album/59lcFTldjKDGy2w2mS8nj9) | 3:56 | 2023-06-23 | 2024-04-19 |
 | [Tem Milagre Vindo Aí](https://open.spotify.com/track/61SLxYHFHwlwiEZp5rI0iU) | [Monique Grazielle](https://open.spotify.com/artist/2CdJLbNKlntgLM95IWuTWM) | [No Tempo Certo](https://open.spotify.com/album/1Dop7lWX9iu0TFl4DvbzWr) | 3:56 | 2024-01-05 |  |

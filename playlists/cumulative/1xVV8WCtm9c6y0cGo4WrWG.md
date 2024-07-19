@@ -4,7 +4,7 @@
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Eminem, Drake, Kendrick Lamar, GloRilla and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-218 songs - 11 hr 17 min
+220 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Himothy](https://open.spotify.com/track/00p23Uw776hxaIGNWL9S1Y) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Himothy](https://open.spotify.com/album/0cumUqYme4Am4PnlsHbBUl) | 2:39 | 2024-02-23 | 2024-05-06 |
 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 | 2023-11-03 | 2024-05-06 |
 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 | 2023-12-19 |  |
+| [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HOODLUMZ \(with PlayThatBoiZay & A$AP Rocky\)](https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D) | 2:09 | 2024-07-19 |  |
 | [Hope You Know](https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hope You Know](https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2) | 3:47 | 2023-11-03 | 2024-05-06 |
 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI) | 2:45 | 2024-06-17 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-05-31 |  |
@@ -225,6 +226,7 @@
 | [WTW](https://open.spotify.com/track/728E50EwNhQGdlMWxwTCxn) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [WTW](https://open.spotify.com/album/1yB5UDDeH7FpNVxvOpbBvU) | 3:20 | 2024-03-22 |  |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-02-18 | 2024-07-09 |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 | 2024-05-06 |
+| [Yes](https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Yes](https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR) | 3:30 | 2024-07-19 |  |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

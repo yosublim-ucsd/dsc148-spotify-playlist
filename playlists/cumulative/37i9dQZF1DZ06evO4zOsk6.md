@@ -4,7 +4,7 @@
 
 > This Is Libido\. Los temas esenciales, todos en una lista.
 
-51 songs - 2 hr 59 min
+52 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 |  |
 | [Estoy Tan Gris](https://open.spotify.com/track/0I0QleAkiY1kPI8ZKm84EH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:48 | 2023-08-25 |  |
 | [Fantasma](https://open.spotify.com/track/7zVdRFV3Uv2eiHXVcUx3fO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:42 | 2023-08-25 | 2024-07-08 |
+| [Fantasma \(En Vivo\)](https://open.spotify.com/track/6nITBK0KfnuoP7RJ8Mmfoi) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 | 2024-07-19 |  |
 | [Frágil](https://open.spotify.com/track/4NkvNThbuHEwQ9elX0xtV9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:38 | 2023-08-25 |  |
 | [Hablar No Es Necesario](https://open.spotify.com/track/3UYfq8kTp93CXHheiTKsN7) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:16 | 2023-08-25 |  |
 | [Hambre \(En Vivo\)](https://open.spotify.com/track/0UJj05XrM71OCDuwYqPX88) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 3:57 | 2023-08-25 |  |
@@ -30,7 +31,7 @@
 | [La Mujer](https://open.spotify.com/track/2EvrCdXPxTlvjBYzlDsJnT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 3:16 | 2023-08-25 |  |
 | [Libido](https://open.spotify.com/track/1N394dXTpjm6UDHJ89koXK) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 4:58 | 2023-08-25 |  |
 | [Llévame](https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:36 | 2023-08-25 |  |
-| [Lo Último Que Hablé Ayer](https://open.spotify.com/track/4BiAm7itPg0sS3Q4GbW1co) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 2:39 | 2023-08-25 |  |
+| [Lo Último Que Hablé Ayer](https://open.spotify.com/track/4BiAm7itPg0sS3Q4GbW1co) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 2:39 | 2023-08-25 | 2024-07-19 |
 | [Lonely](https://open.spotify.com/track/5nHkLSgch1CXRLOgcRiB56) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 3:46 | 2023-08-25 |  |
 | [Mabel](https://open.spotify.com/track/47aqMJgnCnv2i88Yl0Kgb9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 4:00 | 2023-08-25 |  |
 | [Malvada](https://open.spotify.com/track/6XE3FWj6GzwKK4o9MgupJj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:58 | 2023-08-25 |  |

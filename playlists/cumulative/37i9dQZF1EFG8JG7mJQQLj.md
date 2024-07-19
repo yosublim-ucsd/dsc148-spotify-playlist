@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-474 songs - 1 day 3 hr 28 min
+475 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dancing In The Sky](https://open.spotify.com/track/4ByO3MbPtt3YvfzHcLLvSG) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [My Side of Your Story](https://open.spotify.com/album/2ioUwGZ64CPS5NCexb4ndY) | 3:39 | 2024-01-29 |  |
 | [DARC ROOM](https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DARC ROOM](https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5) | 2:45 | 2024-06-29 |  |
 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 | 2024-01-29 |  |
+| [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 | 2024-07-18 |  |
 | [Did It for You](https://open.spotify.com/track/2ZMo00vAwZrxZy8kajCkSr) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:43 | 2024-01-29 |  |
 | [Diddy Dum](https://open.spotify.com/track/3vqhGLmlroTP0PqpeTgf1J) | [Kay](https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB) | [My Name Is Kay \(Deluxe Version\)](https://open.spotify.com/album/5H3fCwCbvwIgWEK9daDFrn) | 2:35 | 2024-01-29 |  |
 | [Didn't I](https://open.spotify.com/track/2IpeTEPICyB66jjg2hU4Vg) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:27 | 2024-01-29 |  |

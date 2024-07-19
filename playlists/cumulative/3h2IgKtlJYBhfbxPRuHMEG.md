@@ -2,12 +2,13 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Holly
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: FrostTop
 
-130 songs - 7 hr 21 min
+131 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4X4 \(IT'S U\)](https://open.spotify.com/track/0H12TVZIucruvvGSPjvvj0) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [ELECTRICA](https://open.spotify.com/album/3Ht8tnhr8yzD9onmihpKhy) | 4:13 | 2024-07-19 |  |
 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 | 2023-12-01 |  |
 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 | 2023-12-01 |  |
 | [AGGRO](https://open.spotify.com/track/0KpuNceD9yGPI6IGYLIo78) | [ZERO PAIN](https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm) | [AGGRO](https://open.spotify.com/album/5XsB1RdHSrzGor5XJBVmLm) | 1:33 | 2023-12-01 |  |
@@ -87,7 +88,7 @@
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-12-01 |  |
 | [LONG WALK](https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX) | [GRAIL SOUNDS](https://open.spotify.com/artist/3FwFFAF9CxERhMrf9R68l4), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [LONG WALK](https://open.spotify.com/album/74Zd13jnHn0ee71K0OOUjc) | 3:53 | 2023-12-01 |  |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-06 |  |
-| [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2023-12-01 |  |
+| [Mitosis](https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Mitosis](https://open.spotify.com/album/41alHDUXIm46q49d1uO1fq) | 3:43 | 2023-12-01 | 2024-07-19 |
 | [Musikal Touch](https://open.spotify.com/track/7dDjIHkmntVFshWYERP8K5) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Angel In The Rave](https://open.spotify.com/album/2fJnytrH5LLgsyrC6CI5ON) | 3:05 | 2024-06-28 |  |
 | [My Favourite Dream](https://open.spotify.com/track/2UtkFuF09Bu0y7UIZnIx3I) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [My Favourite Dream](https://open.spotify.com/album/1a4ZSU5OGdzce2xLnbrwl4) | 3:52 | 2023-12-01 |  |
 | [mycelium faceplant](https://open.spotify.com/track/5s9h1tTANRbkemDC9beXnf) | [isqa](https://open.spotify.com/artist/51uDrZyIi2uBfF9k4PjnSy), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [i 4ove you](https://open.spotify.com/album/3Ox6SyAzT0T26m9b1B0rVC) | 3:15 | 2023-12-01 |  |

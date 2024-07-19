@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,269 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,293 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 4 | [Inevitables](https://open.spotify.com/track/2lndFfVfdAY7MHmLnyKrbE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/5caQaLBsDhjh89gsc1aoyF) | 2:51 |
 | 5 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
 | 6 | [GUERRA DE ALMOHADAS](https://open.spotify.com/track/5SDxtXN8aPNlkEMSj4iEPH) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [GUERRA DE ALMOHADAS](https://open.spotify.com/album/59TX39k20TTWKzpCSfBKx6) | 3:01 |
-| 7 | [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 |
-| 8 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 |
-| 9 | [Dosmil16 \(Arial 4\)](https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Dosmil16 \(Arial 4\)](https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq) | 3:03 |
-| 10 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
-| 11 | [El Truco](https://open.spotify.com/track/4pbCHj8TU4TRS9mfRMsyWC) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [El Truco](https://open.spotify.com/album/3QeXGmXBACpr8eNfEPa9Mu) | 4:35 |
-| 12 | [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 |
-| 13 | [Mercurio \(Carta No\. 9\)](https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Cartas](https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r) | 3:08 |
-| 14 | [Quererte Desde Lejos](https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Quererte Desde Lejos](https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa) | 2:21 |
-| 15 | [Enredo](https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Enredo](https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6) | 2:40 |
-| 16 | [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 |
+| 7 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 |
+| 8 | [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 |
+| 9 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
+| 10 | [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 |
+| 11 | [Dosmil16 \(Arial 4\)](https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Dosmil16 \(Arial 4\)](https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq) | 3:03 |
+| 12 | [El Truco](https://open.spotify.com/track/4pbCHj8TU4TRS9mfRMsyWC) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [El Truco](https://open.spotify.com/album/3QeXGmXBACpr8eNfEPa9Mu) | 4:35 |
+| 13 | [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 |
+| 14 | [Mercurio \(Carta No\. 9\)](https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Cartas](https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r) | 3:08 |
+| 15 | [Quererte Desde Lejos](https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Quererte Desde Lejos](https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa) | 2:21 |
+| 16 | [Enredo](https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Enredo](https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6) | 2:40 |
 | 17 | [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 |
 | 18 | [Nada Personal \- Sesión en Vivo](https://open.spotify.com/track/2kuGLyyrHlPrrgMGOEiFmV) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal \(Sesión en Vivo\)](https://open.spotify.com/album/53GjFCPEvM4HBdbCziA7P3) | 5:17 |
 | 19 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `Zn6KVAAAAACXVfDiL29ivGzIb9QkDcuz`
+Snapshot ID: `Zpom2AAAAAAnrRRVmy4yhZ8j0mowo4U4`

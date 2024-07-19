@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This Is The Three Degrees\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is The Three Degrees\. The essential tracks, all in one playlist.
 
 108 songs - 6 hr 42 min
 

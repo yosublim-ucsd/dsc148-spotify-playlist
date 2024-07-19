@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 793189,
+  "num_followers": 793561,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
     },
     {
-      "added_at": "2023-10-13 03:31:28",
-      "album": {
-        "name": "Bound By Naked Skies",
-        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
-      },
-      "artists": [
-        {
-          "name": "Lathe of Heaven",
-          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Ekpyrosis",
-      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Za Bakdaz: The Unfinished Opera",
@@ -1031,6 +1015,22 @@
       "duration_ms": 169720,
       "name": "Valentine's Day",
       "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
+    },
+    {
+      "added_at": "2023-10-13 03:31:28",
+      "album": {
+        "name": "Bound By Naked Skies",
+        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
+      },
+      "artists": [
+        {
+          "name": "Lathe of Heaven",
+          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Ekpyrosis",
+      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
     },
     {
       "added_at": "2021-10-15 04:04:50",

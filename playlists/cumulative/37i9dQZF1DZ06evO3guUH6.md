@@ -2,7 +2,7 @@
 
 ### [This Is Alfredo Olivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3guUH6)
 
-> This is Alfredo Olivas\. The essential tracks, all in one playlist.
+> This Is Alfredo Olivas\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 24 min
 

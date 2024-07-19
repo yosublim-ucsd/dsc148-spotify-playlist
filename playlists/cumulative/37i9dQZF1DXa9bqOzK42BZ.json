@@ -1111,6 +1111,28 @@
     },
     {
       "album": {
+        "name": "Maisha Yangu (B'Ola) [Live]",
+        "url": "https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Yinka Okeleye",
+          "url": "https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253451,
+      "name": "Maisha Yangu (B'Ola) - Live",
+      "url": "https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2"
+    },
+    {
+      "album": {
         "name": "Hymnos 2",
         "url": "https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE"
       },
@@ -1188,6 +1210,28 @@
       "duration_ms": 168000,
       "name": "Mema",
       "url": "https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW"
+    },
+    {
+      "album": {
+        "name": "Miel Matin",
+        "url": "https://open.spotify.com/album/6MoIsePBvfErhOcGKrlAML"
+      },
+      "artists": [
+        {
+          "name": "Jabidii",
+          "url": "https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU"
+        },
+        {
+          "name": "Ayuni Nyapolo",
+          "url": "https://open.spotify.com/artist/1vSWFYBte0N3BFpFcTJcGA"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Miel Matin",
+      "url": "https://open.spotify.com/track/4hbe5UovoheGJNcErxxBeT"
     },
     {
       "album": {

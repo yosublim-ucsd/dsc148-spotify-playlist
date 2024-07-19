@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: Nathaniel Rateliff & the Night Sweats",
+  "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: James Bay",
   "name": "Rockin' Vibes",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209213,
       "name": "Big Black Hearse",
       "url": "https://open.spotify.com/track/2QjtinOX9eezxLtKyOqZpf"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
@@ -3288,6 +3288,24 @@
       "duration_ms": 225244,
       "name": "Hot Rod Pipe Dream",
       "url": "https://open.spotify.com/track/6yv6AU2WtV7nH4GqgcXQIg"
+    },
+    {
+      "album": {
+        "name": "House Parties",
+        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "House Parties",
+      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
     },
     {
       "album": {
@@ -5260,6 +5278,24 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
     },
     {
       "album": {
@@ -7623,6 +7659,32 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203689,
+      "name": "Up All Night (with The Lumineers & Noah Kahan)",
+      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -7844,7 +7906,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179202,
       "name": "We're All Gonna Die (with Noah Kahan)",
       "url": "https://open.spotify.com/track/5hqTZiZ6Kj3QOvhhr27W3L"

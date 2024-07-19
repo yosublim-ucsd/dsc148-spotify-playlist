@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-634 songs - 19 hr 10 min
+638 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Bruce the Goat](https://open.spotify.com/track/47IJNymEVbgixhvSxFKC2Z) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Bruce the Goat](https://open.spotify.com/album/7nzrD3m5ThBsl7wjfbjWLM) | 2:48 | 2024-02-09 |  |
 | [Bumblebee's Song](https://open.spotify.com/track/0X6Y8tfzEVVSouA435bMzO) | [Mia Sander](https://open.spotify.com/artist/0LnIcNhu7arRU9zzbCuYA7) | [Bumblebee's Song](https://open.spotify.com/album/4benOw3tOOgAzTsvOzbPAg) | 1:46 | 2023-12-08 |  |
 | [Bursdagen Min](https://open.spotify.com/track/37LpZqpAba2OC0nJ5wMcbt) | [Alvin Jakobsen](https://open.spotify.com/artist/58RDP2gGS40YZYgOMi0Q7o) | [Bursdagen Min](https://open.spotify.com/album/1OFzNlJf8E8NhiFqrYvyq4) | 1:54 | 2021-10-07 | 2023-04-09 |
+| [Buttercup](https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [Buttercup](https://open.spotify.com/album/0Q3YP5gmFJMQO2HqL3Becv) | 1:38 | 2024-07-19 |  |
 | [Butterflies In My Stomach](https://open.spotify.com/track/2Zvf5qCoore4Sx9NjpEMDu) | [Bernice Stanford](https://open.spotify.com/artist/2g1Hf5dYttt4q2xm9131Qo) | [Butterflies In My Stomach](https://open.spotify.com/album/7Fo0wT9KJBOPqn7xpzn4sL) | 2:09 | 2021-10-07 | 2024-03-29 |
 | [Butterfly Song](https://open.spotify.com/track/3B6fE7oCyZhGpEOE4eE2Ay) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Butterfly Song](https://open.spotify.com/album/4jdKw7j3RiLbd70FqoDlQj) | 2:04 | 2023-09-22 |  |
 | [Butterfly Wings](https://open.spotify.com/track/45wcqppZpzrqEjUQl46Ax6) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [Butterfly Wings](https://open.spotify.com/album/03R3Momhe8auBhd6RBiB4C) | 1:17 | 2024-05-24 |  |
@@ -168,6 +169,7 @@
 | [Feeling Free](https://open.spotify.com/track/4kU5W6f7sTXMyRFXQZPd6x) | [Kameron Eaton](https://open.spotify.com/artist/19sBCdUL9oi4ameglzcBwE) | [Feeling Free](https://open.spotify.com/album/7ymXb7UUqHphUhISWLVE1r) | 1:40 | 2021-10-07 | 2024-03-29 |
 | [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
 | [First Day Of School](https://open.spotify.com/track/3fNr7Xp74gVlpL6Dg0RErN) | [Ruben Lemay](https://open.spotify.com/artist/3kVgDlYpszYo5w9bM3tzmk) | [First Day Of School](https://open.spotify.com/album/5RoqM9UTBxaX7KZFgWXmv4) | 1:59 | 2021-10-07 | 2024-05-24 |
+| [First Day of Summer](https://open.spotify.com/track/4UcTJhrPdOxRyFzupm95bi) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [First Day of Summer](https://open.spotify.com/album/05ySHCSNG8JXHPOQHMl6YK) | 1:35 | 2024-07-19 |  |
 | [Five Little Speckled Frogs](https://open.spotify.com/track/5IyXmzh7GIQMwvWdPutYfU) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:23 | 2021-10-07 | 2022-10-08 |
 | [Flat Out Tired](https://open.spotify.com/track/3FUSlmcxGqDSrqg498rXhS) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Flat Out Tired](https://open.spotify.com/album/4WHUZ6mUIhKoeEOJeUi0gV) | 1:41 | 2022-07-27 |  |
 | [Fluff & The Stars](https://open.spotify.com/track/7gqJ0no0EH3gM5iCzwn8J7) | [Heloiza Parker](https://open.spotify.com/artist/4YbX63mGu2M59K9wqtijdy) | [Fluff & The Stars](https://open.spotify.com/album/6uSNruEfjckZdy3aLZ2541) | 1:43 | 2023-12-08 | 2024-05-24 |
@@ -275,6 +277,7 @@
 | [It's Raining, It's Pouring](https://open.spotify.com/track/1WapRRJQm0zJZhKaMfJRdZ) | [Andrew Witzinger](https://open.spotify.com/artist/6TB4YN8Qg0o4CxG6OG1j61) | [Classics](https://open.spotify.com/album/73gqUj4H5eAmSENGEt5mQv) | 1:28 | 2021-10-07 | 2023-02-10 |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/5MdZWaY3aYrqRwR9y0Fq2L) | [Fukuro III](https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V) | [It's Raining, It's Pouring](https://open.spotify.com/album/3XDaVT8hBkvhlSw91AY2z3) | 2:41 | 2024-04-19 |  |
 | [Itsy bitsy spider](https://open.spotify.com/track/1oMUYmXy85ZOQGZ2fylBiN) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 1:22 | 2021-10-07 | 2022-11-26 |
+| [Itsy, Bitsy, Spider](https://open.spotify.com/track/6TPoXdkGtObr0WUQiwoLlF) | [Ella Grayce](https://open.spotify.com/artist/0xlgMD86mCmI7gBsW2V94o) | [Itsy, Bitsy, Spider](https://open.spotify.com/album/7BAoh1fA9fXuc1Rt6HEKoB) | 1:32 | 2024-07-19 |  |
 | [I’m A Little Teapot](https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU) | [Lindsay Felan](https://open.spotify.com/artist/2IYSQrJKkRaNmPk0oOxbwZ) | [I’m A Little Teapot](https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH) | 1:28 | 2022-07-27 | 2024-05-04 |
 | [Jack and Jill](https://open.spotify.com/track/4kdgBw3FKnPwo6W2VzP4zg) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Jack and Jill](https://open.spotify.com/album/2bttGrUetauxvBu9dDlFlU) | 1:39 | 2023-12-22 |  |
 | [John Brown's Song](https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [John Brown's Song](https://open.spotify.com/album/6SecsP3G8PkZ8STwhLpdbB) | 1:51 | 2023-10-20 | 2024-05-24 |
@@ -374,7 +377,7 @@
 | [My Rainbow Heart](https://open.spotify.com/track/5MRj1OTzFZu2DCeM60mMCF) | [Agnes Widell](https://open.spotify.com/artist/6HpjNjCZmdoljjATAMaGHH) | [My Rainbow Heart](https://open.spotify.com/album/7IKH1NEObFcyhH4JI8H1ri) | 1:21 | 2021-10-07 | 2022-10-29 |
 | [My Sandbox](https://open.spotify.com/track/1L3xkGcRKxIdUU5AwM1LHu) | [Bente Schultz](https://open.spotify.com/artist/0Ylc8FsQMFHOfc65S2ykPJ) | [My Sandbox](https://open.spotify.com/album/4XY3LP80CPeMo52wUtKugd) | 1:30 | 2021-10-07 |  |
 | [My Secret Place](https://open.spotify.com/track/1xgf2QEkPmD8gPNKSNrqLE) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [My Secret Place](https://open.spotify.com/album/5MT1OH2BkiLxkB7UbyWHvL) | 1:49 | 2023-04-07 |  |
-| [My Secret Wish](https://open.spotify.com/track/5ttv70TBURkZ54Nr2FkFnx) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [My Secret Wish](https://open.spotify.com/album/0v01ijITebOBbKVJkhjXKz) | 1:33 | 2021-10-07 |  |
+| [My Secret Wish](https://open.spotify.com/track/5ttv70TBURkZ54Nr2FkFnx) | [Nettie Vincent](https://open.spotify.com/artist/45l3luMqRH9aEYSBGtoDjf) | [My Secret Wish](https://open.spotify.com/album/0v01ijITebOBbKVJkhjXKz) | 1:33 | 2021-10-07 | 2024-07-19 |
 | [My Snoring Grandpa](https://open.spotify.com/track/5pkG46lDxh0izZfuwqL6Xl) | [Sharmaine Willis](https://open.spotify.com/artist/0GlF18fN3nM7fEtlYY02mM) | [My Snoring Grandpa](https://open.spotify.com/album/025h1Yb1rFnybikktKrong) | 1:30 | 2021-10-07 | 2024-05-24 |
 | [My soft Pillow](https://open.spotify.com/track/48eYBs43e6clWY8PPOazMA) | [Kolton Kirby](https://open.spotify.com/artist/3FIhEwJntBEpDBS3QjuL1L) | [My soft Pillow](https://open.spotify.com/album/5OmLzmBH0dxdHdZupwZXAV) | 1:37 | 2021-10-07 | 2023-05-12 |
 | [My Sunshine](https://open.spotify.com/track/1ikXHodxfzZNYZXSzv0UST) | [Laya Amon](https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9) | [Sailing to Dreamland](https://open.spotify.com/album/4QBCCLJWRJNH8N1VIf2gZn) | 2:04 | 2023-02-10 |  |
@@ -450,6 +453,7 @@
 | [Ruth](https://open.spotify.com/track/1hqsp7bsJe26RN1Q5tpEG5) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Given Names](https://open.spotify.com/album/6PW2SyKftYoDXNXdIjuSIs) | 3:04 | 2021-10-07 | 2022-02-11 |
 | [Safe Dreams](https://open.spotify.com/track/1HZ3heObvXEVLNtitZSgf4) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [Safe Dreams](https://open.spotify.com/album/4bynjmrlCiPgtAITDIL8yF) | 2:04 | 2024-05-31 |  |
 | [Sailing](https://open.spotify.com/track/5roSZWBEruWZETkEe6clva) | [Ruby Barnes](https://open.spotify.com/artist/2kzymRA8IJ9cGwKYvRLiI8) | [Sailing](https://open.spotify.com/album/5uCiT5Ei4ngM6tOd30JaeM) | 1:56 | 2021-10-07 | 2024-04-19 |
+| [Sailing on a Banana](https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Sailing on a Banana](https://open.spotify.com/album/7oLPHrzHYEOVIsp0y0dJO0) | 1:58 | 2024-07-19 |  |
 | [Sammy Sleepyhead](https://open.spotify.com/track/58Q20FvalHCBTlJtdi9s9i) | [Miki Broberg](https://open.spotify.com/artist/39z4lXEyRlhUkriGDZ8vhE) | [Sammy Sleepyhead](https://open.spotify.com/album/4c9DmYa4xe7s70lnBvlCIA) | 1:28 | 2021-10-07 | 2024-05-24 |
 | [Sawing lumber when I slumber](https://open.spotify.com/track/2inaMVUoCaJh6P0DRfcrcE) | [Koby Watkins](https://open.spotify.com/artist/1XQRa7AZGtigxKfRiQ2Suz) | [Sawing lumber when I slumber](https://open.spotify.com/album/4ZFwidVASp10qO7TV6veyT) | 1:48 | 2021-10-07 | 2023-01-13 |
 | [Say You Wont Let Go](https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:50 | 2021-10-07 | 2022-02-11 |
@@ -507,7 +511,7 @@
 | [Stay Awake](https://open.spotify.com/track/3TlnOqKkYPNDl4bxvS5RaB) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [Stay Awake](https://open.spotify.com/album/4dQLCxKNuqYDaFaXbYtDE1) | 1:48 | 2021-10-07 | 2022-09-03 |
 | [Strawberry Days](https://open.spotify.com/track/2InxnDzuNTvai55lqZTB8e) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [Danny the Duckling](https://open.spotify.com/album/6xoiLYPz3A4na8YP9Vhpat) | 1:22 | 2022-06-30 | 2023-05-12 |
 | [Sunset Song](https://open.spotify.com/track/5vG03EoxdAwjX6l7ldcR0E) | [Jascha van Neunen](https://open.spotify.com/artist/0YI0x9PPrDM4xAWLztMSTR) | [Sunset Song](https://open.spotify.com/album/0MrisJkX5DMenp4DeMSbLt) | 1:42 | 2022-11-25 |  |
-| [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 |  |
+| [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 | 2024-07-19 |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-03-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 | 2023-02-10 |  |

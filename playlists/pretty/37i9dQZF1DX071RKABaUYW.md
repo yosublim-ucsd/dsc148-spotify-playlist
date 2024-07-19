@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Koteri
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,669 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,673 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 62 | [Atlanta](https://open.spotify.com/track/4WOfRya3PSbwNk0ZTU8ent) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Atlanta](https://open.spotify.com/album/6daZUauCIOcopysTBj9CVj) | 3:03 |
 | 63 | [Undone](https://open.spotify.com/track/2MyIg77Kb4BzL8QniPaDjy) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Undone](https://open.spotify.com/album/5vqhTdEoDvP6HpXOFBg2DM) | 3:29 |
 | 64 | [BLOODSTREAM](https://open.spotify.com/track/6V5IueJDNmH6ywTpTmwY0c) | [Musumba](https://open.spotify.com/artist/1PJnpcaMHKYXCKyji3OHnH) | [BLOODSTREAM](https://open.spotify.com/album/2rV28QJKdDhX0wrx5kug2g) | 3:49 |
-| 65 | [JOYRIDE](https://open.spotify.com/track/13kjJQW6XzMQqOgb2j1sBr) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [JOYRIDE](https://open.spotify.com/album/4szI3mnv9vjwoNtZi3zZWu) | 3:43 |
+| 65 | [JOYRIDE](https://open.spotify.com/track/13kjJQW6XzMQqOgb2j1sBr) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [JOYRIDE](https://open.spotify.com/album/4szI3mnv9vjwoNtZi3zZWu) | 3:43 |
 | 66 | [grips](https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [grips](https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX) | 2:58 |
 | 67 | [MYAEROPLANE](https://open.spotify.com/track/08XyqS2LV1wPzEwxLgaJ2h) | [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr) | [MYAEROPLANE](https://open.spotify.com/album/5BRCSxV8M8RxAsCd3UtPQk) | 3:31 |
 | 68 | [All I Am](https://open.spotify.com/track/11Xa4SyvckHrLgng5o78yl) | [Sakr](https://open.spotify.com/artist/2YfmUjwhh7PkXpYQT4bYLk) | [All I Am](https://open.spotify.com/album/5ZS6g9GEbtJG5zmKtiKvfH) | 3:03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Sunset Rollercoaster (\u843d\u65e5\u98db\u8eca)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: BRADD",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Meet in the Middle",
+        "url": "https://open.spotify.com/album/748Lp7MOcqqJhYHtcApkBm"
+      },
+      "artists": [
+        {
+          "name": "BRADD",
+          "url": "https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278307,
+      "name": "Meet in the Middle",
+      "url": "https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc"
+    },
+    {
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/2V5Y9lXrOrB7xcyljiB1GG"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165000,
       "name": "Pretty Girl Supremacy",
       "url": "https://open.spotify.com/track/2OljkxlEuNnx6pHJLutMEM"

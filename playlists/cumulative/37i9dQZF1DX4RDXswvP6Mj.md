@@ -2,9 +2,9 @@
 
 ### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: BABYMONSTER\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: Jimin\(지민\)\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-709 songs - 1 day 14 hr 25 min
+710 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-18 | 2022-07-28 |
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2023-05-01 | 2023-05-10 |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-18 | 2022-07-12 |
-| [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-08 |  |
+| [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-08 | 2024-07-19 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-12-21 | 2022-07-28 |
 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 | 2022-03-31 | 2022-04-04 |
 | [Changer](https://open.spotify.com/track/5A3BZXpLvw399NrvWatRMJ) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Changer : Dear Eris](https://open.spotify.com/album/1tLwLZEdx1pVmhzzY0L6nf) | 3:23 | 2022-03-14 | 2022-04-14 |
@@ -217,7 +217,7 @@
 | [Eeny Meeny](https://open.spotify.com/track/6g1bC84sN16hsWICgeXXb9) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [Eeny Meeny](https://open.spotify.com/album/5wnySScBf5FmEoBWIirXaH) | 2:39 | 2022-03-31 | 2022-04-17 |
 | [Egotistic](https://open.spotify.com/track/5Z4aqpT39KpY8gbHoJWdou) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [RED MOON](https://open.spotify.com/album/6GhELYbXRo1LOqRPOCsQrF) | 3:16 | 2022-02-16 | 2022-05-11 |
 | [Electrified](https://open.spotify.com/track/2c4Q7VzzdptMsKOCkcTPeh) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Electrified : Urban Nostalgia](https://open.spotify.com/album/0oQV738wyOSpncGzVHhEUc) | 3:34 | 2022-03-31 | 2022-05-05 |
-| [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-21 | 2024-07-15 |
+| [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-21 |  |
 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 | 2022-01-18 | 2022-04-19 |
 | [ESPER](https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [ESPER](https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo) | 3:12 | 2022-03-10 | 2022-04-21 |
 | [Eternal Flame](https://open.spotify.com/track/3UnKrt0sLHdXg18oIzku06) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Eternal Flame](https://open.spotify.com/album/4iEDDcbOseEtGvE2iFwF40) | 3:46 | 2022-03-24 | 2022-04-17 |
@@ -689,6 +689,7 @@
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-11-30 | 2023-03-07 |
 | [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 | 2022-09-17 |
 | [White Noise](https://open.spotify.com/track/7kQJxUaF3ngqWry2ulorVE) | [AMBER](https://open.spotify.com/artist/6vPzAqZDXQgLTEn8pjp4jY) | [WHITE NOISE + LOST AT SEA](https://open.spotify.com/album/1aGrK54HGmEdrOeJjAAxPR) | 3:41 | 2022-03-31 | 2022-04-14 |
+| [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 |  |
 | [Who Dis?](https://open.spotify.com/track/6loyhEAW2QFgQnvorXzsXn) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Who Dis?](https://open.spotify.com/album/38QTDwD7IM2EZuiUMII6uA) | 3:14 | 2022-03-24 | 2022-04-07 |
 | [Who U Are](https://open.spotify.com/track/6C9dV3oVFBYZ3CShCU300P) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [MAGENTA](https://open.spotify.com/album/7L2jDMk6IZChhMxPdJMJ6i) | 3:22 | 2022-03-31 | 2022-04-16 |
 | [WHY DON'T WE \(Feat\. CHUNG HA\)](https://open.spotify.com/track/77EclQIcNpVBsJgV1Fari4) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [PIECES by RAIN](https://open.spotify.com/album/0bLtrJW5gsxMIJF6CvJB6x) | 2:58 | 2022-01-25 | 2022-04-20 |
@@ -702,7 +703,7 @@
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-22 | 2024-05-10 |
 | [YES or YES](https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x) | 3:57 | 2021-12-21 | 2022-07-28 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-10 | 2023-10-20 |
-| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 |  |
+| [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2024-07-19 |
 | [You & Me](https://open.spotify.com/track/1qpXGULUmImqY574SWmql3) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R) | [Gemini 2](https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks) | 3:27 | 2022-04-12 | 2022-04-19 |
 | [You Are Mine](https://open.spotify.com/track/2lS7EowakQLS1NkRj0acbM) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [You Are Mine \(A Business Proposal OST Part.2\)](https://open.spotify.com/album/77XfHNb3xBq8cv50bsRzkn) | 3:27 | 2022-03-07 | 2022-07-27 |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2022-01-03 | 2022-07-07 |

@@ -4,12 +4,13 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia
 
-164 songs - 9 hr 52 min
+166 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Eternidades](https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [3 Eternidades](https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h) | 2:34 | 2024-06-28 |  |
 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 | 2024-04-05 |  |
+| [A Cidade Sumiu](https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [A Cidade Sumiu](https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ) | 2:57 | 2024-07-19 |  |
 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 | 2023-07-21 |  |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-23 |  |
 | [Abra as Cortinas](https://open.spotify.com/track/7C9J1E6XuC7m6RzmGJtLP7) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [Abra as Cortinas](https://open.spotify.com/album/123gz25QTgvOuvy9nd9Fv4) | 3:07 | 2023-07-21 | 2023-12-16 |
@@ -35,7 +36,7 @@
 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 | 2023-07-21 | 2023-11-05 |
 | [Blue](https://open.spotify.com/track/3frGdSsiPLEe5Hk9UeG3Q4) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/4ChzaBU01MnxVWNF7ATXJ7) | 4:09 | 2023-11-03 | 2024-04-06 |
 | [Buquê de Rimas](https://open.spotify.com/track/3YV3rFEs55ie3idd3tVlfb) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Buquê de Rimas](https://open.spotify.com/album/7e3V41aO2OtnBQuRRuIVZ6) | 2:56 | 2023-07-21 | 2024-04-06 |
-| [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 |  |
+| [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 | 2024-07-19 |
 | [Carta no Baralho](https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Carta no Baralho](https://open.spotify.com/album/3WQ0Ob1xbq8QSWbF1vdW6x) | 5:12 | 2023-07-21 | 2023-08-26 |
 | [Carta pro Passado](https://open.spotify.com/track/4WnXJEmktIas3NyqVJLepw) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Carta pro Passado](https://open.spotify.com/album/1zmEyQcEMoQ1XlXugjheEQ) | 3:15 | 2023-07-21 | 2024-03-30 |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-07-21 | 2023-08-19 |
@@ -64,13 +65,14 @@
 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 | 2023-07-21 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2024-04-12 |  |
 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 | 2023-07-21 |  |
-| [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-05-31 |  |
+| [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-05-31 | 2024-07-19 |
 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 | 2024-01-05 |  |
 | [I Can't Live Without Your Love](https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig) | [Dan Torres](https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd) | [I Can't Live Without Your Love](https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B) | 3:34 | 2023-07-21 |  |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2023-07-21 |  |
 | [Incondicional \- Ao Vivo](https://open.spotify.com/track/0LLYWHqp4AgGnx4B2krt9x) | [Suhai](https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR) | [Ao Vivo](https://open.spotify.com/album/5RYNUFoIu5TrAGccBTzn8Z) | 2:59 | 2023-09-01 | 2023-11-18 |
 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 | 2024-04-12 |  |
 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 | 2024-02-23 |  |
+| [Ir Embora](https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK) | [Banda de UM](https://open.spotify.com/artist/1144o8ABGaronlide0iQeq) | [Jovem Senhor](https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh) | 3:22 | 2024-07-19 |  |
 | [Jogados na Areia](https://open.spotify.com/track/3rdcayLAinZ31kWyREpWwJ) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Jogados na Areia](https://open.spotify.com/album/62Zg61iFQXcItuCuSYdTlH) | 3:12 | 2023-07-21 | 2024-04-06 |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Os Paralamas do Sucesso: 40 Anos \- As Melhores](https://open.spotify.com/album/3Mr4t7nIyQRiUCnKouTyYY) | 3:09 | 2023-07-21 | 2024-04-19 |
 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 | 2024-04-19 |  |

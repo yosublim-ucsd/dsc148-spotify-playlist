@@ -1,13 +1,37 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Fcukers",
-  "num_followers": 860872,
+  "num_followers": 860954,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpE7VgAAAAAsSaqjC5V57x08W9utjKFm",
+  "snapshot_id": "ZpnkwAAAAADKaatVf9rqfHYFPr/DA29U",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "SNAKEGANG EP Volume 1",
+        "url": "https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "SNAKEGANG",
+          "url": "https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ"
+        }
+      ],
+      "duration_ms": 158174,
+      "name": "GLIMMER.",
+      "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -41,6 +65,26 @@
       "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Can\u2019t Walk Away",
+        "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "Can\u2019t Walk Away",
+      "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Midnight",
@@ -65,6 +109,22 @@
       "url": "https://open.spotify.com/track/3QYtytvuqpK7Ehl29vadbA"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
+    },
+    {
       "added_at": "2024-06-29 20:24:58",
       "album": {
         "name": "Snog",
@@ -79,6 +139,22 @@
       "duration_ms": 207134,
       "name": "Snog",
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "You Could Hate Me",
+        "url": "https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "You Could Hate Me",
+      "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -133,6 +209,26 @@
       "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "One Thousand Waves",
+        "url": "https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "One Thousand Waves",
+      "url": "https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Harmonics",
@@ -175,22 +271,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "MADNESS!",
-        "url": "https://open.spotify.com/album/53AqbFPMr9jbL0Vt8iMxrM"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 145320,
-      "name": "MADNESS!",
-      "url": "https://open.spotify.com/track/3nZIiM8v7Y1fcxmmqAYHh9"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "ok :)",
         "url": "https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR"
       },
@@ -223,6 +303,22 @@
       "duration_ms": 214391,
       "name": "lift off!",
       "url": "https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "TURISMO",
+        "url": "https://open.spotify.com/album/3te7OfGUW5E6SsQxQRZzI3"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/1fdxgHnUTAZbAggzAm3xsT"
     },
     {
       "added_at": "2024-06-28 04:20:08",
@@ -383,6 +479,22 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
+    },
+    {
+      "added_at": "2024-06-24 13:06:02",
+      "album": {
+        "name": "MADNESS!",
+        "url": "https://open.spotify.com/album/53AqbFPMr9jbL0Vt8iMxrM"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 145320,
+      "name": "MADNESS!",
+      "url": "https://open.spotify.com/track/3nZIiM8v7Y1fcxmmqAYHh9"
     },
     {
       "added_at": "2024-07-05 05:27:32",
@@ -593,22 +705,6 @@
       "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
     },
     {
-      "added_at": "2024-06-28 04:20:08",
-      "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 281106,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
-    },
-    {
       "added_at": "2024-07-05 05:27:32",
       "album": {
         "name": "Struckdown",
@@ -685,20 +781,20 @@
       "url": "https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo"
     },
     {
-      "added_at": "2024-06-24 13:06:02",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Smiling Through The Pain",
-        "url": "https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW"
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/2eUIILAD7povYXfZ8Lqd56"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
         }
       ],
-      "duration_ms": 210913,
-      "name": "Now She Knows",
-      "url": "https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi"
+      "duration_ms": 301000,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/3fll9dlWXC29WZU5deUIKs"
     },
     {
       "added_at": "2024-07-05 05:27:32",
@@ -783,6 +879,22 @@
       "duration_ms": 200283,
       "name": "MORE!",
       "url": "https://open.spotify.com/track/63UgfCqOUjxybXd5T878eP"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Think About Last Night",
+        "url": "https://open.spotify.com/album/50NQ5g0DPx6jnTorLWONuW"
+      },
+      "artists": [
+        {
+          "name": "Might Delete Later",
+          "url": "https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT"
+        }
+      ],
+      "duration_ms": 166705,
+      "name": "Think About Last Night",
+      "url": "https://open.spotify.com/track/4OQRHeXFiOSOVJigTvkFmI"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -871,26 +983,6 @@
       "duration_ms": 258939,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "All You Can Do Is Try (Bella Boo Remix)",
-        "url": "https://open.spotify.com/album/7HMTlbumdbuj9sCmRtJnhl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        },
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 219258,
-      "name": "All You Can Do Is Try (Bella Boo Remix)",
-      "url": "https://open.spotify.com/track/1GPQcQ8F7DlZQ6dTBhP2cP"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1067,26 +1159,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        },
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        }
-      ],
-      "duration_ms": 138906,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
       },
@@ -1119,22 +1191,6 @@
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1Q2Pcq3RR5ZFtaYUbS5Qub"
-      },
-      "artists": [
-        {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/01KaVHhy0tzsHoeWUdHtUp"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1259,26 +1315,6 @@
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "The Learning of Urgency",
-        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "PEARL",
-          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Carry Your Name",
-      "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1531,26 +1567,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "saving flowers",
-        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 210785,
-      "name": "saving flowers",
-      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Setting Free",
         "url": "https://open.spotify.com/album/34zhV0Gf28XnvPfAXmJDaM"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 179750,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "you and i",
-        "url": "https://open.spotify.com/album/2hiBulmaabma1E9lMOkhaG"
-      },
-      "artists": [
-        {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "you and i",
-      "url": "https://open.spotify.com/track/5tHVosoCX8FcLGV0nCDgPb"
     },
     {
       "added_at": "2024-06-24 13:06:02",

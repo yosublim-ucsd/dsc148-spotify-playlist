@@ -1,13 +1,41 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57710,
+  "num_followers": 57713,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAAA9PTVFAlJCwqRGP6Kwwgru",
+  "snapshot_id": "ZpnkwAAAAABOZV2JA4pERWSqgkKfqUVh",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "99 And 1/2 Won't Do",
+        "url": "https://open.spotify.com/album/4TWaiD0oviLCZ4d7pVA6TI"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        },
+        {
+          "name": "Dustbowl Revival",
+          "url": "https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "99 And 1/2 Won't Do",
+      "url": "https://open.spotify.com/track/6SCLPf6RTXCwvYEhF5a2ME"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -871,22 +899,6 @@
       "duration_ms": 202143,
       "name": "Long Road Ahead",
       "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "All My Love For You",
-        "url": "https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 236859,
-      "name": "I Want To",
-      "url": "https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6"
     },
     {
       "added_at": "2023-09-29 04:01:00",

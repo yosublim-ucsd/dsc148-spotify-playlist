@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Qing Madi",
+  "description": "Tracks popping off in the Afro scene. Cover: SPINALL",
   "name": "Afro Station",
   "tracks": [
     {
@@ -630,6 +630,28 @@
       "duration_ms": 171666,
       "name": "Ba$tard, Don't Be Silly",
       "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+    },
+    {
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/7oqeTZfaRbffCr6PqAWw7B"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156679,
+      "name": "Baba (Father God)",
+      "url": "https://open.spotify.com/track/0u7ybbS3nPHiYUn7Gfg6ZW"
     },
     {
       "album": {
@@ -2071,6 +2093,32 @@
     },
     {
       "album": {
+        "name": "diallo",
+        "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163008,
+      "name": "diallo",
+      "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
+    },
+    {
+      "album": {
         "name": "Diamant Brut",
         "url": "https://open.spotify.com/album/6WTD1IxrvvRKt9dUmhLfbj"
       },
@@ -2352,7 +2400,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168779,
       "name": "Double",
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
@@ -2895,6 +2943,28 @@
     },
     {
       "album": {
+        "name": "Fatigu\u00e9 (feat. Didi B)",
+        "url": "https://open.spotify.com/album/2Yd8t3eHSd5f3mQpuuwgDB"
+      },
+      "artists": [
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Fatigu\u00e9 (feat. Didi B)",
+      "url": "https://open.spotify.com/track/6r7dxLzq441UNvnefB9vXY"
+    },
+    {
+      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -2914,7 +2984,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
@@ -3284,6 +3354,24 @@
       "duration_ms": 202222,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/5XDnUeQCIqcqSGYmnRJqYK"
+    },
+    {
+      "album": {
+        "name": "GIRLS WANNA HAVE FUN",
+        "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
     },
     {
       "album": {
@@ -4022,7 +4110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 203577,
       "name": "Jamais (feat. Lossa)",
       "url": "https://open.spotify.com/track/2V4ttOwCG3RHKSjHMIP9ST"
@@ -4116,7 +4204,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162151,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq"
@@ -4524,7 +4612,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166430,
       "name": "Left Right - Remix",
       "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
@@ -6279,6 +6367,32 @@
     },
     {
       "album": {
+        "name": "One Call",
+        "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158712,
+      "name": "One Call",
+      "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "album": {
         "name": "Only Me",
         "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
@@ -6737,6 +6851,32 @@
     },
     {
       "album": {
+        "name": "Game Over 3 - Terminal 3",
+        "url": "https://open.spotify.com/album/2mzGH2M2nXqCq15XL01P5z"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        },
+        {
+          "name": "Game Over",
+          "url": "https://open.spotify.com/artist/5asZFEvwtp6ex6hX9CFp9f"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Pimpon",
+      "url": "https://open.spotify.com/track/1yXRvMTmXbgxy9p5CS63bc"
+    },
+    {
+      "album": {
         "name": "Pio Pio",
         "url": "https://open.spotify.com/album/2LDSMjOIlBAz31FMDHyZbz"
       },
@@ -7130,7 +7270,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 132571,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3CbYtoJFEmPAMkKhEjPdOE"
@@ -7777,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "SOWETO",
+        "url": "https://open.spotify.com/album/4sPSjfJ5R9j3wsWJHfDyN7"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152211,
+      "name": "SOWETO",
+      "url": "https://open.spotify.com/track/1OZP6Q2O8ybMyDHwoXOSEz"
+    },
+    {
+      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1"
       },
@@ -8088,7 +8246,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161632,
       "name": "SUNSET",
       "url": "https://open.spotify.com/track/3fAx20NiCyfe9qBX35n0aV"
@@ -8410,7 +8568,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 169254,
       "name": "Tolo (Faut m'oublier)",
       "url": "https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ"
@@ -8886,6 +9044,32 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "album": {
+        "name": "Alusa Why Are You Topless? (Deluxe)",
+        "url": "https://open.spotify.com/album/6piDT78sQ40k6xC5r9A8st"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/01w3jMWzWYm2INkQDkr2QW"
+        },
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/0V4ie5PXFiWXEd2XldImGr"
     },
     {
       "album": {

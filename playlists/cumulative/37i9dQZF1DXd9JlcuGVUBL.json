@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0?si=thfFqc9xSU2G3-VWFd2mKg\">Megan Moroney</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ?si=TwEntQ7oS0a2Sc-NMWn6Mg\">Koe Wetzel</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183302,
       "name": "Diamante Maak Baba's",
       "url": "https://open.spotify.com/track/5uaUeuchs7YAfgfGaVm30b"
@@ -402,10 +402,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180621,
+      "name": "Hatchet",
+      "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
     },
     {
       "album": {
@@ -892,6 +910,32 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/1GJZzeNEKTerxojNwZBuWg"
+      },
+      "artists": [
+        {
+          "name": "Ted Slaughter",
+          "url": "https://open.spotify.com/artist/00rM1EYNcPPD1mBL3R7mDn"
+        },
+        {
+          "name": "Jack Lawson",
+          "url": "https://open.spotify.com/artist/5xgmVw91QqVviSExFD7T0i"
+        },
+        {
+          "name": "Haley Lawson",
+          "url": "https://open.spotify.com/artist/76XID8HD117ayVwtAB2Jdp"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404294,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/4yBRXXqkLqBxwXFkplzIC2"
     },
     {
       "album": {

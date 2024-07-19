@@ -2,9 +2,9 @@
 
 ### [Pop Radyo](https://open.spotify.com/playlist/37i9dQZF1DX9G2MXp8YYmm)
 
-> Popun sevilen isimleri\. Kapak: Işıl Ayman
+> Popun sevilen isimleri\. Kapak: Cem Belevi
 
-91 songs - 4 hr 36 min
+93 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-27 |  |
 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 | 2024-06-27 |  |
 | [Beni Anlamıyor](https://open.spotify.com/track/6mra1Q0McNcrDcjxEi2rW3) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Beni Anlamıyor](https://open.spotify.com/album/5d5Ae8icCgEKskv3YE3fIV) | 3:15 | 2024-06-27 | 2024-07-07 |
-| [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-07-04 |  |
+| [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-07-04 | 2024-07-19 |
 | [Bi Polar](https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Bi Polar](https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa) | 3:12 | 2024-07-04 |  |
 | [Bi Şey Eksik](https://open.spotify.com/track/1TBMYatA8sUE0ne6Xm4FRZ) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Bi Şey Eksik](https://open.spotify.com/album/7dAOHPimH2lfyxbOUmJ1V2) | 3:11 | 2024-06-27 |  |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 |  |
@@ -31,7 +31,7 @@
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-07-12 |
 | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw) | 2:43 | 2024-06-27 |  |
-| [Buram Buram](https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Buram Buram](https://open.spotify.com/album/37zxh7uSMiLQS5beWmMo47) | 4:33 | 2024-06-27 |  |
+| [Buram Buram](https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Buram Buram](https://open.spotify.com/album/37zxh7uSMiLQS5beWmMo47) | 4:33 | 2024-06-27 | 2024-07-19 |
 | [böyle sevmek olmaz ki](https://open.spotify.com/track/5hbAlTCuLy02BYEOi4PP9w) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [böyle sevmek olmaz ki](https://open.spotify.com/album/5c9lfqu6XoFErv8HmlZRze) | 2:49 | 2024-06-27 |  |
 | [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2024-06-27 |  |
 | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/track/7ySv3opHwbZNSvehYIVkwN) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Daha Kötü Ne Olabilir Ki](https://open.spotify.com/album/4CeYzfOsE9OQi39hQV5f0i) | 2:53 | 2024-06-27 | 2024-07-13 |
@@ -42,6 +42,7 @@
 | [Delil](https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Delil](https://open.spotify.com/album/0aQQsIQHfZLR1lHk5xA4NH) | 2:22 | 2024-06-27 |  |
 | [Dilber](https://open.spotify.com/track/6BUrQUxtozqxQkZExslTen) | [İdo Tatlıses](https://open.spotify.com/artist/2OWh9iyVeIqJm04kwcaArP) | [Dilber](https://open.spotify.com/album/4aLPDVWvyKVjnUiRPz9KBB) | 2:13 | 2024-06-27 | 2024-07-10 |
 | [DİZGİ HATASI](https://open.spotify.com/track/1aY8XeGD9zP21IxZYqeY3f) | [Keremcem](https://open.spotify.com/artist/3GfMoNg8qvtTuarY4ILTzm) | [6](https://open.spotify.com/album/0dil3PgPqEqQDSaaKfdZEb) | 3:22 | 2024-07-11 |  |
+| [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 | 2024-07-18 |  |
 | [Dön Geri](https://open.spotify.com/track/4PQPUyhIjnw0QjTvqRVWWT) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Dön Geri](https://open.spotify.com/album/2MD0NhChyhyYmmvuIH6oWS) | 4:09 | 2024-06-27 |  |
 | [Dünya Hevesi](https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Dünya Hevesi](https://open.spotify.com/album/7u9u9vazmcEszj6k1G3TVE) | 3:30 | 2024-06-27 | 2024-07-08 |
 | [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 |  |
@@ -71,6 +72,7 @@
 | [Salla](https://open.spotify.com/track/62Hh7prEpSyMMd8wNxsOQO) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Salla](https://open.spotify.com/album/3iKLt0m03n8zSm9Dkw3eY5) | 2:36 | 2024-06-27 |  |
 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 | 2024-06-27 |  |
 | [Saygı Duruşu](https://open.spotify.com/track/76BUgBlvg4rNl4MBcUnhAw) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Saygı Duruşu](https://open.spotify.com/album/16vEQO5wX6EuWeq6OpQi88) | 2:49 | 2024-06-27 |  |
+| [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 |  |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 |  |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 |  |
 | [Seviyore Mi](https://open.spotify.com/track/03akFZOY1Gpe6gnBjq3ZzM) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Seviyore Mi](https://open.spotify.com/album/4wZIEKXg8VAFfFtgkH9MOw) | 2:22 | 2024-07-11 |  |

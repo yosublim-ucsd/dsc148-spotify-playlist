@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 211750,
       "name": "Di0nysus Juni0r",
       "url": "https://open.spotify.com/track/2cZDJU1mxc903hta2IcKDM"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb"
@@ -4728,6 +4728,24 @@
       "duration_ms": 169833,
       "name": "Home",
       "url": "https://open.spotify.com/track/5Azxo2Y3EhhYv2T98RWa21"
+    },
+    {
+      "album": {
+        "name": "HOMEWARD BOUND",
+        "url": "https://open.spotify.com/album/77qphqm55wE28WErICmvo5"
+      },
+      "artists": [
+        {
+          "name": "Swan Meat",
+          "url": "https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "HOMEWARD BOUND",
+      "url": "https://open.spotify.com/track/6SJxVscXUNKHByst4t6Hlu"
     },
     {
       "album": {
@@ -7317,6 +7335,28 @@
     },
     {
       "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "album": {
         "name": "OneHundred",
         "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
       },
@@ -7924,7 +7964,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204444,
       "name": "Push It To The Limit",
       "url": "https://open.spotify.com/track/08Ej7bXt9OE68JTvmztwsC"
@@ -10520,6 +10560,32 @@
       "duration_ms": 123680,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/4Fh76hS27ZgzK0or8eP2qQ"
+    },
+    {
+      "album": {
+        "name": "TITS, LIPS, HIPS, KISS (10/10 Remix)",
+        "url": "https://open.spotify.com/album/49KddmD3D6OD8USyLdTHCe"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "TITS, LIPS, HIPS, KISS (10/10 Remix)",
+      "url": "https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn"
     },
     {
       "album": {

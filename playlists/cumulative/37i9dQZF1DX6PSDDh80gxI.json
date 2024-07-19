@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Cover: Angelica \ud83d\udc9a",
+  "description": "Il meglio dell\u2019indie italiano! svegliaginevra in cover",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145320,
       "name": "Acqua Naturale",
       "url": "https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf"
@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "fiori / posto sbagliato",
+        "url": "https://open.spotify.com/album/5mFC0c1KveeilQOdpmP84G"
+      },
+      "artists": [
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        },
+        {
+          "name": "fenoaltea",
+          "url": "https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161900,
+      "name": "fiori / posto sbagliato",
+      "url": "https://open.spotify.com/track/2tkp6VIVfaU57qh1vd7Kqb"
+    },
+    {
+      "album": {
         "name": "DENTRO",
         "url": "https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV"
       },
@@ -462,7 +484,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 175262,
       "name": "Hiroshima (feat. piazzabologna)",
       "url": "https://open.spotify.com/track/4YlYUNwfcrjro882XpvEJ9"
@@ -1057,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Sul pi\u00f9 bello",
+        "url": "https://open.spotify.com/album/3yo8OZxRy2L9CMyzCK8jmx"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176544,
+      "name": "Sul pi\u00f9 bello",
+      "url": "https://open.spotify.com/track/0LPXTnvvNYBa3sIjdCytcz"
+    },
+    {
+      "album": {
         "name": "ULTRAFRAGOLA",
         "url": "https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q"
       },
@@ -1126,7 +1166,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197561,
       "name": "Trasparente",
       "url": "https://open.spotify.com/track/7K51Wblkit2uioRGADynFB"
@@ -1256,6 +1296,24 @@
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
+    },
+    {
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
     },
     {
       "album": {

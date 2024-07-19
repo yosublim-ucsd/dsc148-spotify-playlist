@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "The Warning au top des meilleurs morceaux rock du moment.",
+  "description": "MDNS au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 238143,
       "name": "Beguiled",
       "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
@@ -474,6 +474,24 @@
       "duration_ms": 214830,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo"
+    },
+    {
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "album": {
@@ -716,6 +734,24 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
+    },
+    {
+      "album": {
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "album": {
@@ -1159,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Glasgow",
+        "url": "https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214245,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
+    },
+    {
+      "album": {
         "name": "Good Days Again",
         "url": "https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB"
       },
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176965,
       "name": "Goodnight Adeline",
       "url": "https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7"
@@ -1510,6 +1564,24 @@
       "duration_ms": 185800,
       "name": "It's Gonna Be Alright",
       "url": "https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ"
+    },
+    {
+      "album": {
+        "name": "Judas Mind",
+        "url": "https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244728,
+      "name": "Judas Mind - edit",
+      "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
     },
     {
       "album": {
@@ -2467,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Shaka Ponk",
+        "url": "https://open.spotify.com/album/2mQkHiKFpJ6ovu1usKcWad"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Resign",
+      "url": "https://open.spotify.com/track/5PNyY0cSYmRednV5H3wROh"
+    },
+    {
+      "album": {
         "name": "respawn.",
         "url": "https://open.spotify.com/album/6HKEsegEdDUp45zIn3OPAr"
       },
@@ -2680,7 +2770,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 232484,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/0NYtFtXrsrONbVuhvvhm74"
@@ -2806,7 +2896,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 201933,
       "name": "SklogW II (On n'a pas l'cul sorti des ronces)",
       "url": "https://open.spotify.com/track/1HeIznyDz46oLHuSmy57sX"
@@ -3462,7 +3552,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 237692,
       "name": "The Butcher's Fantasy",
       "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
@@ -3578,6 +3668,24 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
+        "name": "Tortuga",
+        "url": "https://open.spotify.com/album/11dazu57AoABvNCgktwEoP"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "Tortuga",
+      "url": "https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK"
     },
     {
       "album": {

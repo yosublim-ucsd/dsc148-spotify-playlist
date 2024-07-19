@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: JÃO
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370,288 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,370,160 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
 | 2 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 |
 | 3 | [Bobagem Amor](https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:21 |
-| 4 | [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 |
-| 5 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
-| 6 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
-| 7 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
-| 8 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
+| 4 | [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 |
+| 5 | [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 |
+| 6 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
+| 7 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
+| 8 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 9 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 |
 | 10 | [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 |
 | 11 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `ZpCcMAAAAAAs+r5Az8tmkYEuVQvw5nTh`
+Snapshot ID: `ZpnWsAAAAADcxgJxA4n7kKhcqgR7XTdT`

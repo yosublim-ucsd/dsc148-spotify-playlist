@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 143043,
+  "num_followers": 143115,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAABN4vlDipLMcoYHlx3azwic",
+  "snapshot_id": "ZpnkwAAAAAC2BpNemhRzAJuEy5VLjCua",
   "tracks": [
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 203300,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
+    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
@@ -61,6 +77,26 @@
       "url": "https://open.spotify.com/track/3RktUXfSVu6OEZJRQzOAPj"
     },
     {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I Don't Need No Doctor",
+        "url": "https://open.spotify.com/album/4qN7rWcIHq9WpTONASWnDD"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 181669,
+      "name": "I Don't Need No Doctor",
+      "url": "https://open.spotify.com/track/5Et4qpytmr9aOOEglcQCQv"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Recuerdo",
@@ -111,26 +147,6 @@
       "duration_ms": 236695,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "The Best Things Happen While You're Dancing",
-        "url": "https://open.spotify.com/album/6pyyBFedXb9ZI9BwYHUBBN"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        },
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "duration_ms": 195649,
-      "name": "The Best Things Happen While You're Dancing",
-      "url": "https://open.spotify.com/track/3M4j7Knz9YvbYbfGVJJxxE"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 134987,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/7ivKNAmR9kyuWNIDqZ09n3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
     },
     {
       "added_at": "2023-07-28 04:01:00",

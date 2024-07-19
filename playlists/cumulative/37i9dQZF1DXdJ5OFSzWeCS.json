@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 75729,
       "name": "A Dream Is A Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/6wskSlae2891UsOTIjgeLs"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 108750,
       "name": "Brother John",
       "url": "https://open.spotify.com/track/1oke7KQOl3qlW7PPRq0oF4"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 106158,
       "name": "Bumblebee's Song",
       "url": "https://open.spotify.com/track/0X6Y8tfzEVVSouA435bMzO"
@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Ellie's Sleepy Time",
+        "url": "https://open.spotify.com/album/77DvLKnbfxw08XhvF9PdkN"
+      },
+      "artists": [
+        {
+          "name": "Georgia Faingold",
+          "url": "https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120366,
+      "name": "Ellie's Sleepy Time",
+      "url": "https://open.spotify.com/track/1KkDfh72CRdq0PUrLWKuaj"
+    },
+    {
+      "album": {
         "name": "En kulen natt",
         "url": "https://open.spotify.com/album/4ZfEBZoqJviraVk1aAAeb0"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 68539,
       "name": "Everything Is Still",
       "url": "https://open.spotify.com/track/77rHMslVobj2YcBct5x3Af"
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 125500,
       "name": "How Lucky I Am",
       "url": "https://open.spotify.com/track/40FNjB66GuQn0X9amaFg3c"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 128000,
       "name": "How Much Is That Doggie In The Window?",
       "url": "https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1"
@@ -4808,6 +4826,24 @@
       "duration_ms": 77829,
       "name": "Hujedamej s\u00e5nt barn han var",
       "url": "https://open.spotify.com/track/0B3aR4unKE3LmioY2GjSdK"
+    },
+    {
+      "album": {
+        "name": "Humpty Dumpty",
+        "url": "https://open.spotify.com/album/0ij0a9IepdWg69IwnIIKaL"
+      },
+      "artists": [
+        {
+          "name": "Lily Fairchild",
+          "url": "https://open.spotify.com/artist/3vqkh4pULf8V7LBMjaK2H2"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125400,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/34gr5irWhnjBbagt7o1HOy"
     },
     {
       "album": {
@@ -6388,7 +6424,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171015,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/4yWwr2K23KCSJjMGBd7oeL"
@@ -6694,7 +6730,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 101896,
       "name": "Majas Visa",
       "url": "https://open.spotify.com/track/3eDlssNK4eJwXpgsG1HSZZ"
@@ -7400,6 +7436,24 @@
       "duration_ms": 104750,
       "name": "My Dream Castle",
       "url": "https://open.spotify.com/track/3yGLnfiBUXZFILOkgOdGxw"
+    },
+    {
+      "album": {
+        "name": "My Favorite Place",
+        "url": "https://open.spotify.com/album/7ujwzu6bUK0bCzwHJXswLo"
+      },
+      "artists": [
+        {
+          "name": "Finn Montgomery",
+          "url": "https://open.spotify.com/artist/7eRI0gvdQnmHbga9AflrwP"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114117,
+      "name": "My Favorite Place",
+      "url": "https://open.spotify.com/track/3MIqpFBBX1hrj9XA426QbG"
     },
     {
       "album": {
@@ -8498,6 +8552,24 @@
       "duration_ms": 109387,
       "name": "Peekaboo Flower",
       "url": "https://open.spotify.com/track/2sljmxQzT21nkLFS4p8xb8"
+    },
+    {
+      "album": {
+        "name": "Penny & Penelope",
+        "url": "https://open.spotify.com/album/2HzUHA0YN1a5oLepbQHTW8"
+      },
+      "artists": [
+        {
+          "name": "Danielle Rogard",
+          "url": "https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Penny & Penelope",
+      "url": "https://open.spotify.com/track/02z4zcLLWhywWDx12fEFjy"
     },
     {
       "album": {
@@ -11302,7 +11374,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 113250,
       "name": "There's a Hole In My Pants",
       "url": "https://open.spotify.com/track/4OxSiT6RAFsL2ezRFL1rAP"

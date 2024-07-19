@@ -1,12 +1,12 @@
 {
-  "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 29090,
-  "original_name": "This Is Latto",
+  "description": "This Is Latto. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
+  "num_followers": 29106,
+  "original_name": "\u0627\u06cc\u0646 Latto \u0627\u0633\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAAA2gQF14xjE3D0XP41UHULB",
+  "snapshot_id": "ZpcJgAAAAAB6mEoNNra24SitZ2RXG1An",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FreakyT (Remix)",
         "url": "https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 149384,
       "name": "FreakyT - Remix",
       "url": "https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
       "duration_ms": 200135,
       "name": "Muwop (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,
@@ -1079,28 +1099,8 @@
       "duration_ms": 217866,
       "name": "Down (feat. Latto)",
       "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Help Me God!",
-        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 190378,
-      "name": "Quarantine Thick (feat. Latto)",
-      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
     }
   ],
-  "unique_name": "This Is Latto",
+  "unique_name": "\u0627\u06cc\u0646 Latto \u0627\u0633\u062a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN"
 }

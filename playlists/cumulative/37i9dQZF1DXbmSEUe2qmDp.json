@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Jennifer e Stephany, Gustavo Mioto",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Fiorella",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
+    {
+      "album": {
+        "name": "A Saideira",
+        "url": "https://open.spotify.com/album/061XUJjmJ9iYghbYAExIMu"
+      },
+      "artists": [
+        {
+          "name": "Luana Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5ZlBXtC4mFEALRMeUNt9wH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207810,
+      "name": "A Saideira",
+      "url": "https://open.spotify.com/track/1egSLQgg9a4wnVaeqefNcI"
+    },
     {
       "album": {
         "name": "Abstin\u00eancia (Sistema Diferente, Ao Vivo)",
@@ -169,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Na Ro\u00e7a, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jUJjystQDr4aepdogjKGC"
+      },
+      "artists": [
+        {
+          "name": "Elis Justi",
+          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179367,
+      "name": "Biscoito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bwy2SMcHAf1nfy1C297Oj"
+    },
+    {
+      "album": {
         "name": "Boca Reserva",
         "url": "https://open.spotify.com/album/5GTXMA4qQ7kWnmWWPZGTUM"
       },
@@ -206,10 +242,32 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161158,
       "name": "Cassino - Ao Vivo",
       "url": "https://open.spotify.com/track/2hkazdT8weSdbJa3YLbJxY"
+    },
+    {
+      "album": {
+        "name": "Charme Demais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6rA5drW6RvB2WC5KyCIBIS"
+      },
+      "artists": [
+        {
+          "name": "Wesley & Conrado",
+          "url": "https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163525,
+      "name": "Charme Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/50frgWSf4qigDoDXZ91zTE"
     },
     {
       "album": {
@@ -326,7 +384,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 172549,
       "name": "Dia de Rodeio",
       "url": "https://open.spotify.com/track/4JB3OnMbzfw3mAL3zLOVFM"
@@ -410,7 +468,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 146568,
       "name": "Escorpiana",
       "url": "https://open.spotify.com/track/3Io9VaEYk5TRhD47yCJgPP"
@@ -498,6 +556,24 @@
       "duration_ms": 164315,
       "name": "Ex Que Se Preze - Ao Vivo",
       "url": "https://open.spotify.com/track/6qR6Zei7a6KjyLVefHIj44"
+    },
+    {
+      "album": {
+        "name": "Faz Um Favorz\u00e3o",
+        "url": "https://open.spotify.com/album/55HIsbFDfFRmLcaF10VLPH"
+      },
+      "artists": [
+        {
+          "name": "Fiorella",
+          "url": "https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193623,
+      "name": "Faz Um Favorz\u00e3o",
+      "url": "https://open.spotify.com/track/09J97Q4oJ2ifMWbi3IG88O"
     },
     {
       "album": {
@@ -737,6 +813,24 @@
     },
     {
       "album": {
+        "name": "menina durona",
+        "url": "https://open.spotify.com/album/1PIQ7UHVnuXa0nYzxraT09"
+      },
+      "artists": [
+        {
+          "name": "Heitor",
+          "url": "https://open.spotify.com/artist/2lsdgjL6txMw2GFNFJLzIW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177345,
+      "name": "menina durona",
+      "url": "https://open.spotify.com/track/3p3SvFut1bQXsdGScEDILQ"
+    },
+    {
+      "album": {
         "name": "Mensagem de Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/3mdhsoMHXIPxM45R47y6HO"
       },
@@ -857,6 +951,24 @@
     },
     {
       "album": {
+        "name": "No Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/127MLLdBnGLkOfRiUDImBL"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Luan",
+          "url": "https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152398,
+      "name": "No Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VFU5CR4SLcazLMqoxpQQQ"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Prometi (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Rzr4LTFJzDZv37ZaQs3B8"
       },
@@ -912,6 +1024,24 @@
       "duration_ms": 146595,
       "name": "O Cavalo Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/5hr4ymkcRUjity5OZGPBDD"
+    },
+    {
+      "album": {
+        "name": "Casinha: Ato 2",
+        "url": "https://open.spotify.com/album/2hDDaiTOq8RL3e3zwljk0q"
+      },
+      "artists": [
+        {
+          "name": "Sandro e C\u00edcero",
+          "url": "https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "O Meu Te Amo",
+      "url": "https://open.spotify.com/track/6P2yv13RKXmbPSn21Ym3od"
     },
     {
       "album": {
@@ -1119,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Quando Perde Um Amor",
+        "url": "https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix"
+      },
+      "artists": [
+        {
+          "name": "Gabi & Rapha",
+          "url": "https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209219,
+      "name": "Quando Perde Um Amor",
+      "url": "https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf"
+    },
+    {
+      "album": {
         "name": "Que Se Dane o Mundo",
         "url": "https://open.spotify.com/album/22lJColC3GwIfrjQYUWK9y"
       },
@@ -1130,7 +1278,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173962,
       "name": "Que Se Dane o Mundo",
       "url": "https://open.spotify.com/track/6u9PQcl9LvNB1FvcKBT0jq"
@@ -1192,7 +1340,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192344,
       "name": "Sangue Do Meu Sangue",
       "url": "https://open.spotify.com/track/3HERLWOkNV6se2uqgA5ZcF"
@@ -1590,6 +1738,28 @@
       "duration_ms": 228026,
       "name": "Vai Descendo - Ao Vivo",
       "url": "https://open.spotify.com/track/2niXqu7FF1ujNbYh1loM5g"
+    },
+    {
+      "album": {
+        "name": "Vai Trouxa",
+        "url": "https://open.spotify.com/album/1q7glKh3cKJqCHEI4apkl6"
+      },
+      "artists": [
+        {
+          "name": "Caio & Breno",
+          "url": "https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL"
+        },
+        {
+          "name": "Moda Music",
+          "url": "https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177321,
+      "name": "Vai Trouxa",
+      "url": "https://open.spotify.com/track/7Hf1Ur1IvhvikKB7SWZaBX"
     },
     {
       "album": {

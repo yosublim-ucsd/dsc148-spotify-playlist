@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 159786,
+  "num_followers": 159821,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2024-07-15 01:00:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
-        "name": "Scarred for Tryin.",
-        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
       "artists": [
         {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 187027,
-      "name": "Scarred for Tryin.",
-      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2024-07-15 01:00:00",
@@ -1227,22 +1211,18 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+        "name": "Scarred for Tryin.",
+        "url": "https://open.spotify.com/album/7AlzfjScA4BEiFXtya6ChF"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
         }
       ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+      "duration_ms": 187027,
+      "name": "Scarred for Tryin.",
+      "url": "https://open.spotify.com/track/5kC5BdfOeJfIytZy7LEFx3"
     },
     {
       "added_at": "2024-07-15 01:00:00",
@@ -1259,6 +1239,26 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "added_at": "2024-07-15 01:00:00",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2024-07-15 01:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2024-07-15 01:00:00",
+      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
-    },
-    {
-      "added_at": "2024-07-15 01:00:00",
-      "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2024-07-15 01:00:00",
-      "album": {
         "name": "NOT TOO DEEP (feat. 6LACK)",
         "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+    },
+    {
+      "added_at": "2024-07-15 01:00:00",
+      "album": {
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+      },
+      "artists": [
+        {
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     },
     {
       "added_at": "2024-07-15 01:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-15 01:00:00",
       "album": {
-        "name": "Closer to Hell",
-        "url": "https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg"
-      },
-      "artists": [
-        {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Closer to Hell",
-      "url": "https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI"
-    },
-    {
-      "added_at": "2024-07-15 01:00:00",
-      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 200597,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
+    },
+    {
+      "added_at": "2024-07-15 01:00:00",
+      "album": {
+        "name": "Closer to Hell",
+        "url": "https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Closer to Hell",
+      "url": "https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI"
     },
     {
       "added_at": "2024-07-15 01:00:00",

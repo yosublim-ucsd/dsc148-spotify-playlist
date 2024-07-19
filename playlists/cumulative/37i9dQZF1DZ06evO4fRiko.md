@@ -2,7 +2,7 @@
 
 ### [This Is Chris Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fRiko)
 
-> This Is Chris Brown\. Los temas esenciales, todos en una lista.
+> This is Chris Brown\. The essential tracks, all in one playlist.
 
 57 songs - 3 hr 27 min
 
@@ -21,7 +21,7 @@
 | [Do It Again](https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Do It Again](https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv) | 3:27 | 2024-07-15 |  |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2024-07-13 |  |
 | [DRUNK OFF U \(feat\. Chris Brown\)](https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 3:16 | 2024-07-13 |  |
-| [Easy](https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Easy \(Remix\)](https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z) | 3:06 | 2024-07-14 |  |
+| [Easy](https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Easy \(Remix\)](https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z) | 3:06 | 2024-07-14 | 2024-07-19 |
 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 | 2024-07-13 |  |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2024-07-13 |  |
 | [Freaky Friday \(feat\. Chris Brown\)](https://open.spotify.com/track/6dbSBQXCctYSVryynHXaZ4) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Freaky Friday \(feat\. Chris Brown\)](https://open.spotify.com/album/4CaoXfwBemXYSLxhS9FyXM) | 3:36 | 2024-07-13 |  |
@@ -40,7 +40,7 @@
 | [Next To You \(feat\. Justin Bieber\)](https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F.A.M.E\. \(Expanded Edition\)](https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb) | 4:25 | 2024-07-13 |  |
 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 | 2024-07-13 |  |
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/7FEwp8BavoEVE3AnxJDchc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Guidance \(feat\. Drake\)](https://open.spotify.com/album/1ypdCwJwVaUHuFTnvvQbMX) | 4:20 | 2024-07-13 |  |
-| [No Interruptions](https://open.spotify.com/track/6DaUoalUi6GAQTLaWmNcF0) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:39 | 2024-07-13 | 2024-07-15 |
+| [No Interruptions](https://open.spotify.com/track/6DaUoalUi6GAQTLaWmNcF0) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:39 | 2024-07-13 |  |
 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:43 | 2024-07-13 |  |
 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 | 2024-07-13 |  |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2024-07-13 |  |

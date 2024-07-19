@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L"
+      },
+      "artists": [
+        {
+          "name": "Lord Esperanza",
+          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Comment on s'aime ?",
+      "url": "https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL"
+    },
+    {
+      "album": {
         "name": "Couleur Velours",
         "url": "https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb"
       },
@@ -139,6 +157,24 @@
     },
     {
       "album": {
+        "name": "L'orage",
+        "url": "https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w"
+    },
+    {
+      "album": {
         "name": "DOMMAGE",
         "url": "https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb"
       },
@@ -150,7 +186,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 153191,
       "name": "DOMMAGE",
       "url": "https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx"
@@ -240,7 +276,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 173952,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3WBWmLjLbdeLEWIenmGH5U"
@@ -312,7 +348,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 212800,
       "name": "Juv\u00e9nile",
       "url": "https://open.spotify.com/track/5rVbxvrhd0yyEvpgGOdbVY"
@@ -352,6 +388,24 @@
       "duration_ms": 231866,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/0WMifeoCiWPDzQ7cglvJdl"
+    },
+    {
+      "album": {
+        "name": "La nuit o\u00f9",
+        "url": "https://open.spotify.com/album/06LTFfZ7cr6yyZbU2a5L7I"
+      },
+      "artists": [
+        {
+          "name": "A2h",
+          "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "La nuit o\u00f9",
+      "url": "https://open.spotify.com/track/7BQWErX02AdVBgODbUglKI"
     },
     {
       "album": {
@@ -612,7 +666,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193880,
       "name": "Primate d\u00e9prim\u00e9",
       "url": "https://open.spotify.com/track/4g3mp0Y5G3PQ75hDO5XjqI"
@@ -634,6 +688,24 @@
       "duration_ms": 177000,
       "name": "Risque",
       "url": "https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/1oClw21WLAxwKEaYLa7XE7"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231540,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/5tXSuBrfIYLTJPLGa0pKhi"
     },
     {
       "album": {
@@ -774,10 +846,32 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131002,
       "name": "Very Bad Trip",
       "url": "https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu"
+    },
+    {
+      "album": {
+        "name": "\u00c0 mes d\u00e9mons Pt. 2",
+        "url": "https://open.spotify.com/album/0OLOS5tA0Uhw24QKDM542Y"
+      },
+      "artists": [
+        {
+          "name": "An'Om",
+          "url": "https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22"
+        },
+        {
+          "name": "Vayn",
+          "url": "https://open.spotify.com/artist/41CySalxZ2GST1n69SqsZ1"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193820,
+      "name": "\u00c0 mes d\u00e9mons Pt. 2",
+      "url": "https://open.spotify.com/track/1RkPNKaOA4NYTj1tkR5BEx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw"

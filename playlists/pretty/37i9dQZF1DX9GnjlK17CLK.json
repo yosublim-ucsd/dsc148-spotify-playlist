@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 146072,
+  "num_followers": 146209,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "East West",
+        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 199960,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "East West",
-        "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 199960,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Blues Brothers 2000",
+        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Blues Brothers 2000",
-        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2024-06-02 16:41:51",

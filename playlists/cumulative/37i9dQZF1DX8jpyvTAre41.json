@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "About Me",
+        "url": "https://open.spotify.com/album/5nkdy20Ch1Y9tiUG7epzLd"
+      },
+      "artists": [
+        {
+          "name": "Ash Molloy",
+          "url": "https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "About Me",
+      "url": "https://open.spotify.com/track/51XoldrreNOGQzUshH9rxh"
+    },
+    {
+      "album": {
         "name": "Above It All",
         "url": "https://open.spotify.com/album/1W4gkbpOg5Creo0WsUnEF8"
       },
@@ -696,6 +714,24 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
     },
     {
       "album": {
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 249266,
       "name": "Bail Out",
       "url": "https://open.spotify.com/track/1KGD63pRjyoWu244zx6P8g"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 162748,
       "name": "Candy Pop",
       "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
@@ -2658,6 +2694,24 @@
       "duration_ms": 219551,
       "name": "Chew Me Up (feat. Terrible Johnny)",
       "url": "https://open.spotify.com/track/5VE9fM3rSpbFrqqgWJYgbk"
+    },
+    {
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238988,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8"
     },
     {
       "album": {
@@ -4624,7 +4678,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 179261,
       "name": "Fall into a Blackhole",
       "url": "https://open.spotify.com/track/3t9kvnKuOZsP8bCfXnOeO8"
@@ -6449,6 +6503,24 @@
     },
     {
       "album": {
+        "name": "Hottest Summer on Record",
+        "url": "https://open.spotify.com/album/1JJXOjU7KbjXLcyVWoUrxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Hottest Summer on Record",
+      "url": "https://open.spotify.com/track/5uWA8WojlklsMu8aQxzybZ"
+    },
+    {
+      "album": {
         "name": "hover like a GODDESS",
         "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
@@ -7182,7 +7254,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 233497,
       "name": "Jump Cut",
       "url": "https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF"
@@ -9633,6 +9705,24 @@
     },
     {
       "album": {
+        "name": "nervous",
+        "url": "https://open.spotify.com/album/1l40fDHfKBAPVbHtUeeL9L"
+      },
+      "artists": [
+        {
+          "name": "chasing luma",
+          "url": "https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "nervous",
+      "url": "https://open.spotify.com/track/5K6BMPGnk0e9kNi3fad9Hz"
+    },
+    {
+      "album": {
         "name": "Neurotic (feat. Lukas Rossi)",
         "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
       },
@@ -10836,6 +10926,24 @@
     {
       "album": {
         "name": "Paranoid",
+        "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6Ez7j7MPocvayb7J7WlaR7"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
         "url": "https://open.spotify.com/album/4v7M2QPlvrPIZvMTnAO082"
       },
       "artists": [
@@ -11092,6 +11200,24 @@
       "duration_ms": 222738,
       "name": "Planet Zero",
       "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+    },
+    {
+      "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247716,
+      "name": "Plastic Boxes",
+      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
     },
     {
       "album": {
@@ -12373,6 +12499,24 @@
     },
     {
       "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "album": {
         "name": "God Save The Teen",
         "url": "https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw"
       },
@@ -13030,7 +13174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193448,
       "name": "Sound of Thunder",
       "url": "https://open.spotify.com/track/2AWWqA0U8WHteNEKn53ZFH"
@@ -15222,7 +15366,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 197219,
       "name": "Unhappier",
       "url": "https://open.spotify.com/track/1IlDqyLzT2TvGTfpoSOPrH"
@@ -16726,7 +16870,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224913,
       "name": "Young In America",
       "url": "https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt"
@@ -16838,7 +16982,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 227779,
       "name": "Ziibi",
       "url": "https://open.spotify.com/track/1EmCKDZ0pSNaAlmFO2xWTL"

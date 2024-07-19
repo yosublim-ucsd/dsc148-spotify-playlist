@@ -1,13 +1,29 @@
 {
-  "description": "De nieuwste popliedjes. Cover: Davina Michelle",
-  "num_followers": 97369,
+  "description": "De nieuwste popliedjes. Cover: Katy Perry",
+  "num_followers": 97383,
   "original_name": "Fresh Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpeOFQAAAABomLaUDV2rRXGFmBO5skCq",
+  "snapshot_id": "ZpmQYAAAAACtvZTXuuqaz8rIZbCkn83J",
   "tracks": [
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "WOMAN\u2019S WORLD EP",
+        "url": "https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/0EE51Hoaw12rSNWYMBnkDg"
+    },
     {
       "added_at": "2024-07-04 14:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 221081,
       "name": "All Is Ours",
       "url": "https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
     },
     {
       "added_at": "2024-07-02 08:14:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/4lDQvaFBTWo7nxFXQCnHhN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 158710,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/0ieUviafigTnoovXhb8jyd"
+    },
+    {
       "added_at": "2024-07-15 22:00:00",
       "album": {
         "name": "Roots",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
+      "added_at": "2024-07-11 22:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
       "added_at": "2024-07-04 22:00:00",
       "album": {
         "name": "Taking My Love Back",
@@ -71,6 +135,22 @@
       "duration_ms": 141133,
       "name": "Taking My Love Back",
       "url": "https://open.spotify.com/track/4kCKaipCawfr34DfyrBVgu"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "bigger love",
+        "url": "https://open.spotify.com/album/2LnQON8qXdOaXm4HaqtLKt"
+      },
+      "artists": [
+        {
+          "name": "Ruxley",
+          "url": "https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P"
+        }
+      ],
+      "duration_ms": 188556,
+      "name": "bigger love",
+      "url": "https://open.spotify.com/track/2VpieVmdihQUTalzU77VRh"
     },
     {
       "added_at": "2024-07-15 22:00:00",
@@ -93,36 +173,20 @@
       "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-08 11:41:56",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-07-15 22:00:00",
-      "album": {
-        "name": "Run For The Hills",
-        "url": "https://open.spotify.com/album/58OjZ2IdakELiRhaZW1nRj"
-      },
-      "artists": [
-        {
-          "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
-        }
-      ],
-      "duration_ms": 147914,
-      "name": "Run For The Hills",
-      "url": "https://open.spotify.com/track/1247Zdl2rEjVqPDAzRBmYA"
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
       "added_at": "2024-07-08 11:41:56",
@@ -139,6 +203,22 @@
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/4dog10ScA3Wl9XoMRv1JL2"
+      },
+      "artists": [
+        {
+          "name": "VINCHNZO",
+          "url": "https://open.spotify.com/artist/0SB8N9mcJPZMDcekfzBlru"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/5msyZ3CYqTXWdIYmrcwBQk"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -205,6 +285,22 @@
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
+      "added_at": "2024-07-15 22:00:00",
+      "album": {
+        "name": "Run For The Hills",
+        "url": "https://open.spotify.com/album/58OjZ2IdakELiRhaZW1nRj"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "duration_ms": 147914,
+      "name": "Run For The Hills",
+      "url": "https://open.spotify.com/track/1247Zdl2rEjVqPDAzRBmYA"
+    },
+    {
       "added_at": "2024-07-08 11:41:56",
       "album": {
         "name": "better days",
@@ -219,6 +315,22 @@
       "duration_ms": 191304,
       "name": "better days",
       "url": "https://open.spotify.com/track/2reYTHJnsXORTR7b5GkeFO"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/0hYdYebiJqcvRG1dD6BpX0"
+      },
+      "artists": [
+        {
+          "name": "Kreem",
+          "url": "https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD"
+        }
+      ],
+      "duration_ms": 197713,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/4PpzmZRGsXeajgD57yAJus"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -251,22 +363,6 @@
       "duration_ms": 213270,
       "name": "Break \u2018Em All",
       "url": "https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH"
-    },
-    {
-      "added_at": "2024-07-08 11:41:56",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -771,54 +867,6 @@
     {
       "added_at": "2024-06-10 14:56:03",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Simple Like 17 (Deluxe)",
-        "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 198287,
-      "name": "Shut Up About It",
-      "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Parler Fran\u00e7ais",
-        "url": "https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Parler Fran\u00e7ais",
-      "url": "https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
         "name": "Never Far From Paradise",
         "url": "https://open.spotify.com/album/1jyjlTXKLKlZ2WGAbmqQGG"
       },
@@ -863,22 +911,6 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "feel it all",
-        "url": "https://open.spotify.com/album/4foh7Gb8M1UuHGO5Y1InO9"
-      },
-      "artists": [
-        {
-          "name": "Elle Darlington",
-          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
-        }
-      ],
-      "duration_ms": 177525,
-      "name": "feel it all",
-      "url": "https://open.spotify.com/track/5Rpc2HDYk3C9hcwfS3aPVW"
     },
     {
       "added_at": "2024-06-10 14:56:03",
@@ -963,38 +995,6 @@
       "duration_ms": 177662,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Mistake",
-        "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Mistake",
-      "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
-    },
-    {
-      "added_at": "2024-06-10 14:56:03",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 148898,
-      "name": "Whoops",
-      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     }
   ],
   "unique_name": "Fresh Pop",

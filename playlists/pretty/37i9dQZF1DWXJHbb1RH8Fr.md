@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,789 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,788 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 20 | [Sagah Ney Taksimi \- Enstrumental](https://open.spotify.com/track/2kVPJredPKd97hbyADqvlC) | [Ahmet Hakkı Turabi](https://open.spotify.com/artist/1Q53gmZO7nNx8VQABN5t6R) | [Türk Tasavvuf Musikisi Korosu İlahiler 1](https://open.spotify.com/album/7fiu6uWVYeutMeFfvZSOjn) | 1:38 |
 | 21 | [Ney Taksim](https://open.spotify.com/track/6XDlMMM3a00Mnqb677Qexf) | [Şebi Aruz](https://open.spotify.com/artist/5Ud5ySjHVDsxmmhzfu6j8F) | [Mevlana Aşk\-ı Mesnevi \(Music of the Dervishes\)](https://open.spotify.com/album/5mFCGGuht7wo3dSNQPzBOg) | 3:11 |
 | 22 | [Hakikat](https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 4:29 |
-| 23 | [Nihavend Peşrev](https://open.spotify.com/track/0xZGGZy6QfcJk3cN72UD0J) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:24 |
+| 23 | [Acemaşiran Peşrev](https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:44 |
 | 24 | [Ney İle Bûselik Taksim](https://open.spotify.com/track/3GWWmNoKCbqucT16pmQzU0) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 6:55 |
 | 25 | [Segah Taksim](https://open.spotify.com/track/3wZBsMEqukQMMGgJOZ9kMe) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 3:22 |
 | 26 | [Uyan Ey Gözlerim](https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div) | [Kervan City](https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS) | [Ney Dinletisi, Vol\. 1](https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz) | 3:19 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 | 30 | [Voice of the Sufi](https://open.spotify.com/track/10oERYuAOrmGcDAWflcW9F) | [Hakan Menguc](https://open.spotify.com/artist/2RvjsXeTmhabQw2O4x95SL) | [Breath of the Sufi](https://open.spotify.com/album/43jU5mw2LhMafOSAgp7GK3) | 2:53 |
 | 31 | [Son Taksim](https://open.spotify.com/track/1NXbR2p8WZpwbfXUciPo0b) | [AKA Gunduz Kutbay](https://open.spotify.com/artist/6rLHoMkade6vkMyJnVsSVp) | [Ney Seçkileri \(Instrumental\)](https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t) | 0:54 |
 | 32 | [Hicaz Taksim](https://open.spotify.com/track/17Ar8g9BlDJthkGFi3Mx32) | [Ender Doğan](https://open.spotify.com/artist/26DartuodtiMAfG96nMTjs), [Yahya Soyyiğit](https://open.spotify.com/artist/59fB0C2c3FUmbohp88FpDK) | [Ney Taksimleri / Dinle Ney'den \(Enstrumental, Vol\. 1\)](https://open.spotify.com/album/1Ek9svPcKKmyVARdbjas6N) | 2:09 |
-| 33 | [Acemaşiran Peşrev](https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:44 |
+| 33 | [Nihavend Peşrev](https://open.spotify.com/track/0xZGGZy6QfcJk3cN72UD0J) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Aşk ile Meşk / Makamlarla İlâhiler 2](https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5) | 1:24 |
 | 34 | [Bestenigar Taksim](https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa) | [Volkan Kaçak](https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip) | [Neyzen](https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L) | 2:34 |
 | 35 | [Dertli](https://open.spotify.com/track/2Ya6s6dI87B1PRB0V8jCb2) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney Seri Box Set, Vol\. 1 \(4 Albüm 47 Eser\)](https://open.spotify.com/album/0aLMowQGOllBliSl4CwKd1) | 9:45 |
 | 36 | [Segah](https://open.spotify.com/track/3a924C9vBWKyPAuPsoCr1k) | [Ahmet Senyüz](https://open.spotify.com/artist/5ZVCBPnrNgDIhaVrDPeJsp) | [Ney Taksimleri](https://open.spotify.com/album/1PtQTnNQIvBjNSicBkTFmi) | 3:22 |

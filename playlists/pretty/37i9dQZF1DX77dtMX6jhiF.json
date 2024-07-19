@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 13623,
+  "num_followers": 13629,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "THE NEWS",
+        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 234271,
       "name": "Quarantine Wifey (feat. JID)",
       "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "THE NEWS",
-        "url": "https://open.spotify.com/album/5i6nptGVzZL6qY4YW0gTtN"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 267384,
-      "name": "THE NEWS",
-      "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
     },
     {
       "added_at": "2022-10-01 16:57:49",

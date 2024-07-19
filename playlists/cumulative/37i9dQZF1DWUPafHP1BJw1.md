@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-185 songs - 11 hr 4 min
+186 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Easy On Me](https://open.spotify.com/track/6GOGtYDbwevpKEZpGyptmc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/1x9lgY53hXXUzsC8TsUQFe) | 3:16 | 2023-09-29 | 2024-04-19 |
 | [Eleanor Rigby \- Live](https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5) | [Ted Yoder](https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9) | [Ted Yoder Band Live](https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV) | 4:03 | 2022-10-28 |  |
 | [Enjoy the Silence \- Piano and String Quartet Version](https://open.spotify.com/track/3paWLtYo9854AxRLx3tb7Z) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W) | [Enjoy The Silence](https://open.spotify.com/album/6TU8GCDEvZzciExmRRE6YD) | 3:28 | 2023-09-15 |  |
+| [Espresso](https://open.spotify.com/track/6mbrwy2qyswMGrhXcfkjNE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Espresso](https://open.spotify.com/album/0WSzv4640pPFZ6gqo78TCx) | 2:55 | 2024-07-19 |  |
 | [everything i wanted \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/1ynzIvi8LlEYcy7QTJV2qT) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [everything i wanted \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/0ndzbkku7rXbTBRhlSt8Zw) | 4:05 | 2021-11-19 | 2023-09-30 |
 | [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 | 2022-12-02 |  |
 | [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 | 2023-06-09 |  |

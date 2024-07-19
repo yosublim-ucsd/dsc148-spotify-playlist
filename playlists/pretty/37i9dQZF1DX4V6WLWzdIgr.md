@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,963 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,165 likes - 75 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
-| 2 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 |
-| 3 | [Piwales Tresno](https://open.spotify.com/track/0Bo51l3LBA1w0cnClTiV4S) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Piwales Tresno](https://open.spotify.com/album/7A3KCg9TnljGE3VywQRuix) | 4:19 |
-| 4 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
+| 1 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 |
+| 2 | [Wirang](https://open.spotify.com/track/2cNjYBMsuNELj4oJjYr0bg) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Wirang](https://open.spotify.com/album/1OdvMWMKFQGzLJ92gU8Atc) | 4:54 |
+| 3 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 |
+| 4 | [Piwales Tresno](https://open.spotify.com/track/0Bo51l3LBA1w0cnClTiV4S) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Piwales Tresno](https://open.spotify.com/album/7A3KCg9TnljGE3VywQRuix) | 4:19 |
 | 5 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 |
 | 6 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 |
 | 7 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 74 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 |
 | 75 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 
-Snapshot ID: `ZlQ4vAAAAABj44ckJNsWCBjbXtoNLtnS`
+Snapshot ID: `Zpmd0AAAAAAEDv0PcXv8ewr6phuBq1Du`

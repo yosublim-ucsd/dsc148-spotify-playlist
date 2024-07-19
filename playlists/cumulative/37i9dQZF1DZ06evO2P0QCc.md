@@ -2,7 +2,7 @@
 
 ### [This Is Inspector](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2P0QCc)
 
-> This Is Inspector\. Los temas esenciales, todos en una lista.
+> This is Inspector\. The essential tracks, all in one playlist.
 
 76 songs - 4 hr 37 min
 
@@ -67,9 +67,9 @@
 | [Serpientes Y Escaleras](https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:34 | 2023-09-09 |  |
 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 | 2023-07-09 |  |
 | [Sin Mirar Atrás](https://open.spotify.com/track/7963PdJLGFUHyc4a0qydqI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 3:29 | 2023-01-14 |  |
-| [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 | 2023-01-14 |  |
+| [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 | 2023-01-14 | 2024-07-19 |
 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 | 2023-01-14 |  |
-| [Sombras En El Frio](https://open.spotify.com/track/4J22WG9YKnsVJA4470wOUz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 2:33 | 2024-05-11 | 2024-07-18 |
+| [Sombras En El Frio](https://open.spotify.com/track/4J22WG9YKnsVJA4470wOUz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 2:33 | 2024-05-11 |  |
 | [Soy Soledad](https://open.spotify.com/track/50QvMSeHtzMjDGhgtWJDsi) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Soy Soledad](https://open.spotify.com/album/1k1MjUF3FtfOKtUKDzF9c8) | 3:28 | 2023-01-14 |  |
 | [Tan Grande](https://open.spotify.com/track/64KFKG9Wb7nY3PFNbTa0Wm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Tan Grande](https://open.spotify.com/album/3OMP46WlIEONRAwGym5Rcv) | 2:50 | 2023-01-14 | 2023-09-10 |
 | [Taxi driver](https://open.spotify.com/track/4DALnqsoxNqnomaniIhV1J) | [Shandon](https://open.spotify.com/artist/0Oi4nBngFfBMbLBIyrqQFn), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Best Of 25 Years On The Road](https://open.spotify.com/album/5G8yBKYcfpEkF3SZmRhdaQ) | 2:15 | 2023-01-14 | 2023-03-14 |

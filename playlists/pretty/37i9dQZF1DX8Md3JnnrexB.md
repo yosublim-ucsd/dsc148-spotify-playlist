@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,077 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,095 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 22 | [Always and Forever](https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
 | 23 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 24 | [Do It To Me](https://open.spotify.com/track/4tzqUn1y5GNrV0dKV9S5vC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 6:04 |
-| 25 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 |
-| 26 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
+| 25 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
+| 26 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 |
 | 27 | [After All](https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [High Crime](https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs) | 4:19 |
 | 28 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
 | 29 | [Too Hot \- Single Version](https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:46 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 39 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
 | 40 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 |
 | 41 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
-| 42 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
-| 43 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
+| 42 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
+| 43 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
 | 44 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
 | 45 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 46 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 94 | [Futurity](https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Futurity](https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi) | 4:14 |
 | 95 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
 | 96 | [Say That You Will](https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Essential George Duke](https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L) | 3:05 |
-| 97 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
-| 98 | [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 |
+| 97 | [With You I'm Born Again](https://open.spotify.com/track/58GhFs15VYJJHfSk99AZN7) | [Billy Preston](https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5), [Syreeta](https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB) | [Billy Preston & Syreeta \(Expanded Edition\)](https://open.spotify.com/album/2GAD8e7SJ79yfRblYuGfP0) | 3:39 |
+| 98 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
 | 99 | [It's Something](https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:31 |
 | 100 | [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 |
 

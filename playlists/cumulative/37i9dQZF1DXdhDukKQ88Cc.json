@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Bellingham Freestyle",
+        "url": "https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84259,
+      "name": "Bellingham Freestyle",
+      "url": "https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU"
+    },
+    {
+      "album": {
         "name": "BENZ",
         "url": "https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq"
       },

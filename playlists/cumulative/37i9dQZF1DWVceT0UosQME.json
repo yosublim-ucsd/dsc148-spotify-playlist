@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 101647,
       "name": "1989 at the bustop",
       "url": "https://open.spotify.com/track/4cWaEVuXUs1kRbfHhnlXmO"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 117882,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/6k9E1xFOHqUcsd6FhHF2YO"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 157355,
       "name": "beneath the willow",
       "url": "https://open.spotify.com/track/3vJqkYrcwjewv2GTSFdjwU"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 201368,
       "name": "Big City Issues",
       "url": "https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 135157,
       "name": "BYOB",
       "url": "https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177230,
       "name": "cabin weather",
       "url": "https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN"
@@ -3063,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Dreams",
+        "url": "https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy"
+      },
+      "artists": [
+        {
+          "name": "Holy Jamie",
+          "url": "https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120429,
+      "name": "Forgotten Dreams",
+      "url": "https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3"
+    },
+    {
+      "album": {
         "name": "Foyer",
         "url": "https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 167792,
       "name": "Free Yourself",
       "url": "https://open.spotify.com/track/71yIgNO9WFWYHxGkN4U7Qn"
@@ -3406,6 +3424,24 @@
       "duration_ms": 141578,
       "name": "Gas Guzzling",
       "url": "https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec"
+    },
+    {
+      "album": {
+        "name": "gelato",
+        "url": "https://open.spotify.com/album/23c7V8NdEmL48XQP3fVHC7"
+      },
+      "artists": [
+        {
+          "name": "haywrd",
+          "url": "https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146375,
+      "name": "gelato",
+      "url": "https://open.spotify.com/track/6Dz6mJnjVRnpA92Ab94bgq"
     },
     {
       "album": {
@@ -4389,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Island Bounce",
+        "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
+      },
+      "artists": [
+        {
+          "name": "Hi Hat Henry",
+          "url": "https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147788,
+      "name": "Island Bounce",
+      "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
+    {
+      "album": {
         "name": "Amu",
         "url": "https://open.spotify.com/album/0orzuB5fBME9S1tDhxwZjx"
       },
@@ -4670,7 +4724,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 112416,
       "name": "la vie",
       "url": "https://open.spotify.com/track/1lcF9TobcLEKVrMXW9hUDP"
@@ -4832,7 +4886,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 183707,
       "name": "Lemme Just Sunbleach (All Day All Night)",
       "url": "https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1"
@@ -4994,7 +5048,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171011,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/0EfQpTq8NDJG40Llhg411d"
@@ -5596,7 +5650,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 130746,
       "name": "Medow",
       "url": "https://open.spotify.com/track/0JoOEjVuA6VtEzHPVygoeA"
@@ -5758,7 +5812,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 130832,
       "name": "Midnight Vibes",
       "url": "https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv"
@@ -5956,7 +6010,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 112000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/3lYQ3kdb5YVZ038kG3BMkf"
@@ -5974,7 +6028,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 148600,
       "name": "morning coffee",
       "url": "https://open.spotify.com/track/22YaZEoX2OiG5yA2O3cHDv"
@@ -6954,6 +7008,24 @@
       "duration_ms": 140757,
       "name": "Peaches And Cream",
       "url": "https://open.spotify.com/track/14oGzCDd0Vc8zAmy4XZo9s"
+    },
+    {
+      "album": {
+        "name": "longing for",
+        "url": "https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165981,
+      "name": "peanut butter shake",
+      "url": "https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ"
     },
     {
       "album": {
@@ -8354,7 +8426,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 131333,
       "name": "SoFi",
       "url": "https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX"
@@ -8408,7 +8480,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-24",
+      "date_removed": null,
       "duration_ms": 123058,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6DD1Ddv0U7cTA2pqqmjWxR"
@@ -8714,7 +8786,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161294,
       "name": "stone walls",
       "url": "https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC"
@@ -9038,7 +9110,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Sweet water",
       "url": "https://open.spotify.com/track/31mFMlV5wX0KXSwlkQzudl"

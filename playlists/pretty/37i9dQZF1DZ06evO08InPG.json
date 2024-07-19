@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 57454,
+  "num_followers": 57467,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACDy8tT3lDAuata6zNcsVEa",
+  "snapshot_id": "ZpcJgAAAAAAgFSyoH6ixKA0j2mx/w83n",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blackening",
-        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
+        "name": "Through the Ashes of Empires",
+        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 636800,
-      "name": "Clenching the Fists of Dissent",
-      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
+      "duration_ms": 201506,
+      "name": "Bite the Bullet",
+      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through the Ashes of Empires",
-        "url": "https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d"
+        "name": "The Blackening",
+        "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Bite the Bullet",
-      "url": "https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi"
+      "duration_ms": 636800,
+      "name": "Clenching the Fists of Dissent",
+      "url": "https://open.spotify.com/track/7ao9MKmhkjeFxw0alndkdM"
     },
     {
       "added_at": null,

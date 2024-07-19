@@ -6621,6 +6621,24 @@
     },
     {
       "album": {
+        "name": "M\u00daSICA PARA ACORDAR",
+        "url": "https://open.spotify.com/album/3Drott4s2qDT1ebNDl83TL"
+      },
+      "artists": [
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134406,
+      "name": "M\u00daSICA PARA ACORDAR",
+      "url": "https://open.spotify.com/track/360fVrmetEVCIwaxdwFYfS"
+    },
+    {
+      "album": {
         "name": "Na Melhor",
         "url": "https://open.spotify.com/album/0SX3qdhoSCJFN211U13Hlv"
       },
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 126857,
       "name": "Vintesete",
       "url": "https://open.spotify.com/track/3J9bOV8zXkgRsMyzcr3qNF"

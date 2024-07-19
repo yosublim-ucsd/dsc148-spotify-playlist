@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,642 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,697 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 33 | [my new love](https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:05 |
 | 34 | [Drifting Away](https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [Drifting Away](https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa) | 2:45 |
 | 35 | [Starry Night](https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 4:58 |
-| 36 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
-| 37 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
+| 36 | [Shelter](https://open.spotify.com/track/2uiJtY5SHZI5dIvN7JmovH) | [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Shelter](https://open.spotify.com/album/1vsh8Ayq54a9N3XEXUT43e) | 2:40 |
+| 37 | [One](https://open.spotify.com/track/5P5qoDP64nxGf1WDGWUD8M) | [Sangam](https://open.spotify.com/artist/1ORqMSJSmrCCJtFNUt7OqR) | [You Forget This](https://open.spotify.com/album/2Ll8qxqQd6J2cIb0PgFHSC) | 1:44 |
 | 38 | [Color of Autumn](https://open.spotify.com/track/2u93OtblDZphLnmRFjBeeg) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 1:43 |
 | 39 | [where did you go?](https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [where did you go?](https://open.spotify.com/album/6hXY9yHknQ6mIca4ZOP1HG) | 1:36 |
 | 40 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
-| 41 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
-| 42 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
+| 41 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
+| 42 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 |
 | 43 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
 | 44 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
 | 45 | [A Time to Wait](https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X) | [Alicks](https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM) | [Help Me Out](https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi) | 3:27 |

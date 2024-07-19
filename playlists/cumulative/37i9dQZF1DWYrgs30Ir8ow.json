@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208471,
       "name": "Girls Wanna Have Fun",
       "url": "https://open.spotify.com/track/2Zu4Eg1f9xPjPYusZceHvo"
@@ -7335,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "MEISJE LUISTER II",
+      "url": "https://open.spotify.com/track/0t264eg7HmcCcTnPNtSwLF"
+    },
+    {
+      "album": {
         "name": "Meltdown",
         "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
       },
@@ -7412,7 +7430,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 139428,
       "name": "Mi Amor (with JVKE & Anitta)",
       "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
@@ -10304,6 +10322,28 @@
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Slippin' (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/3u37eIuYSP4w1CgP80vsl8"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168169,
+      "name": "Slippin' (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
     },
     {
       "album": {

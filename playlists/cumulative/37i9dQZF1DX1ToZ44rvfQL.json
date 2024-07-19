@@ -299,6 +299,28 @@
     },
     {
       "album": {
+        "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
+        "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        },
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349806,
+      "name": "Arruinarse (feat. Airbag) - En Vivo En River Plate",
+      "url": "https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
       },
@@ -786,7 +808,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 250426,
       "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
       "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"

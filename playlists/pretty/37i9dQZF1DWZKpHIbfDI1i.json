@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alu Mix, El Bogueto y Uzielito Mix  en portada.",
-  "num_followers": 684902,
+  "num_followers": 685188,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -136,12 +136,12 @@
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        },
-        {
           "name": "Geassassin",
           "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
         },
         {
           "name": "Teeam Revolver",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-07-12 18:49:59",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": "2024-07-12 18:49:59",
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 164386,
       "name": "Lo Tienes Todo",
       "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
+    },
+    {
+      "added_at": "2024-07-12 18:49:59",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": "2024-07-12 18:49:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-12 18:49:59",
       "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "EN LA PEDA",
+      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
+    },
+    {
+      "added_at": "2024-07-12 18:49:59",
+      "album": {
         "name": "Por Dentro",
         "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 165981,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
-    },
-    {
-      "added_at": "2024-07-12 18:49:59",
-      "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "EN LA PEDA",
-      "url": "https://open.spotify.com/track/3agTX6v1AbfY3mMA8qX2Bh"
     },
     {
       "added_at": "2024-07-12 18:49:59",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-12 18:49:59",
       "album": {
-        "name": "Kbron y Medio",
-        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 258441,
-      "name": "Kbron y Medio",
-      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
-    },
-    {
-      "added_at": "2024-07-12 18:49:59",
-      "album": {
         "name": "Lo Que Hay X Aqu\u00ed",
         "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2024-07-12 18:49:59",
+      "album": {
+        "name": "Kbron y Medio",
+        "url": "https://open.spotify.com/album/43lZUcMvNSAHtQTVHzAgax"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 258441,
+      "name": "Kbron y Medio",
+      "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
     },
     {
       "added_at": "2024-07-12 18:49:59",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-07-12 18:49:59",
       "album": {
-        "name": "LOS DOS",
-        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "LOS DOS",
-      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
-    },
-    {
-      "added_at": "2024-07-12 18:49:59",
-      "album": {
         "name": "Tunechi (with Gabito Ballesteros)",
         "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 212640,
       "name": "Tunechi (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+    },
+    {
+      "added_at": "2024-07-12 18:49:59",
+      "album": {
+        "name": "LOS DOS",
+        "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "LOS DOS",
+      "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
     },
     {
       "added_at": "2024-07-12 18:49:59",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2024-07-12 18:49:59",
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV"
+        "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+        "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
       },
       "artists": [
         {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 228880,
-      "name": "Buenos Tiempos",
-      "url": "https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx"
+      "duration_ms": 170751,
+      "name": "El Cielo Te Mand\u00f3 para M\u00ed",
+      "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
     }
   ],
   "unique_name": "Top M\u00e9xico",

@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Hocus Pocus",
+        "url": "https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0"
+    },
+    {
+      "album": {
         "name": "Corner Cutter",
         "url": "https://open.spotify.com/album/2oVRCSn7HvXRlNN9f7nFtE"
       },
@@ -510,10 +528,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 246139,
       "name": "Money (Hope Ain\u2019t Gone)",
       "url": "https://open.spotify.com/track/4W3lWptVUZBrCarHkiLniA"
+    },
+    {
+      "album": {
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180872,
+      "name": "Murder on the Dance Floor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "album": {
@@ -528,10 +564,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226720,
       "name": "Must Have Been New",
       "url": "https://open.spotify.com/track/5DEm7vf67ksyI50GvL0eIP"
+    },
+    {
+      "album": {
+        "name": "My Kinda Woman",
+        "url": "https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184676,
+      "name": "My Kinda Woman",
+      "url": "https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T"
     },
     {
       "album": {
@@ -550,6 +604,24 @@
       "duration_ms": 201233,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
+    },
+    {
+      "album": {
+        "name": "Decent Sex",
+        "url": "https://open.spotify.com/album/4nZedGZUFguFyyZxZmcrt5"
+      },
+      "artists": [
+        {
+          "name": "Meltheads",
+          "url": "https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120003,
+      "name": "No One Is Innocent",
+      "url": "https://open.spotify.com/track/1EKs3esr4su4Ue3giL0Kpx"
     },
     {
       "album": {
@@ -604,7 +676,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
@@ -640,7 +712,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160413,
       "name": "One More",
       "url": "https://open.spotify.com/track/0fkzqZcxXDBGuYrbP8DHNE"

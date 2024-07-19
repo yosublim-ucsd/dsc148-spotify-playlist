@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia, Generic Animal in cover \ud83c\udfb8",
+  "description": "Rock, indie e punk dall'Italia, GIIN in cover \ud83c\udfb8",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1524,6 +1524,24 @@
       "duration_ms": 195332,
       "name": "Bar Adriana",
       "url": "https://open.spotify.com/track/1168KypL7NOio4ccumuODe"
+    },
+    {
+      "album": {
+        "name": "Scherzo Eterno",
+        "url": "https://open.spotify.com/album/0DKGfiSJHH4rwwxOe389As"
+      },
+      "artists": [
+        {
+          "name": "Stegosauro",
+          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Bar Sport",
+      "url": "https://open.spotify.com/track/0PD9azht6O41WQRG4TrjXs"
     },
     {
       "album": {
@@ -4555,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Disordine",
+        "url": "https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Disordine",
+      "url": "https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/65J99vAYR0FUUZhuRJDkr1"
       },
@@ -7545,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "I've made big decision",
+        "url": "https://open.spotify.com/album/7yhlRcEfp6JaoOjCaxZM31"
+      },
+      "artists": [
+        {
+          "name": "LELAND DID IT",
+          "url": "https://open.spotify.com/artist/32QkiHU5uqxQVCPUU31M4b"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176651,
+      "name": "I've made big decision",
+      "url": "https://open.spotify.com/track/4zfNlVDnK9H1UVtFdYYSbe"
+    },
+    {
+      "album": {
         "name": "I.KNOW.YOU.KNOW.IT.",
         "url": "https://open.spotify.com/album/3nVkK5RaSLXYld21Z4t9re"
       },
@@ -9702,7 +9756,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 166306,
       "name": "Lost In The Middle",
       "url": "https://open.spotify.com/track/03KbVqtDoKQa42MOaJ86FU"
@@ -13040,7 +13094,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209825,
       "name": "Pixel",
       "url": "https://open.spotify.com/track/0vi7G39FGuQHL8YqLTS9r5"
@@ -15239,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "Shoplifting / Balloon Demon",
+        "url": "https://open.spotify.com/album/5tnFsb9Uhrv4QiwUlCYAj6"
+      },
+      "artists": [
+        {
+          "name": "Kuntessa",
+          "url": "https://open.spotify.com/artist/3vJiNTj6tI54H1wa61rDlU"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178867,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/2zccIbsEJWR44V3grareIL"
+    },
+    {
+      "album": {
         "name": "Showu",
         "url": "https://open.spotify.com/album/13luLECarR62ppW5Eou17m"
       },
@@ -15592,7 +15664,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177947,
       "name": "SOUTH MANICOMIO",
       "url": "https://open.spotify.com/track/1hsWanzRenfDfghS93SG2D"
@@ -15892,7 +15964,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195740,
       "name": "Stile Migliore",
       "url": "https://open.spotify.com/track/29LfSdq1yEeQsl6183htYS"
@@ -16336,7 +16408,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 159586,
       "name": "SUPERORGASMO",
       "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
@@ -16594,6 +16666,24 @@
       "duration_ms": 211679,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/09INTlPvAZek1ujj5ZJfd1"
+    },
+    {
+      "album": {
+        "name": "The Depth Of An Answer",
+        "url": "https://open.spotify.com/album/0IlHcsXe4APAegzwVcKbpe"
+      },
+      "artists": [
+        {
+          "name": "Dumbo Gets Mad",
+          "url": "https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250174,
+      "name": "The Depth Of An Answer",
+      "url": "https://open.spotify.com/track/4Ctd50Er8N3MIOirhnJl6W"
     },
     {
       "album": {
@@ -17506,6 +17596,24 @@
       "duration_ms": 222576,
       "name": "Tutte le Botte",
       "url": "https://open.spotify.com/track/32HfeY8OtwZUE94ho5TiaM"
+    },
+    {
+      "album": {
+        "name": "Tutte Quelle Volte",
+        "url": "https://open.spotify.com/album/04yXVQDf5ip8gMCMPXWBtn"
+      },
+      "artists": [
+        {
+          "name": "NUBIARSE",
+          "url": "https://open.spotify.com/artist/7KYEK9g2ajKzn9n0tWCxSl"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Tutte Quelle Volte",
+      "url": "https://open.spotify.com/track/7ycO9KRzFMB6pEyzGeBZC6"
     },
     {
       "album": {

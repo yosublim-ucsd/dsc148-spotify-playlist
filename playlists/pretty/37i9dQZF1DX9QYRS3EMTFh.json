@@ -1,31 +1,15 @@
 {
-  "description": "Les hits dancehall du moment. Photo : Kalash",
-  "num_followers": 152164,
+  "description": "Les hits dancehall du moment. Photo : P.L.L",
+  "num_followers": 152323,
   "original_name": "Dancehall Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpBV4AAAAAAI9PK1Ffl3aRJjnoZqEGve",
+  "snapshot_id": "ZpmQYAAAAAAwDxmZl3Df3X8jabJ6b7++",
   "tracks": [
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "SO COMAN",
-        "url": "https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        }
-      ],
-      "duration_ms": 137849,
-      "name": "SO COMAN",
-      "url": "https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Phase II",
         "url": "https://open.spotify.com/album/0tkCeSJBM9WJ2v8HEZhfcs"
@@ -41,7 +25,27 @@
       "url": "https://open.spotify.com/track/27tI3hQIcNGu4QwMs7RBkF"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 114407,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Caviar I",
         "url": "https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh"
@@ -81,127 +85,23 @@
       "url": "https://open.spotify.com/track/54AVydEuJjKSsE0VPUmQWq"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/5FOrO5dMMmMSvBuTLS2WRF"
+        "name": "SO COMAN",
+        "url": "https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F"
       },
       "artists": [
-        {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        },
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 114407,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/6ConL2W4eA29qy66IPAm0U"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Pum Fat",
-        "url": "https://open.spotify.com/album/2op5l53glUAbULyN4YulfW"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 143564,
-      "name": "Pum Fat",
-      "url": "https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "En Balade",
-        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        },
         {
           "name": "Kalash",
           "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
         }
       ],
-      "duration_ms": 211760,
-      "name": "En Balade",
-      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
+      "duration_ms": 137849,
+      "name": "SO COMAN",
+      "url": "https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Hit & Run (feat. Masicka & Di Genius)",
-        "url": "https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        },
-        {
-          "name": "Di Genius",
-          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
-        }
-      ],
-      "duration_ms": 169581,
-      "name": "Hit & Run (feat. Masicka & Di Genius)",
-      "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "MAYA",
-        "url": "https://open.spotify.com/album/5H7hZGLsJhRUcGk2TGSZIb"
-      },
-      "artists": [
-        {
-          "name": "P.L.L",
-          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "MAYA",
-      "url": "https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Yozo",
-        "url": "https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Yozo",
-          "url": "https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG"
-        },
-        {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
-        }
-      ],
-      "duration_ms": 137397,
-      "name": "Yozo",
-      "url": "https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "CODE 97, Vol. 1",
         "url": "https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf"
@@ -212,60 +112,16 @@
           "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
         },
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Code 97",
-      "url": "https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6"
+      "duration_ms": 150773,
+      "name": "Matos",
+      "url": "https://open.spotify.com/track/3tzHHoCOtQARYU29AgLhqJ"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Bubble Up !",
-        "url": "https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu"
-      },
-      "artists": [
-        {
-          "name": "DJ Mike One",
-          "url": "https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd"
-        },
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "T-Matt",
-          "url": "https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm"
-        }
-      ],
-      "duration_ms": 206784,
-      "name": "Bubble Up !",
-      "url": "https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Monte \u00e0 bord",
-        "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
-      },
-      "artists": [
-        {
-          "name": "Lazuli",
-          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        }
-      ],
-      "duration_ms": 153506,
-      "name": "Monte \u00e0 bord",
-      "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Vieux cl\u00e9bard",
         "url": "https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8"
@@ -285,31 +141,59 @@
       "url": "https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Pon Di Ting",
-        "url": "https://open.spotify.com/album/6dxDwrTZCIfNsGCKYCbA8y"
+        "name": "MAYA",
+        "url": "https://open.spotify.com/album/5H7hZGLsJhRUcGk2TGSZIb"
       },
       "artists": [
         {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
         }
       ],
-      "duration_ms": 140458,
-      "name": "Pon Di Ting",
-      "url": "https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45"
+      "duration_ms": 134857,
+      "name": "MAYA",
+      "url": "https://open.spotify.com/track/6cqJJDfbciv7LUVB384DHw"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/0WIX8aQ4NyUv7udYrrZMyL"
+      },
+      "artists": [
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "duration_ms": 156651,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/1uMNz6kjNjozloAy0O7vbO"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "LA PLI SI TOL (Shatta Remix)",
+        "url": "https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV"
+      },
+      "artists": [
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "LA PLI SI TOL - Shatta Remix",
+      "url": "https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "MIKATUSS",
         "url": "https://open.spotify.com/album/4wiic4l4CDpnvaIBBpnbUb"
@@ -333,27 +217,419 @@
       "url": "https://open.spotify.com/track/7CYXnqlTdg1HDLN3hO5LM8"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/0WIX8aQ4NyUv7udYrrZMyL"
+        "name": "Monte \u00e0 bord",
+        "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
       },
       "artists": [
         {
-          "name": "Natoxie",
-          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
         },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "Monte \u00e0 bord",
+      "url": "https://open.spotify.com/track/4lhntjwptLAURpNV871ECl"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Yo Bunny",
+        "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
+      },
+      "artists": [
+        {
+          "name": "prodbycpkshawn",
+          "url": "https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z"
+        },
+        {
+          "name": "Ugly Andz.",
+          "url": "https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW"
+        }
+      ],
+      "duration_ms": 110471,
+      "name": "Yo Bunny",
+      "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "En Balade",
+        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 211760,
+      "name": "En Balade",
+      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "WOOW (Holiday Session)",
+        "url": "https://open.spotify.com/album/1D6m3OnzCGn7BM5S66XRqZ"
+      },
+      "artists": [
         {
           "name": "Bamby",
           "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
         }
       ],
-      "duration_ms": 156651,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/1uMNz6kjNjozloAy0O7vbO"
+      "duration_ms": 103234,
+      "name": "WOOW (Holiday Session)",
+      "url": "https://open.spotify.com/track/3n2GcTzqz6uOkEbyvm1MU4"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Yozo",
+        "url": "https://open.spotify.com/album/1kwssT1xqCkbgGb6mfUpJP"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Yozo",
+          "url": "https://open.spotify.com/artist/0eENwoLRhIVvT0dfzhgmUG"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "duration_ms": 137397,
+      "name": "Yozo",
+      "url": "https://open.spotify.com/track/7FKH8cRBqFjgxfArnJLqaW"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Pon Di Ting",
+        "url": "https://open.spotify.com/album/6dxDwrTZCIfNsGCKYCbA8y"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 140458,
+      "name": "Pon Di Ting",
+      "url": "https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Hit & Run (feat. Masicka & Di Genius)",
+        "url": "https://open.spotify.com/album/3vbNkltSdpHgFNwC9QB2dl"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "duration_ms": 169581,
+      "name": "Hit & Run (feat. Masicka & Di Genius)",
+      "url": "https://open.spotify.com/track/7hgY5a1FNiChuxoSZDyaMs"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Baby (Hum Connection)",
+        "url": "https://open.spotify.com/album/31qxLedaIwyPFJVZQfk77M"
+      },
+      "artists": [
+        {
+          "name": "King Serenity",
+          "url": "https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Caroliina",
+          "url": "https://open.spotify.com/artist/5zSv8ebxJp6esGCMu1pxaH"
+        }
+      ],
+      "duration_ms": 165037,
+      "name": "Baby (Hum Connection)",
+      "url": "https://open.spotify.com/track/4o7LQikZkKpaY0sYyEvivc"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Pum Fat",
+        "url": "https://open.spotify.com/album/2op5l53glUAbULyN4YulfW"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 143564,
+      "name": "Pum Fat",
+      "url": "https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "CODE 97, Vol. 1",
+        "url": "https://open.spotify.com/album/5F7gMyMowj4xlt1cYvAJEf"
+      },
+      "artists": [
+        {
+          "name": "Dj Quick",
+          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Code 97",
+      "url": "https://open.spotify.com/track/756ErmT4AiOj7uQjFna3r6"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Mon combat",
+        "url": "https://open.spotify.com/album/4FbLDYFDKqVMqiljz4LlqH"
+      },
+      "artists": [
+        {
+          "name": "MCBOX",
+          "url": "https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5"
+        },
+        {
+          "name": "Tidem",
+          "url": "https://open.spotify.com/artist/6sTLgEEZMRu3PTRjhyHD2U"
+        },
+        {
+          "name": "VJ Awax",
+          "url": "https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Mon combat",
+      "url": "https://open.spotify.com/track/73laRkwZIP1kcwgOPYoNGG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6"
+      },
+      "artists": [
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "GOD BLESS (Ah la vie qu'on m\u00e8ne)",
+        "url": "https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17"
+      },
+      "artists": [
+        {
+          "name": "Krys",
+          "url": "https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "GOD BLESS - Ah la vie qu'on m\u00e8ne",
+      "url": "https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Whippin",
+        "url": "https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Ayewai",
+          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Whippin",
+      "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "MI MAS LA (Karata)",
+        "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
+      },
+      "artists": [
+        {
+          "name": "Riddla",
+          "url": "https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw"
+        },
+        {
+          "name": "Mas Ka Kl\u00e9",
+          "url": "https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo"
+        }
+      ],
+      "duration_ms": 133875,
+      "name": "MI MAS LA - Karata",
+      "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "BAD QUEEN",
+        "url": "https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 112279,
+      "name": "Kompet",
+      "url": "https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "C'M\u00e9chant",
+        "url": "https://open.spotify.com/album/0EvfTeUySDV4bmRAQZis2r"
+      },
+      "artists": [
+        {
+          "name": "X-Man",
+          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
+        },
+        {
+          "name": "Danthology",
+          "url": "https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/1qjqfHddO0S8QhhPp1utLh"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "BONBON",
+        "url": "https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo"
+      },
+      "artists": [
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        },
+        {
+          "name": "DJ PHIL",
+          "url": "https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "BONBON",
+      "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "KALIKUSH",
         "url": "https://open.spotify.com/album/2s6O18pOFbYyDtfTsS52RI"
@@ -377,151 +653,7 @@
       "url": "https://open.spotify.com/track/6K9E9IhuWhSio7ZvE8Tzdt"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Whippin",
-        "url": "https://open.spotify.com/album/0bMNXPD81ovzEyjdY54kv0"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Ayewai",
-          "url": "https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Whippin",
-      "url": "https://open.spotify.com/track/73jr3utBPfn5ro0m4v2YQV"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "C'M\u00e9chant",
-        "url": "https://open.spotify.com/album/0EvfTeUySDV4bmRAQZis2r"
-      },
-      "artists": [
-        {
-          "name": "X-Man",
-          "url": "https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4"
-        },
-        {
-          "name": "Danthology",
-          "url": "https://open.spotify.com/artist/6Rii9NJk3gtAOB1qnbTYPM"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/1qjqfHddO0S8QhhPp1utLh"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Shatta Land",
-        "url": "https://open.spotify.com/album/7tLv4sLOQ3zO7DjklUyDNs"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Gyzmo",
-          "url": "https://open.spotify.com/artist/3YLQYvd1uOBKqbJ1SSwXf7"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "Shatta Land",
-      "url": "https://open.spotify.com/track/1Zb9a8qb9M5fTA0KEnnzAI"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Basshall Sound",
-        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
-      },
-      "artists": [
-        {
-          "name": "Kalibwoy",
-          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        },
-        {
-          "name": "Big Shenn",
-          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
-        }
-      ],
-      "duration_ms": 135824,
-      "name": "Basshall Sound",
-      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Favourite Girl",
-        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Dess Dior",
-          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Favourite Girl",
-      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Talibans II",
-        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Talibans II",
-      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "On pick",
         "url": "https://open.spotify.com/album/3MYH7QTFGXPieMg1DXZb5k"
@@ -541,27 +673,7 @@
       "url": "https://open.spotify.com/track/7iHBCREM7INf7DRZohL5jx"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Minimum",
-        "url": "https://open.spotify.com/album/3cgzvN00LkYhzufUpDjIA6"
-      },
-      "artists": [
-        {
-          "name": "Dj Leska",
-          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
-        },
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/57Z4G1fZ5GDEbmhrQFQWRA"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/3ER9n0Pq3mhv2q60sLwKNc"
@@ -581,83 +693,7 @@
       "url": "https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "BONBON",
-        "url": "https://open.spotify.com/album/5lF0CGYmGGL40hseludKyo"
-      },
-      "artists": [
-        {
-          "name": "TMatt",
-          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
-        },
-        {
-          "name": "DJ PHIL",
-          "url": "https://open.spotify.com/artist/2Yc5AMLoJadf2uqow6ex9G"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "BONBON",
-      "url": "https://open.spotify.com/track/1RYyZOfxHdNRP8iddTFsr4"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "MI MAS LA (Karata)",
-        "url": "https://open.spotify.com/album/18S8x5HKpnLVE2muRlMPvM"
-      },
-      "artists": [
-        {
-          "name": "Riddla",
-          "url": "https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw"
-        },
-        {
-          "name": "Mas Ka Kl\u00e9",
-          "url": "https://open.spotify.com/artist/6D0khW9GeCCJ1VBU4tlRbo"
-        }
-      ],
-      "duration_ms": 133875,
-      "name": "MI MAS LA - Karata",
-      "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "BAD QUEEN",
-        "url": "https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 112279,
-      "name": "Kompet",
-      "url": "https://open.spotify.com/track/5xsXZb32iVcnWrjSURBCkC"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "CODE 97, Vol. 2",
-        "url": "https://open.spotify.com/album/5zmLscnBgLjTwIMlIhTXrF"
-      },
-      "artists": [
-        {
-          "name": "Dj Quick",
-          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
-        },
-        {
-          "name": "Bamby",
-          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "No mix with b*tch",
-      "url": "https://open.spotify.com/track/7owgVdKse0lkf1CwdVbNQr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Party On",
         "url": "https://open.spotify.com/album/1coSbSQvXJswfgF4cGo7Sn"
@@ -677,43 +713,7 @@
       "url": "https://open.spotify.com/track/41ANYkqBWPy1XwQ8sz2o8f"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3A2wJyEUBdgwWAN6Bn1Xpi"
-      },
-      "artists": [
-        {
-          "name": "Dj Quick",
-          "url": "https://open.spotify.com/artist/4tjoob53d4b26AjGJ49kuF"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        }
-      ],
-      "duration_ms": 172171,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/14KVzyw4gFhIv6r43dYHbt"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "PILOTE",
-        "url": "https://open.spotify.com/album/4iG6HUG84TN0DB69yqOMUI"
-      },
-      "artists": [
-        {
-          "name": "Jahlys",
-          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
-        }
-      ],
-      "duration_ms": 148775,
-      "name": "PILOTE",
-      "url": "https://open.spotify.com/track/6glTCHV51cQzm9HpoBVbK0"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Choppa (with Lil Baby & Rvssian)",
         "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
@@ -737,47 +737,47 @@
       "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "La Ref",
-        "url": "https://open.spotify.com/album/7uQ40nTbZi313BFpFa0b00"
+        "name": "Basshall Sound",
+        "url": "https://open.spotify.com/album/0aptnL9Ov80AzVDKA1Tnxy"
       },
       "artists": [
         {
-          "name": "Tiwony",
-          "url": "https://open.spotify.com/artist/6hHVAKBvEYH2fVGqxwvPXB"
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
         },
         {
-          "name": "BadSam",
-          "url": "https://open.spotify.com/artist/6yt02VhBA2LxpnNihixNdH"
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
         },
         {
-          "name": "Cisko",
-          "url": "https://open.spotify.com/artist/5WOVabPnwNJkP6wAnj39FH"
+          "name": "Big Shenn",
+          "url": "https://open.spotify.com/artist/1oRevsg3KXvciSXKMlsEZl"
         }
       ],
-      "duration_ms": 141837,
-      "name": "La Ref",
-      "url": "https://open.spotify.com/track/1c15kL5FFVaCywQOGNlXae"
+      "duration_ms": 135824,
+      "name": "Basshall Sound",
+      "url": "https://open.spotify.com/track/123Z3LCGVhRKvZnEP8uqUt"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Alchimie",
-        "url": "https://open.spotify.com/album/2D9CM8M3w9eHRrtSNz1JIU"
+        "name": "PILOTE",
+        "url": "https://open.spotify.com/album/4iG6HUG84TN0DB69yqOMUI"
       },
       "artists": [
         {
-          "name": "T-Stone",
-          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
         }
       ],
-      "duration_ms": 141094,
-      "name": "Alchimie",
-      "url": "https://open.spotify.com/track/5bK2gxH2OmuJP8SjcjFql7"
+      "duration_ms": 148775,
+      "name": "PILOTE",
+      "url": "https://open.spotify.com/track/6glTCHV51cQzm9HpoBVbK0"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "Sidung & Slay",
         "url": "https://open.spotify.com/album/6lfTEteHuIohpTomwWjuYN"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3WJ38AKbw4WyVTVZlVDPce"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "CHO CHO",
         "url": "https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN"
@@ -817,28 +817,20 @@
       "url": "https://open.spotify.com/track/5hbvvhmXmMDeoa63XaVowC"
     },
     {
-      "added_at": "2024-07-11 22:00:00",
+      "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Mon Gat\u00e9",
-        "url": "https://open.spotify.com/album/3UuFPqgi8XdbuM7O5PZQpL"
+        "name": "Alchimie",
+        "url": "https://open.spotify.com/album/2D9CM8M3w9eHRrtSNz1JIU"
       },
       "artists": [
         {
-          "name": "Scory Kovitch",
-          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
-        },
-        {
-          "name": "Staniski",
-          "url": "https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT"
-        },
-        {
-          "name": "Kaf Malbar",
-          "url": "https://open.spotify.com/artist/1id4EoPVo5qfzdP5gMf5U3"
+          "name": "T-Stone",
+          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
         }
       ],
-      "duration_ms": 171539,
-      "name": "Mon Gat\u00e9",
-      "url": "https://open.spotify.com/track/5OuP3nqgRJ2csUPrhBJGyq"
+      "duration_ms": 141094,
+      "name": "Alchimie",
+      "url": "https://open.spotify.com/track/5bK2gxH2OmuJP8SjcjFql7"
     }
   ],
   "unique_name": "Dancehall Station",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Ethic Entertainment",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: Maandy",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 202352,
       "name": "Bestie Bestie",
       "url": "https://open.spotify.com/track/3yvo1fzIADFYewf9McFjoN"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 185279,
       "name": "Body Count",
       "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 160835,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/1v9npX1JzqLnSvpziS6RoG"
@@ -4652,6 +4652,28 @@
       "duration_ms": 182400,
       "name": "Mi Sijali",
       "url": "https://open.spotify.com/track/4psx637Vu7806YieaXQdbZ"
+    },
+    {
+      "album": {
+        "name": "Boyz in Blue",
+        "url": "https://open.spotify.com/album/2lMeJnrN5DO346fWZNfEUg"
+      },
+      "artists": [
+        {
+          "name": "Kanzu",
+          "url": "https://open.spotify.com/artist/68S8OB2XCLTShiu2o3Y8ti"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214468,
+      "name": "Mi Sirudi",
+      "url": "https://open.spotify.com/track/0OuWOnixVKCr7BOkSfgVAy"
     },
     {
       "album": {
@@ -5216,6 +5238,24 @@
       "duration_ms": 219782,
       "name": "Nasikia Wah",
       "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
+    },
+    {
+      "album": {
+        "name": "Naskia Fiti",
+        "url": "https://open.spotify.com/album/0nQpnWjlVNkmo8cD6Z2TdW"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213357,
+      "name": "Naskia Fiti",
+      "url": "https://open.spotify.com/track/3RzzuGZTCWR5yvfQIJWjO3"
     },
     {
       "album": {
@@ -6629,6 +6669,28 @@
     },
     {
       "album": {
+        "name": "Sabina Joy",
+        "url": "https://open.spotify.com/album/2yUjXD4RWeLHEcNlZuYEke"
+      },
+      "artists": [
+        {
+          "name": "Movaz Warombosaji Nation",
+          "url": "https://open.spotify.com/artist/3PD9R9ASKty0YJxFh1MMQb"
+        },
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/6nqyNpXD7YcMS02hL6LP0c"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Sabina Joy",
+      "url": "https://open.spotify.com/track/5GLmxxF2hS6iQJWXslh14r"
+    },
+    {
+      "album": {
         "name": "Sam C",
         "url": "https://open.spotify.com/album/5DwRtZXNI08ZpfiBntPJDB"
       },
@@ -6984,7 +7046,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 221175,
       "name": "Si Unajua",
       "url": "https://open.spotify.com/track/0hIzn15rP82pk1b166xmKq"
@@ -8402,6 +8464,28 @@
       "duration_ms": 154017,
       "name": "Weh Decide",
       "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
+    },
+    {
+      "album": {
+        "name": "Wezere Wezere",
+        "url": "https://open.spotify.com/album/7ts7zOpqZMExAxTVcn27pc"
+      },
+      "artists": [
+        {
+          "name": "Storyteller Sam",
+          "url": "https://open.spotify.com/artist/2fPoc0IkxF7Y64uDy1O99x"
+        },
+        {
+          "name": "K Chucky",
+          "url": "https://open.spotify.com/artist/2yNPp1ubU29iO9S4lR1Zeh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215744,
+      "name": "Wezere Wezere",
+      "url": "https://open.spotify.com/track/7zAI8S0CIYFB7o2dbmMkpm"
     },
     {
       "album": {

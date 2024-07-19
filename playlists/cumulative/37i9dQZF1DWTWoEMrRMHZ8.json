@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "A Viagem",
+        "url": "https://open.spotify.com/album/224u7uWJVzF7m8BJGdoPY7"
+      },
+      "artists": [
+        {
+          "name": "Maur\u00edcio Mattar",
+          "url": "https://open.spotify.com/artist/7cWlxZeXuvQ16EwXRE5HR5"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "A Viagem",
+      "url": "https://open.spotify.com/track/1G7FhqttY6lVQ7JHg70hGF"
+    },
+    {
+      "album": {
         "name": "A \u00faltima, quem sabe",
         "url": "https://open.spotify.com/album/11YF1bkfXHO3Wiox6fBTUd"
       },
@@ -1547,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+    },
+    {
+      "album": {
         "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
       },
@@ -1562,6 +1598,24 @@
       "duration_ms": 269061,
       "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
+    },
+    {
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "album": {
@@ -3374,7 +3428,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 208608,
       "name": "Cuida de mim",
       "url": "https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh"
@@ -4897,6 +4951,24 @@
     },
     {
       "album": {
+        "name": "Even Bossa If I Have To",
+        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151676,
+      "name": "Even Bossa If I Have To",
+      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
+    },
+    {
+      "album": {
         "name": "Evid\u00eancias",
         "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
       },
@@ -5112,7 +5184,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 206781,
       "name": "FICA",
       "url": "https://open.spotify.com/track/5fMTlLvvfPZ0xWSCcTsZFz"
@@ -5258,6 +5330,24 @@
       "duration_ms": 194443,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+    },
+    {
+      "album": {
+        "name": "E o Tempo Agora Quer Voar",
+        "url": "https://open.spotify.com/album/3anQ7h3Q9qFf1Z20l68Rfl"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209461,
+      "name": "Foi S\u00f3 Porque Voc\u00ea N\u00e3o Quis",
+      "url": "https://open.spotify.com/track/6UP16pYJ5dUKWlSnyf21cg"
     },
     {
       "album": {
@@ -6004,6 +6094,28 @@
       "duration_ms": 199693,
       "name": "Jasmim Parte 1",
       "url": "https://open.spotify.com/track/2K7avC9Vm9wnXqTdsG5SW9"
+    },
+    {
+      "album": {
+        "name": "Jovens, fantasmas e dinheiro",
+        "url": "https://open.spotify.com/album/61Fhk7mWilI50sCIF5jkOf"
+      },
+      "artists": [
+        {
+          "name": "Sanza",
+          "url": "https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx"
+        },
+        {
+          "name": "Nova Alquimia",
+          "url": "https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119206,
+      "name": "Jovens, fantasmas e dinheiro",
+      "url": "https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9"
     },
     {
       "album": {
@@ -7449,6 +7561,24 @@
     },
     {
       "album": {
+        "name": "Cai\u00e7ara de Leque",
+        "url": "https://open.spotify.com/album/4S9afgqneBTTuqj2vlNBpA"
+      },
+      "artists": [
+        {
+          "name": "Maha Sati",
+          "url": "https://open.spotify.com/artist/5NbP2JqRhw1RdkLpcGlkQW"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222854,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/2Mnm0vPCoYYWffYywmVzvc"
+    },
+    {
+      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -7646,6 +7776,24 @@
       "duration_ms": 256344,
       "name": "Multicolorida",
       "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+    },
+    {
+      "album": {
+        "name": "Na Can\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2eLJBKPl926NFmQu5ml8CR"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Jr.",
+          "url": "https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145416,
+      "name": "Na Can\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
     },
     {
       "album": {
@@ -9662,7 +9810,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 167671,
       "name": "passeando no seu jeito",
       "url": "https://open.spotify.com/track/0TIiAUocHUlmjQsHuq6HEh"
@@ -10296,6 +10444,24 @@
       "duration_ms": 242000,
       "name": "Prazer Carnal",
       "url": "https://open.spotify.com/track/3XNunTqvR2cxO2uSF76EN0"
+    },
+    {
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "album": {
@@ -10970,6 +11136,28 @@
       "duration_ms": 194752,
       "name": "Querer Bem",
       "url": "https://open.spotify.com/track/3RcuVUmmvEj93JXG5iC6rj"
+    },
+    {
+      "album": {
+        "name": "Quero Andar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
+      },
+      "artists": [
+        {
+          "name": "Regina Souza",
+          "url": "https://open.spotify.com/artist/20L6gsqmlHaA3SVwbnSWGi"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216181,
+      "name": "Quero Andar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5xDxDcBJ7C5c8Ky4ArUdTV"
     },
     {
       "album": {
@@ -11749,6 +11937,44 @@
     },
     {
       "album": {
+        "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
+        "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Lula Galv\u00e3o",
+          "url": "https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324529,
+      "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
+      "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+    },
+    {
+      "album": {
         "name": "Saudade Fez um Samba",
         "url": "https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7"
       },
@@ -11942,7 +12168,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 222714,
       "name": "Segue o Jogo",
       "url": "https://open.spotify.com/track/6nFnTql6A9bk4W4WMBS819"
@@ -13993,6 +14219,32 @@
     },
     {
       "album": {
+        "name": "Uma nova hist\u00f3ria",
+        "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
+      },
+      "artists": [
+        {
+          "name": "Dota Kehr",
+          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
+        },
+        {
+          "name": "Danilo Guilherme",
+          "url": "https://open.spotify.com/artist/2Tdp01f0oQIAkykqdsR0iN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159434,
+      "name": "Uma nova hist\u00f3ria",
+      "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
+    },
+    {
+      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -14168,6 +14420,28 @@
       "duration_ms": 177706,
       "name": "Vento Leva",
       "url": "https://open.spotify.com/track/0UdCw6cxeNwYjGjS531p2T"
+    },
+    {
+      "album": {
+        "name": "Vento no Canavial",
+        "url": "https://open.spotify.com/album/70cOZazORuBs8VoC7ef3c0"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Em\u00edlio Santiago",
+          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "Vento no Canavial",
+      "url": "https://open.spotify.com/track/60Cd1TrpjBkCvU53BbEdKL"
     },
     {
       "album": {
@@ -14746,6 +15020,24 @@
       "duration_ms": 167061,
       "name": "\u00c1rvore - Ao Vivo no Rio",
       "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
+    },
+    {
+      "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "album": {

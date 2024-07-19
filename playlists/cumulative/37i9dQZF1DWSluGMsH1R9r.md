@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-679 songs - 1 day 5 hr 6 min
+681 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-03 |  |
 | [Babirusa](https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Babirusa](https://open.spotify.com/album/5Z7SPXUfQWmok6CTmNXfLM) | 2:32 | 2021-12-07 | 2023-05-20 |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-03-01 |  |
+| [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 | 2024-07-16 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Beaux rêves](https://open.spotify.com/track/0VHi3PLzP7SMwqkGnKxi1y) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Beaux rêves](https://open.spotify.com/album/5v24BnULMZWMJ7aJLtXvEb) | 2:13 | 2022-02-01 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2021-12-07 | 2023-01-27 |
@@ -460,7 +461,7 @@
 | [Primrose Hill](https://open.spotify.com/track/1at46An3uytKsd32hqQkpw) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Primrose Hill](https://open.spotify.com/album/7HfmF0KuzcMYURt7mhN1sa) | 2:52 | 2021-12-07 | 2024-04-19 |
 | [Progression](https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Progression](https://open.spotify.com/album/307SxWZ8sKnBFJMDe176cI) | 2:21 | 2021-12-07 |  |
 | [Promenade](https://open.spotify.com/track/5pNtFAPRtX6FWcTTJIgt7k) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [Promenade](https://open.spotify.com/album/2Aamlg8UdJK3C1rAs4cuWq) | 2:10 | 2021-12-07 |  |
-| [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 | 2022-02-01 |  |
+| [Promenade](https://open.spotify.com/track/7mRoJ7GqlDNNRfhjoc3Jk9) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Promenade](https://open.spotify.com/album/3LW1XhKVlovivBri0LDZwB) | 2:00 | 2022-02-01 | 2024-07-19 |
 | [Pure](https://open.spotify.com/track/4UYGDtJioYGL91h7FTW1Kz) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Pure](https://open.spotify.com/album/79vJYtitjs0sp2LS8lsXSr) | 2:18 | 2021-12-07 | 2023-01-27 |
 | [Pure](https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:19 | 2023-01-26 | 2023-08-18 |
 | [purple](https://open.spotify.com/track/6V3dW0yDfaVmruskoTBZdr) | [June Faulkner](https://open.spotify.com/artist/3y5opCdWummR85Am4kEc3M) | [glass eyes](https://open.spotify.com/album/35kYcnARS82yoocVD5eghR) | 2:33 | 2021-12-07 |  |
@@ -483,6 +484,7 @@
 | [Remember those quiet evenings](https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Remember those quiet evenings](https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl) | 2:36 | 2024-05-01 |  |
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2021-12-07 | 2022-02-02 |
 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 | 2023-07-04 |  |
+| [Replenish](https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Replenish](https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf) | 2:26 | 2024-07-16 |  |
 | [Respectfully](https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:10 | 2023-09-05 | 2023-10-05 |
 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-03-05 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2021-12-07 |  |
@@ -564,7 +566,7 @@
 | [Sweet Cherie](https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Sweet Cherie](https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD) | 3:07 | 2021-12-07 | 2022-07-16 |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2021-12-07 | 2022-07-16 |
 | [Symposium](https://open.spotify.com/track/2FJiWb3xZQmuZhNYZRK2bJ) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Symposium](https://open.spotify.com/album/7HvhDxhYGGmKftOxbLDcum) | 2:22 | 2022-02-15 | 2022-07-16 |
-| [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 | 2022-04-07 |  |
+| [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 | 2022-04-07 | 2024-07-19 |
 | [Tagesanbruch](https://open.spotify.com/track/1aDHl6cO56wwlqKb4hS41w) | [Johann Willmann](https://open.spotify.com/artist/2uwJWkbNwk5L4tq24kZDzB) | [Tagesanbruch](https://open.spotify.com/album/4uXGLJcC65F5HIvKc40TPN) | 2:35 | 2021-12-07 | 2022-07-16 |
 | [Tagtraum](https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl) | [Lev Monticelli](https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0) | [Im Lärchenwald](https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy) | 2:47 | 2022-01-18 |  |
 | [Tales of This](https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Tales of This](https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66) | 2:16 | 2024-03-19 |  |

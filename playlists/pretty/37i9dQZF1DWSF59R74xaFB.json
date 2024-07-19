@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 531616,
+  "num_followers": 531665,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "30 de Febrero",
         "url": "https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194386,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Laura Pausini - Spanish Version",
         "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 280666,
       "name": "Se fu\u00e9",
       "url": "https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 272000,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Amigos (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 233755,
-      "name": "Amigos (con Maria Becerra)",
-      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Bajo La Mesa",
         "url": "https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 157080,
       "name": "Bajo La Mesa",
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Amigos (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Enam\u00f3rate De Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 229107,
-      "name": "Enam\u00f3rate De Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Enam\u00f3rate De Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 229107,
+      "name": "Enam\u00f3rate De Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "ES SOLO M\u00daSICA",
-        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 173741,
-      "name": "Desconocido",
-      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -1731,6 +1715,30 @@
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Nada Fue Un Error - Live In Spain / 2005",
+      "url": "https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

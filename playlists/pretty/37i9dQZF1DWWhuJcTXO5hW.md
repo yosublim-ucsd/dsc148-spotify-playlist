@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,998 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,013 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 23 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
 | 24 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 25 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd \(Collection Ocora Radio\-France\)](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
-| 26 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 |
-| 27 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 26 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalifa](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 27 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 |
 | 28 | [Arayib \(Houzam\)](https://open.spotify.com/track/5q5Oz2kAYx76a23pc8Tk1q) | [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Takasim Oud](https://open.spotify.com/album/5VtmMnIVUz5jxBC9KxHUuZ) | 1:44 |
 | 29 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 |
 | 30 | [Al Loma](https://open.spotify.com/track/0TU4fhuVnDJ8Ncu8pgBkj5) | [Oriental Lebanese Band](https://open.spotify.com/artist/2SnZNKC6aZINg87x5to5rg) | [Sweet Melodies from Lebanon](https://open.spotify.com/album/6Sbfvx33z7GALWmIKbja8e) | 4:00 |

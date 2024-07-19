@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: HARDY
 
-364 songs - 20 hr 52 min
+365 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/5u1gJ956WPF41Xqhf72d22) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It \- EP](https://open.spotify.com/album/6CiDKNAEO6KGYkgKnGZCGO) | 4:17 | 2021-11-01 | 2022-07-29 |
 | [Long Nights](https://open.spotify.com/track/1zoYCUSLQkVR1MkkUJMnoI) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/42Tb9duEfbuP9U3vBq5rkJ) | 3:32 | 2022-08-05 | 2022-11-19 |
 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 | 2023-08-04 | 2024-05-01 |
-| [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 | 2022-08-05 |  |
+| [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 | 2022-08-05 | 2024-07-19 |
 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 | 2023-11-10 |  |
 | [Lowdown & Lonesome](https://open.spotify.com/track/3MDC1gVjBJJdThcWMCgLhp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Lowdown & Lonesome](https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz) | 4:23 | 2021-11-01 | 2022-01-22 |
 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 | 2023-08-21 |  |
@@ -311,6 +311,7 @@
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2023-04-07 | 2023-07-06 |
 | [The Devil Is an Angel](https://open.spotify.com/track/1NrHorXOBOduKQ0QbLH5VS) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [The Devil Is An Angel](https://open.spotify.com/album/1BJYIhTmHlup1sXCE9Wnot) | 2:22 | 2021-11-01 | 2022-05-07 |
 | [The Future's Neon](https://open.spotify.com/track/1zmmVJZk7YKJ9oUZrYwgAx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/3grVGFPEhjfRXfCUz65T2X) | 2:25 | 2022-02-11 | 2022-07-10 |
+| [The Outside](https://open.spotify.com/track/6hVVkkYMI69o5IjQAOHHyf) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside](https://open.spotify.com/album/6priPBsABco1gx0NcLIkHg) | 3:46 | 2024-07-19 |  |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-11-01 | 2022-01-22 |
 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 |  |
 | [Them Boots](https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [South of Somewhere](https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly) | 2:35 | 2023-06-02 | 2023-10-07 |

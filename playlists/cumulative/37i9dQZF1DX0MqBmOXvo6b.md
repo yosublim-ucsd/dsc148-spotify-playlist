@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-658 songs - 1 day 3 hr 54 min
+660 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2023-12-12 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-03 |  |
 | [Barren Lands](https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Barren Lands](https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ) | 2:19 | 2022-06-07 |  |
+| [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 | 2024-07-16 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Because I Miss You](https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL) | [Emíl Miati](https://open.spotify.com/artist/48EpjmQVDjsx1pW9eil7dr) | [Because I Miss You](https://open.spotify.com/album/1H6OzMtSDUQi95GR4TEdPo) | 2:25 | 2022-06-07 | 2024-02-15 |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
@@ -432,6 +433,7 @@
 | [Remembrance](https://open.spotify.com/track/3yZHqhElpkIWaHA1yUFCIH) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [Remembrance](https://open.spotify.com/album/5QEo0jbi1JBt4ghGJ0qIHz) | 2:16 | 2022-06-07 |  |
 | [Remind Me](https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz) | [Shaun Bertsch](https://open.spotify.com/artist/38bQPIz3UChdXTItoUNAvE) | [Remind Me](https://open.spotify.com/album/6wyQF4XipqUU2CtqSEcezO) | 2:26 | 2022-06-07 | 2022-09-15 |
 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 | 2023-07-07 |  |
+| [Replenish](https://open.spotify.com/track/194Ck9M0KJ4eT2s8TJqExp) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Replenish](https://open.spotify.com/album/7ot8PYioVCSCsAltO3ENaf) | 2:26 | 2024-07-16 |  |
 | [Respectfully](https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:10 | 2023-09-05 |  |
 | [Rest](https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Rest](https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj) | 2:54 | 2024-03-05 |  |
 | [Rest](https://open.spotify.com/track/6qetTUm5h5LvvHCsALacJt) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Rest](https://open.spotify.com/album/0xawmcCxkH1qHBiFYwyVYU) | 2:47 | 2022-06-07 |  |
@@ -594,7 +596,7 @@
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-06-07 |  |
 | [Tromsø](https://open.spotify.com/track/09jdC5o254s2seWBMMHco7) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Tromsø](https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX) | 2:11 | 2023-09-18 |  |
 | [Tuesday Clearing](https://open.spotify.com/track/4yMveNJje6wu6YUgf62DE1) | [Abby Silverman](https://open.spotify.com/artist/5P86oREbUnuT7USO63Qk4Y) | [Stairs in the Clouds](https://open.spotify.com/album/4ecAKYMye8B9N6fbjE77UI) | 2:50 | 2022-06-07 | 2022-09-24 |
-| [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 | 2022-06-07 |  |
+| [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 | 2022-06-07 | 2024-07-19 |
 | [Turning Ahead](https://open.spotify.com/track/0IBQM8tB107DZs0YCcXSt0) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Turning Ahead](https://open.spotify.com/album/5yHYS76gj6oZNPjhyyZ6AM) | 3:03 | 2022-06-07 | 2022-09-15 |
 | [Tuscan Nights](https://open.spotify.com/track/6fFGV4AKC65SksEn9eJy6R) | [Mads Alter](https://open.spotify.com/artist/5EkUhnSLb0Wt2DklMJbIuf) | [Tuscan Nights](https://open.spotify.com/album/0NM3BPkYwqktJ5Lk8VCLMe) | 3:02 | 2022-06-07 | 2024-05-12 |
 | [Twin Fifteens](https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA) | [Maren Andrews](https://open.spotify.com/artist/6H0jAP8RgKHaD3Bm0JfyTQ) | [Shadow Swing](https://open.spotify.com/album/6Ajh4HlbjFL9t1xpQZ8B5K) | 2:47 | 2022-06-07 | 2023-08-25 |
@@ -655,7 +657,7 @@
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2022-06-07 |  |
 | [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-05-19 |  |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2022-06-07 | 2024-05-08 |
-| [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-06-07 |  |
+| [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-06-07 | 2024-07-19 |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2022-06-07 | 2022-09-15 |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2022-06-07 |  |
 | [You Are That](https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [You Are That](https://open.spotify.com/album/47MXSKI7ymjqPcRrlSWJSi) | 2:52 | 2022-06-07 | 2023-04-10 |

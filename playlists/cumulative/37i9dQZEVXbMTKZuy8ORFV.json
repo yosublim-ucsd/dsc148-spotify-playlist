@@ -508,7 +508,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 228541,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/23FJGRug9hlYUIBnrmkIBX"
@@ -4342,6 +4342,28 @@
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "album": {
+        "name": "INCORRECTO",
+        "url": "https://open.spotify.com/album/0PKIw5UgWqFRZs8vI2j5Yp"
+      },
+      "artists": [
+        {
+          "name": "D-Fox",
+          "url": "https://open.spotify.com/artist/3PVlJdi0dtC02SV9erCON2"
+        },
+        {
+          "name": "Danny Estefo",
+          "url": "https://open.spotify.com/artist/5UV7gxFbFD7lnWJWhjTRxc"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "INCORRECTO",
+      "url": "https://open.spotify.com/track/4XARGSwrOkkpr0TBtPyKd5"
     },
     {
       "album": {
@@ -7306,7 +7328,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-17",
+      "date_removed": null,
       "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
@@ -8760,7 +8782,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -8872,7 +8894,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234146,
       "name": "Solo aqu\u00ed",
       "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"

@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Waxahatchee ",
-  "num_followers": 588763,
+  "num_followers": 588785,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Care For You",
         "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -915,18 +899,34 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 173920,
-      "name": "Female Energy, Part 2",
-      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
+      "duration_ms": 245293,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 180558,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 180558,
-      "name": "Just for Now",
-      "url": "https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx"
+      "duration_ms": 173920,
+      "name": "Female Energy, Part 2",
+      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "That's Where I Am",
-      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "FIRE ON MARZZ",
         "url": "https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 213373,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Now & Then",
         "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 205893,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 239295,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2024-03-08 05:00:00",

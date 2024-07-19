@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,244 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,320 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 38 | [How Deep Is The Ocean](https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 3:33 |
 | 39 | [Body and Soul](https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 4:28 |
 | 40 | [Armando's Rhumba](https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [My Spanish Heart](https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV) | 5:19 |
-| 41 | [Easy To Love](https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:20 |
-| 42 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
+| 41 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
+| 42 | [Easy To Love](https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:20 |
 | 43 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |
 | 44 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 45 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |

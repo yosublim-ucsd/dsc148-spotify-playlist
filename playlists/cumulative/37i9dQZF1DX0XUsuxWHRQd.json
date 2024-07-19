@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Eminem, Ice Spice and BossMan DLow.",
+  "description": "New music from Childish Gambino, Eminem and GloRilla. ",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 127022,
       "name": "911",
       "url": "https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 174000,
       "name": "Big Mama",
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
@@ -13324,7 +13324,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 209577,
       "name": "FUK SUMN",
       "url": "https://open.spotify.com/track/5rlXuCLnMdfo85079qXHoz"
@@ -16665,6 +16665,32 @@
     },
     {
       "album": {
+        "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+        "url": "https://open.spotify.com/album/2KunOxPu4RavN3VZ08vv5D"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "PlayThatBoiZay",
+          "url": "https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129403,
+      "name": "HOODLUMZ (with PlayThatBoiZay & A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3vDSn3BLIJKMHGrGC0zAib"
+    },
+    {
+      "album": {
         "name": "hooligan / sons & critics",
         "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
       },
@@ -17946,7 +17972,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218200,
       "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
       "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
@@ -20690,6 +20716,24 @@
       "duration_ms": 147778,
       "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) - Trailer Anthem",
       "url": "https://open.spotify.com/track/0sKJExQWRKxd76gSSwrsaI"
+    },
+    {
+      "album": {
+        "name": "Lets Get On Dey Ass",
+        "url": "https://open.spotify.com/album/1lLaabBqtvYNJnBCWczqiZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Lets Get On Dey Ass",
+      "url": "https://open.spotify.com/track/1SUQlEQUTsxZBU6KTmLh9n"
     },
     {
       "album": {
@@ -31876,7 +31920,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 123037,
       "name": "Rump Punch",
       "url": "https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO"
@@ -35112,7 +35156,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
@@ -37238,6 +37282,32 @@
       "duration_ms": 104470,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
+      "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
     },
     {
       "album": {
@@ -39448,6 +39518,24 @@
       "duration_ms": 223173,
       "name": "TOPIA TWINS",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
     },
     {
       "album": {
@@ -43633,6 +43721,24 @@
     },
     {
       "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/7HEtVKXQVjWgDT87yCZkrR"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210931,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
+    },
+    {
+      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/0E74lJz7EpijEP2YDHGDYh"
       },
@@ -43770,6 +43876,24 @@
       "duration_ms": 249333,
       "name": "Yonkers",
       "url": "https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Yoshinoya",
+      "url": "https://open.spotify.com/track/2pNYM3OcS7WdCW13TuhMeK"
     },
     {
       "album": {

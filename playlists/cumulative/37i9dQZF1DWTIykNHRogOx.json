@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Arthur Teboul & Baptiste Trotignon",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Coline Rio & Voyou",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 231334,
       "name": "Aujourd'hui Kurt Cobain est mort",
       "url": "https://open.spotify.com/track/0jEkGlpUANVeYw7g0cEAHc"
@@ -96,6 +96,24 @@
       "duration_ms": 160053,
       "name": "C'est fou comme je t'aime",
       "url": "https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM"
+    },
+    {
+      "album": {
+        "name": "c'\u00e9tait mieux avant",
+        "url": "https://open.spotify.com/album/6s1GZPMUWtSDp5Z8j1ka5E"
+      },
+      "artists": [
+        {
+          "name": "jenna",
+          "url": "https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137650,
+      "name": "c'\u00e9tait mieux avant",
+      "url": "https://open.spotify.com/track/0QOsuZVhlKiY0m5LR6jgAu"
     },
     {
       "album": {
@@ -208,6 +226,24 @@
       "duration_ms": 189186,
       "name": "G\u00f6ttingen",
       "url": "https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E"
+    },
+    {
+      "album": {
+        "name": "Hauteurs",
+        "url": "https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq"
+      },
+      "artists": [
+        {
+          "name": "Blondino",
+          "url": "https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Hauteurs",
+      "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
     },
     {
       "album": {
@@ -334,7 +370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 180346,
       "name": "Je n'oublierai pas",
       "url": "https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR"
@@ -360,6 +396,24 @@
       "duration_ms": 261104,
       "name": "La nuit est entr\u00e9e en lui",
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
+    },
+    {
+      "album": {
+        "name": "La Romance",
+        "url": "https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK"
+      },
+      "artists": [
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196974,
+      "name": "La Romance",
+      "url": "https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8"
     },
     {
       "album": {
@@ -566,7 +620,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 195746,
       "name": "Manquer \u00e0 quelqu'un quelque part",
       "url": "https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs"
@@ -620,7 +674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 176732,
       "name": "N'importe quoi",
       "url": "https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX"
@@ -808,6 +862,28 @@
       "duration_ms": 190426,
       "name": "sapon",
       "url": "https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso"
+    },
+    {
+      "album": {
+        "name": "Se dire au revoir (feat. Voyou)",
+        "url": "https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        },
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "Se dire au revoir (feat. Voyou)",
+      "url": "https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX"
     },
     {
       "album": {

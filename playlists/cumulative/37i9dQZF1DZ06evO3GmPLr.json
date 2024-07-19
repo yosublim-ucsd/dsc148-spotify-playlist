@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "name": "This Is Little Simz",
+  "description": "This Is Little Simz. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
+  "name": "\u0627\u06cc\u0646 Little Simz \u0627\u0633\u062a",
   "tracks": [
     {
       "album": {
@@ -1082,6 +1082,28 @@
       "duration_ms": 215862,
       "name": "Proud of Me (feat. Little Simz)",
       "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
+    },
+    {
+      "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
       "album": {

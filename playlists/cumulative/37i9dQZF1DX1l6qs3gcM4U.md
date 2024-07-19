@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Calema
 
-391 songs - 23 hr 10 min
+393 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Tua Escolha](https://open.spotify.com/track/2u5cgh9JUK1wXwsepgMzME) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Kizomba All Stars 3](https://open.spotify.com/album/0hYj2Vo9dKrsTg203dRXJ4) | 4:05 | 2022-01-27 | 2022-04-18 |
 | [Abençoado](https://open.spotify.com/track/3Fv6efYeL4WLpwkE797BDO) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Abençoado](https://open.spotify.com/album/7hjGHtEkGnnds18e6CPIVV) | 2:49 | 2022-05-26 | 2022-06-16 |
 | [Acerta](https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Acerta](https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn) | 3:55 | 2021-12-10 | 2024-06-01 |
-| [Adoro](https://open.spotify.com/track/16Aiw4tQzSZhrt9P2qKKNR) | [Mona Nicastro](https://open.spotify.com/artist/2UHbIBWBGC9hES26XQnmWn) | [Adoro](https://open.spotify.com/album/6SBrdApaXQOBX5ROuJNXYO) | 3:31 | 2024-07-11 |  |
+| [Adoro](https://open.spotify.com/track/16Aiw4tQzSZhrt9P2qKKNR) | [Mona Nicastro](https://open.spotify.com/artist/2UHbIBWBGC9hES26XQnmWn) | [Adoro](https://open.spotify.com/album/6SBrdApaXQOBX5ROuJNXYO) | 3:31 | 2024-07-11 | 2024-07-19 |
 | [Adoço](https://open.spotify.com/track/7ffN1srH0lM39dddrG84Gs) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Adoço](https://open.spotify.com/album/78htzYNaNcNaB3TN7W8cD5) | 3:03 | 2022-07-22 | 2023-03-03 |
 | [Adoço](https://open.spotify.com/track/61MbzsETAezqjjsx15Lh5U) | [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Adoço](https://open.spotify.com/album/3YUW6ZXd6useT4DogVHd6N) | 3:03 | 2021-12-10 | 2022-07-29 |
 | [Africana](https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Africana](https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt) | 3:20 | 2021-12-10 | 2023-10-27 |
@@ -41,6 +41,7 @@
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 |  |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 |  |
 | [Babe](https://open.spotify.com/track/0yRWRVOjrrAvxOQ9ykRjM5) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Babe](https://open.spotify.com/album/2bkpENCLszFR5ZFu86zZEo) | 2:59 | 2024-03-15 | 2024-04-26 |
+| [BABETE](https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [REI DO KUYUYU](https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv) | 3:23 | 2024-07-18 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
 | [Baile](https://open.spotify.com/track/20pd0IMbN7KC9y0FNOVQK0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Baile](https://open.spotify.com/album/0aVJrJFseq4WFmCqAEWhZo) | 3:47 | 2022-03-25 | 2022-04-21 |
 | [Batom](https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Batom](https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7) | 3:32 | 2022-10-13 |  |
@@ -222,7 +223,7 @@
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
 | [Nca Ta Skeci Di Bo](https://open.spotify.com/track/1AiyJdcuWjyBQvr284pEKy) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt), [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Nca Ta Skeci Di Bo](https://open.spotify.com/album/2s2vZp87q6mM87iQLdNfCW) | 3:51 | 2022-05-26 | 2022-06-07 |
-| [Nha bebé](https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Nha bebé](https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu) | 3:25 | 2024-05-16 |  |
+| [Nha bebé](https://open.spotify.com/track/5HpO8wk2BrbW1F3F57brE7) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [Nha bebé](https://open.spotify.com/album/4dlOwAga2XZZ2QHYp9XUAu) | 3:25 | 2024-05-16 | 2024-07-19 |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2024-03-23 |
 | [Nha Mos](https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nha Mos](https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0) | 3:16 | 2021-12-10 |  |
 | [Nha Mundo](https://open.spotify.com/track/51xWDxwBkvHSOit4VP6hYz) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Nha Mundo](https://open.spotify.com/album/2UzfdDx3DTlRau6nFKPe90) | 3:18 | 2021-12-10 | 2022-02-16 |
@@ -297,6 +298,7 @@
 | [Raízes](https://open.spotify.com/track/39xIzMG0hjgFBtueCUy9Jo) | [Bonifácio Aurio](https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f) | [Raízes](https://open.spotify.com/album/5g8l7OT24r6iRHCQHjCgQk) | 3:20 | 2022-07-22 | 2022-07-26 |
 | [Reagi](https://open.spotify.com/track/28TKKqjvFEzjdySF7xqLr9) | [Elsy](https://open.spotify.com/artist/0MQ5pkCrgpk3D9efPa4vSu) | [Reagi](https://open.spotify.com/album/5H2uPj4d6xWVUDZvrqFPtr) | 3:38 | 2022-02-18 | 2024-06-03 |
 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 | 2022-10-20 |  |
+| [Regresso](https://open.spotify.com/track/1xBcCVkBBzEjZ7RBXd4QTN) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Paulo Flores](https://open.spotify.com/artist/13y1zLuj38wQ2HtSSMa13M) | [Regresso](https://open.spotify.com/album/486W9HSnl6hgmcHkgb0GJn) | 3:08 | 2024-07-18 |  |
 | [Relembrar](https://open.spotify.com/track/0o7Kjfy8W0ZPF3Og9n2KDr) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/2NKAElMUB6gX0c1tb1AcXl) | 3:35 | 2022-03-25 | 2022-04-20 |
 | [Relembrar](https://open.spotify.com/track/3mSoUFYdwjP2j8HaPBi0Pl) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF) | [Relembrar](https://open.spotify.com/album/1Ifgreb619PBJjtvuU75QW) | 3:35 | 2022-04-08 | 2022-06-14 |
 | [Ressaca](https://open.spotify.com/track/3QAQazOCaie9vLGU5ReLSQ) | [Tommy Boy](https://open.spotify.com/artist/3hdmioydV8vzFjASzt4Y7u) | [Ressaca](https://open.spotify.com/album/5t7Bi7fyC4EghuLGkgTVe7) | 3:00 | 2022-07-07 | 2022-07-23 |

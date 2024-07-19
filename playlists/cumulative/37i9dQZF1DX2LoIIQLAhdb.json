@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Louzio",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
   "name": "R&Bae",
   "tracks": [
     {
@@ -412,6 +412,24 @@
       "duration_ms": 167500,
       "name": "BABYMAMA",
       "url": "https://open.spotify.com/track/6oEDg2yw9M0NtWAWtPxEca"
+    },
+    {
+      "album": {
+        "name": "Bahinileek",
+        "url": "https://open.spotify.com/album/1qMsq1oqugqTR3nQQGcF3S"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197023,
+      "name": "Bahinileek",
+      "url": "https://open.spotify.com/track/5QkDN5bbfoi2RXMpFO1Lj9"
     },
     {
       "album": {
@@ -1786,10 +1804,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 168786,
       "name": "Elle veut jouer",
       "url": "https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk"
+    },
+    {
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2z0G70ZLSSlBRs2CKNGmd5"
+      },
+      "artists": [
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171432,
+      "name": "EMOTIONS",
+      "url": "https://open.spotify.com/track/7q5oVAKvpIBfgCJg1SCyGy"
     },
     {
       "album": {
@@ -3169,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "LOST & KOKE",
+        "url": "https://open.spotify.com/album/0gPBos1PXDVKa1CBWEB3l9"
+      },
+      "artists": [
+        {
+          "name": "Skuna",
+          "url": "https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj"
+        },
+        {
+          "name": "Fency",
+          "url": "https://open.spotify.com/artist/60HRF87ar80HYpJg3fAQ9x"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136698,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6HbfBoHEkoVM81DDhESNce"
+    },
+    {
+      "album": {
         "name": "Love de la mauvaise personne",
         "url": "https://open.spotify.com/album/3ybapyASfgy9qWd0rnYe1t"
       },
@@ -3664,7 +3722,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 145371,
       "name": "Mayday - Remix",
       "url": "https://open.spotify.com/track/3vq92oAXoKVbrcyTUkJUYW"
@@ -4382,7 +4440,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 186906,
       "name": "Pardonne-moi",
       "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
@@ -5058,7 +5116,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 158173,
       "name": "Salam Aleyk",
       "url": "https://open.spotify.com/track/6sK3czCO2PYyyh9LZDXTpa"
@@ -5366,6 +5424,24 @@
       "duration_ms": 141473,
       "name": "Sinc\u00e8re",
       "url": "https://open.spotify.com/track/75wnwMwRcgwzOZvLhlysnm"
+    },
+    {
+      "album": {
+        "name": "So nice",
+        "url": "https://open.spotify.com/album/0ShQLD5CRIH9WVSnziuBkh"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "So nice",
+      "url": "https://open.spotify.com/track/6Re9zzwNKxOeMfXj2muHbm"
     },
     {
       "album": {

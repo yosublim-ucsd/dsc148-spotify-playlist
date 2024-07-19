@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-158 songs - 16 hr 35 min
+160 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Fungweni](https://open.spotify.com/track/1741vdI6DwKYDfhhDKA6qP) | [Siphe Tebeka](https://open.spotify.com/artist/1tR6AulffAcucwyA60Hggl) | [Fungweni](https://open.spotify.com/album/5GnYsQqNda7mk5ls2yNV3U) | 7:18 | 2023-10-30 |  |
 | [Gates](https://open.spotify.com/track/12v6ms6wik9FeubMbkjmvW) | [Wes Lee](https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR) | [The End Is Near EP](https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J) | 6:35 | 2024-05-31 |  |
 | [Ghetto Story](https://open.spotify.com/track/7lskLW0eYQkrCKySRCef7k) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Ghetto Story](https://open.spotify.com/album/3Jx46ZwC8ZJmU4HuqkQUH4) | 8:16 | 2023-04-20 | 2024-04-26 |
+| [Hajikwai](https://open.spotify.com/track/15YgWqEEqXBafFdKHPIcDo) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Thabza De Soul](https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Hajikwai](https://open.spotify.com/album/1KjMMPgog7xd7c3VQBu2GD) | 6:03 | 2024-07-18 |  |
 | [HAYII](https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Yasmin Levy](https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu) | [HAYII](https://open.spotify.com/album/73IrTAOufu4VMnQqcKw1za) | 7:39 | 2022-08-11 | 2023-03-18 |
 | [Heal Africa](https://open.spotify.com/track/2elLI0XImQvNjxEOHXP2Lb) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Heal Africa](https://open.spotify.com/album/0ALpHTXkMLJ6TDHEUJ34WD) | 13:31 | 2024-03-15 | 2024-06-01 |
 | [Hold On](https://open.spotify.com/track/1o0nfthgnLpDkpChnvta9s) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Sobantwana](https://open.spotify.com/artist/0DoNVl96ZWKJ1hbnKGaj93) | [Hold On](https://open.spotify.com/album/4x1aCpqT679anIgHX9n9hW) | 5:48 | 2022-11-10 | 2022-12-03 |
@@ -88,6 +89,7 @@
 | [Mnike \(Shimza Remix\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/00mVHfhTC2vXrNxTgIofoq) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog) | [Mnike \(Shimza Remix\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/2snnfAYo8bYrvYLJyRCOd0) | 5:59 | 2023-12-14 |  |
 | [Moors](https://open.spotify.com/track/4HPugJL3Gwnw4tTHMpXKDM) | [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB) | [Moors](https://open.spotify.com/album/0Zi9wrnbuUFhw26SYqlwWi) | 7:34 | 2024-04-25 |  |
 | [Muchationa](https://open.spotify.com/track/2g0e7qFlyovwNtaLntN83d) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Tina Masawi](https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US) | [Muchationa](https://open.spotify.com/album/4O8aonVNtRVG8lPAfmkLDs) | 5:25 | 2022-09-22 | 2022-12-03 |
+| [Muntu Wami \(Afro Mix\)](https://open.spotify.com/track/6SKzLLHi0twVKwZmNZuLa7) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U) | [Muntu Wami \(Afro Mix\)](https://open.spotify.com/album/73MA74UChHEf7xLpOm2m32) | 6:12 | 2024-07-18 |  |
 | [Mwanzo](https://open.spotify.com/track/0HzrB6q6wtxf0rCAwmxYi8) | [Arcade Saiyans](https://open.spotify.com/artist/3dQj2JqOjkdj6DC50whkn2) | [Mwanzo](https://open.spotify.com/album/0txldSWz2PLLmPQkWOTQBn) | 6:53 | 2024-01-19 |  |
 | [NANGU](https://open.spotify.com/track/6MfeG4Wwwl6j8oWlPavQ2v) | [Ian Kenzof](https://open.spotify.com/artist/1uijT40SRsvnlbyFa2Zcfa), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [NANGU](https://open.spotify.com/album/6YMxy4HsHrfDveZ4QuGT5R) | 6:08 | 2023-11-03 |  |
 | [Nefarious \- Atmospheric Mix](https://open.spotify.com/track/2zRynSzo4zMUtpvgodmeBl) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Ingwenya EP](https://open.spotify.com/album/1ex9FmpXwOQUuCLBSJdskM) | 7:01 | 2022-08-11 | 2022-11-11 |

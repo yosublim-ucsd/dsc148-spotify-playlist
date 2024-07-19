@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226229,
       "name": "Aquatic",
       "url": "https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 282063,
       "name": "Cappadocia",
       "url": "https://open.spotify.com/track/4rERaNiKlILD603GJvdEvm"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 226703,
       "name": "Fall Between The Cracks",
       "url": "https://open.spotify.com/track/37FvnZdhlIjEqCGrpqjxdD"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 335194,
       "name": "Famax",
       "url": "https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 218000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 169272,
       "name": "Home",
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
@@ -1564,6 +1564,36 @@
       "duration_ms": 295597,
       "name": "How Often - Ben B\u00f6hmer Remix",
       "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+    },
+    {
+      "album": {
+        "name": "I Adore You",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
       "album": {
@@ -1648,7 +1678,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 172619,
       "name": "In The Quiet",
       "url": "https://open.spotify.com/track/249ezY4pPzbgSgxfwnHrnT"
@@ -2648,7 +2678,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Paint My Tomorrow",
       "url": "https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw"
@@ -2802,7 +2832,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 262249,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
@@ -3142,7 +3172,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 224750,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
@@ -3376,7 +3406,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 171428,
       "name": "Tell Me Why - MEDUZA Remix",
       "url": "https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl"
@@ -3460,7 +3490,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 203809,
       "name": "The Orange Theme",
       "url": "https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT"
@@ -3578,7 +3608,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 310986,
       "name": "Time - feat. Jules Buckley",
       "url": "https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4"
@@ -4030,6 +4060,32 @@
       "duration_ms": 503414,
       "name": "Yahyel",
       "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"
+    },
+    {
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is BIGBANG. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 612697,
+  "description": "This is BIGBANG. The essential tracks, all in one playlist.",
+  "num_followers": 612714,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAACgdjcgGV4zh85Q57IE2GxG",
+  "snapshot_id": "ZpcJgAAAAADkU1NLcWIcloJmQx44LpMR",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
       "duration_ms": 245013,
       "name": "Tell Me Goodbye",
       "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEAUTIFUL HANGOVER",
-        "url": "https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "BEAUTIFUL HANGOVER",
-      "url": "https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: I\u015f\u0131l Ayman",
+  "description": "Popun sevilen isimleri. Kapak: Cem Belevi ",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161632,
       "name": "Beni Seviyo",
       "url": "https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 273103,
       "name": "Buram Buram",
       "url": "https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY"
@@ -638,6 +638,24 @@
       "duration_ms": 202663,
       "name": "D\u0130ZG\u0130 HATASI",
       "url": "https://open.spotify.com/track/1aY8XeGD9zP21IxZYqeY3f"
+    },
+    {
+      "album": {
+        "name": "D\u00f6n Bana",
+        "url": "https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw"
+      },
+      "artists": [
+        {
+          "name": "Irmak Ar\u0131c\u0131",
+          "url": "https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "D\u00f6n Bana",
+      "url": "https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA"
     },
     {
       "album": {
@@ -1180,6 +1198,24 @@
       "duration_ms": 169110,
       "name": "Sayg\u0131 Duru\u015fu",
       "url": "https://open.spotify.com/track/76BUgBlvg4rNl4MBcUnhAw"
+    },
+    {
+      "album": {
+        "name": "CEMiyet Beach",
+        "url": "https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej"
+      },
+      "artists": [
+        {
+          "name": "Cem Belevi",
+          "url": "https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140483,
+      "name": "Sesini Duymam Laz\u0131m",
+      "url": "https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ"
     },
     {
       "album": {

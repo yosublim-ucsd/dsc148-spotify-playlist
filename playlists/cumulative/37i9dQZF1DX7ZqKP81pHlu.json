@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Les hits alg\u00e9riens du moment. Cover: Numidia Lezoul",
-  "name": "DZ Hits",
+  "description": "Numidia Lezoul au sommet de la playlist num\u00e9ro un en Alg\u00e9rie.",
+  "name": "Hot Hits Algeria",
   "tracks": [
     {
       "album": {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164010,
       "name": "4 chiffres",
       "url": "https://open.spotify.com/track/5kV9rjO5C8ekF9vFGZdbcw"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 304477,
       "name": "a tteddu",
       "url": "https://open.spotify.com/track/2FYiZJEh524dslz9AAHeXo"
@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
       },
@@ -370,6 +396,28 @@
       "duration_ms": 195375,
       "name": "Allo",
       "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
+    },
+    {
+      "album": {
+        "name": "Allo Omri",
+        "url": "https://open.spotify.com/album/1RNhljk2TfYLj3Q1aNNnKO"
+      },
+      "artists": [
+        {
+          "name": "Didou Parisien",
+          "url": "https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj"
+        },
+        {
+          "name": "Tchikou 22",
+          "url": "https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293354,
+      "name": "Allo Omri",
+      "url": "https://open.spotify.com/track/4PYVjUQ8cxuYF07PCfYn4a"
     },
     {
       "album": {
@@ -500,7 +548,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
@@ -646,7 +694,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 277365,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/3fy5goGOStCVTzQFqEhBFR"
@@ -690,6 +738,24 @@
       "duration_ms": 237333,
       "name": "Bent Sultan",
       "url": "https://open.spotify.com/track/5XvzmPFcVRlfdlCw3KK2Jb"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "album": {
@@ -894,6 +960,24 @@
       "duration_ms": 188000,
       "name": "Choufou lamour madar fiya",
       "url": "https://open.spotify.com/track/1lduNwd2JPXTlTBgYlGmre"
+    },
+    {
+      "album": {
+        "name": "Chwiya Wa9t W Nensak",
+        "url": "https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Asla",
+          "url": "https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337370,
+      "name": "Chwiya Wa9t W Nensak",
+      "url": "https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg"
     },
     {
       "album": {
@@ -1440,7 +1524,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 230294,
       "name": "Euro Dollar",
       "url": "https://open.spotify.com/track/4r65eqldcucQIhBMEa9tWr"
@@ -1742,7 +1826,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 205293,
       "name": "Ghir Enti",
       "url": "https://open.spotify.com/track/1ZboOiAPI8yQ3wYOnOzxg7"
@@ -1790,6 +1874,24 @@
       "duration_ms": 172861,
       "name": "Ghouyoum",
       "url": "https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7"
+    },
+    {
+      "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158208,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
     },
     {
       "album": {
@@ -1866,7 +1968,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 177600,
       "name": "Hay aliya",
       "url": "https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3"
@@ -1920,7 +2022,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 238110,
       "name": "H\u00e9r\u00e9ditaire",
       "url": "https://open.spotify.com/track/6T76ooly64vILBrarOWqFY"
@@ -1942,6 +2044,24 @@
       "duration_ms": 230209,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3stVq7jycIeOwgtxUiweCD"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
       "album": {
@@ -2231,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "L'milieux jayah",
+        "url": "https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu"
+      },
+      "artists": [
+        {
+          "name": "Fethi Manar",
+          "url": "https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m"
+        },
+        {
+          "name": "Kader Zakzouk",
+          "url": "https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276038,
+      "name": "L'milieux jayah",
+      "url": "https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5"
+    },
+    {
+      "album": {
         "name": "LA FIN",
         "url": "https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD"
       },
@@ -2348,7 +2490,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 94552,
       "name": "Ma3lich Ya 9albi",
       "url": "https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe"
@@ -2504,7 +2646,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 322758,
       "name": "Maniche mchoqu\u00e9",
       "url": "https://open.spotify.com/track/4zz2mlE7nVpblI9JnoG9Gr"
@@ -2653,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "album": {
         "name": "Moujat El Babour",
         "url": "https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi"
       },
@@ -2694,6 +2854,28 @@
       "duration_ms": 242000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7xE1TaILTJl91YvQdVB54i"
+    },
+    {
+      "album": {
+        "name": "LVDR",
+        "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "M\u00e9lanine",
+      "url": "https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7"
     },
     {
       "album": {
@@ -2886,7 +3068,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 161693,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0j8vEVsQkarCTSRdzMC5Ps"
@@ -2952,6 +3134,24 @@
       "duration_ms": 154105,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/4tEw6bifHyNYiWY04AA4AG"
+    },
+    {
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "album": {
@@ -3134,7 +3334,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 134000,
       "name": "Otra",
       "url": "https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX"
@@ -3345,6 +3545,54 @@
     },
     {
       "album": {
+        "name": "Saroukh Style Manini",
+        "url": "https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s"
+      },
+      "artists": [
+        {
+          "name": "Smaug",
+          "url": "https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n"
+        },
+        {
+          "name": "Dj Mourad",
+          "url": "https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Saroukh Style Manini",
+      "url": "https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm"
+    },
+    {
+      "album": {
+        "name": "Les derni\u00e8res volont\u00e9s de Mozart (Symphony)",
+        "url": "https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188488,
+      "name": "SEYA",
+      "url": "https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25"
+    },
+    {
+      "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
       },
@@ -3396,6 +3644,28 @@
       "duration_ms": 203225,
       "name": "Sonia",
       "url": "https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR"
+    },
+    {
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
       "album": {
@@ -3719,6 +3989,24 @@
     },
     {
       "album": {
+        "name": "Wayeh",
+        "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Wayeh",
+      "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
+    },
+    {
+      "album": {
         "name": "Welaw lia",
         "url": "https://open.spotify.com/album/0HQlwX53jM3hWrWDAWmbhH"
       },
@@ -4020,7 +4308,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 170671,
       "name": "\u00c7a d\u00e9pend",
       "url": "https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu"
@@ -4100,7 +4388,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 192004,
       "name": "\u062f\u0631\u062c\u0629 \u062f\u0631\u062c\u0629",
       "url": "https://open.spotify.com/track/4NNRo1LtV9ndhNbCFohprQ"

@@ -1,29 +1,13 @@
 {
-  "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 9976,
-  "original_name": "This Is Doechii",
+  "description": "This Is Doechii. \u0642\u0637\u0639\u0647\u200c\u0647\u0627\u06cc \u0628\u0631\u062a\u0631 \u0647\u0645\u06af\u06cc \u062f\u0631 \u06cc\u06a9 \u0641\u0647\u0631\u0633\u062a \u067e\u062e\u0634.",
+  "num_followers": 9983,
+  "original_name": "\u0627\u06cc\u0646 Doechii \u0627\u0633\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpW4AAAAAADVqwPKPdokwa68mMrS+6uo",
+  "snapshot_id": "ZpcJgAAAAADwqyR7OUQaeeXlj7Ugg4gX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
     {
       "added_at": null,
       "album": {
@@ -67,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MPH",
-        "url": "https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 119910,
-      "name": "MPH",
-      "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROCKET",
         "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
       },
@@ -99,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Persuasive (with SZA)",
-        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+        "name": "MPH",
+        "url": "https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q"
       },
       "artists": [
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Persuasive (with SZA)",
-      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+      "duration_ms": 119910,
+      "name": "MPH",
+      "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
     },
     {
       "added_at": null,
@@ -175,22 +139,6 @@
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bitch I'm Nice",
-        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "Bitch I'm Nice",
-      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     },
     {
       "added_at": null,
@@ -519,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Swamp Anthem",
-        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr"
       },
       "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 151826,
-      "name": "Universal Swamp Anthem",
-      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
+      "duration_ms": 197772,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DCKYHyaoR7ZylQeWwL0ll"
     },
     {
       "added_at": null,
@@ -567,28 +519,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/273G5nf7G44BxNW0IuXzZr"
+        "name": "Universal Swamp Anthem",
+        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
       },
       "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 197772,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DCKYHyaoR7ZylQeWwL0ll"
+      "duration_ms": 151826,
+      "name": "Universal Swamp Anthem",
+      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
       },
       "artists": [
         {
@@ -596,13 +544,13 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "Jst Ray",
-          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+          "name": "Leo Conoza",
+          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Bitches Be (with Jst Ray)",
-      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+      "duration_ms": 192000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
     },
     {
       "added_at": null,
@@ -639,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Leo Conoza",
-          "url": "https://open.spotify.com/artist/1anM50N1LFZc279qfqE9qS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0IKtWsq2bcDtnwExB1qPcS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porches",
         "url": "https://open.spotify.com/album/1UtBNRQQjb2fszQd1IXACy"
       },
@@ -679,6 +607,22 @@
       "duration_ms": 315074,
       "name": "I Don\u2019t Trust You! (Ft. Doechii & Junii)",
       "url": "https://open.spotify.com/track/4OVWjNpeKOg5x9dDTy9BPy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 277463,
+      "name": "Pms",
+      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     },
     {
       "added_at": null,
@@ -715,24 +659,8 @@
       "duration_ms": 148523,
       "name": "Afro Blues",
       "url": "https://open.spotify.com/track/5EfDqGykBZWPbxopMU7xyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 277463,
-      "name": "Pms",
-      "url": "https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc"
     }
   ],
-  "unique_name": "This Is Doechii",
+  "unique_name": "\u0627\u06cc\u0646 Doechii \u0627\u0633\u062a",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IQ4xi"
 }

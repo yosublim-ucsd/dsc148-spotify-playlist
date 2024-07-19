@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Diljit Dosanjh",
+  "description": "Best of South Asian Music. Cover: Darshan Raval",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199607,
       "name": "Apna Tu Kehnda",
       "url": "https://open.spotify.com/track/67uhJboca6cVx4QCdQVvvf"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 234207,
       "name": "Chal Chaliye",
       "url": "https://open.spotify.com/track/0Wr1k0Fm8PQvjnSiYReNGC"
@@ -2172,7 +2172,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 251735,
       "name": "Ek Baar Dekh Lijiye",
       "url": "https://open.spotify.com/track/7M5iFFOJlvUWpg3A56GVAL"
@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Four Me",
+        "url": "https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175556,
+      "name": "IDK HOW",
+      "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
+    },
+    {
+      "album": {
         "name": "Main Tera",
         "url": "https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v"
       },
@@ -2927,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Jaanam (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/75lhBPvfb1RqeiuRZ6hOHN"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198035,
+      "name": "Jaanam (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
+    },
+    {
+      "album": {
         "name": "Jalebi Baby (Tesher x Jason Derulo)",
         "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
       },
@@ -2989,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Jeeja",
+        "url": "https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181637,
+      "name": "Jeeja",
+      "url": "https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj"
+    },
+    {
+      "album": {
         "name": "Jhol",
         "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
       },
@@ -3004,7 +3058,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
@@ -3693,6 +3747,40 @@
     },
     {
       "album": {
+        "name": "Leta Jaijo Re | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Chotu Khan",
+          "url": "https://open.spotify.com/artist/0dV0HtaKhSbIFeE3izhj4p"
+        },
+        {
+          "name": "Jaipur Kawa Brass Band",
+          "url": "https://open.spotify.com/artist/3sKQnFP3Mx4Xg8H9EVXJbf"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234913,
+      "name": "Leta Jaijo Re | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
+    },
+    {
+      "album": {
         "name": "Liggi",
         "url": "https://open.spotify.com/album/1zITUizbdnwegHf2BM7faa"
       },
@@ -4162,7 +4250,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 236202,
       "name": "Masoom Dil Hai Mera",
       "url": "https://open.spotify.com/track/4vYFfIDzCUucJlpq6cT1FD"
@@ -4366,6 +4454,32 @@
       "duration_ms": 169200,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT"
+    },
+    {
+      "album": {
+        "name": "Morni",
+        "url": "https://open.spotify.com/album/6jqVCVKCQYx1BbmXg3JwOx"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "Bhumika Sharma",
+          "url": "https://open.spotify.com/artist/5DJp3ARWdQg4ISKhk63OFy"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161625,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/52L4zA87EinFEoGZ8WPlgE"
     },
     {
       "album": {
@@ -5174,7 +5288,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"
@@ -6585,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
+    },
+    {
+      "album": {
         "name": "Kabir Singh",
         "url": "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
       },
@@ -7068,7 +7200,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 266181,
       "name": "Turri Jandi",
       "url": "https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX"

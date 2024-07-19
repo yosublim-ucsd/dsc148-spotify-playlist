@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: STONE",
+  "description": "The UK's biggest rock playlist. Cover: SOFT PLAY",
   "name": "The Rock List",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
@@ -640,6 +640,24 @@
       "duration_ms": 165052,
       "name": "All I Wanna Do Is Hate",
       "url": "https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb"
+    },
+    {
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj"
     },
     {
       "album": {
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 210729,
       "name": "Exit Oblivion",
       "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
@@ -5721,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "album": {
         "name": "The Mess We Seem To Make (Deluxe)",
         "url": "https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef"
       },
@@ -6346,7 +6382,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 204843,
       "name": "Love Me When You're Angry",
       "url": "https://open.spotify.com/track/7tHxrWEV6Gsq5QtcUhcyxe"
@@ -6386,6 +6422,24 @@
       "duration_ms": 233626,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z"
+    },
+    {
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/3TRit8ULz8ee627BzuPSb5"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173568,
+      "name": "Machine Gun Sun",
+      "url": "https://open.spotify.com/track/6vK6s0a2DQGspBEn3ziYDm"
     },
     {
       "album": {
@@ -6548,7 +6602,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
@@ -7186,6 +7240,24 @@
       "duration_ms": 113480,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx"
+    },
+    {
+      "album": {
+        "name": "No Direction",
+        "url": "https://open.spotify.com/album/6cMk1iYh9lL6ISxOTKNHis"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "No Direction",
+      "url": "https://open.spotify.com/track/1T3OWAvkegEBLn9YnzXGQq"
     },
     {
       "album": {
@@ -8706,7 +8778,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 317467,
       "name": "Running",
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
@@ -8728,6 +8800,28 @@
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
+    },
+    {
+      "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154072,
+      "name": "Running Around (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
     },
     {
       "album": {
@@ -9564,6 +9658,24 @@
       "duration_ms": 177731,
       "name": "Stay Blessed",
       "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "album": {
+        "name": "Stereo Games",
+        "url": "https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Stereo Games",
+      "url": "https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl"
     },
     {
       "album": {
@@ -10718,7 +10830,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 164571,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3G9M8uYNijvQ4D8nWuxClb"
@@ -10790,7 +10902,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 194400,
       "name": "uncooked",
       "url": "https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr"
@@ -11570,6 +11682,24 @@
       "duration_ms": 203033,
       "name": "WISH ME LUCK",
       "url": "https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi"
+    },
+    {
+      "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251767,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d"
     },
     {
       "album": {

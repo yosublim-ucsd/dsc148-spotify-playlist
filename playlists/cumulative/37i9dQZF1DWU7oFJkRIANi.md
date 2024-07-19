@@ -2,7 +2,7 @@
 
 ### [Every Number One](https://open.spotify.com/playlist/37i9dQZF1DWU7oFJkRIANi)
 
-> \#1 hits from the top of the Australian charts, featuring current \#1 Sabrina Carpenter
+> \#1 hits from the top of the Australian charts, featuring current \#1 Shaboozey
 
 86 songs - 4 hr 48 min
 

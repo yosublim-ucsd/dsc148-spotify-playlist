@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: HARDY",
+  "description": "The best and latest rock and alternative. Cover: Japandroids",
   "num_followers": 9930,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAbyhCc79/dWzCx2nVVm29/aIZ8xVtw",
+  "snapshot_id": "AAAbzeL1gGleDsvb0Ywx9kJgjKDvPoK/",
   "tracks": [
+    {
+      "added_at": "2024-07-19 05:32:56",
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "duration_ms": 238988,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe"
+    },
     {
       "added_at": "2024-07-12 15:45:02",
       "album": {

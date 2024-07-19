@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:1SZMaiNHfdUuU0qZKZ6y62\">Newsboys</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 444521,
       "name": "Altar",
       "url": "https://open.spotify.com/track/0lRaOxE3ZNDEmeJzKlNdjD"
@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5NOrX7sIbqclPUxez3aO5n"
+      },
+      "artists": [
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191833,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq"
+    },
+    {
+      "album": {
         "name": "Calvary's Enough",
         "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
       },
@@ -2908,9 +2926,27 @@
           "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "date_added": "2024-06-21",
+      "date_added": "2024-07-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233586,
+      "name": "Don't Stop Praying",
+      "url": "https://open.spotify.com/track/0xe0KcrukIAROBBzkQwg5r"
+    },
+    {
+      "album": {
+        "name": "Don't Stop Praying (Acoustic)",
+        "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-07-19",
       "duration_ms": 259868,
       "name": "Don't Stop Praying (Acoustic)",
       "url": "https://open.spotify.com/track/0XHLYCJp3ztpYROWBRzmmG"
@@ -4753,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "The Good Shepherd",
+        "url": "https://open.spotify.com/album/2O83jwuM1ydrtVmRUax7W5"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264521,
+      "name": "Good Shepherd",
+      "url": "https://open.spotify.com/track/0qunForAChEb3cxRJ0KIZK"
+    },
+    {
+      "album": {
         "name": "Walk with You",
         "url": "https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV"
       },
@@ -5005,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/7vgffV0RZJhvaQ5PqBK81e"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/53P5xqwZWOPAuF68mgRD9R"
+    },
+    {
+      "album": {
         "name": "Graves",
         "url": "https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM"
       },
@@ -5136,6 +5212,24 @@
       "duration_ms": 223639,
       "name": "Hands - Radio Version",
       "url": "https://open.spotify.com/track/5YCbupYkaAOpNpWTVK7uXZ"
+    },
+    {
+      "album": {
+        "name": "Hands Of The Healer",
+        "url": "https://open.spotify.com/album/3I7LT2cBTzO65R6bGzTBPr"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258130,
+      "name": "Hands Of The Healer",
+      "url": "https://open.spotify.com/track/1JQsy5MkGA400fSEumjxWN"
     },
     {
       "album": {
@@ -5462,7 +5556,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 199236,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
@@ -5618,6 +5712,24 @@
       "duration_ms": 186213,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf"
+    },
+    {
+      "album": {
+        "name": "Highs Get Low",
+        "url": "https://open.spotify.com/album/0KC98S3aACVGZbX3Avxe1f"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Highs Get Low",
+      "url": "https://open.spotify.com/track/0kKZrM6uJlr9tU1qAuTntD"
     },
     {
       "album": {
@@ -5886,6 +5998,24 @@
       "duration_ms": 297006,
       "name": "Homeward",
       "url": "https://open.spotify.com/track/7epIKdwFC8Z1aSM8PYJckw"
+    },
+    {
+      "album": {
+        "name": "Still Waters",
+        "url": "https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232797,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
     },
     {
       "album": {
@@ -6188,6 +6318,24 @@
       "duration_ms": 269678,
       "name": "How Great Thou Art (Until That Day)",
       "url": "https://open.spotify.com/track/2gvPDTxttF9RbvCcwrtrWi"
+    },
+    {
+      "album": {
+        "name": "Worldwide Revival (Pt. 1)",
+        "url": "https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192599,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR"
     },
     {
       "album": {
@@ -10678,7 +10826,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
@@ -12702,7 +12850,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 226083,
       "name": "Somebody Prayed",
       "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
@@ -13368,7 +13516,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
@@ -14506,7 +14654,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 290600,
       "name": "These are the Days (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
@@ -15510,7 +15658,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-07-19",
       "duration_ms": 259552,
       "name": "What God Is Gonna Do",
       "url": "https://open.spotify.com/track/0YQF1BeB8otaL2AEjFimGn"

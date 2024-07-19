@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Tay Iwar
 
-233 songs - 16 hr 13 min
+234 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-01-25 |  |
 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 | 2022-05-23 | 2023-07-08 |
 | [Nairobi](https://open.spotify.com/track/64ZjngztTdU3j6G1ekJh0D) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [D3an](https://open.spotify.com/artist/7fxlgdYoZS0VKxOq9xondZ) | [International Arrivals Vol\. 4](https://open.spotify.com/album/3tHQfZUCQf5rZML0h0uFHn) | 6:23 | 2023-10-27 | 2024-05-17 |
+| [Namtaka \(feat\. Raspy & Yumbs\)](https://open.spotify.com/track/7vxmB0okc59LqbLzFmKMy4) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Namtaka \(feat\. Raspy & Yumbs\)](https://open.spotify.com/album/1w4Xrle5ZxOiBl88wVcOzV) | 4:29 | 2024-07-18 |  |
 | [Narcos](https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos](https://open.spotify.com/album/1QhZ3sBP8SEGIcYcO5Af5C) | 8:00 | 2023-10-12 | 2024-05-10 |
 | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/track/3gbDq9fLBXr6GZS1rle02N) | [DJ Kwamzy](https://open.spotify.com/artist/3hiqYAXIosBBDG9Uqxt37h), [J Slayz](https://open.spotify.com/artist/0NV4GLGLjuLWL7Il9IOOdj) | [Narcos \(feat\. J Slayz\)](https://open.spotify.com/album/04S8TIvnPg34Sj4RXHA3Q6) | 8:00 | 2024-03-14 | 2024-04-19 |
 | [Ndakhuyanza](https://open.spotify.com/track/7uVsmB4CmynqGuhVFwaZ7R) | [TY1NE](https://open.spotify.com/artist/4Cc5wSjyKdtkmQjuBLAo5B), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Ndakhuyanza](https://open.spotify.com/album/6NnMNIcJlBqAHXVTgmzf0D) | 3:13 | 2023-08-10 | 2024-02-16 |

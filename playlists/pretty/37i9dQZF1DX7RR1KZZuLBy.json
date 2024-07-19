@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 50044,
+  "num_followers": 50085,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpByPAAAAAA1XRcFT2jh7Xvn09IGGDnd",
+  "snapshot_id": "ZpmsvAAAAADGMJu8f+4SWNPGVtfRy3Ft",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "The Prodigal",
-        "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 193048,
-      "name": "The Prodigal",
-      "url": "https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
@@ -259,6 +243,22 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "The Prodigal",
+        "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 193048,
+      "name": "The Prodigal",
+      "url": "https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "GOODBYE YESTERDAY",
@@ -351,6 +335,22 @@
       "duration_ms": 298682,
       "name": "GOODBYE YESTERDAY",
       "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -457,28 +457,24 @@
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
+        "name": "PRAISES (remix)",
+        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         },
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 470880,
-      "name": "Raise a Hallelujah - Live",
-      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
+      "duration_ms": 170353,
+      "name": "PRAISES (remix)",
+      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -501,24 +497,28 @@
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
     },
     {
-      "added_at": "2024-05-31 23:59:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "PRAISES (remix)",
-        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 170353,
-      "name": "PRAISES (remix)",
-      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+      "duration_ms": 470880,
+      "name": "Raise a Hallelujah - Live",
+      "url": "https://open.spotify.com/track/0YxrPdW9NpNFtqh7Fw0rva"
     },
     {
       "added_at": "2024-07-05 00:01:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "EIGHT",
-        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 292261,
-      "name": "Bless God",
-      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
-    },
-    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "Gonna Be Good",
@@ -711,6 +695,22 @@
       "duration_ms": 183213,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "EIGHT",
+        "url": "https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 292261,
+      "name": "Bless God",
+      "url": "https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
